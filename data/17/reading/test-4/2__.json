@@ -11,6 +11,8 @@
         "contextualGuessVI": "Giáo dục có 'thúc đẩy/tiếp nhiên liệu' (fuel) 'sự tăng trưởng' (growth) 'kinh tế' (economic) 'không' (Does)?"
       },
       "phase2Annotation": {
+        "phonetic": "/fjuːəl ˌiːkəˈnɒmɪk ɡrəʊθ/",
+        "sentiment": "positive",
         "definitionEN": "To supply something (like education) that increases or stimulates the rate at which a country's economy grows.",
         "translationVI": "Thúc đẩy tăng trưởng kinh tế.",
         "relatedCollocates": [
@@ -39,6 +41,8 @@
         "contextualGuessVI": "Một 'cơ sở dữ liệu' (database) 'khổng lồ' (huge)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə hjuːdʒ ˈdeɪtəbeɪs/",
+        "sentiment": "neutral",
         "definitionEN": "A very large, structured set of data held in a computer.",
         "translationVI": "Một cơ sở dữ liệu khổng lồ.",
         "relatedCollocates": [
@@ -64,6 +68,8 @@
         "contextualGuessVI": "Đã được 'biên soạn/tổng hợp' (compiled by) 'bởi' (by) 'một nhóm' (a team)."
       },
       "phase2Annotation": {
+        "phonetic": "/kəmˈpaɪld baɪ/",
+        "sentiment": "neutral",
         "definitionEN": "To be put together or gathered from various sources by a group of people.",
         "translationVI": "Được biên soạn/tổng hợp bởi (một nhóm).",
         "relatedCollocates": [
@@ -89,6 +95,8 @@
         "contextualGuessVI": "'Khoa' (Faculty) 'Kinh tế' (of Economics)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈfæklti əv ˌiːkəˈnɒmɪks/",
+        "sentiment": "neutral",
         "definitionEN": "The department within a university that is concerned with the study of economics.",
         "translationVI": "Khoa Kinh tế.",
         "relatedCollocates": ["Faculty of (Arts)", "Faculty of (Law)"],
@@ -112,6 +120,8 @@
         "contextualGuessVI": "'Sổ' (registers) 'giáo xứ' (parish) (ghi lại sinh, tử, kết hôn)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈpærɪʃ ˈredʒɪstəz/",
+        "sentiment": "neutral",
         "definitionEN": "Official records of births, marriages, and deaths kept by a local church (parish).",
         "translationVI": "Sổ đăng ký/hộ tịch giáo xứ.",
         "relatedCollocates": [
@@ -139,6 +149,8 @@
         "contextualGuessVI": "Các cuộc 'điều tra dân số' (censuses) 'của làng' (village)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈvɪlɪdʒ ˈsensəsɪz/",
+        "sentiment": "neutral",
         "definitionEN": "Official counts or surveys of the population in a village.",
         "translationVI": "Các cuộc điều tra dân số làng.",
         "relatedCollocates": ["national census", "conduct (a census)"],
@@ -162,6 +174,8 @@
         "contextualGuessVI": "'Danh sách' (lists) 'thuế' (tax)."
       },
       "phase2Annotation": {
+        "phonetic": "/tæks lɪsts/",
+        "sentiment": "neutral",
         "definitionEN": "Official records showing who had to pay taxes and how much they owed.",
         "translationVI": "Danh sách/sổ bộ thuế.",
         "relatedCollocates": ["tax (records)", "pay (tax)"],
@@ -185,6 +199,8 @@
         "contextualGuessVI": "Các 'bản kiểm kê' (inventories) 'viết tay' (handwritten)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈhændˌrɪtn ˈɪnvəntriz/",
+        "sentiment": "neutral",
         "definitionEN": "Detailed lists of items (possessions, goods) that were written by hand.",
         "translationVI": "Các bản kiểm kê/thống kê (tài sản) viết tay.",
         "relatedCollocates": ["inventory (n)", "handwritten (adj)", "list (n)"],
@@ -206,6 +222,8 @@
         "contextualGuessVI": "'Tài sản/vật dụng' (possessions) 'cá nhân' (personal)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈpɜːsənl pəˈzeʃənz/",
+        "sentiment": "neutral",
         "definitionEN": "Items that are owned by an individual; belongings.",
         "translationVI": "Tài sản/vật dụng cá nhân.",
         "relatedCollocates": [
@@ -230,6 +248,8 @@
         "contextualGuessVI": "Những 'người đàn ông' (men) 'và' (and) 'phụ nữ' (women) 'bình thường' (ordinary)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈɔːdnri ˈwɪmɪn ənd men/",
+        "sentiment": "neutral",
         "definitionEN": "Normal people, not those who are famous, rich, or powerful.",
         "translationVI": "Những người đàn ông và phụ nữ bình thường.",
         "relatedCollocates": ["ordinary (people)", "common (people)"],
@@ -250,6 +270,8 @@
         "contextualGuessVI": "'Xuyên suốt' (across) 'ba' (three) 'thế kỷ' (centuries)."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈkrɒs θriː ˈsentʃəriz/",
+        "sentiment": "neutral",
         "definitionEN": "Spanning a period of 300 years.",
         "translationVI": "Xuyên suốt ba thế kỷ.",
         "relatedCollocates": [
@@ -273,6 +295,8 @@
         "contextualGuessVI": "Đã 'phát hiện' (discovered) 'các bản kiểm kê' (the inventories) 'trong' (in) 'kho lưu trữ' (the archives)."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪˈskʌvəd ɪn ði ˈɑːkaɪvz/",
+        "sentiment": "neutral",
         "definitionEN": "Found or located within a collection of historical documents or records.",
         "translationVI": "Phát hiện/tìm thấy trong kho lưu trữ.",
         "relatedCollocates": [
@@ -298,6 +322,8 @@
         "contextualGuessVI": "'Nắm giữ' (hold) 'câu trả lời' (the answer) 'cho' (to) 'một' (a) 'câu hỏi hóc búa/vấn đề nan giải' (conundrum)."
       },
       "phase2Annotation": {
+        "phonetic": "/həʊld ði ˈɑːnsə tu ə kəˈnʌndrəm/",
+        "sentiment": "positive",
         "definitionEN": "To contain the solution to a confusing and difficult problem or question.",
         "translationVI": "Nắm giữ câu trả lời cho một vấn đề nan giải.",
         "relatedCollocates": [
@@ -326,6 +352,8 @@
         "contextualGuessVI": "Một vấn đề nan giải 'từ lâu' (long) 'đã làm bối rối/đánh đố' (puzzled) 'các nhà kinh tế học' (economists)."
       },
       "phase2Annotation": {
+        "phonetic": "/lɒŋ ˈpʌzld ɪˈkɒnəmɪsts/",
+        "sentiment": "neutral",
         "definitionEN": "To have caused confusion or difficulty for economists over a significant period of time.",
         "translationVI": "Đã làm bối rối/đánh đố các nhà kinh tế học từ lâu.",
         "relatedCollocates": [
@@ -354,6 +382,8 @@
         "contextualGuessVI": "Sự 'thiếu' (lack) 'bằng chứng' (of evidence) 'về' (for) 'một' (a) 'mối liên hệ' (link) 'nhân quả' (causal)."
       },
       "phase2Annotation": {
+        "phonetic": "/læk əv ˈevɪdəns fɔː/",
+        "sentiment": "negative",
         "definitionEN": "The absence or insufficiency of proof or facts supporting a particular idea.",
         "translationVI": "Sự thiếu bằng chứng về.",
         "relatedCollocates": [
@@ -381,6 +411,8 @@
         "contextualGuessVI": "Một 'mối liên hệ' (link) 'nhân quả' (causal) 'giữa' (between) 'giáo dục' (education) 'và' (and) 'tăng trưởng kinh tế' (economic growth)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈkɔːzəl lɪŋk bɪˈtwiːn/",
+        "sentiment": "neutral",
         "definitionEN": "A relationship where one thing (a cause) makes another thing (an effect) happen.",
         "translationVI": "Mối liên hệ nhân quả giữa.",
         "relatedCollocates": [
@@ -409,6 +441,8 @@
         "contextualGuessVI": "Giúp chúng ta 'làm việc' (work) 'năng suất hơn' (more productively)."
       },
       "phase2Annotation": {
+        "phonetic": "/wɜːk mɔː prəˈdʌktɪvli/",
+        "sentiment": "positive",
         "definitionEN": "To do one's job in a way that produces more or achieves better results in less time.",
         "translationVI": "Làm việc năng suất hơn.",
         "relatedCollocates": ["increase (productivity)", "work (efficiently)"],
@@ -432,6 +466,8 @@
         "contextualGuessVI": "'Phát minh' (invent) 'công nghệ' (technology) 'tốt hơn' (better)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪnˈvent ˈbetə tekˈnɒlədʒi/",
+        "sentiment": "positive",
         "definitionEN": "To create new and improved tools, machines, or methods.",
         "translationVI": "Phát minh công nghệ tốt hơn.",
         "relatedCollocates": [
@@ -442,7 +478,7 @@
         "wordForms": {
           "noun": [
             { "form": "invention", "meaning": "sự phát minh" },
-            { "form": "công nghệ" }
+            { "form": "technology", "meaning": "công nghệ" }
           ],
           "verb": [{ "form": "invent", "meaning": "phát minh" }]
         }
@@ -460,6 +496,8 @@
         "contextualGuessVI": "Chắc chắn nó phải 'rất quan trọng/thiết yếu' (critical) 'cho' (for) 'tăng trưởng kinh tế' (economic growth)?"
       },
       "phase2Annotation": {
+        "phonetic": "/ˈkrɪtɪkl fɔː/",
+        "sentiment": "positive",
         "definitionEN": "Extremely important or necessary for the success or existence of something.",
         "translationVI": "Thiết yếu/quan trọng cho (tăng trưởng kinh tế).",
         "relatedCollocates": [
@@ -486,6 +524,8 @@
         "contextualGuessVI": "Nhưng, nếu bạn 'nhìn lại' (look back) 'suốt' (through) 'lịch sử' (history)..."
       },
       "phase2Annotation": {
+        "phonetic": "/lʊk bæk θruː ˈhɪstri/",
+        "sentiment": "neutral",
         "definitionEN": "To review or examine past events.",
         "translationVI": "Nhìn lại/xét lại lịch sử.",
         "relatedCollocates": [
@@ -510,6 +550,8 @@
         "contextualGuessVI": "Việc có 'tỷ lệ' (rate) 'biết chữ' (literacy) 'cao' (high) 'đã khiến' (made) 'một quốc gia' (a country) 'công nghiệp hóa' (industrialise) 'sớm hơn' (earlier)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə haɪ ˈlɪtərəsi reɪt/",
+        "sentiment": "positive",
         "definitionEN": "A high percentage of the population in a country that is able to read and write.",
         "translationVI": "Tỷ lệ biết chữ cao.",
         "relatedCollocates": [
@@ -537,6 +579,8 @@
         "contextualGuessVI": "'Công nghiệp hóa' (industrialise)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪnˈdʌstriəlaɪz/",
+        "sentiment": "neutral",
         "definitionEN": "To develop industries in a country or region on a wide scale.",
         "translationVI": "Công nghiệp hóa.",
         "relatedCollocates": [
@@ -561,6 +605,8 @@
         "contextualGuessVI": "Nước Anh chỉ có 'tỷ lệ' (rates) 'biết chữ' (literacy) 'trung bình/xoàng xĩnh' (mediocre) 'so với' (by) 'tiêu chuẩn' (standards) 'châu Âu' (European)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌmiːdiˈəʊkə/",
+        "sentiment": "negative",
         "definitionEN": "Of only average quality; not very good.",
         "translationVI": "Tầm thường, xoàng xĩnh, trung bình.",
         "relatedCollocates": ["average (synonym)", "unimpressive (synonym)"],
@@ -582,6 +628,8 @@
         "contextualGuessVI": "'So với/Theo' (by) 'tiêu chuẩn' (standards) 'châu Âu' (European)."
       },
       "phase2Annotation": {
+        "phonetic": "/baɪ ˌjʊərəˈpiːən ˈstændədz/",
+        "sentiment": "neutral",
         "definitionEN": "When judged or measured in comparison to other countries in Europe.",
         "translationVI": "Theo/So với tiêu chuẩn châu Âu.",
         "relatedCollocates": ["by (modern) standards", "by (any) standards"],
@@ -602,6 +650,8 @@
         "contextualGuessVI": "Các 'phân tích' (analyses) 'liên' (cross-) 'quốc gia' (country) 'hiện đại' (Modern)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌkrɒsˈkʌntri əˈnæləsiːz/",
+        "sentiment": "neutral",
         "definitionEN": "Studies that compare data from different countries.",
         "translationVI": "Các phân tích/nghiên cứu liên quốc gia.",
         "relatedCollocates": ["cross-cultural (adj)", "analysis (n)"],
@@ -625,6 +675,8 @@
         "contextualGuessVI": "Mặc dù có 'rất nhiều' (plenty of) 'bằng chứng' (evidence) 'rằng' (that) 'tăng trưởng' (growth) 'làm tăng' (increases) 'giáo dục' (education)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈplenti əv ˈevɪdəns ðæt/",
+        "sentiment": "positive",
         "definitionEN": "A large or sufficient amount of proof or facts.",
         "translationVI": "Rất nhiều bằng chứng rằng.",
         "relatedCollocates": [
@@ -649,6 +701,8 @@
         "contextualGuessVI": "Phân tích 'tài sản/vật dụng' (belongings) 'của' (of) 'phụ nữ' (women) 'và' (and) 'đàn ông' (men)."
       },
       "phase2Annotation": {
+        "phonetic": "/bɪˈlɒŋɪŋz/",
+        "sentiment": "neutral",
         "definitionEN": "A person's movable personal possessions.",
         "translationVI": "Tài sản, vật dụng cá nhân.",
         "relatedCollocates": [
@@ -672,6 +726,8 @@
         "contextualGuessVI": "'Vào lúc' (at) 'kết hôn' (marriage), 'tái hôn' (remarriage) 'và' (and) 'qua đời' (death)."
       },
       "phase2Annotation": {
+        "phonetic": "/ət ˈmærɪdʒ ˌriːˈmærɪdʒ ənd deθ/",
+        "sentiment": "neutral",
         "definitionEN": "At the specific life events of getting married, getting married again, and dying.",
         "translationVI": "Vào lúc kết hôn, tái hôn và qua đời.",
         "relatedCollocates": ["life events (n)"],
@@ -696,6 +752,8 @@
         "contextualGuessVI": "'Da' (skins) 'của con lửng' (badger)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈbædʒə skɪnz/",
+        "sentiment": "neutral",
         "definitionEN": "The pelts or hides of the badger, a burrowing mammal.",
         "translationVI": "Da lửng.",
         "relatedCollocates": ["animal skins", "fur (n)"],
@@ -719,6 +777,8 @@
         "contextualGuessVI": "'Máy may' (sewing machines)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈsəʊɪŋ məˈʃiːnz/",
+        "sentiment": "neutral",
         "definitionEN": "Machines used for stitching cloth and other materials together with thread.",
         "translationVI": "Máy may.",
         "relatedCollocates": ["sew (v)", "needle (n)", "thread (n)"],
@@ -742,6 +802,8 @@
         "contextualGuessVI": "'Áo nịt ngực/áo lót thân trên' (bodices) 'màu đỏ tươi' (scarlet)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈskɑːlət ˈbɒdɪsɪz/",
+        "sentiment": "neutral",
         "definitionEN": "The upper part of a woman's dress, bright red in color.",
         "translationVI": "Áo nịt ngực/thân trên màu đỏ tươi.",
         "relatedCollocates": ["scarlet (adj)", "bodice (n)", "clothing (n)"],
@@ -763,6 +825,8 @@
         "contextualGuessVI": "'Toàn bộ' (entire) 'tài sản/của cải' (goods) 'trần thế/trên đời' (worldly) 'của dân làng' (villagers')."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪnˈtaɪə ˈwɜːldli ɡʊdz/",
+        "sentiment": "neutral",
         "definitionEN": "All the personal possessions that a person owns.",
         "translationVI": "Toàn bộ của cải/tài sản trần thế.",
         "relatedCollocates": [
@@ -787,6 +851,8 @@
         "contextualGuessVI": "'Thiết bị/dụng cụ' (equipment) 'nông nghiệp' (agricultural)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌæɡrɪˈkʌltʃərəl ɪˈkwɪpmənt/",
+        "sentiment": "neutral",
         "definitionEN": "Tools and machinery used in farming (e.g., plows, sickles).",
         "translationVI": "Thiết bị/dụng cụ nông nghiệp.",
         "relatedCollocates": ["farm (equipment)", "craft (tools)"],
@@ -810,6 +876,8 @@
         "contextualGuessVI": "'Dụng cụ' (tools) 'thủ công' (craft)."
       },
       "phase2Annotation": {
+        "phonetic": "/krɑːft tuːlz/",
+        "sentiment": "neutral",
         "definitionEN": "Tools used for skilled manual work, like woodworking, weaving, or blacksmithing.",
         "translationVI": "Dụng cụ thủ công.",
         "relatedCollocates": ["handicraft (n)", "tools (n)", "artisan (n)"],
@@ -833,6 +901,8 @@
         "contextualGuessVI": "'Tiết lộ/cho thấy' (reveal) 'các hoạt động' (activities) 'kinh tế' (economic)."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈviːl ˌiːkəˈnɒmɪk ækˈtɪvətiz/",
+        "sentiment": "neutral",
         "definitionEN": "To show or make known the ways in which people were making money or producing goods.",
         "translationVI": "Tiết lộ/cho thấy các hoạt động kinh tế.",
         "relatedCollocates": [
@@ -861,6 +931,8 @@
         "contextualGuessVI": "'Các đồ vật' (objects) 'liên quan đến' (related) 'giáo dục' (education) 'như' (like) 'bút' (pens) 'và' (and) 'bảng đá' (slates)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌedʒuˈkeɪʃən rɪˈleɪtɪd ˈɒbdʒɪkts/",
+        "sentiment": "neutral",
         "definitionEN": "Items that are connected with the process of learning, reading, and writing.",
         "translationVI": "Các đồ vật liên quan đến giáo dục.",
         "relatedCollocates": ["books (n)", "pens (n)", "slates (n)"],
@@ -884,6 +956,8 @@
         "contextualGuessVI": "'Tài sản' (assets) 'và' (and) 'các khoản nợ' (debts)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈæsets ənd dets/",
+        "sentiment": "neutral",
         "definitionEN": "The total value of things a person owns (assets) and the total amount of money they owe (debts).",
         "translationVI": "Tài sản và nợ.",
         "relatedCollocates": [
@@ -911,6 +985,8 @@
         "contextualGuessVI": "'Chữ ký' (signatures) '... 'chỉ ra/cho thấy' (indicate) 'các cấp độ' (levels) 'biết chữ' (literacy) 'và' (and) 'biết tính toán' (numeracy)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈɪndɪkeɪt ˈlɪtərəsi ənd ˈnjuːmərəsi ˈlevlz/",
+        "sentiment": "neutral",
         "definitionEN": "To show or be a sign of how well people could read/write (literacy) and do basic math (numeracy).",
         "translationVI": "Chỉ ra/cho thấy mức độ biết chữ và biết tính toán.",
         "relatedCollocates": [
@@ -940,6 +1016,8 @@
         "contextualGuessVI": "'Hồ sơ' (records) 'tòa án' (court) 'tiết lộ' (reveal) 'những trở ngại' (obstacles) 'đã kìm hãm' (that stifled) 'công nghiệp' (industry)."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈkɔːd ˈɒbstəklz/",
+        "sentiment": "negative",
         "definitionEN": "To make an official note of difficulties or things that block progress.",
         "translationVI": "Ghi lại/cho thấy những trở ngại.",
         "relatedCollocates": [
@@ -968,6 +1046,8 @@
         "contextualGuessVI": "Những trở ngại 'đã kìm hãm/làm nghẹt thở' (stifled) 'nền công nghiệp/hoạt động kinh doanh' (industry)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈstaɪfld/",
+        "sentiment": "negative",
         "definitionEN": "To prevent something from developing or growing; to suppress or suffocate.",
         "translationVI": "Kìm hãm, làm nghẹt thở.",
         "relatedCollocates": [
@@ -992,6 +1072,8 @@
         "contextualGuessVI": "Các 'nghiên cứu' (studies) 'trước đây' (Previous)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈpriːviəs ˈstʌdiz/",
+        "sentiment": "neutral",
         "definitionEN": "Research or analyses that were conducted in the past.",
         "translationVI": "Các nghiên cứu trước đây.",
         "relatedCollocates": ["earlier (studies)", "past (research)"],
@@ -1013,6 +1095,8 @@
         "contextualGuessVI": "Hoặc 'sự nhập học' (enrolment) 'ở trường' (school) (tỷ lệ nhập học)."
       },
       "phase2Annotation": {
+        "phonetic": "/skuːl ɪnˈrəʊlmənt/",
+        "sentiment": "neutral",
         "definitionEN": "The act of officially joining or registering for a school.",
         "translationVI": "Sự nhập học, tỷ lệ nhập học.",
         "relatedCollocates": ["enrol (in school)", "enrolment (rates)"],
@@ -1034,6 +1118,8 @@
         "contextualGuessVI": "Cung cấp 'nhiều' (multiple) 'chỉ số/dấu hiệu' (indicators) 'cho' (for) 'cùng' (the same) 'các cá nhân' (individuals)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈmʌltɪpl ˈɪndɪkeɪtəz/",
+        "sentiment": "neutral",
         "definitionEN": "Many different signs or measurements that show what something is like.",
         "translationVI": "Nhiều chỉ số.",
         "relatedCollocates": ["several (indicators)", "an indicator (of sth)"],
@@ -1055,6 +1141,8 @@
         "contextualGuessVI": "'Sự tái cấu trúc/dựng lại' (reconstruction) 'nhân khẩu học' (demographic) 'đầy đủ' (full)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌdeməˈɡræfɪk ˌriːkənˈstrʌkʃən/",
+        "sentiment": "neutral",
         "definitionEN": "The process of re-creating or mapping out the historical structure of a population (e.g., births, deaths, marriages, family sizes).",
         "translationVI": "Sự tái cấu trúc/dựng lại (bức tranh) nhân khẩu học.",
         "relatedCollocates": [
@@ -1081,6 +1169,8 @@
         "contextualGuessVI": "Cuộc đời của 'các cá nhân' (Individual lives) 'đã mở ra/hiện ra' (have unfolded) 'trước mắt họ' (before their eyes)."
       },
       "phase2Annotation": {
+        "phonetic": "/ʌnˈfəʊldɪd bɪˈfɔː ðeər aɪz/",
+        "sentiment": "neutral",
         "definitionEN": "An idiom meaning that something (like a story or a life) has been revealed or developed as they watched.",
         "translationVI": "Mở ra/hiện ra/diễn ra trước mắt họ.",
         "relatedCollocates": ["unfold (v)", "a story (unfolds)"],
@@ -1101,6 +1191,8 @@
         "contextualGuessVI": "Hai người 'đã bị' (were) 'khiển trách/quở phạt' (chastised) 'vào năm 1707' (in 1707) 'vì' (for) 'đọc sách' (reading books) 'trong nhà thờ' (in church)."
       },
       "phase2Annotation": {
+        "phonetic": "/tʃæˈstaɪzd/",
+        "sentiment": "negative",
         "definitionEN": "To criticize someone severely; to reprimand.",
         "translationVI": "Khiển trách, quở phạt, mắng mỏ.",
         "relatedCollocates": [
@@ -1125,6 +1217,8 @@
         "contextualGuessVI": "Đọc sách 'thay vì' (instead of) 'nghe' (listening to) 'bài thuyết giáo/giảng đạo' (the sermon)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈlɪsnɪŋ tu ðə ˈsɜːmən/",
+        "sentiment": "neutral",
         "definitionEN": "To pay attention to the talk on a religious or moral subject given by a priest or pastor during a church service.",
         "translationVI": "Nghe giảng đạo, nghe thuyết giáo.",
         "relatedCollocates": ["give (a sermon)", "church (sermon)"],
@@ -1146,6 +1240,8 @@
         "contextualGuessVI": "Họ 'đang tiếp tục' (were continuing) 'phát triển' (to develop) 'kỹ năng đọc' (their reading skills) 'của mình' (their)."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪˈveləp ðeə ˈriːdɪŋ skɪlz/",
+        "sentiment": "positive",
         "definitionEN": "To improve one's ability to read and understand text.",
         "translationVI": "Phát triển kỹ năng đọc.",
         "relatedCollocates": [
@@ -1174,6 +1270,8 @@
         "contextualGuessVI": "(Mặc dù không có trong câu, 'a steep learning curve' (đường cong học tập dốc) là một cụm từ liên quan thường gặp, nghĩa là 'giai đoạn học hỏi khó khăn ban đầu')."
       },
       "phase2Annotation": {
+        "phonetic": "/ə stiːp ˈlɜːnɪŋ kɜːv/",
+        "sentiment": "neutral",
         "definitionEN": "A situation in which someone has to learn a lot of difficult things in a short period of time.",
         "translationVI": "Giai đoạn học hỏi ban đầu (khó khăn, vất vả).",
         "relatedCollocates": ["a (steep) curve", "learning (process)"],
@@ -1196,6 +1294,8 @@
         "contextualGuessVI": "Một người 'đã bị' (was) 'khiển trách/khiển phạt' (reprimanded) 'bởi' (by) 'phường hội' (guild) 'thợ dệt' (weavers') 'địa phương' (local)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈreprɪmɑːndɪd/",
+        "sentiment": "negative",
         "definitionEN": "To be told officially that one's behavior is wrong and unacceptable; to rebuke.",
         "translationVI": "Bị khiển trách, bị kỷ luật.",
         "relatedCollocates": [
@@ -1221,6 +1321,8 @@
         "contextualGuessVI": "Vì 'dệt' (weaving) 'vải' (cloth) 'và' (and) 'chải' (combing) 'lông cừu' (wool)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈwiːvɪŋ klɒθ/",
+        "sentiment": "neutral",
         "definitionEN": "The craft or action of forming fabric (cloth) by interlacing threads.",
         "translationVI": "Dệt vải.",
         "relatedCollocates": [
@@ -1250,6 +1352,8 @@
         "contextualGuessVI": "'Chải' (combing) 'lông cừu' (wool) (để chuẩn bị sợi)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈkəʊmɪŋ wʊl/",
+        "sentiment": "neutral",
         "definitionEN": "The process of preparing wool fibers for spinning by brushing them with combs.",
         "translationVI": "Chải len/lông cừu.",
         "relatedCollocates": ["comb (v)", "wool (n)", "spinning (related)"],
@@ -1274,6 +1378,8 @@
         "contextualGuessVI": "'Trái với/đi ngược lại' (counter to) 'quy định/pháp lệnh' (the ordinance) 'của phường hội' (the guild)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈkaʊntə tu ðə ɡɪld ˈɔːdɪnəns/",
+        "sentiment": "negative",
         "definitionEN": "In opposition to or against the official rule or regulation of the craft association (guild).",
         "translationVI": "Trái với/ngược với quy định của phường hội.",
         "relatedCollocates": [
@@ -1298,6 +1404,8 @@
         "contextualGuessVI": "Nhận 'những công việc' (taking jobs) 'được dành riêng cho' (reserved for) 'các thành viên' (members) 'phường hội' (guild) 'là nam giới' (male)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈteɪkɪŋ dʒɒbz rɪˈzɜːvd fɔː/",
+        "sentiment": "neutral",
         "definitionEN": "Doing work that was officially kept only for a specific group of people (male guild members).",
         "translationVI": "Làm những công việc vốn dành riêng cho.",
         "relatedCollocates": [
@@ -1325,6 +1433,8 @@
         "contextualGuessVI": "Bà ta 'bị triệu tập' (was summoned) 'ra trước' (before) 'tòa án' (the court) 'của phường hội' (the guild)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈsʌmənd bɪˈfɔː/",
+        "sentiment": "negative",
         "definitionEN": "To be officially ordered to appear in front of a court or authoritative body.",
         "translationVI": "Bị triệu tập ra trước (tòa).",
         "relatedCollocates": ["summon (v)", "appear (before the court)"],
@@ -1346,6 +1456,8 @@
         "contextualGuessVI": "'Nộp' (pay) 'một khoản tiền phạt' (a fine) 'tương đương với' (equivalent to) 'một phần ba' (one third) 'lương' (wage) 'hàng năm' (annual) 'của người hầu' (of a servant's)."
       },
       "phase2Annotation": {
+        "phonetic": "/peɪ ə faɪn ɪˈkwɪvələnt tuː/",
+        "sentiment": "negative",
         "definitionEN": "To pay a financial penalty that is equal in value to another amount.",
         "translationVI": "Nộp phạt một khoản tương đương với.",
         "relatedCollocates": [
@@ -1374,6 +1486,8 @@
         "contextualGuessVI": "'Lương' (wage) 'hàng năm' (annual) 'của một người hầu' (of a servant's)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈsɜːvənts ˈænjuəl weɪdʒ/",
+        "sentiment": "neutral",
         "definitionEN": "The total amount of money paid to a domestic worker over one year.",
         "translationVI": "Lương/tiền công hàng năm của người hầu.",
         "relatedCollocates": ["annual (salary)", "wage (n)", "servant (n)"],
@@ -1398,6 +1512,8 @@
         "contextualGuessVI": "Đó là 'một hành động' (an act) 'thách thức/bất tuân' (of defiance) 'nhỏ bé' (small) 'so với' (by) 'tiêu chuẩn' (standards) 'ngày nay' (today's)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə smɔːl ækt əv dɪˈfaɪəns/",
+        "sentiment": "neutral",
         "definitionEN": "A minor action that shows open resistance or bold disobedience.",
         "translationVI": "Một hành động thách thức/bất tuân nhỏ.",
         "relatedCollocates": [
@@ -1426,6 +1542,8 @@
         "contextualGuessVI": "Phản ánh thời kỳ mà luật pháp 'quy định/kiểm soát' (regulated) 'sự tiếp cận' (people's access to) 'của người dân' (people's) 'với' (to) 'thị trường lao động' (labour markets)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈreɡjuleɪtɪd ˈpiːplz ˈækses tuː/",
+        "sentiment": "negative",
         "definitionEN": "To control or manage who was allowed to participate in the job market, often through laws.",
         "translationVI": "Quy định/kiểm soát sự tiếp cận của người dân với.",
         "relatedCollocates": [
@@ -1454,6 +1572,8 @@
         "contextualGuessVI": "'Thị trường' (markets) 'lao động' (labour)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈleɪbə ˈmɑːkɪts/",
+        "sentiment": "neutral",
         "definitionEN": "The system in which employers compete to hire workers and workers compete for jobs.",
         "translationVI": "Thị trường lao động.",
         "relatedCollocates": ["job market (synonym)", "access (to)"],
@@ -1477,6 +1597,8 @@
         "contextualGuessVI": "'Sự thống trị' (The dominance) 'của' (of) 'các phường hội' (guilds)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈdɒmɪnəns əv/",
+        "sentiment": "negative",
         "definitionEN": "The power, influence, and control that guilds had over others.",
         "translationVI": "Sự thống trị/thế áp đảo của (các phường hội).",
         "relatedCollocates": ["economic (dominance)", "dominate (v)"],
@@ -1498,6 +1620,8 @@
         "contextualGuessVI": "Cũng 'kìm hãm' (held back) 'ngay cả' (even) 'sự đổi mới' (innovation) 'công nghiệp' (industrial) 'đơn giản nhất' (the simplest)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪnˈdʌstriəl ˌɪnəˈveɪʃən/",
+        "sentiment": "positive",
         "definitionEN": "The creation of new methods, ideas, or products related to industry.",
         "translationVI": "Đổi mới/cải tiến công nghiệp.",
         "relatedCollocates": [
@@ -1523,6 +1647,8 @@
         "contextualGuessVI": "'Giai đoạn' (phase) 'thu thập' (gathering) 'dữ liệu' (data)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈdeɪtə ˈɡæðərɪŋ feɪz/",
+        "sentiment": "neutral",
         "definitionEN": "The period of time when information is being collected.",
         "translationVI": "Giai đoạn thu thập dữ liệu.",
         "relatedCollocates": [
@@ -1551,6 +1677,8 @@
         "contextualGuessVI": "Là 'giữ' (hold) 'sự giàu có/tài sản' (wealth) 'không đổi' (constant)."
       },
       "phase2Annotation": {
+        "phonetic": "/həʊld welθ ˈkɒnstənt/",
+        "sentiment": "neutral",
         "definitionEN": "A scientific method of keeping the level of wealth the same (unchanged) while analyzing the effect of another variable (like education).",
         "translationVI": "Giữ (cho) sự giàu có/tài sản không đổi.",
         "relatedCollocates": [
@@ -1576,6 +1704,8 @@
         "contextualGuessVI": "Liên quan đến 'việc trồng trọt' (the cultivation of) 'các loại cây trồng mới' (new crops)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌkʌltɪˈveɪʃən əv/",
+        "sentiment": "neutral",
         "definitionEN": "The process of preparing land and growing new types of plants for food.",
         "translationVI": "Việc trồng trọt/canh tác (các loại cây trồng mới).",
         "relatedCollocates": ["cultivate (v)", "crop (n)", "farming (n)"],
@@ -1600,6 +1730,8 @@
         "contextualGuessVI": "Hoặc 'sự tiếp nhận/áp dụng' (the adoption of) 'các đổi mới' (innovations) 'công nghiệp' (industrial)."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈdɒpʃən əv/",
+        "sentiment": "neutral",
         "definitionEN": "The act of starting to use a new method, idea, or product.",
         "translationVI": "Sự tiếp nhận/áp dụng (các đổi mới).",
         "relatedCollocates": [
@@ -1628,6 +1760,8 @@
         "contextualGuessVI": "Giáo dục đã giúp người ta 'tham gia/tương tác' (engage) 'nhiều hơn' (more) 'với' (with) 'các hoạt động' (activities) 'năng suất' (productive) 'và' (and) 'đổi mới' (innovative)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪnˈɡeɪdʒ mɔː wɪð/",
+        "sentiment": "positive",
         "definitionEN": "To become more involved or participate more in something.",
         "translationVI": "Tham gia/tương tác nhiều hơn với.",
         "relatedCollocates": ["engage (in an activity)", "get involved (with)"],
@@ -1648,6 +1782,8 @@
         "contextualGuessVI": "Các 'hoạt động' (activities) 'năng suất' (productive) 'và' (and) 'đổi mới' (innovative)."
       },
       "phase2Annotation": {
+        "phonetic": "/prəˈdʌktɪv ənd ˈɪnəvətɪv ækˈtɪvətiz/",
+        "sentiment": "positive",
         "definitionEN": "Actions or tasks that create valuable goods/services (productive) and introduce new ideas (innovative).",
         "translationVI": "Các hoạt động năng suất và đổi mới.",
         "relatedCollocates": [
@@ -1675,6 +1811,8 @@
         "contextualGuessVI": "Có phải là 'việc sở hữu sách' (book ownership) 'không' (Was it)?"
       },
       "phase2Annotation": {
+        "phonetic": "/bʊk ˈəʊnəʃɪp/",
+        "sentiment": "neutral",
         "definitionEN": "The state of having or owning books.",
         "translationVI": "Việc/Sự sở hữu sách.",
         "relatedCollocates": ["own (books)", "ownership (n)"],
@@ -1698,6 +1836,8 @@
         "contextualGuessVI": "'Số năm' (years) 'đi học' (of schooling)?"
       },
       "phase2Annotation": {
+        "phonetic": "/jɪəz əv ˈskuːlɪŋ/",
+        "sentiment": "neutral",
         "definitionEN": "The number of years a person has spent attending school; level of education.",
         "translationVI": "Số năm đi học.",
         "relatedCollocates": ["level of (education)", "schooling (n)"],
@@ -1721,6 +1861,8 @@
         "contextualGuessVI": "Có 'một mức' (a level) 'ngưỡng' (threshold) 'hay không' (Was there) – 'một điểm bùng phát' (a tipping point)?"
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈθreʃhəʊld ˈlevl/",
+        "sentiment": "neutral",
         "definitionEN": "The minimum level or point at which something starts to happen or take effect.",
         "translationVI": "Một mức/cấp độ ngưỡng.",
         "relatedCollocates": [
@@ -1748,6 +1890,8 @@
         "contextualGuessVI": "Một 'điểm bùng phát' (a tipping point)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈtɪpɪŋ pɔɪnt/",
+        "sentiment": "neutral",
         "definitionEN": "The point at which a series of small changes becomes significant enough to cause a larger, more important change.",
         "translationVI": "Điểm bùng phát, bước ngoặt.",
         "relatedCollocates": [
@@ -1771,6 +1915,8 @@
         "contextualGuessVI": "Cần 'đạt được' (to be reached) 'để' (to) 'ảnh hưởng đến' (affect) 'thành quả/hiệu suất' (performance) 'kinh tế' (economic)?"
       },
       "phase2Annotation": {
+        "phonetic": "/əˈfekt ˌiːkəˈnɒmɪk pəˈfɔːməns/",
+        "sentiment": "neutral",
         "definitionEN": "To have an influence on or cause a change in how well an economy is doing.",
         "translationVI": "Ảnh hưởng đến/tác động đến thành quả/hiệu suất kinh tế.",
         "relatedCollocates": [
@@ -1796,6 +1942,8 @@
         "contextualGuessVI": "Mối quan hệ này 'không hề' (far from) 'đơn giản/rõ ràng' (straightforward)."
       },
       "phase2Annotation": {
+        "phonetic": "/fɑː frəm ˌstreɪtˈfɔːwəd/",
+        "sentiment": "neutral",
         "definitionEN": "Not simple, easy, or clear; very complicated.",
         "translationVI": "Không hề đơn giản/rõ ràng (rất phức tạp).",
         "relatedCollocates": [
@@ -1822,6 +1970,8 @@
         "contextualGuessVI": "Là 'một phòng thí nghiệm' (a laboratory) 'tuyệt vời' (excellent) 'để' (for) 'kiểm chứng' (testing) 'các lý thuyết' (theories) 'về' (of)..."
       },
       "phase2Annotation": {
+        "phonetic": "/ən ˈeksələnt ləˈbɒrətri fɔː/",
+        "sentiment": "positive",
         "definitionEN": "A perfect place, region, or situation for conducting tests or research on theories.",
         "translationVI": "Một phòng thí nghiệm (môi trường) tuyệt vời để.",
         "relatedCollocates": ["a perfect (place for)", "testing (theories)"],
@@ -1842,6 +1992,8 @@
         "contextualGuessVI": "'Kiểm chứng' (testing) 'các lý thuyết' (theories) 'về' (of) 'tăng trưởng kinh tế' (economic growth)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈtestɪŋ ˈθɪəriz əv/",
+        "sentiment": "neutral",
         "definitionEN": "To examine or experiment on ideas about how economies grow to see if they are true.",
         "translationVI": "Kiểm chứng các lý thuyết về (tăng trưởng kinh tế).",
         "relatedCollocates": ["test (a theory)", "economic (theory)"],
@@ -1866,6 +2018,8 @@
         "contextualGuessVI": "Tỷ lệ biết chữ... cao 'ấy vậy mà' (and yet) 'khu vực' (the region) 'vẫn' (remained) 'nghèo' (poor)."
       },
       "phase2Annotation": {
+        "phonetic": "/ðə ˈriːdʒən rɪˈmeɪnd pɔː/",
+        "sentiment": "negative",
         "definitionEN": "The area continued to be economically unsuccessful or lacking in wealth.",
         "translationVI": "Khu vực (đó) vẫn nghèo.",
         "relatedCollocates": [
@@ -1892,6 +2046,8 @@
         "contextualGuessVI": "'Các hiệp hội' (associations) 'thương gia/lái buôn' (merchant)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈmɜːtʃənt əˌsəʊsiˈeɪʃənz/",
+        "sentiment": "neutral",
         "definitionEN": "Organized groups or bodies of traders and businessmen.",
         "translationVI": "Các hiệp hội/phường hội thương gia.",
         "relatedCollocates": [
@@ -1919,6 +2075,8 @@
         "contextualGuessVI": "Và 'ban hành luật' (legislated) 'chống lại' (against) 'bất cứ điều gì' (anything) 'làm suy yếu/phá hoại' (that undermined) 'sự độc quyền' (their monopolies) 'của họ' (their)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈledʒɪsleɪtɪd əˈɡenst/",
+        "sentiment": "negative",
         "definitionEN": "To make or pass laws that oppose or forbid something.",
         "translationVI": "Lập pháp/ban hành luật chống lại (bất cứ điều gì).",
         "relatedCollocates": [
@@ -1944,6 +2102,8 @@
         "contextualGuessVI": "Thứ 'làm suy yếu/phá hoại' (undermined) 'sự độc quyền' (their monopolies) 'của họ' (their)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌʌndəˈmaɪnd ðeə məˈnɒpəliz/",
+        "sentiment": "negative",
         "definitionEN": "To weaken or damage the exclusive control that they had over a trade or industry.",
         "translationVI": "Làm suy yếu/phá hoại sự độc quyền của họ.",
         "relatedCollocates": [
@@ -1969,6 +2129,8 @@
         "contextualGuessVI": "Các phường hội 'đã ngăn chặn' (blocked) 'sự di cư' (migration) 'lao động' (labour)."
       },
       "phase2Annotation": {
+        "phonetic": "/blɒkt ˈleɪbə maɪˈɡreɪʃən/",
+        "sentiment": "negative",
         "definitionEN": "To prevent workers from moving from one area to another to find work.",
         "translationVI": "Ngăn chặn sự di cư/di dân lao động.",
         "relatedCollocates": [
@@ -1997,6 +2159,8 @@
         "contextualGuessVI": "Và 'chống lại' (resisted) 'những thay đổi' (changes) 'có thể' (that might) 'làm giảm' (reduce) 'ảnh hưởng' (their influence) 'của họ' (their)."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈzɪstɪd ˈtʃeɪndʒɪz/",
+        "sentiment": "negative",
         "definitionEN": "To fight against or oppose new methods or ideas.",
         "translationVI": "Chống lại/kháng cự lại những thay đổi.",
         "relatedCollocates": [
@@ -2025,6 +2189,8 @@
         "contextualGuessVI": "'Những phát hiện' (findings) 'ban đầu' (Early) 'cho thấy' (suggest) 'rằng' (that)..."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈɜːli ˈfaɪndɪŋz səˈdʒest ðæt/",
+        "sentiment": "neutral",
         "definitionEN": "Initial results or conclusions from a study indicate that...",
         "translationVI": "Những phát hiện/kết quả ban đầu cho thấy rằng.",
         "relatedCollocates": [
@@ -2050,6 +2216,8 @@
         "contextualGuessVI": "'Những lợi ích' (benefits) 'tiềm năng' (potential) 'của' (of) 'giáo dục' (education) 'cho' (for) 'nền kinh tế' (the economy) 'có thể bị' (can be) 'kìm hãm' (held back) 'bởi' (by)..."
       },
       "phase2Annotation": {
+        "phonetic": "/pəˈtenʃəl ˈbenɪfɪts əv/",
+        "sentiment": "positive",
         "definitionEN": "The possible advantages or positive effects of something.",
         "translationVI": "Các lợi ích tiềm năng của.",
         "relatedCollocates": [
@@ -2075,6 +2243,8 @@
         "contextualGuessVI": "Và điều này 'có' (has) 'những hàm ý/hệ quả' (implications) 'cho' (for) 'ngày nay' (today)."
       },
       "phase2Annotation": {
+        "phonetic": "/həz ˌɪmplɪˈkeɪʃənz fɔː/",
+        "sentiment": "neutral",
         "definitionEN": "To have likely consequences or effects on something in the present.",
         "translationVI": "Có/mang những hàm ý/hệ quả đối với.",
         "relatedCollocates": ["implications (for)", "have (consequences)"],
@@ -2096,6 +2266,8 @@
         "contextualGuessVI": "Cải thiện giáo dục ở 'các nước' (countries) 'đang phát triển' (developing)."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪˈveləpɪŋ ˈkʌntriz/",
+        "sentiment": "neutral",
         "definitionEN": "Poorer countries that are seeking to become more advanced economically and socially.",
         "translationVI": "Các nước đang phát triển.",
         "relatedCollocates": [
@@ -2120,6 +2292,8 @@
         "contextualGuessVI": "Chi tiêu này có thể 'thất bại trong việc mang lại' (fail to deliver) 'tăng trưởng kinh tế' (economic growth) 'nếu' (if) 'các hạn chế' (restrictions) 'ngăn chặn' (block) 'người dân' (people)..."
       },
       "phase2Annotation": {
+        "phonetic": "/feɪl tə dɪˈlɪvə/",
+        "sentiment": "negative",
         "definitionEN": "To not succeed in providing or achieving the promised or expected result.",
         "translationVI": "Thất bại trong việc mang lại (tăng trưởng kinh tế).",
         "relatedCollocates": [
@@ -2147,6 +2321,8 @@
         "contextualGuessVI": "Ngăn cản mọi người sử dụng giáo dục của họ 'theo những cách' (in... ways) 'mang lại năng suất/hiệu quả' (productive) 'về mặt kinh tế' (economically)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈnɒmɪkəli prəˈdʌktɪv weɪz/",
+        "sentiment": "positive",
         "definitionEN": "Methods or activities that contribute positively to the economy and create wealth.",
         "translationVI": "Những cách thức/phương thức (làm việc) hiệu quả về mặt kinh tế.",
         "relatedCollocates": [
@@ -2171,6 +2347,8 @@
         "contextualGuessVI": "Nếu 'các thể chế/tổ chức' (institutions) 'kinh tế' (economic) 'được thiết lập' (are set up) 'một cách tồi tệ/yếu kém' (poorly)..."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈnɒmɪk ˌɪnstɪˈtjuːʃənz/",
+        "sentiment": "neutral",
         "definitionEN": "The rules, laws, and organizations (like banks, guilds, property rights) that govern economic activity.",
         "translationVI": "Các thể chế/thiết chế kinh tế.",
         "relatedCollocates": [
@@ -2195,6 +2373,8 @@
         "contextualGuessVI": "Được 'thiết lập' (set up) 'một cách yếu kém/tồi tệ' (poorly)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈpɔːli set ʌp/",
+        "sentiment": "negative",
         "definitionEN": "To be organized or established in an ineffective or bad way.",
         "translationVI": "Được thiết lập một cách yếu kém/tồi.",
         "relatedCollocates": ["badly (organized)", "ineffective (adj)"],
@@ -2216,6 +2396,8 @@
         "contextualGuessVI": "Giáo dục 'không thể' (can’t) 'dẫn đến' (lead to) 'sự tăng trưởng' (growth)."
       },
       "phase2Annotation": {
+        "phonetic": "/liːd tə ɡrəʊθ/",
+        "sentiment": "positive",
         "definitionEN": "To cause or result in an increase (e.g., in the economy).",
         "translationVI": "Dẫn đến/tạo ra sự tăng trưởng.",
         "relatedCollocates": [
@@ -2241,6 +2423,8 @@
         "contextualGuessVI": "'Tập trung' (focus on) 'vào' (on) 'các cá nhân' (individuals)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈfəʊkəs ɒn ˌɪndɪˈvɪdʒuəlz/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'focus on individuals' with 'follow the same people' and 'following... different people'.",
         "translationVI": "Trọng tâm: So sánh 'tập trung vào các cá nhân' với 'theo dõi cùng một người' và 'theo dõi... những người khác nhau'.",
         "relatedCollocates": [
@@ -2262,6 +2446,8 @@
         "contextualGuessVI": "'Thu nhập' (income) 'khá' (fairly) 'ổn định/nhất quán' (consistent)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈfeəli kənˈsɪstənt ˈɪnkʌm/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'fairly consistent income' with 'hold wealth constant' and 'same level of wealth'.",
         "translationVI": "Trọng tâm: So sánh 'thu nhập khá ổn định' với 'giữ tài sản không đổi' và 'cùng mức tài sản'.",
         "relatedCollocates": [
@@ -2282,6 +2468,8 @@
         "contextualGuessVI": "'Các nguồn' (sources) 'mà' (that) 'cơ sở dữ liệu' (the database) 'được' (has been) 'biên soạn/tổng hợp từ' (compiled from)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈsɔːsɪz kəmˈpaɪld frɒm/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'sources' with 'court records, guild ledgers, parish registers, village censuses, tax lists'.",
         "translationVI": "Trọng tâm: So sánh 'các nguồn' với 'hồ sơ tòa án, sổ sách phường hội, sổ giáo xứ, điều tra dân số làng, danh sách thuế'.",
         "relatedCollocates": [
@@ -2306,6 +2494,8 @@
         "contextualGuessVI": "Một 'câu chuyện/báo cáo' (an account) 'về' (of) 'sự từ chối' (refusal) 'tuân theo' (to obey) 'một mệnh lệnh' (an order) 'của một cá nhân' (one individual's)."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈfjuːzəl tu əˈbeɪ ən ˈɔːdə/",
+        "sentiment": "negative",
         "definitionEN": "Focus: Compares 'refusal to obey an order' with 'chastised', 'reprimanded', 'counter to the guild ordinance', and 'act of defiance'.",
         "translationVI": "Trọng tâm: So sánh 'từ chối tuân theo mệnh lệnh' với 'bị quở phạt', 'bị khiển trách', 'trái với quy định của phường hội', và 'hành động thách thức'.",
         "relatedCollocates": [
@@ -2328,6 +2518,8 @@
         "contextualGuessVI": "Đề cập đến 'một khu vực' (a region) 'đặc biệt' (particularly) 'phù hợp' (suited) 'cho' (to) 'nghiên cứu' (research)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈriːdʒən pəˈtɪkjələli ˈsuːtɪd/",
+        "sentiment": "positive",
         "definitionEN": "Focus: Compares 'a region particularly suited' with 'an excellent laboratory for testing theories'.",
         "translationVI": "Trọng tâm: So sánh 'khu vực đặc biệt phù hợp' với 'một phòng thí nghiệm tuyệt vời để kiểm chứng lý thuyết'.",
         "relatedCollocates": [
@@ -2348,6 +2540,8 @@
         "contextualGuessVI": "Các 'ví dụ' (examples) 'về' (of) 'các món đồ' (the items) 'được bao gồm' (included) 'trong' (in) 'một danh sách' (a list) 'tài sản cá nhân' (of personal possessions)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈaɪtəmz ɪnˈkluːdɪd ɪn ə lɪst/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'items included in a list' with 'badger skins to Bibles, sewing machines to scarlet bodices'.",
         "translationVI": "Trọng tâm: So sánh 'các món đồ trong danh sách' với 'từ da lửng đến Kinh thánh, máy may đến áo nịt ngực đỏ'.",
         "relatedCollocates": [
@@ -2372,6 +2566,8 @@
         "contextualGuessVI": "Đã 'làm sáng tỏ' (sheds light on) 'cuộc sống' (the lives) 'của' (of) 'nhiều' (a range of) 'cá nhân' (individuals)."
       },
       "phase2Annotation": {
+        "phonetic": "/ʃedz laɪt ɒn/",
+        "sentiment": "positive",
         "definitionEN": "Focus: Compares 'sheds light on' with 'follow the same people' and 'unfolded before their eyes'.",
         "translationVI": "Trọng tâm: So sánh 'làm sáng tỏ' với 'theo dõi cùng một người' và 'mở ra trước mắt họ'.",
         "relatedCollocates": [
@@ -2392,6 +2588,8 @@
         "contextualGuessVI": "Trong 'một khoảng thời gian' (a period) '300 năm' (300-year)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈəʊvər ə ˈθriː hʌndrəd jɪə ˈpɪəriəd/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'a 300-year period' with 'across three centuries'.",
         "translationVI": "Trọng tâm: So sánh 'một khoảng thời gian 300 năm' với 'xuyên suốt ba thế kỷ'.",
         "relatedCollocates": [
@@ -2452,6 +2650,8 @@
         "contextualGuessVI": "Vì 'vi phạm' (breaking) 'các quy định' (rules) 'của phường hội' (guild)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈbreɪkɪŋ ɡɪld ruːlz/",
+        "sentiment": "negative",
         "definitionEN": "Focus: Compares 'breaking guild rules' with 'counter to the guild ordinance'.",
         "translationVI": "Trọng tâm: So sánh 'vi phạm quy định phường hội' với 'trái với quy định của phường hội'.",
         "relatedCollocates": [
@@ -2510,6 +2710,8 @@
         "contextualGuessVI": "'Rất ít' (Very little) 'nghiên cứu' (research) 'đã được thực hiện' (has been done) 'về' (into) 'mối liên hệ' (the link) 'giữa' (between) 'tỷ lệ biết chữ cao' (high literacy rates) 'và' (and) 'thu nhập' (earnings) 'được cải thiện' (improved)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈveri ˈlɪtl rɪˈsɜːtʃ həz bɪn dʌn/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'Very little research' with 'long puzzled economists' and 'lack of evidence'.",
         "translationVI": "Trọng tâm: So sánh 'Rất ít nghiên cứu' với 'đã làm bối rối các nhà kinh tế từ lâu' và 'thiếu bằng chứng'.",
         "relatedCollocates": [
@@ -2531,6 +2733,8 @@
         "contextualGuessVI": "Tỷ lệ biết chữ... 'rất' (very) 'tốt' (good)."
       },
       "phase2Annotation": {
+        "phonetic": "/wɜː ˈveri ɡʊd/",
+        "sentiment": "positive",
         "definitionEN": "Focus: Compares 'very good' with 'excellent'.",
         "translationVI": "Trọng tâm: So sánh 'rất tốt' với 'xuất sắc'.",
         "relatedCollocates": ["excellent literacy rates (synonym)"]
@@ -2548,6 +2752,8 @@
         "contextualGuessVI": "Có 'bằng chứng' (evidence) 'mạnh mẽ' (strong) 'rằng' (that) 'trong' (in) 'thế giới' (world) 'hiện đại' (modern)..."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈmɒdn wɜːld/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'modern world' and 'strong evidence' with 'Modern cross-country analyses' and 'struggled to find evidence'.",
         "translationVI": "Trọng tâm: So sánh 'thế giới hiện đại' và 'bằng chứng mạnh mẽ' với 'Các phân tích liên quốc gia hiện đại' và 'đã vật lộn để tìm bằng chứng'.",
         "relatedCollocates": [
@@ -2568,6 +2774,8 @@
         "contextualGuessVI": "Anh là 'một ví dụ' (an example) 'tốt' (good) 'về việc' (of how)..."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ɡʊd ɪɡˈzɑːmpl/",
+        "sentiment": "positive",
         "definitionEN": "Focus: Compares 'a good example' with 'no evidence', 'mediocre literacy rates', and 'first country to industrialise'.",
         "translationVI": "Trọng tâm: So sánh 'một ví dụ tốt' với 'không có bằng chứng', 'tỷ lệ biết chữ tầm thường', và 'quốc gia đầu tiên công nghiệp hóa'.",
         "relatedCollocates": [
@@ -2589,6 +2797,8 @@
         "contextualGuessVI": "'Tăng trưởng kinh tế' (Economic growth) 'có thể giúp' (can help) 'cải thiện' (to improve) 'tỷ lệ biết chữ' (literacy rates)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈnɒmɪk ɡrəʊθ kən help tu ɪmˈpruːv ˈlɪtərəsi reɪts/",
+        "sentiment": "positive",
         "definitionEN": "Focus: Compares 'improve literacy rates' with 'increases education'.",
         "translationVI": "Trọng tâm: So sánh 'cải thiện tỷ lệ biết chữ' với 'làm tăng giáo dục'.",
         "relatedCollocates": [
@@ -2609,6 +2819,8 @@
         "contextualGuessVI": "Họ 'giúp' (helped) 'người trẻ' (young people) 'học' (to learn) 'một kỹ năng' (a skill)."
       },
       "phase2Annotation": {
+        "phonetic": "/helpt jʌŋ ˈpiːpl tə lɜːn ə skɪl/",
+        "sentiment": "positive",
         "definitionEN": "Focus: Compares 'helped... learn a skill' with 'prevented people from using their skills'. (Note: The passage doesn't say how people learned skills, only how guilds *stopped* them from *using* them).",
         "translationVI": "Trọng tâm: So sánh 'giúp... học một kỹ năng' với 'ngăn cản mọi người sử dụng kỹ năng của họ'. (Lưu ý: Bài đọc không nói phường hội giúp học kỹ năng, chỉ nói họ *ngăn cản* *sử dụng* kỹ năng).",
         "relatedCollocates": [
@@ -2629,6 +2841,8 @@
         "contextualGuessVI": "Họ 'phản đối' (were opposed to) 'việc người ta' (people) 'di chuyển' (moving) 'đến' (to) 'một khu vực' (an area) 'để' (for) 'làm việc' (work)."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈpəʊzd tə ˈpiːpl ˈmuːvɪŋ tu ən ˈeəriə/",
+        "sentiment": "negative",
         "definitionEN": "Focus: Compares 'opposed to people moving... for work' with 'blocked labour migration'.",
         "translationVI": "Trọng tâm: So sánh 'phản đối người ta di chuyển... để làm việc' với 'ngăn chặn di cư lao động'.",
         "relatedCollocates": ["blocked labour migration (synonym)"]
@@ -2646,6 +2860,8 @@
         "contextualGuessVI": "Họ 'lưu giữ' (kept) 'hồ sơ' (records) 'tốt hơn' (better than) 'các phường hội' (guilds) 'ở' (in) 'những nơi khác' (other parts) 'trên' (of) 'thế giới' (the world)."
       },
       "phase2Annotation": {
+        "phonetic": "/kept ˈbetə ˈrekɔːdz ðæn/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'kept better records than...' with 'guild ledgers'. (Note: The passage mentions ledgers exist, but makes no comparison to other parts of the world).",
         "translationVI": "Trọng tâm: So sánh 'lưu giữ hồ sơ tốt hơn...' với 'sổ sách phường hội'. (Lưu ý: Bài đọc đề cập đến sổ sách, nhưng không so sánh với nơi khác).",
         "relatedCollocates": ["guild ledgers (passage info - no comparison)"]
@@ -2663,6 +2879,8 @@
         "contextualGuessVI": "Họ 'phản đối' (opposed) 'các hoạt động' (practices) 'mà' (that) 'đe dọa' (threatened) 'quyền kiểm soát' (their control) 'của họ' (their) 'đối với' (over) 'một ngành nghề' (a trade)."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈpəʊzd ˈpræktɪsɪz ðæt ˈθretnd/",
+        "sentiment": "negative",
         "definitionEN": "Focus: Compares 'opposed practices that threatened their control' with 'legislated against anything that undermined their monopolies'.",
         "translationVI": "Trọng tâm: So sánh 'phản đối các hoạt động đe dọa quyền kiểm soát' với 'ban hành luật chống lại bất cứ điều gì làm suy yếu sự độc quyền của họ'.",
         "relatedCollocates": [
@@ -2684,6 +2902,8 @@
         "contextualGuessVI": "Họ 'chủ yếu' (predominantly) 'bao gồm' (consisted of) 'các thương gia' (merchants) 'giàu có' (wealthy)."
       },
       "phase2Annotation": {
+        "phonetic": "/kənˈsɪstɪd əv ˈwelθi ˈmɜːtʃənts/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'consisted of wealthy merchants' with 'local guilds and merchant associations'. (Note: The passage lists them as separate or related groups, not that one *is* the other).",
         "translationVI": "Trọng tâm: So sánh 'bao gồm các thương gia giàu có' với 'các phường hội địa phương và hiệp hội thương gia'. (Lưu ý: Bài đọc liệt kê chúng là các nhóm riêng biệt hoặc liên quan, không phải nhóm này *là* nhóm kia).",
         "relatedCollocates": [
@@ -2705,6 +2925,8 @@
         "contextualGuessVI": "Danh sách tài sản cá nhân."
       },
       "phase2Annotation": {
+        "phonetic": "/lɪst əv ˈpɜːsənl pəˈzeʃənz/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'list of personal possessions' with 'handwritten inventories', 'belongings', and 'worldly goods'.",
         "translationVI": "Trọng tâm: So sánh 'danh sách tài sản cá nhân' với 'bản kiểm kê viết tay', 'vật dụng', và 'của cải trần thế'.",
         "relatedCollocates": [
