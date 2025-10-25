@@ -1,0 +1,2427 @@
+{
+  "logTitle": "IELTS Reading Log: Timur Gareyev – blindfold chess champion (Part 1)",
+  "sourceId": "Reading Passage (Image '...17.08.39.png')",
+  "totalItems": 43,
+  "lexicalItems": [
+    {
+      "id": 1013,
+      "targetLexeme": "blindfold chess champion",
+      "sourceContext": "Timur Gareyev – blindfold chess champion",
+      "phase1Inference": {
+        "contextualGuessVI": "'Nhà vô địch' (champion) 'cờ vua' (chess) 'bịt mắt' (blindfold)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "A person who has won a chess competition played without seeing the board.",
+        "translationVI": "Nhà vô địch cờ vua bịt mắt.",
+        "relatedCollocates": [
+          "blindfold (n/adj/v)",
+          "chess (n)",
+          "champion (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "champion", "meaning": "nhà vô địch" },
+            { "form": "chess", "meaning": "cờ vua" },
+            { "form": "blindfold", "meaning": "khăn bịt mắt" }
+          ],
+          "adjective": [{ "form": "blindfold", "meaning": "bịt mắt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He is famous as a blindfold chess champion, able to play multiple games at once."
+      }
+    },
+    {
+      "id": 1014,
+      "targetLexeme": "take on (nearly 50 opponents)",
+      "sourceContext": "But that is not the hard part. While his challengers will play the games as normal, Gareyev himself will be blindfolded. Even by world record standards, it sets a high bar...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sẽ 'đấu với/chấp nhận thử thách' (take on) 'gần 50' (nearly 50) 'đối thủ' (opponents). (Thông tin 'nearly 50' suy ra từ câu 'will take on nearly 50 games')."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To compete against or accept a challenge from a large number of adversaries.",
+        "translationVI": "Đấu với (gần 50 đối thủ).",
+        "relatedCollocates": ["take on (a challenge)", "take on (an opponent)"],
+        "wordForms": {
+          "verb": [{ "form": "take on", "meaning": "đấu với, đảm nhận" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The young boxer was brave to take on the reigning champion."
+      }
+    },
+    {
+      "id": 1015,
+      "targetLexeme": "play the games as normal",
+      "sourceContext": "While his challengers will play the games as normal, Gareyev himself will be blindfolded.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'người thách đấu' (challengers) 'sẽ chơi' (will play) 'các ván cờ' (the games) 'như' (as) 'bình thường' (normal)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To participate in the games in the usual or standard way (i.e., by looking at the board).",
+        "translationVI": "Chơi các ván cờ như bình thường.",
+        "relatedCollocates": ["as usual (synonym)", "play (normally)"],
+        "wordForms": {
+          "adjective": [{ "form": "normal", "meaning": "bình thường" }],
+          "adverb": [{ "form": "normally", "meaning": "một cách bình thường" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "You can play the games as normal, but I will be playing from memory."
+      }
+    },
+    {
+      "id": 1016,
+      "targetLexeme": "blindfolded (adj/adv)",
+      "sourceContext": "...Gareyev himself will be blindfolded.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bản thân Gareyev 'sẽ bị' (will be) 'bịt mắt' (blindfolded)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Wearing a piece of cloth tied over one's eyes so that one cannot see.",
+        "translationVI": "Bị bịt mắt.",
+        "relatedCollocates": ["wear (a blindfold)", "play (blindfolded)"],
+        "wordForms": {
+          "noun": [{ "form": "blindfold", "meaning": "khăn bịt mắt" }],
+          "verb": [{ "form": "blindfold", "meaning": "bịt mắt" }],
+          "adjective": [{ "form": "blindfolded", "meaning": "bị bịt mắt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The children played a game blindfolded."
+      }
+    },
+    {
+      "id": 1017,
+      "targetLexeme": "world record standards",
+      "sourceContext": "Even by world record standards, it sets a high bar for human performance.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Ngay cả' (Even) 'so với' (by) 'các tiêu chuẩn' (standards) 'kỷ lục' (record) 'thế giới' (world), 'nó' (it) 'đặt ra' (sets) 'một' (a) 'thanh' (bar) 'cao' (high)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "The level or quality considered normal or expected when compared to the best achievements in the world.",
+        "translationVI": "Các tiêu chuẩn kỷ lục thế giới.",
+        "relatedCollocates": [
+          "by (any) standards",
+          "world record (n)",
+          "set (a record)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "standard", "meaning": "tiêu chuẩn" },
+            { "form": "record", "meaning": "kỷ lục" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His achievement is impressive, even by world record standards."
+      }
+    },
+    {
+      "id": 1018,
+      "targetLexeme": "sets a high bar for",
+      "sourceContext": "...it sets a high bar for human performance.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nó 'đặt ra một tiêu chuẩn/thước đo' (sets a bar) 'cao' (high) 'cho' (for) 'thành tích/khả năng' (performance) 'của con người' (human)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To set a very high standard for something, making it difficult for others to achieve.",
+        "translationVI": "Đặt ra một tiêu chuẩn/thước đo cao cho.",
+        "relatedCollocates": [
+          "set (the bar high)",
+          "raise (the bar)",
+          "a high (standard)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "bar", "meaning": "thanh, tiêu chuẩn" }],
+          "verb": [{ "form": "set", "meaning": "đặt ra" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Her innovative research sets a high bar for all future scientists in the field."
+      }
+    },
+    {
+      "id": 1019,
+      "targetLexeme": "human performance",
+      "sourceContext": "...it sets a high bar for human performance.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thành tích/khả năng' (performance) 'của con người' (human)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "The ability of people to carry out tasks or actions.",
+        "translationVI": "Khả năng/thành tích của con người.",
+        "relatedCollocates": [
+          "peak (performance)",
+          "cognitive (performance)",
+          "athletic (performance)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "performance", "meaning": "thành tích, hiệu suất" }
+          ],
+          "adjective": [{ "form": "human", "meaning": "thuộc con người" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The study investigates the limits of human performance under extreme stress."
+      }
+    },
+    {
+      "id": 1020,
+      "targetLexeme": "stands out in (the world)",
+      "sourceContext": "The 28-year-old already stands out in the rarefied world of blindfold chess.",
+      "phase1Inference": {
+        "contextualGuessVI": "Anh ta 'đã' (already) 'nổi bật' (stands out) 'trong' (in) 'thế giới' (the world) 'hiếm có/ít người biết đến' (the rarefied) 'của' (of) 'cờ vua bịt mắt' (blindfold chess)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To be very noticeable or impressive in a particular group or area.",
+        "translationVI": "Nổi bật trong (thế giới).",
+        "relatedCollocates": [
+          "stand out (from the crowd)",
+          "outstanding (adj)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "stand out", "meaning": "nổi bật" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "With her unique style, she really stands out in the art world."
+      }
+    },
+    {
+      "id": 1021,
+      "targetLexeme": "rarefied world of",
+      "sourceContext": "...stands out in the rarefied world of blindfold chess.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thế giới' (world) 'cao siêu/chỉ dành cho số ít' (rarefied) 'của' (of) 'cờ vua bịt mắt' (blindfold chess)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "A world or activity that is exclusive, understood, or experienced by only a small group of people; esoteric.",
+        "translationVI": "Thế giới cao siêu/dành cho số ít của.",
+        "relatedCollocates": ["exclusive (world)", "esoteric (world)"],
+        "wordForms": {
+          "noun": [{ "form": "world", "meaning": "thế giới" }],
+          "adjective": [{ "form": "rarefied", "meaning": "cao siêu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He was not comfortable in the rarefied world of high finance."
+      }
+    },
+    {
+      "id": 1022,
+      "targetLexeme": "has a fondness for",
+      "sourceContext": "He has a fondness for bright clothes and unusual hairstyles...",
+      "phase1Inference": {
+        "contextualGuessVI": "Anh ta 'có' (has) 'sự yêu thích/niềm yêu thích' (a fondness for) 'quần áo' (clothes) 'sặc sỡ' (bright) 'và' (and) 'kiểu tóc' (hairstyles) 'khác thường' (unusual)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To have a liking or affection for someone or something.",
+        "translationVI": "Có niềm yêu thích/sở thích với.",
+        "relatedCollocates": [
+          "be fond of (synonym)",
+          "have a liking for (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "fondness", "meaning": "sự yêu thích" }],
+          "adjective": [{ "form": "fond", "meaning": "thích" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She has a fondness for cats and has adopted three from the shelter."
+      }
+    },
+    {
+      "id": 1023,
+      "targetLexeme": "gets his kicks from",
+      "sourceContext": "...and he gets his kicks from the adventure sport of BASE jumping.",
+      "phase1Inference": {
+        "contextualGuessVI": "Và anh ta 'tìm thấy' (gets) 'niềm vui/sự phấn khích' (his kicks) 'từ' (from) 'môn thể thao' (the sport) 'mạo hiểm' (adventure) 'BASE jumping' (BASE jumping)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "(Informal idiom) To get a feeling of excitement, pleasure, or thrills from doing something.",
+        "translationVI": "(Thành ngữ) Tìm thấy niềm vui/sự phấn khích từ.",
+        "relatedCollocates": ["get a thrill (from)", "for kicks (idiom)"],
+        "wordForms": {
+          "noun": [{ "form": "kick", "meaning": "sự phấn khích (thông tục)" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He's an adrenaline junkie who gets his kicks from skydiving."
+      }
+    },
+    {
+      "id": 1024,
+      "targetLexeme": "proved himself (a...)",
+      "sourceContext": "He has already proved himself a strong chess player, too.",
+      "phase1Inference": {
+        "contextualGuessVI": "Anh ta 'cũng' (too) 'đã' (has already) 'chứng tỏ' (proved) 'bản thân' (himself) 'là một' (a) 'kỳ thủ' (player) 'cờ vua' (chess) 'mạnh' (strong)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To have shown that one is capable, strong, or good at something.",
+        "translationVI": "Chứng tỏ/chứng minh bản thân (là một...).",
+        "relatedCollocates": ["prove (oneself) to be", "prove (one's) ability"],
+        "wordForms": {
+          "verb": [{ "form": "prove", "meaning": "chứng minh" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She quickly proved herself a capable leader in a time of crisis."
+      }
+    },
+    {
+      "id": 1025,
+      "targetLexeme": "chess marathon",
+      "sourceContext": "In a 10-hour chess marathon in 2013, Gareyev played 33 games...",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong 'một cuộc' (a) 'chơi cờ' (chess) 'marathon (kéo dài, liên tục)' (marathon) '10 tiếng' (10-hour)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "A very long and challenging session of playing chess.",
+        "translationVI": "Cuộc đấu cờ marathon (kéo dài).",
+        "relatedCollocates": ["marathon (session)", "10-hour (adj)"],
+        "wordForms": {
+          "noun": [
+            { "form": "chess", "meaning": "cờ vua" },
+            {
+              "form": "marathon",
+              "meaning": "cuộc đua marathon, sự kiện kéo dài"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The negotiators were exhausted after a 24-hour marathon session."
+      }
+    },
+    {
+      "id": 1026,
+      "targetLexeme": "simultaneously (adv)",
+      "sourceContext": "...played 33 games in his head simultaneously.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chơi 33 ván cờ 'trong đầu' (in his head) 'cùng một lúc/đồng thời' (simultaneously)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "At the exact same time; concurrently.",
+        "translationVI": "Đồng thời, cùng một lúc.",
+        "relatedCollocates": [
+          "simultaneous (adj)",
+          "at the same time (synonym)"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "simultaneous", "meaning": "đồng thời" }],
+          "adverb": [{ "form": "simultaneously", "meaning": "đồng thời" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The app can translate speech simultaneously into ten different languages."
+      }
+    },
+    {
+      "id": 1027,
+      "targetLexeme": "lost none",
+      "sourceContext": "He won 29 and lost none.",
+      "phase1Inference": {
+        "contextualGuessVI": "Anh ta thắng 29 và 'không thua' (lost) 'ván nào' (none)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To not lose any (games, items, etc.).",
+        "translationVI": "Không thua (ván) nào.",
+        "relatedCollocates": ["win (all)", "lose (none)"],
+        "wordForms": {
+          "verb": [{ "form": "lose (past: lost)", "meaning": "thua" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She played five matches and lost none, winning the tournament."
+      }
+    },
+    {
+      "id": 1028,
+      "targetLexeme": "become his brand",
+      "sourceContext": "The skill has become his brand: he calls himself the Blindfold King.",
+      "phase1Inference": {
+        "contextualGuessVI": "Kỹ năng này 'đã trở thành' (has become) 'thương hiệu' (his brand) 'của anh ấy' (his)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To become the characteristic or feature that someone is known for; their trademark.",
+        "translationVI": "Trở thành thương hiệu/dấu ấn cá nhân của anh ấy.",
+        "relatedCollocates": [
+          "trademark (n) (synonym)",
+          "personal (brand)",
+          "build (a brand)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "brand", "meaning": "thương hiệu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His unique sense of humor has become his brand as a comedian."
+      }
+    },
+    {
+      "id": 1029,
+      "targetLexeme": "prowess (n)",
+      "sourceContext": "But Gareyev's prowess has drawn interest from beyond the chess-playing community.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Kỹ năng/sự tài giỏi/uy lực' (prowess) 'của Gareyev' (Gareyev's) 'đã thu hút' (has drawn) 'sự quan tâm' (interest) 'từ bên ngoài' (from beyond) 'cộng đồng' (community) 'chơi cờ' (chess-playing)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Great ability or skill in a particular activity or field.",
+        "translationVI": "Sự tài giỏi, kỹ năng điêu luyện, uy lực.",
+        "relatedCollocates": [
+          "skill (synonym)",
+          "expertise (synonym)",
+          "athletic (prowess)",
+          "academic (prowess)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "prowess", "meaning": "sự tài giỏi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He is famous for his prowess as a military strategist."
+      }
+    },
+    {
+      "id": 1030,
+      "targetLexeme": "drawn interest from beyond",
+      "sourceContext": "...has drawn interest from beyond the chess-playing community.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đã thu hút' (has drawn) 'sự quan tâm' (interest) 'từ bên ngoài/vượt ra ngoài' (from beyond) 'cộng đồng' (community) 'chơi cờ' (chess-playing)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To have attracted attention from people or groups outside of a specific field.",
+        "translationVI": "Thu hút sự quan tâm từ bên ngoài.",
+        "relatedCollocates": [
+          "draw (interest)",
+          "attract (attention)",
+          "beyond (the community)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "interest", "meaning": "sự quan tâm" }],
+          "verb": [{ "form": "draw (past: drawn)", "meaning": "thu hút" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new discovery has drawn interest from beyond the scientific community."
+      }
+    },
+    {
+      "id": 1031,
+      "targetLexeme": "chess-playing community",
+      "sourceContext": "...from beyond the chess-playing community.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Cộng đồng' (community) 'chơi cờ' (chess-playing)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "The group of people who are involved in or interested in the game of chess.",
+        "translationVI": "Cộng đồng (người) chơi cờ.",
+        "relatedCollocates": ["scientific (community)", "art (community)"],
+        "wordForms": {
+          "noun": [{ "form": "community", "meaning": "cộng đồng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The news of the scandal shocked the chess-playing community."
+      }
+    },
+    {
+      "id": 1032,
+      "targetLexeme": "In the hope of (understanding)",
+      "sourceContext": "In the hope of understanding how he and others like him can perform such mental feats...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Với hy vọng' (In the hope of) 'hiểu được' (understanding) 'làm thế nào' (how) 'anh ta' (he) '... 'có thể' (can) 'thực hiện' (perform) 'những kỳ công' (feats) 'tinh thần' (mental) 'như vậy' (such)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "With the wish or expectation that something will happen.",
+        "translationVI": "Với hy vọng (hiểu được).",
+        "relatedCollocates": ["in (the) hope (that)", "hope (to do sth)"],
+        "wordForms": {
+          "noun": [{ "form": "hope", "meaning": "hy vọng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She studied hard in the hope of winning a scholarship."
+      }
+    },
+    {
+      "id": 1033,
+      "targetLexeme": "perform such mental feats",
+      "sourceContext": "...how he and others like him can perform such mental feats...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thực hiện' (perform) 'những kỳ công' (feats) 'tinh thần' (mental) 'như vậy' (such)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To successfully carry out such impressive and difficult acts using only the mind.",
+        "translationVI": "Thực hiện những kỳ công tinh thần như vậy.",
+        "relatedCollocates": [
+          "perform (a feat)",
+          "mental (feat)",
+          "a feat of (memory)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "feat", "meaning": "kỳ công" },
+            { "form": "performance", "meaning": "sự thực hiện" }
+          ],
+          "verb": [{ "form": "perform", "meaning": "thực hiện" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Calculating the number in his head was an amazing mental feat."
+      }
+    },
+    {
+      "id": 1034,
+      "targetLexeme": "called him in for (tests)",
+      "sourceContext": "...researchers at the University of California... called him in for tests.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'nhà nghiên cứu' (researchers) '... 'đã gọi' (called) 'anh ta' (him) 'đến' (in) 'để' (for) 'làm' (for) 'các bài kiểm tra' (tests)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To request or summon someone to come to a place for a specific purpose (e.g., tests, questioning).",
+        "translationVI": "Đã gọi anh ta đến để (làm xét nghiệm/kiểm tra).",
+        "relatedCollocates": ["call in (sb)", "call (sb) for (questioning)"],
+        "wordForms": {
+          "verb": [{ "form": "call in", "meaning": "gọi đến" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The police called him in for questioning about the incident."
+      }
+    },
+    {
+      "id": 1035,
+      "targetLexeme": "not a far reach for",
+      "sourceContext": "‘The ability to play a game of chess with your eyes closed is not a far reach for most accomplished players,’",
+      "phase1Inference": {
+        "contextualGuessVI": "'Khả năng' (The ability) '... 'không phải là' (is not) 'một' (a) 'sự vươn tới' (reach) 'xa' (far) 'đối với' (for) 'hầu hết' (most) 'các kỳ thủ' (players) 'giỏi/có thành tựu' (accomplished)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "(Idiom) Not a difficult or improbable thing to achieve for someone.",
+        "translationVI": "Không phải là (điều gì) quá xa vời/khó khăn đối với.",
+        "relatedCollocates": ["within (reach)", "not (difficult) for"],
+        "wordForms": {
+          "noun": [{ "form": "reach", "meaning": "tầm với" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Learning to cook basic meals is not a far reach for most teenagers."
+      }
+    },
+    {
+      "id": 1036,
+      "targetLexeme": "accomplished players",
+      "sourceContext": "...not a far reach for most accomplished players,’ said Jesse Rissman...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Các kỳ thủ/người chơi' (players) 'giỏi/có thành tựu/điêu luyện' (accomplished)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Highly skilled or expert players.",
+        "translationVI": "Các kỳ thủ/người chơi tài năng/điêu luyện.",
+        "relatedCollocates": [
+          "skilled (player) (synonym)",
+          "expert (player) (synonym)",
+          "accomplished (artist)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "player", "meaning": "người chơi" }],
+          "adjective": [
+            { "form": "accomplished", "meaning": "tài năng, điêu luyện" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He is one of the most accomplished players in the history of the sport."
+      }
+    },
+    {
+      "id": 1037,
+      "targetLexeme": "remarkable (adj)",
+      "sourceContext": "‘But the thing that's so remarkable about Timur... is the number of games...’",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhưng 'điều' (the thing) 'mà' (that's) 'rất' (so) 'đáng kinh ngạc/đáng chú ý' (remarkable) 'về' (about) 'Timur... 'là' (is) 'số lượng' (the number) 'các ván cờ' (of games)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Unusual or surprising in a way that is impressive or worthy of attention; extraordinary.",
+        "translationVI": "Đáng chú ý, đáng kinh ngạc, phi thường.",
+        "relatedCollocates": [
+          "extraordinary (synonym)",
+          "amazing (synonym)",
+          "impressive (synonym)"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "remarkable", "meaning": "đáng chú ý" }],
+          "adverb": [{ "form": "remarkably", "meaning": "một cách đáng chú ý" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She has made remarkable progress since she started the course."
+      }
+    },
+    {
+      "id": 1038,
+      "targetLexeme": "keep active at once",
+      "sourceContext": "...the number of games they can keep active at once. To me it is simply astonishing.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Số lượng ván cờ họ có thể 'duy trì' (keep) 'hoạt động/xử lý' (active) 'cùng một lúc' (at once). 'Đối với tôi' (To me) 'điều đó' (it) 'thực sự' (is simply) 'đáng kinh ngạc' (astonishing)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To maintain in an active or operational state simultaneously.",
+        "translationVI": "Duy trì hoạt động/xử lý cùng một lúc.",
+        "relatedCollocates": [
+          "keep (sth) active",
+          "at once (synonym for 'simultaneously')"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "keep", "meaning": "giữ" }],
+          "adjective": [{ "form": "active", "meaning": "năng động" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It's difficult to keep so many projects active at once."
+      }
+    },
+    {
+      "id": 1039,
+      "targetLexeme": "simply astonishing",
+      "sourceContext": "To me it is simply astonishing.’",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đơn giản là/Thực sự là' (simply) 'đáng kinh ngạc/gây sững sờ' (astonishing)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Extremely surprising or impressive; amazing.",
+        "translationVI": "Đơn giản là/Thực sự đáng kinh ngạc.",
+        "relatedCollocates": [
+          "absolutely (astonishing)",
+          "amazing (synonym)",
+          "astounding (synonym)"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "astonishing", "meaning": "đáng kinh ngạc" }],
+          "adverb": [{ "form": "simply", "meaning": "đơn giản, thực sự" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The view from the top of the mountain was simply astonishing."
+      }
+    },
+    {
+      "id": 1040,
+      "targetLexeme": "native Uzbekistan",
+      "sourceContext": "Gareyev learned to play chess in his native Uzbekistan when he was six years old.",
+      "phase1Inference": {
+        "contextualGuessVI": "Học chơi cờ 'ở' (in) 'quê nhà' (his native) 'Uzbekistan' (Uzbekistan) 'khi' (when) 'anh ta' (he) 'sáu' (was six) 'tuổi' (years old)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Relating to the country where a person was born.",
+        "translationVI": "Uzbekistan bản địa/quê nhà.",
+        "relatedCollocates": ["native (country)", "native (language)"],
+        "wordForms": {
+          "noun": [{ "form": "native", "meaning": "người bản địa" }],
+          "adjective": [{ "form": "native", "meaning": "bản địa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She returned to her native Poland after living abroad for ten years."
+      }
+    },
+    {
+      "id": 1041,
+      "targetLexeme": "tutored by his grandfather",
+      "sourceContext": "Tutored by his grandfather, he entered his first tournament aged eight...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Được dạy kèm/hướng dẫn' (Tutored) 'bởi' (by) 'ông nội' (his grandfather), 'anh ta' (he) 'tham gia' (entered) 'giải đấu' (tournament) 'đầu tiên' (his first) 'vào' (aged) 'năm 8 tuổi' (eight)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To be taught or coached by one's grandfather.",
+        "translationVI": "Được ông nội dạy kèm/hướng dẫn.",
+        "relatedCollocates": ["tutor (v)", "tutor (n)", "taught by (synonym)"],
+        "wordForms": {
+          "noun": [{ "form": "tutor", "meaning": "gia sư" }],
+          "verb": [{ "form": "tutor", "meaning": "dạy kèm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Tutored by a famous musician, she quickly became a violin prodigy."
+      }
+    },
+    {
+      "id": 1042,
+      "targetLexeme": "became obsessed with",
+      "sourceContext": "...and soon became obsessed with competitions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Và 'chẳng mấy chốc' (soon) 'trở nên' (became) 'ám ảnh/say mê' (obsessed) 'với' (with) 'các cuộc thi' (competitions)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To become unable to stop thinking about something; extremely interested in something.",
+        "translationVI": "Trở nên ám ảnh/say mê với.",
+        "relatedCollocates": [
+          "obsessed (with)",
+          "obsession (n)",
+          "passionate (about)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "obsession", "meaning": "nỗi ám ảnh" }],
+          "adjective": [{ "form": "obsessed", "meaning": "bị ám ảnh" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He became obsessed with stamp collecting at a young age."
+      }
+    },
+    {
+      "id": 1043,
+      "targetLexeme": "crowned (Asia's youngest...)",
+      "sourceContext": "At 16, he was crowned Asia's youngest ever chess grandmaster.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vào 'năm 16 tuổi' (At 16), 'anh ta' (he) 'đã được' (was) 'phong/tôn vinh là' (crowned) 'đại kiện tướng' (grandmaster) 'cờ vua' (chess) 'trẻ nhất' (youngest ever) 'châu Á' (Asia's)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To be given the title or position of... (often used for winners or royalty).",
+        "translationVI": "Được phong/tôn vinh là (đại kiện tướng... trẻ nhất).",
+        "relatedCollocates": [
+          "crowned (champion)",
+          "crowned (king)",
+          "award (a title)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "crown", "meaning": "vương miện" }],
+          "verb": [{ "form": "crown", "meaning": "phong, trao vương miện" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She was crowned world champion after winning the final match."
+      }
+    },
+    {
+      "id": 1044,
+      "targetLexeme": "chess grandmaster",
+      "sourceContext": "...youngest ever chess grandmaster.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đại kiện tướng' (grandmaster) 'cờ vua' (chess)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "The highest title a chess player can attain.",
+        "translationVI": "Đại kiện tướng cờ vua.",
+        "relatedCollocates": ["grandmaster (n)", "chess (player)"],
+        "wordForms": {
+          "noun": [{ "form": "grandmaster", "meaning": "đại kiện tướng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Only a few players in the world achieve the rank of chess grandmaster."
+      }
+    },
+    {
+      "id": 1045,
+      "targetLexeme": "ranked (the third best)",
+      "sourceContext": "...Gareyev was ranked the third best chess player in the US.",
+      "phase1Inference": {
+        "contextualGuessVI": "Gareyev 'đã được' (was) 'xếp hạng' (ranked) 'là' (the) 'kỳ thủ' (player) 'cờ vua' (chess) 'giỏi' (best) 'thứ ba' (third) 'ở' (in) 'Mỹ' (the US)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To be given a position or place in a list comparing quality or ability.",
+        "translationVI": "Được xếp hạng (là... giỏi thứ ba).",
+        "relatedCollocates": [
+          "ranked (number one)",
+          "ranking (n)",
+          "be (ranked as)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "rank", "meaning": "thứ hạng" }],
+          "verb": [{ "form": "rank", "meaning": "xếp hạng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The university is ranked the best in the country for engineering."
+      }
+    },
+    {
+      "id": 1046,
+      "targetLexeme": "to the uninitiated",
+      "sourceContext": "To the uninitiated, blindfold chess seems to call for superhuman skill.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đối với' (To) 'người' (the) 'không có chuyên môn/không rành' (uninitiated), 'cờ vua bịt mắt' (blindfold chess) 'dường như' (seems) 'đòi hỏi' (to call for) 'kỹ năng' (skill) 'siêu phàm' (superhuman)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "For people who are without knowledge or experience of a particular subject or activity.",
+        "translationVI": "Đối với người không rành/người ngoài cuộc.",
+        "relatedCollocates": ["to (the layman)", "to (the untrained eye)"],
+        "wordForms": {
+          "adjective": [{ "form": "uninitiated", "meaning": "không rành" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "To the uninitiated, the rules of cricket seem incredibly complicated."
+      }
+    },
+    {
+      "id": 1047,
+      "targetLexeme": "call for (superhuman skill)",
+      "sourceContext": "...blindfold chess seems to call for superhuman skill.",
+      "phase1Inference": {
+        "contextualGuessVI": "Dường như 'đòi hỏi/cần đến' (call for) 'kỹ năng' (skill) 'siêu phàm' (superhuman)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To need, require, or demand a particular quality or action.",
+        "translationVI": "Đòi hỏi, cần đến (kỹ năng siêu phàm).",
+        "relatedCollocates": [
+          "require (synonym)",
+          "demand (synonym)",
+          "call for (action)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "call for", "meaning": "đòi hỏi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "This complex situation calls for a careful and well-planned response."
+      }
+    },
+    {
+      "id": 1048,
+      "targetLexeme": "superhuman skill",
+      "sourceContext": "...seems to call for superhuman skill.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Kỹ năng' (skill) 'siêu phàm/vượt (super) 'người' (human)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "An ability that is beyond ordinary human capacity.",
+        "translationVI": "Kỹ năng siêu phàm.",
+        "relatedCollocates": ["superhuman (strength)", "extraordinary (skill)"],
+        "wordForms": {
+          "noun": [{ "form": "skill", "meaning": "kỹ năng" }],
+          "adjective": [{ "form": "superhuman", "meaning": "siêu phàm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The magician's escape seemed to require superhuman skill."
+      }
+    },
+    {
+      "id": 1049,
+      "targetLexeme": "displays of the feat",
+      "sourceContext": "But displays of the feat go back centuries.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhưng 'những màn trình diễn' (displays) 'về' (of) 'kỳ công' (the feat) 'này' (the) 'đã có từ' (go back) 'nhiều thế kỷ' (centuries)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Performances or exhibitions of this impressive achievement.",
+        "translationVI": "Các màn trình diễn/thể hiện kỳ công này.",
+        "relatedCollocates": ["a display of (skill)", "perform (a feat)"],
+        "wordForms": {
+          "noun": [
+            { "form": "display", "meaning": "màn trình diễn" },
+            { "form": "feat", "meaning": "kỳ công" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Displays of the feat, such as juggling fire, have always amazed audiences."
+      }
+    },
+    {
+      "id": 1050,
+      "targetLexeme": "go back centuries",
+      "sourceContext": "But displays of the feat go back centuries.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đã có từ/xuất hiện từ' (go back) 'nhiều thế kỷ' (centuries)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To have existed since a time hundreds of years in the past.",
+        "translationVI": "Đã có từ/xuất hiện từ nhiều thế kỷ.",
+        "relatedCollocates": [
+          "date back (centuries) (synonym)",
+          "originate (centuries ago)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "go back", "meaning": "có từ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The tradition of this festival goes back centuries."
+      }
+    },
+    {
+      "id": 1051,
+      "targetLexeme": "simultaneous games",
+      "sourceContext": "In 1947, the Argentinian grandmaster Miguel Najdorf played 45 simultaneous games...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã chơi 45 'ván cờ' (games) 'đồng thời/cùng lúc' (simultaneous)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Multiple games played at the same time.",
+        "translationVI": "Các ván cờ (diễn ra) đồng thời.",
+        "relatedCollocates": ["simultaneously (adv)", "at the same time"],
+        "wordForms": {
+          "noun": [{ "form": "game", "meaning": "ván cờ" }],
+          "adjective": [{ "form": "simultaneous", "meaning": "đồng thời" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The champion played twenty simultaneous games against local club members."
+      }
+    },
+    {
+      "id": 1052,
+      "targetLexeme": "24-hour session",
+      "sourceContext": "...winning 39 in the 24-hour session.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thắng 39 ván 'trong' (in) 'phiên/buổi' (the session) 'kéo dài 24 giờ' (24-hour)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "A period of activity lasting for 24 continuous hours.",
+        "translationVI": "Phiên/buổi (kéo dài) 24 giờ.",
+        "relatedCollocates": ["a (long) session", "24-hour (adj)"],
+        "wordForms": {
+          "noun": [{ "form": "session", "meaning": "phiên, buổi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The programmers worked in a 24-hour session to fix the critical bug."
+      }
+    },
+    {
+      "id": 1053,
+      "targetLexeme": "run through (possible moves)",
+      "sourceContext": "...run through possible moves in the mind to see how they play out.",
+      "phase1Inference": {
+        "contextualGuessVI": "Có thể 'lướt qua/xem xét/chạy qua' (run through) 'các nước đi' (moves) 'khả dĩ' (possible) 'trong' (in) 'tâm trí' (the mind) 'để' (to) 'xem' (see) 'chúng' (they) 'diễn ra' (play out) 'như thế nào' (how)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To quickly examine, rehearse, or think about a sequence of actions (like chess moves) in one's head.",
+        "translationVI": "Lướt/chạy qua/xem xét (các nước đi khả dĩ).",
+        "relatedCollocates": [
+          "run through (a presentation)",
+          "go over (synonym)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "run through", "meaning": "chạy qua, lướt qua" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Before the interview, she quickly ran through the possible questions in her mind."
+      }
+    },
+    {
+      "id": 1054,
+      "targetLexeme": "how they play out",
+      "sourceContext": "...to see how they play out.",
+      "phase1Inference": {
+        "contextualGuessVI": "Để xem 'chúng' (they) 'diễn ra/kết thúc' (play out) 'như thế nào' (how)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "How something develops or unfolds; what the result of a situation is.",
+        "translationVI": "Chúng diễn ra/dẫn đến kết quả như thế nào.",
+        "relatedCollocates": ["unfold (synonym)", "see (what happens)"],
+        "wordForms": {
+          "verb": [{ "form": "play out", "meaning": "diễn ra" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It will be interesting to see how this political situation plays out."
+      }
+    },
+    {
+      "id": 1055,
+      "targetLexeme": "recreate (it) in your mind",
+      "sourceContext": "‘You recreate it in your mind,’ said Gareyev.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bạn 'tái tạo' (recreate) 'nó' (it) 'trong' (in) 'tâm trí' (your mind) 'của bạn' (your)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To create or imagine something again in one's thoughts; to visualize.",
+        "translationVI": "Tái tạo/dựng lại (nó) trong tâm trí.",
+        "relatedCollocates": ["visualize (synonym)", "in (one's) mind's eye"],
+        "wordForms": {
+          "verb": [{ "form": "recreate", "meaning": "tái tạo" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I can still perfectly recreate the scene in my mind, even years later."
+      }
+    },
+    {
+      "id": 1056,
+      "targetLexeme": "faithfully (adv)",
+      "sourceContext": "...recalled faithfully when needed, updated with each player’s moves...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'nhớ lại' (recalled) 'một cách' (faithfully) 'chính xác/trung thành' (faithfully) 'khi' (when) 'cần' (needed), 'cập nhật' (updated) 'với' (with) 'mỗi' (each) 'nước đi' (moves) 'của người chơi' (player’s)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Accurately and reliably; in a way that is true to the original.",
+        "translationVI": "Một cách chính xác, một cách trung thành (với bản gốc).",
+        "relatedCollocates": [
+          "recall (faithfully)",
+          "copy (faithfully)",
+          "accurately (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "faith", "meaning": "niềm tin" }],
+          "adjective": [
+            { "form": "faithful", "meaning": "trung thành, chính xác" }
+          ],
+          "adverb": [{ "form": "faithfully", "meaning": "một cách chính xác" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The artist faithfully reproduced every detail of the original painting."
+      }
+    },
+    {
+      "id": 1057,
+      "targetLexeme": "reliably stored",
+      "sourceContext": "...and then reliably stored again, so the brain can move on to the next board.",
+      "phase1Inference": {
+        "contextualGuessVI": "Và 'sau đó' (then) 'được lưu trữ' (stored) 'một cách' (reliably) 'đáng tin cậy/ổn định' (reliably) 'lần nữa' (again)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To be kept in memory or in a location in a way that can be depended on.",
+        "translationVI": "Được lưu trữ (một cách) đáng tin cậy.",
+        "relatedCollocates": [
+          "store (data)",
+          "reliable (adj)",
+          "data (storage)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "store", "meaning": "lưu trữ" }],
+          "adjective": [{ "form": "reliable", "meaning": "đáng tin cậy" }],
+          "adverb": [{ "form": "reliably", "meaning": "một cách đáng tin cậy" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "All customer data is reliably stored on our secure servers."
+      }
+    },
+    {
+      "id": 1058,
+      "targetLexeme": "move on to (the next board)",
+      "sourceContext": "...so the brain can move on to the next board.",
+      "phase1Inference": {
+        "contextualGuessVI": "Để 'não' (the brain) 'có thể' (can) 'chuyển sang' (move on to) 'bàn cờ' (the board) 'tiếp theo' (the next)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To proceed to the next item, task, or topic.",
+        "translationVI": "Chuyển sang (bàn cờ tiếp theo).",
+        "relatedCollocates": ["move on (to the next topic)", "proceed (to)"],
+        "wordForms": {
+          "verb": [{ "form": "move on", "meaning": "chuyển sang" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After finishing the first question, let's move on to the next one."
+      }
+    },
+    {
+      "id": 1059,
+      "targetLexeme": "taxing (adj)",
+      "sourceContext": "First moves can be tough to remember... But the ends of games can be taxing too...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Các nước đi đầu' (First moves) 'có thể' (can be) 'khó' (tough) 'nhớ' (to remember)... 'Nhưng' (But) 'phần cuối' (the ends) 'của ván cờ' (of games) 'cũng' (too) 'có thể' (can be) 'gây mệt mỏi/căng thẳng' (taxing)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Physically or mentally demanding; difficult and requiring a lot of effort.",
+        "translationVI": "Gây mệt mỏi, căng thẳng, đòi hỏi nhiều nỗ lực.",
+        "relatedCollocates": [
+          "mentally (taxing)",
+          "demanding (synonym)",
+          "tiring (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "tax", "meaning": "thuế, gánh nặng" }],
+          "adjective": [{ "form": "taxing", "meaning": "căng thẳng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Caring for a newborn baby can be a very taxing experience."
+      }
+    },
+    {
+      "id": 1060,
+      "targetLexeme": "exhaustion sets in",
+      "sourceContext": "...as exhaustion sets in. When Gareyev is tired, his recall can get patchy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Khi 'sự mệt mỏi/kiệt sức' (exhaustion) 'ập đến/xuất hiện' (sets in). 'Khi' (When) 'Gareyev' (Gareyev) 'mệt' (is tired), 'khả năng' (his) 'nhớ lại' (recall) 'của anh ấy' (his) 'có thể' (can get) 'chắp vá/không đều' (patchy)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "The state of extreme tiredness begins to arrive and take effect.",
+        "translationVI": "Sự kiệt sức ập đến/xuất hiện.",
+        "relatedCollocates": [
+          "fatigue (sets in)",
+          "tiredness (sets in)",
+          "set in (v)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "exhaustion", "meaning": "sự kiệt sức" }],
+          "verb": [{ "form": "set in", "meaning": "ập đến" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After hiking for ten hours, exhaustion began to set in."
+      }
+    },
+    {
+      "id": 1061,
+      "targetLexeme": "recall can get patchy",
+      "sourceContext": "When Gareyev is tired, his recall can get patchy.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Khả năng' (his) 'nhớ lại' (recall) 'của anh ấy' (his) 'có thể' (can get) 'trở nên' (get) 'chắp vá/không đầy đủ' (patchy)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "One's ability to remember things becomes incomplete or inconsistent.",
+        "translationVI": "Khả năng nhớ lại/trí nhớ có thể trở nên chắp vá.",
+        "relatedCollocates": [
+          "patchy (memory)",
+          "patchy (recall)",
+          "inconsistent (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "recall", "meaning": "sự nhớ lại" }],
+          "adjective": [{ "form": "patchy", "meaning": "chắp vá" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "As he got older, his recall of past events became patchy."
+      }
+    },
+    {
+      "id": 1062,
+      "targetLexeme": "based on (only)",
+      "sourceContext": "He sometimes makes moves based on only a fragmented memory of the pieces’ positions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Anh ta 'thỉnh thoảng' (sometimes) 'đi cờ' (makes moves) 'dựa trên' (based on) 'chỉ' (only) 'một' (a) 'trí nhớ' (memory) 'phân mảnh' (fragmented) 'về' (of) 'vị trí' (positions) 'của các quân cờ' (the pieces’)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Using only a particular thing as the foundation or reason for an action.",
+        "translationVI": "Dựa trên (chỉ).",
+        "relatedCollocates": ["based on (evidence)", "rely on (synonym)"],
+        "wordForms": {
+          "verb": [{ "form": "base on", "meaning": "dựa trên" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The decision was based on incomplete data."
+      }
+    },
+    {
+      "id": 1063,
+      "targetLexeme": "a fragmented memory",
+      "sourceContext": "...based on only a fragmented memory of the pieces’ positions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'trí nhớ' (memory) 'bị phân mảnh/vụn vỡ' (fragmented)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "A memory that is incomplete, consisting of small, disconnected pieces.",
+        "translationVI": "Một ký ức/trí nhớ bị phân mảnh.",
+        "relatedCollocates": [
+          "fragmented (recall)",
+          "patchy (memory) (synonym)",
+          "fragment (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "memory", "meaning": "trí nhớ" },
+            { "form": "fragment", "meaning": "mảnh vỡ" }
+          ],
+          "adjective": [{ "form": "fragmented", "meaning": "bị phân mảnh" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After the accident, he only had a fragmented memory of what happened."
+      }
+    },
+    {
+      "id": 1064,
+      "targetLexeme": "standard memory tests",
+      "sourceContext": "The scientists first had Gareyev perform some standard memory tests.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các nhà khoa học 'đầu tiên' (first) 'yêu cầu' (had) 'Gareyev' (Gareyev) 'thực hiện' (perform) 'một số' (some) 'bài kiểm tra' (tests) 'trí nhớ' (memory) 'tiêu chuẩn' (standard)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Common or typical tests used to measure a person's ability to remember things.",
+        "translationVI": "Các bài kiểm tra trí nhớ tiêu chuẩn.",
+        "relatedCollocates": [
+          "memory (test)",
+          "standard (test)",
+          "cognitive (test)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "memory", "meaning": "trí nhớ" },
+            { "form": "test", "meaning": "bài kiểm tra" }
+          ],
+          "adjective": [{ "form": "standard", "meaning": "tiêu chuẩn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Patients with amnesia often perform poorly on standard memory tests."
+      }
+    },
+    {
+      "id": 1065,
+      "targetLexeme": "hold (numbers) in mind",
+      "sourceContext": "These assessed his ability to hold numbers, pictures and words in mind.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những bài test này 'đã đánh giá' (assessed) 'khả năng' (his ability) 'của anh ấy' (his) 'để' (to) 'ghi nhớ/giữ' (hold) 'các con số' (numbers), 'hình ảnh' (pictures) 'và' (and) 'từ ngữ' (words) 'trong' (in) 'tâm trí' (mind)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To keep information (like numbers) actively in your short-term memory.",
+        "translationVI": "Ghi nhớ/giữ (các con số) trong đầu.",
+        "relatedCollocates": ["keep (in mind)", "memorize (synonym)"],
+        "wordForms": {
+          "verb": [{ "form": "hold", "meaning": "giữ" }],
+          "noun": [{ "form": "mind", "meaning": "tâm trí" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It's hard to hold so many numbers in mind at once."
+      }
+    },
+    {
+      "id": 1066,
+      "targetLexeme": "classic test",
+      "sourceContext": "One classic test measures how many numbers a person can repeat, both forwards and backwards...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'bài kiểm tra' (test) 'cổ điển' (classic) 'đo lường' (measures) 'xem' (how) 'một người' (a person) 'có thể' (can) 'lặp lại' (repeat) 'bao nhiêu' (many) 'con số' (numbers), 'cả' (both) 'xuôi' (forwards) 'và' (and) 'ngược' (backwards)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "A well-known, standard, or traditional test.",
+        "translationVI": "Bài kiểm tra cổ điển.",
+        "relatedCollocates": [
+          "a (classic) example",
+          "standard (test) (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "test", "meaning": "bài kiểm tra" }],
+          "adjective": [{ "form": "classic", "meaning": "cổ điển" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The marshmallow experiment is a classic test of self-control in children."
+      }
+    },
+    {
+      "id": 1067,
+      "targetLexeme": "forwards and backwards",
+      "sourceContext": "...repeat, both forwards and backwards, soon after hearing them.",
+      "phase1Inference": {
+        "contextualGuessVI": "Lặp lại, 'cả' (both) 'xuôi' (forwards) 'và' (and) 'ngược' (backwards)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "In the normal order and in the reverse order.",
+        "translationVI": "(Cả) xuôi và ngược.",
+        "relatedCollocates": [
+          "repeat (sth) backwards",
+          "know (sth) forwards and backwards"
+        ],
+        "wordForms": {
+          "adverb": [
+            { "form": "forwards", "meaning": "xuôi" },
+            { "form": "backwards", "meaning": "ngược" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Can you say the alphabet backwards?"
+      }
+    },
+    {
+      "id": 1068,
+      "targetLexeme": "manage about seven",
+      "sourceContext": "Most people manage about seven.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Hầu hết' (Most) 'mọi người' (people) 'xoay xở/làm được' (manage) 'khoảng' (about) 'bảy' (seven) (con số)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To succeed in doing something, often with some difficulty (in this case, remembering 'about seven' items).",
+        "translationVI": "Xoay xở/làm được khoảng bảy (con số).",
+        "relatedCollocates": ["manage (to do sth)", "succeed in (doing sth)"],
+        "wordForms": {
+          "verb": [{ "form": "manage", "meaning": "xoay xở" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I can only manage about five tasks at once before I get confused."
+      }
+    },
+    {
+      "id": 1069,
+      "targetLexeme": "not exceptional on",
+      "sourceContext": "‘He was not exceptional on any of these standard tests,’ said Rissman.",
+      "phase1Inference": {
+        "contextualGuessVI": "Anh ấy 'không' (was not) 'xuất sắc/phi thường' (exceptional) 'ở' (on) 'bất kỳ' (any) 'bài kiểm tra' (tests) 'tiêu chuẩn' (standard) 'nào' (of these)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Not unusually good or outstanding; average or normal.",
+        "translationVI": "Không xuất sắc/nổi trội ở (môn nào).",
+        "relatedCollocates": [
+          "not (special)",
+          "average (synonym)",
+          "exceptional (ability)"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "exceptional", "meaning": "xuất sắc" }],
+          "adverb": [
+            { "form": "exceptionally", "meaning": "một cách xuất sắc" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His grades were good, but he was not exceptional on the final exam."
+      }
+    },
+    {
+      "id": 1070,
+      "targetLexeme": "supremely gifted at",
+      "sourceContext": "...playing chess that he seems to be supremely gifted at.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Mà 'anh ta' (he) 'dường như' (seems to be) 'có năng khiếu' (gifted) 'vượt trội/tột bậc' (supremely) 'ở' (at) 'môn' (môn) 'chơi cờ' (playing chess)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To be extremely or exceptionally talented or skilled at something.",
+        "translationVI": "Có năng khiếu vượt trội/tột bậc về.",
+        "relatedCollocates": [
+          "supremely (talented)",
+          "gifted (at)",
+          "exceptionally (good)"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "gifted", "meaning": "có năng khiếu" }],
+          "adverb": [{ "form": "supremely", "meaning": "tột bậc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She is a supremely gifted musician, excelling at both piano and violin."
+      }
+    },
+    {
+      "id": 1071,
+      "targetLexeme": "brain scans",
+      "sourceContext": "But next came the brain scans.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Tiếp theo' (But next) 'là' (came) 'các' (the) 'bản quét' (scans) 'não' (brain)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Medical images of the brain, such as MRI or fMRI scans, used to see its structure and activity.",
+        "translationVI": "(Các) bản quét não.",
+        "relatedCollocates": ["MRI (scan)", "fMRI (scan)", "scan (v)"],
+        "wordForms": {
+          "noun": [
+            { "form": "brain", "meaning": "não" },
+            { "form": "scan", "meaning": "bản quét" }
+          ],
+          "verb": [{ "form": "scan", "meaning": "quét" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The doctor ordered brain scans to check for any abnormalities."
+      }
+    },
+    {
+      "id": 1072,
+      "targetLexeme": "lying down in the machine",
+      "sourceContext": "With Gareyev lying down in the machine, Rissman looked at how well connected...",
+      "phase1Inference": {
+        "contextualGuessVI": "Với 'Gareyev' (Gareyev) 'đang nằm' (lying down) 'trong' (in) 'cỗ máy' (the machine) '(máy quét MRI)' (the machine), 'Rissman' (Rissman) 'đã xem xét' (looked at) 'mức độ' (how) 'kết nối' (connected) 'tốt' (well)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To be in a flat, horizontal position inside a piece of equipment (like an MRI scanner).",
+        "translationVI": "Nằm trong máy (quét).",
+        "relatedCollocates": ["lie down (v)", "in (a machine)"],
+        "wordForms": {
+          "verb": [{ "form": "lie down", "meaning": "nằm xuống" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "You have to stay perfectly still while lying down in the machine for the MRI."
+      }
+    },
+    {
+      "id": 1073,
+      "targetLexeme": "how well connected",
+      "sourceContext": "...looked at how well connected the various regions of the chess player’s brain were.",
+      "phase1Inference": {
+        "contextualGuessVI": "Xem xét 'mức độ' (how) 'kết nối' (connected) 'tốt' (well) 'của' (the) 'các vùng' (regions) 'khác nhau' (various) 'trong' (of the) 'não' (brain) 'của kỳ thủ' (chess player’s)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "The degree to which different parts are linked or communicate with each other.",
+        "translationVI": "Mức độ kết nối tốt/chặt chẽ.",
+        "relatedCollocates": ["well-connected (adj)", "brain (connectivity)"],
+        "wordForms": {
+          "adjective": [{ "form": "connected", "meaning": "được kết nối" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The study measured how well connected the different parts of the social network were."
+      }
+    },
+    {
+      "id": 1074,
+      "targetLexeme": "various regions of (the brain)",
+      "sourceContext": "...how well connected the various regions of the chess player’s brain were.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Các vùng' (regions) 'khác nhau' (various) 'của' (of the) 'não' (brain)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Different, distinct areas of the brain.",
+        "translationVI": "Các vùng khác nhau của (não).",
+        "relatedCollocates": ["brain (regions)", "different (areas)"],
+        "wordForms": {
+          "noun": [{ "form": "region", "meaning": "vùng" }],
+          "adjective": [{ "form": "various", "meaning": "khác nhau" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Different emotions activate various regions of the brain."
+      }
+    },
+    {
+      "id": 1075,
+      "targetLexeme": "results are tentative",
+      "sourceContext": "Though the results are tentative and as yet unpublished...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Mặc dù' (Though) 'các kết quả' (the results) 'chỉ là' (are) 'tạm thời/chưa chắc chắn' (tentative) 'và' (and) 'vẫn' (as yet) 'chưa được công bố' (unpublished)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "The findings are not yet final, certain, or confirmed; provisional.",
+        "translationVI": "Các kết quả (chỉ) là tạm thời/chưa chắc chắn.",
+        "relatedCollocates": [
+          "tentative (conclusions)",
+          "provisional (results)",
+          "preliminary (findings)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "result", "meaning": "kết quả" }],
+          "adjective": [{ "form": "tentative", "meaning": "tạm thời" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The results of the study are still tentative and require further research."
+      }
+    },
+    {
+      "id": 1076,
+      "targetLexeme": "as yet unpublished",
+      "sourceContext": "...and as yet unpublished, the scans found much greater than average communication...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Và' (and) 'vẫn' (as yet) 'chưa được công bố' (unpublished)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Not yet having been published (in a journal or book) up to this point in time.",
+        "translationVI": "Vẫn chưa được công bố.",
+        "relatedCollocates": ["not (yet) published", "unpublished (data)"],
+        "wordForms": {
+          "adjective": [
+            { "form": "unpublished", "meaning": "chưa được công bố" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His latest novel remains as yet unpublished."
+      }
+    },
+    {
+      "id": 1077,
+      "targetLexeme": "greater than average communication",
+      "sourceContext": "...the scans found much greater than average communication between parts of Gareyev’s brain...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các bản quét 'đã phát hiện' (found) 'sự giao tiếp/liên lạc' (communication) 'lớn hơn' (greater) 'nhiều' (much) 'so với' (than) 'mức trung bình' (average) 'giữa' (between) 'các phần' (parts) 'của' (of) 'não' (brain) 'Gareyev' (Gareyev’s)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "A level of interaction or connectivity (between brain regions) that is higher than the typical level.",
+        "translationVI": "Sự giao tiếp/kết nối lớn hơn mức trung bình.",
+        "relatedCollocates": ["above (average)", "communication (between)"],
+        "wordForms": {
+          "noun": [
+            { "form": "communication", "meaning": "sự giao tiếp" },
+            { "form": "average", "meaning": "mức trung bình" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The team showed greater than average communication, leading to their success."
+      }
+    },
+    {
+      "id": 1078,
+      "targetLexeme": "make up (a network)",
+      "sourceContext": "...communication between parts of Gareyev’s brain that make up what is called the frontoparietal control network.",
+      "phase1Inference": {
+        "contextualGuessVI": "Giữa các phần của não 'cấu thành/tạo nên' (make up) 'thứ' (what) 'được gọi là' (is called) 'mạng lưới' (network) 'kiểm soát' (control) 'trán-đỉnh' (frontoparietal)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To combine together to form a larger system (like a network).",
+        "translationVI": "Cấu thành/tạo nên (một mạng lưới).",
+        "relatedCollocates": ["constitute (synonym)", "form (a network)"],
+        "wordForms": {
+          "verb": [{ "form": "make up", "meaning": "cấu thành" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "These individual computers make up a powerful data-processing network."
+      }
+    },
+    {
+      "id": 1079,
+      "targetLexeme": "frontoparietal control network",
+      "sourceContext": "...the frontoparietal control network.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'mạng lưới' (network) 'kiểm soát' (control) 'thuộc thùy trán-đỉnh' (frontoparietal)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "A specific system in the brain, involving the frontal and parietal lobes, that is associated with managing attention and complex tasks.",
+        "translationVI": "Mạng lưới kiểm soát (vùng) trán-đỉnh.",
+        "relatedCollocates": ["brain (network)", "cognitive (control)"],
+        "wordForms": {
+          "noun": [
+            { "form": "network", "meaning": "mạng lưới" },
+            { "form": "control", "meaning": "sự kiểm soát" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The frontoparietal control network is crucial for problem-solving."
+      }
+    },
+    {
+      "id": 1080,
+      "targetLexeme": "scanned alongside (the player)",
+      "sourceContext": "Of 63 people scanned alongside the chess player, only one or two scored more highly...",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong '63' (Of 63) 'người' (people) 'được quét' (scanned) 'cùng với' (alongside) 'kỳ thủ' (the chess player), 'chỉ' (only) 'một' (one) 'hoặc' (or) 'hai' (two) '(người)' (người) 'đạt điểm' (scored) 'cao hơn' (more highly)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To be scanned (e.g., in an MRI) at the same time or as part of the same study as someone else.",
+        "translationVI": "Được quét/kiểm tra cùng với (người chơi).",
+        "relatedCollocates": [
+          "scanned (v)",
+          "alongside (prep)",
+          "scanned (with)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "scan", "meaning": "quét" }],
+          "preposition": [
+            { "form": "alongside", "meaning": "bên cạnh, cùng với" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He was tested in a group scanned alongside ten other participants."
+      }
+    },
+    {
+      "id": 1081,
+      "targetLexeme": "scored more highly on (the measure)",
+      "sourceContext": "...only one or two scored more highly on the measure.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chỉ một hoặc hai người 'đạt điểm' (scored) 'cao hơn' (more highly) 'trên' (on) 'thước đo' (the measure) 'đó' (the)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To get a better result or higher number on a specific test or scale.",
+        "translationVI": "Đạt điểm cao hơn trên (thước đo).",
+        "relatedCollocates": [
+          "score (high/low)",
+          "on (a measure)",
+          "on (a test)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "score", "meaning": "điểm số" },
+            { "form": "measure", "meaning": "thước đo" }
+          ],
+          "verb": [{ "form": "score", "meaning": "đạt điểm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She scored more highly on the maths test than anyone else in the class."
+      }
+    },
+    {
+      "id": 1082,
+      "targetLexeme": "complex task",
+      "sourceContext": "‘You use this network in almost any complex task.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bạn 'sử dụng' (use) 'mạng lưới' (this network) 'này' (this) 'trong' (in) 'hầu hết' (almost) 'bất kỳ' (any) 'nhiệm vụ' (task) 'phức tạp' (complex) 'nào' (any)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "A piece of work or an activity that is complicated and has many parts.",
+        "translationVI": "Nhiệm vụ phức tạp.",
+        "relatedCollocates": ["simple (task) (antonym)", "difficult (task)"],
+        "wordForms": {
+          "noun": [{ "form": "task", "meaning": "nhiệm vụ" }],
+          "adjective": [{ "form": "complex", "meaning": "phức tạp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Learning a new language is a complex task that requires dedication."
+      }
+    },
+    {
+      "id": 1083,
+      "targetLexeme": "allocate attention",
+      "sourceContext": "It helps you to allocate attention, keep rules in mind, and work out...",
+      "phase1Inference": {
+        "contextualGuessVI": "Nó 'giúp' (helps) 'bạn' (you) 'phân bổ' (to allocate) 'sự chú ý' (attention), 'ghi nhớ' (keep... in mind) 'các quy tắc' (rules), 'và' (and) 'tìm ra/xác định' (work out)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To distribute or assign your mental focus to where it is needed.",
+        "translationVI": "Phân bổ sự chú ý.",
+        "relatedCollocates": [
+          "allocate (resources)",
+          "pay (attention)",
+          "attention (span)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "attention", "meaning": "sự chú ý" },
+            { "form": "allocation", "meaning": "sự phân bổ" }
+          ],
+          "verb": [{ "form": "allocate", "meaning": "phân bổ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A good driver must be able to allocate attention to multiple things at once."
+      }
+    },
+    {
+      "id": 1084,
+      "targetLexeme": "keep rules in mind",
+      "sourceContext": "...allocate attention, keep rules in mind, and work out whether you should be responding or not,’",
+      "phase1Inference": {
+        "contextualGuessVI": "'Ghi nhớ' (keep... in mind) 'các quy tắc' (rules) 'trong đầu' (in mind)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To remember and remain aware of the regulations or principles governing an activity.",
+        "translationVI": "Ghi nhớ các quy tắc.",
+        "relatedCollocates": ["keep (in mind)", "remember (the rules)"],
+        "wordForms": {
+          "verb": [{ "form": "keep in mind", "meaning": "ghi nhớ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "You must keep the safety rules in mind at all times while in the laboratory."
+      }
+    },
+    {
+      "id": 1085,
+      "targetLexeme": "work out (whether)",
+      "sourceContext": "...and work out whether you should be responding or not,’ said Rissman.",
+      "phase1Inference": {
+        "contextualGuessVI": "Và 'tìm ra/xác định' (work out) 'liệu' (whether) 'bạn' (you) 'có' (should be) 'nên' (should) 'phản ứng/đáp lại' (responding) 'hay không' (or not)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To figure out, determine, or calculate if something is the case.",
+        "translationVI": "Xác định/tìm ra (liệu).",
+        "relatedCollocates": ["figure out (synonym)", "determine (whether)"],
+        "wordForms": {
+          "verb": [{ "form": "work out", "meaning": "tìm ra, xác định" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I need to work out whether I have enough money to buy the car."
+      }
+    },
+    {
+      "id": 1086,
+      "targetLexeme": "hint of (something special)",
+      "sourceContext": "It was not the only hint of something special in Gareyev’s brain.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đó 'không phải là' (was not) 'dấu hiệu/manh mối' (hint) 'duy nhất' (the only) 'về' (of) 'điều gì đó' (something) 'đặc biệt' (special) 'trong' (in) 'não' (brain) 'của Gareyev' (Gareyev’s)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "A slight sign, suggestion, or indication of something.",
+        "translationVI": "Dấu hiệu/manh mối/chút gì đó (của một điều đặc biệt).",
+        "relatedCollocates": ["a (slight) hint of", "a (sign) of"],
+        "wordForms": {
+          "noun": [{ "form": "hint", "meaning": "dấu hiệu, gợi ý" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There was a hint of sadness in her voice."
+      }
+    },
+    {
+      "id": 1087,
+      "targetLexeme": "visual network",
+      "sourceContext": "...Gareyev’s visual network is more highly connected to other brain parts than usual.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Mạng lưới' (network) 'thị giác' (visual) 'của Gareyev' (Gareyev’s) 'được kết nối' (is connected) 'cao hơn' (more highly) 'với' (to) 'các phần' (parts) 'não' (brain) 'khác' (other) 'so với' (than) 'bình thường' (usual)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "The system of interconnected areas in the brain that is responsible for processing visual information.",
+        "translationVI": "Mạng lưới thị giác.",
+        "relatedCollocates": [
+          "brain (network)",
+          "visual (cortex)",
+          "visual (processing)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "network", "meaning": "mạng lưới" },
+            { "form": "vision", "meaning": "thị giác" }
+          ],
+          "adjective": [{ "form": "visual", "meaning": "thuộc thị giác" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The visual network is responsible for interpreting what we see."
+      }
+    },
+    {
+      "id": 1088,
+      "targetLexeme": "more highly connected",
+      "sourceContext": "...is more highly connected to other brain parts than usual.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'kết nối' (connected) 'ở mức độ cao hơn' (more highly) 'so với bình thường' (than usual)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Having a greater degree of connectivity or linkage.",
+        "translationVI": "Kết nối ở mức độ cao hơn/chặt chẽ hơn.",
+        "relatedCollocates": ["highly (connected)", "greater (communication)"],
+        "wordForms": {
+          "adjective": [{ "form": "connected", "meaning": "được kết nối" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new system is more highly connected, allowing for faster data transfer."
+      }
+    },
+    {
+      "id": 1089,
+      "targetLexeme": "process visual images",
+      "sourceContext": "...the areas of his brain that process visual images – such as chess boards – may have stronger links...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các vùng não 'mà' (that) 'xử lý' (process) 'các hình ảnh' (images) 'thị giác' (visual) - 'như' (such as) 'bàn cờ' (chess boards) - 'có thể' (may have) 'có' (have) 'các liên kết' (links) 'mạnh mẽ hơn' (stronger)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To deal with and understand pictures or scenes received by the eyes.",
+        "translationVI": "Xử lý hình ảnh thị giác.",
+        "relatedCollocates": [
+          "visual (processing)",
+          "process (information)",
+          "visual (images)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "process", "meaning": "xử lý" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The brain's occipital lobe is primarily responsible for processing visual images."
+      }
+    },
+    {
+      "id": 1090,
+      "targetLexeme": "stronger links to",
+      "sourceContext": "...may have stronger links to other brain regions, and so be more powerful than normal.",
+      "phase1Inference": {
+        "contextualGuessVI": "Có thể có 'các liên kết' (links) 'mạnh mẽ hơn' (stronger) 'tới' (to) 'các vùng' (regions) 'não' (brain) 'khác' (other)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To have more powerful or numerous connections with something.",
+        "translationVI": "Các liên kết mạnh mẽ hơn tới.",
+        "relatedCollocates": ["strong (connection)", "links (with/to)"],
+        "wordForms": {
+          "noun": [{ "form": "link", "meaning": "liên kết" }],
+          "adjective": [{ "form": "strong", "meaning": "mạnh mẽ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The study found stronger links between air pollution and respiratory diseases."
+      }
+    },
+    {
+      "id": 1091,
+      "targetLexeme": "analyses are not finalised yet",
+      "sourceContext": "While the analyses are not finalised yet, they may hold the first clues to...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Mặc dù' (While) 'các phân tích' (the analyses) 'vẫn' (yet) 'chưa' (not) 'hoàn tất/chốt lại' (finalised), 'chúng' (they) 'có thể' (may) 'nắm giữ' (hold) 'những manh mối' (clues) 'đầu tiên' (the first) 'cho' (to)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "The detailed examinations or studies are not yet complete or concluded.",
+        "translationVI": "Các phân tích vẫn chưa được hoàn tất/chốt lại.",
+        "relatedCollocates": [
+          "results are tentative (synonym)",
+          "finalise (v)",
+          "analysis (n)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "analysis", "meaning": "phân tích (số ít)" }],
+          "verb": [{ "form": "finalise", "meaning": "hoàn tất" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We can't share the report because the analyses are not finalised yet."
+      }
+    },
+    {
+      "id": 1092,
+      "targetLexeme": "hold the first clues to",
+      "sourceContext": "...they may hold the first clues to Gareyev’s extraordinary ability.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chúng có thể 'nắm giữ' (hold) 'những manh mối' (clues) 'đầu tiên' (the first) 'về/cho' (to) 'khả năng' (ability) 'phi thường' (extraordinary) 'của Gareyev' (Gareyev’s)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To contain or possess the initial pieces of information that help to explain something.",
+        "translationVI": "Nắm giữ những manh mối đầu tiên về.",
+        "relatedCollocates": ["hold (a clue)", "a clue (to a mystery)"],
+        "wordForms": {
+          "noun": [{ "form": "clue", "meaning": "manh mối" }],
+          "verb": [{ "form": "hold", "meaning": "nắm giữ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "These ancient fossils may hold the first clues to how life began on Earth."
+      }
+    },
+    {
+      "id": 1093,
+      "targetLexeme": "extraordinary ability",
+      "sourceContext": "...Gareyev’s extraordinary ability.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Khả năng' (ability) 'phi thường/phi thường' (extraordinary) 'của Gareyev' (Gareyev’s)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "A very unusual or remarkable talent or skill.",
+        "translationVI": "Khả năng phi thường.",
+        "relatedCollocates": [
+          "remarkable (ability) (synonym)",
+          "exceptional (talent)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "ability", "meaning": "khả năng" }],
+          "adjective": [{ "form": "extraordinary", "meaning": "phi thường" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He has an extraordinary ability to remember names and faces."
+      }
+    },
+    {
+      "id": 1094,
+      "targetLexeme": "world record attempt",
+      "sourceContext": "For the world record attempt, Gareyev hopes to play 47 blindfold games at once...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đối với 'nỗ lực' (attempt) 'lập kỷ lục' (record) 'thế giới' (world), 'Gareyev' (Gareyev) 'hy vọng' (hopes) 'sẽ chơi' (to play) '47' (47) 'ván cờ' (games) 'bịt mắt' (blindfold) 'cùng lúc' (at once)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "An effort or try to achieve the best result ever recorded in the world.",
+        "translationVI": "Nỗ lực/lần thử lập kỷ lục thế giới.",
+        "relatedCollocates": [
+          "attempt (a record)",
+          "break (a record)",
+          "set (a record)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "record", "meaning": "kỷ lục" },
+            { "form": "attempt", "meaning": "nỗ lực" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His latest world record attempt was unsuccessful due to bad weather."
+      }
+    },
+    {
+      "id": 1095,
+      "targetLexeme": "at once",
+      "sourceContext": "...play 47 blindfold games at once in about 16 hours.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chơi 47 ván 'cùng một lúc' (at once) 'trong' (in) 'khoảng' (about) '16 giờ' (16 hours)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "At the same time; simultaneously.",
+        "translationVI": "Cùng một lúc, đồng thời.",
+        "relatedCollocates": [
+          "simultaneously (synonym)",
+          "keep active (at once)"
+        ],
+        "wordForms": {
+          "adverb": [{ "form": "at once", "meaning": "cùng lúc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Don't try to do everything at once; focus on one task at a time."
+      }
+    },
+    {
+      "id": 1096,
+      "targetLexeme": "winning percentage",
+      "sourceContext": "‘I don’t worry too much about the winning percentage, that’s never been an issue for me,’ he said.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tôi 'không' (don’t) 'lo lắng' (worry) 'quá' (too) 'nhiều' (much) 'về' (about) 'tỷ lệ' (percentage) 'thắng' (winning), 'đó' (that’s) 'chưa bao giờ' (never been) 'là' (an) 'vấn đề' (issue) 'với' (for) 'tôi' (me)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "The proportion of games won compared to the total number of games played.",
+        "translationVI": "Tỷ lệ thắng.",
+        "relatedCollocates": [
+          "win (rate)",
+          "success (rate)",
+          "percentage (of wins)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "percentage", "meaning": "tỷ lệ" },
+            { "form": "win", "meaning": "trận thắng" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The team has the best winning percentage in the league this season."
+      }
+    },
+    {
+      "id": 1097,
+      "targetLexeme": "never been an issue for me",
+      "sourceContext": "...that’s never been an issue for me,’ he said.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đó 'chưa bao giờ' (never been) 'là' (an) 'một vấn đề' (issue) 'đối với' (for) 'tôi' (me)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "(Idiom) It has never been a problem or a point of concern for me.",
+        "translationVI": "Chưa bao giờ là một vấn đề đối với tôi.",
+        "relatedCollocates": [
+          "not (an issue)",
+          "not (a problem)",
+          "never (a concern)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "issue", "meaning": "vấn đề" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Money has never been an issue for him; he was born into a wealthy family."
+      }
+    },
+    {
+      "id": 1098,
+      "targetLexeme": "most important part of",
+      "sourceContext": "‘The most important part of blindfold chess for me is that I have found the one thing...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Phần' (part) 'quan trọng' (important) 'nhất' (most) 'của' (of) 'cờ vua bịt mắt' (blindfold chess) 'đối với' (for) 'tôi' (me) 'là' (is) 'tôi' (I) 'đã tìm thấy' (have found) 'một điều' (the one thing)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "The most significant, essential, or primary aspect of something.",
+        "translationVI": "Phần quan trọng nhất của.",
+        "relatedCollocates": ["essential (part)", "key (aspect)"],
+        "wordForms": {
+          "noun": [{ "form": "part", "meaning": "phần" }],
+          "adjective": [{ "form": "important", "meaning": "quan trọng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The most important part of learning a language is consistent practice."
+      }
+    },
+    {
+      "id": 1099,
+      "targetLexeme": "fully dedicate myself to",
+      "sourceContext": "...the one thing that I can fully dedicate myself to. I miss having an obsession.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Điều duy nhất 'mà' (that) 'tôi' (I) 'có thể' (can) 'toàn tâm toàn ý' (fully) 'cống hiến/dâng hiến' (dedicate) 'bản thân' (myself) 'cho' (to) 'nó' (to). 'Tôi' (I) 'nhớ' (miss) 'cảm giác' (having) 'có một' (an) 'nỗi ám ảnh/đam mê' (obsession)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To commit oneself completely and wholeheartedly to a task, cause, or person.",
+        "translationVI": "Toàn tâm toàn ý/cống hiến hết mình cho.",
+        "relatedCollocates": [
+          "dedicate (oneself) to",
+          "fully (commit)",
+          "devote (oneself) to"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "dedicate", "meaning": "cống hiến" }],
+          "noun": [{ "form": "dedication", "meaning": "sự cống hiến" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She decided to fully dedicate herself to her medical career."
+      }
+    },
+    {
+      "id": 1100,
+      "targetLexeme": "miss having (an obsession)",
+      "sourceContext": "I miss having an obsession.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Tôi 'nhớ' (miss) 'cảm giác' (having) 'có một' (an) 'nỗi ám ảnh/đam mê' (obsession)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To feel sad or nostalgic about no longer having an intense interest or passion.",
+        "translationVI": "Nhớ (cảm giác) có (một nỗi ám ảnh/đam mê).",
+        "relatedCollocates": ["miss (doing sth)", "have (an obsession)"],
+        "wordForms": {
+          "verb": [{ "form": "miss", "meaning": "nhớ, bỏ lỡ" }],
+          "noun": [{ "form": "obsession", "meaning": "nỗi ám ảnh" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After retiring, he missed having a challenging project to work on."
+      }
+    },
+    {
+      "id": 1101,
+      "targetLexeme": "move on (to the next)",
+      "sourceContext": "...so the brain can move on to the next board.",
+      "phase1Inference": {
+        "contextualGuessVI": "Để não có thể 'chuyển sang' (move on to) bàn cờ 'tiếp theo' (the next)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To proceed to the next item, task, or topic.",
+        "translationVI": "Chuyển sang (cái tiếp theo).",
+        "relatedCollocates": ["move on (to the next topic)", "proceed (to)"],
+        "wordForms": {
+          "verb": [{ "form": "move on", "meaning": "chuyển sang" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTSENT_CREATION",
+        "content": "We've spent enough time on this, let's move on to the next agenda item."
+      }
+    },
+    {
+      "id": 1102,
+      "targetLexeme": "recall can get patchy",
+      "sourceContext": "When Gareyev is tired, his recall can get patchy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Khả năng 'nhớ lại' (recall) 'trở nên' (get) 'chắp vá/không ổn định' (patchy)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "One's ability to remember things becomes incomplete or inconsistent.",
+        "translationVI": "Khả năng nhớ lại/trí nhớ có thể trở nên chắp vá.",
+        "relatedCollocates": [
+          "patchy (memory)",
+          "patchy (recall)",
+          "inconsistent (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "recall", "meaning": "sự nhớ lại" }],
+          "adjective": [{ "form": "patchy", "meaning": "chắp vá" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "As the night went on, his recall of the details became patchy."
+      }
+    },
+    {
+      "id": 1103,
+      "targetLexeme": "a fragmented memory",
+      "sourceContext": "...based on only a fragmented memory of the pieces’ positions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'trí nhớ' (memory) 'bị phân mảnh' (fragmented)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "A memory that is incomplete, consisting of small, disconnected pieces.",
+        "translationVI": "Một ký ức/trí nhớ bị phân mảnh.",
+        "relatedCollocates": [
+          "fragmented (recall)",
+          "patchy (memory) (synonym)",
+          "fragment (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "memory", "meaning": "trí nhớ" },
+            { "form": "fragment", "meaning": "mảnh vỡ" }
+          ],
+          "adjective": [{ "form": "fragmented", "meaning": "bị phân mảnh" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He had only a fragmented memory of the day of the accident."
+      }
+    },
+    {
+      "id": 1104,
+      "targetLexeme": "hold (sth) in mind",
+      "sourceContext": "These assessed his ability to hold numbers, pictures and words in mind.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Giữ' (hold) 'cái gì đó' (sth) 'trong' (in) 'tâm trí' (mind)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "To keep information actively in your short-term memory.",
+        "translationVI": "Ghi nhớ/giữ (cái gì đó) trong đầu.",
+        "relatedCollocates": ["keep (in mind)", "memorize (synonym)"],
+        "wordForms": {
+          "verb": [{ "form": "hold", "meaning": "giữ" }],
+          "noun": [{ "form": "mind", "meaning": "tâm trí" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Try to hold this image in mind while you answer the question."
+      }
+    },
+    {
+      "id": 1105,
+      "targetLexeme": "earlier examples of blindfold chess",
+      "sourceContext": "Q27 (Matching): a reference to earlier examples of blindfold chess",
+      "phase1Inference": {
+        "contextualGuessVI": "Đề cập đến 'các ví dụ' (examples) 'trước đây' (earlier) 'về' (of) 'cờ vua bịt mắt' (blindfold chess)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'earlier examples' with 'go back centuries', '13th-century Florence', and 'Miguel Najdorf'.",
+        "translationVI": "Trọng tâm: So sánh 'ví dụ trước đây' với 'có từ nhiều thế kỷ', 'Florence thế kỷ 13', và 'Miguel Najdorf'.",
+        "relatedCollocates": [
+          "displays of the feat (related)",
+          "go back centuries (synonym)",
+          "first recorded game (synonym)",
+          "in 1947, Miguel Najdorf played... (example)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'earlier examples of blindfold chess' \n<->\nPassage: 'But displays of the feat go back centuries. The first recorded game... 13th-century Florence. In 1947, the Argentinian grandmaster Miguel Najdorf played...'"
+      }
+    },
+    {
+      "id": 1106,
+      "targetLexeme": "an outline of what blindfold chess involves",
+      "sourceContext": "Q28 (Matching): an outline of what blindfold chess involves",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'nét chính/đại cương' (an outline) 'về' (of) 'những gì' (what) 'môn cờ vua bịt mắt' (blindfold chess) 'bao gồm/liên quan đến' (involves)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'what it involves' with 'run through possible moves', 'recreate it in your mind', and 'memorised'.",
+        "translationVI": "Trọng tâm: So sánh 'nó bao gồm những gì' với 'xem xét các nước đi', 'tái tạo trong tâm trí', và 'ghi nhớ'.",
+        "relatedCollocates": [
+          "run through possible moves in the mind (paraphrase)",
+          "recreate it in your mind (paraphrase)",
+          "positions of each piece... must be memorised (paraphrase)",
+          "recalled faithfully (paraphrase)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'an outline of what blindfold chess involves' \n<->\nPassage: '...run through possible moves in the mind... You recreate it in your mind... Not only must the positions of each piece... be memorised, they must be recalled faithfully...'"
+      }
+    },
+    {
+      "id": 1107,
+      "targetLexeme": "skill is limited to chess",
+      "sourceContext": "Q29 (Matching): a claim that Gareyev’s skill is limited to chess",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'khẳng định' (a claim) 'rằng' (that) 'kỹ năng' (skill) 'của Gareyev' (Gareyev’s) 'chỉ giới hạn' (is limited) 'trong' (to) 'môn cờ vua' (chess)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'limited to chess' with 'not exceptional on standard tests' vs 'supremely gifted at chess'.",
+        "translationVI": "Trọng tâm: So sánh 'giới hạn trong cờ vua' với 'không xuất sắc ở các bài kiểm tra tiêu chuẩn' và 'có năng khiếu vượt trội về cờ vua'.",
+        "relatedCollocates": [
+          "not exceptional on any of these standard tests (paraphrase)",
+          "We didn’t find anything other than playing chess that he seems to be supremely gifted at (paraphrase)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'Gareyev’s skill is limited to chess' \n<->\nPassage: 'He was not exceptional on any of these standard tests... We didn’t find anything other than playing chess that he seems to be supremely gifted at.’"
+      }
+    },
+    {
+      "id": 1108,
+      "targetLexeme": "is of interest to scientists",
+      "sourceContext": "Q30 (Matching): why Gareyev’s skill is of interest to scientists",
+      "phase1Inference": {
+        "contextualGuessVI": "Tại sao 'kỹ năng' (skill) 'của Gareyev' (Gareyev’s) 'lại' (is) 'thu hút sự quan tâm' (of interest) 'của' (to) 'các nhà khoa học' (scientists)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'of interest to scientists' with 'drawn interest from beyond', 'researchers... called him in for tests'.",
+        "translationVI": "Trọng tâm: So sánh 'thu hút sự quan tâm của các nhà khoa học' với 'thu hút sự quan tâm từ bên ngoài', 'các nhà nghiên cứu... đã gọi anh ta đến để kiểm tra'.",
+        "relatedCollocates": [
+          "drawn interest from beyond the chess-playing community (paraphrase)",
+          "researchers at... UCLA... called him in for tests (paraphrase)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'why Gareyev’s skill is of interest to scientists' \n<->\nPassage: 'But Gareyev's prowess has drawn interest from beyond the chess-playing community... researchers... called him in for tests.'"
+      }
+    },
+    {
+      "id": 1109,
+      "targetLexeme": "outline of Gareyev’s priorities",
+      "sourceContext": "Q31 (Matching): an outline of Gareyev’s priorities",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'nét chính' (an outline) 'về' (of) 'các ưu tiên' (priorities) 'của Gareyev' (Gareyev’s)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'priorities' with 'don't worry about winning percentage' and 'most important part is...'.",
+        "translationVI": "Trọng tâm: So sánh 'các ưu tiên' với 'không lo về tỷ lệ thắng' và 'phần quan trọng nhất là...'.",
+        "relatedCollocates": [
+          "don’t worry too much about the winning percentage (related)",
+          "The most important part... for me is that I have found the one thing that I can fully dedicate myself to (paraphrase)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'an outline of Gareyev’s priorities' \n<->\nPassage: '‘I don’t worry too much about the winning percentage... The most important part... for me is that I have found the one thing that I can fully dedicate myself to.’'"
+      }
+    },
+    {
+      "id": 1110,
+      "targetLexeme": "last part of a game may be difficult",
+      "sourceContext": "Q32 (Matching): a reason why the last part of a game may be difficult",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'lý do' (a reason) 'tại sao' (why) 'phần cuối' (the last part) 'của' (of) 'một ván cờ' (a game) 'có thể' (may be) 'khó khăn' (difficult)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'last part... difficult' with 'ends of games can be taxing', 'exhaustion sets in', 'recall... patchy'.",
+        "translationVI": "Trọng tâm: So sánh 'phần cuối... khó' với 'cuối ván cờ có thể căng thẳng', 'sự kiệt sức ập đến', 'trí nhớ... chắp vá'.",
+        "relatedCollocates": [
+          "the ends of games (synonym)",
+          "can be taxing (synonym for 'difficult')",
+          "as exhaustion sets in (reason)",
+          "his recall can get patchy (reason)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'why the last part of a game may be difficult' \n<->\nPassage: 'But the ends of games can be taxing too, as exhaustion sets in. When Gareyev is tired, his recall can get patchy.'"
+      }
+    },
+    {
+      "id": 1111,
+      "targetLexeme": "all the participants will be blindfolded",
+      "sourceContext": "Q33 (TRUE/FALSE/NOT GIVEN): In the forthcoming games, all the participants will be blindfolded.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Tất cả' (all) 'những người tham gia' (the participants) 'sẽ' (will be) 'bị bịt mắt' (blindfolded)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'all participants' with 'his challengers... as normal' and 'Gareyev... blindfolded'.",
+        "translationVI": "Trọng tâm: So sánh 'tất cả người tham gia' với 'đối thủ của anh ta... như bình thường' và 'Gareyev... bị bịt mắt'.",
+        "relatedCollocates": [
+          "his challengers will play the games as normal (contradiction)",
+          "Gareyev himself will be blindfolded (contradiction)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'all the participants will be blindfolded' \n<->\nPassage: 'While his challengers will play the games as normal, Gareyev himself will be blindfolded.'"
+      }
+    },
+    {
+      "id": 1112,
+      "targetLexeme": "won competitions in BASE jumping",
+      "sourceContext": "Q34 (TRUE/FALSE/NOT GIVEN): Gareyev has won competitions in BASE jumping.",
+      "phase1Inference": {
+        "contextualGuessVI": "Gareyev 'đã thắng' (has won) 'các cuộc thi' (competitions) 'nhảy BASE' (in BASE jumping)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'won competitions in' with 'gets his kicks from the... sport of'.",
+        "translationVI": "Trọng tâm: So sánh 'thắng các cuộc thi' với 'tìm thấy niềm vui từ môn thể thao'.",
+        "relatedCollocates": [
+          "gets his kicks from the adventure sport of BASE jumping (different meaning - no mention of winning)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'won competitions in BASE jumping' \n<->\nPassage: '...he gets his kicks from the adventure sport of BASE jumping.' (Passage states he *does* it, not that he *won* competitions)."
+      }
+    },
+    {
+      "id": 1113,
+      "targetLexeme": "UCLA is the first university",
+      "sourceContext": "Q35 (TRUE/FALSE/NOT GIVEN): UCLA is the first university to carry out research into blindfold chess players.",
+      "phase1Inference": {
+        "contextualGuessVI": "UCLA 'là' (is) 'trường đại học' (university) 'đầu tiên' (the first) 'thực hiện' (to carry out) 'nghiên cứu' (research) 'về' (into) 'các kỳ thủ' (players) 'cờ vua bịt mắt' (blindfold chess)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'the first university' with 'researchers at... UCLA... called him in'.",
+        "translationVI": "Trọng tâm: So sánh 'trường đại học đầu tiên' với 'các nhà nghiên cứu tại... UCLA... đã gọi anh ta đến'.",
+        "relatedCollocates": [
+          "researchers at... UCLA... called him in for tests (Passage does not mention if they are 'the first')"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'UCLA is the first university to carry out research' \n<->\nPassage: '...researchers at the University of California... called him in for tests.' (No mention of 'first')"
+      }
+    },
+    {
+      "id": 1114,
+      "targetLexeme": "Good chess players are likely to be able to",
+      "sourceContext": "Q36 (TRUE/FALSE/NOT GIVEN): Good chess players are likely to be able to play blindfold chess.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Các kỳ thủ' (players) 'cờ vua' (chess) 'giỏi' (Good) 'có khả năng' (are likely to be able to) 'chơi' (play) 'cờ vua bịt mắt' (blindfold chess)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'Good... likely to be able' with 'not a far reach for most accomplished'.",
+        "translationVI": "Trọng tâm: So sánh 'Giỏi... có khả năng' với 'không quá xa vời đối với hầu hết những người tài năng'.",
+        "relatedCollocates": [
+          "not a far reach for most accomplished players (synonym)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'Good chess players are likely to be able to play...' \n<->\nPassage: '‘The ability to play... is not a far reach for most accomplished players...’'"
+      }
+    },
+    {
+      "id": 1115,
+      "targetLexeme": "testing Gareyev’s 37 ..........",
+      "sourceContext": "Q37 (Summary): The researchers started by testing Gareyev’s 37 ..........",
+      "phase1Inference": {
+        "contextualGuessVI": "Kiểm tra '[cái gì đó]' (37) 'của Gareyev' (Gareyev’s)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'testing...' with 'perform some standard memory tests'.",
+        "translationVI": "Trọng tâm: So sánh 'kiểm tra...' với 'thực hiện một số bài kiểm tra trí nhớ tiêu chuẩn'.",
+        "relatedCollocates": [
+          "perform some standard memory tests (paraphrase)",
+          "assessed his ability to hold... (paraphrase)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'testing Gareyev’s 37 ..........' \n<->\nPassage: '...had Gareyev perform some standard memory tests. These assessed his ability...'"
+      }
+    },
+    {
+      "id": 1116,
+      "targetLexeme": "recall a string of 38 ..........",
+      "sourceContext": "Q38 (Summary): ...for example, he was required to recall a string of 38 .......... in order and also in reverse order.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Nhớ lại' (recall) 'một chuỗi' (a string of) '[cái gì đó]' (38) 'theo thứ tự' (in order) 'và' (and) 'cũng' (also) 'theo' (in) 'thứ tự' (order) 'ngược lại' (reverse)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'recall a string of...' and 'in reverse order' with 'repeat... numbers' and 'forwards and backwards'.",
+        "translationVI": "Trọng tâm: So sánh 'nhớ lại một chuỗi...' và 'theo thứ tự ngược' với 'lặp lại... các con số' và 'xuôi và ngược'.",
+        "relatedCollocates": [
+          "how many numbers a person can repeat (paraphrase)",
+          "both forwards and backwards (synonym for 'in order and also in reverse order')"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'recall a string of 38 .......... in order and also in reverse order' \n<->\nPassage: '...measures how many numbers a person can repeat, both forwards and backwards...'"
+      }
+    },
+    {
+      "id": 1117,
+      "targetLexeme": "unusual amount of 39 ..........",
+      "sourceContext": "Q39 (Summary): ...scans showed an unusual amount of 39 .......... within the areas of Gareyev’s brain...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các bản quét 'cho thấy' (showed) 'một lượng' (an amount) 'bất thường' (unusual) 'của' (of) '[cái gì đó]' (39) 'trong' (within) 'các vùng' (the areas) 'não' (brain) 'của Gareyev' (Gareyev’s)..."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'unusual amount of...' with 'much greater than average...'.",
+        "translationVI": "Trọng tâm: So sánh 'lượng bất thường...' với 'lớn hơn nhiều so với mức trung bình...'.",
+        "relatedCollocates": [
+          "much greater than average communication (paraphrase)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'an unusual amount of 39 ..........' \n<->\nPassage: '...the scans found much greater than average communication...'"
+      }
+    },
+    {
+      "id": 1118,
+      "targetLexeme": "deal with 40 .......... input",
+      "sourceContext": "Q40 (Summary): ...the scans raised the possibility of unusual strength in the parts of his brain that deal with 40 .......... input.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các phần não 'mà' (that) 'xử lý' (deal with) 'thông tin đầu vào' (input) '[thuộc loại gì đó]' (40)."
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'deal with ... input' with 'process ... images'.",
+        "translationVI": "Trọng tâm: So sánh 'xử lý... thông tin đầu vào' với 'xử lý... hình ảnh'.",
+        "relatedCollocates": [
+          "the areas of his brain that process visual images (paraphrase)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'parts of his brain that deal with 40 .......... input' \n<->\nPassage: '...the areas of his brain that process visual images...'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+:root {
+  --background: 255 255 255;
+  --foreground: 0 0 0;
+}
+
+[data-theme='sepia'] {
+  --background: 241 231 219;
+  --foreground: 64 52 41;
+}
+
+[data-theme='dark'] {
+  --background: 18 18 18;
+  --foreground: 230 230 230;
+}

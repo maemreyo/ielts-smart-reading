@@ -1,0 +1,2341 @@
+{
+  "logTitle": "IELTS Reading Log: The Dead Sea Scrolls (Part 1)",
+  "sourceId": "Reading Passage (Image 'The Dead Sea Scrolls...')",
+  "totalItems": 76,
+  "lexicalItems": [
+    {
+      "id": 219,
+      "targetLexeme": "tending their (animals)",
+      "sourceContext": "...Bedouin teenagers were tending their goats and sheep...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đang 'tending' (chăm sóc, chăn) dê và cừu."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtendɪŋ ðeər/",
+        "sentiment": "neutral",
+        "definitionEN": "To look after or take care of (animals or people).",
+        "translationVI": "Chăn, chăm sóc (động vật).",
+        "relatedCollocates": ["tend to (sb/sth)", "tend a flock"],
+        "wordForms": {
+          "noun": [{ "form": "tender", "meaning": "người trông nom" }],
+          "verb": [{ "form": "tend", "meaning": "chăm sóc, chăn" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The shepherd spent most of his days tending his flock on the hillside."
+      }
+    },
+    {
+      "id": 220,
+      "targetLexeme": "ancient settlement",
+      "sourceContext": "...near the ancient settlement of Qumran...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'settlement' (khu định cư) 'ancient' (cổ xưa)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈeɪnʃənt ˈsetlmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "A very old town or village where people have lived for a long time.",
+        "translationVI": "Khu định cư cổ.",
+        "relatedCollocates": [
+          "early settlement",
+          "human settlement",
+          "destroy a settlement"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "settlement", "meaning": "khu định cư" },
+            { "form": "settler", "meaning": "người định cư" }
+          ],
+          "verb": [{ "form": "settle", "meaning": "định cư" }],
+          "adjective": [{ "form": "ancient", "meaning": "cổ xưa" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Archaeologists recently uncovered the ruins of an ancient settlement."
+      }
+    },
+    {
+      "id": 221,
+      "targetLexeme": "a shattering sound",
+      "sourceContext": "...and was surprised to hear a shattering sound.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'sound' (âm thanh) 'shattering' (vỡ tan)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈʃætərɪŋ saʊnd/",
+        "sentiment": "neutral",
+        "definitionEN": "A very loud, sharp noise, as if something is breaking into many small pieces.",
+        "translationVI": "Âm thanh vỡ tan.",
+        "relatedCollocates": [
+          "a loud sound",
+          "shatter into pieces",
+          "a deafening sound"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "sound", "meaning": "âm thanh" }],
+          "verb": [{ "form": "shatter", "meaning": "làm vỡ tan" }],
+          "adjective": [
+            { "form": "shattering", "meaning": "(gây) vỡ tan" },
+            { "form": "shattered", "meaning": "bị vỡ" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The glass hit the floor with a shattering sound."
+      }
+    },
+    {
+      "id": 222,
+      "targetLexeme": "stumbled across",
+      "sourceContext": "...entered the cave and stumbled across a collection of large clay jars...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Stumbled' (vấp ngã) 'across' (qua) -> 'tình cờ tìm thấy'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈstʌmbld əˈkrɒs/",
+        "sentiment": "neutral",
+        "definitionEN": "To discover or find something by chance or accidentally.",
+        "translationVI": "Tình cờ phát hiện/tìm thấy.",
+        "relatedCollocates": ["come across", "run into", "discover by chance"],
+        "wordForms": {
+          "noun": [{ "form": "stumble", "meaning": "cú vấp ngã" }],
+          "verb": [
+            { "form": "stumble", "meaning": "vấp ngã" },
+            { "form": "stumble across", "meaning": "tình cờ thấy" }
+          ],
+          "adjective": [{ "form": "stumbling", "meaning": "loạng choạng" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "While cleaning the attic, she stumbled across her great-grandmother's diary."
+      }
+    },
+    {
+      "id": 223,
+      "targetLexeme": "contained scrolls",
+      "sourceContext": "...seven of which contained scrolls with writing on them.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các bình 'contained' (chứa) 'scrolls' (các cuộn giấy da)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/kənˈteɪnd skrəʊlz/",
+        "sentiment": "neutral",
+        "definitionEN": "To have or hold something (in this case, rolled-up documents) inside.",
+        "translationVI": "Chứa các cuộn (giấy/da).",
+        "relatedCollocates": ["contain (v)", "a container (n)", "a scroll (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "scroll", "meaning": "cuộn giấy/da" },
+            { "form": "container", "meaning": "vật chứa" }
+          ],
+          "verb": [{ "form": "contain", "meaning": "chứa đựng" }],
+          "adjective": [{ "form": "self-contained", "meaning": "khép kín" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ancient box contained scrolls that were over two thousand years old."
+      }
+    },
+    {
+      "id": 224,
+      "targetLexeme": "sold for a small sum",
+      "sourceContext": "...they were sold for a small sum to a local antiquities dealer.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'sold' (bán) 'for' (với) một 'small sum' (số tiền nhỏ)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/səʊld fər ə smɔːl sʌm/",
+        "sentiment": "negative",
+        "definitionEN": "To be exchanged for a low price or small amount of money.",
+        "translationVI": "Bán được một số tiền nhỏ.",
+        "relatedCollocates": [
+          "a large sum",
+          "a considerable sum",
+          "a sum of money"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "sum", "meaning": "số tiền" }],
+          "verb": [{ "form": "sell (past: sold)", "meaning": "bán" }],
+          "adjective": [{ "form": "small", "meaning": "nhỏ" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The family heirloom was unfortunately sold for a small sum at an auction."
+      }
+    },
+    {
+      "id": 225,
+      "targetLexeme": "local antiquities dealer",
+      "sourceContext": "...to a local antiquities dealer.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'dealer' (người buôn) 'antiquities' (đồ cổ) 'local' (địa phương)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈləʊkl ænˈtɪkwətiz ˈdiːlə/",
+        "sentiment": "neutral",
+        "definitionEN": "A person in the nearby area whose business is buying and selling old, valuable objects.",
+        "translationVI": "Người buôn đồ cổ địa phương.",
+        "relatedCollocates": ["an art dealer", "an antique shop"],
+        "wordForms": {
+          "noun": [
+            { "form": "antiquity", "meaning": "thời cổ đại" },
+            { "form": "antiquities", "meaning": "đồ cổ" },
+            { "form": "dealer", "meaning": "người buôn" }
+          ],
+          "verb": [{ "form": "deal", "meaning": "buôn bán" }],
+          "adjective": [
+            { "form": "local", "meaning": "địa phương" },
+            { "form": "antique", "meaning": "cổ" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He took the old coin to a local antiquities dealer to get it appraised."
+      }
+    },
+    {
+      "id": 226,
+      "targetLexeme": "Word of the find spread",
+      "sourceContext": "Word of the find spread, and Bedouins and archaeologists...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Word' (Tin tức) 'of the find' (về phát hiện) 'spread' (lan rộng)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɜːd əv ðə faɪnd spred/",
+        "sentiment": "neutral",
+        "definitionEN": "Information or news about the discovery quickly circulated among people.",
+        "translationVI": "Tin tức về phát hiện này lan rộng.",
+        "relatedCollocates": [
+          "word spread quickly",
+          "news spread",
+          "rumours spread"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "word", "meaning": "tin tức, lời nói" },
+            { "form": "find", "meaning": "phát hiện" }
+          ],
+          "verb": [{ "form": "spread", "meaning": "lan truyền" }],
+          "adjective": [{ "form": "widespread", "meaning": "lan rộng" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Word of the gold discovery spread, and thousands rushed to the area."
+      }
+    },
+    {
+      "id": 227,
+      "targetLexeme": "unearthed (v)",
+      "sourceContext": "...eventually unearthed tens of thousands of additional scroll fragments...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Unearthed' (khai quật được) 'tens of thousands' (hàng chục ngàn) mảnh vỡ."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ʌnˈɜːθt/",
+        "sentiment": "positive",
+        "definitionEN": "To discover something hidden in the ground (literally 'out of the earth'); to uncover something by searching.",
+        "translationVI": "Khai quật, phát hiện.",
+        "relatedCollocates": ["unearth (a secret)", "uncover (synonym)"],
+        "wordForms": {
+          "noun": [{ "form": "earth", "meaning": "mặt đất" }],
+          "verb": [{ "form": "unearth", "meaning": "khai quật" }],
+          "adjective": [{ "form": "unearthed", "meaning": "được khai quật" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The construction workers unearthed an ancient Roman vase."
+      }
+    },
+    {
+      "id": 228,
+      "targetLexeme": "archaeological discoveries",
+      "sourceContext": "...one of the greatest archaeological discoveries ever made.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'discoveries' (phát hiện) 'archaeological' (thuộc về khảo cổ)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌɑːkiəˈlɒdʒɪkl dɪˈskʌvəriz/",
+        "sentiment": "positive",
+        "definitionEN": "The act of finding sites, objects, or information from the past, related to the study of human history.",
+        "translationVI": "Các phát hiện khảo cổ.",
+        "relatedCollocates": [
+          "a major discovery",
+          "an archaeological site",
+          "an archaeologist"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "archaeology", "meaning": "khảo cổ học" },
+            { "form": "archaeologist", "meaning": "nhà khảo cổ" },
+            { "form": "discovery", "meaning": "sự phát hiện" }
+          ],
+          "verb": [{ "form": "discover", "meaning": "phát hiện" }],
+          "adjective": [
+            { "form": "archaeological", "meaning": "thuộc khảo cổ" }
+          ],
+          "adverb": [
+            { "form": "archaeologically", "meaning": "về mặt khảo cổ" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The tomb of Tutankhamun is one of the most famous archaeological discoveries in history."
+      }
+    },
+    {
+      "id": 229,
+      "targetLexeme": "the subject of scholarly debate",
+      "sourceContext": "...is still the subject of scholarly debate even today.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Subject' (chủ đề) 'of' (của) 'scholarly debate' (tranh luận học thuật)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈsʌbdʒɪkt əv ˈskɒləli dɪˈbeɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "A topic that is being discussed and argued about by academic experts (scholars).",
+        "translationVI": "Chủ đề của tranh luận học thuật.",
+        "relatedCollocates": [
+          "a heated debate",
+          "a subject of (interest)",
+          "a scholar (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "subject", "meaning": "chủ đề" },
+            { "form": "debate", "meaning": "cuộc tranh luận" },
+            { "form": "scholar", "meaning": "học giả" }
+          ],
+          "verb": [{ "form": "debate", "meaning": "tranh luận" }],
+          "adjective": [
+            { "form": "scholarly", "meaning": "có tính học thuật" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The author's true identity remains the subject of scholarly debate."
+      }
+    },
+    {
+      "id": 230,
+      "targetLexeme": "prevailing theory",
+      "sourceContext": "According to the prevailing theory, they are the work of a population...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Theory' (lý thuyết) 'prevailing' (thịnh hành, chiếm ưu thế)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/prɪˈveɪlɪŋ ˈθɪəri/",
+        "sentiment": "neutral",
+        "definitionEN": "The most common or widely accepted theory at a particular time.",
+        "translationVI": "Lý thuyết thịnh hành/chủ đạo.",
+        "relatedCollocates": [
+          "the prevailing view",
+          "prevailing (adj)",
+          "prevalent (synonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "theory", "meaning": "lý thuyết" },
+            { "form": "prevalence", "meaning": "sự thịnh hành" }
+          ],
+          "verb": [{ "form": "prevail", "meaning": "chiếm ưu thế" }],
+          "adjective": [
+            { "form": "prevailing", "meaning": "thịnh hành" },
+            { "form": "prevalent", "meaning": "thịnh hành" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The prevailing theory is that the universe began with a massive explosion."
+      }
+    },
+    {
+      "id": 231,
+      "targetLexeme": "inhabited the area",
+      "sourceContext": "...a population that inhabited the area until Roman troops...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'population' (dân cư) đã 'inhabited' (sinh sống) 'the area' (tại khu vực)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈhæbɪtɪd ði ˈeəriə/",
+        "sentiment": "neutral",
+        "definitionEN": "To live in a particular place or region.",
+        "translationVI": "Cư ngụ/sinh sống tại khu vực.",
+        "relatedCollocates": [
+          "inhabit (v)",
+          "inhabitant (n)",
+          "a populated area"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "inhabitant", "meaning": "cư dân" },
+            { "form": "habitat", "meaning": "môi trường sống" }
+          ],
+          "verb": [{ "form": "inhabit", "meaning": "cư ngụ" }],
+          "adjective": [
+            { "form": "inhabited", "meaning": "có người ở" },
+            { "form": "uninhabited", "meaning": "không có người ở" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The valley was once inhabited by a mysterious tribe."
+      }
+    },
+    {
+      "id": 232,
+      "targetLexeme": "devout (adj)",
+      "sourceContext": "...a devout Jewish sect.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'sect' (giáo phái) 'devout' (sùng đạo, ngoan đạo)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈvaʊt/",
+        "sentiment": "neutral",
+        "definitionEN": "Deeply religious; having or showing strong religious feeling or commitment.",
+        "translationVI": "Sùng đạo, mộ đạo.",
+        "relatedCollocates": [
+          "a devout Catholic/Muslim/Buddhist",
+          "deeply devout"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "devotion", "meaning": "sự sùng đạo" }],
+          "verb": [{ "form": "devote", "meaning": "cống hiến" }],
+          "adjective": [
+            { "form": "devout", "meaning": "sùng đạo" },
+            { "form": "devoted", "meaning": "tận tâm" }
+          ],
+          "adverb": [{ "form": "devoutly", "meaning": "(một cách) sùng đạo" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "My grandmother was a devout Christian and went to church every week."
+      }
+    },
+    {
+      "id": 233,
+      "targetLexeme": "fallen out of use",
+      "sourceContext": "...thought to have fallen out of use in the fifth century BCE.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị 'fallen' (rơi) 'out of use' (ra khỏi việc sử dụng) -> 'không còn được dùng nữa'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfɔːlən aʊt əv juːs/",
+        "sentiment": "neutral",
+        "definitionEN": "To no longer be used; to become obsolete or archaic.",
+        "translationVI": "Không còn được sử dụng nữa, thất truyền.",
+        "relatedCollocates": ["come into use (antonym)", "obsolete (adj)"],
+        "wordForms": {
+          "noun": [{ "form": "use", "meaning": "việc sử dụng" }],
+          "verb": [
+            { "form": "fall out of use", "meaning": "không còn được dùng" }
+          ],
+          "adjective": [
+            { "form": "used", "meaning": "đã qua sử dụng" },
+            { "form": "unused", "meaning": "chưa sử dụng" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "FEYNMAN_EXPLANATION",
+        "content": "It just means people stopped using it. Think of old technology like floppy disks - they have fallen out of use because we have USBs and the cloud."
+      }
+    },
+    {
+      "id": 234,
+      "targetLexeme": "siege of (a city)",
+      "sourceContext": "...by many inhabitants of the region from the sixth century BCE to the siege of Jerusalem in 70 CE.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cuộc 'siege' (vây hãm) thành Jerusalem."
+      },
+      "phase2Annotation": {
+        "phonetic": "/siːdʒ əv/",
+        "sentiment": "negative",
+        "definitionEN": "A military operation in which an army surrounds a city or building to cut off supplies and force a surrender.",
+        "translationVI": "Cuộc vây hãm (một thành phố).",
+        "relatedCollocates": ["lay siege to", "under siege", "lift a siege"],
+        "wordForms": {
+          "noun": [{ "form": "siege", "meaning": "cuộc vây hãm" }],
+          "verb": [{ "form": "besiege", "meaning": "vây hãm" }],
+          "adjective": [{ "form": "besieged", "meaning": "bị vây hãm" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The siege of the medieval castle lasted for eight long months."
+      }
+    },
+    {
+      "id": 235,
+      "targetLexeme": "feature translations of",
+      "sourceContext": "In addition, several texts feature translations of the Hebrew Bible into Greek.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Feature' (có, bao gồm) các 'translations' (bản dịch) 'of' (của) Kinh thánh."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfiːtʃə trænsˈleɪʃənz əv/",
+        "sentiment": "neutral",
+        "definitionEN": "To include as an important part or characteristic the translated versions of something.",
+        "translationVI": "Bao gồm/có các bản dịch của.",
+        "relatedCollocates": [
+          "feature (v)",
+          "translation (n)",
+          "a key feature"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "feature", "meaning": "đặc điểm" },
+            { "form": "translation", "meaning": "bản dịch" },
+            { "form": "translator", "meaning": "biên dịch viên" }
+          ],
+          "verb": [
+            { "form": "feature", "meaning": "bao gồm, có" },
+            { "form": "translate", "meaning": "dịch" }
+          ],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new museum exhibit will feature paintings from local artists."
+      }
+    },
+    {
+      "id": 236,
+      "targetLexeme": "include fragments from",
+      "sourceContext": "The Dead Sea Scrolls include fragments from every book of the Old Testament...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Include' (bao gồm) các 'fragments' (mảnh vỡ) 'from' (từ) mỗi cuốn sách."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈkluːd ˈfræɡmənts frɒm/",
+        "sentiment": "neutral",
+        "definitionEN": "To contain small, broken pieces or incomplete parts of something.",
+        "translationVI": "Bao gồm các mảnh vỡ/mảnh vụn từ.",
+        "relatedCollocates": [
+          "fragments of (pottery)",
+          "a fragmented (adj) society"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "fragment", "meaning": "mảnh vỡ" }],
+          "verb": [
+            { "form": "include", "meaning": "bao gồm" },
+            { "form": "fragment", "meaning": "vỡ ra" }
+          ],
+          "adjective": [
+            { "form": "fragmented", "meaning": "bị phân mảnh" },
+            { "form": "inclusive", "meaning": "bao hàm" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The archaeologist found fragments from an ancient pot."
+      }
+    },
+    {
+      "id": 237,
+      "targetLexeme": "preserved among",
+      "sourceContext": "...book of the Hebrew Bible preserved among the manuscripts from Qumran is Isaiah...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'preserved' (bảo tồn, gìn giữ) 'among' (trong số) các bản thảo."
+      },
+      "phase2Annotation": {
+        "phonetic": "/prɪˈzɜːvd əˈmʌŋ/",
+        "sentiment": "positive",
+        "definitionEN": "To be kept safe, in good condition, or existing among a group of items.",
+        "translationVI": "Được bảo tồn/gìn giữ trong số.",
+        "relatedCollocates": [
+          "well-preserved (adj)",
+          "preserve (sth) for (future)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "preservation", "meaning": "sự bảo tồn" },
+            { "form": "preservative", "meaning": "chất bảo quản" }
+          ],
+          "verb": [{ "form": "preserve", "meaning": "bảo tồn" }],
+          "adjective": [
+            { "form": "preserved", "meaning": "được bảo tồn" },
+            { "form": "well-preserved", "meaning": "được bảo tồn tốt" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "This ancient tradition has been perfectly preserved among the local villagers."
+      }
+    },
+    {
+      "id": 238,
+      "targetLexeme": "dated to the first century BCE",
+      "sourceContext": "...this copy, dated to the first century BCE, is considered...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'dated to' (xác định niên đại vào) thế kỷ thứ nhất TCN."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdeɪtɪd tə ðə fɜːst ˈsentʃəri biː siː iː/",
+        "sentiment": "neutral",
+        "definitionEN": "To be determined or estimated to have originated from a specific time period (e.g., the 1st century BCE).",
+        "translationVI": "Có niên đại từ/vào.",
+        "relatedCollocates": ["date back to", "carbon dating"],
+        "wordForms": {
+          "noun": [{ "form": "date", "meaning": "ngày, niên đại" }],
+          "verb": [{ "form": "date (to/from)", "meaning": "có niên đại" }],
+          "adjective": [
+            { "form": "dated", "meaning": "có niên đại, lỗi thời" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The manuscript has been dated to the 14th century."
+      }
+    },
+    {
+      "id": 239,
+      "targetLexeme": "biblical manuscript",
+      "sourceContext": "...is considered the earliest biblical manuscript still in existence.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Manuscript' (bản thảo viết tay) 'biblical' (thuộc về Kinh thánh)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbɪblɪkl ˈmænjuskrɪpt/",
+        "sentiment": "neutral",
+        "definitionEN": "A very old, handwritten copy of a book from the Bible.",
+        "translationVI": "Bản thảo Kinh thánh (viết tay).",
+        "relatedCollocates": ["ancient manuscript", "biblical (adj)"],
+        "wordForms": {
+          "noun": [
+            { "form": "manuscript", "meaning": "bản thảo" },
+            { "form": "Bible", "meaning": "Kinh thánh" }
+          ],
+          "verb": null,
+          "adjective": [{ "form": "biblical", "meaning": "thuộc Kinh thánh" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The museum displays a priceless biblical manuscript from the Middle Ages."
+      }
+    },
+    {
+      "id": 240,
+      "targetLexeme": "still in existence",
+      "sourceContext": "...the earliest biblical manuscript still in existence.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Still' (vẫn) 'in existence' (còn tồn tại)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/stɪl ɪn ɪɡˈzɪstəns/",
+        "sentiment": "positive",
+        "definitionEN": "Still existing; has not been destroyed, lost, or made extinct.",
+        "translationVI": "Vẫn còn tồn tại.",
+        "relatedCollocates": [
+          "come into existence",
+          "cease to exist",
+          "no longer in existence"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "existence", "meaning": "sự tồn tại" }],
+          "verb": [{ "form": "exist", "meaning": "tồn tại" }],
+          "adjective": [
+            { "form": "existent", "meaning": "tồn tại" },
+            { "form": "pre-existing", "meaning": "tồn tại từ trước" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is one of the oldest redwood trees still in existence."
+      }
+    },
+    {
+      "id": 241,
+      "targetLexeme": "biblical texts",
+      "sourceContext": "Along with biblical texts, the scrolls include documents about...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'texts' (văn bản) 'biblical' (thuộc Kinh thánh)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbɪblɪkl teksts/",
+        "sentiment": "neutral",
+        "definitionEN": "Writings or documents that are from or related to the Bible.",
+        "translationVI": "Các văn bản Kinh thánh.",
+        "relatedCollocates": ["ancient texts", "religious texts"],
+        "wordForms": {
+          "noun": [
+            { "form": "text", "meaning": "văn bản" },
+            { "form": "Bible", "meaning": "Kinh thánh" }
+          ],
+          "verb": null,
+          "adjective": [{ "form": "biblical", "meaning": "thuộc Kinh thánh" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Scholars spend their lives studying these ancient biblical texts."
+      }
+    },
+    {
+      "id": 242,
+      "targetLexeme": "sectarian regulations",
+      "sourceContext": "...documents about sectarian regulations and religious writings...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'regulations' (quy định) 'sectarian' (thuộc về giáo phái)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/sekˈteəriən ˌreɡjuˈleɪʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Specific rules or laws that relate to a particular religious group (a sect).",
+        "translationVI": "Các quy định/nội quy của giáo phái.",
+        "relatedCollocates": [
+          "sectarian (adj)",
+          "religious regulations",
+          "strict rules"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "sect", "meaning": "giáo phái" },
+            { "form": "regulation", "meaning": "quy định" }
+          ],
+          "verb": [{ "form": "regulate", "meaning": "điều chỉnh" }],
+          "adjective": [
+            { "form": "sectarian", "meaning": "thuộc giáo phái" },
+            { "form": "regulatory", "meaning": "mang tính quản lý" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The scrolls provided insight into the community's strict sectarian regulations."
+      }
+    },
+    {
+      "id": 243,
+      "targetLexeme": "parchment (n)",
+      "sourceContext": "...made of either parchment (animal skin) or an early form of paper...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một loại vật liệu (giấy da) làm từ da động vật (animal skin)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpɑːtʃmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "A stiff, flat, thin material made from the skin of an animal, used in ancient times for writing.",
+        "translationVI": "Giấy da (làm từ da động vật).",
+        "relatedCollocates": ["a parchment scroll", "ancient parchment"],
+        "wordForms": {
+          "noun": [{ "form": "parchment", "meaning": "giấy da" }],
+          "verb": null,
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The medieval monks wrote their manuscripts on high-quality parchment."
+      }
+    },
+    {
+      "id": 244,
+      "targetLexeme": "papyrus (n)",
+      "sourceContext": "...or an early form of paper called 'papyrus'.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một dạng 'giấy' thời xưa, gọi là 'papyrus'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/pəˈpaɪrəs/",
+        "sentiment": "neutral",
+        "definitionEN": "A material used in ancient Egypt, Greece, and Rome, made from the pith of a water plant, used for writing or painting on.",
+        "translationVI": "Giấy cói (làm từ cây papyrus).",
+        "relatedCollocates": ["a papyrus scroll", "an ancient papyrus"],
+        "wordForms": {
+          "noun": [
+            { "form": "papyrus", "meaning": "cây cói" },
+            { "form": "papyri", "meaning": "(số nhiều) giấy cói" }
+          ],
+          "verb": null,
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Archaeologists discovered an ancient Egyptian papyrus detailing a medical procedure."
+      }
+    },
+    {
+      "id": 245,
+      "targetLexeme": "a combination of",
+      "sourceContext": "...created out of a combination of copper and tin.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'combination' (kết hợp, tổ hợp) 'of' (của) đồng và thiếc."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˌkɒmbɪˈneɪʃən əv/",
+        "sentiment": "neutral",
+        "definitionEN": "A mixture or blend of two or more different things.",
+        "translationVI": "Sự kết hợp/tổ hợp của.",
+        "relatedCollocates": [
+          "a combination of (factors)",
+          "in combination with"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "combination", "meaning": "sự kết hợp" }],
+          "verb": [{ "form": "combine", "meaning": "kết hợp" }],
+          "adjective": [{ "form": "combined", "meaning": "đã kết hợp" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Bronze is an alloy made from a combination of copper and tin."
+      }
+    },
+    {
+      "id": 246,
+      "targetLexeme": "curious document",
+      "sourceContext": "Known as the Copper Scroll, this curious document features...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'document' (tài liệu) 'curious' (gây tò mò, kỳ lạ)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkjʊəriəs ˈdɒkjumənt/",
+        "sentiment": "neutral",
+        "definitionEN": "A text or paper that is strange, unusual, or interesting.",
+        "translationVI": "Tài liệu kỳ lạ/gây tò mò.",
+        "relatedCollocates": [
+          "a curious object",
+          "strange (synonym)",
+          "intriguing (synonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "document", "meaning": "tài liệu" },
+            { "form": "curiosity", "meaning": "sự tò mò" }
+          ],
+          "verb": [{ "form": "document", "meaning": "ghi lại" }],
+          "adjective": [{ "form": "curious", "meaning": "tò mò, kỳ lạ" }],
+          "adverb": [{ "form": "curiously", "meaning": "(một cách) kỳ lạ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The antique shop had a curious document that looked like an old map."
+      }
+    },
+    {
+      "id": 247,
+      "targetLexeme": "passages chiselled onto metal",
+      "sourceContext": "...this curious document features passages chiselled onto metal...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'passages' (đoạn văn) 'chiselled' (được đục, khắc) 'onto' (lên) 'metal' (kim loại)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpæsɪdʒɪz ˈtʃɪzld ˈɒntuː ˈmetl/",
+        "sentiment": "neutral",
+        "definitionEN": "Sections of text that have been cut or carved into a hard material like metal, using a sharp tool (a chisel).",
+        "translationVI": "Các đoạn văn được đục/khắc lên kim loại.",
+        "relatedCollocates": ["chisel (v)", "carved into (stone)"],
+        "wordForms": {
+          "noun": [
+            { "form": "passage", "meaning": "đoạn văn" },
+            { "form": "chisel", "meaning": "cái đục" }
+          ],
+          "verb": [{ "form": "chisel", "meaning": "đục, khắc" }],
+          "adjective": [{ "form": "chiselled", "meaning": "được đục/khắc" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The monument featured names chiselled onto a large metal plaque."
+      }
+    },
+    {
+      "id": 248,
+      "targetLexeme": "withstand the passage of time",
+      "sourceContext": "...to better withstand the passage of time.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Withstand' (chịu đựng, chống chọi) 'the passage of time' (sự trôi qua của thời gian)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɪðˈstænd ðə ˈpæsɪdʒ əv taɪm/",
+        "sentiment": "positive",
+        "definitionEN": "To remain undamaged, strong, or intact as many years go by; to endure.",
+        "translationVI": "Chống chọi/trường tồn với thời gian.",
+        "relatedCollocates": [
+          "withstand (pressure)",
+          "endure the test of time"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "passage", "meaning": "lối đi, sự trôi qua" }],
+          "verb": [{ "form": "withstand", "meaning": "chống chọi" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ancient pyramids were built with materials that could withstand the passage of time."
+      }
+    },
+    {
+      "id": 249,
+      "targetLexeme": "intriguing (adj)",
+      "sourceContext": "One of the most intriguing manuscripts from Qumran...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một trong những 'manuscripts' (bản thảo) 'intriguing' (gây tò mò, hấp dẫn)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈtriːɡɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "Very interesting because of being unusual or mysterious.",
+        "translationVI": "Hấp dẫn, gây tò mò, thú vị.",
+        "relatedCollocates": [
+          "an intriguing possibility",
+          "an intriguing story",
+          "curious (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "intrigue", "meaning": "sự hấp dẫn, âm mưu" }],
+          "verb": [{ "form": "intrigue", "meaning": "hấp dẫn, mưu" }],
+          "adjective": [{ "form": "intriguing", "meaning": "gây tò mò" }],
+          "adverb": [{ "form": "intriguingly", "meaning": "(một cách) thú vị" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The detective found an intriguing clue that changed the course of the investigation."
+      }
+    },
+    {
+      "id": 250,
+      "targetLexeme": "ancient treasure map",
+      "sourceContext": "...this is a sort of ancient treasure map...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một loại 'treasure map' (bản đồ kho báu) 'ancient' (cổ đại)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈeɪnʃənt ˈtreʒə mæp/",
+        "sentiment": "positive",
+        "definitionEN": "A very old map that shows the location of hidden valuables, such as gold or silver.",
+        "translationVI": "Bản đồ kho báu cổ.",
+        "relatedCollocates": [
+          "buried treasure",
+          "treasure hunt",
+          "an ancient artifact"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "treasure", "meaning": "kho báu" },
+            { "form": "map", "meaning": "bản đồ" }
+          ],
+          "verb": [{ "form": "map", "meaning": "vẽ bản đồ" }],
+          "adjective": [{ "form": "ancient", "meaning": "cổ đại" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The story is about a pirate who left behind an ancient treasure map."
+      }
+    },
+    {
+      "id": 251,
+      "targetLexeme": "caches (n)",
+      "sourceContext": "...lists dozens of gold and silver caches.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Dozens of' (hàng chục) 'caches' (nơi cất giấu) vàng và bạc."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkæʃɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "Hiding places for storing valuables; or, the valuables stored in such a place.",
+        "translationVI": "Nơi cất giấu, kho bí mật.",
+        "relatedCollocates": ["a weapons cache", "a hidden cache", "cache (v)"],
+        "wordForms": {
+          "noun": [{ "form": "cache", "meaning": "nơi cất giấu" }],
+          "verb": [{ "form": "cache", "meaning": "cất giấu" }],
+          "adjective": [{ "form": "cached", "meaning": "được lưu trữ" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The squirrels had several small caches of nuts hidden around the garden."
+      }
+    },
+    {
+      "id": 252,
+      "targetLexeme": "unconventional vocabulary",
+      "sourceContext": "Using an unconventional vocabulary and odd spelling...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sử dụng 'vocabulary' (từ vựng) 'unconventional' (không theo quy ước, khác thường)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌʌnkənˈvenʃənl vəʊˈkæbjuləri/",
+        "sentiment": "neutral",
+        "definitionEN": "A set of words that is not traditional, normal, or standard.",
+        "translationVI": "Từ vựng khác thường/phi truyền thống.",
+        "relatedCollocates": [
+          "an unconventional method",
+          "conventional (antonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "vocabulary", "meaning": "từ vựng" },
+            { "form": "convention", "meaning": "quy ước" }
+          ],
+          "verb": null,
+          "adjective": [
+            { "form": "unconventional", "meaning": "khác thường" },
+            { "form": "conventional", "meaning": "theo quy ước" }
+          ],
+          "adverb": [
+            { "form": "unconventionally", "meaning": "(một cách) khác thường" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The artist was known for his unconventional vocabulary and experimental style."
+      }
+    },
+    {
+      "id": 253,
+      "targetLexeme": "underground hiding places",
+      "sourceContext": "...describes 64 underground hiding places...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'hiding places' (nơi ẩn nấp) 'underground' (dưới lòng đất)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈʌndəɡraʊnd ˈhaɪdɪŋ ˈpleɪsɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "Locations beneath the surface of the ground used to conceal people or things.",
+        "translationVI": "Nơi ẩn nấp/cất giấu dưới lòng đất.",
+        "relatedCollocates": [
+          "a secret hiding place",
+          "hide (v)",
+          "underground (adj/adv)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "hiding place", "meaning": "nơi ẩn nấp" },
+            { "form": "hideout", "meaning": "sào huyệt" }
+          ],
+          "verb": [{ "form": "hide", "meaning": "che giấu" }],
+          "adjective": [{ "form": "hidden", "meaning": "bị che giấu" }],
+          "adverb": [{ "form": "underground", "meaning": "dưới lòng đất" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The rebels used a network of underground hiding places to evade the army."
+      }
+    },
+    {
+      "id": 254,
+      "targetLexeme": "riches (n)",
+      "sourceContext": "...that supposedly contain riches for safekeeping.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chứa 'riches' (của cải, sự giàu có) để 'safekeeping' (cất giữ an toàn)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈrɪtʃɪz/",
+        "sentiment": "positive",
+        "definitionEN": "A large amount of money or valuable possessions; wealth.",
+        "translationVI": "Của cải, tài sản, sự giàu có.",
+        "relatedCollocates": [
+          "great riches",
+          "fabulous wealth",
+          "from rags to riches"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "riches", "meaning": "của cải" }],
+          "verb": [{ "form": "enrich", "meaning": "làm giàu" }],
+          "adjective": [{ "form": "rich", "meaning": "giàu có" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The conquerors stole the city's legendary riches."
+      }
+    },
+    {
+      "id": 255,
+      "targetLexeme": "for safekeeping",
+      "sourceContext": "...contain riches for safekeeping.",
+      "phase1Inference": {
+        "contextualGuessVI": "Để 'safekeeping' (cất giữ an toàn)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/fə ˈseɪfˈkiːpɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "For the purpose of being kept in a safe place, protected from harm, loss, or theft.",
+        "translationVI": "Để cất giữ an toàn.",
+        "relatedCollocates": ["keep (sth) safe", "in safe hands"],
+        "wordForms": {
+          "noun": [
+            { "form": "safekeeping", "meaning": "sự cất giữ an toàn" },
+            { "form": "safety", "meaning": "sự an toàn" }
+          ],
+          "verb": [{ "form": "keep (safe)", "meaning": "giữ an toàn" }],
+          "adjective": [{ "form": "safe", "meaning": "an toàn" }],
+          "adverb": [{ "form": "safely", "meaning": "(một cách) an toàn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He gave his passport to the hotel manager for safekeeping."
+      }
+    },
+    {
+      "id": 256,
+      "targetLexeme": "hoards (n)",
+      "sourceContext": "None of these hoards have been recovered...",
+      "phase1Inference": {
+        "contextualGuessVI": "Không 'hoards' (kho tàng, đống cất giấu) nào được 'recovered' (tìm lại)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/hɔːdz/",
+        "sentiment": "neutral",
+        "definitionEN": "A large amount of money, gold, or valuable objects that someone has saved and hidden.",
+        "translationVI": "Các kho tàng, kho báu (cất giấu).",
+        "relatedCollocates": [
+          "a hoard of (gold)",
+          "a secret hoard",
+          "hoard (v)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "hoard", "meaning": "kho tàng" }],
+          "verb": [{ "form": "hoard", "meaning": "tích trữ" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Archaeologists found a Viking hoard of silver coins."
+      }
+    },
+    {
+      "id": 257,
+      "targetLexeme": "pillaged (v)",
+      "sourceContext": "...because the Romans pillaged Judaea during the first century CE.",
+      "phase1Inference": {
+        "contextualGuessVI": "Người La Mã đã 'pillaged' (cướp bóc, hôi của) vùng Judaea."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpɪlɪdʒd/",
+        "sentiment": "negative",
+        "definitionEN": "To steal things from a place or person, typically using violence, especially during a war.",
+        "translationVI": "Cướp bóc, hôi của (thường trong chiến tranh).",
+        "relatedCollocates": ["loot (synonym)", "pillage and plunder"],
+        "wordForms": {
+          "noun": [{ "form": "pillage", "meaning": "sự cướp bóc" }],
+          "verb": [{ "form": "pillage", "meaning": "cướp bóc" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The invading army pillaged the town, taking all its valuables."
+      }
+    },
+    {
+      "id": 258,
+      "targetLexeme": "hypotheses (n)",
+      "sourceContext": "According to various hypotheses, the treasure belonged to...",
+      "phase1Inference": {
+        "contextualGuessVI": "Theo nhiều 'hypotheses' (giả thuyết)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/haɪˈpɒθəsiːz/",
+        "sentiment": "neutral",
+        "definitionEN": "Plural of hypothesis; ideas or explanations for something that are based on known facts but have not yet been proven.",
+        "translationVI": "(Các) giả thuyết.",
+        "relatedCollocates": ["various hypotheses", "propose a hypothesis"],
+        "wordForms": {
+          "noun": [
+            { "form": "hypothesis", "meaning": "(số ít) giả thuyết" },
+            { "form": "hypotheses", "meaning": "(số nhiều) giả thuyết" }
+          ],
+          "verb": [{ "form": "hypothesize", "meaning": "đưa ra giả thuyết" }],
+          "adjective": [
+            { "form": "hypothetical", "meaning": "mang tính giả thuyết" }
+          ],
+          "adverb": [
+            { "form": "hypothetically", "meaning": "(một cách) giả thuyết" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Scientists are testing several hypotheses to explain the phenomenon."
+      }
+    },
+    {
+      "id": 259,
+      "targetLexeme": "never existed to begin with",
+      "sourceContext": "...or never existed to begin with.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hoặc 'never existed' (chưa bao giờ tồn tại) 'to begin with' (ngay từ đầu)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈnevər ɪɡˈzɪstɪd tə bɪˈɡɪn wɪð/",
+        "sentiment": "neutral",
+        "definitionEN": "An idiom meaning 'in the first place' or 'from the very start'.",
+        "translationVI": "Chưa bao giờ tồn tại ngay từ đầu.",
+        "relatedCollocates": ["in the first place", "from the start"],
+        "wordForms": {
+          "noun": [{ "form": "existence", "meaning": "sự tồn tại" }],
+          "verb": [
+            { "form": "exist", "meaning": "tồn tại" },
+            { "form": "begin", "meaning": "bắt đầu" }
+          ],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He realized the problem never existed to begin with; it was just a misunderstanding."
+      }
+    },
+    {
+      "id": 260,
+      "targetLexeme": "acquired (v)",
+      "sourceContext": "Some of the Dead Sea Scrolls have been acquired four journeys.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã được 'acquired' (mua lại, thu được) qua bốn hành trình."
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈkwaɪəd/",
+        "sentiment": "neutral",
+        "definitionEN": "To buy or obtain an asset or object for oneself.",
+        "translationVI": "Mua lại, thu được, có được.",
+        "relatedCollocates": [
+          "acquire (knowledge)",
+          "acquire (a company)",
+          "an acquisition"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "acquisition", "meaning": "sự mua lại" }],
+          "verb": [{ "form": "acquire", "meaning": "thu được" }],
+          "adjective": [{ "form": "acquired", "meaning": "có được" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The museum recently acquired a rare painting by Van Gogh."
+      }
+    },
+    {
+      "id": 261,
+      "targetLexeme": "archbishop (n)",
+      "sourceContext": "...a Syrian Orthodox archbishop known as Mar Samuel...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'archbishop' (tổng giám mục) người Syria."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌɑːtʃˈbɪʃəp/",
+        "sentiment": "neutral",
+        "definitionEN": "A bishop of the highest rank, who is in charge of other bishops and priests in a particular region.",
+        "translationVI": "Tổng giám mục.",
+        "relatedCollocates": ["bishop (n)", "Pope (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "archbishop", "meaning": "tổng giám mục" },
+            { "form": "bishop", "meaning": "giám mục" }
+          ],
+          "verb": null,
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The Archbishop of Canterbury is the head of the Church of England."
+      }
+    },
+    {
+      "id": 262,
+      "targetLexeme": "unsuccessfully offered",
+      "sourceContext": "...and unsuccessfully offered them to a number of universities...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Offered' (chào bán) chúng 'unsuccessfully' (một cách không thành công)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌʌnsəkˈsesfəli ˈɒfəd/",
+        "sentiment": "negative",
+        "definitionEN": "To try to sell or give something, but fail in the attempt.",
+        "translationVI": "Chào bán/đề nghị (một cách) không thành công.",
+        "relatedCollocates": [
+          "try unsuccessfully",
+          "a failed attempt",
+          "successfully (antonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "offer", "meaning": "lời đề nghị" },
+            { "form": "success", "meaning": "sự thành công" }
+          ],
+          "verb": [{ "form": "offer", "meaning": "chào bán" }],
+          "adjective": [
+            { "form": "unsuccessful", "meaning": "không thành công" }
+          ],
+          "adverb": [
+            {
+              "form": "unsuccessfully",
+              "meaning": "(một cách) không thành công"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He unsuccessfully offered his old car for sale many times."
+      }
+    },
+    {
+      "id": 263,
+      "targetLexeme": "placed an advertisement",
+      "sourceContext": "Finally, in 1954, he placed an advertisement in the business newspaper...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đăng (placed) một (an) 'advertisement' (mục quảng cáo)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/pleɪst ən ədˈvɜːtɪsmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "To put an announcement in a newspaper, magazine, or on a website to promote or sell something.",
+        "translationVI": "Đăng quảng cáo.",
+        "relatedCollocates": ["run an ad", "place an order"],
+        "wordForms": {
+          "noun": [
+            { "form": "advertisement", "meaning": "quảng cáo" },
+            { "form": "ad", "meaning": "quảng cáo (viết tắt)" }
+          ],
+          "verb": [{ "form": "advertise", "meaning": "quảng cáo" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She placed an advertisement online to find a new roommate."
+      }
+    },
+    {
+      "id": 264,
+      "targetLexeme": "miscellaneous (adj)",
+      "sourceContext": "...under the category 'Miscellaneous Items for Sale'...",
+      "phase1Inference": {
+        "contextualGuessVI": "Mục 'Items' (hàng hóa) 'Miscellaneous' (linh tinh, lặt vặt)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌmɪsəˈleɪniəs/",
+        "sentiment": "neutral",
+        "definitionEN": "Consisting of many different kinds of things that are not easily put into one category.",
+        "translationVI": "Linh tinh, lặt vặt, thập cẩm.",
+        "relatedCollocates": [
+          "miscellaneous (expenses)",
+          "a miscellaneous (collection)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "miscellany", "meaning": "mớ linh tinh" }],
+          "verb": null,
+          "adjective": [{ "form": "miscellaneous", "meaning": "linh tinh" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The report's final section covers miscellaneous topics that didn't fit elsewhere."
+      }
+    },
+    {
+      "id": 265,
+      "targetLexeme": "dating back to",
+      "sourceContext": "'Biblical manuscripts dating back to at least 200 B.C....'",
+      "phase1Inference": {
+        "contextualGuessVI": "'Dating back to' (có niên đại từ) ít nhất 200 TCN."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdeɪtɪŋ bæk tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "Originating from a particular time in the past.",
+        "translationVI": "Có niên đại từ, có từ thời.",
+        "relatedCollocates": ["date from", "date to (synonym)"],
+        "wordForms": {
+          "noun": [{ "form": "date", "meaning": "niên đại" }],
+          "verb": [{ "form": "date back (to)", "meaning": "có niên đại từ" }],
+          "adjective": [{ "form": "dated", "meaning": "lỗi thời" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "This castle is a historic building dating back to the 12th century."
+      }
+    },
+    {
+      "id": 266,
+      "targetLexeme": "institution (n)",
+      "sourceContext": "...an ideal gift to an educational or religious institution...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'institution' (tổ chức, học viện) 'educational' (giáo dục) hoặc 'religious' (tôn giáo)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌɪnstɪˈtjuːʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "A large and important organization, such as a university, church, or bank.",
+        "translationVI": "Tổ chức, học viện, cơ quan.",
+        "relatedCollocates": [
+          "a financial institution",
+          "an educational institution"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "institution", "meaning": "tổ chức" }],
+          "verb": [{ "form": "institute", "meaning": "thiết lập" }],
+          "adjective": [
+            { "form": "institutional", "meaning": "thuộc tổ chức" }
+          ],
+          "adverb": [{ "form": "institutionally", "meaning": "về mặt tổ chức" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The university is a highly respected educational institution."
+      }
+    },
+    {
+      "id": 267,
+      "targetLexeme": "statesman (n)",
+      "sourceContext": "...Israeli archaeologist and statesman Yigael Yadin...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'archaeologist' (nhà khảo cổ) và 'statesman' (chính khách, nhà chính trị)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsteɪtsmən/",
+        "sentiment": "positive",
+        "definitionEN": "A skilled, experienced, and respected political leader or figure.",
+        "translationVI": "Chính khách (người làm chính trị có kinh nghiệm và được kính trọng).",
+        "relatedCollocates": ["an elder statesman", "politician (synonym)"],
+        "wordForms": {
+          "noun": [
+            { "form": "statesman", "meaning": "chính khách" },
+            { "form": "state", "meaning": "nhà nước" }
+          ],
+          "verb": null,
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Nelson Mandela is remembered as a great statesman and a global icon for peace."
+      }
+    },
+    {
+      "id": 268,
+      "targetLexeme": "negotiated their purchase",
+      "sourceContext": "...Yigael Yadin negotiated their purchase and brought the scrolls back...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Negotiated' (đàm phán) 'their purchase' (việc mua chúng)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/nɪˈɡəʊʃieɪtɪd ðeə ˈpɜːtʃəs/",
+        "sentiment": "neutral",
+        "definitionEN": "To have a formal discussion with someone in order to reach an agreement about buying something.",
+        "translationVI": "Đàm phán (việc) mua chúng.",
+        "relatedCollocates": [
+          "negotiate (a deal)",
+          "negotiate (a price)",
+          "make a purchase"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "negotiation", "meaning": "cuộc đàm phán" },
+            { "form": "negotiator", "meaning": "người đàm phán" },
+            { "form": "purchase", "meaning": "việc mua" }
+          ],
+          "verb": [
+            { "form": "negotiate", "meaning": "đàm phán" },
+            { "form": "purchase", "meaning": "mua" }
+          ],
+          "adjective": [{ "form": "negotiable", "meaning": "có thể đàm phán" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After several weeks, the two companies finally negotiated the purchase of the new technology."
+      }
+    },
+    {
+      "id": 269,
+      "targetLexeme": "remain to this day",
+      "sourceContext": "...where they remain to this day.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nơi chúng 'remain' (vẫn còn ở) 'to this day' (cho đến tận ngày nay)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈmeɪn tə ðɪs deɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "To continue to be in the same place or condition, even after a long time has passed.",
+        "translationVI": "Vẫn còn (ở đó) cho đến ngày nay.",
+        "relatedCollocates": ["remain (unchanged)", "to this very day"],
+        "wordForms": {
+          "noun": [{ "form": "remains", "meaning": "di tích" }],
+          "verb": [{ "form": "remain", "meaning": "vẫn còn" }],
+          "adjective": [{ "form": "remaining", "meaning": "còn lại" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ruins of the ancient city remain to this day as a popular tourist attraction."
+      }
+    },
+    {
+      "id": 270,
+      "targetLexeme": "restored and deciphered",
+      "sourceContext": "...restored and deciphered one of the last untranslated scrolls.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Restored' (phục hồi) 'and' (và) 'deciphered' (giải mã) một trong các cuộn."
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈstɔːd ænd dɪˈsaɪfəd/",
+        "sentiment": "positive",
+        "definitionEN": "To repair something old back to its original condition, and to succeed in reading or understanding its (often coded) writing.",
+        "translationVI": "Phục hồi và giải mã.",
+        "relatedCollocates": ["restore (a painting)", "decipher (a code)"],
+        "wordForms": {
+          "noun": [
+            { "form": "restoration", "meaning": "sự phục hồi" },
+            { "form": "decipherment", "meaning": "sự giải mã" }
+          ],
+          "verb": [
+            { "form": "restore", "meaning": "phục hồi" },
+            { "form": "decipher", "meaning": "giải mã" }
+          ],
+          "adjective": [
+            { "form": "restored", "meaning": "đã phục hồi" },
+            { "form": "indecipherable", "meaning": "không thể giải mã" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It took the team of experts years to carefully restore and decipher the ancient manuscript."
+      }
+    },
+    {
+      "id": 271,
+      "targetLexeme": "untranslated (adj)",
+      "sourceContext": "...one of the last untranslated scrolls.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các cuộn 'untranslated' (chưa được dịch)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌʌntrænsˈleɪtɪd/",
+        "sentiment": "neutral",
+        "definitionEN": "Not yet changed from one language into another.",
+        "translationVI": "Chưa được dịch.",
+        "relatedCollocates": ["unsolved (mystery)", "untranslated (text)"],
+        "wordForms": {
+          "noun": [
+            { "form": "translation", "meaning": "bản dịch" },
+            { "form": "translator", "meaning": "biên dịch viên" }
+          ],
+          "verb": [{ "form": "translate", "meaning": "dịch" }],
+          "adjective": [
+            { "form": "untranslated", "meaning": "chưa dịch" },
+            { "form": "translated", "meaning": "đã dịch" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many great works of literature remain untranslated into English."
+      }
+    },
+    {
+      "id": 272,
+      "targetLexeme": "reassembling (v)",
+      "sourceContext": "...spent one year reassembling the 60 fragments that make up the scroll.",
+      "phase1Inference": {
+        "contextualGuessVI": "Dành 1 năm 'reassembling' (lắp ráp lại) 60 'fragments' (mảnh vỡ)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌriːəˈsemblɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "To put the parts of something back together again (literally 'assemble again').",
+        "translationVI": "Lắp ráp/ghép lại.",
+        "relatedCollocates": ["reassemble (an engine)", "assemble (v)"],
+        "wordForms": {
+          "noun": [
+            { "form": "assembly", "meaning": "sự lắp ráp" },
+            { "form": "reassembly", "meaning": "sự lắp ráp lại" }
+          ],
+          "verb": [
+            { "form": "reassemble", "meaning": "lắp ráp lại" },
+            { "form": "assemble", "meaning": "lắp ráp" }
+          ],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It was like a puzzle, reassembling the shattered pieces of the vase."
+      }
+    },
+    {
+      "id": 273,
+      "targetLexeme": "make up (sth)",
+      "sourceContext": "...the 60 fragments that make up the scroll.",
+      "phase1Inference": {
+        "contextualGuessVI": "60 mảnh vỡ 'make up' (tạo nên, cấu thành) cuộn giấy."
+      },
+      "phase2Annotation": {
+        "phonetic": "/meɪk ʌp/",
+        "sentiment": "neutral",
+        "definitionEN": "To combine together to form a whole; to constitute or compose.",
+        "translationVI": "Cấu thành, tạo nên.",
+        "relatedCollocates": ["constitute (synonym)", "be composed of"],
+        "wordForms": {
+          "noun": [{ "form": "makeup", "meaning": "cấu tạo" }],
+          "verb": [{ "form": "make up", "meaning": "cấu thành" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Women make up more than 50% of the company's workforce."
+      }
+    },
+    {
+      "id": 274,
+      "targetLexeme": "coded text",
+      "sourceContext": "Deciphered from a band of coded text on parchment...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'text' (văn bản) 'coded' (được mã hóa)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkəʊdɪd tekst/",
+        "sentiment": "neutral",
+        "definitionEN": "Writing that has been changed into a system of secret signs or symbols in order to hide its meaning.",
+        "translationVI": "Văn bản được mã hóa.",
+        "relatedCollocates": ["a secret code", "decode (v)", "in code"],
+        "wordForms": {
+          "noun": [
+            { "form": "code", "meaning": "mã" },
+            { "form": "text", "meaning": "văn bản" }
+          ],
+          "verb": [{ "form": "code", "meaning": "mã hóa" }],
+          "adjective": [{ "form": "coded", "meaning": "được mã hóa" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The spies communicated using a heavily coded text."
+      }
+    },
+    {
+      "id": 275,
+      "targetLexeme": "provides insight into",
+      "sourceContext": "...the find provides insight into the community of people who wrote it...",
+      "phase1Inference": {
+        "contextualGuessVI": "Phát hiện 'provides' (cung cấp) 'insight into' (cái nhìn sâu sắc về) cộng đồng."
+      },
+      "phase2Annotation": {
+        "phonetic": "/prəˈvaɪdz ˈɪnsaɪt ˈɪntuː/",
+        "sentiment": "positive",
+        "definitionEN": "To give a clear, deep, and sometimes new understanding of a complicated subject or situation.",
+        "translationVI": "Cung cấp cái nhìn sâu sắc về.",
+        "relatedCollocates": [
+          "gain insight into",
+          "a valuable insight",
+          "offer insight"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "insight", "meaning": "cái nhìn sâu sắc" }],
+          "verb": [{ "form": "provide", "meaning": "cung cấp" }],
+          "adjective": [{ "form": "insightful", "meaning": "sâu sắc" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The research provides new insight into the causes of the disease."
+      }
+    },
+    {
+      "id": 276,
+      "targetLexeme": "indicate shifts in seasons",
+      "sourceContext": "...celebrations that indicate shifts in seasons and details...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các lễ kỷ niệm 'indicate' (chỉ ra) 'shifts' (sự thay đổi) 'in' (trong) 'seasons' (các mùa)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɪndɪkeɪt ʃɪfts ɪn ˈsiːzənz/",
+        "sentiment": "neutral",
+        "definitionEN": "To show or signal changes from one time of year (e.g., summer) to another (e.g., autumn).",
+        "translationVI": "Chỉ ra sự chuyển mùa.",
+        "relatedCollocates": [
+          "indicate (a change)",
+          "a shift in (policy)",
+          "seasonal (adj)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "indication", "meaning": "sự chỉ ra" },
+            { "form": "shift", "meaning": "sự thay đổi" },
+            { "form": "season", "meaning": "mùa" }
+          ],
+          "verb": [
+            { "form": "indicate", "meaning": "chỉ ra" },
+            { "form": "shift", "meaning": "thay đổi" }
+          ],
+          "adjective": [
+            { "form": "indicative (of)", "meaning": "chỉ ra" },
+            { "form": "seasonal", "meaning": "theo mùa" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The migration of birds is one of the first signs to indicate shifts in seasons."
+      }
+    },
+    {
+      "id": 277,
+      "targetLexeme": "remains untranslated",
+      "sourceContext": "Only one more known scroll remains untranslated.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chỉ còn một cuộn 'remains' (vẫn) 'untranslated' (chưa được dịch)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈmeɪnz ˌʌntrænsˈleɪtɪd/",
+        "sentiment": "neutral",
+        "definitionEN": "To continue to be in a state of not yet being translated.",
+        "translationVI": "Vẫn chưa được dịch.",
+        "relatedCollocates": [
+          "remain (unknown)",
+          "remain (a mystery)",
+          "untranslated (adj)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "remains", "meaning": "những gì còn lại" }],
+          "verb": [{ "form": "remain", "meaning": "vẫn" }],
+          "adjective": [
+            { "form": "remaining", "meaning": "còn lại" },
+            { "form": "untranslated", "meaning": "chưa dịch" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite its importance, the ancient text remains untranslated to this day."
+      }
+    },
+    {
+      "id": 278,
+      "targetLexeme": "opening on (the) side of (a) cliff",
+      "sourceContext": "Complete the notes... near an opening on side of cliff",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'opening' (lối vào/lỗ hổng) 'on the side of' (ở bên sườn) của một 'cliff' (vách đá)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈəʊpənɪŋ ɒn saɪd əv klɪf/",
+        "sentiment": "neutral",
+        "definitionEN": "A hole or gap on the vertical face of a high rock.",
+        "translationVI": "Lối/lỗ hổng ở sườn vách đá.",
+        "relatedCollocates": ["an opening in (a cave)", "a cave entrance"],
+        "wordForms": {
+          "noun": [
+            { "form": "opening", "meaning": "lối vào" },
+            { "form": "side", "meaning": "bên sườn" },
+            { "form": "cliff", "meaning": "vách đá" }
+          ],
+          "verb": [{ "form": "open", "meaning": "mở" }],
+          "adjective": [{ "form": "open", "meaning": "mở" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The explorers found a small opening on the side of the cliff that led to a hidden cave."
+      }
+    },
+    {
+      "id": 279,
+      "targetLexeme": "religious topics",
+      "sourceContext": "Complete the notes... most are on religious topics, written using ink...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'topics' (chủ đề) 'religious' (thuộc về tôn giáo)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈlɪdʒəs ˈtɒpɪks/",
+        "sentiment": "neutral",
+        "definitionEN": "Subjects or themes related to belief in a god or gods.",
+        "translationVI": "Các chủ đề tôn giáo.",
+        "relatedCollocates": [
+          "religious writings (paraphrase)",
+          "biblical texts (paraphrase)",
+          "sectarian regulations (paraphrase)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "religion", "meaning": "tôn giáo" },
+            { "form": "topic", "meaning": "chủ đề" }
+          ],
+          "verb": null,
+          "adjective": [{ "form": "religious", "meaning": "thuộc tôn giáo" }],
+          "adverb": [
+            { "form": "religiously", "meaning": "(một cách) sùng đạo" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The lecture series will cover a wide range of religious topics."
+      }
+    },
+    {
+      "id": 280,
+      "targetLexeme": "(the) statement agrees with (the) information",
+      "sourceContext": "Do the following statements agree with the information given in Reading Passage 1?",
+      "phase1Inference": {
+        "contextualGuessVI": "'Statement' (nhận định) 'agrees with' (khớp với/đồng ý với) 'information' (thông tin)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈsteɪtmənt əˈɡriːz wɪð ði ˌɪnfəˈmeɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "The claim or sentence matches or is consistent with the facts provided in the text.",
+        "translationVI": "Nhận định khớp với thông tin.",
+        "relatedCollocates": [
+          "is consistent with",
+          "matches (the facts)",
+          "contradicts (antonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "statement", "meaning": "nhận định" },
+            { "form": "agreement", "meaning": "sự đồng thuận" },
+            { "form": "information", "meaning": "thông tin" }
+          ],
+          "verb": [{ "form": "agree (with)", "meaning": "khớp với" }],
+          "adjective": [{ "form": "agreeable", "meaning": "dễ chịu" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "FEYNMAN_EXPLANATION",
+        "content": "This means what the question says is exactly what the passage says. If the passage says 'The sky is blue,' the statement 'The sky is blue' agrees."
+      }
+    },
+    {
+      "id": 281,
+      "targetLexeme": "(the) statement contradicts (the) information",
+      "sourceContext": "if the statement contradicts the information",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhận định 'contradicts' (mâu thuẫn, trái ngược) với thông tin."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈsteɪtmənt ˌkɒntrəˈdɪkts ði ˌɪnfəˈmeɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "The claim or sentence says the opposite of what is stated in the text.",
+        "translationVI": "Nhận định mâu thuẫn với thông tin.",
+        "relatedCollocates": [
+          "agrees with (antonym)",
+          "is in conflict with",
+          "runs counter to"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "contradiction", "meaning": "sự mâu thuẫn" },
+            { "form": "information", "meaning": "thông tin" }
+          ],
+          "verb": [{ "form": "contradict", "meaning": "mâu thuẫn" }],
+          "adjective": [
+            { "form": "contradictory", "meaning": "mang tính mâu thuẫn" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "FEYNMAN_EXPLANATION",
+        "content": "This means the question says the exact opposite of the passage. If the passage says 'The sky is blue,' the statement 'The sky is red' contradicts."
+      }
+    },
+    {
+      "id": 282,
+      "targetLexeme": "(be) disappointed by (sth)",
+      "sourceContext": "The Bedouin teenagers... were disappointed by how little money they received...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị 'disappointed' (thất vọng) 'by' (bởi) số tiền ít ỏi. Đây là 'bẫy' NOT GIVEN, vì bài đọc chỉ nói 'sold for a small sum' (bán được ít tiền) chứ không nói họ cảm thấy thế nào."
+      },
+      "phase2Annotation": {
+        "phonetic": "/bi ˌdɪsəˈpɔɪntɪd baɪ/",
+        "sentiment": "negative",
+        "definitionEN": "To feel sad or displeased because something did not meet one's hopes or expectations.",
+        "translationVI": "Bị thất vọng bởi (cái gì).",
+        "relatedCollocates": [
+          "a small sum (text info)",
+          "let down (phrasal verb)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "disappointment", "meaning": "sự thất vọng" }],
+          "verb": [{ "form": "disappoint", "meaning": "làm thất vọng" }],
+          "adjective": [
+            { "form": "disappointed", "meaning": "bị thất vọng" },
+            { "form": "disappointing", "meaning": "gây thất vọng" }
+          ],
+          "adverb": [
+            {
+              "form": "disappointingly",
+              "meaning": "(một cách) đáng thất vọng"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The fans were deeply disappointed by the team's loss in the final."
+      }
+    },
+    {
+      "id": 283,
+      "targetLexeme": "agreement among academics",
+      "sourceContext": "There is agreement among academics about the origin of the Dead Sea Scrolls.",
+      "phase1Inference": {
+        "contextualGuessVI": "Có 'agreement' (sự đồng thuận) 'among' (giữa) 'academics' (các học giả). Đây là 'bẫy' FALSE, vì bài đọc nói nó 'is still the subject of scholarly debate' (vẫn là chủ đề tranh luận)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈɡriːmənt əˈmʌŋ ˌækəˈdemɪks/",
+        "sentiment": "positive",
+        "definitionEN": "A situation where scholars or experts share the same opinion.",
+        "translationVI": "Sự đồng thuận/thống nhất giữa các học giả.",
+        "relatedCollocates": [
+          "subject of scholarly debate (antonym)",
+          "reach an agreement",
+          "academic consensus"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "agreement", "meaning": "sự đồng thuận" },
+            { "form": "academic", "meaning": "học giả" }
+          ],
+          "verb": [{ "form": "agree", "meaning": "đồng ý" }],
+          "adjective": [{ "form": "academic", "meaning": "thuộc học thuật" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There is general agreement among academics that climate change is a serious threat."
+      }
+    },
+    {
+      "id": 284,
+      "targetLexeme": "(be) incomplete",
+      "sourceContext": "Most of the books of the Bible written on the scrolls are incomplete.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị 'incomplete' (không hoàn chỉnh). Đây là 'bẫy' TRUE, vì bài đọc nói chúng 'include fragments' (bao gồm các mảnh vỡ)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/bi ˌɪnkəmˈpliːt/",
+        "sentiment": "negative",
+        "definitionEN": "Not having all the necessary parts; not finished or whole.",
+        "translationVI": "Bị thiếu/không hoàn chỉnh.",
+        "relatedCollocates": [
+          "fragments (paraphrase)",
+          "complete (antonym)",
+          "part-time (related)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "incompleteness", "meaning": "sự không đầy đủ" }],
+          "verb": null,
+          "adjective": [
+            { "form": "incomplete", "meaning": "không hoàn chỉnh" },
+            { "form": "complete", "meaning": "hoàn chỉnh" }
+          ],
+          "adverb": [
+            { "form": "incompletely", "meaning": "(một cách) không đầy đủ" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The bridge remains incomplete due to a lack of funding."
+      }
+    },
+    {
+      "id": 285,
+      "targetLexeme": "in an unusual way",
+      "sourceContext": "The information on the Copper Scroll is written in an unusual way.",
+      "phase1Inference": {
+        "contextualGuessVI": "Theo một 'way' (cách) 'unusual' (bất thường). Đây là 'bẫy' TRUE, vì bài đọc nói nó dùng 'unconventional vocabulary and odd spelling' (từ vựng khác thường và lỗi chính tả kỳ lạ)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn ən ʌnˈjuːʒuəl weɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "In a manner that is not common, standard, or expected.",
+        "translationVI": "Theo một cách bất thường/khác thường.",
+        "relatedCollocates": [
+          "unconventional (paraphrase)",
+          "odd (paraphrase)",
+          "in a strange way"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "way", "meaning": "cách thức" }],
+          "verb": null,
+          "adjective": [
+            { "form": "unusual", "meaning": "bất thường" },
+            { "form": "usual", "meaning": "thông thường" }
+          ],
+          "adverb": [
+            { "form": "unusually", "meaning": "(một cách) bất thường" },
+            { "form": "usually", "meaning": "(một cách) thông thường" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The chef prepared the fish in an unusual way that I had never tasted before."
+      }
+    },
+    {
+      "id": 286,
+      "targetLexeme": "(be) given (sth) as a gift",
+      "sourceContext": "Mar Samuel was given some of the scrolls as a gift.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'given' (tặng) 'as a gift' (như một món quà). Đây là 'bẫy' FALSE, vì bài đọc nói ông ta 'acquired' (thu được) và 'paying less than $100' (trả dưới 100 đô)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/bi ˈɡɪvn æz ə ɡɪft/",
+        "sentiment": "positive",
+        "definitionEN": "To receive something without paying for it; a present.",
+        "translationVI": "Được tặng (cái gì) như một món quà.",
+        "relatedCollocates": [
+          "paying (paraphrase from text)",
+          "purchased (related)",
+          "a free gift"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "gift", "meaning": "món quà" }],
+          "verb": [{ "form": "give (past: given)", "meaning": "cho, tặng" }],
+          "adjective": [{ "form": "gifted", "meaning": "có năng khiếu" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The watch was given to him as a gift for his graduation."
+      }
+    },
+    {
+      "id": 287,
+      "targetLexeme": "educational establishments",
+      "sourceContext": "...a number of educational establishments in the US were keen to buy...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'establishments' (tổ chức) 'educational' (giáo dục). Đây là 'bẫy' TRUE, vì bài đọc nói ông 'unsuccessfully offered them to a number of universities' (chào bán không thành công cho một số trường đại học)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌedʒuˈkeɪʃənl ɪˈstæblɪʃmənts/",
+        "sentiment": "neutral",
+        "definitionEN": "Organizations, such as universities or colleges, that provide education.",
+        "translationVI": "Các cơ sở/tổ chức giáo dục.",
+        "relatedCollocates": [
+          "universities (paraphrase)",
+          "institution (paraphrase)",
+          "academic institutions"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "establishment", "meaning": "cơ sở, tổ chức" },
+            { "form": "education", "meaning": "giáo dục" }
+          ],
+          "verb": [{ "form": "establish", "meaning": "thành lập" }],
+          "adjective": [{ "form": "educational", "meaning": "thuộc giáo dục" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new law applies to all schools and educational establishments in the region."
+      }
+    },
+    {
+      "id": 288,
+      "targetLexeme": "(be) keen to (do sth)",
+      "sourceContext": "...were keen to buy scrolls from Mar Samuel.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Keen to' (háo hức, muốn) 'buy' (mua). Đây là 'bẫy' NOT GIVEN. Bài đọc chỉ nói ông ta 'unsuccessfully offered' (chào bán không thành công), chứ không nói lý do là các trường 'không muốn mua' (not keen) hay ông ta chào giá quá cao."
+      },
+      "phase2Annotation": {
+        "phonetic": "/bi kiːn tuː/",
+        "sentiment": "positive",
+        "definitionEN": "To be very interested in, eager, or wanting to do something.",
+        "translationVI": "Háo hức/thiết tha (làm gì đó).",
+        "relatedCollocates": [
+          "eager to (synonym)",
+          "unsuccessfully offered (text info)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "keenness", "meaning": "sự háo hức" }],
+          "verb": null,
+          "adjective": [{ "form": "keen", "meaning": "háo hức, sắc sảo" }],
+          "adverb": [{ "form": "keenly", "meaning": "(một cách) thiết tha" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She wasn't very keen to go to the party, but she went anyway."
+      }
+    },
+    {
+      "id": 289,
+      "targetLexeme": "(be) pieced together",
+      "sourceContext": "The scroll that was pieced together in 2017...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'pieced together' (ghép lại). Đây là 'bẫy' TRUE, vì bài đọc nói các nhà nghiên cứu 'spent one year reassembling the 60 fragments' (dành 1 năm ghép lại 60 mảnh vỡ)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/bi piːst təˈɡeðə/",
+        "sentiment": "positive",
+        "definitionEN": "To be assembled or put together from many different parts.",
+        "translationVI": "Được ghép/chắp vá lại.",
+        "relatedCollocates": [
+          "reassembling the 60 fragments (paraphrase)",
+          "put together",
+          "assemble"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "piece", "meaning": "mảnh, mẩu" }],
+          "verb": [{ "form": "piece together", "meaning": "ghép lại" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Detectives are still trying to piece together what happened on the night of the crime."
+      }
+    },
+    {
+      "id": 290,
+      "targetLexeme": "annual occasions",
+      "sourceContext": "...contains information about annual occasions in the Qumran area...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'occasions' (dịp, sự kiện) 'annual' (hàng năm). Đây là 'bẫy' TRUE, vì bài đọc nói cuộn giấy 'names celebrations that indicate shifts in seasons' (tên các lễ kỷ niệm chỉ ra sự chuyển mùa) và 'the 364-day calendar' (lịch 364 ngày)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈænjuəl əˈkeɪʒənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Special events or celebrations that happen once every year.",
+        "translationVI": "Các dịp/sự kiện hàng năm.",
+        "relatedCollocates": [
+          "celebrations (paraphrase)",
+          "364-day calendar (related)",
+          "shifts in seasons (related)",
+          "annual event"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "occasion", "meaning": "dịp" },
+            { "form": "annual", "meaning": "sự kiện hàng năm" }
+          ],
+          "verb": null,
+          "adjective": [
+            { "form": "annual", "meaning": "hàng năm" },
+            { "form": "occasional", "meaning": "thỉnh thoảng" }
+          ],
+          "adverb": [
+            { "form": "annually", "meaning": "hàng năm" },
+            { "form": "occasionally", "meaning": "thỉnh thoảng" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The town's founding is one of the main annual occasions celebrated by the locals."
+      }
+    },
+    {
+      "id": 291,
+      "targetLexeme": "(be) currently researching",
+      "sourceContext": "Academics at the University of Haifa are currently researching how to decipher the final scroll.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đang 'currently' (hiện tại) 'researching' (nghiên cứu). Đây là 'bẫy' FALSE, vì bài đọc nói họ 'restored and deciphered' (đã phục hồi và giải mã) và 'Only one more... remains untranslated' (Chỉ còn một cuộn... vẫn chưa được dịch) - ngụ ý công việc trên cuộn kia *đã xong*."
+      },
+      "phase2Annotation": {
+        "phonetic": "/bi ˈkʌrəntli rɪˈsɜːtʃɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "To be studying a subject in detail at the present time.",
+        "translationVI": "Đang/hiện đang nghiên cứu.",
+        "relatedCollocates": [
+          "restored and deciphered (past tense)",
+          "remains untranslated (text info)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "research", "meaning": "nghiên cứu" },
+            { "form": "researcher", "meaning": "nhà nghiên cứu" }
+          ],
+          "verb": [{ "form": "research", "meaning": "nghiên cứu" }],
+          "adjective": [{ "form": "current", "meaning": "hiện tại" }],
+          "adverb": [{ "form": "currently", "meaning": "hiện tại" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company is currently researching new markets in Asia."
+      }
+    },
+    {
+      "id": 292,
+      "targetLexeme": "decipher the final scroll",
+      "sourceContext": "...researching how to decipher the final scroll.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Decipher' (giải mã) 'the final scroll' (cuộn cuối cùng)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈsaɪfə ðə ˈfaɪnl skrəʊl/",
+        "sentiment": "positive",
+        "definitionEN": "To figure out the meaning of the last remaining scroll (which is hard to read or untranslated).",
+        "translationVI": "Giải mã cuộn (giấy/da) cuối cùng.",
+        "relatedCollocates": [
+          "one more... remains untranslated (paraphrase)",
+          "decipher (a code)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "decipherment", "meaning": "sự giải mã" },
+            { "form": "scroll", "meaning": "cuộn" }
+          ],
+          "verb": [{ "form": "decipher", "meaning": "giải mã" }],
+          "adjective": [
+            { "form": "final", "meaning": "cuối cùng" },
+            { "form": "indecipherable", "meaning": "không thể giải mã" }
+          ],
+          "adverb": [{ "form": "finally", "meaning": "cuối cùng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It took linguists decades to decipher the ancient writing."
+      }
+    },
+    {
+      "id": 293,
+      "targetLexeme": "written mainly in",
+      "sourceContext": "Complete the notes... written mainly in the 5 ......... language",
+      "phase1Inference": {
+        "contextualGuessVI": "Được viết 'mainly' (chủ yếu) 'in' (bằng) ngôn ngữ gì đó."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈrɪtn ˈmeɪnli ɪn/",
+        "sentiment": "neutral",
+        "definitionEN": "Primarily or mostly composed in a specific language.",
+        "translationVI": "Được viết chủ yếu bằng...",
+        "relatedCollocates": [
+          "mostly (synonym)",
+          "primarily (synonym)",
+          "The majority... are in Hebrew (paraphrase)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "main", "meaning": "chính" }],
+          "verb": [{ "form": "write (past: written)", "meaning": "viết" }],
+          "adjective": [{ "form": "main", "meaning": "chính" }],
+          "adverb": [{ "form": "mainly", "meaning": "chủ yếu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The book is written mainly for beginners, not experts."
+      }
+    },
+    {
+      "id": 294,
+      "targetLexeme": "academics (n)",
+      "sourceContext": "(Question 7) There is agreement among academics...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Academics' (học giả, người làm học thuật)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌækəˈdemɪks/",
+        "sentiment": "neutral",
+        "definitionEN": "A teacher or scholar in a university or other institute of higher education.",
+        "translationVI": "Học giả, nhà nghiên cứu (làm ở trường ĐH).",
+        "relatedCollocates": [
+          "scholars (paraphrase)",
+          "researchers (paraphrase)",
+          "archaeologists (example)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "academic", "meaning": "học giả" },
+            { "form": "academy", "meaning": "học viện" }
+          ],
+          "verb": null,
+          "adjective": [{ "form": "academic", "meaning": "thuộc học thuật" }],
+          "adverb": [{ "form": "academically", "meaning": "về mặt học thuật" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Leading academics from around the world were invited to the conference."
+      }
+    }
+  ]
+}
