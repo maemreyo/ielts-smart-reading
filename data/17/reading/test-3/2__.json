@@ -11,6 +11,8 @@
         "contextualGuessVI": "Một loại 'oil' (dầu) 'edible' (có thể ăn được)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈedəbl ɔɪl/",
+        "sentiment": "neutral",
         "definitionEN": "Oil that is suitable for eating; cooking oil.",
         "translationVI": "Dầu ăn (dầu có thể ăn được).",
         "relatedCollocates": [
@@ -39,6 +41,8 @@
         "contextualGuessVI": "Được 'derived from' (lấy từ, bắt nguồn từ) quả của cây cọ dầu."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪˈraɪvd frɒm/",
+        "sentiment": "neutral",
         "definitionEN": "To get something from something else; to originate from.",
         "translationVI": "Bắt nguồn từ, được lấy từ.",
         "relatedCollocates": [
@@ -65,6 +69,8 @@
         "contextualGuessVI": "'Dầu thực vật' (vegetable oil) được 'consumed' (tiêu thụ) 'nhiều nhất' (most)."
       },
       "phase2Annotation": {
+        "phonetic": "/kənˈsjuːmd ˈvedʒtəbl ɔɪl/",
+        "sentiment": "neutral",
         "definitionEN": "Vegetable oil that is eaten or used by people.",
         "translationVI": "Dầu thực vật được tiêu thụ.",
         "relatedCollocates": ["food consumption (n)", "consumer (n)"],
@@ -89,6 +95,8 @@
         "contextualGuessVI": "'Almost' (gần như) 'certainly' (chắc chắn)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈɔːlməʊst ˈsɜːtnli/",
+        "sentiment": "neutral",
         "definitionEN": "Very probably; with very little doubt.",
         "translationVI": "Gần như chắc chắn.",
         "relatedCollocates": ["very likely", "highly probable"],
@@ -112,6 +120,8 @@
         "contextualGuessVI": "'Hấp dẫn' (attractive) 'đối với' (for) 'các nhà sản xuất' (manufacturers)."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈtræktɪv fə ˌmænjuˈfæktʃərəz/",
+        "sentiment": "positive",
         "definitionEN": "Appealing or desirable to companies that produce goods in large quantities.",
         "translationVI": "Hấp dẫn đối với các nhà sản xuất.",
         "relatedCollocates": [
@@ -140,6 +150,8 @@
         "contextualGuessVI": "Những 'properties' (đặc tính) 'unique' (độc đáo)."
       },
       "phase2Annotation": {
+        "phonetic": "/juːˈniːk ˈprɒpətiz/",
+        "sentiment": "positive",
         "definitionEN": "Special characteristics or qualities that make something different from all others.",
         "translationVI": "Các đặc tính độc đáo.",
         "relatedCollocates": [
@@ -164,6 +176,8 @@
         "contextualGuessVI": "'Remaining' (duy trì) 'solid' (trạng thái rắn) 'at room temperature' (ở nhiệt độ phòng)."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈmeɪnɪŋ ˈsɒlɪd æt ruːm ˈtemprətʃə/",
+        "sentiment": "neutral",
         "definitionEN": "Staying in a firm or hard state (not liquid) at a normal indoor temperature.",
         "translationVI": "Giữ thể rắn ở nhiệt độ phòng.",
         "relatedCollocates": ["liquid (antonym)", "room temperature (n)"],
@@ -185,6 +199,8 @@
         "contextualGuessVI": "Một 'ingredient' (thành phần) 'ideal' (lý tưởng)."
       },
       "phase2Annotation": {
+        "phonetic": "/aɪˈdiːəl ɪnˈɡriːdiənt/",
+        "sentiment": "positive",
         "definitionEN": "A perfect component to include when making something.",
         "translationVI": "Thành phần lý tưởng.",
         "relatedCollocates": [
@@ -209,6 +225,8 @@
         "contextualGuessVI": "Sự 'preservation' (bảo quản) 'long-term' (lâu dài)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈlɒŋ tɜːm ˌprezəˈveɪʃən/",
+        "sentiment": "positive",
         "definitionEN": "The act of keeping something (like food) in good condition for a long period of time.",
         "translationVI": "Sự bảo quản lâu dài.",
         "relatedCollocates": [
@@ -234,6 +252,8 @@
         "contextualGuessVI": "Thực phẩm 'packaged' (đóng gói)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈpækɪdʒd fuːdz/",
+        "sentiment": "neutral",
         "definitionEN": "Food that is sold in bags, boxes, cans, or other containers.",
         "translationVI": "Thực phẩm đóng gói.",
         "relatedCollocates": ["processed foods", "food packaging (n)"],
@@ -258,6 +278,8 @@
         "contextualGuessVI": "Hạn 'sử dụng tốt nhất trước' (hạn sử dụng)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌbest bɪˈfɔː deɪts/",
+        "sentiment": "neutral",
         "definitionEN": "The date printed on food packaging that indicates the time by which the food is at its best quality (not necessarily unsafe after).",
         "translationVI": "Hạn 'sử dụng tốt nhất trước'.",
         "relatedCollocates": ["expiry date (related)", "shelf life (n)"],
@@ -278,6 +300,8 @@
         "contextualGuessVI": "Đã 'seized' (nắm bắt) 'the opportunity' (cơ hội)."
       },
       "phase2Annotation": {
+        "phonetic": "/siːzd ði ˌɒpəˈtjuːnəti/",
+        "sentiment": "positive",
         "definitionEN": "To quickly and eagerly take advantage of a chance to do something.",
         "translationVI": "Nắm bắt/chớp lấy cơ hội.",
         "relatedCollocates": ["take (the opportunity)", "a golden opportunity"],
@@ -299,6 +323,8 @@
         "contextualGuessVI": "Để 'maximise' (tối đa hóa) 'the planting' (việc trồng trọt)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈmæksɪmaɪz ðə ˈplɑːntɪŋ/",
+        "sentiment": "neutral",
         "definitionEN": "To increase the amount of planting (of oil palm trees) as much as possible.",
         "translationVI": "Tối đa hóa việc trồng (cây).",
         "relatedCollocates": ["maximise (profits)", "minimise (antonym)"],
@@ -320,6 +346,8 @@
         "contextualGuessVI": "'Diện tích đất toàn cầu' (global land area) 'dành cho' (devoted to) việc trồng cọ."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈɡləʊbl lænd ˈeəriə dɪˈvəʊtɪd tuː/",
+        "sentiment": "neutral",
         "definitionEN": "The total amount of land across the world that is used specifically for a particular purpose (e.g., growing crops).",
         "translationVI": "Diện tích đất toàn cầu dành cho (việc gì).",
         "relatedCollocates": [
@@ -347,6 +375,8 @@
         "contextualGuessVI": "'Accounting for' (chiếm) khoảng 10% tổng diện tích."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈkaʊntɪŋ fɔː/",
+        "sentiment": "neutral",
         "definitionEN": "To form a particular amount or part of something; to make up.",
         "translationVI": "Chiếm (bao nhiêu %), giải thích cho.",
         "relatedCollocates": ["make up (synonym)", "constitute (synonym)"],
@@ -368,6 +398,8 @@
         "contextualGuessVI": "Tổng (total) 'cropland' (đất trồng trọt)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈtəʊtl ˈkrɒplænd/",
+        "sentiment": "neutral",
         "definitionEN": "The total amount of land that is used for growing crops.",
         "translationVI": "Tổng diện tích đất trồng trọt/canh tác.",
         "relatedCollocates": ["agricultural land", "farmland"],
@@ -391,6 +423,8 @@
         "contextualGuessVI": "Một 'figure' (con số) có khả năng tăng gấp đôi."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈfɪɡə/",
+        "sentiment": "neutral",
         "definitionEN": "A number representing a particular amount, especially one that is officially recorded.",
         "translationVI": "Con số, số liệu.",
         "relatedCollocates": [
@@ -415,6 +449,8 @@
         "contextualGuessVI": "Vào 'giữa thế kỷ' (khoảng năm 2050)."
       },
       "phase2Annotation": {
+        "phonetic": "/baɪ ðə ˈmɪdl əv ðə ˈsentʃəri/",
+        "sentiment": "neutral",
         "definitionEN": "Around the year 2050 (if referring to the 21st century).",
         "translationVI": "Vào giữa thế kỷ (ví dụ: ~2050).",
         "relatedCollocates": ["by (a time)", "mid-century (n)"],
@@ -435,6 +471,8 @@
         "contextualGuessVI": "Các 'nhà bảo tồn' (conservationists) 'cite' (trích dẫn) lý do."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌkɒnsəˈveɪʃənɪsts/",
+        "sentiment": "neutral",
         "definitionEN": "People who work to protect animals, plants, and natural resources from being damaged or destroyed.",
         "translationVI": "Các nhà bảo tồn.",
         "relatedCollocates": [
@@ -461,6 +499,8 @@
         "contextualGuessVI": "Sự 'spread' (lan rộng) 'rapid' (nhanh chóng)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈræpɪd spred/",
+        "sentiment": "negative",
         "definitionEN": "A very fast increase in the number or size of something, covering a larger area.",
         "translationVI": "Sự lan rộng/phát tán nhanh chóng.",
         "relatedCollocates": [
@@ -486,6 +526,8 @@
         "contextualGuessVI": "Các 'đồn điền' (plantations) 'cọ dầu' (oil palm)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɔɪl pɑːm plɑːnˈteɪʃənz/",
+        "sentiment": "neutral",
         "definitionEN": "Large farms or estates in a tropical country where oil palm trees are grown commercially.",
         "translationVI": "Đồn điền cọ dầu.",
         "relatedCollocates": ["plantation (n)", "planting (n)"],
@@ -506,6 +548,8 @@
         "contextualGuessVI": "Một 'concern' (mối lo ngại) 'major' (lớn, chính)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈmeɪdʒə kənˈsɜːn/",
+        "sentiment": "negative",
         "definitionEN": "A significant or very important worry.",
         "translationVI": "Một mối lo ngại/quan ngại lớn/chính.",
         "relatedCollocates": [
@@ -531,6 +575,8 @@
         "contextualGuessVI": "'Vô số' (countless) câu chuyện tin tức."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈkaʊntləs/",
+        "sentiment": "neutral",
         "definitionEN": "Too many to be counted; very numerous.",
         "translationVI": "Vô số, không đếm xuể.",
         "relatedCollocates": [
@@ -556,6 +602,8 @@
         "contextualGuessVI": "Nạn 'phá rừng' (deforestation)."
       },
       "phase2Annotation": {
+        "phonetic": "/diːˌfɒrɪˈsteɪʃən/",
+        "sentiment": "negative",
         "definitionEN": "The act of cutting down or clearing all the trees from an area (a forest).",
         "translationVI": "Nạn phá rừng, sự phá rừng.",
         "relatedCollocates": [
@@ -583,6 +631,8 @@
         "contextualGuessVI": "Sự 'phá hủy' (destruction) 'môi trường sống' (habitat)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈhæbɪtæt dɪˈstrʌkʃən/",
+        "sentiment": "negative",
         "definitionEN": "The process by which a natural habitat is damaged or destroyed so that it can no longer support the species that live there.",
         "translationVI": "Sự phá hủy môi trường sống.",
         "relatedCollocates": [
@@ -610,6 +660,8 @@
         "contextualGuessVI": "Các 'quần thể loài' (species populations) 'đang suy giảm' (dwindling)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈdwɪndlɪŋ ˈspiːʃiːz ˌpɒpjuˈleɪʃənz/",
+        "sentiment": "negative",
         "definitionEN": "The numbers of a species that are gradually becoming smaller or fewer.",
         "translationVI": "Các quần thể loài đang suy giảm/teo tóp.",
         "relatedCollocates": [
@@ -635,6 +687,8 @@
         "contextualGuessVI": "Tất cả là 'kết quả trực tiếp của' (a direct result of) việc phát quang."
       },
       "phase2Annotation": {
+        "phonetic": "/ə dɪˈrekt rɪˈzʌlt əv/",
+        "sentiment": "neutral",
         "definitionEN": "An outcome caused immediately and clearly by a specific action, with no other main causes.",
         "translationVI": "Kết quả trực tiếp của.",
         "relatedCollocates": [
@@ -659,6 +713,8 @@
         "contextualGuessVI": "Việc 'phát quang/dọn dẹp đất' (land clearing)."
       },
       "phase2Annotation": {
+        "phonetic": "/lænd ˈklɪərɪŋ/",
+        "sentiment": "negative",
         "definitionEN": "The process of removing trees, bushes, and other vegetation from an area of land.",
         "translationVI": "Việc phát quang đất/phá rừng.",
         "relatedCollocates": ["deforestation (synonym)", "clearing (land)"],
@@ -683,6 +739,8 @@
         "contextualGuessVI": "Việc 'độc canh' (monoculture) cây cọ dầu."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈmɒnəʊˌkʌltʃə/",
+        "sentiment": "negative",
         "definitionEN": "The agricultural practice of growing only one type of crop (e.g., oil palms) in a large area.",
         "translationVI": "Nền nông nghiệp độc canh.",
         "relatedCollocates": [
@@ -706,6 +764,8 @@
         "contextualGuessVI": "Trên 'quy mô công nghiệp' (on an industrial scale)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɒn ən ɪnˈdʌstriəl skeɪl/",
+        "sentiment": "neutral",
         "definitionEN": "In a way that is very large in size, amount, or extent; relating to large-scale manufacturing or production.",
         "translationVI": "Trên quy mô công nghiệp.",
         "relatedCollocates": ["on a large scale (synonym)", "mass production"],
@@ -727,6 +787,8 @@
         "contextualGuessVI": "Và 'nhiều' (numerous) 'hệ động vật' (fauna) 'khác' (other)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈnjuːmərəs ˈʌðə ˈfɔːnə/",
+        "sentiment": "neutral",
         "definitionEN": "Many other different types of animals (used in a scientific context).",
         "translationVI": "Nhiều loài động vật khác.",
         "relatedCollocates": [
@@ -752,6 +814,8 @@
         "contextualGuessVI": "Đã 'suffered from' (phải chịu đựng/bị ảnh hưởng xấu từ) sự lan rộng."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈsʌfəd frɒm/",
+        "sentiment": "negative",
         "definitionEN": "To experience or be badly affected by something bad (e.g., a disease, a bad situation).",
         "translationVI": "Chịu/bị ảnh hưởng xấu từ.",
         "relatedCollocates": ["suffer (from an illness)", "be affected by"],
@@ -773,6 +837,8 @@
         "contextualGuessVI": "Sự 'spread' (lan rộng) 'unstoppable' (không thể ngăn cản được)."
       },
       "phase2Annotation": {
+        "phonetic": "/ʌnˈstɒpəbl spred/",
+        "sentiment": "negative",
         "definitionEN": "A rapid increase or expansion that cannot be prevented or stopped.",
         "translationVI": "Sự lan rộng/phát tán không thể ngăn cản.",
         "relatedCollocates": ["rapid spread (related)", "inevitable (adj)"],
@@ -794,6 +860,8 @@
         "contextualGuessVI": "Một trong những 'mối đe dọa' (threats) 'lớn nhất' (greatest) 'đối với' (to) 'đa dạng sinh học toàn cầu' (global biodiversity)."
       },
       "phase2Annotation": {
+        "phonetic": "/θrets tə ˈɡləʊbl ˌbaɪəʊdaɪˈvɜːsəti/",
+        "sentiment": "negative",
         "definitionEN": "Serious dangers to the variety of all plant and animal life in the world.",
         "translationVI": "Các mối đe dọa đối với đa dạng sinh học toàn cầu.",
         "relatedCollocates": [
@@ -822,6 +890,8 @@
         "contextualGuessVI": "'Tuyên bố' (declares) (cách nói trang trọng của 'says')."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪˈkleəz/",
+        "sentiment": "neutral",
         "definitionEN": "To announce something clearly, firmly, publicly, or officially.",
         "translationVI": "Tuyên bố, khẳng định.",
         "relatedCollocates": [
@@ -847,6 +917,8 @@
         "contextualGuessVI": "'Thay thế' (replacing) 'rừng nhiệt đới' (rainforest)."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈpleɪsɪŋ ˈreɪnfɒrɪst/",
+        "sentiment": "negative",
         "definitionEN": "To take the place of the natural jungle/forest (e.g., clearing the forest to plant palm oil).",
         "translationVI": "Thay thế rừng nhiệt đới.",
         "relatedCollocates": [
@@ -874,6 +946,8 @@
         "contextualGuessVI": "Giữa các 'nhà môi trường học' (environmentalists)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪnˌvaɪrənˈmentəlɪsts/",
+        "sentiment": "neutral",
         "definitionEN": "People who are concerned with or advocate for the protection of the environment.",
         "translationVI": "Nhà môi trường học.",
         "relatedCollocates": ["conservationists (related)", "environment (n)"],
@@ -900,6 +974,8 @@
         "contextualGuessVI": "Liệu người tiêu dùng có nên 'tẩy chay' (boycott) dầu cọ."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈbɔɪkɒt/",
+        "sentiment": "negative",
         "definitionEN": "To refuse to buy, use, or participate in something as a form of protest.",
         "translationVI": "Tẩy chay (v/n).",
         "relatedCollocates": [
@@ -925,6 +1001,8 @@
         "contextualGuessVI": "Tẩy chay 'hoàn toàn' (entirely)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪnˈtaɪəli/",
+        "sentiment": "neutral",
         "definitionEN": "Completely; in every way.",
         "translationVI": "Hoàn toàn.",
         "relatedCollocates": [
@@ -950,6 +1028,8 @@
         "contextualGuessVI": "'Nó tạo nên một câu chuyện kịch tính hơn' (It makes for...)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪt meɪks fər ə mɔː drəˈmætɪk ˈstɔːri/",
+        "sentiment": "neutral",
         "definitionEN": "An idiom meaning 'it helps to create' or 'it results in' a more exciting or emotional narrative.",
         "translationVI": "Nó tạo nên/góp phần tạo nên một câu chuyện kịch tính hơn.",
         "relatedCollocates": ["make for (sth)", "a dramatic (story)"],
@@ -970,6 +1050,8 @@
         "contextualGuessVI": "Rất 'intuitive' (trực quan, dễ hiểu theo trực giác)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪnˈtjuːɪtɪv/",
+        "sentiment": "positive",
         "definitionEN": "Easy to understand or operate based on feelings or instinct, without needing conscious reasoning.",
         "translationVI": "Trực quan, (thuộc về) trực giác.",
         "relatedCollocates": [
@@ -994,6 +1076,8 @@
         "contextualGuessVI": "'Given' (xét đến) 'sự phức tạp' (complexity) 'của' (of) lập luận."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈɡɪvn ðə kəmˈpleksəti əv/",
+        "sentiment": "neutral",
         "definitionEN": "An idiom meaning 'taking into account' or 'considering' how complicated something is.",
         "translationVI": "Xét đến/tính đến sự phức tạp của.",
         "relatedCollocates": [
@@ -1017,6 +1101,8 @@
         "contextualGuessVI": "Một 'story' (câu chuyện, cách nhìn) 'nuanced' (nhiều sắc thái) hơn."
       },
       "phase2Annotation": {
+        "phonetic": "/ə mʌtʃ mɔː ˈnjuːɑːnst ˈstɔːri/",
+        "sentiment": "positive",
         "definitionEN": "An explanation or viewpoint that includes small but important details, distinctions, and subtleties (not just black and white).",
         "translationVI": "Một câu chuyện/cách nhìn nhiều sắc thái hơn.",
         "relatedCollocates": [
@@ -1045,6 +1131,8 @@
         "contextualGuessVI": "Phong trào (movement) tẩy chay (boycott)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈbɔɪkɒt ˈmuːvmənt/",
+        "sentiment": "neutral",
         "definitionEN": "A widespread, organized campaign in which people refuse to buy or use a particular product as a form of protest.",
         "translationVI": "Phong trào tẩy chay.",
         "relatedCollocates": ["consumer boycott (n)", "join a movement"],
@@ -1068,6 +1156,8 @@
         "contextualGuessVI": "Vai trò (role) 'thiết yếu', 'sống còn' (vital)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈvaɪtl rəʊl/",
+        "sentiment": "positive",
         "definitionEN": "An extremely important or necessary function or purpose.",
         "translationVI": "Vai trò sống còn/thiết yếu.",
         "relatedCollocates": [
@@ -1093,6 +1183,8 @@
         "contextualGuessVI": "Giúp (lifting) ... người 'thoát nghèo' (out of poverty)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈlɪftɪŋ ˈpiːpl aʊt əv ˈpɒvəti/",
+        "sentiment": "positive",
         "definitionEN": "Helping a large number of people to escape the state of being extremely poor.",
         "translationVI": "Giúp/đưa... người thoát nghèo.",
         "relatedCollocates": ["escape poverty", "poverty alleviation (n)"],
@@ -1114,6 +1206,8 @@
         "contextualGuessVI": "Các nước 'đang phát triển' (developing world)."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪˈveləpɪŋ wɜːld/",
+        "sentiment": "neutral",
         "definitionEN": "Countries with less developed industrial bases and a lower Human Development Index (HDI) compared to other countries.",
         "translationVI": "Thế giới đang phát triển, các nước đang phát triển.",
         "relatedCollocates": [
@@ -1138,6 +1232,8 @@
         "contextualGuessVI": "'Chuỗi cung ứng' (supply chain) 'toàn cầu' (global)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈɡləʊbl səˈplaɪ tʃeɪn/",
+        "sentiment": "neutral",
         "definitionEN": "The worldwide system of organizations, people, activities, information, and resources involved in moving a product from supplier to customer.",
         "translationVI": "Chuỗi cung ứng toàn cầu.",
         "relatedCollocates": ["supply chain (n)", "logistics (n)"],
@@ -1161,6 +1257,8 @@
         "contextualGuessVI": "Phụ thuộc vào nó cho 'sinh kế' (livelihoods) (cách kiếm sống) của họ."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈlaɪvlihʊdz/",
+        "sentiment": "neutral",
         "definitionEN": "The means of securing the necessities of life (money, food, shelter).",
         "translationVI": "Sinh kế, kế sinh nhai.",
         "relatedCollocates": ["depend on (for livelihood)", "earn a living"],
@@ -1181,6 +1279,8 @@
         "contextualGuessVI": "'Strike' (đạt được) 'sự cân bằng' (balance) 'vị lợi/thực dụng' (utilitarian)."
       },
       "phase2Annotation": {
+        "phonetic": "/straɪk ə ˌjuːtɪlɪˈteəriən ˈbæləns/",
+        "sentiment": "positive",
         "definitionEN": "To find a compromise between different needs/factors that provides the greatest good for the greatest number of people.",
         "translationVI": "Đạt được sự cân bằng vị lợi (vì lợi ích số đông).",
         "relatedCollocates": [
@@ -1208,6 +1308,8 @@
         "contextualGuessVI": "Các 'yếu tố' (factors) 'cạnh tranh/đối chọi' (competing) nhau."
       },
       "phase2Annotation": {
+        "phonetic": "/kəmˈpiːtɪŋ ˈfæktəz/",
+        "sentiment": "negative",
         "definitionEN": "Elements or influences that are in opposition or conflict with each other.",
         "translationVI": "Các yếu tố cạnh tranh/mâu thuẫn/đối chọi.",
         "relatedCollocates": ["conflicting (factors)", "competing (interests)"],
@@ -1229,6 +1331,8 @@
         "contextualGuessVI": "Một 'vấn đề' (bone) 'gây tranh cãi' (of contention) 'nghiêm trọng' (serious)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈsɪəriəs bəʊn əv kənˈtenʃən/",
+        "sentiment": "negative",
         "definitionEN": "An idiom for a subject or issue over which there is serious disagreement.",
         "translationVI": "Vấn đề/chủ đề gây tranh cãi nghiêm trọng.",
         "relatedCollocates": ["a subject of debate", "a contentious issue"],
@@ -1252,6 +1356,8 @@
         "contextualGuessVI": "Không 'đơn giản', 'rõ ràng' (straightforward) như vẻ ngoài."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌstreɪtˈfɔːwəd/",
+        "sentiment": "neutral",
         "definitionEN": "Easy to understand; not complicated; clear.",
         "translationVI": "Đơn giản, rõ ràng, dễ hiểu.",
         "relatedCollocates": [
@@ -1276,6 +1382,8 @@
         "contextualGuessVI": "Lượng 'dầu' (oil) 'trên mỗi' (per) 'héc-ta' (hectare)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɔɪl pə ˈhekteə/",
+        "sentiment": "neutral",
         "definitionEN": "The amount of oil produced for every 10,000 square meters of land.",
         "translationVI": "Dầu trên mỗi héc-ta (năng suất).",
         "relatedCollocates": ["yield (n)", "hectare (n)", "per (prep)"],
@@ -1299,6 +1407,8 @@
         "contextualGuessVI": "'Cây/hạt cải dầu' (rapeseed)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈreɪpsiːd/",
+        "sentiment": "neutral",
         "definitionEN": "A bright-yellow flowering plant from which oil (canola oil) is obtained.",
         "translationVI": "Cây/hạt cải dầu.",
         "relatedCollocates": ["soybean (n)", "sunflower (n)"],
@@ -1319,6 +1429,8 @@
         "contextualGuessVI": "'Năng suất' (yield) 'cao' (high) 'cực kỳ' (immensely)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪˈmensli haɪ jiːld/",
+        "sentiment": "positive",
         "definitionEN": "A very, very large amount of product (oil) produced from a specific area of land.",
         "translationVI": "Năng suất cực kỳ cao.",
         "relatedCollocates": [
@@ -1344,6 +1456,8 @@
         "contextualGuessVI": "'Chủ yếu' (predominantly) cũng là một lợi ích sinh thái."
       },
       "phase2Annotation": {
+        "phonetic": "/prɪˈdɒmɪnəntli/",
+        "sentiment": "neutral",
         "definitionEN": "Mainly; for the most part; mostly.",
         "translationVI": "Chủ yếu, phần lớn.",
         "relatedCollocates": ["mainly (synonym)", "mostly (synonym)"],
@@ -1365,6 +1479,8 @@
         "contextualGuessVI": "'Có lợi' (beneficial) 'về mặt sinh thái' (ecologically)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈlɒdʒɪkli ˌbenɪˈfɪʃl/",
+        "sentiment": "positive",
         "definitionEN": "Good for or helpful to the environment and the relationships between living organisms.",
         "translationVI": "Có lợi về mặt sinh thái.",
         "relatedCollocates": [
@@ -1390,6 +1506,8 @@
         "contextualGuessVI": "Một 'mảnh đất' (patch of land)."
       },
       "phase2Annotation": {
+        "phonetic": "/pætʃ əv lænd/",
+        "sentiment": "neutral",
         "definitionEN": "A small area of land.",
         "translationVI": "Mảnh đất, vạt đất.",
         "relatedCollocates": ["a patch of (grass)", "a plot of land"],
@@ -1413,6 +1531,8 @@
         "contextualGuessVI": "'Khí thải' (emissions) 'carbon' (carbon)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈkɑːbən ɪˈmɪʃənz/",
+        "sentiment": "negative",
         "definitionEN": "Gases (especially CO2) released into the air from burning fossil fuels or other activities, contributing to climate change.",
         "translationVI": "Khí thải carbon.",
         "relatedCollocates": [
@@ -1440,6 +1560,8 @@
         "contextualGuessVI": "'Hấp thụ' / 'cô lập' (sequester) 'carbon'."
       },
       "phase2Annotation": {
+        "phonetic": "/sɪˈkwestə ˈkɑːbən/",
+        "sentiment": "positive",
         "definitionEN": "To capture and store atmospheric carbon dioxide.",
         "translationVI": "Hấp thụ/cô lập carbon.",
         "relatedCollocates": [
@@ -1468,6 +1590,8 @@
         "contextualGuessVI": "'Rừng nguyên sinh' (virgin forest) (rừng chưa bị con người tác động)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈvɜːdʒɪn ˈfɒrɪst/",
+        "sentiment": "positive",
         "definitionEN": "A forest that is in its original, untouched, pristine condition; one that has not been logged or cleared by humans.",
         "translationVI": "Rừng nguyên sinh.",
         "relatedCollocates": [
@@ -1495,6 +1619,8 @@
         "contextualGuessVI": "Bị 'vượt ra khỏi tầm kiểm soát' (get out of hand)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɡet aʊt əv hænd/",
+        "sentiment": "negative",
         "definitionEN": "An idiom meaning to become difficult or impossible to control.",
         "translationVI": "Vượt ngoài tầm kiểm soát.",
         "relatedCollocates": ["become uncontrollable", "get out of control"],
@@ -1515,6 +1641,8 @@
         "contextualGuessVI": "Ngành công nghiệp này giờ được 'quy định/quản lý' (regulated) bởi..."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈreɡjuleɪtɪd/",
+        "sentiment": "neutral",
         "definitionEN": "To be controlled or managed by rules, laws, or an official body.",
         "translationVI": "Được quản lý, được quy định.",
         "relatedCollocates": [
@@ -1541,6 +1669,8 @@
         "contextualGuessVI": "'Bao gồm' (consisting of) người trồng cọ, nhà bán lẻ..."
       },
       "phase2Annotation": {
+        "phonetic": "/kənˈsɪstɪŋ əv/",
+        "sentiment": "neutral",
         "definitionEN": "Being composed or made up of.",
         "translationVI": "Bao gồm, gồm có.",
         "relatedCollocates": ["composed of (synonym)", "made up of (synonym)"],
@@ -1561,6 +1691,8 @@
         "contextualGuessVI": "Các 'nhà bán lẻ' (retailers) (như siêu thị)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈriːteɪləz/",
+        "sentiment": "neutral",
         "definitionEN": "A person or business that sells goods directly to the public/consumers.",
         "translationVI": "Nhà bán lẻ.",
         "relatedCollocates": [
@@ -1589,6 +1721,8 @@
         "contextualGuessVI": "Các 'bên quan tâm' / 'bên liên quan' (interested parties)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈɪntrəstɪd ˈpɑːtiz/",
+        "sentiment": "neutral",
         "definitionEN": "People or groups who have a connection, stake, or involvement in a particular situation or business.",
         "translationVI": "Các bên liên quan, các bên quan tâm.",
         "relatedCollocates": ["stakeholders (synonym)", "all parties involved"],
@@ -1610,6 +1744,8 @@
         "contextualGuessVI": "Một 'thỏa thuận' (agreement) 'đã dần dần đạt được' (has gradually been reached)."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈɡriːmənt hæz ˈɡrædʒuəli biːn riːtʃt/",
+        "sentiment": "positive",
         "definitionEN": "A shared understanding or consensus has been achieved slowly over time.",
         "translationVI": "Thỏa thuận đã dần đạt được.",
         "relatedCollocates": [
@@ -1635,6 +1771,8 @@
         "contextualGuessVI": "Được 'coi là' (be regarded as) 'bền vững' (sustainable)."
       },
       "phase2Annotation": {
+        "phonetic": "/bi rɪˈɡɑːdɪd æz/",
+        "sentiment": "neutral",
         "definitionEN": "To be considered or thought of in a particular way.",
         "translationVI": "Được coi là, được xem là.",
         "relatedCollocates": [
@@ -1658,6 +1796,8 @@
         "contextualGuessVI": "'Nhấn mạnh/yêu cầu' (insists upon) 'không' (no) phá rừng nguyên sinh."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪnˈsɪsts əˈpɒn/",
+        "sentiment": "positive",
         "definitionEN": "To demand something forcefully, not accepting refusal.",
         "translationVI": "Nhấn mạnh/khăng khăng yêu cầu.",
         "relatedCollocates": ["insist on (synonym)", "demand (v)"],
@@ -1679,6 +1819,8 @@
         "contextualGuessVI": "Tính 'minh bạch' (transparency)."
       },
       "phase2Annotation": {
+        "phonetic": "/trænsˈpærənsi/",
+        "sentiment": "positive",
         "definitionEN": "The quality of being easy to perceive or understand; (in business) honesty and openness.",
         "translationVI": "Tính minh bạch.",
         "relatedCollocates": [
@@ -1704,6 +1846,8 @@
         "contextualGuessVI": "Sự 'đánh giá' (assessment) 'thường xuyên' (regular)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈreɡjələr əˈsesmənt/",
+        "sentiment": "neutral",
         "definitionEN": "The act of judging or evaluating something at frequent, evenly-spaced intervals.",
         "translationVI": "Sự/việc đánh giá thường xuyên/định kỳ.",
         "relatedCollocates": [
@@ -1729,6 +1873,8 @@
         "contextualGuessVI": "'Trữ lượng' (stocks) 'carbon' (carbon) (lượng carbon được lưu trữ)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈkɑːbən stɒks/",
+        "sentiment": "neutral",
         "definitionEN": "The amount of carbon stored in an ecosystem (e.g., in trees, soil).",
         "translationVI": "Trữ lượng/kho dự trữ carbon.",
         "relatedCollocates": ["carbon (n)", "stock (n)", "store (v)"],
@@ -1752,6 +1898,8 @@
         "contextualGuessVI": "'Trong số các tiêu chí khác' (among other criteria)."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈmʌŋ ˈʌðə kraɪˈtɪəriə/",
+        "sentiment": "neutral",
         "definitionEN": "As one of several standards or principles used for judging something (and there are more not mentioned).",
         "translationVI": "Trong số các tiêu chí khác.",
         "relatedCollocates": [
@@ -1776,6 +1924,8 @@
         "contextualGuessVI": "Chỉ khi các 'yêu cầu' (requirements) này được 'thỏa mãn' (satisfied) 'hoàn toàn' (fully)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈfʊli ˈsætɪsfaɪd/",
+        "sentiment": "positive",
         "definitionEN": "Completely met or fulfilled (referring to conditions or requirements).",
         "translationVI": "Được thỏa mãn/đáp ứng đầy đủ.",
         "relatedCollocates": [
@@ -1801,6 +1951,8 @@
         "contextualGuessVI": "Dầu cọ 'bền vững' (sustainable) 'được chứng nhận' (certified)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈsɜːtɪfaɪd səsˈteɪnəbl pɑːm ɔɪl/",
+        "sentiment": "positive",
         "definitionEN": "Palm oil that has been officially recognized (certified) as being produced in an environmentally and socially responsible way.",
         "translationVI": "Dầu cọ bền vững được chứng nhận.",
         "relatedCollocates": [
@@ -1829,6 +1981,8 @@
         "contextualGuessVI": "RSPO hiện 'chứng nhận' (certifies) khoảng 12 triệu tấn."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈsɜːtɪfaɪz/",
+        "sentiment": "neutral",
         "definitionEN": "To officially state or confirm that something meets a certain standard.",
         "translationVI": "Chứng nhận.",
         "relatedCollocates": [
@@ -1854,6 +2008,8 @@
         "contextualGuessVI": "Hàng năm, mỗi năm (annually)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈænjuəli/",
+        "sentiment": "neutral",
         "definitionEN": "Once every year; yearly.",
         "translationVI": "Hàng năm.",
         "relatedCollocates": ["yearly (synonym)", "per year"],
@@ -1876,6 +2032,8 @@
         "contextualGuessVI": "'Tương đương với' (equivalent to) khoảng 21%."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪˈkwɪvələnt tuː/",
+        "sentiment": "neutral",
         "definitionEN": "Equal in value, amount, function, or meaning.",
         "translationVI": "Tương đương với.",
         "relatedCollocates": ["equal to (synonym)", "the equivalent of (n)"],
@@ -1897,6 +2055,8 @@
         "contextualGuessVI": "Các khu 'độc canh' (monocultures) 'cằn cỗi/trơ trụi' (sterile) (không có sự sống khác)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈsteraɪl ˈmɒnəʊˌkʌltʃəz/",
+        "sentiment": "negative",
         "definitionEN": "Large areas growing only one crop that are empty of other life; lacking biodiversity.",
         "translationVI": "Nền độc canh trơ trụi/thiếu sự sống.",
         "relatedCollocates": [
@@ -1922,6 +2082,8 @@
         "contextualGuessVI": "Phòng thí nghiệm 'gợi ý về' (hints at) một loài thực vật."
       },
       "phase2Annotation": {
+        "phonetic": "/hɪnts æt/",
+        "sentiment": "neutral",
         "definitionEN": "To suggest or show something in an indirect way.",
         "translationVI": "Gợi ý, hé lộ (một cách gián tiếp).",
         "relatedCollocates": [
@@ -1947,6 +2109,8 @@
         "contextualGuessVI": "Theo 'cách/kiểu' (fashion) 'biểu sinh' (epiphytic) (sống bám)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌepɪˈfɪtɪk ˈfæʃən/",
+        "sentiment": "neutral",
         "definitionEN": "In a way that relates to being an epiphyte, a plant that grows harmlessly on another plant (like a tree).",
         "translationVI": "Theo kiểu biểu sinh (sống bám).",
         "relatedCollocates": ["epiphyte (n)", "in a... fashion (idiom)"],
@@ -1971,6 +2135,8 @@
         "contextualGuessVI": "Không phải vì 'chất dinh dưỡng' (nutrients)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈnjuːtriənts/",
+        "sentiment": "neutral",
         "definitionEN": "Substances that plants, animals, or people need to live and grow.",
         "translationVI": "Chất dinh dưỡng.",
         "relatedCollocates": [
@@ -1999,6 +2165,8 @@
         "contextualGuessVI": "'Bản địa' (native) 'ở' (to) nhiều vùng nhiệt đới."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈneɪtɪv tuː/",
+        "sentiment": "neutral",
         "definitionEN": "Originating from or belonging naturally to a particular place.",
         "translationVI": "Bản địa, có nguồn gốc từ (một vùng).",
         "relatedCollocates": [
@@ -2024,6 +2192,8 @@
         "contextualGuessVI": "Một 'loài chủ chốt' (keystone species) (loài quan trọng cho hệ sinh thái)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈkiːstəʊn ˈspiːʃiːz/",
+        "sentiment": "positive",
         "definitionEN": "A species on which other species in an ecosystem largely depend, such that if it were removed the ecosystem would change drastically.",
         "translationVI": "Loài chủ chốt, loài then chốt.",
         "relatedCollocates": [
@@ -2050,6 +2220,8 @@
         "contextualGuessVI": "Thực hiện (performs) một 'vai trò' (role) 'sinh thái' (ecological) 'sống còn' (vital)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈvaɪtl ˌiːkəˈlɒdʒɪkl rəʊl/",
+        "sentiment": "positive",
         "definitionEN": "An extremely important function within the natural environment.",
         "translationVI": "Vai trò sinh thái sống còn/thiết yếu.",
         "relatedCollocates": [
@@ -2078,6 +2250,8 @@
         "contextualGuessVI": "'Tái du nhập' (reintroducing) (mang trở lại) loài ráng ổ phụng."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌriːɪntrəˈdjuːsɪŋ/",
+        "sentiment": "positive",
         "definitionEN": "To bring a species of animal or plant back into an area where it used to live (literally 'introduce again').",
         "translationVI": "Tái du nhập, đưa trở lại.",
         "relatedCollocates": [
@@ -2103,6 +2277,8 @@
         "contextualGuessVI": "Cho phép các khu vực này 'phục hồi' (recover) 'đa dạng sinh học' (biodiversity) của chúng."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈkʌvə ðeə ˌbaɪəʊdaɪˈvɜːsəti/",
+        "sentiment": "positive",
         "definitionEN": "To return to a healthy state regarding the variety of plant and animal life.",
         "translationVI": "Phục hồi đa dạng sinh học.",
         "relatedCollocates": [
@@ -2131,6 +2307,8 @@
         "contextualGuessVI": "Cung cấp nhà cho 'tất cả các loại' (all manner of) loài."
       },
       "phase2Annotation": {
+        "phonetic": "/ɔːl ˈmænər əv ˈspiːʃiːz/",
+        "sentiment": "neutral",
         "definitionEN": "An idiom meaning 'all types of' or 'all kinds of' species.",
         "translationVI": "Đủ loại/tất cả các loại loài.",
         "relatedCollocates": [
@@ -2158,6 +2336,8 @@
         "contextualGuessVI": "'Động vật không xương sống' (invertebrates) như côn trùng."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪnˈvɜːtɪbrəts/",
+        "sentiment": "neutral",
         "definitionEN": "Animals that do not have a backbone (e.g., insects, worms, spiders).",
         "translationVI": "Động vật không xương sống.",
         "relatedCollocates": [
@@ -2182,6 +2362,8 @@
         "contextualGuessVI": "Động vật 'lưỡng cư' (amphibians) (ví dụ: ếch)."
       },
       "phase2Annotation": {
+        "phonetic": "/æmˈfɪbiənz/",
+        "sentiment": "neutral",
         "definitionEN": "Cold-blooded animals (like frogs) that live both on land and in water.",
         "translationVI": "Động vật lưỡng cư.",
         "relatedCollocates": ["reptiles (n)", "mammals (n)", "frogs (example)"],
@@ -2203,6 +2385,8 @@
         "contextualGuessVI": "Động vật 'bò sát' (reptiles) (ví dụ: rắn, thằn lằn)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈreptaɪlz/",
+        "sentiment": "neutral",
         "definitionEN": "Cold-blooded animals (like snakes or lizards) that have skin covered with scales and lay eggs.",
         "translationVI": "Động vật bò sát.",
         "relatedCollocates": [
@@ -2227,6 +2411,8 @@
         "contextualGuessVI": "Các 'lợi thế' (advantages) 'về môi trường' (environmental) 'tiềm năng' (potential)."
       },
       "phase2Annotation": {
+        "phonetic": "/pəˈtenʃəl ɪnˌvaɪrənˈmentl ədˈvɑːntɪdʒɪz/",
+        "sentiment": "positive",
         "definitionEN": "Focus: Compares 'environmental advantages' with 'ecological benefit' and 'sequester carbon'.",
         "translationVI": "Trọng tâm: So sánh 'environmental advantages' (lợi thế môi trường) với 'ecological benefit' (lợi ích sinh thái) và 'sequester carbon' (hấp thụ carbon).",
         "relatedCollocates": [
@@ -2247,6 +2433,8 @@
         "contextualGuessVI": "Một tổ chức 'kiểm soát' (controls) 'tác động môi trường' (environmental impact)."
       },
       "phase2Annotation": {
+        "phonetic": "/kənˈtrəʊlz ði ɪnˌvaɪrənˈmentl ˈɪmpækt/",
+        "sentiment": "positive",
         "definitionEN": "Focus: Compares 'controls the environmental impact' with 'regulated by', 'insists upon standards', 'certified sustainable'.",
         "translationVI": "Trọng tâm: So sánh 'controls the environmental impact' (kiểm soát tác động môi trường) với 'regulated by' (được quản lý bởi), 'insists upon standards' (yêu cầu các tiêu chuẩn), 'certified sustainable' (được chứng nhận bền vững).",
         "relatedCollocates": [
@@ -2268,6 +2456,8 @@
         "contextualGuessVI": "Việc 'sử dụng' (use) 'toàn cầu' (global) 'rộng rãi' (widespread)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈwaɪdspred ˈɡləʊbl juːs/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'widespread global use' with 'most consumed... in the world', 'almost certainly in...'.",
         "translationVI": "Trọng tâm: So sánh 'widespread global use' (sử dụng rộng rãi toàn cầu) với 'most consumed... in the world' (được tiêu thụ nhiều nhất thế giới), 'almost certainly in...' (gần như chắc chắn có trong...).",
         "relatedCollocates": [
@@ -2288,6 +2478,8 @@
         "contextualGuessVI": "Một loài có thể 'mang lại lợi ích cho' (benefit) 'hệ sinh thái' (ecosystem)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈbenɪfɪt ði ˈiːkəʊˌsɪstəm/",
+        "sentiment": "positive",
         "definitionEN": "Focus: Compares 'benefit the ecosystem' with 'recover their biodiversity', 'providing a home for... species'.",
         "translationVI": "Trọng tâm: So sánh 'benefit the ecosystem' (có lợi cho hệ sinh thái) với 'recover their biodiversity' (phục hồi đa dạng sinh học), 'providing a home for... species' (cung cấp nơi ở cho... loài).",
         "relatedCollocates": [
@@ -2310,6 +2502,8 @@
         "contextualGuessVI": "Các 'số liệu' (figures) 'minh họa' (illustrating) 'sự mở rộng nhanh chóng' (rapid expansion)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈɪləstreɪtɪŋ ðə ˈræpɪd ɪkˈspænʃən/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'figures illustrating the rapid expansion' with specific statistics of growth.",
         "translationVI": "Trọng tâm: So sánh 'figures illustrating the rapid expansion' (số liệu minh họa sự mở rộng nhanh chóng) với các số liệu thống kê cụ thể về sự tăng trưởng.",
         "relatedCollocates": [
@@ -2331,6 +2525,8 @@
         "contextualGuessVI": "Một 'lý lẽ/biện minh' (justification) 'về kinh tế' (economic) cho việc không phản đối."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈnɒmɪk ˌdʒʌstɪfɪˈkeɪʃən/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'economic justification' with arguments about poverty reduction and livelihoods.",
         "translationVI": "Trọng tâm: So sánh 'economic justification' (biện minh kinh tế) với các lập luận về giảm nghèo và sinh kế.",
         "relatedCollocates": [
@@ -2351,6 +2547,8 @@
         "contextualGuessVI": "Các 'sinh vật' (creatures) 'bị ảnh hưởng nặng nề' (badly affected)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈkriːtʃəz ˈbædli əˈfektɪd/",
+        "sentiment": "negative",
         "definitionEN": "Focus: Compares 'creatures badly affected' with specific examples of animals that 'have suffered'.",
         "translationVI": "Trọng tâm: So sánh 'creatures badly affected' (sinh vật bị ảnh hưởng nặng) với các ví dụ cụ thể về động vật 'have suffered' (đã phải chịu đựng).",
         "relatedCollocates": [
@@ -2374,6 +2572,8 @@
         "contextualGuessVI": "Yêu cầu nhà sản xuất được chứng nhận phải 'cởi mở và trung thực' (open and honest)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈəʊpən ænd ˈɒnɪst/",
+        "sentiment": "positive",
         "definitionEN": "Focus: Compares 'open and honest' with 'transparency'.",
         "translationVI": "Trọng tâm: So sánh 'open and honest' (cởi mở và trung thực) với 'transparency' (tính minh bạch).",
         "relatedCollocates": ["transparency (synonym)", "insists upon..."]
@@ -2391,6 +2591,8 @@
         "contextualGuessVI": "Mất vài năm để 'thiết lập bộ tiêu chí' (establish its set of criteria)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪˈstæblɪʃ ɪts set əv kraɪˈtɪəriə/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'took several years to establish its set of criteria' with 'Over the past decade or so, an agreement has gradually been reached'.",
         "translationVI": "Trọng tâm: So sánh 'took several years to establish its set of criteria' (mất vài năm để thiết lập bộ tiêu chí) với 'Over the past decade or so, an agreement has gradually been reached' (Trong khoảng một thập kỷ qua, một thỏa thuận đã dần đạt được).",
         "relatedCollocates": [
@@ -2412,6 +2614,8 @@
         "contextualGuessVI": "Giữ trạng thái ... ngay cả khi không được làm lạnh."
       },
       "phase2Annotation": {
+        "phonetic": "/steɪz ˈiːvən wen nɒt rɪˈfrɪdʒəreɪtɪd/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'stays... even when not refrigerated' with 'remaining solid at room temperature'.",
         "translationVI": "Trọng tâm: So sánh 'stays... even when not refrigerated' (giữ trạng thái... ngay cả khi không làm lạnh) với 'remaining solid at room temperature' (giữ thể rắn ở nhiệt độ phòng).",
         "relatedCollocates": ["remaining solid at room temperature"]
@@ -2429,6 +2633,8 @@
         "contextualGuessVI": "Loài 'nổi tiếng nhất' (best known) trong số các động vật 'chịu cảnh mất môi trường sống' (suffering habitat loss)."
       },
       "phase2Annotation": {
+        "phonetic": "/best nəʊn əv ði ˈænɪmlz ˈsʌfərɪŋ ˈhæbɪtæt lɒs/",
+        "sentiment": "negative",
         "definitionEN": "Focus: Compares 'best known... suffering habitat loss' with 'Endangered species – most famously the Sumatran orangutan... have suffered'.",
         "translationVI": "Trọng tâm: So sánh 'best known... suffering habitat loss' (nổi tiếng nhất... chịu mất môi trường sống) với 'Endangered species – most famously the Sumatran orangutan... have suffered' (Các loài nguy cấp - nổi tiếng nhất là đười ươi Sumatra... đã phải chịu đựng).",
         "relatedCollocates": [
@@ -2450,6 +2656,8 @@
         "contextualGuessVI": "Kiểm tra ... 'một cách thường xuyên/định kỳ' (on a routine basis)."
       },
       "phase2Annotation": {
+        "phonetic": "/tʃek ɒn ə ruːˈtiːn ˈbeɪsɪs/",
+        "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'check... on a routine basis' with 'regular assessment of...'.",
         "translationVI": "Trọng tâm: So sánh 'check... on a routine basis' (kiểm tra... thường xuyên) với 'regular assessment of...' (đánh giá thường xuyên về...).",
         "relatedCollocates": [
@@ -2470,6 +2678,8 @@
         "contextualGuessVI": "'Phục hồi' (restore) ... tại các khu vực trồng cọ dầu."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈstɔːr ɪn ˈeəriəz weər ɔɪl pɑːm triːz ə ɡrəʊn/",
+        "sentiment": "positive",
         "definitionEN": "Focus: Compares 'restore...' with 'recover their biodiversity'.",
         "translationVI": "Trọng tâm: So sánh 'restore...' (phục hồi...) với 'recover their biodiversity' (phục hồi đa dạng sinh học của chúng).",
         "relatedCollocates": [
