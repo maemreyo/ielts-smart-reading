@@ -97,6 +97,12 @@ export function EnhancedReadingView({
     "show-animations",
     true
   );
+  const [hideTranslations, setHideTranslations] = useLocalStorage(
+    "hide-translations",
+    false
+  );
+  const [toolbarVisible, setToolbarVisible] = useState(true);
+  const [lastScrollY, setLastScrollY] = useState(0);
 
   const autoScrollRef = useRef<NodeJS.Timeout>(null);
   const paragraphRefs = useRef<(HTMLElement | null)[]>([]);
@@ -183,6 +189,7 @@ export function EnhancedReadingView({
     )
   );
   useHotkeys("b", () => toggleBookmark(currentParagraph));
+  useHotkeys("t", () => setHideTranslations(!hideTranslations));
 
   // Effects
   useEffect(() => {
@@ -204,6 +211,29 @@ export function EnhancedReadingView({
     };
   }, []);
 
+  // Handle toolbar auto-hide on scroll
+  useEffect(() => {
+    const handleScroll = () => {
+      const currentScrollY = window.scrollY;
+
+      if (currentScrollY > lastScrollY && currentScrollY > 100) {
+        // Scrolling down and past 100px
+        setToolbarVisible(false);
+      } else if (currentScrollY < lastScrollY) {
+        // Scrolling up
+        setToolbarVisible(true);
+      }
+
+      setLastScrollY(currentScrollY);
+    };
+
+    window.addEventListener("scroll", handleScroll, { passive: true });
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, [lastScrollY]);
+
   // Process paragraph function with lexical highlighting
   function processParagraph(paragraph: string, lexicalItems: any[]) {
     lexicalItems.sort((a, b) => b.targetLexeme.length - a.targetLexeme.length);
@@ -219,9 +249,8 @@ export function EnhancedReadingView({
           .map((part: string) => part.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
         regex = new RegExp(`${parts[0]}(.*?)${parts[1]}`, "gi");
       } else {
-        lexeme = lexeme
-          .replace(/\s*\((adj|n|v|adv|prep|conj|pl)\.?\)/gi, "")
-          .trim();
+        // Remove part-of-speech annotations like (n), (adj), (v), etc.
+        lexeme = lexeme.replace(/\s*\([a-zA-Z]+\.?\)/gi, "").trim();
         lexeme = lexeme.replace(/[()]/g, "");
         const escapedLexeme = lexeme.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
         regex = new RegExp(escapedLexeme, "gi");
@@ -245,7 +274,11 @@ export function EnhancedReadingView({
             newNodes.push(node.substring(lastIndex, startIndex));
           }
           newNodes.push(
-            <LexicalItem key={`${item.id}-${matchIndex}`} item={item}>
+            <LexicalItem
+              key={`${item.id}-${matchIndex}`}
+              item={item}
+              hideTranslation={hideTranslations}
+            >
               {matchedText}
             </LexicalItem>
           );
@@ -318,12 +351,265 @@ export function EnhancedReadingView({
       {/* Enhanced Toolbar */}
       <motion.div
         initial={{ y: -100 }}
-        animate={{ y: 0 }}
+        animate={{ y: toolbarVisible ? 0 : -100 }}
+        transition={{ duration: 0.3, ease: "easeInOut" }}
         className="p-3 bg-background/95 backdrop-blur-md sticky top-0 z-40 border-b shadow-sm"
       >
         <div className="flex items-center justify-center gap-2 md:gap-3 flex-wrap">
-          {/* Theme Controls */}
-          <div className="flex items-center gap-1">
+          {/* Mobile Compact View - Only Essential Controls */}
+          <div className="md:hidden flex items-center gap-1">
+            {/* Play/Pause */}
+            <motion.button
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              onClick={isPlaying ? stopAutoScroll : startAutoScroll}
+              className={cn(
+                "p-2 rounded-lg transition-colors",
+                isPlaying
+                  ? "bg-red-500 text-white"
+                  : "bg-green-500 text-white hover:bg-green-600"
+              )}
+              title={isPlaying ? "Pause (Space)" : "Play (Space)"}
+            >
+              {isPlaying ? <Pause size={16} /> : <Play size={16} />}
+            </motion.button>
+
+            {/* Current theme indicator */}
+            <motion.button
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              onClick={() => {
+                const themes = ["light", "sepia", "dark"];
+                const currentIndex = themes.indexOf(theme);
+                const nextIndex = (currentIndex + 1) % themes.length;
+                setTheme(themes[nextIndex]);
+              }}
+              className="p-2 rounded-lg hover:bg-muted"
+              title="Switch theme"
+            >
+              {theme === "light" && <Sun size={16} />}
+              {theme === "sepia" && <BookOpen size={16} />}
+              {theme === "dark" && <Moon size={16} />}
+            </motion.button>
+
+            {/* Hide translations toggle */}
+            <motion.button
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              onClick={() => setHideTranslations(!hideTranslations)}
+              className={cn(
+                "p-2 rounded-lg transition-colors",
+                hideTranslations
+                  ? "bg-primary text-primary-foreground"
+                  : "hover:bg-muted"
+              )}
+              title="Hide translations (T)"
+            >
+              {hideTranslations ? <EyeOff size={16} /> : <Globe size={16} />}
+            </motion.button>
+
+            {/* Mobile Settings Button */}
+            <DropdownMenu>
+              <DropdownMenuTrigger asChild>
+                <motion.button
+                  whileHover={{ scale: 1.05 }}
+                  whileTap={{ scale: 0.95 }}
+                  className="p-2 rounded-lg hover:bg-muted  block md:hidden lg:hidden"
+                  title="Settings"
+                >
+                  <Settings size={16} />
+                </motion.button>
+              </DropdownMenuTrigger>
+              <DropdownMenuContent
+                align="end"
+                className="w-80 p-4 max-h-[80vh] overflow-y-auto"
+              >
+                <DropdownMenuLabel>Reading Settings</DropdownMenuLabel>
+                <DropdownMenuSeparator />
+
+                {/* Reading Speed */}
+                <div className="space-y-3 mb-4">
+                  <div className="flex items-center justify-between">
+                    <label className="text-sm font-medium">Reading Speed</label>
+                    <span className="text-sm text-muted-foreground">
+                      {readingSpeed} WPM
+                    </span>
+                  </div>
+                  <Slider
+                    value={[readingSpeed]}
+                    onValueChange={([value]) => setReadingSpeed(value)}
+                    max={400}
+                    min={100}
+                    step={25}
+                    className="w-full"
+                  />
+                </div>
+
+                {/* Sentiment Filter */}
+                <div className="space-y-3 mb-4">
+                  <label className="text-sm font-medium">
+                    Sentiment Filter
+                  </label>
+                  <div className="grid grid-cols-2 gap-2">
+                    {sentimentFilters.map((filter) => (
+                      <button
+                        key={filter.name}
+                        onClick={() => setSentimentFilter(filter.value)}
+                        className={cn(
+                          "p-2 rounded-md transition-colors flex items-center gap-2 text-sm",
+                          sentimentFilter === filter.value
+                            ? "bg-primary text-primary-foreground"
+                            : `bg-muted hover:bg-muted/80 ${filter.color}`
+                        )}
+                      >
+                        {React.cloneElement(filter.icon, { size: 16 })}
+                        {filter.name}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Advanced Options */}
+                <div className="space-y-3 mb-4">
+                  <label className="text-sm font-medium">
+                    Advanced Options
+                  </label>
+                  <div className="space-y-2">
+                    <div className="flex items-center justify-between">
+                      <span className="text-sm">Focus Mode</span>
+                      <Switch
+                        checked={focusMode}
+                        onCheckedChange={setFocusMode}
+                      />
+                    </div>
+                    <div className="flex items-center justify-between">
+                      <span className="text-sm">Dim Other Paragraphs</span>
+                      <Switch
+                        checked={dimOthers}
+                        onCheckedChange={setDimOthers}
+                      />
+                    </div>
+                    <div className="flex items-center justify-between">
+                      <span className="text-sm">Show Animations</span>
+                      <Switch
+                        checked={showAnimations}
+                        onCheckedChange={setShowAnimations}
+                      />
+                    </div>
+                  </div>
+                </div>
+
+                <DropdownMenuSeparator />
+
+                {/* Font Family Settings */}
+                <div className="space-y-3 mb-4">
+                  <label className="text-sm font-medium">Font Family</label>
+                  <div className="flex gap-1">
+                    {fontFamilies.map((font, index) => (
+                      <button
+                        key={font.name}
+                        onClick={() => setFontFamily(font.class)}
+                        className={cn(
+                          "px-3 py-2 text-sm rounded-md transition-colors",
+                          fontFamily === font.class
+                            ? "bg-primary text-primary-foreground"
+                            : "bg-muted hover:bg-muted/80"
+                        )}
+                      >
+                        {font.name}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Font Size Settings */}
+                <div className="space-y-3 mb-4">
+                  <div className="flex items-center justify-between">
+                    <label className="text-sm font-medium">Font Size</label>
+                    <span className="text-sm text-muted-foreground">
+                      {fontSize}px
+                    </span>
+                  </div>
+                  <Slider
+                    value={[fontSize]}
+                    onValueChange={([value]) => setFontSize(value)}
+                    max={40}
+                    min={16}
+                    step={2}
+                    className="w-full"
+                  />
+                </div>
+
+                {/* Column Settings */}
+                <div className="space-y-3 mb-4">
+                  <label className="text-sm font-medium">Columns</label>
+                  <div className="flex gap-1">
+                    <button
+                      onClick={() => setColumnCount(1)}
+                      className={cn(
+                        "p-2 rounded-md transition-colors",
+                        columnCount === 1
+                          ? "bg-primary text-primary-foreground"
+                          : "bg-muted hover:bg-muted/80"
+                      )}
+                      title="1 Column"
+                    >
+                      <PanelLeft size={16} />
+                    </button>
+                    <button
+                      onClick={() => setColumnCount(2)}
+                      className={cn(
+                        "p-2 rounded-md transition-colors",
+                        columnCount === 2
+                          ? "bg-primary text-primary-foreground"
+                          : "bg-muted hover:bg-muted/80"
+                      )}
+                      title="2 Columns"
+                    >
+                      <Columns size={16} />
+                    </button>
+                    <button
+                      onClick={() => setColumnCount(3)}
+                      className={cn(
+                        "p-2 rounded-md transition-colors",
+                        columnCount === 3
+                          ? "bg-primary text-primary-foreground"
+                          : "bg-muted hover:bg-muted/80"
+                      )}
+                      title="3 Columns"
+                    >
+                      <Grid size={16} />
+                    </button>
+                  </div>
+                </div>
+
+                {/* Line Spacing Settings */}
+                <div className="space-y-3">
+                  <label className="text-sm font-medium">Line Spacing</label>
+                  <div className="flex gap-1">
+                    {lineSpacings.map((spacing) => (
+                      <button
+                        key={spacing.name}
+                        onClick={() => setLineSpacing(spacing.class)}
+                        className={cn(
+                          "p-2 rounded-md transition-colors",
+                          lineSpacing === spacing.class
+                            ? "bg-primary text-primary-foreground"
+                            : "bg-muted hover:bg-muted/80"
+                        )}
+                        title={spacing.name}
+                      >
+                        {React.cloneElement(spacing.icon, { size: 16 })}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              </DropdownMenuContent>
+            </DropdownMenu>
+          </div>
+
+          {/* Desktop Full View */}
+          <div className="hidden md:flex items-center gap-1">
             {[
               { theme: "light", icon: <Sun size={18} />, title: "Light (1)" },
               {
@@ -351,10 +637,10 @@ export function EnhancedReadingView({
             ))}
           </div>
 
-          <div className="h-5 w-px bg-border"></div>
+          <div className="h-5 w-px bg-border hidden md:block"></div>
 
-          {/* Reading Controls */}
-          <div className="flex items-center gap-1">
+          {/* Desktop Reading Controls */}
+          <div className="hidden md:flex items-center gap-1">
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
@@ -381,10 +667,10 @@ export function EnhancedReadingView({
             </motion.button>
           </div>
 
-          <div className="h-5 w-px bg-border"></div>
+          <div className="h-5 w-px bg-border hidden md:block"></div>
 
-          {/* Reading Speed Control */}
-          <div className="flex items-center gap-2 min-w-[120px]">
+          {/* Desktop Reading Speed Control */}
+          <div className="hidden md:flex items-center gap-2 min-w-[120px]">
             <span className="text-xs">WPM</span>
             <Slider
               value={[readingSpeed]}
@@ -397,10 +683,10 @@ export function EnhancedReadingView({
             <span className="text-xs w-8">{readingSpeed}</span>
           </div>
 
-          <div className="h-5 w-px bg-border"></div>
+          <div className="h-5 w-px bg-border hidden md:block"></div>
 
-          {/* Sentiment Controls */}
-          <div className="flex items-center gap-1">
+          {/* Desktop Sentiment Controls */}
+          <div className="hidden md:flex items-center gap-1">
             {sentimentFilters.map((filter) => (
               <motion.button
                 key={filter.name}
@@ -424,8 +710,8 @@ export function EnhancedReadingView({
 
           <div className="h-5 w-px bg-border hidden md:block"></div>
 
-          {/* Advanced Controls */}
-          <div className="flex items-center gap-1">
+          {/* Desktop Advanced Controls */}
+          <div className="hidden md:flex items-center gap-1">
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
@@ -459,6 +745,21 @@ export function EnhancedReadingView({
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
+              onClick={() => setHideTranslations(!hideTranslations)}
+              className={cn(
+                "p-2 rounded-lg transition-colors",
+                hideTranslations
+                  ? "bg-primary text-primary-foreground"
+                  : "hover:bg-muted"
+              )}
+              title="Hide Vietnamese translations (T)"
+            >
+              {hideTranslations ? <EyeOff size={18} /> : <Globe size={18} />}
+            </motion.button>
+
+            <motion.button
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
               onClick={toggleShortcuts}
               className="p-2 rounded-lg hover:bg-muted"
               title="Shortcuts (Shift + ?)"
@@ -478,9 +779,91 @@ export function EnhancedReadingView({
                   <Settings size={18} />
                 </motion.button>
               </DropdownMenuTrigger>
-              <DropdownMenuContent align="end" className="w-80 p-4">
+              <DropdownMenuContent
+                align="end"
+                className="w-80 p-4 max-h-[80vh] overflow-y-auto"
+              >
                 <DropdownMenuLabel>Reading Settings</DropdownMenuLabel>
                 <DropdownMenuSeparator />
+
+                {/* Mobile Reading Controls */}
+                <div className="md:hidden space-y-4 mb-6">
+                  {/* Reading Speed */}
+                  <div className="space-y-3">
+                    <div className="flex items-center justify-between">
+                      <label className="text-sm font-medium">
+                        Reading Speed
+                      </label>
+                      <span className="text-sm text-muted-foreground">
+                        {readingSpeed} WPM
+                      </span>
+                    </div>
+                    <Slider
+                      value={[readingSpeed]}
+                      onValueChange={([value]) => setReadingSpeed(value)}
+                      max={400}
+                      min={100}
+                      step={25}
+                      className="w-full"
+                    />
+                  </div>
+
+                  {/* Sentiment Filter */}
+                  <div className="space-y-3">
+                    <label className="text-sm font-medium">
+                      Sentiment Filter
+                    </label>
+                    <div className="grid grid-cols-2 gap-2">
+                      {sentimentFilters.map((filter) => (
+                        <button
+                          key={filter.name}
+                          onClick={() => setSentimentFilter(filter.value)}
+                          className={cn(
+                            "p-2 rounded-md transition-colors flex items-center gap-2 text-sm",
+                            sentimentFilter === filter.value
+                              ? "bg-primary text-primary-foreground"
+                              : `bg-muted hover:bg-muted/80 ${filter.color}`
+                          )}
+                        >
+                          {React.cloneElement(filter.icon, { size: 16 })}
+                          {filter.name}
+                        </button>
+                      ))}
+                    </div>
+                  </div>
+
+                  {/* Advanced Options */}
+                  <div className="space-y-3">
+                    <label className="text-sm font-medium">
+                      Advanced Options
+                    </label>
+                    <div className="space-y-2">
+                      <div className="flex items-center justify-between">
+                        <span className="text-sm">Focus Mode</span>
+                        <Switch
+                          checked={focusMode}
+                          onCheckedChange={setFocusMode}
+                        />
+                      </div>
+                      <div className="flex items-center justify-between">
+                        <span className="text-sm">Dim Other Paragraphs</span>
+                        <Switch
+                          checked={dimOthers}
+                          onCheckedChange={setDimOthers}
+                        />
+                      </div>
+                      <div className="flex items-center justify-between">
+                        <span className="text-sm">Show Animations</span>
+                        <Switch
+                          checked={showAnimations}
+                          onCheckedChange={setShowAnimations}
+                        />
+                      </div>
+                    </div>
+                  </div>
+
+                  <DropdownMenuSeparator />
+                </div>
 
                 {/* Font Family Settings */}
                 <div className="space-y-3 mb-4">
@@ -624,9 +1007,10 @@ export function EnhancedReadingView({
                 transition={{ delay: showAnimations ? index * 0.1 : 0 }}
                 className={cn(
                   "mb-8 relative group",
+                  dimOthers && currentParagraph !== index && "dim-paragraph",
                   dimOthers &&
-                    currentParagraph !== index &&
-                    "opacity-30 transition-opacity",
+                    currentParagraph === index &&
+                    "current-focus-paragraph",
                   currentParagraph === index &&
                     "ring-2 ring-primary/20 rounded-lg p-2"
                 )}
@@ -724,6 +1108,10 @@ export function EnhancedReadingView({
                 <div className="flex justify-between">
                   <span>Bookmark paragraph</span>
                   <kbd className="px-2 py-1 bg-muted rounded text-xs">B</kbd>
+                </div>
+                <div className="flex justify-between">
+                  <span>Hide translations</span>
+                  <kbd className="px-2 py-1 bg-muted rounded text-xs">T</kbd>
                 </div>
               </div>
             </div>

@@ -20,9 +20,10 @@ interface LexicalItemProps {
     };
   };
   children: React.ReactNode;
+  hideTranslation?: boolean;
 }
 
-export function LexicalItem({ item, children }: LexicalItemProps) {
+export function LexicalItem({ item, children, hideTranslation = false }: LexicalItemProps) {
   const {
     targetLexeme,
     phase2Annotation: {
@@ -54,10 +55,12 @@ export function LexicalItem({ item, children }: LexicalItemProps) {
           )}
         >
           <strong>{children}</strong>{" "}
-          <em className="text-muted-foreground">({formattedTranslation})</em>
+          {!hideTranslation && (
+            <em className="text-muted-foreground">({formattedTranslation})</em>
+          )}
         </span>
       </PopoverTrigger>
-      <PopoverContent className="w-xl shadow-xl rounded-xl border-none bg-background p-0">
+      <PopoverContent className="w-full max-w-sm md:max-w-md lg:max-w-lg shadow-xl rounded-xl border-none bg-background p-0">
         <div className="p-5">
           <h4 className="font-bold text-2xl text-foreground">{targetLexeme}</h4>
           {phonetic && (

@@ -264,6 +264,21 @@
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Dim other paragraphs functionality */
+.dim-paragraph {
+  opacity: 0.3 !important;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.dim-paragraph:hover {
+  opacity: 0.6 !important;
+}
+
+.current-focus-paragraph {
+  opacity: 1 !important;
+  transition: opacity 0.3s ease-in-out;
+}
+
 /* Responsive improvements */
 @media (max-width: 768px) {
   .current-paragraph::before {

@@ -1,0 +1,1503 @@
+{
+  "logTitle": "IELTS Reading Log: The future of work",
+  "sourceId": "Reading Passage (Image)",
+  "totalItems": 65,
+  "lexicalItems": [
+    {
+      "id": 1,
+      "targetLexeme": "global workforce",
+      "sourceContext": "3–14% of the global workforce will need to switch to a different occupation within the next 10–15 years...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Lực lượng lao động' (workforce) 'toàn cầu' (global)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɡləʊbl ˈwɜːkfɔːs/",
+        "sentiment": "neutral",
+        "definitionEN": "The total number of people who are employed or available for work across the world.",
+        "translationVI": "Lực lượng lao động toàn cầu.",
+        "relatedCollocates": ["the entire workforce", "a skilled workforce"],
+        "wordForms": {
+          "noun": [{ "form": "workforce", "meaning": "lực lượng lao động" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The pandemic has had a significant impact on the global workforce."
+      }
+    },
+    {
+      "id": 2,
+      "targetLexeme": "switch to a different occupation",
+      "sourceContext": "...the global workforce will need to switch to a different occupation within the next 10–15 years...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Chuyển sang' (switch to) một 'nghề nghiệp' (occupation) 'khác' (different)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/swɪtʃ tuː ə ˈdɪfrənt ˌɒkjuˈpeɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "To change one's job or profession to another one.",
+        "translationVI": "Chuyển sang một nghề nghiệp khác.",
+        "relatedCollocates": ["change (occupation)", "a new (occupation)"],
+        "wordForms": {
+          "verb": [{ "form": "switch", "meaning": "chuyển đổi" }],
+          "noun": [{ "form": "occupation", "meaning": "nghề nghiệp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After ten years in marketing, she decided to switch to a different occupation and become a teacher."
+      }
+    },
+    {
+      "id": 3,
+      "targetLexeme": "disruptive effects",
+      "sourceContext": "Automation – or ‘embodied artificial intelligence’ (AI) – is one aspect of the disruptive effects of technology on the labour market.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'ảnh hưởng' (effects) 'gây đột phá/gây gián đoạn' (disruptive)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪsˈrʌptɪv ɪˈfekts/",
+        "sentiment": "neutral",
+        "definitionEN": "Influences that radically change an industry or business strategy.",
+        "translationVI": "Những ảnh hưởng đột phá/gây gián đoạn.",
+        "relatedCollocates": [
+          "disruptive (technology)",
+          "disruptive (innovation)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "disrupt", "meaning": "gây gián đoạn" }],
+          "noun": [{ "form": "disruption", "meaning": "sự gián đoạn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The rise of streaming services had disruptive effects on the traditional television industry."
+      }
+    },
+    {
+      "id": 4,
+      "targetLexeme": "fundamental changes",
+      "sourceContext": "Dr Stella Pachidi... believes that some of the most fundamental changes are happening as a result of the ‘algorithmication’ of jobs...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'thay đổi' (changes) 'cơ bản/nền tảng' (fundamental)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌfʌndəˈmentl ˈtʃeɪndʒɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "Very basic and important changes that affect the core nature of something.",
+        "translationVI": "Những thay đổi cơ bản/nền tảng.",
+        "relatedCollocates": ["a fundamental (shift)", "profound (changes)"],
+        "wordForms": {
+          "adjective": [{ "form": "fundamental", "meaning": "cơ bản" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The internet has brought about fundamental changes to the way we communicate."
+      }
+    },
+    {
+      "id": 5,
+      "targetLexeme": "knowledge economy",
+      "sourceContext": "...the so-called knowledge economy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nền 'kinh tế' (economy) 'tri thức' (knowledge)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈnɒlɪdʒ ɪˈkɒnəmi/",
+        "sentiment": "neutral",
+        "definitionEN": "An economy in which growth is dependent on the quantity, quality, and accessibility of the information available, rather than on the means of production.",
+        "translationVI": "Nền kinh tế tri thức.",
+        "relatedCollocates": ["information age", "intellectual capital"],
+        "wordForms": {
+          "noun": [{ "form": "knowledge", "meaning": "tri thức" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In a knowledge economy, education and innovation are crucial for success."
+      }
+    },
+    {
+      "id": 6,
+      "targetLexeme": "undertake tasks",
+      "sourceContext": "Algorithms are capable of learning from data to undertake tasks that previously needed human judgement...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đảm nhận' (undertake) 'các nhiệm vụ' (tasks)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌʌndəˈteɪk tɑːsks/",
+        "sentiment": "neutral",
+        "definitionEN": "To take responsibility for and begin to do a piece of work.",
+        "translationVI": "Đảm nhận các nhiệm vụ.",
+        "relatedCollocates": ["undertake (a project)", "perform (tasks)"],
+        "wordForms": {
+          "verb": [{ "form": "undertake", "meaning": "đảm nhận" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new intern is willing to undertake any tasks assigned to her."
+      }
+    },
+    {
+      "id": 7,
+      "targetLexeme": "human judgement",
+      "sourceContext": "...tasks that previously needed human judgement, such as reading legal contracts...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Sự phán đoán' (judgement) 'của con người' (human)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhjuːmən ˈdʒʌdʒmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "The ability to make considered decisions or come to sensible conclusions, based on human experience and intuition.",
+        "translationVI": "Sự phán đoán của con người.",
+        "relatedCollocates": ["require (judgement)", "a matter of (judgement)"],
+        "wordForms": {
+          "noun": [{ "form": "judgement", "meaning": "sự phán đoán" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Even the most advanced AI lacks the nuanced human judgement needed for some decisions."
+      }
+    },
+    {
+      "id": 8,
+      "targetLexeme": "gathering market intelligence",
+      "sourceContext": "...analysing medical scans and gathering market intelligence.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thu thập' (gathering) 'thông tin tình báo' (intelligence) 'thị trường' (market)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɡæðərɪŋ ˈmɑːkɪt ɪnˈtelɪdʒəns/",
+        "sentiment": "neutral",
+        "definitionEN": "The process of collecting and analysing information about a company's market, competitors, and customers.",
+        "translationVI": "Thu thập thông tin tình báo thị trường.",
+        "relatedCollocates": ["market (research)", "business (intelligence)"],
+        "wordForms": {
+          "verb": [{ "form": "gather", "meaning": "thu thập" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Gathering market intelligence is a crucial first step before launching a new product."
+      }
+    },
+    {
+      "id": 9,
+      "targetLexeme": "outperform humans",
+      "sourceContext": "‘In many cases, they can outperform humans,’ says Pachidi.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Làm tốt hơn/vượt trội hơn' (outperform) 'con người' (humans)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌaʊtpəˈfɔːm ˈhjuːmənz/",
+        "sentiment": "neutral",
+        "definitionEN": "To perform better or be more successful than people.",
+        "translationVI": "Vượt trội hơn con người.",
+        "relatedCollocates": [
+          "outperform (competitors)",
+          "superior (performance)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "outperform", "meaning": "làm tốt hơn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In tasks involving rapid calculation, computers can easily outperform humans."
+      }
+    },
+    {
+      "id": 10,
+      "targetLexeme": "enhance productivity",
+      "sourceContext": "...as well as to reduce costs and enhance productivity.’",
+      "phase1Inference": {
+        "contextualGuessVI": "'Nâng cao' (enhance) 'năng suất' (productivity)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈhɑːns ˌprɒdʌkˈtɪvəti/",
+        "sentiment": "positive",
+        "definitionEN": "To improve or increase the rate at which goods are produced or work is completed.",
+        "translationVI": "Nâng cao năng suất.",
+        "relatedCollocates": ["boost (productivity)", "improve (productivity)"],
+        "wordForms": {
+          "verb": [{ "form": "enhance", "meaning": "nâng cao" }],
+          "noun": [{ "form": "productivity", "meaning": "năng suất" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company introduced new software to help enhance productivity."
+      }
+    },
+    {
+      "id": 11,
+      "targetLexeme": "not without consequences",
+      "sourceContext": "‘But these enhancements are not without consequences,’ says Pachidi.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Không phải là không có' (not without) 'hậu quả' (consequences)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/nɒt wɪˈðaʊt ˈkɒnsɪkwənsɪz/",
+        "sentiment": "negative",
+        "definitionEN": "An expression meaning that something does have consequences, often negative ones.",
+        "translationVI": "Không phải là không có hậu quả.",
+        "relatedCollocates": ["have (consequences)", "negative (consequences)"],
+        "wordForms": {
+          "noun": [{ "form": "consequence", "meaning": "hậu quả" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The rapid development of the city was not without consequences for the environment."
+      }
+    },
+    {
+      "id": 12,
+      "targetLexeme": "routine cognitive tasks",
+      "sourceContext": "‘If routine cognitive tasks are taken over by AI, how do professions develop their future experts?’",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'nhiệm vụ' (tasks) 'nhận thức' (cognitive) 'thông thường' (routine)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ruːˈtiːn ˈkɒɡnətɪv tɑːsks/",
+        "sentiment": "neutral",
+        "definitionEN": "Standard, everyday mental tasks that require thought.",
+        "translationVI": "Các nhiệm vụ nhận thức thông thường.",
+        "relatedCollocates": ["cognitive (ability)", "routine (work)"],
+        "wordForms": {
+          "adjective": [
+            { "form": "routine", "meaning": "thông thường" },
+            { "form": "cognitive", "meaning": "thuộc về nhận thức" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Automation is most effective at handling routine cognitive tasks."
+      }
+    },
+    {
+      "id": 13,
+      "targetLexeme": "a novice stands next to experts",
+      "sourceContext": "‘One way of learning about a job is “legitimate peripheral participation” – a novice stands next to experts and learns by observation.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'người mới vào nghề' (novice) 'đứng cạnh' (stands next to) 'các chuyên gia' (experts)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈnɒvɪs stændz nekst tuː ˈekspɜːts/",
+        "sentiment": "neutral",
+        "definitionEN": "A beginner positions themselves beside experienced professionals to learn.",
+        "translationVI": "Một người mới vào nghề đứng cạnh các chuyên gia.",
+        "relatedCollocates": ["learn by (observation)", "apprentice (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "novice", "meaning": "người mới" },
+            { "form": "expert", "meaning": "chuyên gia" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In traditional apprenticeships, a novice stands next to experts for years to master a craft."
+      }
+    },
+    {
+      "id": 14,
+      "targetLexeme": "controls the workforce",
+      "sourceContext": "Another issue is the extent to which the technology influences or even controls the workforce.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Kiểm soát' (controls) 'lực lượng lao động' (the workforce)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/kənˈtrəʊlz ðə ˈwɜːkfɔːs/",
+        "sentiment": "negative",
+        "definitionEN": "To have power over the employees and direct their work.",
+        "translationVI": "Kiểm soát lực lượng lao động.",
+        "relatedCollocates": ["manage (the workforce)", "control (v)"],
+        "wordForms": {
+          "verb": [{ "form": "control", "meaning": "kiểm soát" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new management system increasingly controls the workforce through data monitoring."
+      }
+    },
+    {
+      "id": 15,
+      "targetLexeme": "assess a situation",
+      "sourceContext": "...using the benefit of experience to assess a situation and reach a decision.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đánh giá' (assess) 'một tình huống' (a situation)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈses ə ˌsɪtʃuˈeɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "To judge or evaluate the nature or quality of a particular set of circumstances.",
+        "translationVI": "Đánh giá một tình huống.",
+        "relatedCollocates": ["evaluate (a situation)", "assess (the risk)"],
+        "wordForms": {
+          "verb": [{ "form": "assess", "meaning": "đánh giá" }],
+          "noun": [{ "form": "assessment", "meaning": "sự đánh giá" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A good leader must be able to quickly assess a situation and make a decision."
+      }
+    },
+    {
+      "id": 16,
+      "targetLexeme": "a short-sighted view",
+      "sourceContext": "...Pachidi believes, a short-sighted view begins to creep in...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'cái nhìn' (view) 'thiển cận' (short-sighted)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ʃɔːt ˈsaɪtɪd vjuː/",
+        "sentiment": "negative",
+        "definitionEN": "An outlook that does not consider the long-term consequences of an action.",
+        "translationVI": "Một cái nhìn thiển cận.",
+        "relatedCollocates": ["a narrow (view)", "short-sighted (decision)"],
+        "wordForms": {
+          "adjective": [{ "form": "short-sighted", "meaning": "thiển cận" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Focusing only on immediate profits is a short-sighted view that can harm the company in the long run."
+      }
+    },
+    {
+      "id": 17,
+      "targetLexeme": "become dependent on",
+      "sourceContext": "...and become dependent on its instructions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trở nên 'phụ thuộc vào' (dependent on)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/bɪˈkʌm dɪˈpendənt ɒn/",
+        "sentiment": "negative",
+        "definitionEN": "To come to rely on someone or something and be unable to manage without them.",
+        "translationVI": "Trở nên phụ thuộc vào.",
+        "relatedCollocates": ["rely on (synonym)", "dependent (adj)"],
+        "wordForms": {
+          "adjective": [{ "form": "dependent", "meaning": "phụ thuộc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is easy to become dependent on your smartphone for directions."
+      }
+    },
+    {
+      "id": 18,
+      "targetLexeme": "human instinct",
+      "sourceContext": "...where experimentation and human instinct lead to progress and new ideas – are effectively discouraged.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Bản năng' (instinct) 'con người' (human)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhjuːmən ˈɪnstɪŋkt/",
+        "sentiment": "neutral",
+        "definitionEN": "The natural tendency that a person has to behave or react in a particular way, without thinking or learning.",
+        "translationVI": "Bản năng con người.",
+        "relatedCollocates": ["gut (instinct)", "follow (one's instinct)"],
+        "wordForms": {
+          "noun": [{ "form": "instinct", "meaning": "bản năng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Sometimes, you just have to trust your human instinct when making a difficult choice."
+      }
+    },
+    {
+      "id": 19,
+      "targetLexeme": "effectively discouraged",
+      "sourceContext": "...are effectively discouraged.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị 'ngăn cản/làm nản lòng' (discouraged) 'một cách hiệu quả' (effectively)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪˈfektɪvli dɪsˈkʌrɪdʒd/",
+        "sentiment": "negative",
+        "definitionEN": "To be prevented from doing something in a way that produces the intended result.",
+        "translationVI": "Bị cản trở một cách hiệu quả.",
+        "relatedCollocates": [
+          "actively (discouraged)",
+          "discourage (from doing sth)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "discourage", "meaning": "làm nản lòng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The high taxes have effectively discouraged new investment in the area."
+      }
+    },
+    {
+      "id": 20,
+      "targetLexeme": "work to their own advantage",
+      "sourceContext": "...developing strategies to make the algorithm work to their own advantage.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hoạt động 'theo hướng có lợi cho chính họ' (to their own advantage)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɜːk tuː ðeər əʊn ədˈvɑːntɪdʒ/",
+        "sentiment": "neutral",
+        "definitionEN": "To function in a way that benefits oneself.",
+        "translationVI": "Hoạt động theo hướng có lợi cho chính họ.",
+        "relatedCollocates": [
+          "use to (one's) advantage",
+          "for their own benefit"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "advantage", "meaning": "lợi thế" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She managed to turn the situation to her own advantage."
+      }
+    },
+    {
+      "id": 21,
+      "targetLexeme": "feed the algorithm with false data",
+      "sourceContext": "‘We are seeing cases where workers feed the algorithm with false data to reach their targets,’ she reports.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Cung cấp' (feed) 'cho thuật toán' (the algorithm) 'dữ liệu' (data) 'sai lệch' (false)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/fiːd ði ˈælɡərɪðəm wɪð fɔːls ˈdeɪtə/",
+        "sentiment": "negative",
+        "definitionEN": "To provide an algorithm with incorrect or misleading information.",
+        "translationVI": "Cung cấp cho thuật toán dữ liệu sai lệch.",
+        "relatedCollocates": ["false (information)", "manipulate (data)"],
+        "wordForms": {
+          "verb": [{ "form": "feed", "meaning": "cung cấp, cho ăn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Some users try to feed the algorithm with false data to manipulate search results."
+      }
+    },
+    {
+      "id": 22,
+      "targetLexeme": "trustworthy and transparent",
+      "sourceContext": "Their objective is to make AI technologies more trustworthy and transparent...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đáng tin cậy' (trustworthy) 'và' (and) 'minh bạch' (transparent)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtrʌstwɜːði ənd trænsˈpærənt/",
+        "sentiment": "positive",
+        "definitionEN": "Able to be relied on as honest or truthful, and easy to perceive or detect; open.",
+        "translationVI": "Đáng tin cậy và minh bạch.",
+        "relatedCollocates": ["reliable (and) open", "build (trust)"],
+        "wordForms": {
+          "adjective": [
+            { "form": "trustworthy", "meaning": "đáng tin cậy" },
+            { "form": "transparent", "meaning": "minh bạch" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "For a government to be effective, it must be trustworthy and transparent."
+      }
+    },
+    {
+      "id": 23,
+      "targetLexeme": "occupational boundaries",
+      "sourceContext": "...this new world raises regarding expertise, occupational boundaries and control.’",
+      "phase1Inference": {
+        "contextualGuessVI": "'Ranh giới' (boundaries) 'nghề nghiệp' (occupational)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌɒkjuˈpeɪʃənl ˈbaʊndəriz/",
+        "sentiment": "neutral",
+        "definitionEN": "The lines or limits that define the scope and responsibilities of a particular job or profession.",
+        "translationVI": "Ranh giới nghề nghiệp.",
+        "relatedCollocates": [
+          "professional (boundaries)",
+          "blur the (boundaries)"
+        ],
+        "wordForms": {
+          "adjective": [
+            { "form": "occupational", "meaning": "thuộc nghề nghiệp" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new technology is blurring the traditional occupational boundaries between designers and engineers."
+      }
+    },
+    {
+      "id": 24,
+      "targetLexeme": "major transitions",
+      "sourceContext": "Economist Professor Hamish Low believes that the future of work will involve major transitions across the whole life course for everyone...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'sự chuyển đổi' (transitions) 'lớn' (major)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmeɪdʒə trænˈzɪʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Significant or important processes of changing from one state or condition to another.",
+        "translationVI": "Những chuyển đổi lớn.",
+        "relatedCollocates": ["a period of (transition)", "major (changes)"],
+        "wordForms": {
+          "noun": [{ "form": "transition", "meaning": "sự chuyển đổi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Moving from school to university is one of the major transitions in a young person's life."
+      }
+    },
+    {
+      "id": 25,
+      "targetLexeme": "traditional trajectory",
+      "sourceContext": "‘The traditional trajectory of full-time education followed by full-time work followed by a pensioned retirement is a thing of the past,’ says Low.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Quỹ đạo' (trajectory) 'truyền thống' (traditional)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/trəˈdɪʃənl ˈtrædʒɪktəri/",
+        "sentiment": "neutral",
+        "definitionEN": "The usual or conventional path or course of development that something follows.",
+        "translationVI": "Quỹ đạo truyền thống.",
+        "relatedCollocates": [
+          "career (trajectory)",
+          "a different (trajectory)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "trajectory", "meaning": "quỹ đạo" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Her career followed a traditional trajectory from intern to CEO."
+      }
+    },
+    {
+      "id": 26,
+      "targetLexeme": "a thing of the past",
+      "sourceContext": "...a pensioned retirement is a thing of the past,’ says Low.",
+      "phase1Inference": {
+        "contextualGuessVI": "Là 'một điều của quá khứ' (a thing of the past) -> đã lỗi thời."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə θɪŋ əv ðə pɑːst/",
+        "sentiment": "neutral",
+        "definitionEN": "Something that no longer exists or happens.",
+        "translationVI": "Một điều của quá khứ/lỗi thời.",
+        "relatedCollocates": ["no longer (exists)", "obsolete (synonym)"],
+        "wordForms": {
+          "noun": [{ "form": "thing", "meaning": "điều, thứ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "With the rise of email, writing letters by hand has become a thing of the past."
+      }
+    },
+    {
+      "id": 27,
+      "targetLexeme": "envisages a multistage employment life",
+      "sourceContext": "Instead, he envisages a multistage employment life: one where retraining happens across the life and where multiple jobs and no job happen by choice at different stages.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Hình dung' (envisages) 'một cuộc đời' (a life) 'làm việc' (employment) 'nhiều giai đoạn' (multistage)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈvɪzɪdʒɪz ə ˈmʌltɪsteɪdʒ ɪmˈplɔɪmənt laɪf/",
+        "sentiment": "neutral",
+        "definitionEN": "To imagine or expect a working life that consists of several different phases or periods.",
+        "translationVI": "Hình dung ra một cuộc đời làm việc nhiều giai đoạn.",
+        "relatedCollocates": ["envisage (the future)", "imagine (synonym)"],
+        "wordForms": {
+          "verb": [{ "form": "envisage", "meaning": "hình dung" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The architect envisages a future where cities are greener and more sustainable."
+      }
+    },
+    {
+      "id": 28,
+      "targetLexeme": "founded on a fallacy",
+      "sourceContext": "On the subject of job losses, Low believes the predictions are founded on a fallacy: ‘It assumes that the number of jobs is fixed.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Dựa trên' (founded on) 'một ngụy biện/sai lầm' (a fallacy)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfaʊndɪd ɒn ə ˈfæləsi/",
+        "sentiment": "negative",
+        "definitionEN": "To be based on a mistaken belief or a false idea.",
+        "translationVI": "Dựa trên một ngụy biện.",
+        "relatedCollocates": ["based on (a fallacy)", "a common (fallacy)"],
+        "wordForms": {
+          "noun": [{ "form": "fallacy", "meaning": "ngụy biện" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His entire argument is founded on a fallacy, so his conclusion is incorrect."
+      }
+    },
+    {
+      "id": 29,
+      "targetLexeme": "apocalyptic views",
+      "sourceContext": "Dr Ewan McGaughey... agrees that ‘apocalyptic’ views about the future of work are misguided.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'quan điểm' (views) 'mang tính tận thế' (apocalyptic)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˌpɒkəˈlɪptɪk vjuːz/",
+        "sentiment": "negative",
+        "definitionEN": "Opinions or beliefs that describe or prophesy the complete destruction of the world or a system.",
+        "translationVI": "Những quan điểm tận thế.",
+        "relatedCollocates": ["pessimistic (views)", "apocalypse (n)"],
+        "wordForms": {
+          "adjective": [
+            { "form": "apocalyptic", "meaning": "mang tính tận thế" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite the challenges, he rejected the apocalyptic views about the company's future."
+      }
+    },
+    {
+      "id": 30,
+      "targetLexeme": "are misguided",
+      "sourceContext": "...views about the future of work are misguided.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Là sai lầm/lạc lối' (are misguided)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˌmɪsˈɡaɪdɪd/",
+        "sentiment": "negative",
+        "definitionEN": "To be based on or showing faulty judgement or reasoning.",
+        "translationVI": "Là sai lầm/lạc lối.",
+        "relatedCollocates": ["a misguided (attempt)", "misguided (belief)"],
+        "wordForms": {
+          "verb": [{ "form": "misguide", "meaning": "làm cho lạc lối" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Their belief that the project would be easy was completely misguided."
+      }
+    },
+    {
+      "id": 31,
+      "targetLexeme": "advent of new technologies",
+      "sourceContext": "...not the advent of new technologies that causes unemployment.’",
+      "phase1Inference": {
+        "contextualGuessVI": "'Sự ra đời/xuất hiện' (advent) 'của' (of) 'các công nghệ mới' (new technologies)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ði ˈædvent əv njuː tekˈnɒlədʒiz/",
+        "sentiment": "neutral",
+        "definitionEN": "The arrival of a notable new invention or method.",
+        "translationVI": "Sự ra đời của các công nghệ mới.",
+        "relatedCollocates": ["the advent of (the internet)", "the arrival of"],
+        "wordForms": {
+          "noun": [{ "form": "advent", "meaning": "sự ra đời" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The advent of new technologies has transformed the workplace."
+      }
+    },
+    {
+      "id": 32,
+      "targetLexeme": "a jobless future",
+      "sourceContext": "His recently published research answers the question of whether automation, AI and robotics will mean a ‘jobless future’...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'tương lai' (future) 'không có việc làm' (jobless)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈdʒɒbləs ˈfjuːtʃə/",
+        "sentiment": "negative",
+        "definitionEN": "A future in which there are no jobs for people, typically because of automation.",
+        "translationVI": "Một tương lai không có việc làm.",
+        "relatedCollocates": ["mass (unemployment)", "jobless (adj)"],
+        "wordForms": {
+          "adjective": [{ "form": "jobless", "meaning": "thất nghiệp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many people fear that automation will lead to a jobless future."
+      }
+    },
+    {
+      "id": 33,
+      "targetLexeme": "mean redundancies",
+      "sourceContext": "‘History is clear that change can mean redundancies.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đồng nghĩa với/có nghĩa là' (mean) 'sự dư thừa lao động' (redundancies)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/miːn rɪˈdʌndənsiz/",
+        "sentiment": "negative",
+        "definitionEN": "To result in the state of employees being no longer needed for their jobs and therefore losing them.",
+        "translationVI": "Đồng nghĩa với sự dư thừa lao động.",
+        "relatedCollocates": ["lead to (redundancies)", "make (redundant)"],
+        "wordForms": {
+          "noun": [{ "form": "redundancy", "meaning": "sự dư thừa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company's restructuring will unfortunately mean redundancies for about 50 staff."
+      }
+    },
+    {
+      "id": 34,
+      "targetLexeme": "retraining and redeployment",
+      "sourceContext": "But social policies can tackle this through retraining and redeployment.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Thông qua 'đào tạo lại' (retraining) 'và' (and) 'tái bố trí' (redeployment) (nhân lực)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌriːˈtreɪnɪŋ ənd ˌriːdɪˈplɔɪmənt/",
+        "sentiment": "positive",
+        "definitionEN": "The process of teaching workers new skills and moving them to different jobs.",
+        "translationVI": "Đào tạo lại và tái bố trí.",
+        "relatedCollocates": ["retrain (workers)", "redeploy (staff)"],
+        "wordForms": {
+          "verb": [
+            { "form": "retrain", "meaning": "đào tạo lại" },
+            { "form": "redeploy", "meaning": "tái bố trí" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government has launched a new program for the retraining and redeployment of unemployed workers."
+      }
+    },
+    {
+      "id": 35,
+      "targetLexeme": "seizing the opportunity",
+      "sourceContext": "‘If there is going to be change to jobs as a result of AI and robotics then I’d like to see governments seizing the opportunity to improve policy...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Nắm bắt' (seizing) 'cơ hội' (the opportunity)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsiːzɪŋ ði ˌɒpəˈtjuːnəti/",
+        "sentiment": "positive",
+        "definitionEN": "To take hold of an opportunity eagerly and decisively.",
+        "translationVI": "Nắm bắt cơ hội.",
+        "relatedCollocates": [
+          "take (the opportunity)",
+          "grasp (the opportunity)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "seize", "meaning": "nắm bắt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She is seizing the opportunity to start her own business."
+      }
+    },
+    {
+      "id": 36,
+      "targetLexeme": "enforce good job security",
+      "sourceContext": "...to improve policy to enforce good job security.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thực thi' (enforce) 'an ninh việc làm' (job security) 'tốt' (good)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈfɔːs ɡʊd dʒɒb sɪˈkjʊərəti/",
+        "sentiment": "positive",
+        "definitionEN": "To make sure that rules protecting workers' jobs are obeyed.",
+        "translationVI": "Thực thi an ninh việc làm tốt.",
+        "relatedCollocates": ["enforce (the law)", "job (security)"],
+        "wordForms": {
+          "verb": [{ "form": "enforce", "meaning": "thực thi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The union's main goal is to enforce good job security for its members."
+      }
+    },
+    {
+      "id": 37,
+      "targetLexeme": "a call to arms",
+      "sourceContext": "McGaughey’s findings are a call to arms to leaders of organisations, governments and banks...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'lời kêu gọi hành động' (a call to arms)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə kɔːl tuː ɑːmz/",
+        "sentiment": "neutral",
+        "definitionEN": "A strong appeal for people to take action on a particular issue.",
+        "translationVI": "Một lời kêu gọi hành động.",
+        "relatedCollocates": ["a call for (action)", "mobilize (support)"],
+        "wordForms": {
+          "noun": [{ "form": "call", "meaning": "lời kêu gọi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Her speech was a call to arms for environmental protection."
+      }
+    },
+    {
+      "id": 38,
+      "targetLexeme": "pre-empt the coming changes",
+      "sourceContext": "...to pre-empt the coming changes with bold new policies...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đón đầu/ngăn chặn trước' (pre-empt) 'những thay đổi' (changes) 'sắp tới' (coming)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌpriːˈempt ðə ˈkʌmɪŋ ˈtʃeɪndʒɪz/",
+        "sentiment": "positive",
+        "definitionEN": "To take action in order to prevent an anticipated event from happening or to act before it.",
+        "translationVI": "Đón đầu/ngăn chặn trước những thay đổi sắp tới.",
+        "relatedCollocates": ["anticipate (changes)", "pre-emptive (action)"],
+        "wordForms": {
+          "verb": [{ "form": "pre-empt", "meaning": "đón đầu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company launched a new product to pre-empt the coming changes in the market."
+      }
+    },
+    {
+      "id": 39,
+      "targetLexeme": "bold new policies",
+      "sourceContext": "...with bold new policies that guarantee full employment, fair incomes and a thriving economic democracy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'chính sách' (policies) 'mới' (new) 'táo bạo' (bold)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/bəʊld njuː ˈpɒləsiz/",
+        "sentiment": "positive",
+        "definitionEN": "Courageous and confident new plans of action.",
+        "translationVI": "Các chính sách mới táo bạo.",
+        "relatedCollocates": ["bold (move)", "radical (policies)"],
+        "wordForms": {
+          "adjective": [{ "form": "bold", "meaning": "táo bạo" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government needs to implement bold new policies to tackle climate change."
+      }
+    },
+    {
+      "id": 40,
+      "targetLexeme": "a thriving economic democracy",
+      "sourceContext": "...and a thriving economic democracy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'nền dân chủ' (democracy) 'kinh tế' (economic) 'thịnh vượng' (thriving)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈθraɪvɪŋ ˌiːkəˈnɒmɪk dɪˈmɒkrəsi/",
+        "sentiment": "positive",
+        "definitionEN": "A flourishing system where economic power is distributed and controlled by the people.",
+        "translationVI": "Một nền dân chủ kinh tế thịnh vượng.",
+        "relatedCollocates": ["thriving (economy)", "economic (democracy)"],
+        "wordForms": {
+          "adjective": [{ "form": "thriving", "meaning": "thịnh vượng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Worker cooperatives are seen as a key part of a thriving economic democracy."
+      }
+    },
+    {
+      "id": 41,
+      "targetLexeme": "promises... are astounding",
+      "sourceContext": "‘The promises of these new technologies are astounding.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Những lời hứa hẹn' (The promises) ... 'thật đáng kinh ngạc' (are astounding)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈprɒmɪsɪz ə əˈstaʊndɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "The potential benefits or positive outcomes are extremely surprising and impressive.",
+        "translationVI": "Những lời hứa hẹn... thật đáng kinh ngạc.",
+        "relatedCollocates": ["astonishing (synonym)", "amazing (synonym)"],
+        "wordForms": {
+          "adjective": [{ "form": "astounding", "meaning": "đáng kinh ngạc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The speed of progress in artificial intelligence is astounding."
+      }
+    },
+    {
+      "id": 42,
+      "targetLexeme": "deliver humankind the capacity",
+      "sourceContext": "They deliver humankind the capacity to live in a way that nobody could have once imagined,’ he adds.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Mang lại' (deliver) 'cho loài người' (humankind) 'năng lực' (the capacity)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈlɪvə ˌhjuːmənˈkaɪnd ðə kəˈpæsəti/",
+        "sentiment": "positive",
+        "definitionEN": "To provide the human race with the ability or power to do something.",
+        "translationVI": "Mang lại cho loài người năng lực.",
+        "relatedCollocates": ["provide (the capacity)", "give (the ability)"],
+        "wordForms": {
+          "verb": [{ "form": "deliver", "meaning": "mang lại" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The internet has delivered humankind the capacity to connect instantly across the globe."
+      }
+    },
+    {
+      "id": 43,
+      "targetLexeme": "subsistence agriculture",
+      "sourceContext": "‘Just as the industrial revolution brought people past subsistence agriculture...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Nông nghiệp' (agriculture) 'tự cung tự cấp' (subsistence)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/səbˈsɪstəns ˈæɡrɪkʌltʃə/",
+        "sentiment": "neutral",
+        "definitionEN": "Farming in which the farmers focus on growing enough food to feed themselves and their families.",
+        "translationVI": "Nông nghiệp tự cung tự cấp.",
+        "relatedCollocates": ["subsistence (farming)", "subsistence (level)"],
+        "wordForms": {
+          "noun": [{ "form": "subsistence", "meaning": "sự tự cung tự cấp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many communities in the developing world still rely on subsistence agriculture."
+      }
+    },
+    {
+      "id": 44,
+      "targetLexeme": "mass production",
+      "sourceContext": "...and the corporate revolution enabled mass production, a third revolution has been pronounced.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Sản xuất' (production) 'hàng loạt' (mass)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/mæs prəˈdʌkʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "The manufacturing of large quantities of standardized products, often using assembly lines.",
+        "translationVI": "Sản xuất hàng loạt.",
+        "relatedCollocates": ["assembly line", "industrial (production)"],
+        "wordForms": {
+          "noun": [{ "form": "production", "meaning": "sự sản xuất" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Henry Ford revolutionized the car industry with the introduction of mass production."
+      }
+    },
+    {
+      "id": 45,
+      "targetLexeme": "a third revolution has been pronounced",
+      "sourceContext": "...a third revolution has been pronounced.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'cuộc cách mạng' (revolution) 'thứ ba' (a third) 'đã được' (has been) 'công bố/tuyên bố' (pronounced)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə θɜːd ˌrevəˈluːʃən həz biːn prəˈnaʊnst/",
+        "sentiment": "neutral",
+        "definitionEN": "A third major, transformative change has been officially declared or stated.",
+        "translationVI": "Một cuộc cách mạng thứ ba đã được công bố.",
+        "relatedCollocates": ["declare (a revolution)", "a new (revolution)"],
+        "wordForms": {
+          "verb": [{ "form": "pronounce", "meaning": "tuyên bố" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After the old government fell, a new republic was pronounced."
+      }
+    },
+    {
+      "id": 46,
+      "targetLexeme": "the next revolution will be social",
+      "sourceContext": "But it will not only be one of technology. The next revolution will be social.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Cuộc cách mạng 'tiếp theo' (next) 'sẽ mang tính' (will be) 'xã hội' (social)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə nekst ˌrevəˈluːʃən wɪl biː ˈsəʊʃəl/",
+        "sentiment": "neutral",
+        "definitionEN": "The coming major change will relate to society and the way it is organized.",
+        "translationVI": "Cuộc cách mạng tiếp theo sẽ mang tính xã hội.",
+        "relatedCollocates": ["social (change)", "social (transformation)"],
+        "wordForms": {
+          "adjective": [{ "form": "social", "meaning": "thuộc xã hội" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The author argues that after the technological revolution, the next revolution will be social."
+      }
+    },
+    {
+      "id": 47,
+      "targetLexeme": "fair incomes",
+      "sourceContext": "...that guarantee full employment, fair incomes and a thriving economic democracy.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thu nhập' (incomes) 'công bằng' (fair)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/feər ˈɪnkʌmz/",
+        "sentiment": "positive",
+        "definitionEN": "Wages or earnings that are reasonable and just for the work done.",
+        "translationVI": "Thu nhập công bằng.",
+        "relatedCollocates": ["a fair (wage)", "income (inequality)"],
+        "wordForms": {
+          "noun": [{ "form": "income", "meaning": "thu nhập" }],
+          "adjective": [{ "form": "fair", "meaning": "công bằng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new policy aims to ensure fair incomes for all workers."
+      }
+    },
+    {
+      "id": 48,
+      "targetLexeme": "full employment",
+      "sourceContext": "...that guarantee full employment, fair incomes and a thriving economic democracy.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Toàn dụng lao động' (full employment)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/fʊl ɪmˈplɔɪmənt/",
+        "sentiment": "positive",
+        "definitionEN": "The condition in which virtually all who are able and willing to work are employed.",
+        "translationVI": "Toàn dụng lao động.",
+        "relatedCollocates": [
+          "achieve (full employment)",
+          "unemployment (rate)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "employment", "meaning": "việc làm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government's primary economic goal is to achieve full employment."
+      }
+    },
+    {
+      "id": 49,
+      "targetLexeme": "pensioned retirement",
+      "sourceContext": "...full-time work followed by a pensioned retirement is a thing of the past...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'nghỉ hưu' (retirement) 'có lương hưu' (pensioned)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpenʃənd rɪˈtaɪəmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "The period of one's life after they have stopped working and receive a regular payment (a pension) from their former employer or the government.",
+        "translationVI": "Nghỉ hưu có lương hưu.",
+        "relatedCollocates": ["receive (a pension)", "retire (v)"],
+        "wordForms": {
+          "noun": [
+            { "form": "pension", "meaning": "lương hưu" },
+            { "form": "retirement", "meaning": "sự nghỉ hưu" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He looked forward to a long and comfortable pensioned retirement."
+      }
+    },
+    {
+      "id": 50,
+      "targetLexeme": "retraining",
+      "sourceContext": "...one where retraining happens across the life...",
+      "phase1Inference": {
+        "contextualGuessVI": "Việc 'đào tạo lại' (retraining)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌriːˈtreɪnɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "The process of learning new skills so you can do a different job.",
+        "translationVI": "Sự/việc đào tạo lại.",
+        "relatedCollocates": ["reskilling (synonym)", "retrain (v)"],
+        "wordForms": {
+          "verb": [{ "form": "retrain", "meaning": "đào tạo lại" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company offered retraining for employees whose jobs were automated."
+      }
+    },
+    {
+      "id": 51,
+      "targetLexeme": "the keeper of knowledge",
+      "sourceContext": "The algorithm – usually built by external designers – often becomes the keeper of knowledge.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Người nắm giữ' (the keeper) 'tri thức' (of knowledge)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈkiːpər əv ˈnɒlɪdʒ/",
+        "sentiment": "neutral",
+        "definitionEN": "The person or thing that holds and protects important information or expertise.",
+        "translationVI": "Người/vật nắm giữ tri thức.",
+        "relatedCollocates": [
+          "repository of (knowledge)",
+          "guardian of (information)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "keeper", "meaning": "người trông coi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In ancient times, the village elder was the keeper of knowledge and traditions."
+      }
+    },
+    {
+      "id": 52,
+      "targetLexeme": "learns by observation",
+      "sourceContext": "...a novice stands next to experts and learns by observation.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Học hỏi' (learns) 'bằng cách' (by) 'quan sát' (observation)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/lɜːnz baɪ ˌɒbzəˈveɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "To acquire knowledge or a skill by watching someone else do it.",
+        "translationVI": "Học hỏi bằng cách quan sát.",
+        "relatedCollocates": ["learn by (doing)", "observational (learning)"],
+        "wordForms": {
+          "noun": [{ "form": "observation", "meaning": "sự quan sát" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many young animals learn essential survival skills by observation of their parents."
+      }
+    },
+    {
+      "id": 53,
+      "targetLexeme": "personal and frequent contact",
+      "sourceContext": "The way telecoms salespeople work is through personal and frequent contact with clients...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Sự liên lạc' (contact) 'cá nhân' (personal) 'và' (and) 'thường xuyên' (frequent)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpɜːsənl ənd ˈfriːkwənt ˈkɒntækt/",
+        "sentiment": "positive",
+        "definitionEN": "Direct and regular communication with someone.",
+        "translationVI": "Sự liên lạc cá nhân và thường xuyên.",
+        "relatedCollocates": ["maintain (contact)", "regular (contact)"],
+        "wordForms": {
+          "noun": [{ "form": "contact", "meaning": "sự liên lạc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Building a good client relationship requires personal and frequent contact."
+      }
+    },
+    {
+      "id": 54,
+      "targetLexeme": "the benefit of experience",
+      "sourceContext": "...using the benefit of experience to assess a situation and reach a decision.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sử dụng 'lợi ích/lợi thế' (the benefit) 'của' (of) 'kinh nghiệm' (experience)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈbenɪfɪt əv ɪkˈspɪəriəns/",
+        "sentiment": "positive",
+        "definitionEN": "The advantage gained from knowledge and skills acquired over time.",
+        "translationVI": "Lợi ích/lợi thế của kinh nghiệm.",
+        "relatedCollocates": ["draw on (experience)", "years of (experience)"],
+        "wordForms": {
+          "noun": [
+            { "form": "benefit", "meaning": "lợi ích" },
+            { "form": "experience", "meaning": "kinh nghiệm" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She had the benefit of experience, having worked in the industry for 20 years."
+      }
+    },
+    {
+      "id": 55,
+      "targetLexeme": "creep in",
+      "sourceContext": "...a short-sighted view begins to creep in...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bắt đầu 'len lỏi vào' (creep in)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/kriːp ɪn/",
+        "sentiment": "negative",
+        "definitionEN": "To begin to happen or affect something, especially in a slow, gradual, and unwelcome way.",
+        "translationVI": "Len lỏi vào.",
+        "relatedCollocates": ["doubt (creeps in)", "errors (creep in)"],
+        "wordForms": {
+          "verb": [{ "form": "creep", "meaning": "len lỏi, bò" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite his confidence, a few doubts began to creep in as the deadline approached."
+      }
+    },
+    {
+      "id": 56,
+      "targetLexeme": "alternative explorations",
+      "sourceContext": "Alternative explorations – where experimentation and human instinct lead to progress and new ideas – are effectively discouraged.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'sự khám phá' (explorations) 'thay thế' (Alternative)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɔːlˈtɜːnətɪv ˌekspləˈreɪʃənz/",
+        "sentiment": "positive",
+        "definitionEN": "The investigation of different or unconventional possibilities or methods.",
+        "translationVI": "Những khám phá thay thế.",
+        "relatedCollocates": [
+          "explore (alternatives)",
+          "alternative (methods)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "exploration", "meaning": "sự khám phá" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The team was encouraged to engage in alternative explorations to find a creative solution."
+      }
+    },
+    {
+      "id": 57,
+      "targetLexeme": "experimentation",
+      "sourceContext": "...where experimentation and human instinct lead to progress...",
+      "phase1Inference": {
+        "contextualGuessVI": "Nơi 'sự thử nghiệm' (experimentation) và bản năng con người dẫn đến tiến bộ."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˌsperɪmenˈteɪʃən/",
+        "sentiment": "positive",
+        "definitionEN": "The process of trying out new ideas, methods, or activities in order to discover what effect they have.",
+        "translationVI": "Sự thử nghiệm.",
+        "relatedCollocates": [
+          "trial and error",
+          "scientific (experimentation)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "experiment", "meaning": "thử nghiệm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Innovation often arises from a process of experimentation and failure."
+      }
+    },
+    {
+      "id": 58,
+      "targetLexeme": "capital",
+      "sourceContext": "‘It’s the laws that restrict the supply of capital to the job market, not the advent of new technologies that causes unemployment.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Nguồn cung 'vốn' (capital) cho thị trường việc làm."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkæpɪtl/",
+        "sentiment": "neutral",
+        "definitionEN": "Wealth in the form of money or other assets owned by a person or organization, available for a purpose such as starting a company or investing.",
+        "translationVI": "Vốn.",
+        "relatedCollocates": ["investment (capital)", "raise (capital)"],
+        "wordForms": {
+          "noun": [{ "form": "capital", "meaning": "vốn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The start-up is trying to raise capital to expand its operations."
+      }
+    },
+    {
+      "id": 59,
+      "targetLexeme": "leisure",
+      "sourceContext": "...to prepare for a fairer future of work and leisure.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Một tương lai công bằng hơn về công việc và 'sự giải trí/thời gian rảnh rỗi' (leisure)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈleʒə/",
+        "sentiment": "positive",
+        "definitionEN": "Time when one is not working or occupied; free time.",
+        "translationVI": "Thời gian giải trí, rảnh rỗi.",
+        "relatedCollocates": ["leisure (activities)", "work and (leisure)"],
+        "wordForms": {
+          "noun": [{ "form": "leisure", "meaning": "thời gian rảnh" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He spends his leisure time reading and gardening."
+      }
+    },
+    {
+      "id": 60,
+      "targetLexeme": "industrial revolution",
+      "sourceContext": "‘Just as the industrial revolution brought people past subsistence agriculture...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cuộc 'cách mạng' (revolution) 'công nghiệp' (industrial)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈdʌstriəl ˌrevəˈluːʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "The period of major industrialization and innovation that took place during the late 18th and early 19th centuries.",
+        "translationVI": "Cuộc cách mạng công nghiệp.",
+        "relatedCollocates": [
+          "social (revolution)",
+          "technological (revolution)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "revolution", "meaning": "cuộc cách mạng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The industrial revolution transformed societies from agrarian to industrial."
+      }
+    },
+    {
+      "id": 61,
+      "targetLexeme": "corporate revolution",
+      "sourceContext": "...and the corporate revolution enabled mass production...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cuộc 'cách mạng' (revolution) 'doanh nghiệp' (corporate)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkɔːpərət ˌrevəˈluːʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "A significant change in the way businesses and corporations are structured and operate.",
+        "translationVI": "Cuộc cách mạng doanh nghiệp.",
+        "relatedCollocates": ["industrial (revolution)", "social (revolution)"],
+        "wordForms": {
+          "noun": [{ "form": "revolution", "meaning": "cuộc cách mạng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The rise of multinational companies was a key part of the corporate revolution."
+      }
+    },
+    {
+      "id": 62,
+      "targetLexeme": "scenarios",
+      "sourceContext": "It’s scenarios like these that many researchers are working to avoid.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'viễn cảnh/kịch bản' (scenarios) như thế này."
+      },
+      "phase2Annotation": {
+        "phonetic": "/sɪˈnɑːriəʊz/",
+        "sentiment": "negative",
+        "definitionEN": "A postulated sequence or development of events; a possible future situation.",
+        "translationVI": "Các viễn cảnh, kịch bản.",
+        "relatedCollocates": ["worst-case (scenario)", "possible (scenarios)"],
+        "wordForms": {
+          "noun": [{ "form": "scenario", "meaning": "viễn cảnh" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We need to prepare for all possible scenarios, including the worst-case."
+      }
+    },
+    {
+      "id": 63,
+      "targetLexeme": "in the meantime",
+      "sourceContext": "In the meantime, says Pachidi, ‘We need to make sure we fully understand the dilemmas...’",
+      "phase1Inference": {
+        "contextualGuessVI": "'Trong khi đó' (In the meantime)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn ðə ˈmiːntaɪm/",
+        "sentiment": "neutral",
+        "definitionEN": "Meanwhile; during the time before something else happens.",
+        "translationVI": "Trong khi đó.",
+        "relatedCollocates": ["meanwhile (synonym)", "in the interim"],
+        "wordForms": {
+          "adverb": [{ "form": "meantime", "meaning": "trong khi đó" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new system will be ready next month. In the meantime, we have to use the old one."
+      }
+    },
+    {
+      "id": 64,
+      "targetLexeme": "expertise",
+      "sourceContext": "...regarding expertise, occupational boundaries and control.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Liên quan đến 'chuyên môn' (expertise)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌekspɜːˈtiːz/",
+        "sentiment": "neutral",
+        "definitionEN": "Expert skill or knowledge in a particular field.",
+        "translationVI": "Chuyên môn, sự tinh thông.",
+        "relatedCollocates": ["technical (expertise)", "area of (expertise)"],
+        "wordForms": {
+          "noun": [{ "form": "expertise", "meaning": "chuyên môn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We need to hire someone with expertise in digital marketing."
+      }
+    },
+    {
+      "id": 65,
+      "targetLexeme": "by choice",
+      "sourceContext": "...and where multiple jobs and no job happen by choice at different stages.",
+      "phase1Inference": {
+        "contextualGuessVI": "Xảy ra 'do lựa chọn' (by choice)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/baɪ tʃɔɪs/",
+        "sentiment": "positive",
+        "definitionEN": "As a result of one's own decision and free will, not because one is forced.",
+        "translationVI": "Do lựa chọn, tự nguyện.",
+        "relatedCollocates": [
+          "voluntarily (synonym)",
+          "of one's own free will"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "choice", "meaning": "sự lựa chọn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She is not unemployed; she is taking a year off by choice to travel the world."
+      }
+    }
+  ]
+}
