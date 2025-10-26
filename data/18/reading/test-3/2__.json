@@ -1,0 +1,2502 @@
+{
+  "logTitle": "IELTS Reading Log: The steam car",
+  "sourceId": "Reading Passage (Image)",
+  "totalItems": 85,
+  "lexicalItems": [
+    {
+      "id": 1,
+      "targetLexeme": "primitive automobiles",
+      "sourceContext": "When primitive automobiles first began to appear in the 1800s, their engines were based on steam power.",
+      "phase1Inference": {
+        "contextualGuessVI": "Ô tô thô sơ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈprɪmətɪv ˈɔːtəməbiːlz/",
+        "sentiment": "neutral",
+        "definitionEN": "Relating to the earliest stage of the development of cars; simple and not technologically advanced.",
+        "translationVI": "Ô tô sơ khai",
+        "relatedCollocates": ["early cars", "basic vehicles"],
+        "wordForms": {
+          "adjective": [
+            { "form": "primitive", "meaning": "nguyên thủy, thô sơ" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Museums often display primitive automobiles to show how far car technology has advanced."
+      }
+    },
+    {
+      "id": 2,
+      "targetLexeme": "based on steam power",
+      "sourceContext": "...their engines were based on steam power.",
+      "phase1Inference": {
+        "contextualGuessVI": "Dựa trên năng lượng hơi nước"
+      },
+      "phase2Annotation": {
+        "phonetic": "/beɪst ɒn stiːm ˈpaʊə/",
+        "sentiment": "neutral",
+        "definitionEN": "Using the force produced when water is heated to a vapor as the primary source of energy.",
+        "translationVI": "Dựa trên năng lượng hơi nước",
+        "relatedCollocates": ["steam-powered", "run on steam"],
+        "wordForms": {
+          "noun": [{ "form": "steam power", "meaning": "năng lượng hơi nước" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The first locomotives were based on steam power, revolutionizing rail transport."
+      }
+    },
+    {
+      "id": 3,
+      "targetLexeme": "enjoyed a long and successful career",
+      "sourceContext": "Steam had already enjoyed a long and successful career in the railways, so it was only natural that the technology evolved into a miniaturized version...",
+      "phase1Inference": {
+        "contextualGuessVI": "Có một sự nghiệp lâu dài và thành công"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈdʒɔɪd ə lɒŋ ənd səkˈsesfl kəˈrɪə/",
+        "sentiment": "positive",
+        "definitionEN": "To have been used effectively and prosperously for an extended period.",
+        "translationVI": "Có một quá trình phát triển lâu dài và thành công",
+        "relatedCollocates": [
+          "had a successful history",
+          "was widely used for a long time"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "career", "meaning": "sự nghiệp, quá trình" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The actor enjoyed a long and successful career, starring in over fifty films."
+      }
+    },
+    {
+      "id": 4,
+      "targetLexeme": "miniaturized version",
+      "sourceContext": "...it was only natural that the technology evolved into a miniaturized version which was separate from the trains.",
+      "phase1Inference": {
+        "contextualGuessVI": "Phiên bản thu nhỏ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmɪnətʃəraɪzd ˈvɜːʃn/",
+        "sentiment": "neutral",
+        "definitionEN": "A smaller-scale model or form of something.",
+        "translationVI": "Phiên bản thu nhỏ",
+        "relatedCollocates": ["compact version", "scaled-down model"],
+        "wordForms": {
+          "verb": [{ "form": "miniaturize", "meaning": "thu nhỏ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Early mobile phones were huge, but technology allowed for the creation of a miniaturized version we use today."
+      }
+    },
+    {
+      "id": 5,
+      "targetLexeme": "inherited steam’s weaknesses",
+      "sourceContext": "But these early cars inherited steam’s weaknesses along with its strengths.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thừa hưởng những điểm yếu của hơi nước"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈherɪtɪd stiːmz ˈwiːknəsɪz/",
+        "sentiment": "negative",
+        "definitionEN": "To have received the same disadvantages or flaws from a predecessor.",
+        "translationVI": "Thừa hưởng những điểm yếu của hơi nước",
+        "relatedCollocates": [
+          "adopted the flaws",
+          "carried over the disadvantages"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "inherit", "meaning": "thừa hưởng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new government inherited the previous administration's economic weaknesses."
+      }
+    },
+    {
+      "id": 6,
+      "targetLexeme": "lit by hand",
+      "sourceContext": "The boilers had to be lit by hand, and they required about twenty minutes to build up pressure before they could be driven.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được đốt bằng tay"
+      },
+      "phase2Annotation": {
+        "phonetic": "/lɪt baɪ hænd/",
+        "sentiment": "neutral",
+        "definitionEN": "To be ignited manually, without an automatic system.",
+        "translationVI": "Được đốt bằng tay",
+        "relatedCollocates": ["manually ignited", "hand-lit"],
+        "wordForms": {
+          "verb": [{ "form": "light", "meaning": "thắp sáng, đốt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Before the invention of electric ignition, old gas lamps had to be lit by hand every evening."
+      }
+    },
+    {
+      "id": 7,
+      "targetLexeme": "build up pressure",
+      "sourceContext": "...they required about twenty minutes to build up pressure before they could be driven.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tạo áp suất"
+      },
+      "phase2Annotation": {
+        "phonetic": "/bɪld ʌp ˈpreʃə/",
+        "sentiment": "neutral",
+        "definitionEN": "To gradually increase the force produced by a gas or liquid in a confined space.",
+        "translationVI": "Tạo áp suất",
+        "relatedCollocates": ["generate pressure", "increase pressure"],
+        "wordForms": {
+          "noun": [{ "form": "pressure", "meaning": "áp suất" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A pressure cooker works by allowing steam to build up inside, which cooks food faster."
+      }
+    },
+    {
+      "id": 8,
+      "targetLexeme": "needing replenishment",
+      "sourceContext": "Furthermore, their water reservoirs only lasted for about thirty miles before needing replenishment.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cần được nạp lại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈniːdɪŋ rɪˈplenɪʃmənt/",
+        "sentiment": "negative",
+        "definitionEN": "Requiring a refill or the restoration of a stock or supply of something.",
+        "translationVI": "Cần được nạp lại",
+        "relatedCollocates": ["requiring a refill", "needing to be restocked"],
+        "wordForms": {
+          "verb": [{ "form": "replenish", "meaning": "làm đầy lại" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After a long hike, my water bottle was empty and in desperate need of replenishment."
+      }
+    },
+    {
+      "id": 9,
+      "targetLexeme": "self-propelled carriages",
+      "sourceContext": "Despite such shortcomings, these newly designed self-propelled carriages offered quick transportation...",
+      "phase1Inference": {
+        "contextualGuessVI": "Xe tự hành"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌself prəˈpeld ˈkærɪdʒɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "Vehicles that are able to move by their own power, without being pulled by horses or other external forces.",
+        "translationVI": "Xe tự hành",
+        "relatedCollocates": ["automobiles", "horseless carriages"],
+        "wordForms": {
+          "adjective": [{ "form": "self-propelled", "meaning": "tự hành" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The invention of the self-propelled carriage marked the beginning of the automotive era."
+      }
+    },
+    {
+      "id": 10,
+      "targetLexeme": "shuttling wealthy citizens",
+      "sourceContext": "...and by the early 1900s it was not uncommon to see such machines shuttling wealthy citizens around town.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chuyên chở những công dân giàu có"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈʃʌtlɪŋ ˈwelθi ˈsɪtɪzənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Transporting rich people from one place to another, often as a regular service.",
+        "translationVI": "Chuyên chở những công dân giàu có",
+        "relatedCollocates": ["transporting passengers", "ferrying people"],
+        "wordForms": {
+          "verb": [{ "form": "shuttle", "meaning": "chuyên chở" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The luxury hotel provides a limousine service for shuttling wealthy guests to and from the airport."
+      }
+    },
+    {
+      "id": 11,
+      "targetLexeme": "glory days... were numbered",
+      "sourceContext": "But the glory days of steam cars were numbered.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những ngày huy hoàng... đã được đếm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɡlɔːri deɪz wə ˈnʌmbəd/",
+        "sentiment": "negative",
+        "definitionEN": "An idiom meaning that the period of greatest success or prosperity for something was coming to an end.",
+        "translationVI": "Những ngày huy hoàng... sắp tàn",
+        "relatedCollocates": ["time was running out", "the end was near"],
+        "wordForms": {
+          "noun": [{ "form": "glory days", "meaning": "những ngày huy hoàng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Once the new technology was introduced, the glory days of the old system were numbered."
+      }
+    },
+    {
+      "id": 12,
+      "targetLexeme": "Internal Combustion Engine",
+      "sourceContext": "A new technology called the Internal Combustion Engine soon appeared, which offered the ability to drive down the road just moments after starting.",
+      "phase1Inference": {
+        "contextualGuessVI": "Động cơ đốt trong"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈtɜːnl kəmˈbʌstʃən ˈendʒɪn/",
+        "sentiment": "neutral",
+        "definitionEN": "An engine that generates motive power by the burning of gasoline, oil, or other fuel with air inside the engine, the hot gases produced being used to drive a piston or do other work.",
+        "translationVI": "Động cơ đốt trong",
+        "relatedCollocates": ["gasoline engine", "diesel engine"],
+        "wordForms": {
+          "noun": [{ "form": "engine", "meaning": "động cơ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Most modern cars are powered by an Internal Combustion Engine."
+      }
+    },
+    {
+      "id": 13,
+      "targetLexeme": "hand-crank starters",
+      "sourceContext": "At first, these noisy gasoline cars were unpopular because they were more complicated to operate and they had difficult hand-crank starters...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bộ khởi động bằng tay quay"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hænd-kræŋk ˈstɑːtəz/",
+        "sentiment": "negative",
+        "definitionEN": "A manual device with a handle that had to be turned by hand to start an engine.",
+        "translationVI": "Bộ khởi động bằng tay quay",
+        "relatedCollocates": ["manual start", "electric starter (antonym)"],
+        "wordForms": {
+          "noun": [{ "form": "crank", "meaning": "tay quay" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Early cars were notoriously difficult to start, often requiring great strength to turn the hand-crank starters."
+      }
+    },
+    {
+      "id": 14,
+      "targetLexeme": "engines backfired",
+      "sourceContext": "...which were known to break arms when the engines backfired.",
+      "phase1Inference": {
+        "contextualGuessVI": "Động cơ bị nổ ngược"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈendʒɪnz ˈbækfaɪəd/",
+        "sentiment": "negative",
+        "definitionEN": "(Of an engine) to undergo a mistimed explosion in the cylinder or exhaust.",
+        "translationVI": "Động cơ bị nổ ngược",
+        "relatedCollocates": ["engine misfire", "loud bang"],
+        "wordForms": {
+          "verb": [{ "form": "backfire", "meaning": "nổ ngược" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The old car made a loud noise as its engine backfired."
+      }
+    },
+    {
+      "id": 15,
+      "targetLexeme": "gradually phased out",
+      "sourceContext": "But in 1912 General Motors introduced the electric starter, and over the following few years steam power was gradually phased out.",
+      "phase1Inference": {
+        "contextualGuessVI": "Dần dần bị loại bỏ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɡrædʒuəli feɪzd aʊt/",
+        "sentiment": "neutral",
+        "definitionEN": "To be slowly and systematically withdrawn or discontinued.",
+        "translationVI": "Dần dần bị loại bỏ",
+        "relatedCollocates": ["slowly discontinued", "progressively withdrawn"],
+        "wordForms": {
+          "verb": [{ "form": "phase out", "meaning": "loại bỏ dần" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Incandescent light bulbs are being gradually phased out in favor of more energy-efficient LEDs."
+      }
+    },
+    {
+      "id": 16,
+      "targetLexeme": "rekindle the technology",
+      "sourceContext": "Even as the market was declining, four brothers made one last effort to rekindle the technology.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hồi sinh công nghệ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌriːˈkɪndl ðə tekˈnɒlədʒi/",
+        "sentiment": "positive",
+        "definitionEN": "To revive or bring back a technology that has fallen out of use or favor.",
+        "translationVI": "Hồi sinh công nghệ",
+        "relatedCollocates": ["revive the technology", "bring back"],
+        "wordForms": {
+          "verb": [{ "form": "rekindle", "meaning": "nhóm lại, nhen nhóm lại" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There is a growing movement to rekindle the technology of traditional crafts."
+      }
+    },
+    {
+      "id": 17,
+      "targetLexeme": "comprised parts taken from",
+      "sourceContext": "It comprised parts taken from a wrecked early steam car but reconfigured to drive an engine of their own design.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bao gồm các bộ phận lấy từ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kəmˈpraɪzd pɑːts ˈteɪkən frəm/",
+        "sentiment": "neutral",
+        "definitionEN": "To be made up of components that were sourced from something else.",
+        "translationVI": "Bao gồm các bộ phận lấy từ",
+        "relatedCollocates": [
+          "consisted of parts from",
+          "was made from components of"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "comprise", "meaning": "bao gồm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The sculpture comprised parts taken from old machinery and scrap metal."
+      }
+    },
+    {
+      "id": 18,
+      "targetLexeme": "reconfigured to drive",
+      "sourceContext": "...but reconfigured to drive an engine of their own design.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được tái cấu trúc để vận hành"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌriːkənˈfɪɡəd tuː draɪv/",
+        "sentiment": "neutral",
+        "definitionEN": "To be rearranged or altered in shape or structure in order to power something.",
+        "translationVI": "Được tái cấu trúc để vận hành",
+        "relatedCollocates": ["modified to power", "adapted to run"],
+        "wordForms": {
+          "verb": [{ "form": "reconfigure", "meaning": "tái cấu trúc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The old laptop was reconfigured to drive a new home automation system."
+      }
+    },
+    {
+      "id": 19,
+      "targetLexeme": "prototype",
+      "sourceContext": "Though it did not run well, the Doble brothers went on to build a second and third prototype in the following years.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nguyên mẫu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈprəʊtətaɪp/",
+        "sentiment": "neutral",
+        "definitionEN": "A first or preliminary version of a device or vehicle from which other forms are developed.",
+        "translationVI": "Nguyên mẫu",
+        "relatedCollocates": ["first model", "early version"],
+        "wordForms": {
+          "noun": [{ "form": "prototype", "meaning": "nguyên mẫu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company is testing a new prototype for its next-generation electric car."
+      }
+    },
+    {
+      "id": 20,
+      "targetLexeme": "drew the attention of",
+      "sourceContext": "Though the Doble boys’ third prototype, nicknamed the Model B, still lacked the convenience of an internal combustion engine, it drew the attention of automobile trade magazines...",
+      "phase1Inference": {
+        "contextualGuessVI": "Thu hút sự chú ý của"
+      },
+      "phase2Annotation": {
+        "phonetic": "/druː ði əˈtenʃn əv/",
+        "sentiment": "positive",
+        "definitionEN": "To attract the interest or notice of someone or something.",
+        "translationVI": "Thu hút sự chú ý của",
+        "relatedCollocates": ["attracted the notice of", "caught the eye of"],
+        "wordForms": {
+          "verb": [{ "form": "draw", "meaning": "vẽ, thu hút" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The young artist's unusual style quickly drew the attention of the art world."
+      }
+    },
+    {
+      "id": 21,
+      "targetLexeme": "proved to be superior to",
+      "sourceContext": "The Model B proved to be superior to gasoline automobiles in many ways.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chứng tỏ là vượt trội hơn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pruːvd tuː biː suːˈpɪəriə tuː/",
+        "sentiment": "positive",
+        "definitionEN": "To be shown through experience or testing to be better than something else.",
+        "translationVI": "Chứng tỏ là vượt trội hơn",
+        "relatedCollocates": ["was shown to be better than", "outperformed"],
+        "wordForms": {
+          "adjective": [{ "form": "superior", "meaning": "vượt trội" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new material proved to be superior to traditional plastic in both strength and flexibility."
+      }
+    },
+    {
+      "id": 22,
+      "targetLexeme": "in contrast to",
+      "sourceContext": "Its high-pressure steam drove the engine pistons in virtual silence, in contrast to clattering gas engines...",
+      "phase1Inference": {
+        "contextualGuessVI": "Trái ngược với"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn ˈkɒntrɑːst tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "As an opposition or difference to something else.",
+        "translationVI": "Trái ngược với",
+        "relatedCollocates": ["unlike", "as opposed to"],
+        "wordForms": {
+          "noun": [{ "form": "contrast", "meaning": "sự tương phản" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In contrast to her outgoing sister, she was very shy and reserved."
+      }
+    },
+    {
+      "id": 23,
+      "targetLexeme": "clattering gas engines",
+      "sourceContext": "...in contrast to clattering gas engines which emitted the aroma of burned hydrocarbons.",
+      "phase1Inference": {
+        "contextualGuessVI": "Động cơ xăng kêu lách cách"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈklætərɪŋ ɡæs ˈendʒɪnz/",
+        "sentiment": "negative",
+        "definitionEN": "Gasoline engines that make a loud, rattling sound.",
+        "translationVI": "Động cơ xăng kêu lách cách",
+        "relatedCollocates": ["noisy engines", "rattling motors"],
+        "wordForms": {
+          "verb": [{ "form": "clatter", "meaning": "kêu loảng xoảng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The old truck's clattering gas engine could be heard from a block away."
+      }
+    },
+    {
+      "id": 24,
+      "targetLexeme": "burned hydrocarbons",
+      "sourceContext": "...which emitted the aroma of burned hydrocarbons.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hydrocarbon bị đốt cháy"
+      },
+      "phase2Annotation": {
+        "phonetic": "/bɜːnd ˌhaɪdrəʊˈkɑːbənz/",
+        "sentiment": "negative",
+        "definitionEN": "Organic compounds consisting entirely of hydrogen and carbon that have been combusted, often producing a distinct smell.",
+        "translationVI": "Hydrocarbon bị đốt cháy",
+        "relatedCollocates": ["exhaust fumes", "gasoline smell"],
+        "wordForms": {
+          "noun": [{ "form": "hydrocarbon", "meaning": "hydrocarbon" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The smell of burned hydrocarbons is a common sign of an inefficient engine."
+      }
+    },
+    {
+      "id": 25,
+      "targetLexeme": "in virtual silence",
+      "sourceContext": "Its high-pressure steam drove the engine pistons in virtual silence...",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong sự im lặng gần như tuyệt đối"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn ˈvɜːtʃuəl ˈsaɪləns/",
+        "sentiment": "positive",
+        "definitionEN": "In a state of almost complete quiet.",
+        "translationVI": "Trong sự im lặng gần như tuyệt đối",
+        "relatedCollocates": ["almost silently", "in near silence"],
+        "wordForms": {
+          "adjective": [{ "form": "virtual", "meaning": "thực sự, gần như" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The electric car moved through the streets in virtual silence."
+      }
+    },
+    {
+      "id": 26,
+      "targetLexeme": "remarkable acceleration",
+      "sourceContext": "Perhaps most impressively, the Model B was amazingly swift. It could accelerate from zero to sixty miles per hour in just fifteen seconds, a feat described as ‘remarkable acceleration’ by Automobile magazine in 1914.",
+      "phase1Inference": {
+        "contextualGuessVI": "Khả năng tăng tốc đáng nể"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈmɑːkəbl əkˌseləˈreɪʃn/",
+        "sentiment": "positive",
+        "definitionEN": "An unusually impressive capacity to increase speed quickly.",
+        "translationVI": "Khả năng tăng tốc đáng nể",
+        "relatedCollocates": ["impressive speed", "rapid acceleration"],
+        "wordForms": {
+          "noun": [{ "form": "acceleration", "meaning": "sự tăng tốc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Modern electric sports cars are known for their remarkable acceleration."
+      }
+    },
+    {
+      "id": 27,
+      "targetLexeme": "seek investment",
+      "sourceContext": "The following year Abner Doble drove the Model B from Massachusetts to Detroit in order to seek investment in his automobile design...",
+      "phase1Inference": {
+        "contextualGuessVI": "Tìm kiếm sự đầu tư"
+      },
+      "phase2Annotation": {
+        "phonetic": "/siːk ɪnˈvestmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "To try to find people or organizations who will put money into a business or project in order to make a profit.",
+        "translationVI": "Tìm kiếm sự đầu tư",
+        "relatedCollocates": ["look for funding", "attract investors"],
+        "wordForms": {
+          "noun": [{ "form": "investment", "meaning": "sự đầu tư" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The startup is currently trying to seek investment to expand its operations."
+      }
+    },
+    {
+      "id": 28,
+      "targetLexeme": "expand upon the innovations",
+      "sourceContext": "He and his brothers immediately began working on the Model C, which was intended to expand upon the innovations of the Model B.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mở rộng dựa trên những đổi mới"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˈspænd əˈpɒn ði ˌɪnəˈveɪʃənz/",
+        "sentiment": "positive",
+        "definitionEN": "To further develop or add to the new ideas or methods that have already been introduced.",
+        "translationVI": "Mở rộng dựa trên những đổi mới",
+        "relatedCollocates": [
+          "build on the advancements",
+          "further develop the new features"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "expand upon", "meaning": "mở rộng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new software will expand upon the innovations of its predecessor with more advanced features."
+      }
+    },
+    {
+      "id": 29,
+      "targetLexeme": "key-based ignition",
+      "sourceContext": "The brothers added features such as a key-based ignition in the cabin, eliminating the need for the operator to manually ignite the boiler.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hệ thống khởi động bằng chìa khóa"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kiː-beɪst ɪɡˈnɪʃn/",
+        "sentiment": "positive",
+        "definitionEN": "A system for starting an engine by turning a key.",
+        "translationVI": "Hệ thống khởi động bằng chìa khóa",
+        "relatedCollocates": ["push-button start", "ignition system"],
+        "wordForms": {
+          "noun": [{ "form": "ignition", "meaning": "sự đánh lửa, khởi động" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The introduction of the key-based ignition was a major step forward in automotive convenience."
+      }
+    },
+    {
+      "id": 30,
+      "targetLexeme": "eliminating the need for",
+      "sourceContext": "...eliminating the need for the operator to manually ignite the boiler.",
+      "phase1Inference": {
+        "contextualGuessVI": "Loại bỏ sự cần thiết của"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪˈlɪmɪneɪtɪŋ ðə niːd fɔː/",
+        "sentiment": "positive",
+        "definitionEN": "To completely remove the requirement for something.",
+        "translationVI": "Loại bỏ sự cần thiết của",
+        "relatedCollocates": [
+          "obviating the need for",
+          "making something unnecessary"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "eliminate", "meaning": "loại bỏ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Automatic transmissions were created, eliminating the need for drivers to use a clutch pedal."
+      }
+    },
+    {
+      "id": 31,
+      "targetLexeme": "manually ignite the boiler",
+      "sourceContext": "...eliminating the need for the operator to manually ignite the boiler.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đốt lò hơi bằng tay"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmænjuəli ɪɡˈnaɪt ðə ˈbɔɪlə/",
+        "sentiment": "neutral",
+        "definitionEN": "To light the boiler by hand.",
+        "translationVI": "Đốt lò hơi bằng tay",
+        "relatedCollocates": ["hand-light the furnace", "manual ignition"],
+        "wordForms": {
+          "verb": [{ "form": "ignite", "meaning": "đốt cháy" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In the old steamship, a crew member had to manually ignite the boiler hours before departure."
+      }
+    },
+    {
+      "id": 32,
+      "targetLexeme": "virtually silent powerplant",
+      "sourceContext": "...with much greater speed, much simpler driving controls, and a virtually silent powerplant.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hệ thống động lực gần như im lặng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈvɜːtʃuəli ˈsaɪlənt ˈpaʊəplɑːnt/",
+        "sentiment": "positive",
+        "definitionEN": "An engine and transmission system that operates with almost no noise.",
+        "translationVI": "Hệ thống động lực gần như im lặng",
+        "relatedCollocates": ["quiet engine", "noiseless motor"],
+        "wordForms": {
+          "noun": [{ "form": "powerplant", "meaning": "hệ thống động lực" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Electric vehicles are known for their smooth ride and virtually silent powerplant."
+      }
+    },
+    {
+      "id": 33,
+      "targetLexeme": "received... deposits for",
+      "sourceContext": "By the following April, the General Engineering Company had received 5,390 deposits for Doble Detroits...",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhận được... tiền đặt cọc cho"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈsiːvd dɪˈpɒzɪts fɔː/",
+        "sentiment": "neutral",
+        "definitionEN": "To have been given a sum of money payable as a first installment on the purchase of something or as a pledge for a contract, the balance being payable later.",
+        "translationVI": "Nhận được... tiền đặt cọc cho",
+        "relatedCollocates": [
+          "took pre-orders for",
+          "accepted down payments on"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "deposit", "meaning": "tiền đặt cọc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The developer received hundreds of deposits for the new apartments before construction even began."
+      }
+    },
+    {
+      "id": 34,
+      "targetLexeme": "eagerly awaiting",
+      "sourceContext": "Later that year Abner Doble delivered unhappy news to those eagerly awaiting the delivery of their modern new cars.",
+      "phase1Inference": {
+        "contextualGuessVI": "Háo hức chờ đợi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈiːɡəli əˈweɪtɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "To be waiting for something with great excitement and impatience.",
+        "translationVI": "Háo hức chờ đợi",
+        "relatedCollocates": ["anxiously anticipating", "looking forward to"],
+        "wordForms": {
+          "verb": [{ "form": "await", "meaning": "chờ đợi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Fans were eagerly awaiting the release of the final book in the series."
+      }
+    },
+    {
+      "id": 35,
+      "targetLexeme": "sluggish and erratic",
+      "sourceContext": "Those buyers who received the handful of completed cars complained that the vehicles were sluggish and erratic, sometimes going in reverse when they should go forward.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chậm chạp và thất thường"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈslʌɡɪʃ ənd ɪˈrætɪk/",
+        "sentiment": "negative",
+        "definitionEN": "Slow-moving or inactive, and not even or regular in pattern or movement; unpredictable.",
+        "translationVI": "Chậm chạp và thất thường",
+        "relatedCollocates": [
+          "slow and unpredictable",
+          "unresponsive and inconsistent"
+        ],
+        "wordForms": {
+          "adjective": [
+            { "form": "sluggish", "meaning": "chậm chạp" },
+            { "form": "erratic", "meaning": "thất thường" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "My old computer has become sluggish and erratic, often freezing for no reason."
+      }
+    },
+    {
+      "id": 36,
+      "targetLexeme": "plagued with serious glitches",
+      "sourceContext": "The new engine design, though innovative, was still plagued with serious glitches.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị ám ảnh bởi những trục trặc nghiêm trọng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pleɪɡd wɪð ˈsɪəriəs ˈɡlɪtʃɪz/",
+        "sentiment": "negative",
+        "definitionEN": "To be continually troubled or distressed by significant, unexpected, and typically minor faults in a system or machine.",
+        "translationVI": "Bị cản trở bởi những trục trặc nghiêm trọng",
+        "relatedCollocates": [
+          "beset by problems",
+          "suffering from major faults"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "glitch", "meaning": "trục trặc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The launch of the new video game was plagued with serious glitches that made it unplayable for many."
+      }
+    },
+    {
+      "id": 37,
+      "targetLexeme": "a viable steam automobile",
+      "sourceContext": "The brothers made one final attempt to produce a viable steam automobile.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một chiếc ô tô hơi nước khả thi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈvaɪəbl stiːm ˈɔːtəməbiːl/",
+        "sentiment": "positive",
+        "definitionEN": "A steam-powered car that is capable of working successfully; feasible.",
+        "translationVI": "Một chiếc ô tô hơi nước khả thi",
+        "relatedCollocates": ["a feasible car", "a workable design"],
+        "wordForms": {
+          "adjective": [{ "form": "viable", "meaning": "khả thi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company is searching for a viable alternative to plastic packaging."
+      }
+    },
+    {
+      "id": 38,
+      "targetLexeme": "road-tested",
+      "sourceContext": "In early 1924, the Doble brothers shipped a Model E to New York City to be road-tested by the Automobile Club of America.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được chạy thử nghiệm trên đường"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈrəʊdˌtestɪd/",
+        "sentiment": "neutral",
+        "definitionEN": "To be tested on the road in real driving conditions.",
+        "translationVI": "Được chạy thử nghiệm trên đường",
+        "relatedCollocates": ["test-driven", "field-tested"],
+        "wordForms": {
+          "noun": [{ "form": "road test", "meaning": "cuộc chạy thử" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new model of the car will be road-tested extensively before it goes on sale."
+      }
+    },
+    {
+      "id": 39,
+      "targetLexeme": "freezing temperatures",
+      "sourceContext": "After sitting overnight in freezing temperatures, the car was pushed out into the road and left to sit for over an hour in the frosty morning air.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhiệt độ đóng băng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfriːzɪŋ ˈtemprətʃəz/",
+        "sentiment": "negative",
+        "definitionEN": "Temperatures at or below the freezing point of water (0°C or 32°F).",
+        "translationVI": "Nhiệt độ đóng băng",
+        "relatedCollocates": ["sub-zero temperatures", "icy conditions"],
+        "wordForms": {
+          "verb": [{ "form": "freeze", "meaning": "đóng băng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "You should protect your plants from the freezing temperatures expected tonight."
+      }
+    },
+    {
+      "id": 40,
+      "targetLexeme": "at the turn of the key",
+      "sourceContext": "At the turn of the key, the boiler lit and reached its operating pressure inside of forty seconds.",
+      "phase1Inference": {
+        "contextualGuessVI": "Khi vặn chìa khóa"
+      },
+      "phase2Annotation": {
+        "phonetic": "/æt ðə tɜːn əv ðə kiː/",
+        "sentiment": "neutral",
+        "definitionEN": "The action of rotating a key in a lock or ignition.",
+        "translationVI": "Khi vặn chìa khóa",
+        "relatedCollocates": ["key turn", "ignition"],
+        "wordForms": {
+          "noun": [{ "form": "turn", "meaning": "sự xoay, vặn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The engine started immediately at the turn of the key."
+      }
+    },
+    {
+      "id": 41,
+      "targetLexeme": "operating pressure",
+      "sourceContext": "...the boiler lit and reached its operating pressure inside of forty seconds.",
+      "phase1Inference": {
+        "contextualGuessVI": "Áp suất vận hành"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɒpəreɪtɪŋ ˈpreʃə/",
+        "sentiment": "neutral",
+        "definitionEN": "The specific level of pressure at which a machine or system is designed to function.",
+        "translationVI": "Áp suất vận hành",
+        "relatedCollocates": ["working pressure", "functional pressure"],
+        "wordForms": {
+          "verb": [{ "form": "operate", "meaning": "vận hành" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The steam engine cannot run until the boiler reaches its correct operating pressure."
+      }
+    },
+    {
+      "id": 42,
+      "targetLexeme": "evenly distributed weight",
+      "sourceContext": "As they drove the test vehicle further, they found that its evenly distributed weight lent it surprisingly good handling, even though it was so heavy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trọng lượng được phân bổ đều"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈiːvnli dɪˈstrɪbjuːtɪd weɪt/",
+        "sentiment": "positive",
+        "definitionEN": "Mass that is spread out in a balanced and uniform way.",
+        "translationVI": "Trọng lượng được phân bổ đều",
+        "relatedCollocates": ["balanced weight", "uniform distribution"],
+        "wordForms": {
+          "verb": [{ "form": "distribute", "meaning": "phân phối" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The car's evenly distributed weight gives it excellent stability in corners."
+      }
+    },
+    {
+      "id": 43,
+      "targetLexeme": "good handling",
+      "sourceContext": "...lent it surprisingly good handling, even though it was so heavy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Khả năng xử lý tốt"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɡʊd ˈhændlɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "The quality of being easy to control and maneuver while driving.",
+        "translationVI": "Khả năng xử lý tốt",
+        "relatedCollocates": ["responsive steering", "maneuverability"],
+        "wordForms": {
+          "noun": [{ "form": "handling", "meaning": "sự điều khiển" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Sports cars are prized for their powerful engines and responsive, good handling."
+      }
+    },
+    {
+      "id": 44,
+      "targetLexeme": "negligible emissions",
+      "sourceContext": "...and it achieved about fifteen miles per gallon of kerosene with negligible emissions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Lượng khí thải không đáng kể"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈneɡlɪdʒəbl ɪˈmɪʃənz/",
+        "sentiment": "positive",
+        "definitionEN": "An amount of discharged pollutants that is so small or unimportant as to be not worth considering.",
+        "translationVI": "Lượng khí thải không đáng kể",
+        "relatedCollocates": ["minimal pollution", "very low emissions"],
+        "wordForms": {
+          "adjective": [{ "form": "negligible", "meaning": "không đáng kể" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Modern electric cars produce negligible emissions compared to gasoline vehicles."
+      }
+    },
+    {
+      "id": 45,
+      "targetLexeme": "financial success",
+      "sourceContext": "Sadly, the Dobles’ brilliant steam car never was a financial success.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thành công về mặt tài chính"
+      },
+      "phase2Annotation": {
+        "phonetic": "/faɪˈnænʃl səkˈses/",
+        "sentiment": "positive",
+        "definitionEN": "The achievement of wealth and profitability.",
+        "translationVI": "Thành công về mặt tài chính",
+        "relatedCollocates": ["commercial success", "profitability"],
+        "wordForms": {
+          "adjective": [
+            { "form": "financial", "meaning": "thuộc về tài chính" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Although the movie received critical acclaim, it was not a major financial success."
+      }
+    },
+    {
+      "id": 46,
+      "targetLexeme": "tinkered endlessly with the design",
+      "sourceContext": "...because Abner Doble tinkered endlessly with the design.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mày mò không ngừng với thiết kế"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtɪŋkəd ˈendləsli wɪð ðə dɪˈzaɪn/",
+        "sentiment": "neutral",
+        "definitionEN": "To have made small changes to the design continuously and without stopping, in an attempt to improve or repair it.",
+        "translationVI": "Mày mò không ngừng với thiết kế",
+        "relatedCollocates": ["constantly modified", "endlessly adjusted"],
+        "wordForms": {
+          "verb": [{ "form": "tinker", "meaning": "sửa chữa, mày mò" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The inventor tinkered endlessly with his creation, always looking for ways to make it better."
+      }
+    },
+    {
+      "id": 47,
+      "targetLexeme": "the company folded",
+      "sourceContext": "By the time the company folded in 1931, fewer than fifty of the amazing Model E steam cars had been produced.",
+      "phase1Inference": {
+        "contextualGuessVI": "Công ty phá sản"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈkʌmpəni ˈfəʊldɪd/",
+        "sentiment": "negative",
+        "definitionEN": "(Of a business) to close down because it cannot make enough money to continue.",
+        "translationVI": "Công ty phá sản",
+        "relatedCollocates": ["went out of business", "closed down"],
+        "wordForms": {
+          "verb": [{ "form": "fold", "meaning": "gấp, đóng cửa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Due to the economic downturn, the company folded after just two years of operation."
+      }
+    },
+    {
+      "id": 48,
+      "targetLexeme": "remained adamant that",
+      "sourceContext": "For his whole career, until his death in 1961, Abner Doble remained adamant that steam-powered automobiles were at least equal to gasoline cars, if not superior.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vẫn kiên quyết rằng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈmeɪnd ˈædəmənt ðæt/",
+        "sentiment": "neutral",
+        "definitionEN": "To have continued to be very certain and determined in one's belief or opinion about something.",
+        "translationVI": "Vẫn kiên quyết rằng",
+        "relatedCollocates": ["was insistent that", "firmly believed that"],
+        "wordForms": {
+          "adjective": [{ "form": "adamant", "meaning": "kiên quyết" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite the criticism, the scientist remained adamant that his theory was correct."
+      }
+    },
+    {
+      "id": 49,
+      "targetLexeme": "at least equal to",
+      "sourceContext": "...steam-powered automobiles were at least equal to gasoline cars, if not superior.",
+      "phase1Inference": {
+        "contextualGuessVI": "Ít nhất là ngang bằng với"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ət liːst ˈiːkwəl tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To be as good as, but not less than, something else.",
+        "translationVI": "Ít nhất là ngang bằng với",
+        "relatedCollocates": ["comparable to", "on par with"],
+        "wordForms": {
+          "adjective": [{ "form": "equal", "meaning": "bằng, ngang bằng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In terms of performance, the new model is at least equal to its main competitor."
+      }
+    },
+    {
+      "id": 50,
+      "targetLexeme": "if not superior",
+      "sourceContext": "...steam-powered automobiles were at least equal to gasoline cars, if not superior.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nếu không muốn nói là vượt trội hơn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪf nɒt suːˈpɪəriə/",
+        "sentiment": "positive",
+        "definitionEN": "Used to suggest that something may be even better or greater than what was just said.",
+        "translationVI": "Nếu không muốn nói là vượt trội hơn",
+        "relatedCollocates": ["and perhaps even better", "possibly superior"],
+        "wordForms": {
+          "adjective": [{ "form": "superior", "meaning": "vượt trội" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His performance in the final was excellent, if not superior, to all others."
+      }
+    },
+    {
+      "id": 51,
+      "targetLexeme": "in good working condition",
+      "sourceContext": "Many of the Model E Dobles which have survived are still in good working condition...",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong tình trạng hoạt động tốt"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn ɡʊd ˈwɜːkɪŋ kənˈdɪʃn/",
+        "sentiment": "positive",
+        "definitionEN": "Functioning properly and well-maintained.",
+        "translationVI": "Trong tình trạng hoạt động tốt",
+        "relatedCollocates": ["in working order", "fully functional"],
+        "wordForms": {
+          "noun": [{ "form": "condition", "meaning": "tình trạng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He bought a vintage radio from the 1950s that is still in good working condition."
+      }
+    },
+    {
+      "id": 52,
+      "targetLexeme": "normal maintenance",
+      "sourceContext": "...some having been driven over half a million miles with only normal maintenance.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bảo trì thông thường"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈnɔːml ˈmeɪntənəns/",
+        "sentiment": "neutral",
+        "definitionEN": "The routine process of keeping something in good condition.",
+        "translationVI": "Bảo trì thông thường",
+        "relatedCollocates": ["regular upkeep", "routine servicing"],
+        "wordForms": {
+          "noun": [{ "form": "maintenance", "meaning": "sự bảo trì" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "With only normal maintenance, this type of car can last for over 200,000 miles."
+      }
+    },
+    {
+      "id": 53,
+      "targetLexeme": "unmodified",
+      "sourceContext": "Astonishingly, an unmodified Doble Model E runs clean enough to pass the emissions laws in California today...",
+      "phase1Inference": {
+        "contextualGuessVI": "Không bị sửa đổi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ʌnˈmɒdɪfaɪd/",
+        "sentiment": "neutral",
+        "definitionEN": "Not changed or altered from its original form.",
+        "translationVI": "Không bị sửa đổi, nguyên bản",
+        "relatedCollocates": ["original", "unaltered", "stock"],
+        "wordForms": {
+          "verb": [{ "form": "modify", "meaning": "sửa đổi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The car used in the race was completely stock and unmodified."
+      }
+    },
+    {
+      "id": 54,
+      "targetLexeme": "pass the emissions laws",
+      "sourceContext": "...runs clean enough to pass the emissions laws in California today...",
+      "phase1Inference": {
+        "contextualGuessVI": "Vượt qua luật khí thải"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pɑːs ði ɪˈmɪʃənz lɔːz/",
+        "sentiment": "positive",
+        "definitionEN": "To meet the legal standards for the amount of pollutants a vehicle is allowed to release.",
+        "translationVI": "Vượt qua luật khí thải",
+        "relatedCollocates": [
+          "meet emissions standards",
+          "comply with pollution laws"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "law", "meaning": "luật" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Older cars often have difficulty trying to pass the strict new emissions laws."
+      }
+    },
+    {
+      "id": 55,
+      "targetLexeme": "poses some difficult problems",
+      "sourceContext": "It is true that the technology poses some difficult problems, but you cannot help but wonder how efficient a steam car might be with the benefit of modern materials and computers.",
+      "phase1Inference": {
+        "contextualGuessVI": "Gây ra một số vấn đề khó khăn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpəʊzɪz səm ˈdɪfɪkəlt ˈprɒbləmz/",
+        "sentiment": "negative",
+        "definitionEN": "To present or create some challenging issues.",
+        "translationVI": "Gây ra một số vấn đề khó khăn",
+        "relatedCollocates": ["presents challenges", "creates difficulties"],
+        "wordForms": {
+          "verb": [{ "form": "pose", "meaning": "đặt ra, gây ra" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The plan to build a new airport poses some difficult problems for the local environment."
+      }
+    },
+    {
+      "id": 56,
+      "targetLexeme": "cannot help but wonder",
+      "sourceContext": "...but you cannot help but wonder how efficient a steam car might be with the benefit of modern materials and computers.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không thể không tự hỏi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkænɒt help bət ˈwʌndə/",
+        "sentiment": "neutral",
+        "definitionEN": "To be unable to stop yourself from thinking about something or asking yourself a question about it.",
+        "translationVI": "Không thể không tự hỏi",
+        "relatedCollocates": ["have to wonder", "it makes you think"],
+        "wordForms": {
+          "verb": [{ "form": "wonder", "meaning": "tự hỏi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Looking at the ancient pyramids, you cannot help but wonder how they were built."
+      }
+    },
+    {
+      "id": 57,
+      "targetLexeme": "with the benefit of",
+      "sourceContext": "...how efficient a steam car might be with the benefit of modern materials and computers.",
+      "phase1Inference": {
+        "contextualGuessVI": "Với lợi ích của"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɪð ðə ˈbenɪfɪt əv/",
+        "sentiment": "positive",
+        "definitionEN": "With the advantage provided by something.",
+        "translationVI": "Với lợi ích của",
+        "relatedCollocates": ["with the help of", "thanks to"],
+        "wordForms": {
+          "noun": [{ "form": "benefit", "meaning": "lợi ích" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "With the benefit of hindsight, I realize I should have made a different decision."
+      }
+    },
+    {
+      "id": 58,
+      "targetLexeme": "under the current pressure to",
+      "sourceContext": "Under the current pressure to improve automotive performance and reduce emissions, it is not unthinkable that the steam car may rise again.",
+      "phase1Inference": {
+        "contextualGuessVI": "Dưới áp lực hiện tại để"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈʌndə ðə ˈkʌrənt ˈpreʃə tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "Subject to the present-day demands or urgent need to do something.",
+        "translationVI": "Dưới áp lực hiện tại để",
+        "relatedCollocates": [
+          "facing the current demand to",
+          "with the present need to"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "pressure", "meaning": "áp lực" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many companies are under the current pressure to become more environmentally friendly."
+      }
+    },
+    {
+      "id": 59,
+      "targetLexeme": "automotive performance",
+      "sourceContext": "...to improve automotive performance and reduce emissions...",
+      "phase1Inference": {
+        "contextualGuessVI": "Hiệu suất ô tô"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌɔːtəˈməʊtɪv pəˈfɔːməns/",
+        "sentiment": "neutral",
+        "definitionEN": "The capabilities of a motor vehicle, especially its speed, acceleration, and handling.",
+        "translationVI": "Hiệu suất ô tô",
+        "relatedCollocates": ["vehicle performance", "car handling"],
+        "wordForms": {
+          "adjective": [{ "form": "automotive", "meaning": "thuộc về ô tô" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Engineers are constantly working to improve automotive performance while also increasing fuel efficiency."
+      }
+    },
+    {
+      "id": 60,
+      "targetLexeme": "it is not unthinkable that",
+      "sourceContext": "...it is not unthinkable that the steam car may rise again.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không phải là không thể tưởng tượng được rằng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪt ɪz nɒt ʌnˈθɪŋkəbl ðæt/",
+        "sentiment": "neutral",
+        "definitionEN": "It is possible to imagine or believe that something could happen.",
+        "translationVI": "Không phải là không thể tưởng tượng được rằng",
+        "relatedCollocates": ["it is conceivable that", "it's possible that"],
+        "wordForms": {
+          "adjective": [
+            { "form": "unthinkable", "meaning": "không thể tưởng tượng được" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "With the rapid advancement of technology, it is not unthinkable that we will have flying cars in the future."
+      }
+    },
+    {
+      "id": 61,
+      "targetLexeme": "may rise again",
+      "sourceContext": "...it is not unthinkable that the steam car may rise again.",
+      "phase1Inference": {
+        "contextualGuessVI": "Có thể trỗi dậy trở lại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/meɪ raɪz əˈɡen/",
+        "sentiment": "positive",
+        "definitionEN": "Might become popular or prominent once more.",
+        "translationVI": "Có thể trỗi dậy trở lại",
+        "relatedCollocates": [
+          "could make a comeback",
+          "may become popular again"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "rise", "meaning": "tăng lên, trỗi dậy" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After years of being out of fashion, vinyl records may rise again in popularity."
+      }
+    },
+    {
+      "id": 62,
+      "targetLexeme": "shortcomings",
+      "sourceContext": "Despite such shortcomings, these newly designed self-propelled carriages offered quick transportation...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những thiếu sót"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈʃɔːtˌkʌmɪŋz/",
+        "sentiment": "negative",
+        "definitionEN": "Faults or failures to meet a certain standard.",
+        "translationVI": "Những thiếu sót",
+        "relatedCollocates": ["drawbacks", "weaknesses", "flaws"],
+        "wordForms": {
+          "noun": [{ "form": "shortcoming", "meaning": "thiếu sót" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite a few shortcomings, the new software is a major improvement over the old version."
+      }
+    },
+    {
+      "id": 63,
+      "targetLexeme": "one last effort",
+      "sourceContext": "Even as the market was declining, four brothers made one last effort to rekindle the technology.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một nỗ lực cuối cùng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wʌn lɑːst ˈefət/",
+        "sentiment": "neutral",
+        "definitionEN": "A final attempt to do something.",
+        "translationVI": "Một nỗ lực cuối cùng",
+        "relatedCollocates": ["a final attempt", "one last try"],
+        "wordForms": {
+          "noun": [{ "form": "effort", "meaning": "nỗ lực" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The team made one last effort to score a goal in the final seconds of the game."
+      }
+    },
+    {
+      "id": 64,
+      "targetLexeme": "automobile trade magazines",
+      "sourceContext": "...it drew the attention of automobile trade magazines due to its numerous improvements over previous steam cars.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các tạp chí thương mại ô tô"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɔːtəməbiːl treɪd ˌmæɡəˈziːnz/",
+        "sentiment": "neutral",
+        "definitionEN": "Periodicals containing articles and information of interest to people in the car industry.",
+        "translationVI": "Các tạp chí thương mại ô tô",
+        "relatedCollocates": ["industry publications", "car magazines"],
+        "wordForms": {
+          "noun": [{ "form": "magazine", "meaning": "tạp chí" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new engine design was featured in several major automobile trade magazines."
+      }
+    },
+    {
+      "id": 65,
+      "targetLexeme": "numerous improvements",
+      "sourceContext": "...due to its numerous improvements over previous steam cars.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhiều cải tiến"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈnjuːmərəs ɪmˈpruːvmənts/",
+        "sentiment": "positive",
+        "definitionEN": "Many enhancements or advancements.",
+        "translationVI": "Nhiều cải tiến",
+        "relatedCollocates": ["many advancements", "multiple upgrades"],
+        "wordForms": {
+          "noun": [{ "form": "improvement", "meaning": "sự cải tiến" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The latest version of the software includes numerous improvements to performance and security."
+      }
+    },
+    {
+      "id": 66,
+      "targetLexeme": "high-pressure steam",
+      "sourceContext": "Its high-pressure steam drove the engine pistons in virtual silence...",
+      "phase1Inference": {
+        "contextualGuessVI": "Hơi nước áp suất cao"
+      },
+      "phase2Annotation": {
+        "phonetic": "/haɪ-ˈpreʃə stiːm/",
+        "sentiment": "neutral",
+        "definitionEN": "Steam that is kept at a pressure significantly higher than atmospheric pressure.",
+        "translationVI": "Hơi nước áp suất cao",
+        "relatedCollocates": ["steam power", "boiler"],
+        "wordForms": {
+          "noun": [{ "form": "steam", "meaning": "hơi nước" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Industrial turbines are often powered by high-pressure steam."
+      }
+    },
+    {
+      "id": 67,
+      "targetLexeme": "engine pistons",
+      "sourceContext": "Its high-pressure steam drove the engine pistons in virtual silence...",
+      "phase1Inference": {
+        "contextualGuessVI": "Pít-tông động cơ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈendʒɪn ˈpɪstənz/",
+        "sentiment": "neutral",
+        "definitionEN": "The cylindrical components that move up and down inside the cylinders of an engine.",
+        "translationVI": "Pít-tông động cơ",
+        "relatedCollocates": ["cylinders", "crankshaft"],
+        "wordForms": {
+          "noun": [{ "form": "piston", "meaning": "pít-tông" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The force of the explosion pushes the engine pistons downwards, turning the crankshaft."
+      }
+    },
+    {
+      "id": 68,
+      "targetLexeme": "amazingly swift",
+      "sourceContext": "Perhaps most impressively, the Model B was amazingly swift.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhanh một cách đáng kinh ngạc"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈmeɪzɪŋli swɪft/",
+        "sentiment": "positive",
+        "definitionEN": "Surprisingly quick or fast.",
+        "translationVI": "Nhanh một cách đáng kinh ngạc",
+        "relatedCollocates": ["incredibly fast", "surprisingly quick"],
+        "wordForms": {
+          "adjective": [{ "form": "swift", "meaning": "nhanh, lẹ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The cheetah is an amazingly swift runner, capable of reaching speeds of over 70 miles per hour."
+      }
+    },
+    {
+      "id": 69,
+      "targetLexeme": "simpler driving controls",
+      "sourceContext": "...with much greater speed, much simpler driving controls, and a virtually silent powerplant.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bộ điều khiển lái đơn giản hơn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsɪmplə ˈdraɪvɪŋ kənˈtrəʊlz/",
+        "sentiment": "positive",
+        "definitionEN": "The mechanisms for operating a vehicle that are less complicated and easier to use.",
+        "translationVI": "Bộ điều khiển lái đơn giản hơn",
+        "relatedCollocates": ["easy-to-use controls", "simplified operation"],
+        "wordForms": {
+          "noun": [{ "form": "control", "meaning": "sự điều khiển" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Modern cars have much simpler driving controls than their early counterparts."
+      }
+    },
+    {
+      "id": 70,
+      "targetLexeme": "handful of",
+      "sourceContext": "Those buyers who received the handful of completed cars complained...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một số ít"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhændfʊl əv/",
+        "sentiment": "neutral",
+        "definitionEN": "A small number or amount of people or things.",
+        "translationVI": "Một số ít",
+        "relatedCollocates": ["a small number of", "a few"],
+        "wordForms": {
+          "noun": [{ "form": "handful", "meaning": "một nắm, một ít" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Only a handful of people attended the meeting due to the bad weather."
+      }
+    },
+    {
+      "id": 71,
+      "targetLexeme": "one final attempt",
+      "sourceContext": "The brothers made one final attempt to produce a viable steam automobile.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một nỗ lực cuối cùng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wʌn ˈfaɪnl əˈtempt/",
+        "sentiment": "neutral",
+        "definitionEN": "A last try to achieve something.",
+        "translationVI": "Một nỗ lực cuối cùng",
+        "relatedCollocates": ["one last effort", "a final try"],
+        "wordForms": {
+          "noun": [{ "form": "attempt", "meaning": "sự cố gắng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He made one final attempt to convince his boss, but his proposal was rejected."
+      }
+    },
+    {
+      "id": 72,
+      "targetLexeme": "frosty morning air",
+      "sourceContext": "...and left to sit for over an hour in the frosty morning air.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không khí buổi sáng băng giá"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfrɒsti ˈmɔːnɪŋ eə/",
+        "sentiment": "neutral",
+        "definitionEN": "The very cold air of the early morning, often with frost covering surfaces.",
+        "translationVI": "Không khí buổi sáng băng giá",
+        "relatedCollocates": ["cold morning", "icy air"],
+        "wordForms": {
+          "adjective": [{ "form": "frosty", "meaning": "băng giá" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I could see my breath in the frosty morning air."
+      }
+    },
+    {
+      "id": 73,
+      "targetLexeme": "test vehicle",
+      "sourceContext": "As they drove the test vehicle further, they found that its evenly distributed weight lent it surprisingly good handling...",
+      "phase1Inference": {
+        "contextualGuessVI": "Xe thử nghiệm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/test ˈviːɪkl/",
+        "sentiment": "neutral",
+        "definitionEN": "A vehicle used for evaluation and testing purposes, often a prototype.",
+        "translationVI": "Xe thử nghiệm",
+        "relatedCollocates": ["prototype vehicle", "demonstration car"],
+        "wordForms": {
+          "noun": [{ "form": "vehicle", "meaning": "xe cộ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The car company put the new test vehicle through thousands of miles of rigorous trials."
+      }
+    },
+    {
+      "id": 74,
+      "targetLexeme": "further developed and tested",
+      "sourceContext": "As the new Doble steamer was further developed and tested, its maximum speed was pushed to over a hundred miles per hour...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được phát triển và thử nghiệm thêm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfɜːðə dɪˈveləpt ənd ˈtestɪd/",
+        "sentiment": "neutral",
+        "definitionEN": "To be improved and evaluated more.",
+        "translationVI": "Được phát triển và thử nghiệm thêm",
+        "relatedCollocates": [
+          "underwent more development and testing",
+          "further refined"
+        ],
+        "wordForms": {
+          "verb": [
+            { "form": "develop", "meaning": "phát triển" },
+            { "form": "test", "meaning": "thử nghiệm" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "As the recipe was further developed and tested, the flavor of the dish improved significantly."
+      }
+    },
+    {
+      "id": 75,
+      "targetLexeme": "miles per gallon of kerosene",
+      "sourceContext": "...and it achieved about fifteen miles per gallon of kerosene with negligible emissions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Dặm trên mỗi gallon dầu hỏa"
+      },
+      "phase2Annotation": {
+        "phonetic": "/maɪlz pə ˈɡælən əv ˈkerəsiːn/",
+        "sentiment": "neutral",
+        "definitionEN": "A measure of fuel efficiency for a vehicle using kerosene as fuel.",
+        "translationVI": "Dặm trên mỗi gallon dầu hỏa",
+        "relatedCollocates": ["fuel economy", "fuel efficiency"],
+        "wordForms": {
+          "noun": [{ "form": "kerosene", "meaning": "dầu hỏa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The old heater was inefficient, consuming many miles per gallon of kerosene."
+      }
+    },
+    {
+      "id": 76,
+      "targetLexeme": "the very wealthy",
+      "sourceContext": "Priced at around $18,000 in 1924, it was popular only among the very wealthy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những người rất giàu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈveri ˈwelθi/",
+        "sentiment": "neutral",
+        "definitionEN": "Extremely rich people.",
+        "translationVI": "Những người rất giàu",
+        "relatedCollocates": ["the affluent", "the rich elite"],
+        "wordForms": {
+          "adjective": [{ "form": "wealthy", "meaning": "giàu có" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Luxury yachts and private jets are toys for the very wealthy."
+      }
+    },
+    {
+      "id": 77,
+      "targetLexeme": "it is said that",
+      "sourceContext": "Plus, it is said that no two Model Es were quite the same...",
+      "phase1Inference": {
+        "contextualGuessVI": "Người ta nói rằng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪt ɪz sed ðæt/",
+        "sentiment": "neutral",
+        "definitionEN": "A phrase used to introduce a piece of information that is widely believed or reported, but may not be proven.",
+        "translationVI": "Người ta nói rằng",
+        "relatedCollocates": ["reportedly", "allegedly"],
+        "wordForms": {
+          "verb": [{ "form": "say", "meaning": "nói" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is said that the old house is haunted, but no one has ever seen a ghost there."
+      }
+    },
+    {
+      "id": 78,
+      "targetLexeme": "his whole career",
+      "sourceContext": "For his whole career, until his death in 1961, Abner Doble remained adamant...",
+      "phase1Inference": {
+        "contextualGuessVI": "Toàn bộ sự nghiệp của ông"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hɪz həʊl kəˈrɪə/",
+        "sentiment": "neutral",
+        "definitionEN": "Throughout the entire period of his professional life.",
+        "translationVI": "Toàn bộ sự nghiệp của ông",
+        "relatedCollocates": [
+          "throughout his career",
+          "his entire professional life"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "career", "meaning": "sự nghiệp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He dedicated his whole career to finding a cure for the disease."
+      }
+    },
+    {
+      "id": 79,
+      "targetLexeme": "Given the evidence",
+      "sourceContext": "Given the evidence, he may have been right.",
+      "phase1Inference": {
+        "contextualGuessVI": "Xét đến bằng chứng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɡɪvn ði ˈevɪdəns/",
+        "sentiment": "neutral",
+        "definitionEN": "Taking the available facts or information into account.",
+        "translationVI": "Xét đến bằng chứng",
+        "relatedCollocates": ["considering the facts", "based on the proof"],
+        "wordForms": {
+          "noun": [{ "form": "evidence", "meaning": "bằng chứng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Given the evidence presented in court, the jury found him guilty."
+      }
+    },
+    {
+      "id": 80,
+      "targetLexeme": "he may have been right",
+      "sourceContext": "Given the evidence, he may have been right.",
+      "phase1Inference": {
+        "contextualGuessVI": "Có lẽ ông ấy đã đúng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hiː meɪ həv biːn raɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "It is possible that his assertion or belief was correct.",
+        "translationVI": "Có lẽ ông ấy đã đúng",
+        "relatedCollocates": [
+          "perhaps he was correct",
+          "it's possible his view was accurate"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "right", "meaning": "đúng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Everyone laughed at his prediction, but looking at the situation now, he may have been right all along."
+      }
+    },
+    {
+      "id": 81,
+      "targetLexeme": "driven over half a million miles",
+      "sourceContext": "...some having been driven over half a million miles with only normal maintenance.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã chạy hơn nửa triệu dặm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdrɪvn ˈəʊvə hɑːf ə ˈmɪljən maɪlz/",
+        "sentiment": "positive",
+        "definitionEN": "To have been operated for a distance exceeding 500,000 miles.",
+        "translationVI": "Đã chạy hơn nửa triệu dặm",
+        "relatedCollocates": ["high mileage", "long distance travel"],
+        "wordForms": {
+          "verb": [{ "form": "drive", "meaning": "lái xe" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The old truck had been driven over half a million miles but was still running smoothly."
+      }
+    },
+    {
+      "id": 82,
+      "targetLexeme": "runs clean enough",
+      "sourceContext": "Astonishingly, an unmodified Doble Model E runs clean enough to pass the emissions laws in California today...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chạy đủ sạch"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rʌnz kliːn ɪˈnʌf/",
+        "sentiment": "positive",
+        "definitionEN": "To operate with a sufficiently low level of pollution.",
+        "translationVI": "Chạy đủ sạch",
+        "relatedCollocates": ["low emissions", "environmentally friendly"],
+        "wordForms": {
+          "adjective": [{ "form": "clean", "meaning": "sạch" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new hybrid car runs clean enough to be exempt from city pollution charges."
+      }
+    },
+    {
+      "id": 83,
+      "targetLexeme": "pretty strict",
+      "sourceContext": "...and they are pretty strict.",
+      "phase1Inference": {
+        "contextualGuessVI": "Khá nghiêm ngặt"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈprɪti strɪkt/",
+        "sentiment": "neutral",
+        "definitionEN": "Quite severe or demanding strict obedience to rules.",
+        "translationVI": "Khá nghiêm ngặt",
+        "relatedCollocates": ["quite stringent", "fairly rigorous"],
+        "wordForms": {
+          "adjective": [{ "form": "strict", "meaning": "nghiêm ngặt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The school has some pretty strict rules about uniforms."
+      }
+    },
+    {
+      "id": 84,
+      "targetLexeme": "modern materials",
+      "sourceContext": "...with the benefit of modern materials and computers.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vật liệu hiện đại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmɒdn məˈtɪəriəlz/",
+        "sentiment": "neutral",
+        "definitionEN": "Substances used for making things that are contemporary and technologically advanced, such as composites, alloys, and plastics.",
+        "translationVI": "Vật liệu hiện đại",
+        "relatedCollocates": ["advanced materials", "new composites"],
+        "wordForms": {
+          "noun": [{ "form": "material", "meaning": "vật liệu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Modern materials like carbon fiber have revolutionized the aerospace industry."
+      }
+    },
+    {
+      "id": 85,
+      "targetLexeme": "reduce emissions",
+      "sourceContext": "...to improve automotive performance and reduce emissions...",
+      "phase1Inference": {
+        "contextualGuessVI": "Giảm khí thải"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈdjuːs ɪˈmɪʃənz/",
+        "sentiment": "positive",
+        "definitionEN": "To lower the amount of gas, heat, light, etc. that is sent out.",
+        "translationVI": "Giảm khí thải",
+        "relatedCollocates": ["cut pollution", "lower emissions"],
+        "wordForms": {
+          "verb": [{ "form": "reduce", "meaning": "giảm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Governments around the world are implementing policies to reduce emissions from vehicles."
+      }
+    },
+    {
+      "id": 86,
+      "targetLexeme": "successes and failures",
+      "sourceContext": "The successes and failures of the Doble brothers and their steam cars",
+      "phase1Inference": {
+        "contextualGuessVI": "Những thành công và thất bại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/səkˈsesɪz ənd ˈfeɪljəz/",
+        "sentiment": "neutral",
+        "definitionEN": "The instances of achieving a desired aim and the instances of not achieving it.",
+        "translationVI": "Những thành công và thất bại",
+        "relatedCollocates": ["triumphs and tribulations", "ups and downs"],
+        "wordForms": {
+          "noun": [
+            { "form": "success", "meaning": "sự thành công" },
+            { "form": "failure", "meaning": "sự thất bại" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The book chronicles the many successes and failures of the ambitious project."
+      }
+    },
+    {
+      "id": 87,
+      "targetLexeme": "evolved into",
+      "sourceContext": "...it was only natural that the technology evolved into a miniaturized version which was separate from the trains.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tiến hóa thành"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪˈvɒlvd ˈɪntuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To develop gradually into something else.",
+        "translationVI": "Tiến hóa thành",
+        "relatedCollocates": ["developed into", "transformed into"],
+        "wordForms": {
+          "verb": [{ "form": "evolve", "meaning": "tiến hóa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The small family business eventually evolved into a multinational corporation."
+      }
+    },
+    {
+      "id": 88,
+      "targetLexeme": "water reservoirs",
+      "sourceContext": "Furthermore, their water reservoirs only lasted for about thirty miles before needing replenishment.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bể chứa nước"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwɔːtə ˈrezəvwɑːz/",
+        "sentiment": "neutral",
+        "definitionEN": "Containers or tanks used for storing a supply of water.",
+        "translationVI": "Bể chứa nước",
+        "relatedCollocates": ["water tanks", "storage tanks"],
+        "wordForms": {
+          "noun": [{ "form": "reservoir", "meaning": "bể chứa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The town's water reservoirs are nearly full after the heavy rainfall."
+      }
+    },
+    {
+      "id": 89,
+      "targetLexeme": "not uncommon to see",
+      "sourceContext": "...it was not uncommon to see such machines shuttling wealthy citizens around town.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không phải là hiếm khi thấy"
+      },
+      "phase2Annotation": {
+        "phonetic": "/nɒt ʌnˈkɒmən tuː siː/",
+        "sentiment": "neutral",
+        "definitionEN": "It was fairly common or frequent to see something.",
+        "translationVI": "Không phải là hiếm khi thấy",
+        "relatedCollocates": ["it was quite common to see", "frequently seen"],
+        "wordForms": {
+          "adjective": [{ "form": "uncommon", "meaning": "không phổ biến" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In this coastal town, it is not uncommon to see dolphins swimming close to the shore."
+      }
+    },
+    {
+      "id": 90,
+      "targetLexeme": "moments after starting",
+      "sourceContext": "...which offered the ability to drive down the road just moments after starting.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vài khoảnh khắc sau khi khởi động"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈməʊmənts ˈɑːftə ˈstɑːtɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "A very short time after beginning or igniting the engine.",
+        "translationVI": "Vài khoảnh khắc sau khi khởi động",
+        "relatedCollocates": [
+          "immediately after ignition",
+          "shortly after starting"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "moment", "meaning": "khoảnh khắc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Modern electric cars can accelerate powerfully just moments after starting."
+      }
+    },
+    {
+      "id": 91,
+      "targetLexeme": "complicated to operate",
+      "sourceContext": "...they were more complicated to operate and they had difficult hand-crank starters...",
+      "phase1Inference": {
+        "contextualGuessVI": "Phức tạp để vận hành"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkɒmplɪkeɪtɪd tuː ˈɒpəreɪt/",
+        "sentiment": "negative",
+        "definitionEN": "Difficult to use or control.",
+        "translationVI": "Phức tạp để vận hành",
+        "relatedCollocates": ["difficult to use", "complex to handle"],
+        "wordForms": {
+          "adjective": [{ "form": "complicated", "meaning": "phức tạp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The early computers were very large and complicated to operate."
+      }
+    },
+    {
+      "id": 92,
+      "targetLexeme": "market was declining",
+      "sourceContext": "Even as the market was declining, four brothers made one last effort to rekindle the technology.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thị trường đang suy giảm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmɑːkɪt wəz dɪˈklaɪnɪŋ/",
+        "sentiment": "negative",
+        "definitionEN": "The demand for a particular product or service was decreasing.",
+        "translationVI": "Thị trường đang suy giảm",
+        "relatedCollocates": ["shrinking market", "demand was falling"],
+        "wordForms": {
+          "verb": [{ "form": "decline", "meaning": "suy giảm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "As more people started streaming music, the market for physical CDs was declining."
+      }
+    },
+    {
+      "id": 93,
+      "targetLexeme": "wrecked",
+      "sourceContext": "It comprised parts taken from a wrecked early steam car...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị hỏng, bị phá hủy"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rekt/",
+        "sentiment": "negative",
+        "definitionEN": "Destroyed or very badly damaged.",
+        "translationVI": "Bị hỏng, bị phá hủy",
+        "relatedCollocates": ["destroyed", "damaged", "demolished"],
+        "wordForms": {
+          "verb": [{ "form": "wreck", "meaning": "phá hỏng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "They salvaged some usable parts from the wrecked ship."
+      }
+    },
+    {
+      "id": 94,
+      "targetLexeme": "went on to build",
+      "sourceContext": "...the Doble brothers went on to build a second and third prototype...",
+      "phase1Inference": {
+        "contextualGuessVI": "Tiếp tục xây dựng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/went ɒn tuː bɪld/",
+        "sentiment": "neutral",
+        "definitionEN": "To proceed to do something else after finishing the first thing.",
+        "translationVI": "Tiếp tục xây dựng",
+        "relatedCollocates": ["proceeded to make", "subsequently constructed"],
+        "wordForms": {
+          "verb": [{ "form": "go on", "meaning": "tiếp tục" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After her first successful novel, she went on to write a whole series."
+      }
+    },
+    {
+      "id": 95,
+      "targetLexeme": "lacked the convenience of",
+      "sourceContext": "...it still lacked the convenience of an internal combustion engine...",
+      "phase1Inference": {
+        "contextualGuessVI": "Thiếu sự tiện lợi của"
+      },
+      "phase2Annotation": {
+        "phonetic": "/lækt ðə kənˈviːniəns əv/",
+        "sentiment": "negative",
+        "definitionEN": "To not have the quality of being easy to use or suitable for a particular purpose.",
+        "translationVI": "Thiếu sự tiện lợi của",
+        "relatedCollocates": [
+          "was not as convenient as",
+          "did not have the ease of use of"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "convenience", "meaning": "sự tiện lợi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Early mobile phones were useful, but they lacked the convenience of modern smartphones."
+      }
+    },
+    {
+      "id": 96,
+      "targetLexeme": "enhancements",
+      "sourceContext": "With these enhancements, the Dobles’ new car company promised a steam vehicle which would provide all of the convenience of a gasoline car...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những sự cải tiến"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈhɑːnsmənts/",
+        "sentiment": "positive",
+        "definitionEN": "Improvements or additions that make something better or more valuable.",
+        "translationVI": "Những sự cải tiến",
+        "relatedCollocates": ["improvements", "upgrades", "refinements"],
+        "wordForms": {
+          "verb": [{ "form": "enhance", "meaning": "nâng cao" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The latest software update includes several security enhancements."
+      }
+    },
+    {
+      "id": 97,
+      "targetLexeme": "driving controls",
+      "sourceContext": "...with much greater speed, much simpler driving controls, and a virtually silent powerplant.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các bộ điều khiển lái xe"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdraɪvɪŋ kənˈtrəʊlz/",
+        "sentiment": "neutral",
+        "definitionEN": "The set of devices used to operate a vehicle, such as the steering wheel, pedals, and levers.",
+        "translationVI": "Các bộ điều khiển lái xe",
+        "relatedCollocates": ["vehicle controls", "dashboard"],
+        "wordForms": {
+          "noun": [{ "form": "control", "meaning": "sự điều khiển" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The airplane's cockpit is filled with complex driving controls and instruments."
+      }
+    },
+    {
+      "id": 98,
+      "targetLexeme": "scheduled for delivery",
+      "sourceContext": "...5,390 deposits for Doble Detroits, which were scheduled for delivery in early 1918.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được lên lịch giao hàng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈʃedjuːld fə dɪˈlɪvəri/",
+        "sentiment": "neutral",
+        "definitionEN": "To be arranged to be delivered at a particular time.",
+        "translationVI": "Được lên lịch giao hàng",
+        "relatedCollocates": ["planned for shipment", "due to be delivered"],
+        "wordForms": {
+          "verb": [{ "form": "schedule", "meaning": "lên lịch" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Your package is scheduled for delivery between 2 and 4 PM tomorrow."
+      }
+    },
+    {
+      "id": 99,
+      "targetLexeme": "delivered unhappy news",
+      "sourceContext": "Later that year Abner Doble delivered unhappy news to those eagerly awaiting the delivery of their modern new cars.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã báo tin không vui"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈlɪvəd ʌnˈhæpi njuːz/",
+        "sentiment": "negative",
+        "definitionEN": "To give or announce bad or disappointing information.",
+        "translationVI": "Đã báo tin không vui",
+        "relatedCollocates": [
+          "broke the bad news",
+          "announced disappointing information"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "deliver", "meaning": "giao, phát" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The doctor had to deliver unhappy news to the patient's family."
+      }
+    },
+    {
+      "id": 100,
+      "targetLexeme": "going in reverse",
+      "sourceContext": "...sometimes going in reverse when they should go forward.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đi lùi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɡəʊɪŋ ɪn rɪˈvɜːs/",
+        "sentiment": "negative",
+        "definitionEN": "To move backwards.",
+        "translationVI": "Đi lùi",
+        "relatedCollocates": ["moving backwards", "reversing"],
+        "wordForms": {
+          "noun": [{ "form": "reverse", "meaning": "số lùi, điều ngược lại" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He had trouble with the rental car, which kept going in reverse unexpectedly."
+      }
+    },
+    {
+      "id": 101,
+      "targetLexeme": "sit overnight",
+      "sourceContext": "After sitting overnight in freezing temperatures, the car was pushed out into the road...",
+      "phase1Inference": {
+        "contextualGuessVI": "Để qua đêm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/sɪt ˌəʊvəˈnaɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "To be left in a place for the entire night.",
+        "translationVI": "Để qua đêm",
+        "relatedCollocates": ["left overnight", "remained for the night"],
+        "wordForms": {
+          "verb": [{ "form": "sit", "meaning": "ngồi, để" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The dough needs to sit overnight in the refrigerator before baking."
+      }
+    },
+    {
+      "id": 102,
+      "targetLexeme": "lent it",
+      "sourceContext": "...its evenly distributed weight lent it surprisingly good handling...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cho nó, mang lại cho nó"
+      },
+      "phase2Annotation": {
+        "phonetic": "/lent ɪt/",
+        "sentiment": "positive",
+        "definitionEN": "To have given or imparted a particular quality to something.",
+        "translationVI": "Mang lại cho nó",
+        "relatedCollocates": ["gave it", "imparted to it"],
+        "wordForms": {
+          "verb": [{ "form": "lend", "meaning": "cho vay, cho" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The old furniture lent the room a certain charm."
+      }
+    },
+    {
+      "id": 103,
+      "targetLexeme": "maximum speed",
+      "sourceContext": "As the new Doble steamer was further developed and tested, its maximum speed was pushed to over a hundred miles per hour...",
+      "phase1Inference": {
+        "contextualGuessVI": "Tốc độ tối đa"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmæksɪməm spiːd/",
+        "sentiment": "neutral",
+        "definitionEN": "The highest rate of speed that can be achieved.",
+        "translationVI": "Tốc độ tối đa",
+        "relatedCollocates": ["top speed", "highest velocity"],
+        "wordForms": {
+          "adjective": [{ "form": "maximum", "meaning": "tối đa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The sports car has a maximum speed of over 200 miles per hour."
+      }
+    },
+    {
+      "id": 104,
+      "targetLexeme": "no two... were quite the same",
+      "sourceContext": "Plus, it is said that no two Model Es were quite the same...",
+      "phase1Inference": {
+        "contextualGuessVI": "Không có hai chiếc... nào hoàn toàn giống nhau"
+      },
+      "phase2Annotation": {
+        "phonetic": "/nəʊ tuː wə kwaɪt ðə seɪm/",
+        "sentiment": "neutral",
+        "definitionEN": "An expression meaning that every single one was unique or different in some way.",
+        "translationVI": "Không có hai... nào hoàn toàn giống nhau",
+        "relatedCollocates": ["each one was unique", "they were all different"],
+        "wordForms": {
+          "adjective": [{ "form": "same", "meaning": "giống nhau" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Because the pottery is handmade, no two pieces are quite the same."
+      }
+    },
+    {
+      "id": 105,
+      "targetLexeme": "fewer than",
+      "sourceContext": "By the time the company folded in 1931, fewer than fifty of the amazing Model E steam cars had been produced.",
+      "phase1Inference": {
+        "contextualGuessVI": "Ít hơn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfjuːə ðæn/",
+        "sentiment": "neutral",
+        "definitionEN": "A smaller number than.",
+        "translationVI": "Ít hơn",
+        "relatedCollocates": ["less than", "under"],
+        "wordForms": {
+          "adjective": [{ "form": "few", "meaning": "ít" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There were fewer than twenty people at the concert."
+      }
+    },
+    {
+      "id": 106,
+      "targetLexeme": "have survived",
+      "sourceContext": "Many of the Model E Dobles which have survived are still in good working condition...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã tồn tại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/həv səˈvaɪvd/",
+        "sentiment": "positive",
+        "definitionEN": "To have continued to live or exist, especially in spite of danger or hardship.",
+        "translationVI": "Đã tồn tại, còn sót lại",
+        "relatedCollocates": ["remain in existence", "are still around"],
+        "wordForms": {
+          "verb": [{ "form": "survive", "meaning": "sống sót" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Only a few of the ancient manuscripts have survived to the present day."
+      }
+    },
+    {
+      "id": 107,
+      "targetLexeme": "he may have been right",
+      "sourceContext": "Given the evidence, he may have been right.",
+      "phase1Inference": {
+        "contextualGuessVI": "Có lẽ ông ấy đã đúng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hiː meɪ həv biːn raɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "It is possible that his assertion or belief was correct.",
+        "translationVI": "Có lẽ ông ấy đã đúng",
+        "relatedCollocates": [
+          "perhaps he was correct",
+          "it's possible his view was accurate"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "right", "meaning": "đúng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Everyone laughed at his prediction, but looking at the situation now, he may have been right all along."
+      }
+    },
+    {
+      "id": 108,
+      "targetLexeme": "half a million miles",
+      "sourceContext": "...some having been driven over half a million miles with only normal maintenance.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nửa triệu dặm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hɑːf ə ˈmɪljən maɪlz/",
+        "sentiment": "positive",
+        "definitionEN": "A distance of 500,000 miles, indicating extreme durability for a vehicle.",
+        "translationVI": "Nửa triệu dặm",
+        "relatedCollocates": ["high mileage", "long distance"],
+        "wordForms": {
+          "noun": [{ "form": "mile", "meaning": "dặm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The spaceship traveled over half a million miles to reach its destination."
+      }
+    },
+    {
+      "id": 109,
+      "targetLexeme": "emissions laws in California",
+      "sourceContext": "...runs clean enough to pass the emissions laws in California today...",
+      "phase1Inference": {
+        "contextualGuessVI": "Luật khí thải ở California"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪˈmɪʃənz lɔːz ɪn ˌkælɪˈfɔːniə/",
+        "sentiment": "neutral",
+        "definitionEN": "The legal regulations concerning air pollution from vehicles in the state of California, known for being particularly strict.",
+        "translationVI": "Luật khí thải ở California",
+        "relatedCollocates": [
+          "environmental regulations",
+          "pollution standards"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "law", "meaning": "luật" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Car manufacturers must design their engines to meet the strict emissions laws in California."
+      }
+    },
+    {
+      "id": 110,
+      "targetLexeme": "modern materials and computers",
+      "sourceContext": "...how efficient a steam car might be with the benefit of modern materials and computers.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vật liệu và máy tính hiện đại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmɒdn məˈtɪəriəlz ənd kəmˈpjuːtəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Contemporary substances (like alloys, composites) and electronic devices used for calculation and control.",
+        "translationVI": "Vật liệu và máy tính hiện đại",
+        "relatedCollocates": ["advanced technology", "modern engineering"],
+        "wordForms": {
+          "noun": [
+            { "form": "material", "meaning": "vật liệu" },
+            { "form": "computer", "meaning": "máy tính" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "With the help of modern materials and computers, engineers can design much safer and more efficient bridges."
+      }
+    }
+  ]
+}
