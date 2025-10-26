@@ -8,13 +8,13 @@
       "targetLexeme": "domesticate (v)",
       "sourceContext": "...to learn how to domesticate the wild tomato and cultivate it for food.",
       "phase1Inference": {
-        "contextualGuessVI": "'Domesticate' (thuần hóa) cà chua dại (wild tomato) và 'cultivate' (trồng) nó."
+        "contextualGuessVI": "'Domesticate' (thuần hóa) cà chua dại (wild tomato) và 'cultivate' (trồng) nó"
       },
       "phase2Annotation": {
         "phonetic": "/dəˈmestɪkeɪt/",
         "sentiment": "neutral",
-        "definitionEN": "To tame an animal or grow a plant for human use (e.g., food, work, or as a pet).",
-        "translationVI": "Thuần hóa (động vật, thực vật).",
+        "definitionEN": "To tame an animal or grow a plant for human use (e.g., food, work, or as a pet)",
+        "translationVI": "Thuần hóa (động vật, thực vật)",
         "relatedCollocates": [
           "domesticate (a plant)",
           "domesticate (an animal)",
@@ -40,13 +40,13 @@
       "targetLexeme": "cultivate (v)",
       "sourceContext": "...domesticate the wild tomato and cultivate it for food.",
       "phase1Inference": {
-        "contextualGuessVI": "'Cultivate' (trồng trọt, canh tác) nó để làm thức ăn."
+        "contextualGuessVI": "'Cultivate' (trồng trọt, canh tác) nó để làm thức ăn"
       },
       "phase2Annotation": {
         "phonetic": "/ˈkʌltɪveɪt/",
         "sentiment": "neutral",
-        "definitionEN": "To prepare and use land for growing crops or plants.",
-        "translationVI": "Trồng trọt, canh tác.",
+        "definitionEN": "To prepare and use land for growing crops or plants",
+        "translationVI": "Trồng trọt, canh tác",
         "relatedCollocates": [
           "cultivate (land)",
           "cultivate (crops)",
@@ -72,13 +72,13 @@
       "targetLexeme": "re-domesticated (adj)",
       "sourceContext": "...as the re-domesticated tomatoes are more nutritious...",
       "phase1Inference": {
-        "contextualGuessVI": "Những quả cà chua được 're-domesticated' (thuần hóa lại)."
+        "contextualGuessVI": "Những quả cà chua được 're-domesticated' (thuần hóa lại)"
       },
       "phase2Annotation": {
         "phonetic": "/ˌriːdəˈmestɪkeɪtɪd/",
         "sentiment": "neutral",
-        "definitionEN": "Having gone through the process of domestication a second time or in a new way (e.g., using technology).",
-        "translationVI": "Được thuần hóa lại.",
+        "definitionEN": "Having gone through the process of domestication a second time or in a new way (e.g., using technology)",
+        "translationVI": "Được thuần hóa lại",
         "relatedCollocates": [
           "re- (prefix: again)",
           "domesticate (v)",
@@ -105,13 +105,13 @@
       "targetLexeme": "nutritious (adj)",
       "sourceContext": "...are more nutritious than the ones we eat at present.",
       "phase1Inference": {
-        "contextualGuessVI": "'More nutritious' (bổ dưỡng, nhiều dinh dưỡng hơn) những quả hiện tại."
+        "contextualGuessVI": "'More nutritious' (bổ dưỡng, nhiều dinh dưỡng hơn) những quả hiện tại"
       },
       "phase2Annotation": {
         "phonetic": "/njuˈtrɪʃəs/",
         "sentiment": "positive",
-        "definitionEN": "Containing many of the substances (e.g., vitamins, minerals) needed for life, growth, and health.",
-        "translationVI": "Bổ dưỡng, giàu dinh dưỡng.",
+        "definitionEN": "Containing many of the substances (e.g., vitamins, minerals) needed for life, growth, and health",
+        "translationVI": "Bổ dưỡng, giàu dinh dưỡng",
         "relatedCollocates": [
           "highly nutritious",
           "a nutritious meal",
@@ -139,13 +139,13 @@
       "targetLexeme": "relies on (phr. v)",
       "sourceContext": "This approach relies on the revolutionary CRISPR genome editing technique...",
       "phase1Inference": {
-        "contextualGuessVI": "Phương pháp này 'relies on' (dựa vào, phụ thuộc vào) kỹ thuật CRISPR."
+        "contextualGuessVI": "Phương pháp này 'relies on' (dựa vào, phụ thuộc vào) kỹ thuật CRISPR"
       },
       "phase2Annotation": {
         "phonetic": "/rɪˈlaɪz ɒn/",
         "sentiment": "neutral",
-        "definitionEN": "To depend on or trust in something or someone.",
-        "translationVI": "Dựa vào, phụ thuộc vào.",
+        "definitionEN": "To depend on or trust in something or someone",
+        "translationVI": "Dựa vào, phụ thuộc vào",
         "relatedCollocates": [
           "depend on (synonym)",
           "rely heavily on",
@@ -168,13 +168,13 @@
       "targetLexeme": "revolutionary (adj)",
       "sourceContext": "...the revolutionary CRISPR genome editing technique...",
       "phase1Inference": {
-        "contextualGuessVI": "Kỹ thuật 'revolutionary' (mang tính cách mạng, đột phá)."
+        "contextualGuessVI": "Kỹ thuật 'revolutionary' (mang tính cách mạng, đột phá)"
       },
       "phase2Annotation": {
         "phonetic": "/ˌrevəˈluːʃənəri/",
         "sentiment": "positive",
-        "definitionEN": "Involving or causing a complete or dramatic change.",
-        "translationVI": "Mang tính cách mạng, đột phá.",
+        "definitionEN": "Involving or causing a complete or dramatic change",
+        "translationVI": "Mang tính cách mạng, đột phá",
         "relatedCollocates": [
           "a revolutionary (idea)",
           "a revolutionary (technology)",
@@ -199,13 +199,13 @@
       "targetLexeme": "genome editing (n)",
       "sourceContext": "...the revolutionary CRISPR genome editing technique...",
       "phase1Inference": {
-        "contextualGuessVI": "Kỹ thuật 'genome editing' (chỉnh sửa hệ gen)."
+        "contextualGuessVI": "Kỹ thuật 'genome editing' (chỉnh sửa hệ gen)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈdʒiːnəʊm ˈedɪtɪŋ/",
         "sentiment": "neutral",
-        "definitionEN": "A group of technologies that give scientists the ability to change an organism's DNA.",
-        "translationVI": "Chỉnh sửa hệ gen.",
+        "definitionEN": "A group of technologies that give scientists the ability to change an organism's DNA",
+        "translationVI": "Chỉnh sửa hệ gen",
         "relatedCollocates": ["CRISPR", "gene editing", "DNA"],
         "wordForms": {
           "noun": [
@@ -229,13 +229,13 @@
       "targetLexeme": "deliberately (adv)",
       "sourceContext": "...in which changes are deliberately made to the DNA...",
       "phase1Inference": {
-        "contextualGuessVI": "Các thay đổi được 'deliberately' (cố ý, chủ đích) tạo ra."
+        "contextualGuessVI": "Các thay đổi được 'deliberately' (cố ý, chủ đích) tạo ra"
       },
       "phase2Annotation": {
         "phonetic": "/dɪˈlɪbərətli/",
         "sentiment": "neutral",
-        "definitionEN": "Consciously, intentionally, and on purpose.",
-        "translationVI": "(Một cách) cố ý, chủ đích.",
+        "definitionEN": "Consciously, intentionally, and on purpose",
+        "translationVI": "(Một cách) cố ý, chủ đích",
         "relatedCollocates": [
           "intentionally (synonym)",
           "on purpose (synonym)",
@@ -258,13 +258,13 @@
       "targetLexeme": "genetic material (n)",
       "sourceContext": "...allowing genetic material to be added, removed or altered.",
       "phase1Inference": {
-        "contextualGuessVI": "'Genetic material' (vật liệu di truyền) (như DNA) có thể được thêm, xóa, sửa."
+        "contextualGuessVI": "'Genetic material' (vật liệu di truyền) (như DNA) có thể được thêm, xóa, sửa"
       },
       "phase2Annotation": {
         "phonetic": "/dʒəˈnetɪk məˈtɪəriəl/",
         "sentiment": "neutral",
-        "definitionEN": "The material used to store genetic information in the nucleus of a cell (e.g., DNA or RNA).",
-        "translationVI": "Vật liệu di truyền (DNA, RNA).",
+        "definitionEN": "The material used to store genetic information in the nucleus of a cell (e.g., DNA or RNA)",
+        "translationVI": "Vật liệu di truyền (DNA, RNA)",
         "relatedCollocates": ["DNA", "gene", "genome"],
         "wordForms": {
           "noun": [
@@ -286,13 +286,13 @@
       "targetLexeme": "altered (v)",
       "sourceContext": "...added, removed or altered.",
       "phase1Inference": {
-        "contextualGuessVI": "Được thêm (added), xóa (removed) hoặc 'altered' (bị thay đổi, chỉnh sửa)."
+        "contextualGuessVI": "Được thêm (added), xóa (removed) hoặc 'altered' (bị thay đổi, chỉnh sửa)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈɔːltəd/",
         "sentiment": "neutral",
-        "definitionEN": "Changed in character or composition; modified.",
-        "translationVI": "Bị thay đổi, bị chỉnh sửa.",
+        "definitionEN": "Changed in character or composition; modified",
+        "translationVI": "Bị thay đổi, bị chỉnh sửa",
         "relatedCollocates": [
           "modify (synonym)",
           "change (synonym)",
@@ -318,13 +318,13 @@
       "targetLexeme": "appealing (adj)",
       "sourceContext": "...turn thousands of wild plants into useful and appealing foods.",
       "phase1Inference": {
-        "contextualGuessVI": "Thực phẩm 'useful' (hữu ích) và 'appealing' (hấp dẫn, ngon mắt)."
+        "contextualGuessVI": "Thực phẩm 'useful' (hữu ích) và 'appealing' (hấp dẫn, ngon mắt)"
       },
       "phase2Annotation": {
         "phonetic": "/əˈpiːlɪŋ/",
         "sentiment": "positive",
-        "definitionEN": "Attractive or interesting; pleasing.",
-        "translationVI": "Hấp dẫn, lôi cuốn, ngon mắt.",
+        "definitionEN": "Attractive or interesting; pleasing",
+        "translationVI": "Hấp dẫn, lôi cuốn, ngon mắt",
         "relatedCollocates": [
           "visually appealing",
           "an appealing (idea)",
@@ -350,13 +350,13 @@
       "targetLexeme": "a relative of (n. phrase)",
       "sourceContext": "...with a relative of the tomato called the groundcherry.",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'relative of' (họ hàng của) cà chua, gọi là groundcherry."
+        "contextualGuessVI": "Một 'relative of' (họ hàng của) cà chua, gọi là groundcherry"
       },
       "phase2Annotation": {
         "phonetic": "/ə ˈrelətɪv əv/",
         "sentiment": "neutral",
-        "definitionEN": "A plant or animal that belongs to the same biological group or family as another.",
-        "translationVI": "Họ hàng của (loài), bà con của.",
+        "definitionEN": "A plant or animal that belongs to the same biological group or family as another",
+        "translationVI": "Họ hàng của (loài), bà con của",
         "relatedCollocates": [
           "a close relative",
           "a distant relative",
@@ -379,13 +379,13 @@
       "targetLexeme": "fast-track domestication (n)",
       "sourceContext": "This fast-track domestication could help make the world's...",
       "phase1Inference": {
-        "contextualGuessVI": "Việc 'fast-track' (đẩy nhanh, rút ngắn) 'domestication' (sự thuần hóa)."
+        "contextualGuessVI": "Việc 'fast-track' (đẩy nhanh, rút ngắn) 'domestication' (sự thuần hóa)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈfɑːst træk dəˌmestɪˈkeɪʃən/",
         "sentiment": "positive",
-        "definitionEN": "A rapid method for taming wild plants or animals, making the process much quicker than usual.",
-        "translationVI": "Sự/Quá trình thuần hóa cấp tốc/nhanh.",
+        "definitionEN": "A rapid method for taming wild plants or animals, making the process much quicker than usual",
+        "translationVI": "Sự/Quá trình thuần hóa cấp tốc/nhanh",
         "relatedCollocates": [
           "fast-track (v)",
           "a faster route",
@@ -408,13 +408,13 @@
       "targetLexeme": "food supply (n)",
       "sourceContext": "...make the world's food supply healthier...",
       "phase1Inference": {
-        "contextualGuessVI": "'Food supply' (nguồn cung cấp thực phẩm) của thế giới."
+        "contextualGuessVI": "'Food supply' (nguồn cung cấp thực phẩm) của thế giới"
       },
       "phase2Annotation": {
         "phonetic": "/fuːd səˈplaɪ/",
         "sentiment": "neutral",
-        "definitionEN": "The total amount of food available to a population or region.",
-        "translationVI": "Nguồn cung cấp thực phẩm.",
+        "definitionEN": "The total amount of food available to a population or region",
+        "translationVI": "Nguồn cung cấp thực phẩm",
         "relatedCollocates": [
           "global food supply",
           "food shortages",
@@ -440,13 +440,13 @@
       "targetLexeme": "resistant to (adj)",
       "sourceContext": "...and far more resistant to diseases, such as the rust fungus...",
       "phase1Inference": {
-        "contextualGuessVI": "'Resistant to' (kháng, chống chịu) bệnh tật."
+        "contextualGuessVI": "'Resistant to' (kháng, chống chịu) bệnh tật"
       },
       "phase2Annotation": {
         "phonetic": "/rɪˈzɪstənt tuː/",
         "sentiment": "positive",
-        "definitionEN": "Not easily harmed or affected by something, such as a disease or chemical.",
-        "translationVI": "Kháng, có sức chống chịu (với).",
+        "definitionEN": "Not easily harmed or affected by something, such as a disease or chemical",
+        "translationVI": "Kháng, có sức chống chịu (với)",
         "relatedCollocates": [
           "disease-resistant",
           "drought-resistant",
@@ -469,13 +469,13 @@
       "targetLexeme": "devastating (adj)",
       "sourceContext": "...rust fungus devastating wheat crops.",
       "phase1Inference": {
-        "contextualGuessVI": "Nấm gỉ sắt 'devastating' (tàn phá) mùa màng lúa mì."
+        "contextualGuessVI": "Nấm gỉ sắt 'devastating' (tàn phá) mùa màng lúa mì"
       },
       "phase2Annotation": {
         "phonetic": "/ˈdevəsteɪtɪŋ/",
         "sentiment": "negative",
-        "definitionEN": "Causing a great deal of damage, destruction, or unhappiness.",
-        "translationVI": "Tàn phá, gây thiệt hại nghiêm trọng.",
+        "definitionEN": "Causing a great deal of damage, destruction, or unhappiness",
+        "translationVI": "Tàn phá, gây thiệt hại nghiêm trọng",
         "relatedCollocates": [
           "a devastating (effect)",
           "a devastating (famine)",
@@ -503,13 +503,13 @@
       "targetLexeme": "transform (v)",
       "sourceContext": "'This could transform what we eat,' says Jorg Kudla...",
       "phase1Inference": {
-        "contextualGuessVI": "Điều này có thể 'transform' (biến đổi, thay đổi hoàn toàn) những gì chúng ta ăn."
+        "contextualGuessVI": "Điều này có thể 'transform' (biến đổi, thay đổi hoàn toàn) những gì chúng ta ăn"
       },
       "phase2Annotation": {
         "phonetic": "/trænsˈfɔːm/",
         "sentiment": "neutral",
-        "definitionEN": "To change something completely, usually in a way that improves it.",
-        "translationVI": "Biến đổi, thay đổi hoàn toàn.",
+        "definitionEN": "To change something completely, usually in a way that improves it",
+        "translationVI": "Biến đổi, thay đổi hoàn toàn",
         "relatedCollocates": [
           "completely transform",
           "transformation (n)",
@@ -534,13 +534,13 @@
       "targetLexeme": "edible plants (n)",
       "sourceContext": "'There are 50,000 edible plants in the world...'",
       "phase1Inference": {
-        "contextualGuessVI": "50.000 'edible plants' (loài thực vật ăn được)."
+        "contextualGuessVI": "50.000 'edible plants' (loài thực vật ăn được)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈedəbl plɑːnts/",
         "sentiment": "neutral",
-        "definitionEN": "Plants that are suitable or safe to be eaten.",
-        "translationVI": "Thực vật ăn được.",
+        "definitionEN": "Plants that are suitable or safe to be eaten",
+        "translationVI": "Thực vật ăn được",
         "relatedCollocates": [
           "edible (adj)",
           "inedible (antonym)",
@@ -569,13 +569,13 @@
       "targetLexeme": "(energy) comes from (phr. v)",
       "sourceContext": "...but 90 percent of our energy comes from just 15 crops.'",
       "phase1Inference": {
-        "contextualGuessVI": "90% năng lượng của chúng ta 'comes from' (đến từ, bắt nguồn từ) 15 loại cây trồng."
+        "contextualGuessVI": "90% năng lượng của chúng ta 'comes from' (đến từ, bắt nguồn từ) 15 loại cây trồng"
       },
       "phase2Annotation": {
         "phonetic": "/ˈenədʒi kʌmz frɒm/",
         "sentiment": "neutral",
-        "definitionEN": "To originate from; to have as a source.",
-        "translationVI": "Đến từ, bắt nguồn từ.",
+        "definitionEN": "To originate from; to have as a source",
+        "translationVI": "Đến từ, bắt nguồn từ",
         "relatedCollocates": [
           "originate from",
           "be derived from",
@@ -598,13 +598,13 @@
       "targetLexeme": "mimic (v)",
       "sourceContext": "'We can now mimic the known domestication course of major crops...'",
       "phase1Inference": {
-        "contextualGuessVI": "Chúng ta có thể 'mimic' (bắt chước, mô phỏng) quá trình thuần hóa."
+        "contextualGuessVI": "Chúng ta có thể 'mimic' (bắt chước, mô phỏng) quá trình thuần hóa"
       },
       "phase2Annotation": {
         "phonetic": "/ˈmɪmɪk/",
         "sentiment": "neutral",
-        "definitionEN": "To imitate or copy the actions, appearance, or sound of someone or something.",
-        "translationVI": "Bắt chước, mô phỏng.",
+        "definitionEN": "To imitate or copy the actions, appearance, or sound of someone or something",
+        "translationVI": "Bắt chước, mô phỏng",
         "relatedCollocates": [
           "imitate (synonym)",
           "copy (synonym)",
@@ -630,13 +630,13 @@
       "targetLexeme": "domestication course (n)",
       "sourceContext": "...mimic the known domestication course of major crops...",
       "phase1Inference": {
-        "contextualGuessVI": "'Domestication course' (quá trình, tiến trình thuần hóa) đã biết."
+        "contextualGuessVI": "'Domestication course' (quá trình, tiến trình thuần hóa) đã biết"
       },
       "phase2Annotation": {
         "phonetic": "/dəˌmestɪˈkeɪʃən kɔːs/",
         "sentiment": "neutral",
-        "definitionEN": "The process or path of change that occurs as a plant or animal is domesticated over time.",
-        "translationVI": "Quá trình/tiến trình thuần hóa.",
+        "definitionEN": "The process or path of change that occurs as a plant or animal is domesticated over time",
+        "translationVI": "Quá trình/tiến trình thuần hóa",
         "relatedCollocates": [
           "the course of (history)",
           "process (n)",
@@ -662,13 +662,13 @@
       "targetLexeme": "major crops (n)",
       "sourceContext": "...domestication course of major crops like rice, maize, sorghum...",
       "phase1Inference": {
-        "contextualGuessVI": "Các 'major crops' (cây trồng chính) như lúa (rice), ngô (maize)..."
+        "contextualGuessVI": "Các 'major crops' (cây trồng chính) như lúa (rice), ngô (maize).."
       },
       "phase2Annotation": {
         "phonetic": "/ˈmeɪdʒə krɒps/",
         "sentiment": "neutral",
-        "definitionEN": "The most important plants that are grown in large quantities for food.",
-        "translationVI": "Các cây trồng chính/chủ lực.",
+        "definitionEN": "The most important plants that are grown in large quantities for food",
+        "translationVI": "Các cây trồng chính/chủ lực",
         "relatedCollocates": [
           "minor crops (antonym)",
           "staple crops (synonym)"
@@ -693,13 +693,13 @@
       "targetLexeme": "native to (adj)",
       "sourceContext": "Wild tomatoes, which are native to the Andes region in South America...",
       "phase1Inference": {
-        "contextualGuessVI": "Cà chua dại, 'native to' (bản địa, có nguồn gốc từ) vùng Andes."
+        "contextualGuessVI": "Cà chua dại, 'native to' (bản địa, có nguồn gốc từ) vùng Andes"
       },
       "phase2Annotation": {
         "phonetic": "/ˈneɪtɪv tuː/",
         "sentiment": "neutral",
-        "definitionEN": "Originating from or belonging naturally to a particular place.",
-        "translationVI": "Bản địa, có nguồn gốc từ.",
+        "definitionEN": "Originating from or belonging naturally to a particular place",
+        "translationVI": "Bản địa, có nguồn gốc từ",
         "relatedCollocates": ["indigenous to (synonym)", "a native (species)"],
         "wordForms": {
           "noun": [{ "form": "native", "meaning": "người bản địa" }],
@@ -718,13 +718,13 @@
       "targetLexeme": "pea-sized (adj)",
       "sourceContext": "...produce pea-sized fruits.",
       "phase1Inference": {
-        "contextualGuessVI": "Ra những quả 'pea-sized' (cỡ hạt đậu)."
+        "contextualGuessVI": "Ra những quả 'pea-sized' (cỡ hạt đậu)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈpiː saɪzd/",
         "sentiment": "neutral",
-        "definitionEN": "Having the same small, round size as a pea.",
-        "translationVI": "Cỡ/Kích thước bằng hạt đậu.",
+        "definitionEN": "Having the same small, round size as a pea",
+        "translationVI": "Cỡ/Kích thước bằng hạt đậu",
         "relatedCollocates": ["-sized (suffix)", "bite-sized", "full-sized"],
         "wordForms": {
           "noun": [{ "form": "pea", "meaning": "hạt đậu" }],
@@ -743,13 +743,13 @@
       "targetLexeme": "breeding (plants) (v/n)",
       "sourceContext": "...by selecting and breeding plants with mutations*...",
       "phase1Inference": {
-        "contextualGuessVI": "Chọn lọc (selecting) và 'breeding' (nhân giống, lai tạo) cây có đột biến."
+        "contextualGuessVI": "Chọn lọc (selecting) và 'breeding' (nhân giống, lai tạo) cây có đột biến"
       },
       "phase2Annotation": {
         "phonetic": "/ˈbriːdɪŋ/",
         "sentiment": "neutral",
-        "definitionEN": "The process of propagating plants (or animals) to produce offspring, often to get specific characteristics.",
-        "translationVI": "Nhân giống, lai tạo (thực vật).",
+        "definitionEN": "The process of propagating plants (or animals) to produce offspring, often to get specific characteristics",
+        "translationVI": "Nhân giống, lai tạo (thực vật)",
         "relatedCollocates": [
           "plant breeding",
           "selective breeding",
@@ -775,13 +775,13 @@
       "targetLexeme": "mutations (n)",
       "sourceContext": "...breeding plants with mutations* in their genetic structure...",
       "phase1Inference": {
-        "contextualGuessVI": "Cây có 'mutations' (đột biến) trong cấu trúc gen."
+        "contextualGuessVI": "Cây có 'mutations' (đột biến) trong cấu trúc gen"
       },
       "phase2Annotation": {
         "phonetic": "/mjuːˈteɪʃənz/",
         "sentiment": "neutral",
-        "definitionEN": "Changes that occur in the genetic material (DNA) of an organism.",
-        "translationVI": "(Các) đột biến.",
+        "definitionEN": "Changes that occur in the genetic material (DNA) of an organism",
+        "translationVI": "(Các) đột biến",
         "relatedCollocates": [
           "a genetic mutation",
           "a random mutation",
@@ -804,13 +804,13 @@
       "targetLexeme": "genetic structure (n)",
       "sourceContext": "...mutations* in their genetic structure...",
       "phase1Inference": {
-        "contextualGuessVI": "'Genetic structure' (cấu trúc di truyền, cấu trúc gen)."
+        "contextualGuessVI": "'Genetic structure' (cấu trúc di truyền, cấu trúc gen)"
       },
       "phase2Annotation": {
         "phonetic": "/dʒəˈnetɪk ˈstrʌktʃə/",
         "sentiment": "neutral",
-        "definitionEN": "The specific arrangement and composition of genes and DNA within an organism.",
-        "translationVI": "Cấu trúc di truyền.",
+        "definitionEN": "The specific arrangement and composition of genes and DNA within an organism",
+        "translationVI": "Cấu trúc di truyền",
         "relatedCollocates": [
           "genetic makeup (synonym)",
           "DNA structure",
@@ -836,13 +836,13 @@
       "targetLexeme": "desirable traits (n)",
       "sourceContext": "...which resulted in desirable traits such as larger fruit.",
       "phase1Inference": {
-        "contextualGuessVI": "Dẫn đến 'desirable traits' (các đặc điểm mong muốn) như quả to hơn."
+        "contextualGuessVI": "Dẫn đến 'desirable traits' (các đặc điểm mong muốn) như quả to hơn"
       },
       "phase2Annotation": {
         "phonetic": "/dɪˈzaɪərəbl treɪts/",
         "sentiment": "positive",
-        "definitionEN": "Qualities or characteristics (e.g., size, flavour, resistance) that people want, value, or find attractive.",
-        "translationVI": "Các đặc điểm/đặc tính mong muốn.",
+        "definitionEN": "Qualities or characteristics (e.g., size, flavour, resistance) that people want, value, or find attractive",
+        "translationVI": "Các đặc điểm/đặc tính mong muốn",
         "relatedCollocates": [
           "undesirable (antonym)",
           "a positive trait",
@@ -868,13 +868,13 @@
       "targetLexeme": "genetic diversity (n)",
       "sourceContext": "...but every time a single plant with a mutation is taken... genetic diversity is lost.",
       "phase1Inference": {
-        "contextualGuessVI": "'Genetic diversity' (sự đa dạng di truyền) bị 'is lost' (mất đi)."
+        "contextualGuessVI": "'Genetic diversity' (sự đa dạng di truyền) bị 'is lost' (mất đi)"
       },
       "phase2Annotation": {
         "phonetic": "/dʒəˈnetɪk daɪˈvɜːsəti/",
         "sentiment": "neutral",
-        "definitionEN": "The total number of different genetic characteristics in a species or population.",
-        "translationVI": "Sự đa dạng di truyền.",
+        "definitionEN": "The total number of different genetic characteristics in a species or population",
+        "translationVI": "Sự đa dạng di truyền",
         "relatedCollocates": [
           "lose (genetic diversity)",
           "rich (genetic diversity)",
@@ -903,13 +903,13 @@
       "targetLexeme": "altogether (adv)",
       "sourceContext": "Kudla's team made six changes altogether.",
       "phase1Inference": {
-        "contextualGuessVI": "Thực hiện sáu thay đổi 'altogether' (tổng cộng)."
+        "contextualGuessVI": "Thực hiện sáu thay đổi 'altogether' (tổng cộng)"
       },
       "phase2Annotation": {
         "phonetic": "/ˌɔːltəˈɡeðə/",
         "sentiment": "neutral",
-        "definitionEN": "In total; completely.",
-        "translationVI": "Tổng cộng, hoàn toàn.",
+        "definitionEN": "In total; completely",
+        "translationVI": "Tổng cộng, hoàn toàn",
         "relatedCollocates": [
           "in total (synonym)",
           "all told",
@@ -932,13 +932,13 @@
       "targetLexeme": "tripled the size (v. phrase)",
       "sourceContext": "...they tripled the size of fruit by editing a gene...",
       "phase1Inference": {
-        "contextualGuessVI": "Họ đã 'tripled the size' (tăng kích thước lên gấp ba) của quả."
+        "contextualGuessVI": "Họ đã 'tripled the size' (tăng kích thước lên gấp ba) của quả"
       },
       "phase2Annotation": {
         "phonetic": "/ˈtrɪpld ðə saɪz/",
         "sentiment": "positive",
-        "definitionEN": "To make something three times as large.",
-        "translationVI": "Tăng (kích thước) lên gấp ba.",
+        "definitionEN": "To make something three times as large",
+        "translationVI": "Tăng (kích thước) lên gấp ba",
         "relatedCollocates": ["double the size", "increase threefold"],
         "wordForms": {
           "noun": [{ "form": "size", "meaning": "kích thước" }],
@@ -957,13 +957,13 @@
       "targetLexeme": "increased the number of (v. phrase)",
       "sourceContext": "...and increased the number of tomatoes per truss...",
       "phase1Inference": {
-        "contextualGuessVI": "'Increased the number of' (tăng số lượng) cà chua."
+        "contextualGuessVI": "'Increased the number of' (tăng số lượng) cà chua"
       },
       "phase2Annotation": {
         "phonetic": "/ɪnˈkriːst ðə ˈnʌmbər əv/",
         "sentiment": "positive",
-        "definitionEN": "To make the quantity or amount of something larger.",
-        "translationVI": "Tăng số lượng (của).",
+        "definitionEN": "To make the quantity or amount of something larger",
+        "translationVI": "Tăng số lượng (của)",
         "relatedCollocates": [
           "decrease the number of (antonym)",
           "a sharp increase"
@@ -988,13 +988,13 @@
       "targetLexeme": "per truss (n. phrase)",
       "sourceContext": "...increased the number of tomatoes per truss...",
       "phase1Inference": {
-        "contextualGuessVI": "Số lượng cà chua 'per truss' (trên mỗi chùm/cành)."
+        "contextualGuessVI": "Số lượng cà chua 'per truss' (trên mỗi chùm/cành)"
       },
       "phase2Annotation": {
         "phonetic": "/pə trʌs/",
         "sentiment": "neutral",
-        "definitionEN": "On each cluster of flowers or fruit that grows on a plant.",
-        "translationVI": "Trên mỗi chùm (hoa/quả).",
+        "definitionEN": "On each cluster of flowers or fruit that grows on a plant",
+        "translationVI": "Trên mỗi chùm (hoa/quả)",
         "relatedCollocates": ["a truss of tomatoes", "per (unit)"],
         "wordForms": {
           "noun": [{ "form": "truss", "meaning": "chùm, cụm" }],
@@ -1013,13 +1013,13 @@
       "targetLexeme": "historical domestication (n)",
       "sourceContext": "While the historical domestication of tomatoes reduced levels...",
       "phase1Inference": {
-        "contextualGuessVI": "Sự 'historical domestication' (thuần hóa trong lịch sử, thuần hóa truyền thống)."
+        "contextualGuessVI": "Sự 'historical domestication' (thuần hóa trong lịch sử, thuần hóa truyền thống)"
       },
       "phase2Annotation": {
         "phonetic": "/hɪˈstɒrɪkl dəˌmestɪˈkeɪʃən/",
         "sentiment": "neutral",
-        "definitionEN": "The process of taming plants or animals as it happened over a long period in the past.",
-        "translationVI": "Sự thuần hóa trong lịch sử (truyền thống).",
+        "definitionEN": "The process of taming plants or animals as it happened over a long period in the past",
+        "translationVI": "Sự thuần hóa trong lịch sử (truyền thống)",
         "relatedCollocates": [
           "traditional (domestication)",
           "modern (domestication)"
@@ -1041,13 +1041,13 @@
       "targetLexeme": "red pigment (n)",
       "sourceContext": "...reduced levels of the red pigment lycopene...",
       "phase1Inference": {
-        "contextualGuessVI": "'Red pigment' (sắc tố đỏ) lycopene."
+        "contextualGuessVI": "'Red pigment' (sắc tố đỏ) lycopene"
       },
       "phase2Annotation": {
         "phonetic": "/red ˈpɪɡmənt/",
         "sentiment": "neutral",
-        "definitionEN": "A natural substance that gives a red color to plants or animals.",
-        "translationVI": "Sắc tố đỏ.",
+        "definitionEN": "A natural substance that gives a red color to plants or animals",
+        "translationVI": "Sắc tố đỏ",
         "relatedCollocates": ["pigment (n)", "color (n)", "lycopene (example)"],
         "wordForms": {
           "noun": [{ "form": "pigment", "meaning": "sắc tố" }],
@@ -1066,13 +1066,13 @@
       "targetLexeme": "boost (v)",
       "sourceContext": "...the team in Brazil managed to boost it instead.",
       "phase1Inference": {
-        "contextualGuessVI": "Đội Brazil đã 'boost' (tăng cường, thúc đẩy) nó (lycopene)."
+        "contextualGuessVI": "Đội Brazil đã 'boost' (tăng cường, thúc đẩy) nó (lycopene)"
       },
       "phase2Annotation": {
         "phonetic": "/buːst/",
         "sentiment": "positive",
-        "definitionEN": "To improve or increase something; to make something stronger or more successful.",
-        "translationVI": "Tăng cường, thúc đẩy.",
+        "definitionEN": "To improve or increase something; to make something stronger or more successful",
+        "translationVI": "Tăng cường, thúc đẩy",
         "relatedCollocates": [
           "boost (levels)",
           "boost (profits)",
@@ -1095,13 +1095,13 @@
       "targetLexeme": "cultivated ones (n. phrase)",
       "sourceContext": "...twice as much lycopene as cultivated ones...",
       "phase1Inference": {
-        "contextualGuessVI": "Nhiều gấp đôi so với 'cultivated ones' (những quả được trồng trọt)."
+        "contextualGuessVI": "Nhiều gấp đôi so với 'cultivated ones' (những quả được trồng trọt)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈkʌltɪveɪtɪd wʌnz/",
         "sentiment": "neutral",
-        "definitionEN": "The domesticated versions of a plant that are grown by farmers (as opposed to wild ones).",
-        "translationVI": "Các loại/giống (được) trồng trọt.",
+        "definitionEN": "The domesticated versions of a plant that are grown by farmers (as opposed to wild ones)",
+        "translationVI": "Các loại/giống (được) trồng trọt",
         "relatedCollocates": ["wild ones (antonym)", "domesticated (plants)"],
         "wordForms": {
           "noun": null,
@@ -1120,13 +1120,13 @@
       "targetLexeme": "tasty (adj)",
       "sourceContext": "'They are quite tasty,' says Kudla.",
       "phase1Inference": {
-        "contextualGuessVI": "Chúng khá 'tasty' (ngon)."
+        "contextualGuessVI": "Chúng khá 'tasty' (ngon)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈteɪsti/",
         "sentiment": "positive",
-        "definitionEN": "Having a pleasant, distinct flavour.",
-        "translationVI": "Ngon, có vị ngon.",
+        "definitionEN": "Having a pleasant, distinct flavour",
+        "translationVI": "Ngon, có vị ngon",
         "relatedCollocates": [
           "delicious (synonym)",
           "flavourful (synonym)",
@@ -1149,13 +1149,13 @@
       "targetLexeme": "strong (adj - flavour)",
       "sourceContext": "'A little bit strong. And very aromatic.'",
       "phase1Inference": {
-        "contextualGuessVI": "Vị hơi 'strong' (nồng, đậm)."
+        "contextualGuessVI": "Vị hơi 'strong' (nồng, đậm)"
       },
       "phase2Annotation": {
         "phonetic": "/strɒŋ/",
         "sentiment": "neutral",
-        "definitionEN": "Having a powerful or intense flavour or smell.",
-        "translationVI": "Nồng, đậm (vị/mùi).",
+        "definitionEN": "Having a powerful or intense flavour or smell",
+        "translationVI": "Nồng, đậm (vị/mùi)",
         "relatedCollocates": [
           "a strong (flavour)",
           "a strong (smell)",
@@ -1178,13 +1178,13 @@
       "targetLexeme": "aromatic (adj)",
       "sourceContext": "'And very aromatic.'",
       "phase1Inference": {
-        "contextualGuessVI": "Và rất 'aromatic' (thơm)."
+        "contextualGuessVI": "Và rất 'aromatic' (thơm)"
       },
       "phase2Annotation": {
         "phonetic": "/ˌærəˈmætɪk/",
         "sentiment": "positive",
-        "definitionEN": "Having a pleasant and distinct smell; fragrant.",
-        "translationVI": "Thơm, có mùi thơm.",
+        "definitionEN": "Having a pleasant and distinct smell; fragrant",
+        "translationVI": "Thơm, có mùi thơm",
         "relatedCollocates": [
           "an aromatic (herb)",
           "fragrant (synonym)",
@@ -1207,13 +1207,13 @@
       "targetLexeme": "strains (n)",
       "sourceContext": "The team in China re-domesticated several strains of wild tomatoes...",
       "phase1Inference": {
-        "contextualGuessVI": "Một vài 'strains' (chủng, dòng) cà chua dại."
+        "contextualGuessVI": "Một vài 'strains' (chủng, dòng) cà chua dại"
       },
       "phase2Annotation": {
         "phonetic": "/streɪnz/",
         "sentiment": "neutral",
-        "definitionEN": "A particular type or variety of plant, animal, or microorganism.",
-        "translationVI": "Chủng, dòng (thực vật, vi khuẩn).",
+        "definitionEN": "A particular type or variety of plant, animal, or microorganism",
+        "translationVI": "Chủng, dòng (thực vật, vi khuẩn)",
         "relatedCollocates": [
           "a new strain (of virus)",
           "a different strain",
@@ -1236,13 +1236,13 @@
       "targetLexeme": "resistant to a common disease",
       "sourceContext": "...create a strain resistant to a common disease called bacterial spot...",
       "phase1Inference": {
-        "contextualGuessVI": "Một chủng 'resistant to a common disease' (kháng một bệnh thông thường)."
+        "contextualGuessVI": "Một chủng 'resistant to a common disease' (kháng một bệnh thông thường)"
       },
       "phase2Annotation": {
         "phonetic": "/rɪˈzɪstənt tu ə ˈkɒmən dɪˈziːz/",
         "sentiment": "positive",
-        "definitionEN": "Able to withstand or fight off a widespread illness.",
-        "translationVI": "Kháng một bệnh thông thường.",
+        "definitionEN": "Able to withstand or fight off a widespread illness",
+        "translationVI": "Kháng một bệnh thông thường",
         "relatedCollocates": ["disease-resistant", "resistant to (insects)"],
         "wordForms": {
           "noun": [
@@ -1267,13 +1267,13 @@
       "targetLexeme": "devastate yields (v. phrase)",
       "sourceContext": "...which can devastate yields.",
       "phase1Inference": {
-        "contextualGuessVI": "Thứ có thể 'devastate yields' (tàn phá năng suất/sản lượng)."
+        "contextualGuessVI": "Thứ có thể 'devastate yields' (tàn phá năng suất/sản lượng)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈdevəsteɪt jiːldz/",
         "sentiment": "negative",
-        "definitionEN": "To completely destroy the amount of a crop that is produced.",
-        "translationVI": "Tàn phá/Phá hủy năng suất (nông nghiệp).",
+        "definitionEN": "To completely destroy the amount of a crop that is produced",
+        "translationVI": "Tàn phá/Phá hủy năng suất (nông nghiệp)",
         "relatedCollocates": [
           "destroy (yields)",
           "crop yields",
@@ -1304,13 +1304,13 @@
       "targetLexeme": "salt tolerant (adj)",
       "sourceContext": "They also created another strain that is more salt tolerant...",
       "phase1Inference": {
-        "contextualGuessVI": "Một chủng 'salt tolerant' (chịu mặn, kháng mặn) tốt hơn."
+        "contextualGuessVI": "Một chủng 'salt tolerant' (chịu mặn, kháng mặn) tốt hơn"
       },
       "phase2Annotation": {
         "phonetic": "/sɔːlt ˈtɒlərənt/",
         "sentiment": "positive",
-        "definitionEN": "Able to grow or survive in conditions with a high level of salt (e.g., in soil or water).",
-        "translationVI": "Chịu mặn, kháng mặn.",
+        "definitionEN": "Able to grow or survive in conditions with a high level of salt (e.g., in soil or water)",
+        "translationVI": "Chịu mặn, kháng mặn",
         "relatedCollocates": [
           "drought tolerant",
           "heat tolerant",
@@ -1339,13 +1339,13 @@
       "targetLexeme": "Institute (n)",
       "sourceContext": "...Joyce Van Eck at the Boyce Thompson Institute in New York...",
       "phase1Inference": {
-        "contextualGuessVI": "Viện 'Institute' Boyce Thompson."
+        "contextualGuessVI": "Viện 'Institute' Boyce Thompson"
       },
       "phase2Annotation": {
         "phonetic": "/ˈɪnstɪtjuːt/",
         "sentiment": "neutral",
-        "definitionEN": "An organization founded for a specific purpose, especially for research, education, or professional studies.",
-        "translationVI": "Viện (nghiên cứu), học viện.",
+        "definitionEN": "An organization founded for a specific purpose, especially for research, education, or professional studies",
+        "translationVI": "Viện (nghiên cứu), học viện",
         "relatedCollocates": [
           "a research institute",
           "an educational institution"
@@ -1372,13 +1372,13 @@
       "targetLexeme": "for the first time (adv. phrase)",
       "sourceContext": "...to domesticate the groundcherry or goldenberry for the first time.",
       "phase1Inference": {
-        "contextualGuessVI": "Thuần hóa... 'for the first time' (lần đầu tiên)."
+        "contextualGuessVI": "Thuần hóa... 'for the first time' (lần đầu tiên)"
       },
       "phase2Annotation": {
         "phonetic": "/fə ðə fɜːst taɪm/",
         "sentiment": "neutral",
-        "definitionEN": "On the first occasion; never before.",
-        "translationVI": "Lần đầu tiên.",
+        "definitionEN": "On the first occasion; never before",
+        "translationVI": "Lần đầu tiên",
         "relatedCollocates": ["the very first time", "for the last time"],
         "wordForms": {
           "noun": [{ "form": "time", "meaning": "lần" }],
@@ -1397,13 +1397,13 @@
       "targetLexeme": "closely related (adj. phrase)",
       "sourceContext": "...looks similar to the closely related Cape gooseberry...",
       "phase1Inference": {
-        "contextualGuessVI": "Họ hàng 'closely related' (có họ hàng gần) là cây tầm bóp."
+        "contextualGuessVI": "Họ hàng 'closely related' (có họ hàng gần) là cây tầm bóp"
       },
       "phase2Annotation": {
         "phonetic": "/ˈkləʊsli rɪˈleɪtɪd/",
         "sentiment": "neutral",
-        "definitionEN": "Having a near common ancestor or belonging to the same family (biologically).",
-        "translationVI": "Có họ hàng gần.",
+        "definitionEN": "Having a near common ancestor or belonging to the same family (biologically)",
+        "translationVI": "Có họ hàng gần",
         "relatedCollocates": [
           "distantly related (antonym)",
           "a close relative"
@@ -1425,13 +1425,13 @@
       "targetLexeme": "to a limited extent (adv. phrase)",
       "sourceContext": "Groundcherries are already sold to a limited extent in the US...",
       "phase1Inference": {
-        "contextualGuessVI": "Được bán 'to a limited extent' (ở một mức độ/quy mô hạn chế)."
+        "contextualGuessVI": "Được bán 'to a limited extent' (ở một mức độ/quy mô hạn chế)"
       },
       "phase2Annotation": {
         "phonetic": "/tu ə ˈlɪmɪtɪd ɪkˈstent/",
         "sentiment": "neutral",
-        "definitionEN": "In a way that is small in amount, range, or degree.",
-        "translationVI": "Ở một mức độ/quy mô hạn chế.",
+        "definitionEN": "In a way that is small in amount, range, or degree",
+        "translationVI": "Ở một mức độ/quy mô hạn chế",
         "relatedCollocates": ["to some extent", "to a large extent"],
         "wordForms": {
           "noun": [{ "form": "extent", "meaning": "mức độ" }],
@@ -1450,13 +1450,13 @@
       "targetLexeme": "sprawling growth habit (n. phrase)",
       "sourceContext": "...the plant has a sprawling growth habit...",
       "phase1Inference": {
-        "contextualGuessVI": "Cây có 'sprawling growth habit' (dáng mọc/thói quen sinh trưởng bò lan, um tùm)."
+        "contextualGuessVI": "Cây có 'sprawling growth habit' (dáng mọc/thói quen sinh trưởng bò lan, um tùm)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈsprɔːlɪŋ ɡrəʊθ ˈhæbɪt/",
         "sentiment": "negative",
-        "definitionEN": "The typical way a plant grows, characterized by spreading out over a large area in an untidy way.",
-        "translationVI": "Dáng mọc/Thói quen sinh trưởng bò lan/um tùm.",
+        "definitionEN": "The typical way a plant grows, characterized by spreading out over a large area in an untidy way",
+        "translationVI": "Dáng mọc/Thói quen sinh trưởng bò lan/um tùm",
         "relatedCollocates": [
           "sprawl (v)",
           "growth habit",
@@ -1482,13 +1482,13 @@
       "targetLexeme": "ripe (adj)",
       "sourceContext": "...fall off the branches when ripe.",
       "phase1Inference": {
-        "contextualGuessVI": "Rụng khỏi cành khi 'ripe' (chín)."
+        "contextualGuessVI": "Rụng khỏi cành khi 'ripe' (chín)"
       },
       "phase2Annotation": {
         "phonetic": "/raɪp/",
         "sentiment": "positive",
-        "definitionEN": "(Of fruit or crops) fully developed and ready to be eaten or harvested.",
-        "translationVI": "Chín (trái cây).",
+        "definitionEN": "(Of fruit or crops) fully developed and ready to be eaten or harvested",
+        "translationVI": "Chín (trái cây)",
         "relatedCollocates": ["unripe (antonym)", "fully ripe", "ripen (v)"],
         "wordForms": {
           "noun": [{ "form": "ripeness", "meaning": "sự chín" }],
@@ -1510,13 +1510,13 @@
       "targetLexeme": "more compact (adj)",
       "sourceContext": "...make their growth more compact and to stop fruits dropping.",
       "phase1Inference": {
-        "contextualGuessVI": "Làm cho dáng mọc 'more compact' (gọn gàng, đặc hơn)."
+        "contextualGuessVI": "Làm cho dáng mọc 'more compact' (gọn gàng, đặc hơn)"
       },
       "phase2Annotation": {
         "phonetic": "/mɔː ˈkɒmpækt/",
         "sentiment": "positive",
-        "definitionEN": "Denser and more neatly arranged in a small space; not sprawling.",
-        "translationVI": "Gọn gàng hơn, đặc hơn.",
+        "definitionEN": "Denser and more neatly arranged in a small space; not sprawling",
+        "translationVI": "Gọn gàng hơn, đặc hơn",
         "relatedCollocates": ["sprawling (antonym)", "a compact (design)"],
         "wordForms": {
           "noun": [{ "form": "compactness", "meaning": "sự gọn gàng" }],
@@ -1535,13 +1535,13 @@
       "targetLexeme": "potential (n)",
       "sourceContext": "'There's potential for this to be a commercial crop,'...",
       "phase1Inference": {
-        "contextualGuessVI": "Có 'potential' (tiềm năng) để trở thành cây trồng thương mại."
+        "contextualGuessVI": "Có 'potential' (tiềm năng) để trở thành cây trồng thương mại"
       },
       "phase2Annotation": {
         "phonetic": "/pəˈtenʃəl/",
         "sentiment": "positive",
-        "definitionEN": "The possibility of something happening or being developed or used.",
-        "translationVI": "Tiềm năng.",
+        "definitionEN": "The possibility of something happening or being developed or used",
+        "translationVI": "Tiềm năng",
         "relatedCollocates": [
           "have (great) potential",
           "potential (for)",
@@ -1566,13 +1566,13 @@
       "targetLexeme": "commercial crop (n)",
       "sourceContext": "...potential for this to be a commercial crop,'...",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'commercial crop' (cây trồng thương mại)."
+        "contextualGuessVI": "Một 'commercial crop' (cây trồng thương mại)"
       },
       "phase2Annotation": {
         "phonetic": "/kəˈmɜːʃəl krɒp/",
         "sentiment": "neutral",
-        "definitionEN": "A crop (like wheat or cotton) that is grown in large quantities to be sold, rather than for the farmer's own use.",
-        "translationVI": "Cây trồng thương mại (để bán).",
+        "definitionEN": "A crop (like wheat or cotton) that is grown in large quantities to be sold, rather than for the farmer's own use",
+        "translationVI": "Cây trồng thương mại (để bán)",
         "relatedCollocates": ["cash crop (synonym)", "commercial (use)"],
         "wordForms": {
           "noun": [
@@ -1596,13 +1596,13 @@
       "targetLexeme": "licence (n)",
       "sourceContext": "...pay for a licence for the CRISPR technology...",
       "phase1Inference": {
-        "contextualGuessVI": "Trả tiền cho 'licence' (giấy phép, bản quyền) công nghệ CRISPR."
+        "contextualGuessVI": "Trả tiền cho 'licence' (giấy phép, bản quyền) công nghệ CRISPR"
       },
       "phase2Annotation": {
         "phonetic": "/ˈlaɪsəns/",
         "sentiment": "neutral",
-        "definitionEN": "An official document that gives you permission to own, do, or use something.",
-        "translationVI": "Giấy phép, bản quyền (sử dụng).",
+        "definitionEN": "An official document that gives you permission to own, do, or use something",
+        "translationVI": "Giấy phép, bản quyền (sử dụng)",
         "relatedCollocates": [
           "pay for a (licence)",
           "a driver's (licence)",
@@ -1628,13 +1628,13 @@
       "targetLexeme": "regulatory approval (n)",
       "sourceContext": "...and get regulatory approval.",
       "phase1Inference": {
-        "contextualGuessVI": "Và nhận được 'regulatory approval' (sự phê duyệt/chấp thuận của cơ quan quản lý)."
+        "contextualGuessVI": "Và nhận được 'regulatory approval' (sự phê duyệt/chấp thuận của cơ quan quản lý)"
       },
       "phase2Annotation": {
         "phonetic": "/ˌreɡjuˈleɪtəri əˈpruːvəl/",
         "sentiment": "neutral",
-        "definitionEN": "Official permission from a government agency or other body that controls an activity.",
-        "translationVI": "Sự chấp thuận/phê duyệt của cơ quan quản lý.",
+        "definitionEN": "Official permission from a government agency or other body that controls an activity",
+        "translationVI": "Sự chấp thuận/phê duyệt của cơ quan quản lý",
         "relatedCollocates": [
           "get (approval)",
           "seek (approval)",
@@ -1664,13 +1664,13 @@
       "targetLexeme": "boost the use (v. phrase)",
       "sourceContext": "This approach could boost the use of many obscure plants...",
       "phase1Inference": {
-        "contextualGuessVI": "Phương pháp này có thể 'boost the use' (thúc đẩy việc sử dụng) các loài cây ít được biết đến."
+        "contextualGuessVI": "Phương pháp này có thể 'boost the use' (thúc đẩy việc sử dụng) các loài cây ít được biết đến"
       },
       "phase2Annotation": {
         "phonetic": "/buːst ðə juːs/",
         "sentiment": "positive",
-        "definitionEN": "To increase or promote the extent to which something is used.",
-        "translationVI": "Thúc đẩy việc sử dụng.",
+        "definitionEN": "To increase or promote the extent to which something is used",
+        "translationVI": "Thúc đẩy việc sử dụng",
         "relatedCollocates": [
           "boost (v)",
           "promote the use of",
@@ -1699,13 +1699,13 @@
       "targetLexeme": "obscure plants (n. phrase)",
       "sourceContext": "...boost the use of many obscure plants...",
       "phase1Inference": {
-        "contextualGuessVI": "Nhiều 'obscure plants' (loài thực vật ít được biết đến/vô danh)."
+        "contextualGuessVI": "Nhiều 'obscure plants' (loài thực vật ít được biết đến/vô danh)"
       },
       "phase2Annotation": {
         "phonetic": "/əbˈskjʊə plɑːnts/",
         "sentiment": "neutral",
-        "definitionEN": "Plants that are not well-known, not common, or not easily understood.",
-        "translationVI": "Các loài thực vật ít được biết đến/vô danh.",
+        "definitionEN": "Plants that are not well-known, not common, or not easily understood",
+        "translationVI": "Các loài thực vật ít được biết đến/vô danh",
         "relatedCollocates": [
           "obscure (adj)",
           "little-known (synonym)",
@@ -1731,13 +1731,13 @@
       "targetLexeme": "grow popular with (v. phrase)",
       "sourceContext": "...hard for new foods to grow so popular with farmers and consumers...",
       "phase1Inference": {
-        "contextualGuessVI": "Trở nên 'grow popular with' (phổ biến với) nông dân và người tiêu dùng."
+        "contextualGuessVI": "Trở nên 'grow popular with' (phổ biến với) nông dân và người tiêu dùng"
       },
       "phase2Annotation": {
         "phonetic": "/ɡrəʊ ˈpɒpjələ wɪð/",
         "sentiment": "positive",
-        "definitionEN": "To become increasingly liked or supported by a particular group of people.",
-        "translationVI": "Trở nên phổ biến với (ai đó).",
+        "definitionEN": "To become increasingly liked or supported by a particular group of people",
+        "translationVI": "Trở nên phổ biến với (ai đó)",
         "relatedCollocates": ["become popular", "gain popularity"],
         "wordForms": {
           "noun": [{ "form": "popularity", "meaning": "sự phổ biến" }],
@@ -1756,13 +1756,13 @@
       "targetLexeme": "staple crops (n)",
       "sourceContext": "...that they become new staple crops, he thinks.",
       "phase1Inference": {
-        "contextualGuessVI": "Trở thành 'staple crops' (cây trồng chủ lực/lương thực chính) mới."
+        "contextualGuessVI": "Trở thành 'staple crops' (cây trồng chủ lực/lương thực chính) mới"
       },
       "phase2Annotation": {
         "phonetic": "/ˈsteɪpl krɒps/",
         "sentiment": "neutral",
-        "definitionEN": "The most important food crops that form the basis of a standard diet in a particular region (e.g., rice, wheat, maize).",
-        "translationVI": "Cây trồng/Lương thực chủ lực.",
+        "definitionEN": "The most important food crops that form the basis of a standard diet in a particular region (e.g., rice, wheat, maize)",
+        "translationVI": "Cây trồng/Lương thực chủ lực",
         "relatedCollocates": [
           "major crops (synonym)",
           "a staple (food)",
@@ -1788,13 +1788,13 @@
       "targetLexeme": "have their eye on (idiom)",
       "sourceContext": "The three teams already have their eye on other plants...",
       "phase1Inference": {
-        "contextualGuessVI": "Các đội đã 'have their eye on' (để mắt đến, nhắm đến) các loài cây khác."
+        "contextualGuessVI": "Các đội đã 'have their eye on' (để mắt đến, nhắm đến) các loài cây khác"
       },
       "phase2Annotation": {
         "phonetic": "/hæv ðeər aɪ ɒn/",
         "sentiment": "neutral",
-        "definitionEN": "To be watching something or someone with interest; to be considering something as a future possibility.",
-        "translationVI": "Để mắt đến, nhắm đến, để ý đến.",
+        "definitionEN": "To be watching something or someone with interest; to be considering something as a future possibility",
+        "translationVI": "Để mắt đến, nhắm đến, để ý đến",
         "relatedCollocates": ["keep an eye on", "be in (sb's) sights"],
         "wordForms": {
           "noun": [{ "form": "eye", "meaning": "mắt" }],
@@ -1813,13 +1813,13 @@
       "targetLexeme": "catapulted into the mainstream (idiom)",
       "sourceContext": "...plants that could be 'catapulted into the mainstream'...",
       "phase1Inference": {
-        "contextualGuessVI": "Được 'catapulted into the mainstream' (bắn/đẩy vào dòng chính, trở nên phổ biến nhanh chóng)."
+        "contextualGuessVI": "Được 'catapulted into the mainstream' (bắn/đẩy vào dòng chính, trở nên phổ biến nhanh chóng)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈkætəpʌltɪd ˈɪntuː ðə ˈmeɪnstriːm/",
         "sentiment": "positive",
-        "definitionEN": "To suddenly become very popular, famous, or widely accepted by the general public.",
-        "translationVI": "Trở nên phổ biến nhanh chóng, được đẩy vào dòng chính.",
+        "definitionEN": "To suddenly become very popular, famous, or widely accepted by the general public",
+        "translationVI": "Trở nên phổ biến nhanh chóng, được đẩy vào dòng chính",
         "relatedCollocates": [
           "catapult (v)",
           "mainstream (n/adj)",
@@ -1847,13 +1847,13 @@
       "targetLexeme": "drought or heat tolerant (adj. phrase)",
       "sourceContext": "...wild plants that are drought or heat tolerant...",
       "phase1Inference": {
-        "contextualGuessVI": "Những cây 'drought or heat tolerant' (chịu hạn hán hoặc chịu nhiệt)."
+        "contextualGuessVI": "Những cây 'drought or heat tolerant' (chịu hạn hán hoặc chịu nhiệt)"
       },
       "phase2Annotation": {
         "phonetic": "/draʊt ɔː hiːt ˈtɒlərənt/",
         "sentiment": "positive",
-        "definitionEN": "Able to survive long periods of little or no rain, or very high temperatures.",
-        "translationVI": "Chịu hạn hán hoặc chịu nhiệt.",
+        "definitionEN": "Able to survive long periods of little or no rain, or very high temperatures",
+        "translationVI": "Chịu hạn hán hoặc chịu nhiệt",
         "relatedCollocates": [
           "salt tolerant (related)",
           "tolerant (of)",
@@ -1880,13 +1880,13 @@
       "targetLexeme": "thrive (v)",
       "sourceContext": "...we could create crops that will thrive even as the planet warms.",
       "phase1Inference": {
-        "contextualGuessVI": "Những cây trồng sẽ 'thrive' (phát triển mạnh, sinh trưởng tốt)."
+        "contextualGuessVI": "Những cây trồng sẽ 'thrive' (phát triển mạnh, sinh trưởng tốt)"
       },
       "phase2Annotation": {
         "phonetic": "/θraɪv/",
         "sentiment": "positive",
-        "definitionEN": "To grow or develop vigorously; to flourish or prosper.",
-        "translationVI": "Phát triển mạnh, sinh trưởng tốt.",
+        "definitionEN": "To grow or develop vigorously; to flourish or prosper",
+        "translationVI": "Phát triển mạnh, sinh trưởng tốt",
         "relatedCollocates": [
           "flourish (synonym)",
           "thrive (in an environment)",
@@ -1911,13 +1911,13 @@
       "targetLexeme": "warms (v)",
       "sourceContext": "...even as the planet warms.",
       "phase1Inference": {
-        "contextualGuessVI": "Ngay cả khi hành tinh 'warms' (ấm lên)."
+        "contextualGuessVI": "Ngay cả khi hành tinh 'warms' (ấm lên)"
       },
       "phase2Annotation": {
         "phonetic": "/wɔːmz/",
         "sentiment": "negative",
-        "definitionEN": "To become higher in temperature.",
-        "translationVI": "Ấm lên, nóng lên.",
+        "definitionEN": "To become higher in temperature",
+        "translationVI": "Ấm lên, nóng lên",
         "relatedCollocates": ["global warming (n)", "cools (antonym)"],
         "wordForms": {
           "noun": [{ "form": "warmth", "meaning": "sự ấm áp" }],
@@ -1936,13 +1936,13 @@
       "targetLexeme": "reveal (v)",
       "sourceContext": "But Kudla didn't want to reveal which species were...",
       "phase1Inference": {
-        "contextualGuessVI": "Không muốn 'reveal' (tiết lộ) loài nào..."
+        "contextualGuessVI": "Không muốn 'reveal' (tiết lộ) loài nào.."
       },
       "phase2Annotation": {
         "phonetic": "/rɪˈviːl/",
         "sentiment": "neutral",
-        "definitionEN": "To make known or show something that was previously secret or hidden.",
-        "translationVI": "Tiết lộ, hé lộ.",
+        "definitionEN": "To make known or show something that was previously secret or hidden",
+        "translationVI": "Tiết lộ, hé lộ",
         "relatedCollocates": [
           "reveal (a secret)",
           "reveal (the identity)",
@@ -1967,13 +1967,13 @@
       "targetLexeme": "(in sb's) sights (n. phrase)",
       "sourceContext": "...which species were in his team's sights...",
       "phase1Inference": {
-        "contextualGuessVI": "Loài nào đang ở trong 'sights' (tầm ngắm) của đội ông."
+        "contextualGuessVI": "Loài nào đang ở trong 'sights' (tầm ngắm) của đội ông"
       },
       "phase2Annotation": {
         "phonetic": "/ɪn saɪts/",
         "sentiment": "neutral",
-        "definitionEN": "Being considered as a goal or target to be achieved or obtained.",
-        "translationVI": "(Trong) tầm ngắm (của ai đó).",
+        "definitionEN": "Being considered as a goal or target to be achieved or obtained",
+        "translationVI": "(Trong) tầm ngắm (của ai đó)",
         "relatedCollocates": [
           "have (sb/sth) in (one's) sights",
           "have (one's) eye on (synonym)"
@@ -1995,13 +1995,13 @@
       "targetLexeme": "right skills (n. phrase)",
       "sourceContext": "'Any one with the right skills could go to their lab and do this.'",
       "phase1Inference": {
-        "contextualGuessVI": "Bất kỳ ai có 'right skills' (kỹ năng phù hợp, đúng chuyên môn)."
+        "contextualGuessVI": "Bất kỳ ai có 'right skills' (kỹ năng phù hợp, đúng chuyên môn)"
       },
       "phase2Annotation": {
         "phonetic": "/raɪt skɪlz/",
         "sentiment": "positive",
-        "definitionEN": "The correct, necessary, or appropriate abilities needed to do a job.",
-        "translationVI": "Các kỹ năng phù hợp/cần thiết.",
+        "definitionEN": "The correct, necessary, or appropriate abilities needed to do a job",
+        "translationVI": "Các kỹ năng phù hợp/cần thiết",
         "relatedCollocates": [
           "necessary skills",
           "the wrong skills",
@@ -2030,13 +2030,13 @@
       "targetLexeme": "a dangerous infection",
       "sourceContext": "Q14: ...resist a dangerous infection",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'infection' (sự lây nhiễm) 'dangerous' (nguy hiểm)."
+        "contextualGuessVI": "Một 'infection' (sự lây nhiễm) 'dangerous' (nguy hiểm)"
       },
       "phase2Annotation": {
         "phonetic": "/ə ˈdeɪndʒərəs ɪnˈfekʃən/",
         "sentiment": "negative",
-        "definitionEN": "A paraphrase for 'a common disease that can devastate yields'.",
-        "translationVI": "Paraphrase cho: 'một căn bệnh phổ biến có thể tàn phá năng suất'.",
+        "definitionEN": "A paraphrase for 'a common disease that can devastate yields'",
+        "translationVI": "Paraphrase cho: 'một căn bệnh phổ biến có thể tàn phá năng suất'",
         "relatedCollocates": [
           "a common disease",
           "devastate yields",
@@ -2053,13 +2053,13 @@
       "targetLexeme": "focusing only on a certain type",
       "sourceContext": "Q15: ...problems can arise from focusing only on a certain type...",
       "phase1Inference": {
-        "contextualGuessVI": "'Tập trung chỉ vào' (focusing only on) một 'type' (loại) nhất định."
+        "contextualGuessVI": "'Tập trung chỉ vào' (focusing only on) một 'type' (loại) nhất định"
       },
       "phase2Annotation": {
         "phonetic": "/ˈfəʊkəsɪŋ ˈəʊnli ɒn ə ˈsɜːtn taɪp/",
         "sentiment": "negative",
-        "definitionEN": "A paraphrase for 'selecting' or 'taking a single plant'.",
-        "translationVI": "Paraphrase cho: 'selecting' (chọn lọc) hoặc 'taking a single plant' (lấy một cây duy nhất).",
+        "definitionEN": "A paraphrase for 'selecting' or 'taking a single plant'",
+        "translationVI": "Paraphrase cho: 'selecting' (chọn lọc) hoặc 'taking a single plant' (lấy một cây duy nhất)",
         "relatedCollocates": [
           "selecting",
           "a single plant... is taken",
@@ -2077,13 +2077,13 @@
       "targetLexeme": "not cultivated at present",
       "sourceContext": "Q16: ...plants that are not cultivated at present but could be useful...",
       "phase1Inference": {
-        "contextualGuessVI": "'Không được trồng trọt' (not cultivated) 'hiện tại' (at present)."
+        "contextualGuessVI": "'Không được trồng trọt' (not cultivated) 'hiện tại' (at present)"
       },
       "phase2Annotation": {
         "phonetic": "/nɒt ˈkʌltɪveɪtɪd æt ˈpreznt/",
         "sentiment": "neutral",
-        "definitionEN": "A paraphrase for 'obscure plants' (implying they are not widely used).",
-        "translationVI": "Paraphrase cho: 'obscure plants' (các loài cây ít được biết đến, ngụ ý là không được trồng).",
+        "definitionEN": "A paraphrase for 'obscure plants' (implying they are not widely used)",
+        "translationVI": "Paraphrase cho: 'obscure plants' (các loài cây ít được biết đến, ngụ ý là không được trồng)",
         "relatedCollocates": [
           "obscure plants",
           "50,000 edible plants... [only] 15 crops",
@@ -2100,13 +2100,13 @@
       "targetLexeme": "early domestication... and more recent research",
       "sourceContext": "Q17: a comparison between the early domestication... and more recent research",
       "phase1Inference": {
-        "contextualGuessVI": "So sánh giữa 'early' (sớm/trước đây) và 'recent' (gần đây)."
+        "contextualGuessVI": "So sánh giữa 'early' (sớm/trước đây) và 'recent' (gần đây)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈɜːli dəˌmestɪˈkeɪʃən ænd mɔː ˈriːsnt rɪˈsɜːtʃ/",
         "sentiment": "neutral",
-        "definitionEN": "A paraphrase for 'historical domestication' (early) and 'newly domesticated' (recent).",
-        "translationVI": "Paraphrase cho: 'historical domestication' (sớm) và 'newly domesticated' (gần đây).",
+        "definitionEN": "A paraphrase for 'historical domestication' (early) and 'newly domesticated' (recent)",
+        "translationVI": "Paraphrase cho: 'historical domestication' (sớm) và 'newly domesticated' (gần đây)",
         "relatedCollocates": [
           "historical domestication",
           "newly domesticated one",
@@ -2124,13 +2124,13 @@
       "targetLexeme": "a personal reaction to the flavour",
       "sourceContext": "Q18: a personal reaction to the flavour...",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'reaction' (phản ứng) 'cá nhân' (personal) về 'flavour' (hương vị)."
+        "contextualGuessVI": "Một 'reaction' (phản ứng) 'cá nhân' (personal) về 'flavour' (hương vị)"
       },
       "phase2Annotation": {
         "phonetic": "/ə ˈpɜːsənl riˈækʃən tə ðə ˈfleɪvə/",
         "sentiment": "neutral",
-        "definitionEN": "A key phrase pointing to a direct, subjective quote about taste.",
-        "translationVI": "Cụm từ chỉ điểm cho một trích dẫn trực tiếp, chủ quan về hương vị.",
+        "definitionEN": "A key phrase pointing to a direct, subjective quote about taste",
+        "translationVI": "Cụm từ chỉ điểm cho một trích dẫn trực tiếp, chủ quan về hương vị",
         "relatedCollocates": [
           "'They are quite tasty,'",
           "'A little bit strong.'",
@@ -2147,13 +2147,13 @@
       "targetLexeme": "future environmental challenges",
       "sourceContext": "Q19: (Gao) ...adapt to future environmental challenges.",
       "phase1Inference": {
-        "contextualGuessVI": "'Thách thức môi trường' (environmental challenges) 'tương lai' (future)."
+        "contextualGuessVI": "'Thách thức môi trường' (environmental challenges) 'tương lai' (future)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈfjuːtʃər ɪnˌvaɪrənˈmentl ˈtʃælɪndʒɪz/",
         "sentiment": "negative",
-        "definitionEN": "A paraphrase for specific examples like 'drought or heat tolerant' and 'as the planet warms'.",
-        "translationVI": "Paraphrase cho các ví dụ cụ thể: 'chịu hạn/nhiệt' (drought or heat tolerant) và 'khi hành tinh ấm lên' (as the planet warms).",
+        "definitionEN": "A paraphrase for specific examples like 'drought or heat tolerant' and 'as the planet warms'",
+        "translationVI": "Paraphrase cho các ví dụ cụ thể: 'chịu hạn/nhiệt' (drought or heat tolerant) và 'khi hành tinh ấm lên' (as the planet warms)",
         "relatedCollocates": ["drought or heat tolerant", "as the planet warms"]
       },
       "phase3Production": {
@@ -2166,13 +2166,13 @@
       "targetLexeme": "not be accepted on a large scale",
       "sourceContext": "Q20: (Jones) ...unusual foods may not be accepted on a large scale.",
       "phase1Inference": {
-        "contextualGuessVI": "'Không được chấp nhận' (not accepted) 'trên quy mô lớn' (on a large scale)."
+        "contextualGuessVI": "'Không được chấp nhận' (not accepted) 'trên quy mô lớn' (on a large scale)"
       },
       "phase2Annotation": {
         "phonetic": "/nɒt bi əkˈseptɪd ɒn ə lɑːdʒ skeɪl/",
         "sentiment": "negative",
-        "definitionEN": "A paraphrase for 'hard for new foods to grow so popular with farmers and consumers'.",
-        "translationVI": "Paraphrase cho: 'khó cho thực phẩm mới trở nên phổ biến với nông dân và người tiêu dùng'.",
+        "definitionEN": "A paraphrase for 'hard for new foods to grow so popular with farmers and consumers'",
+        "translationVI": "Paraphrase cho: 'khó cho thực phẩm mới trở nên phổ biến với nông dân và người tiêu dùng'",
         "relatedCollocates": [
           "hard for new foods",
           "grow so popular",
@@ -2189,13 +2189,13 @@
       "targetLexeme": "not... be made public",
       "sourceContext": "Q21: (Kudla) ...not advisable for the future direction... to be made public.",
       "phase1Inference": {
-        "contextualGuessVI": "'Không được công khai' (not made public)."
+        "contextualGuessVI": "'Không được công khai' (not made public)"
       },
       "phase2Annotation": {
         "phonetic": "/nɒt bi meɪd ˈpʌblɪk/",
         "sentiment": "neutral",
-        "definitionEN": "A paraphrase for 'didn't want to reveal'.",
-        "translationVI": "Paraphrase cho: 'không muốn tiết lộ' (didn't want to reveal).",
+        "definitionEN": "A paraphrase for 'didn't want to reveal'",
+        "translationVI": "Paraphrase cho: 'không muốn tiết lộ' (didn't want to reveal)",
         "relatedCollocates": ["didn't want to reveal", "in his team's sights"]
       },
       "phase3Production": {
@@ -2208,13 +2208,13 @@
       "targetLexeme": "limited by the costs involved",
       "sourceContext": "Q22: (Van Eck) Present efforts... are limited by the costs involved.",
       "phase1Inference": {
-        "contextualGuessVI": "Bị 'limited' (giới hạn) 'bởi chi phí' (by the costs)."
+        "contextualGuessVI": "Bị 'limited' (giới hạn) 'bởi chi phí' (by the costs)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈlɪmɪtɪd baɪ ðə kɒsts ɪnˈvɒlvd/",
         "sentiment": "negative",
-        "definitionEN": "A paraphrase for 'would be expensive because of the need to pay for...'",
-        "translationVI": "Paraphrase cho: 'sẽ đắt đỏ bởi vì cần phải trả tiền cho...'."
+        "definitionEN": "A paraphrase for 'would be expensive because of the need to pay for...",
+        "translationVI": "Paraphrase cho: 'sẽ đắt đỏ bởi vì cần phải trả tiền cho...."
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
@@ -2226,13 +2226,13 @@
       "targetLexeme": "a small proportion",
       "sourceContext": "Q23: (Kudla) Humans only make use of a small proportion of the plant food available...",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'small proportion' (tỷ lệ/phần nhỏ)."
+        "contextualGuessVI": "Một 'small proportion' (tỷ lệ/phần nhỏ)"
       },
       "phase2Annotation": {
         "phonetic": "/ə smɔːl prəˈpɔːʃən/",
         "sentiment": "neutral",
-        "definitionEN": "A conceptual paraphrase for the comparison between '15 crops' and '50,000 edible plants'.",
-        "translationVI": "Paraphrase mang tính suy luận: sự so sánh giữa '15 cây trồng' và '50,000 cây ăn được'.",
+        "definitionEN": "A conceptual paraphrase for the comparison between '15 crops' and '50,000 edible plants'",
+        "translationVI": "Paraphrase mang tính suy luận: sự so sánh giữa '15 cây trồng' và '50,000 cây ăn được'",
         "relatedCollocates": ["50,000 edible plants", "just 15 crops"]
       },
       "phase3Production": {
@@ -2245,13 +2245,13 @@
       "targetLexeme": "loss of ...",
       "sourceContext": "Q24: An undesirable trait such as loss of ... may be caused by a mutation...",
       "phase1Inference": {
-        "contextualGuessVI": "'Mất đi' (loss of) cái gì đó."
+        "contextualGuessVI": "'Mất đi' (loss of) cái gì đó"
       },
       "phase2Annotation": {
         "phonetic": "/lɒs əv/",
         "sentiment": "negative",
-        "definitionEN": "A nominalization (noun form) of the verb phrase 'lost... their...'",
-        "translationVI": "Danh từ hóa của cụm động từ 'lost... their...'",
+        "definitionEN": "A nominalization (noun form) of the verb phrase 'lost... their...",
+        "translationVI": "Danh từ hóa của cụm động từ 'lost... their...",
         "relatedCollocates": [
           "lost much of their modern flavour",
           "less desirable traits"
@@ -2267,13 +2267,13 @@
       "targetLexeme": "three times its original ...",
       "sourceContext": "Q25: ...researchers made the tomato three times its original ...",
       "phase1Inference": {
-        "contextualGuessVI": "'Gấp ba lần' (three times) '... ban đầu' (original) của nó."
+        "contextualGuessVI": "'Gấp ba lần' (three times) '... ban đầu' (original) của nó"
       },
       "phase2Annotation": {
         "phonetic": "/θriː taɪmz ɪts əˈrɪdʒənl/",
         "sentiment": "neutral",
-        "definitionEN": "A paraphrase for the verb 'tripled the...'",
-        "translationVI": "Paraphrase cho động từ 'tripled the...'",
+        "definitionEN": "A paraphrase for the verb 'tripled the...",
+        "translationVI": "Paraphrase cho động từ 'tripled the...",
         "relatedCollocates": ["tripled the size"]
       },
       "phase3Production": {
@@ -2286,13 +2286,13 @@
       "targetLexeme": "not badly affected by ...",
       "sourceContext": "Q26: A type of tomato which was not badly affected by ... and was rich in vitamin C...",
       "phase1Inference": {
-        "contextualGuessVI": "'Không bị ảnh hưởng nặng' (not badly affected by) bởi..."
+        "contextualGuessVI": "'Không bị ảnh hưởng nặng' (not badly affected by) bởi.."
       },
       "phase2Annotation": {
         "phonetic": "/nɒt ˈbædli əˈfektɪd baɪ/",
         "sentiment": "positive",
-        "definitionEN": "A paraphrase for the adjective 'resistant to...'",
-        "translationVI": "Paraphrase cho tính từ 'resistant to...'",
+        "definitionEN": "A paraphrase for the adjective 'resistant to...",
+        "translationVI": "Paraphrase cho tính từ 'resistant to...",
         "relatedCollocates": ["resistant to a common disease"]
       },
       "phase3Production": {

@@ -8,13 +8,13 @@
       "targetLexeme": "extinct (adj)",
       "sourceContext": "The extinct thylacine, also known as the Tasmanian Tiger...",
       "phase1Inference": {
-        "contextualGuessVI": "Đã 'extinct' (tuyệt chủng)."
+        "contextualGuessVI": "Đã 'extinct' (tuyệt chủng)"
       },
       "phase2Annotation": {
         "phonetic": "/ɪkˈstɪŋkt/",
         "sentiment": "negative",
-        "definitionEN": "No longer existing; having died out.",
-        "translationVI": "Tuyệt chủng.",
+        "definitionEN": "No longer existing; having died out",
+        "translationVI": "Tuyệt chủng",
         "relatedCollocates": [
           "an extinct (species)",
           "become extinct",
@@ -35,13 +35,13 @@
       "targetLexeme": "marsupial (n)",
       "sourceContext": "...was a marsupial* that bore a superficial resemblance to a dog.",
       "phase1Inference": {
-        "contextualGuessVI": "Một loài 'marsupial' (thú có túi) giống như kangaroo hoặc koala."
+        "contextualGuessVI": "Một loài 'marsupial' (thú có túi) giống như kangaroo hoặc koala"
       },
       "phase2Annotation": {
         "phonetic": "/mɑːˈsuːpiəl/",
         "sentiment": "neutral",
-        "definitionEN": "A type of mammal, such as a kangaroo or koala, whose young are born underdeveloped and are carried in a pouch on the mother's belly.",
-        "translationVI": "Thú có túi (như kangaroo).",
+        "definitionEN": "A type of mammal, such as a kangaroo or koala, whose young are born underdeveloped and are carried in a pouch on the mother's belly",
+        "translationVI": "Thú có túi (như kangaroo)",
         "relatedCollocates": ["pouch (n)", "newborns (n)", "teats (n)"],
         "wordForms": {
           "noun": [{ "form": "marsupial", "meaning": "thú có túi" }]
@@ -57,13 +57,13 @@
       "targetLexeme": "bore a superficial resemblance to",
       "sourceContext": "...bore a superficial resemblance to a dog.",
       "phase1Inference": {
-        "contextualGuessVI": "'Bore' (mang) 'resemblance' (sự giống) 'superficial' (bề ngoài) 'to' (với) con chó."
+        "contextualGuessVI": "'Bore' (mang) 'resemblance' (sự giống) 'superficial' (bề ngoài) 'to' (với) con chó"
       },
       "phase2Annotation": {
         "phonetic": "/bɔːr ə ˌsuːpəˈfɪʃl rɪˈzembləns tuː/",
         "sentiment": "neutral",
-        "definitionEN": "To look similar to something on the surface, but not in a deep or fundamental way. (Past tense of 'bear a resemblance').",
-        "translationVI": "Trông giống (cái gì) một cách hời hợt/bề ngoài.",
+        "definitionEN": "To look similar to something on the surface, but not in a deep or fundamental way. (Past tense of 'bear a resemblance')",
+        "translationVI": "Trông giống (cái gì) một cách hời hợt/bề ngoài",
         "relatedCollocates": [
           "bear a resemblance to",
           "look similar to",
@@ -85,13 +85,13 @@
       "targetLexeme": "distinguishing feature",
       "sourceContext": "Its most distinguishing feature was the 13–19 dark brown stripes...",
       "phase1Inference": {
-        "contextualGuessVI": "'Feature' (đặc điểm) 'distinguishing' (phân biệt, nổi bật)."
+        "contextualGuessVI": "'Feature' (đặc điểm) 'distinguishing' (phân biệt, nổi bật)"
       },
       "phase2Annotation": {
         "phonetic": "/dɪˈstɪŋɡwɪʃɪŋ ˈfiːtʃə/",
         "sentiment": "neutral",
-        "definitionEN": "A characteristic that makes something clearly different from others of its type.",
-        "translationVI": "Đặc điểm phân biệt/đặc trưng.",
+        "definitionEN": "A characteristic that makes something clearly different from others of its type",
+        "translationVI": "Đặc điểm phân biệt/đặc trưng",
         "relatedCollocates": [
           "a key feature",
           "a unique characteristic",
@@ -113,13 +113,13 @@
       "targetLexeme": "extending onto (the tail)",
       "sourceContext": "...beginning at the rear of the body and extending onto the tail.",
       "phase1Inference": {
-        "contextualGuessVI": "Kéo dài 'onto' (lên trên) cái đuôi."
+        "contextualGuessVI": "Kéo dài 'onto' (lên trên) cái đuôi"
       },
       "phase2Annotation": {
         "phonetic": "/ɪkˈstendɪŋ ˈɒntuː/",
         "sentiment": "neutral",
-        "definitionEN": "To stretch out or continue over a surface (like the tail).",
-        "translationVI": "Kéo dài/lan ra (lên trên đuôi).",
+        "definitionEN": "To stretch out or continue over a surface (like the tail)",
+        "translationVI": "Kéo dài/lan ra (lên trên đuôi)",
         "relatedCollocates": ["extend (from A to B)", "stretch (onto)"],
         "wordForms": {
           "noun": [{ "form": "extension", "meaning": "sự kéo dài" }],
@@ -136,13 +136,13 @@
       "targetLexeme": "occupy most types of terrain",
       "sourceContext": "The thylacine appeared to occupy most types of terrain...",
       "phase1Inference": {
-        "contextualGuessVI": "'Occupy' (chiếm, sinh sống) ở hầu hết 'types of terrain' (loại địa hình)."
+        "contextualGuessVI": "'Occupy' (chiếm, sinh sống) ở hầu hết 'types of terrain' (loại địa hình)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈɒkjupaɪ məʊst taɪps əv təˈreɪn/",
         "sentiment": "neutral",
-        "definitionEN": "To live in or be found across many different kinds of natural land (e.g., forest, desert, mountain).",
-        "translationVI": "Sinh sống ở/chiếm hầu hết các loại địa hình.",
+        "definitionEN": "To live in or be found across many different kinds of natural land (e.g., forest, desert, mountain)",
+        "translationVI": "Sinh sống ở/chiếm hầu hết các loại địa hình",
         "relatedCollocates": [
           "inhabit (synonym)",
           "types of habitat",
@@ -163,13 +163,13 @@
       "targetLexeme": "prime habitat",
       "sourceContext": "...with open eucalyptus forest thought to be its prime habitat.",
       "phase1Inference": {
-        "contextualGuessVI": "'Habitat' (môi trường sống) 'prime' (chính, chủ yếu, tốt nhất)."
+        "contextualGuessVI": "'Habitat' (môi trường sống) 'prime' (chính, chủ yếu, tốt nhất)"
       },
       "phase2Annotation": {
         "phonetic": "/praɪm ˈhæbɪtæt/",
         "sentiment": "positive",
-        "definitionEN": "The main or most suitable natural environment for an animal or plant.",
-        "translationVI": "Môi trường sống chính/lý tưởng.",
+        "definitionEN": "The main or most suitable natural environment for an animal or plant",
+        "translationVI": "Môi trường sống chính/lý tưởng",
         "relatedCollocates": [
           "main habitat",
           "natural habitat",
@@ -190,13 +190,13 @@
       "targetLexeme": "exclusively carnivorous",
       "sourceContext": "...it was exclusively carnivorous, and its stomach was muscular...",
       "phase1Inference": {
-        "contextualGuessVI": "'Carnivorous' (ăn thịt) 'exclusively' (một cách duy nhất, hoàn toàn)."
+        "contextualGuessVI": "'Carnivorous' (ăn thịt) 'exclusively' (một cách duy nhất, hoàn toàn)"
       },
       "phase2Annotation": {
         "phonetic": "/ɪkˈskluːsɪvli kɑːˈnɪvərəs/",
         "sentiment": "neutral",
-        "definitionEN": "Eating only meat and no plants at all.",
-        "translationVI": "(Là loài) ăn thịt độc quyền/hoàn toàn.",
+        "definitionEN": "Eating only meat and no plants at all",
+        "translationVI": "(Là loài) ăn thịt độc quyền/hoàn toàn",
         "relatedCollocates": [
           "herbivorous (antonym)",
           "omnivorous (related)",
@@ -223,13 +223,13 @@
       "targetLexeme": "ability to distend",
       "sourceContext": "...its stomach was muscular with an ability to distend so that it could eat large amounts...",
       "phase1Inference": {
-        "contextualGuessVI": "Dạ dày có 'ability' (khả năng) 'to distend' (giãn ra, phình ra)."
+        "contextualGuessVI": "Dạ dày có 'ability' (khả năng) 'to distend' (giãn ra, phình ra)"
       },
       "phase2Annotation": {
         "phonetic": "/əˈbɪləti tə dɪˈstend/",
         "sentiment": "neutral",
-        "definitionEN": "The capacity (of an organ, like the stomach) to swell out or expand by pressure from within.",
-        "translationVI": "Khả năng giãn/phình ra.",
+        "definitionEN": "The capacity (of an organ, like the stomach) to swell out or expand by pressure from within",
+        "translationVI": "Khả năng giãn/phình ra",
         "relatedCollocates": [
           "expand (synonym)",
           "swell (synonym)",
@@ -253,13 +253,13 @@
       "targetLexeme": "compensate for",
       "sourceContext": "...an adaptation to compensate for long periods when hunting was unsuccessful...",
       "phase1Inference": {
-        "contextualGuessVI": "Một sự thích nghi để 'compensate for' (bù đắp cho) những giai đoạn."
+        "contextualGuessVI": "Một sự thích nghi để 'compensate for' (bù đắp cho) những giai đoạn"
       },
       "phase2Annotation": {
         "phonetic": "/ˈkɒmpenseɪt fɔː/",
         "sentiment": "neutral",
-        "definitionEN": "To provide something good or useful to balance or reduce the bad effects of something (e.g., lack of food).",
-        "translationVI": "Bù đắp/đền bù cho.",
+        "definitionEN": "To provide something good or useful to balance or reduce the bad effects of something (e.g., lack of food)",
+        "translationVI": "Bù đắp/đền bù cho",
         "relatedCollocates": [
           "compensate for (a loss)",
           "make up for (synonym)",
@@ -280,13 +280,13 @@
       "targetLexeme": "food (was) scarce",
       "sourceContext": "...and food scarce.",
       "phase1Inference": {
-        "contextualGuessVI": "Thức ăn 'scarce' (khan hiếm)."
+        "contextualGuessVI": "Thức ăn 'scarce' (khan hiếm)"
       },
       "phase2Annotation": {
         "phonetic": "/fuːd skeəs/",
         "sentiment": "negative",
-        "definitionEN": "When there is very little food available; food is difficult to find.",
-        "translationVI": "Thức ăn khan hiếm.",
+        "definitionEN": "When there is very little food available; food is difficult to find",
+        "translationVI": "Thức ăn khan hiếm",
         "relatedCollocates": [
           "food scarcity (n)",
           "food shortage",
@@ -307,13 +307,13 @@
       "targetLexeme": "caught its prey",
       "sourceContext": "The thylacine was not a fast runner and probably caught its prey by exhausting it...",
       "phase1Inference": {
-        "contextualGuessVI": "'Caught' (bắt) 'its prey' (con mồi của nó)."
+        "contextualGuessVI": "'Caught' (bắt) 'its prey' (con mồi của nó)"
       },
       "phase2Annotation": {
         "phonetic": "/kɔːt ɪts preɪ/",
         "sentiment": "neutral",
-        "definitionEN": "To capture an animal that is hunted and killed for food. (Past tense of 'catch prey').",
-        "translationVI": "Bắt con mồi.",
+        "definitionEN": "To capture an animal that is hunted and killed for food. (Past tense of 'catch prey')",
+        "translationVI": "Bắt con mồi",
         "relatedCollocates": [
           "hunt (prey)",
           "stalk (prey)",
@@ -334,13 +334,13 @@
       "targetLexeme": "a long pursuit",
       "sourceContext": "...by exhausting it during a long pursuit.",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'pursuit' (cuộc rượt đuổi) 'long' (dài)."
+        "contextualGuessVI": "Một 'pursuit' (cuộc rượt đuổi) 'long' (dài)"
       },
       "phase2Annotation": {
         "phonetic": "/ə lɒŋ pəˈsjuːt/",
         "sentiment": "neutral",
-        "definitionEN": "The act of chasing or following something for an extended period of time.",
-        "translationVI": "Một cuộc rượt đuổi/truy đuổi kéo dài.",
+        "definitionEN": "The act of chasing or following something for an extended period of time",
+        "translationVI": "Một cuộc rượt đuổi/truy đuổi kéo dài",
         "relatedCollocates": [
           "a police pursuit",
           "in pursuit of",
@@ -361,13 +361,13 @@
       "targetLexeme": "relied more on scent",
       "sourceContext": "...thylacines were likely to have relied more on scent...",
       "phase1Inference": {
-        "contextualGuessVI": "'Relied more on' (phụ thuộc nhiều hơn vào) 'scent' (mùi hương, khứu giác)."
+        "contextualGuessVI": "'Relied more on' (phụ thuộc nhiều hơn vào) 'scent' (mùi hương, khứu giác)"
       },
       "phase2Annotation": {
         "phonetic": "/rɪˈlaɪd mɔːr ɒn sent/",
         "sentiment": "neutral",
-        "definitionEN": "To depend more on the sense of smell (than other senses, like sight).",
-        "translationVI": "Dựa nhiều hơn vào khứu giác/đánh hơi.",
+        "definitionEN": "To depend more on the sense of smell (than other senses, like sight)",
+        "translationVI": "Dựa nhiều hơn vào khứu giác/đánh hơi",
         "relatedCollocates": [
           "rely on (v)",
           "sense of smell (synonym)",
@@ -388,13 +388,13 @@
       "targetLexeme": "tended to retreat to",
       "sourceContext": "...tended to retreat to the hills and forest for shelter...",
       "phase1Inference": {
-        "contextualGuessVI": "'Tended to' (có xu hướng) 'retreat to' (lui về) đồi và rừng."
+        "contextualGuessVI": "'Tended to' (có xu hướng) 'retreat to' (lui về) đồi và rừng"
       },
       "phase2Annotation": {
         "phonetic": "/ˈtendɪd tə rɪˈtriːt tuː/",
         "sentiment": "neutral",
-        "definitionEN": "Usually moved back or withdrew to a safe, quiet, or protected place.",
-        "translationVI": "Có xu hướng lui về/rút về.",
+        "definitionEN": "Usually moved back or withdrew to a safe, quiet, or protected place",
+        "translationVI": "Có xu hướng lui về/rút về",
         "relatedCollocates": [
           "tend to (do sth)",
           "retreat (to safety)",
@@ -418,13 +418,13 @@
       "targetLexeme": "shy, nervous temperament",
       "sourceContext": "...the thylacine had a shy, nervous temperament.",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'temperament' (tính khí) 'shy' (nhút nhát) và 'nervous' (hay lo lắng)."
+        "contextualGuessVI": "Một 'temperament' (tính khí) 'shy' (nhút nhát) và 'nervous' (hay lo lắng)"
       },
       "phase2Annotation": {
         "phonetic": "/ʃaɪ, ˈnɜːvəs ˈtempərəmənt/",
         "sentiment": "negative",
-        "definitionEN": "The natural character or personality of a person or animal, indicating they are easily frightened or worried.",
-        "translationVI": "Tính khí nhút nhát, hay lo lắng.",
+        "definitionEN": "The natural character or personality of a person or animal, indicating they are easily frightened or worried",
+        "translationVI": "Tính khí nhút nhát, hay lo lắng",
         "relatedCollocates": [
           "a gentle temperament",
           "a personality (synonym)",
@@ -448,13 +448,13 @@
       "targetLexeme": "mainly nocturnal",
       "sourceContext": "Although mainly nocturnal, it was sighted moving during the day...",
       "phase1Inference": {
-        "contextualGuessVI": "Chủ yếu (mainly) 'nocturnal' (hoạt động về đêm)."
+        "contextualGuessVI": "Chủ yếu (mainly) 'nocturnal' (hoạt động về đêm)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈmeɪnli nɒkˈtɜːnl/",
         "sentiment": "neutral",
-        "definitionEN": "Primarily active at night rather than during the day.",
-        "translationVI": "Chủ yếu hoạt động về đêm.",
+        "definitionEN": "Primarily active at night rather than during the day",
+        "translationVI": "Chủ yếu hoạt động về đêm",
         "relatedCollocates": [
           "diurnal (antonym - active in day)",
           "active at night"
@@ -477,13 +477,13 @@
       "targetLexeme": "(be) sighted moving",
       "sourceContext": "...it was sighted moving during the day...",
       "phase1Inference": {
-        "contextualGuessVI": "Nó 'was sighted' (được nhìn thấy) đang di chuyển."
+        "contextualGuessVI": "Nó 'was sighted' (được nhìn thấy) đang di chuyển"
       },
       "phase2Annotation": {
         "phonetic": "/bi ˈsaɪtɪd ˈmuːvɪŋ/",
         "sentiment": "neutral",
-        "definitionEN": "Was seen or observed moving (used for rare or difficult-to-see things).",
-        "translationVI": "Bị/được bắt gặp/nhìn thấy đang di chuyển.",
+        "definitionEN": "Was seen or observed moving (used for rare or difficult-to-see things)",
+        "translationVI": "Bị/được bắt gặp/nhìn thấy đang di chuyển",
         "relatedCollocates": [
           "a rare sighting (n)",
           "was seen (synonym)",
@@ -504,13 +504,13 @@
       "targetLexeme": "basking in the sun",
       "sourceContext": "...and some individuals were even recorded basking in the sun.",
       "phase1Inference": {
-        "contextualGuessVI": "Được ghi nhận là 'basking' (phơi mình) 'in the sun' (dưới nắng)."
+        "contextualGuessVI": "Được ghi nhận là 'basking' (phơi mình) 'in the sun' (dưới nắng)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈbɑːskɪŋ ɪn ðə sʌn/",
         "sentiment": "positive",
-        "definitionEN": "To lie or sit in a place enjoying the warmth, especially from the sun.",
-        "translationVI": "Phơi nắng, sưởi nắng.",
+        "definitionEN": "To lie or sit in a place enjoying the warmth, especially from the sun",
+        "translationVI": "Phơi nắng, sưởi nắng",
         "relatedCollocates": ["bask in (the glory)", "soak up (the sun)"],
         "wordForms": {
           "verb": [{ "form": "bask", "meaning": "phơi nắng" }]
@@ -526,13 +526,13 @@
       "targetLexeme": "extended breeding season",
       "sourceContext": "The thylacine had an extended breeding season from winter to spring...",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'breeding season' (mùa sinh sản) 'extended' (kéo dài)."
+        "contextualGuessVI": "Một 'breeding season' (mùa sinh sản) 'extended' (kéo dài)"
       },
       "phase2Annotation": {
         "phonetic": "/ɪkˈstendɪd ˈbriːdɪŋ ˈsiːzən/",
         "sentiment": "neutral",
-        "definitionEN": "A period of time for animal reproduction that lasts longer than is typical.",
-        "translationVI": "Mùa sinh sản kéo dài.",
+        "definitionEN": "A period of time for animal reproduction that lasts longer than is typical",
+        "translationVI": "Mùa sinh sản kéo dài",
         "relatedCollocates": ["breeding (n)", "season (n)", "a long (season)"],
         "wordForms": {
           "noun": [
@@ -553,13 +553,13 @@
       "targetLexeme": "hairless (adj)",
       "sourceContext": "...the thylacine, like all marsupials, was tiny and hairless when born.",
       "phase1Inference": {
-        "contextualGuessVI": "Nhỏ và 'hairless' (không có lông)."
+        "contextualGuessVI": "Nhỏ và 'hairless' (không có lông)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈheələs/",
         "sentiment": "neutral",
-        "definitionEN": "Having no hair on the body.",
-        "translationVI": "Không có lông, trần trụi.",
+        "definitionEN": "Having no hair on the body",
+        "translationVI": "Không có lông, trần trụi",
         "relatedCollocates": ["tiny (adj)", "newborns (n)"],
         "wordForms": {
           "noun": [{ "form": "hair", "meaning": "lông" }],
@@ -576,13 +576,13 @@
       "targetLexeme": "crawled into the pouch",
       "sourceContext": "Newborns crawled into the pouch on the belly of their mother...",
       "phase1Inference": {
-        "contextualGuessVI": "(Con non) 'crawled' (bò) 'into' (vào) 'the pouch' (cái túi)."
+        "contextualGuessVI": "(Con non) 'crawled' (bò) 'into' (vào) 'the pouch' (cái túi)"
       },
       "phase2Annotation": {
         "phonetic": "/krɔːld ˈɪntuː ðə paʊtʃ/",
         "sentiment": "neutral",
-        "definitionEN": "To move slowly on hands and knees (or by dragging the body) into the external pocket of skin on a marsupial mother.",
-        "translationVI": "Bò vào túi (của thú mẹ).",
+        "definitionEN": "To move slowly on hands and knees (or by dragging the body) into the external pocket of skin on a marsupial mother",
+        "translationVI": "Bò vào túi (của thú mẹ)",
         "relatedCollocates": ["marsupial (n)", "belly (n)"],
         "wordForms": {
           "noun": [{ "form": "pouch", "meaning": "cái túi" }],
@@ -599,13 +599,13 @@
       "targetLexeme": "teats (n)",
       "sourceContext": "...and attached themselves to one of the four teats...",
       "phase1Inference": {
-        "contextualGuessVI": "Bám vào một trong bốn 'teats' (vú) để bú."
+        "contextualGuessVI": "Bám vào một trong bốn 'teats' (vú) để bú"
       },
       "phase2Annotation": {
         "phonetic": "/tiːts/",
         "sentiment": "neutral",
-        "definitionEN": "The small, protruding parts on a female mammal's underside through which milk passes to the young; nipples.",
-        "translationVI": "Vú (của động vật có vú cái).",
+        "definitionEN": "The small, protruding parts on a female mammal's underside through which milk passes to the young; nipples",
+        "translationVI": "Vú (của động vật có vú cái)",
         "relatedCollocates": ["attach (to)", "pouch (n)", "mother (n)"],
         "wordForms": {
           "noun": [{ "form": "teat", "meaning": "vú" }]
@@ -621,13 +621,13 @@
       "targetLexeme": "stayed in a lair",
       "sourceContext": "...the young stayed in a lair such as a deep rocky cave...",
       "phase1Inference": {
-        "contextualGuessVI": "Con non 'stayed in' (ở trong) 'a lair' (cái hang)."
+        "contextualGuessVI": "Con non 'stayed in' (ở trong) 'a lair' (cái hang)"
       },
       "phase2Annotation": {
         "phonetic": "/steɪd ɪn ə leə/",
         "sentiment": "neutral",
-        "definitionEN": "To remain in a wild animal's resting or hiding place (e.g., a cave or den).",
-        "translationVI": "Ở trong hang/sào huyệt.",
+        "definitionEN": "To remain in a wild animal's resting or hiding place (e.g., a cave or den)",
+        "translationVI": "Ở trong hang/sào huyệt",
         "relatedCollocates": [
           "a den (synonym)",
           "a deep rocky cave",
@@ -648,13 +648,13 @@
       "targetLexeme": "hollow log",
       "sourceContext": "...well-hidden nest or hollow log...",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'log' (khúc gỗ) 'hollow' (bị rỗng)."
+        "contextualGuessVI": "Một 'log' (khúc gỗ) 'hollow' (bị rỗng)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈhɒləʊ lɒɡ/",
         "sentiment": "neutral",
-        "definitionEN": "A piece of a tree trunk that has fallen and is empty inside.",
-        "translationVI": "Khúc gỗ rỗng.",
+        "definitionEN": "A piece of a tree trunk that has fallen and is empty inside",
+        "translationVI": "Khúc gỗ rỗng",
         "relatedCollocates": ["a lair (example)", "well-hidden (adj)"],
         "wordForms": {
           "noun": [{ "form": "log", "meaning": "khúc gỗ" }],
@@ -671,13 +671,13 @@
       "targetLexeme": "whilst (conjunction)",
       "sourceContext": "...whilst the mother hunted.",
       "phase1Inference": {
-        "contextualGuessVI": "'Whilst' (trong khi) con mẹ đi săn."
+        "contextualGuessVI": "'Whilst' (trong khi) con mẹ đi săn"
       },
       "phase2Annotation": {
         "phonetic": "/waɪlst/",
         "sentiment": "neutral",
-        "definitionEN": "A conjunction meaning 'during the same time as'; 'while'. More common in British English.",
-        "translationVI": "Trong khi (đồng nghĩa với 'while').",
+        "definitionEN": "A conjunction meaning 'during the same time as'; 'while'. More common in British English",
+        "translationVI": "Trong khi (đồng nghĩa với 'while')",
         "relatedCollocates": ["while (synonym)", "during (preposition)"],
         "wordForms": {
           "conjunction": [{ "form": "whilst", "meaning": "trong khi" }]
@@ -693,13 +693,13 @@
       "targetLexeme": "widespread throughout",
       "sourceContext": "...the thylacine was widespread throughout New Guinea and most of mainland Australia...",
       "phase1Inference": {
-        "contextualGuessVI": "'Widespread' (phổ biến, lan rộng) 'throughout' (khắp) New Guinea."
+        "contextualGuessVI": "'Widespread' (phổ biến, lan rộng) 'throughout' (khắp) New Guinea"
       },
       "phase2Annotation": {
         "phonetic": "/ˈwaɪdspred θruːˈaʊt/",
         "sentiment": "neutral",
-        "definitionEN": "Existing or happening in many places; common across a large area.",
-        "translationVI": "Phổ biến/lan rộng khắp.",
+        "definitionEN": "Existing or happening in many places; common across a large area",
+        "translationVI": "Phổ biến/lan rộng khắp",
         "relatedCollocates": [
           "common (synonym)",
           "prevalent (synonym)",
@@ -721,13 +721,13 @@
       "targetLexeme": "mainland Australia",
       "sourceContext": "...and most of mainland Australia, as well as the island of Tasmania.",
       "phase1Inference": {
-        "contextualGuessVI": "Phần 'mainland' (lục địa) của Úc (trái ngược với đảo Tasmania)."
+        "contextualGuessVI": "Phần 'mainland' (lục địa) của Úc (trái ngược với đảo Tasmania)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈmeɪnlænd ɒˈstreɪliə/",
         "sentiment": "neutral",
-        "definitionEN": "The main landmass of the continent of Australia, excluding Tasmania and other islands.",
-        "translationVI": "Lục địa Úc.",
+        "definitionEN": "The main landmass of the continent of Australia, excluding Tasmania and other islands",
+        "translationVI": "Lục địa Úc",
         "relatedCollocates": [
           "the island of Tasmania (contrast)",
           "continent (n)"
@@ -746,13 +746,13 @@
       "targetLexeme": "well-dated occurrence",
       "sourceContext": "The most recent, well-dated occurrence of a thylacine on the mainland...",
       "phase1Inference": {
-        "contextualGuessVI": "'Occurrence' (sự xuất hiện) 'well-dated' (được xác định niên đại rõ ràng)."
+        "contextualGuessVI": "'Occurrence' (sự xuất hiện) 'well-dated' (được xác định niên đại rõ ràng)"
       },
       "phase2Annotation": {
         "phonetic": "/wel ˈdeɪtɪd əˈkʌrəns/",
         "sentiment": "positive",
-        "definitionEN": "An instance or event of something existing that has been accurately assigned a date (e.g., through carbon-dating).",
-        "translationVI": "Sự xuất hiện/tồn tại được xác định niên đại rõ ràng.",
+        "definitionEN": "An instance or event of something existing that has been accurately assigned a date (e.g., through carbon-dating)",
+        "translationVI": "Sự xuất hiện/tồn tại được xác định niên đại rõ ràng",
         "relatedCollocates": [
           "carbon-dated (example)",
           "a recent (occurrence)"
@@ -774,13 +774,13 @@
       "targetLexeme": "carbon-dated fossil",
       "sourceContext": "...is a carbon-dated fossil from Murray Cave in Western Australia...",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'fossil' (hóa thạch) 'carbon-dated' (được xác định niên đại bằng carbon)."
+        "contextualGuessVI": "Một 'fossil' (hóa thạch) 'carbon-dated' (được xác định niên đại bằng carbon)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈkɑːbən ˈdeɪtɪd ˈfɒsl/",
         "sentiment": "neutral",
-        "definitionEN": "The remains of an ancient organism whose age has been determined by measuring the amount of carbon-14 remaining in it.",
-        "translationVI": "Hóa thạch được xác định niên đại bằng carbon.",
+        "definitionEN": "The remains of an ancient organism whose age has been determined by measuring the amount of carbon-14 remaining in it",
+        "translationVI": "Hóa thạch được xác định niên đại bằng carbon",
         "relatedCollocates": [
           "well-dated (synonym)",
           "fossil (n)",
@@ -801,13 +801,13 @@
       "targetLexeme": "extinction coincided closely with",
       "sourceContext": "Its extinction coincided closely with the arrival of wild dogs...",
       "phase1Inference": {
-        "contextualGuessVI": "Sự 'extinction' (tuyệt chủng) 'coincided closely with' (trùng khớp/xảy ra gần như đồng thời với) sự xuất hiện của chó."
+        "contextualGuessVI": "Sự 'extinction' (tuyệt chủng) 'coincided closely with' (trùng khớp/xảy ra gần như đồng thời với) sự xuất hiện của chó"
       },
       "phase2Annotation": {
         "phonetic": "/ɪkˈstɪŋkʃən ˌkəʊɪnˈsaɪdɪd ˈkləʊsli wɪð/",
         "sentiment": "neutral",
-        "definitionEN": "The event of the species dying out happened at almost the exact same time as another event.",
-        "translationVI": "Sự tuyệt chủng trùng hợp/trùng khớp với.",
+        "definitionEN": "The event of the species dying out happened at almost the exact same time as another event",
+        "translationVI": "Sự tuyệt chủng trùng hợp/trùng khớp với",
         "relatedCollocates": [
           "coincide with (v)",
           "happen at the same time",
@@ -828,13 +828,13 @@
       "targetLexeme": "dingoes (n)",
       "sourceContext": "...called dingoes in Australia and a similar predator in New Guinea.",
       "phase1Inference": {
-        "contextualGuessVI": "Chó 'dingoes' (chó hoang dingo) ở Úc."
+        "contextualGuessVI": "Chó 'dingoes' (chó hoang dingo) ở Úc"
       },
       "phase2Annotation": {
         "phonetic": "/ˈdɪŋɡəʊz/",
         "sentiment": "neutral",
-        "definitionEN": "A type of wild dog found in Australia.",
-        "translationVI": "Chó hoang dingo.",
+        "definitionEN": "A type of wild dog found in Australia",
+        "translationVI": "Chó hoang dingo",
         "relatedCollocates": ["wild dogs (definition)", "predator (n)"],
         "wordForms": {
           "noun": [{ "form": "dingo", "meaning": "chó dingo" }]
@@ -850,13 +850,13 @@
       "targetLexeme": "predator (n)",
       "sourceContext": "...a similar predator in New Guinea.",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'predator' (động vật săn mồi) tương tự."
+        "contextualGuessVI": "Một 'predator' (động vật săn mồi) tương tự"
       },
       "phase2Annotation": {
         "phonetic": "/ˈpredətə/",
         "sentiment": "negative",
-        "definitionEN": "An animal that naturally preys on (hunts) others.",
-        "translationVI": "Động vật/thú săn mồi.",
+        "definitionEN": "An animal that naturally preys on (hunts) others",
+        "translationVI": "Động vật/thú săn mồi",
         "relatedCollocates": ["prey (antonym)", "an apex predator"],
         "wordForms": {
           "noun": [{ "form": "predator", "meaning": "thú săn mồi" }]
@@ -872,13 +872,13 @@
       "targetLexeme": "see this as the main reason for",
       "sourceContext": "...and most scientists see this as the main reason for the thylacine's survival there.",
       "phase1Inference": {
-        "contextualGuessVI": "Các nhà khoa học 'see this as' (xem đây là) 'the main reason for' (lý do chính cho) sự sống sót."
+        "contextualGuessVI": "Các nhà khoa học 'see this as' (xem đây là) 'the main reason for' (lý do chính cho) sự sống sót"
       },
       "phase2Annotation": {
         "phonetic": "/siː ðɪs æz ðə meɪn ˈriːzən fɔː/",
         "sentiment": "neutral",
-        "definitionEN": "To view or consider something as the primary cause of an outcome.",
-        "translationVI": "Xem đây là lý do chính cho.",
+        "definitionEN": "To view or consider something as the primary cause of an outcome",
+        "translationVI": "Xem đây là lý do chính cho",
         "relatedCollocates": ["consider this (to be)", "the primary cause of"],
         "wordForms": {
           "noun": [{ "form": "reason", "meaning": "lý do" }],
@@ -895,13 +895,13 @@
       "targetLexeme": "survival (n)",
       "sourceContext": "...the main reason for the thylacine's survival there.",
       "phase1Inference": {
-        "contextualGuessVI": "Lý do chính cho 'survival' (sự sống sót/tồn tại) của nó ở đó (Tasmania, vì dingo không đến được)."
+        "contextualGuessVI": "Lý do chính cho 'survival' (sự sống sót/tồn tại) của nó ở đó (Tasmania, vì dingo không đến được)"
       },
       "phase2Annotation": {
         "phonetic": "/səˈvaɪvl/",
         "sentiment": "positive",
-        "definitionEN": "The state of continuing to live or exist, often despite difficult conditions or danger.",
-        "translationVI": "Sự sống sót, sự tồn tại.",
+        "definitionEN": "The state of continuing to live or exist, often despite difficult conditions or danger",
+        "translationVI": "Sự sống sót, sự tồn tại",
         "relatedCollocates": [
           "survival rate",
           "struggle for survival",
@@ -925,13 +925,13 @@
       "targetLexeme": "dramatic decline",
       "sourceContext": "The dramatic decline of the thylacine in Tasmania...",
       "phase1Inference": {
-        "contextualGuessVI": "Sự 'decline' (suy giảm) 'dramatic' (nghiêm trọng, đột ngột)."
+        "contextualGuessVI": "Sự 'decline' (suy giảm) 'dramatic' (nghiêm trọng, đột ngột)"
       },
       "phase2Annotation": {
         "phonetic": "/drəˈmætɪk dɪˈklaɪn/",
         "sentiment": "negative",
-        "definitionEN": "A very large, sudden, and serious decrease in the number of something.",
-        "translationVI": "Sự sụt giảm nghiêm trọng/đột ngột.",
+        "definitionEN": "A very large, sudden, and serious decrease in the number of something",
+        "translationVI": "Sự sụt giảm nghiêm trọng/đột ngột",
         "relatedCollocates": [
           "a sharp decline",
           "a rapid decline",
@@ -953,13 +953,13 @@
       "targetLexeme": "(be) generally attributed to",
       "sourceContext": "...is generally attributed to the relentless efforts of sheep farmers...",
       "phase1Inference": {
-        "contextualGuessVI": "Thường 'attributed to' (được cho là do, quy cho là do) nỗ lực của nông dân."
+        "contextualGuessVI": "Thường 'attributed to' (được cho là do, quy cho là do) nỗ lực của nông dân"
       },
       "phase2Annotation": {
         "phonetic": "/bi ˈdʒenrəli əˈtrɪbjuːtɪd tuː/",
         "sentiment": "neutral",
-        "definitionEN": "To be usually thought of as being caused by a particular person, event, or situation.",
-        "translationVI": "Thường được cho là do/quy cho là do.",
+        "definitionEN": "To be usually thought of as being caused by a particular person, event, or situation",
+        "translationVI": "Thường được cho là do/quy cho là do",
         "relatedCollocates": [
           "attribute (sth) to (sth)",
           "is caused by (synonym)",
@@ -981,13 +981,13 @@
       "targetLexeme": "relentless efforts",
       "sourceContext": "...the relentless efforts of sheep farmers and bounty hunters...",
       "phase1Inference": {
-        "contextualGuessVI": "Những 'efforts' (nỗ lực) 'relentless' (không ngừng, không-na-núng)."
+        "contextualGuessVI": "Những 'efforts' (nỗ lực) 'relentless' (không ngừng, không-na-núng)"
       },
       "phase2Annotation": {
         "phonetic": "/rɪˈlentləs ˈefəts/",
         "sentiment": "negative",
-        "definitionEN": "Continuous, determined, and severe efforts that never stop or become less intense.",
-        "translationVI": "Những nỗ lực không ngừng/không-na-núng.",
+        "definitionEN": "Continuous, determined, and severe efforts that never stop or become less intense",
+        "translationVI": "Những nỗ lực không ngừng/không-na-núng",
         "relatedCollocates": [
           "a relentless (campaign)",
           "continuous (efforts)",
@@ -1008,13 +1008,13 @@
       "targetLexeme": "bounty hunters",
       "sourceContext": "...sheep farmers and bounty hunters** with shotguns.",
       "phase1Inference": {
-        "contextualGuessVI": "Thợ săn 'bounty' (tiền thưởng)."
+        "contextualGuessVI": "Thợ săn 'bounty' (tiền thưởng)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈbaʊnti ˈhʌntəz/",
         "sentiment": "negative",
-        "definitionEN": "People who hunt animals (or capture criminals) for a reward (a bounty).",
-        "translationVI": "Thợ săn tiền thưởng.",
+        "definitionEN": "People who hunt animals (or capture criminals) for a reward (a bounty)",
+        "translationVI": "Thợ săn tiền thưởng",
         "relatedCollocates": ["hunter (n)", "bounty (n)", "reward (n)"],
         "wordForms": {
           "noun": [
@@ -1033,13 +1033,13 @@
       "targetLexeme": "determined campaign",
       "sourceContext": "While this determined campaign undoubtedly played a large part...",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'campaign' (chiến dịch) 'determined' (kiên quyết)."
+        "contextualGuessVI": "Một 'campaign' (chiến dịch) 'determined' (kiên quyết)"
       },
       "phase2Annotation": {
         "phonetic": "/dɪˈtɜːmɪnd kæmˈpeɪn/",
         "sentiment": "negative",
-        "definitionEN": "A series of planned activities taken with strong resolution and purpose to achieve a specific goal.",
-        "translationVI": "Chiến dịch (đầy) kiên quyết.",
+        "definitionEN": "A series of planned activities taken with strong resolution and purpose to achieve a specific goal",
+        "translationVI": "Chiến dịch (đầy) kiên quyết",
         "relatedCollocates": [
           "relentless (efforts)",
           "a hunting campaign",
@@ -1060,13 +1060,13 @@
       "targetLexeme": "played a large part (in)",
       "sourceContext": "...undoubtedly played a large part, it is likely that...",
       "phase1Inference": {
-        "contextualGuessVI": "Đã 'played a large part' (đóng một vai trò lớn) (trong việc gì đó)."
+        "contextualGuessVI": "Đã 'played a large part' (đóng một vai trò lớn) (trong việc gì đó)"
       },
       "phase2Annotation": {
         "phonetic": "/pleɪd ə lɑːdʒ pɑːt/",
         "sentiment": "neutral",
-        "definitionEN": "To be a significant or major factor in causing a particular result. (Past tense of 'play a large part').",
-        "translationVI": "Đóng một vai trò/phần lớn (trong).",
+        "definitionEN": "To be a significant or major factor in causing a particular result. (Past tense of 'play a large part')",
+        "translationVI": "Đóng một vai trò/phần lớn (trong)",
         "relatedCollocates": [
           "play a (key) role in",
           "a major factor",
@@ -1087,13 +1087,13 @@
       "targetLexeme": "eventual extinction",
       "sourceContext": "...and eventual extinction of the species.",
       "phase1Inference": {
-        "contextualGuessVI": "Sự 'extinction' (tuyệt chủng) 'eventual' (cuối cùng)."
+        "contextualGuessVI": "Sự 'extinction' (tuyệt chủng) 'eventual' (cuối cùng)"
       },
       "phase2Annotation": {
         "phonetic": "/ɪˈventʃuəl ɪkˈstɪŋkʃən/",
         "sentiment": "negative",
-        "definitionEN": "The final result of dying out completely, happening at the end of a long process.",
-        "translationVI": "Sự tuyệt chủng cuối cùng.",
+        "definitionEN": "The final result of dying out completely, happening at the end of a long process",
+        "translationVI": "Sự tuyệt chủng cuối cùng",
         "relatedCollocates": [
           "the final (outcome)",
           "ultimately (adv)",
@@ -1114,13 +1114,13 @@
       "targetLexeme": "European settlers",
       "sourceContext": "...wild dogs introduced by European settlers...",
       "phase1Inference": {
-        "contextualGuessVI": "Những 'settlers' (người định cư) 'European' (châu Âu)."
+        "contextualGuessVI": "Những 'settlers' (người định cư) 'European' (châu Âu)"
       },
       "phase2Annotation": {
         "phonetic": "/ˌjʊərəˈpiːən ˈsetləz/",
         "sentiment": "neutral",
-        "definitionEN": "People from Europe who came to live permanently in a new country, often one that was previously uninhabited or inhabited by indigenous people.",
-        "translationVI": "Người định cư châu Âu.",
+        "definitionEN": "People from Europe who came to live permanently in a new country, often one that was previously uninhabited or inhabited by indigenous people",
+        "translationVI": "Người định cư châu Âu",
         "relatedCollocates": [
           "settle (v)",
           "settlement (n)",
@@ -1144,13 +1144,13 @@
       "targetLexeme": "loss of habitat",
       "sourceContext": "...loss of habitat along with the disappearance of prey species...",
       "phase1Inference": {
-        "contextualGuessVI": "Sự 'loss' (mất) 'habitat' (môi trường sống)."
+        "contextualGuessVI": "Sự 'loss' (mất) 'habitat' (môi trường sống)"
       },
       "phase2Annotation": {
         "phonetic": "/lɒs əv ˈhæbɪtæt/",
         "sentiment": "negative",
-        "definitionEN": "The destruction or disappearance of the natural environment where an animal or plant normally lives.",
-        "translationVI": "Sự mất môi trường sống.",
+        "definitionEN": "The destruction or disappearance of the natural environment where an animal or plant normally lives",
+        "translationVI": "Sự mất môi trường sống",
         "relatedCollocates": [
           "habitat destruction (synonym)",
           "habitat degradation",
@@ -1174,13 +1174,13 @@
       "targetLexeme": "a distemper-like disease",
       "sourceContext": "...and a distemper-like disease which may also have affected the thylacine.",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'disease' (căn bệnh) 'distemper-like' (giống như bệnh sài sốt)."
+        "contextualGuessVI": "Một 'disease' (căn bệnh) 'distemper-like' (giống như bệnh sài sốt)"
       },
       "phase2Annotation": {
         "phonetic": "/ə dɪˈstempə laɪk dɪˈziːz/",
         "sentiment": "negative",
-        "definitionEN": "An illness that resembles distemper, which is a serious viral disease affecting animals (especially dogs).",
-        "translationVI": "Một căn bệnh giống bệnh sài sốt.",
+        "definitionEN": "An illness that resembles distemper, which is a serious viral disease affecting animals (especially dogs)",
+        "translationVI": "Một căn bệnh giống bệnh sài sốt",
         "relatedCollocates": ["disease (n)", "affected (v)", "virus (n)"],
         "wordForms": {
           "noun": [
@@ -1199,13 +1199,13 @@
       "targetLexeme": "breed (sth) in captivity",
       "sourceContext": "There was only one successful attempt to breed a thylacine in captivity...",
       "phase1Inference": {
-        "contextualGuessVI": "'Breed' (nhân giống) một con thylacine 'in captivity' (trong điều kiện nuôi nhốt)."
+        "contextualGuessVI": "'Breed' (nhân giống) một con thylacine 'in captivity' (trong điều kiện nuôi nhốt)"
       },
       "phase2Annotation": {
         "phonetic": "/briːd ɪn kæpˈtɪvəti/",
         "sentiment": "neutral",
-        "definitionEN": "To make animals have babies while they are kept in a zoo, park, or enclosure, rather than in their natural habitat.",
-        "translationVI": "Nhân giống (loài gì) trong điều kiện nuôi nhốt.",
+        "definitionEN": "To make animals have babies while they are kept in a zoo, park, or enclosure, rather than in their natural habitat",
+        "translationVI": "Nhân giống (loài gì) trong điều kiện nuôi nhốt",
         "relatedCollocates": [
           "in the wild (antonym)",
           "a captive (n)",
@@ -1226,13 +1226,13 @@
       "targetLexeme": "foresaw the thylacine's demise",
       "sourceContext": "...naturalist John Gould foresaw the thylacine's demise when he published...",
       "phase1Inference": {
-        "contextualGuessVI": "Nhà tự nhiên học 'foresaw' (thấy trước) 'demise' (sự lụi tàn/cái chết) của thylacine."
+        "contextualGuessVI": "Nhà tự nhiên học 'foresaw' (thấy trước) 'demise' (sự lụi tàn/cái chết) của thylacine"
       },
       "phase2Annotation": {
         "phonetic": "/fɔːˈsɔː ðə ˈθaɪləsiːnz dɪˈmaɪz/",
         "sentiment": "negative",
-        "definitionEN": "To predict or see in advance that a species (or person/organization) would come to an end, die, or fail.",
-        "translationVI": "Thấy/biết trước sự lụi tàn/cái chết của thylacine.",
+        "definitionEN": "To predict or see in advance that a species (or person/organization) would come to an end, die, or fail",
+        "translationVI": "Thấy/biết trước sự lụi tàn/cái chết của thylacine",
         "relatedCollocates": [
           "predict (the extinction)",
           "foresee (the end)",
@@ -1255,13 +1255,13 @@
       "targetLexeme": "singular animal",
       "sourceContext": "...when this singular animal will speedily diminish...",
       "phase1Inference": {
-        "contextualGuessVI": "Loài 'animal' (động vật) 'singular' (đặc biệt, độc đáo, duy nhất)."
+        "contextualGuessVI": "Loài 'animal' (động vật) 'singular' (đặc biệt, độc đáo, duy nhất)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈsɪŋɡjələr ˈænɪml/",
         "sentiment": "positive",
-        "definitionEN": "An animal that is unique, remarkable, or extraordinary.",
-        "translationVI": "Loài động vật đặc biệt/độc đáo.",
+        "definitionEN": "An animal that is unique, remarkable, or extraordinary",
+        "translationVI": "Loài động vật đặc biệt/độc đáo",
         "relatedCollocates": [
           "a unique (animal)",
           "a remarkable (creature)",
@@ -1282,13 +1282,13 @@
       "targetLexeme": "speedily diminish",
       "sourceContext": "...this singular animal will speedily diminish...",
       "phase1Inference": {
-        "contextualGuessVI": "Sẽ 'diminish' (suy giảm) 'speedily' (một cách nhanh chóng)."
+        "contextualGuessVI": "Sẽ 'diminish' (suy giảm) 'speedily' (một cách nhanh chóng)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈspiːdɪli dɪˈmɪnɪʃ/",
         "sentiment": "negative",
-        "definitionEN": "To decrease in number, size, or importance very quickly.",
-        "translationVI": "Suy giảm nhanh chóng.",
+        "definitionEN": "To decrease in number, size, or importance very quickly",
+        "translationVI": "Suy giảm nhanh chóng",
         "relatedCollocates": ["rapidly decline (synonym)", "decrease quickly"],
         "wordForms": {
           "verb": [{ "form": "diminish", "meaning": "suy giảm" }],
@@ -1305,13 +1305,13 @@
       "targetLexeme": "extermination will have its full sway",
       "sourceContext": "...extermination will have its full sway, and it will then...",
       "phase1Inference": {
-        "contextualGuessVI": "Sự 'extermination' (tuyệt diệt) sẽ 'have its full sway' (diễn ra trọn vẹn, thống trị hoàn toàn)."
+        "contextualGuessVI": "Sự 'extermination' (tuyệt diệt) sẽ 'have its full sway' (diễn ra trọn vẹn, thống trị hoàn toàn)"
       },
       "phase2Annotation": {
         "phonetic": "/ɪkˌstɜːmɪˈneɪʃən wɪl hæv ɪts fʊl sweɪ/",
         "sentiment": "negative",
-        "definitionEN": "The complete destruction of a species will be totally dominant or have its full effect.",
-        "translationVI": "Sự tuyệt diệt sẽ diễn ra trọn vẹn/hoàn toàn.",
+        "definitionEN": "The complete destruction of a species will be totally dominant or have its full effect",
+        "translationVI": "Sự tuyệt diệt sẽ diễn ra trọn vẹn/hoàn toàn",
         "relatedCollocates": [
           "extinction (synonym)",
           "have sway (v)",
@@ -1335,13 +1335,13 @@
       "targetLexeme": "an animal of the past",
       "sourceContext": "...be recorded as an animal of the past.",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'animal' (loài vật) 'of the past' (của quá khứ) -> đã tuyệt chủng."
+        "contextualGuessVI": "Một 'animal' (loài vật) 'of the past' (của quá khứ) -> đã tuyệt chủng"
       },
       "phase2Annotation": {
         "phonetic": "/ən ˈænɪml əv ðə pɑːst/",
         "sentiment": "negative",
-        "definitionEN": "An animal that no longer exists; an extinct species.",
-        "translationVI": "Một loài vật của quá khứ (đã tuyệt chủng).",
+        "definitionEN": "An animal that no longer exists; an extinct species",
+        "translationVI": "Một loài vật của quá khứ (đã tuyệt chủng)",
         "relatedCollocates": [
           "extinct (synonym)",
           "no longer exists",
@@ -1364,13 +1364,13 @@
       "targetLexeme": "public pressure to preserve",
       "sourceContext": "However, there seems to have been little public pressure to preserve the thylacine...",
       "phase1Inference": {
-        "contextualGuessVI": "Rất ít 'public pressure' (áp lực dư luận) 'to preserve' (để bảo tồn)."
+        "contextualGuessVI": "Rất ít 'public pressure' (áp lực dư luận) 'to preserve' (để bảo tồn)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈpʌblɪk ˈpreʃə tə prɪˈzɜːv/",
         "sentiment": "positive",
-        "definitionEN": "Efforts or influence from the general population demanding that something be protected or saved.",
-        "translationVI": "Áp lực/sức ép dư luận đòi bảo tồn.",
+        "definitionEN": "Efforts or influence from the general population demanding that something be protected or saved",
+        "translationVI": "Áp lực/sức ép dư luận đòi bảo tồn",
         "relatedCollocates": [
           "pressure (to do sth)",
           "preserve (a species)",
@@ -1394,13 +1394,13 @@
       "targetLexeme": "concern expressed by scientists",
       "sourceContext": "...nor was much concern expressed by scientists at the decline...",
       "phase1Inference": {
-        "contextualGuessVI": "Không có nhiều 'concern' (sự lo ngại) 'expressed' (được bày tỏ) 'by' (bởi) các nhà khoa học."
+        "contextualGuessVI": "Không có nhiều 'concern' (sự lo ngại) 'expressed' (được bày tỏ) 'by' (bởi) các nhà khoa học"
       },
       "phase2Annotation": {
         "phonetic": "/kənˈsɜːn ɪkˈsprest baɪ ˈsaɪəntɪsts/",
         "sentiment": "positive",
-        "definitionEN": "Worry or anxiety that is shown or stated by scientific experts.",
-        "translationVI": "Sự lo ngại được các nhà khoa học bày tỏ.",
+        "definitionEN": "Worry or anxiety that is shown or stated by scientific experts",
+        "translationVI": "Sự lo ngại được các nhà khoa học bày tỏ",
         "relatedCollocates": [
           "express (concern)",
           "a lack of (concern)",
@@ -1424,13 +1424,13 @@
       "targetLexeme": "a notable exception",
       "sourceContext": "A notable exception was T.T. Flynn...",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'exception' (ngoại lệ) 'notable' (đáng chú ý)."
+        "contextualGuessVI": "Một 'exception' (ngoại lệ) 'notable' (đáng chú ý)"
       },
       "phase2Annotation": {
         "phonetic": "/ə ˈnəʊtəbl ɪkˈsepʃən/",
         "sentiment": "neutral",
-        "definitionEN": "A significant or important person or thing that does not follow the general rule or trend.",
-        "translationVI": "Một ngoại lệ đáng chú ý.",
+        "definitionEN": "A significant or important person or thing that does not follow the general rule or trend",
+        "translationVI": "Một ngoại lệ đáng chú ý",
         "relatedCollocates": [
           "an exception (to the rule)",
           "a rare (exception)",
@@ -1451,13 +1451,13 @@
       "targetLexeme": "scarcity of the thylacine",
       "sourceContext": "...he was sufficiently concerned about the scarcity of the thylacine...",
       "phase1Inference": {
-        "contextualGuessVI": "Lo ngại về 'scarcity' (sự khan hiếm) của thylacine."
+        "contextualGuessVI": "Lo ngại về 'scarcity' (sự khan hiếm) của thylacine"
       },
       "phase2Annotation": {
         "phonetic": "/ˈskeəsəti əv ðə ˈθaɪləsiːn/",
         "sentiment": "negative",
-        "definitionEN": "The state of the thylacine being rare, in small numbers, or difficult to find.",
-        "translationVI": "Sự khan hiếm của loài thylacine.",
+        "definitionEN": "The state of the thylacine being rare, in small numbers, or difficult to find",
+        "translationVI": "Sự khan hiếm của loài thylacine",
         "relatedCollocates": [
           "food scarcity (related)",
           "the decline of (synonym)",
@@ -1478,13 +1478,13 @@
       "targetLexeme": "on the very edge of extinction",
       "sourceContext": "...with the species on the very edge of extinction, that Tasmania's... Board passed a motion...",
       "phase1Inference": {
-        "contextualGuessVI": "Loài vật 'on the very edge' (ngay trên bờ vực) 'of extinction' (của sự tuyệt chủng)."
+        "contextualGuessVI": "Loài vật 'on the very edge' (ngay trên bờ vực) 'of extinction' (của sự tuyệt chủng)"
       },
       "phase2Annotation": {
         "phonetic": "/ɒn ðə ˈveri edʒ əv ɪkˈstɪŋkʃən/",
         "sentiment": "negative",
-        "definitionEN": "Extremely close to becoming extinct; critically endangered.",
-        "translationVI": "Trên chính bờ vực tuyệt chủng.",
+        "definitionEN": "Extremely close to becoming extinct; critically endangered",
+        "translationVI": "Trên chính bờ vực tuyệt chủng",
         "relatedCollocates": [
           "on the brink of (extinction)",
           "close to (extinction)",
@@ -1507,13 +1507,13 @@
       "targetLexeme": "passed a motion protecting",
       "sourceContext": "...Tasmania's Animals and Birds Protection Board passed a motion protecting thylacines...",
       "phase1Inference": {
-        "contextualGuessVI": "'Passed' (thông qua) 'a motion' (một kiến nghị/nghị quyết) 'protecting' (bảo vệ)."
+        "contextualGuessVI": "'Passed' (thông qua) 'a motion' (một kiến nghị/nghị quyết) 'protecting' (bảo vệ)"
       },
       "phase2Annotation": {
         "phonetic": "/pɑːst ə ˈməʊʃən prəˈtektɪŋ/",
         "sentiment": "positive",
-        "definitionEN": "To formally approve a proposal or law (in a meeting) that legally safeguards something.",
-        "translationVI": "Thông qua một kiến nghị/nghị quyết bảo vệ.",
+        "definitionEN": "To formally approve a proposal or law (in a meeting) that legally safeguards something",
+        "translationVI": "Thông qua một kiến nghị/nghị quyết bảo vệ",
         "relatedCollocates": [
           "pass a law",
           "approve (a motion)",
@@ -1537,13 +1537,13 @@
       "targetLexeme": "prime breeding season",
       "sourceContext": "...which was thought to be their prime breeding season.",
       "phase1Inference": {
-        "contextualGuessVI": "'Breeding season' (mùa sinh sản) 'prime' (chính, tốt nhất)."
+        "contextualGuessVI": "'Breeding season' (mùa sinh sản) 'prime' (chính, tốt nhất)"
       },
       "phase2Annotation": {
         "phonetic": "/praɪm ˈbriːdɪŋ ˈsiːzən/",
         "sentiment": "neutral",
-        "definitionEN": "The main or most active time of year when a species reproduces.",
-        "translationVI": "Mùa sinh sản chính.",
+        "definitionEN": "The main or most active time of year when a species reproduces",
+        "translationVI": "Mùa sinh sản chính",
         "relatedCollocates": [
           "extended breeding season (related)",
           "mating season"
@@ -1566,13 +1566,13 @@
       "targetLexeme": "last known wild thylacine",
       "sourceContext": "The last known wild thylacine to be killed was shot...",
       "phase1Inference": {
-        "contextualGuessVI": "Con thylacine 'wild' (hoang dã) 'last known' (cuối cùng được biết đến)."
+        "contextualGuessVI": "Con thylacine 'wild' (hoang dã) 'last known' (cuối cùng được biết đến)"
       },
       "phase2Annotation": {
         "phonetic": "/lɑːst nəʊn waɪld ˈθaɪləsiːn/",
         "sentiment": "negative",
-        "definitionEN": "The final individual of the species living in its natural habitat (not in a zoo) that was recorded by people.",
-        "translationVI": "Cá thể thylacine hoang dã cuối cùng được biết đến.",
+        "definitionEN": "The final individual of the species living in its natural habitat (not in a zoo) that was recorded by people",
+        "translationVI": "Cá thể thylacine hoang dã cuối cùng được biết đến",
         "relatedCollocates": ["in the wild (adv)", "captive (antonym)"],
         "wordForms": {
           "adjective": [
@@ -1592,13 +1592,13 @@
       "targetLexeme": "captive specimens",
       "sourceContext": "...leaving just captive specimens.",
       "phase1Inference": {
-        "contextualGuessVI": "Chỉ còn lại 'specimens' (mẫu vật, cá thể) 'captive' (bị nuôi nhốt)."
+        "contextualGuessVI": "Chỉ còn lại 'specimens' (mẫu vật, cá thể) 'captive' (bị nuôi nhốt)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈkæptɪv ˈspesɪmənz/",
         "sentiment": "neutral",
-        "definitionEN": "Individual animals that are kept in zoos or enclosures (not in the wild).",
-        "translationVI": "Các cá thể/mẫu vật bị nuôi nhốt.",
+        "definitionEN": "Individual animals that are kept in zoos or enclosures (not in the wild)",
+        "translationVI": "Các cá thể/mẫu vật bị nuôi nhốt",
         "relatedCollocates": [
           "in captivity (adv)",
           "wild (specimens) (antonym)"
@@ -1621,13 +1621,13 @@
       "targetLexeme": "Official protection",
       "sourceContext": "Official protection of the species by the Tasmanian government...",
       "phase1Inference": {
-        "contextualGuessVI": "Sự 'protection' (bảo vệ) 'Official' (chính thức) (từ chính phủ)."
+        "contextualGuessVI": "Sự 'protection' (bảo vệ) 'Official' (chính thức) (từ chính phủ)"
       },
       "phase2Annotation": {
         "phonetic": "/əˈfɪʃl prəˈtekʃən/",
         "sentiment": "positive",
-        "definitionEN": "Legal protection given by a government or another group in authority.",
-        "translationVI": "Sự bảo vệ chính thức (từ chính quyền).",
+        "definitionEN": "Legal protection given by a government or another group in authority",
+        "translationVI": "Sự bảo vệ chính thức (từ chính quyền)",
         "relatedCollocates": [
           "passed a motion (related)",
           "government (n)",
@@ -1648,13 +1648,13 @@
       "targetLexeme": "individual died",
       "sourceContext": "...59 days before the last known individual died in Hobart Zoo...",
       "phase1Inference": {
-        "contextualGuessVI": "'Individual' (cá thể) cuối cùng 'died' (đã chết)."
+        "contextualGuessVI": "'Individual' (cá thể) cuối cùng 'died' (đã chết)"
       },
       "phase2Annotation": {
         "phonetic": "/ˌɪndɪˈvɪdʒuəl daɪd/",
         "sentiment": "negative",
-        "definitionEN": "The last single animal of its species passed away.",
-        "translationVI": "Cá thể (cuối cùng) đã chết.",
+        "definitionEN": "The last single animal of its species passed away",
+        "translationVI": "Cá thể (cuối cùng) đã chết",
         "relatedCollocates": ["the last known (individual)", "died (v)"],
         "wordForms": {
           "noun": [
@@ -1674,13 +1674,13 @@
       "targetLexeme": "numerous expeditions",
       "sourceContext": "There have been numerous expeditions and searches for the thylacine...",
       "phase1Inference": {
-        "contextualGuessVI": "Đã có 'numerous' (nhiều) 'expeditions' (cuộc thám hiểm)."
+        "contextualGuessVI": "Đã có 'numerous' (nhiều) 'expeditions' (cuộc thám hiểm)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈnjuːmərəs ˌekspəˈdɪʃənz/",
         "sentiment": "neutral",
-        "definitionEN": "Many organized journeys or trips made for a particular purpose, such as exploration or scientific research.",
-        "translationVI": "Nhiều cuộc thám hiểm.",
+        "definitionEN": "Many organized journeys or trips made for a particular purpose, such as exploration or scientific research",
+        "translationVI": "Nhiều cuộc thám hiểm",
         "relatedCollocates": [
           "many (synonym)",
           "searches (n)",
@@ -1701,13 +1701,13 @@
       "targetLexeme": "produced definitive evidence",
       "sourceContext": "...none of which has produced definitive evidence that thylacines still exist.",
       "phase1Inference": {
-        "contextualGuessVI": "Không có cái nào 'produced' (đưa ra) 'definitive evidence' (bằng chứng cuối cùng/rõ ràng)."
+        "contextualGuessVI": "Không có cái nào 'produced' (đưa ra) 'definitive evidence' (bằng chứng cuối cùng/rõ ràng)"
       },
       "phase2Annotation": {
         "phonetic": "/prəˈdjuːst dɪˈfɪnətɪv ˈevɪdəns/",
         "sentiment": "neutral",
-        "definitionEN": "To provide proof that is final, conclusive, and cannot be questioned or doubted.",
-        "translationVI": "Đưa ra bằng chứng cuối cùng/chắc chắn.",
+        "definitionEN": "To provide proof that is final, conclusive, and cannot be questioned or doubted",
+        "translationVI": "Đưa ra bằng chứng cuối cùng/chắc chắn",
         "relatedCollocates": [
           "conclusive (evidence)",
           "no (evidence)",
@@ -1729,13 +1729,13 @@
       "targetLexeme": "(be) declared extinct",
       "sourceContext": "The species was declared extinct by the Tasmanian government in 1986.",
       "phase1Inference": {
-        "contextualGuessVI": "Bị 'declared' (tuyên bố) 'extinct' (tuyệt chủng)."
+        "contextualGuessVI": "Bị 'declared' (tuyên bố) 'extinct' (tuyệt chủng)"
       },
       "phase2Annotation": {
         "phonetic": "/bi dɪˈkleəd ɪkˈstɪŋkt/",
         "sentiment": "negative",
-        "definitionEN": "To be officially and formally announced as being extinct.",
-        "translationVI": "Bị tuyên bố (là đã) tuyệt chủng.",
+        "definitionEN": "To be officially and formally announced as being extinct",
+        "translationVI": "Bị tuyên bố (là đã) tuyệt chủng",
         "relatedCollocates": [
           "officially (declared)",
           "extinct (adj)",
@@ -1757,13 +1757,13 @@
       "targetLexeme": "ate an entirely 1 ............ diet",
       "sourceContext": "Q1 (Summary): ate an entirely 1 ............ diet (Answer: carnivorous)",
       "phase1Inference": {
-        "contextualGuessVI": "Ăn một chế độ ăn 'hoàn toàn' (entirely) ... (ăn thịt)."
+        "contextualGuessVI": "Ăn một chế độ ăn 'hoàn toàn' (entirely) ... (ăn thịt)"
       },
       "phase2Annotation": {
         "phonetic": "/eɪt ən ɪnˈtaɪəli daɪət/",
         "sentiment": "neutral",
-        "definitionEN": "Focus: Compares 'entirely' with the word 'exclusively'.",
-        "translationVI": "Trọng tâm: So sánh 'entirely' (hoàn toàn) với từ 'exclusively' (duy nhất).",
+        "definitionEN": "Focus: Compares 'entirely' with the word 'exclusively'",
+        "translationVI": "Trọng tâm: So sánh 'entirely' (hoàn toàn) với từ 'exclusively' (duy nhất)",
         "relatedCollocates": [
           "exclusively (adv)",
           "carnivorous (adj)",
@@ -1780,13 +1780,13 @@
       "targetLexeme": "depended mainly on 2 ............ when hunting",
       "sourceContext": "Q2 (Summary): probably depended mainly on 2 ............ when hunting (Answer: scent)",
       "phase1Inference": {
-        "contextualGuessVI": "Phụ thuộc 'chủ yếu' (mainly) vào ... [khứu giác] khi đi săn."
+        "contextualGuessVI": "Phụ thuộc 'chủ yếu' (mainly) vào ... [khứu giác] khi đi săn"
       },
       "phase2Annotation": {
         "phonetic": "/dɪˈpendɪd ˈmeɪnli ɒn wen ˈhʌntɪŋ/",
         "sentiment": "neutral",
-        "definitionEN": "Focus: Compares 'depended mainly on' with 'relied more on'.",
-        "translationVI": "Trọng tâm: So sánh 'depended mainly on' (phụ thuộc chủ yếu vào) với 'relied more on' (dựa nhiều hơn vào).",
+        "definitionEN": "Focus: Compares 'depended mainly on' with 'relied more on'",
+        "translationVI": "Trọng tâm: So sánh 'depended mainly on' (phụ thuộc chủ yếu vào) với 'relied more on' (dựa nhiều hơn vào)",
         "relatedCollocates": [
           "depended mainly on (synonym)",
           "relied more on (synonym)",
@@ -1803,13 +1803,13 @@
       "targetLexeme": "spent first months of life inside its mother's 3 ............",
       "sourceContext": "Q3 (Summary): young spent first months of life inside its mother's 3 ............ (Answer: pouch)",
       "phase1Inference": {
-        "contextualGuessVI": "Con non trải qua những tháng đầu đời bên trong ... [cái túi] của mẹ."
+        "contextualGuessVI": "Con non trải qua những tháng đầu đời bên trong ... [cái túi] của mẹ"
       },
       "phase2Annotation": {
         "phonetic": "/spent fɜːst mʌnθs əv laɪf ɪnˈsaɪd ɪts ˈmʌðəz/",
         "sentiment": "neutral",
-        "definitionEN": "Focus: Compares 'young spent first months' with 'Newborns... remaining there for up to three months'.",
-        "translationVI": "Trọng tâm: So sánh 'con non trải qua những tháng đầu' với 'Con non... ở đó cho đến ba tháng'.",
+        "definitionEN": "Focus: Compares 'young spent first months' with 'Newborns... remaining there for up to three months'",
+        "translationVI": "Trọng tâm: So sánh 'con non trải qua những tháng đầu' với 'Con non... ở đó cho đến ba tháng'",
         "relatedCollocates": [
           "newborns (synonym for young)",
           "crawled into the pouch",
@@ -1826,13 +1826,13 @@
       "targetLexeme": "last evidence... is a 3,100-year-old 4 ............ ",
       "sourceContext": "Q4 (Summary): last evidence... is a 3,100-year-old 4 ............ (Answer: fossil)",
       "phase1Inference": {
-        "contextualGuessVI": "Bằng chứng cuối cùng... là một ... [hóa thạch] 3.100 năm tuổi."
+        "contextualGuessVI": "Bằng chứng cuối cùng... là một ... [hóa thạch] 3.100 năm tuổi"
       },
       "phase2Annotation": {
         "phonetic": "/lɑːst ˈevɪdəns ɪz ə θriː ˈθaʊzənd wʌn ˈhʌndrəd jɪər əʊld/",
         "sentiment": "neutral",
-        "definitionEN": "Focus: Compares 'last evidence' with 'most recent, well-dated occurrence'.",
-        "translationVI": "Trọng tâm: So sánh 'last evidence' (bằng chứng cuối cùng) với 'most recent, well-dated occurrence' (sự xuất hiện gần nhất, được xác định niên đại rõ ràng).",
+        "definitionEN": "Focus: Compares 'last evidence' with 'most recent, well-dated occurrence'",
+        "translationVI": "Trọng tâm: So sánh 'last evidence' (bằng chứng cuối cùng) với 'most recent, well-dated occurrence' (sự xuất hiện gần nhất, được xác định niên đại rõ ràng)",
         "relatedCollocates": [
           "most recent... occurrence (synonym for last evidence)",
           "carbon-dated fossil",
@@ -1849,13 +1849,13 @@
       "targetLexeme": "reduction in 5 ............ and available sources of food",
       "sourceContext": "Q5 (Summary): reduction in 5 ............ and available sources of food... responsible for decline... (Answer: habitat)",
       "phase1Inference": {
-        "contextualGuessVI": "Sự sụt giảm về ... [môi trường sống] và nguồn thức ăn."
+        "contextualGuessVI": "Sự sụt giảm về ... [môi trường sống] và nguồn thức ăn"
       },
       "phase2Annotation": {
         "phonetic": "/rɪˈdʌkʃən ɪn ænd əˈveɪləbl ˈsɔːsɪz əv fuːd/",
         "sentiment": "negative",
-        "definitionEN": "Focus: Compares 'reduction in' with 'loss of' and 'available sources of food' with 'disappearance of prey species'.",
-        "translationVI": "Trọng tâm: So sánh 'reduction in' (sự giảm sút) với 'loss of' (sự mất) và 'available sources of food' (nguồn thức ăn có sẵn) với 'disappearance of prey species' (sự biến mất của loài mồi).",
+        "definitionEN": "Focus: Compares 'reduction in' with 'loss of' and 'available sources of food' with 'disappearance of prey species'",
+        "translationVI": "Trọng tâm: So sánh 'reduction in' (sự giảm sút) với 'loss of' (sự mất) và 'available sources of food' (nguồn thức ăn có sẵn) với 'disappearance of prey species' (sự biến mất của loài mồi)",
         "relatedCollocates": [
           "reduction in (synonym for loss)",
           "loss of habitat",
@@ -1872,13 +1872,13 @@
       "targetLexeme": "Significant numbers of... killed by humans",
       "sourceContext": "Q6 (T/F/NG): Significant numbers of thylacines were killed by humans from the 1830s onwards.",
       "phase1Inference": {
-        "contextualGuessVI": "'Một số lượng đáng kể' (Significant numbers) bị 'con người' (humans) giết."
+        "contextualGuessVI": "'Một số lượng đáng kể' (Significant numbers) bị 'con người' (humans) giết"
       },
       "phase2Annotation": {
         "phonetic": "/sɪɡˈnɪfɪkənt ˈnʌmbəz əv kɪld baɪ ˈhjuːmənz/",
         "sentiment": "negative",
-        "definitionEN": "Focus: Compares 'Significant numbers... killed by humans' with passage text.",
-        "translationVI": "Trọng tâm: So sánh 'Significant numbers... killed by humans' (Số lượng đáng kể... bị con người giết) với nội dung bài đọc.",
+        "definitionEN": "Focus: Compares 'Significant numbers... killed by humans' with passage text",
+        "translationVI": "Trọng tâm: So sánh 'Significant numbers... killed by humans' (Số lượng đáng kể... bị con người giết) với nội dung bài đọc",
         "relatedCollocates": [
           "dramatic decline",
           "relentless efforts",
@@ -1897,13 +1897,13 @@
       "targetLexeme": "Several thylacines were born in zoos",
       "sourceContext": "Q7 (T/F/NG): Several thylacines were born in zoos during the late 1800s.",
       "phase1Inference": {
-        "contextualGuessVI": "'Một vài' (Several) con thylacine 'được sinh ra' (were born) 'trong sở thú' (in zoos)."
+        "contextualGuessVI": "'Một vài' (Several) con thylacine 'được sinh ra' (were born) 'trong sở thú' (in zoos)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈsevrəl ˈθaɪləsiːnz wɜː bɔːn ɪn zuːz/",
         "sentiment": "neutral",
-        "definitionEN": "Focus: Compares 'Several... born in zoos' with 'only one successful attempt to breed... in captivity'.",
-        "translationVI": "Trọng tâm: So sánh 'Several... born in zoos' (Một vài... sinh ra ở sở thú) với 'only one successful attempt to breed... in captivity' (chỉ một nỗ lực nhân giống thành công... trong nuôi nhốt).",
+        "definitionEN": "Focus: Compares 'Several... born in zoos' with 'only one successful attempt to breed... in captivity'",
+        "translationVI": "Trọng tâm: So sánh 'Several... born in zoos' (Một vài... sinh ra ở sở thú) với 'only one successful attempt to breed... in captivity' (chỉ một nỗ lực nhân giống thành công... trong nuôi nhốt)",
         "relatedCollocates": [
           "only one successful attempt",
           "breed... in captivity (synonym for born in zoos)"
@@ -1919,13 +1919,13 @@
       "targetLexeme": "prediction... surprised some biologists",
       "sourceContext": "Q8 (T/F/NG): John Gould's prediction about the thylacine surprised some biologists.",
       "phase1Inference": {
-        "contextualGuessVI": "'Dự đoán' (prediction) của John Gould 'làm ngạc nhiên' (surprised) 'một số nhà sinh vật học' (some biologists)."
+        "contextualGuessVI": "'Dự đoán' (prediction) của John Gould 'làm ngạc nhiên' (surprised) 'một số nhà sinh vật học' (some biologists)"
       },
       "phase2Annotation": {
         "phonetic": "/prɪˈdɪkʃən səˈpraɪzd sʌm baɪˈɒlədʒɪsts/",
         "sentiment": "neutral",
-        "definitionEN": "Focus: Checks if 'surprised some biologists' is mentioned in relation to the 'prediction'.",
-        "translationVI": "Trọng tâm: Kiểm tra xem 'surprised some biologists' (làm ngạc nhiên một số nhà sinh vật học) có được đề cập liên quan đến 'prediction' (dự đoán) hay không.",
+        "definitionEN": "Focus: Checks if 'surprised some biologists' is mentioned in relation to the 'prediction'",
+        "translationVI": "Trọng tâm: Kiểm tra xem 'surprised some biologists' (làm ngạc nhiên một số nhà sinh vật học) có được đề cập liên quan đến 'prediction' (dự đoán) hay không",
         "relatedCollocates": [
           "foresaw the thylacine's demise (synonym for prediction)"
         ]
@@ -1940,13 +1940,13 @@
       "targetLexeme": "scientists became worried",
       "sourceContext": "Q9 (T/F/NG): In the early 1900s, many scientists became worried about the possible extinction...",
       "phase1Inference": {
-        "contextualGuessVI": "Nhiều 'nhà khoa học' (scientists) 'trở nên lo lắng' (became worried)."
+        "contextualGuessVI": "Nhiều 'nhà khoa học' (scientists) 'trở nên lo lắng' (became worried)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈsaɪəntɪsts bɪˈkeɪm ˈwʌrid/",
         "sentiment": "negative",
-        "definitionEN": "Focus: Compares 'many scientists became worried' with 'nor was much concern expressed by scientists'.",
-        "translationVI": "Trọng tâm: So sánh 'many scientists became worried' (nhiều nhà khoa học trở nên lo lắng) với 'nor was much concern expressed by scientists' (không có nhiều lo ngại được các nhà khoa học bày tỏ).",
+        "definitionEN": "Focus: Compares 'many scientists became worried' with 'nor was much concern expressed by scientists'",
+        "translationVI": "Trọng tâm: So sánh 'many scientists became worried' (nhiều nhà khoa học trở nên lo lắng) với 'nor was much concern expressed by scientists' (không có nhiều lo ngại được các nhà khoa học bày tỏ)",
         "relatedCollocates": [
           "little public pressure",
           "nor was much concern expressed by scientists"
@@ -1962,13 +1962,13 @@
       "targetLexeme": "proposal... proved to be impractical",
       "sourceContext": "Q10 (T/F/NG): T.T. Flynn's proposal to rehome captive thylacines... proved to be impractical.",
       "phase1Inference": {
-        "contextualGuessVI": "'Đề xuất' (proposal) của T.T. Flynn 'chứng tỏ là' (proved to be) 'không thực tế' (impractical)."
+        "contextualGuessVI": "'Đề xuất' (proposal) của T.T. Flynn 'chứng tỏ là' (proved to be) 'không thực tế' (impractical)"
       },
       "phase2Annotation": {
         "phonetic": "/prəˈpəʊzəl pruːvd tə bi ɪmˈpræktɪkl/",
         "sentiment": "negative",
-        "definitionEN": "Focus: Checks if the 'proposal' was described as 'impractical'.",
-        "translationVI": "Trọng tâm: Kiểm tra xem 'proposal' (đề xuất) có được mô tả là 'impractical' (không thực tế) hay không.",
+        "definitionEN": "Focus: Checks if the 'proposal' was described as 'impractical'",
+        "translationVI": "Trọng tâm: Kiểm tra xem 'proposal' (đề xuất) có được mô tả là 'impractical' (không thực tế) hay không",
         "relatedCollocates": [
           "suggested that some should be captured... (synonym for proposal)"
         ]
@@ -1983,13 +1983,13 @@
       "targetLexeme": "reasonable numbers... in existence when... protection... was passed",
       "sourceContext": "Q11 (T/F/NG): There were still reasonable numbers of thylacines in existence when a piece of legislation protecting the species... was passed.",
       "phase1Inference": {
-        "contextualGuessVI": "Vẫn còn 'số lượng hợp lý' (reasonable numbers) khi 'luật bảo vệ' (legislation protecting) được thông qua."
+        "contextualGuessVI": "Vẫn còn 'số lượng hợp lý' (reasonable numbers) khi 'luật bảo vệ' (legislation protecting) được thông qua"
       },
       "phase2Annotation": {
         "phonetic": "/ˈriːznəbl ˈnʌmbəz ɪn ɪɡˈzɪstəns wen prəˈtekʃən wəz pɑːst/",
         "sentiment": "neutral",
-        "definitionEN": "Focus: Compares 'reasonable numbers' with 'on the very edge of extinction'.",
-        "translationVI": "Trọng tâm: So sánh 'reasonable numbers' (số lượng hợp lý) với 'on the very edge of extinction' (trên chính bờ vực tuyệt chủng).",
+        "definitionEN": "Focus: Compares 'reasonable numbers' with 'on the very edge of extinction'",
+        "translationVI": "Trọng tâm: So sánh 'reasonable numbers' (số lượng hợp lý) với 'on the very edge of extinction' (trên chính bờ vực tuyệt chủng)",
         "relatedCollocates": [
           "on the very edge of extinction",
           "passed a motion protecting (synonym for legislation... was passed)"
@@ -2005,13 +2005,13 @@
       "targetLexeme": "only known living thylacines were all in captivity",
       "sourceContext": "Q12 (T/F/NG): From 1930 to 1936, the only known living thylacines were all in captivity.",
       "phase1Inference": {
-        "contextualGuessVI": "Từ 1930-1936, 'những con thylacine sống duy nhất được biết đến' (only known living thylacines) 'đều ở trong tình trạng nuôi nhốt' (all in captivity)."
+        "contextualGuessVI": "Từ 1930-1936, 'những con thylacine sống duy nhất được biết đến' (only known living thylacines) 'đều ở trong tình trạng nuôi nhốt' (all in captivity)"
       },
       "phase2Annotation": {
         "phonetic": "/ˈəʊnli nəʊn ˈlɪvɪŋ ˈθaɪləsiːnz wɜːr ɔːl ɪn kæpˈtɪvəti/",
         "sentiment": "neutral",
-        "definitionEN": "Focus: Compares 'only known living... all in captivity' with 'last known wild... in 1930, leaving just captive specimens'.",
-        "translationVI": "Trọng tâm: So sánh 'only known living... all in captivity' (chỉ những con sống... đều bị nuôi nhốt) với 'last known wild... in 1930, leaving just captive specimens' (con hoang dã cuối cùng... vào 1930, chỉ còn lại các cá thể nuôi nhốt).",
+        "definitionEN": "Focus: Compares 'only known living... all in captivity' with 'last known wild... in 1930, leaving just captive specimens'",
+        "translationVI": "Trọng tâm: So sánh 'only known living... all in captivity' (chỉ những con sống... đều bị nuôi nhốt) với 'last known wild... in 1930, leaving just captive specimens' (con hoang dã cuối cùng... vào 1930, chỉ còn lại các cá thể nuôi nhốt)",
         "relatedCollocates": [
           "last known wild thylacine... in 1930",
           "leaving just captive specimens"
@@ -2027,13 +2027,13 @@
       "targetLexeme": "Attempts to find... are now rarely made",
       "sourceContext": "Q13 (T/F/NG): Attempts to find living thylacines are now rarely made.",
       "phase1Inference": {
-        "contextualGuessVI": "Các 'nỗ lực tìm kiếm' (Attempts to find) bây giờ 'hiếm khi được thực hiện' (rarely made)."
+        "contextualGuessVI": "Các 'nỗ lực tìm kiếm' (Attempts to find) bây giờ 'hiếm khi được thực hiện' (rarely made)"
       },
       "phase2Annotation": {
         "phonetic": "/əˈtempts tə faɪnd ə naʊ ˈreəli meɪd/",
         "sentiment": "neutral",
-        "definitionEN": "Focus: Compares 'rarely made' with 'numerous expeditions and searches'.",
-        "translationVI": "Trọng tâm: So sánh 'rarely made' (hiếm khi được thực hiện) với 'numerous expeditions and searches' (rất nhiều cuộc thám hiểm và tìm kiếm).",
+        "definitionEN": "Focus: Compares 'rarely made' with 'numerous expeditions and searches'",
+        "translationVI": "Trọng tâm: So sánh 'rarely made' (hiếm khi được thực hiện) với 'numerous expeditions and searches' (rất nhiều cuộc thám hiểm và tìm kiếm)",
         "relatedCollocates": [
           "numerous expeditions and searches",
           "rarely (antonym)"
