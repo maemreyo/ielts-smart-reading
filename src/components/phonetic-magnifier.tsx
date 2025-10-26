@@ -13,6 +13,7 @@ export function PhoneticMagnifier({ text, className = "" }: PhoneticMagnifierPro
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [magnifiedWord, setMagnifiedWord] = useState('');
   const [focusWordIndex, setFocusWordIndex] = useState(-1);
+  const [textBounds, setTextBounds] = useState<DOMRect | null>(null);
   const textRef = useRef<HTMLSpanElement>(null);
 
   // Split text into words (accounting for IPA symbols)
@@ -35,7 +36,10 @@ export function PhoneticMagnifier({ text, className = "" }: PhoneticMagnifierPro
     setMagnifiedWord(words[safeWordIndex] || '');
   }, [words]);
 
-  const handleMouseEnter = () => {
+  const handleMouseEnter = (e: React.MouseEvent) => {
+    if (textRef.current) {
+      setTextBounds(textRef.current.getBoundingClientRect());
+    }
     setIsHovering(true);
   };
 
@@ -43,6 +47,7 @@ export function PhoneticMagnifier({ text, className = "" }: PhoneticMagnifierPro
     setIsHovering(false);
     setMagnifiedWord('');
     setFocusWordIndex(-1);
+    setTextBounds(null);
   };
 
   return (
@@ -75,7 +80,7 @@ export function PhoneticMagnifier({ text, className = "" }: PhoneticMagnifierPro
 
       {/* Magnifying Glass Effect */}
       <AnimatePresence>
-        {isHovering && magnifiedWord && (
+        {isHovering && magnifiedWord && textBounds && (
           <motion.div
             initial={{ opacity: 0, scale: 0.5 }}
             animate={{ opacity: 1, scale: 1 }}
@@ -83,9 +88,8 @@ export function PhoneticMagnifier({ text, className = "" }: PhoneticMagnifierPro
             transition={{ duration: 0.15 }}
             className="fixed pointer-events-none z-[9999]"
             style={{
-              // Better positioning - center above the word
-              left: mousePosition.x - 80,
-              top: mousePosition.y - 100,
+              left: textBounds.left + textBounds.width / 2 - 64,
+              top: textBounds.top - 140,
             }}
           >
             {/* Magnifier Circle */}
