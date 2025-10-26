@@ -31,9 +31,10 @@ interface LexicalItemProps {
   children: React.ReactNode;
   hideTranslation?: boolean;
   guessMode?: boolean;
+  theme?: string;
 }
 
-export function LexicalItem({ item, children, hideTranslation = false, guessMode = false }: LexicalItemProps) {
+export function LexicalItem({ item, children, hideTranslation = false, guessMode = false, theme = "light" }: LexicalItemProps) {
   const [revealLevel, setRevealLevel] = useState(0); // 0: guess, 1: definition, 2: full
   
   const {
@@ -59,6 +60,12 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
     neutral: "underline decoration-dotted", // No background for neutral, just underline
   }[sentiment || "neutral"];
 
+  const themeClasses = {
+    light: "bg-white text-gray-900 border-gray-200",
+    sepia: "bg-amber-50 text-amber-900 border-amber-200",
+    dark: "bg-gray-900 text-gray-100 border-gray-700",
+  };
+
   return (
     <Popover>
       <PopoverTrigger asChild>
@@ -74,7 +81,10 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
           )}
         </span>
       </PopoverTrigger>
-      <PopoverContent className="w-full max-w-sm md:max-w-md lg:max-w-lg shadow-xl rounded-xl border-none bg-background p-0">
+      <PopoverContent className={cn(
+        "w-full max-w-sm md:max-w-md lg:max-w-lg shadow-xl rounded-xl border p-0",
+        themeClasses[theme as keyof typeof themeClasses]
+      )}>
         {guessMode ? (
           /* Guess Mode UI */
           <div className="p-5">

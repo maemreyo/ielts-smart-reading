@@ -31,4 +31,5 @@ function useLocalStorage<T>(key: string, initialValue: T): [T, (value: T) => voi
   return [storedValue, setValue];
 }
 
+export { useLocalStorage };
 export default useLocalStorage;

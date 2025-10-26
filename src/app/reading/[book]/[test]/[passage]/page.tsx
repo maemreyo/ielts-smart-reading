@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { readFile } from 'fs/promises';
 import { join } from 'path';
-import { EnhancedReadingView } from '@/components/enhanced-reading-view';
+import { EnhancedReadingViewV2 } from '@/components/enhanced-reading-view-v2';
 
 // Force dynamic rendering for development
 export const dynamic = 'force-dynamic';
@@ -58,10 +58,24 @@ export default async function ReadingPage({ params }: PageProps) {
     notFound();
   }
   
+  // Extract title from first line
+  const lines = data.passageText.split('\n');
+  const title = lines.find(line => line.startsWith('##'))?.replace(/## /g, '').trim();
+
+  // Process passage text into paragraphs (excluding title)
+  const paragraphs = data.passageText
+    .split('\n')
+    .filter(line => line.trim() && !line.startsWith('#'))
+    .map(line => line.trim());
+
+  // Extract lexical items from the data
+  const lexicalItems = data.lexicalData.lexicalItems || [];
+
   return (
-    <EnhancedReadingView 
-      passageText={data.passageText} 
-      lexicalData={data.lexicalData}
+    <EnhancedReadingViewV2 
+      title={title}
+      paragraphs={paragraphs}
+      lexicalItems={lexicalItems}
     />
   );
 }
