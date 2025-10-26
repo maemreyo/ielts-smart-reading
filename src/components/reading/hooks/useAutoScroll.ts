@@ -4,7 +4,7 @@ interface UseAutoScrollProps {
   isPlaying: boolean;
   setIsPlaying: (playing: boolean) => void;
   currentParagraph: number;
-  setCurrentParagraph: (paragraph: number) => void;
+  setCurrentParagraph: React.Dispatch<React.SetStateAction<number>>;
   readingSpeed: number;
   totalParagraphs: number;
   autoScrollRef: React.MutableRefObject<NodeJS.Timeout | null>;
@@ -36,11 +36,11 @@ export function useAutoScroll({
   }, [setIsPlaying, autoScrollRef]);
 
   const nextParagraph = useCallback(() => {
-    setCurrentParagraph(prev => Math.min(prev + 1, totalParagraphs - 1));
+    setCurrentParagraph((prev: number) => Math.min(prev + 1, totalParagraphs - 1));
   }, [setCurrentParagraph, totalParagraphs]);
 
   const prevParagraph = useCallback(() => {
-    setCurrentParagraph(prev => Math.max(prev - 1, 0));
+    setCurrentParagraph((prev: number) => Math.max(prev - 1, 0));
   }, [setCurrentParagraph]);
 
   // Auto-scroll logic
@@ -50,7 +50,7 @@ export function useAutoScroll({
       const timePerParagraph = (wordsPerParagraph / readingSpeed) * 60 * 1000;
       
       autoScrollRef.current = setTimeout(() => {
-        setCurrentParagraph(prev => {
+        setCurrentParagraph((prev: number) => {
           const next = prev + 1;
           if (next >= totalParagraphs) {
             setIsPlaying(false);

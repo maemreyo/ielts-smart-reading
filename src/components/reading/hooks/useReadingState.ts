@@ -32,11 +32,10 @@ export function useReadingState() {
   const autoScrollRef = useRef<NodeJS.Timeout | null>(null);
 
   const toggleBookmark = (paragraphIndex: number) => {
-    setBookmarks(prev => 
-      prev.includes(paragraphIndex)
-        ? prev.filter(i => i !== paragraphIndex)
-        : [...prev, paragraphIndex]
-    );
+    const newBookmarks = bookmarks.includes(paragraphIndex)
+      ? bookmarks.filter((i: number) => i !== paragraphIndex)
+      : [...bookmarks, paragraphIndex];
+    setBookmarks(newBookmarks);
   };
 
   const resetReading = () => {

@@ -92,7 +92,7 @@ export function ReadingContent({
               key={currentParagraph}
               initial={showAnimations ? { opacity: 0, x: 50 } : false}
               animate={{ opacity: 1, x: 0 }}
-              exit={showAnimations ? { opacity: 0, x: -50 } : false}
+              exit={showAnimations ? { opacity: 0, x: -50 } : undefined}
               transition={{ duration: 0.3 }}
               className="prose prose-lg max-w-none leading-relaxed"
             >
@@ -112,7 +112,7 @@ export function ReadingContent({
                 key={index}
                 initial={showAnimations ? { opacity: 0, y: 20 } : false}
                 animate={{ opacity: 1, y: 0 }}
-                transition={showAnimations ? { delay: index * 0.1 } : false}
+                transition={showAnimations ? { delay: index * 0.1 } : undefined}
                 className={cn(
                   "mb-8 relative group",
                   dimOthers && currentParagraph !== index && "dim-paragraph",
