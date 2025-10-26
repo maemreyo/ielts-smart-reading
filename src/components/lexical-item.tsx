@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import {
   Popover,
   PopoverContent,
@@ -8,26 +8,11 @@ import { Button } from "@/components/ui/button";
 import { BookText, FlipHorizontal, Spline, Wand2, Brain, Eye, ArrowRight } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { PhoneticZoom } from "./phonetic-zoom";
+import { useGuessStore } from "./reading/hooks/useGuessStore";
+import { type LexicalItem } from "./reading/utils/textProcessing";
 
 interface LexicalItemProps {
-  item: {
-    targetLexeme: string;
-    phase1Inference?: {
-      contextualGuessVI?: string;
-    };
-    phase2Annotation: {
-      phonetic?: string;
-      sentiment?: "positive" | "negative" | "neutral";
-      definitionEN: string;
-      translationVI: string;
-      relatedCollocates?: string[];
-      wordForms?: any;
-    };
-    phase3Production?: {
-      taskType: string;
-      content: string;
-    };
-  };
+  item: LexicalItem;
   children: React.ReactNode;
   hideTranslation?: boolean;
   guessMode?: boolean;
@@ -36,6 +21,7 @@ interface LexicalItemProps {
 
 export function LexicalItem({ item, children, hideTranslation = false, guessMode = false, theme = "light" }: LexicalItemProps) {
   const [revealLevel, setRevealLevel] = useState(0); // 0: guess, 1: definition, 2: full
+  const { getGuess, setGuess } = useGuessStore();
   
   const {
     targetLexeme,
@@ -93,14 +79,40 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
               <h4 className="font-bold text-xl text-foreground">{targetLexeme}</h4>
             </div>
 
-            {/* Phase 1: Contextual Guess */}
-            {phase1Inference?.contextualGuessVI && (
+            {/* Phase 1: User Guess Input */}
+            {revealLevel === 0 ? (
               <div className="mb-4 p-3 bg-blue-50 dark:bg-blue-950/30 rounded-lg">
-                <div className="flex items-center gap-2 mb-2">
+                <label className="text-sm font-medium text-blue-700 dark:text-blue-400 mb-2 flex items-center gap-2">
                   <span className="text-sm font-medium text-blue-700 dark:text-blue-400">🤔 Your Guess:</span>
-                </div>
-                <p className="text-sm text-blue-800 dark:text-blue-300">{phase1Inference.contextualGuessVI}</p>
+                </label>
+                <input
+                  type="text"
+                  value={getGuess(String(item.id))}
+                  onChange={(e) => {
+                    setGuess(String(item.id), e.target.value);
+                  }}
+                  placeholder="What do you think it means?"
+                  className="w-full p-2 border border-gray-300 rounded-md dark:bg-gray-800 dark:text-white dark:border-gray-600"
+                />
               </div>
+            ) : (
+              // Show the user's guess and the suggested guess
+              <>
+                <div className="mb-2 p-3 bg-blue-50 dark:bg-blue-950/30 rounded-lg">
+                   <div className="flex items-center gap-2 mb-2">
+                     <span className="text-sm font-medium text-blue-700 dark:text-blue-400">🤔 Your Guess:</span>
+                   </div>
+                   <p className="text-sm text-blue-800 dark:text-blue-300">{getGuess(String(item.id)) || "(You didn't enter a guess)"}</p>
+                </div>
+                {phase1Inference?.contextualGuessVI && (
+                  <div className="mb-4 p-3 bg-yellow-50 dark:bg-yellow-950/30 rounded-lg">
+                    <div className="flex items-center gap-2 mb-2">
+                      <span className="text-sm font-medium text-yellow-700 dark:text-yellow-400">💡 Suggested Guess:</span>
+                    </div>
+                    <p className="text-sm text-yellow-800 dark:text-yellow-300">{phase1Inference.contextualGuessVI}</p>
+                  </div>
+                )}
+              </>
             )}
 
             {/* Progressive Revelation */}
@@ -148,7 +160,9 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
                 <Button
                   size="sm"
                   variant="outline"
-                  onClick={() => setRevealLevel(0)}
+                  onClick={() => {
+                    setRevealLevel(0);
+                  }}
                 >
                   Reset
                 </Button>
