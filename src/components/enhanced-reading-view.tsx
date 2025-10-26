@@ -28,6 +28,7 @@ import {
   Bookmark,
   BookmarkCheck,
   Settings,
+  Brain,
 } from "lucide-react";
 import { ReadingProgressBar } from "./reading-progress-bar";
 import useLocalStorage from "@/hooks/use-local-storage";
@@ -101,6 +102,7 @@ export function EnhancedReadingView({
     "hide-translations",
     false
   );
+  const [guessMode, setGuessMode] = useLocalStorage("guess-mode", false);
   const [toolbarVisible, setToolbarVisible] = useState(true);
   const [lastScrollY, setLastScrollY] = useState(0);
 
@@ -190,6 +192,7 @@ export function EnhancedReadingView({
   );
   useHotkeys("b", () => toggleBookmark(currentParagraph));
   useHotkeys("t", () => setHideTranslations(!hideTranslations));
+  useHotkeys("g", () => setGuessMode(!guessMode));
 
   // Effects
   useEffect(() => {
@@ -278,6 +281,7 @@ export function EnhancedReadingView({
               key={`${item.id}-${matchIndex}`}
               item={item}
               hideTranslation={hideTranslations}
+              guessMode={guessMode}
             >
               {matchedText}
             </LexicalItem>
@@ -406,6 +410,20 @@ export function EnhancedReadingView({
               title="Hide translations (T)"
             >
               {hideTranslations ? <EyeOff size={16} /> : <Globe size={16} />}
+            </motion.button>
+
+            {/* Guess Mode toggle */}
+            <motion.button
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              onClick={() => setGuessMode(!guessMode)}
+              className={cn(
+                "p-2 rounded-lg transition-colors",
+                guessMode ? "bg-blue-500 text-white" : "hover:bg-muted"
+              )}
+              title="Guess Mode (G)"
+            >
+              <Brain size={16} />
             </motion.button>
 
             {/* Mobile Settings Button */}
@@ -760,6 +778,19 @@ export function EnhancedReadingView({
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
+              onClick={() => setGuessMode(!guessMode)}
+              className={cn(
+                "p-2 rounded-lg transition-colors",
+                guessMode ? "bg-blue-500 text-white" : "hover:bg-muted"
+              )}
+              title="Guess Mode (G)"
+            >
+              <Brain size={18} />
+            </motion.button>
+
+            <motion.button
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
               onClick={toggleShortcuts}
               className="p-2 rounded-lg hover:bg-muted"
               title="Shortcuts (Shift + ?)"
@@ -857,6 +888,13 @@ export function EnhancedReadingView({
                         <Switch
                           checked={showAnimations}
                           onCheckedChange={setShowAnimations}
+                        />
+                      </div>
+                      <div className="flex items-center justify-between">
+                        <span className="text-sm">Guess Mode</span>
+                        <Switch
+                          checked={guessMode}
+                          onCheckedChange={setGuessMode}
                         />
                       </div>
                     </div>
@@ -1112,6 +1150,10 @@ export function EnhancedReadingView({
                 <div className="flex justify-between">
                   <span>Hide translations</span>
                   <kbd className="px-2 py-1 bg-muted rounded text-xs">T</kbd>
+                </div>
+                <div className="flex justify-between">
+                  <span>Toggle Guess Mode</span>
+                  <kbd className="px-2 py-1 bg-muted rounded text-xs">G</kbd>
                 </div>
               </div>
             </div>
