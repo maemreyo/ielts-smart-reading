@@ -1,0 +1,2363 @@
+{
+  "logTitle": "IELTS Reading Log: Conquering Earth's space junk problem",
+  "sourceId": "Reading Passage (Image)",
+  "totalItems": 82,
+  "lexicalItems": [
+    {
+      "id": 1,
+      "targetLexeme": "space junk",
+      "sourceContext": "Conquering Earth’s space junk problem",
+      "phase1Inference": {
+        "contextualGuessVI": "Rác không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/speɪs dʒʌŋk/",
+        "sentiment": "negative",
+        "definitionEN": "Man-made debris left in space, such as old satellites, spent rocket stages, and fragments from collisions.",
+        "translationVI": "Rác không gian",
+        "relatedCollocates": ["space debris (synonym)", "orbital debris"],
+        "wordForms": {
+          "noun": [{ "form": "space junk", "meaning": "rác không gian" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The increasing amount of space junk is a serious threat to active satellites and future space missions."
+      }
+    },
+    {
+      "id": 2,
+      "targetLexeme": "rocket shards",
+      "sourceContext": "Satellites, rocket shards and collision debris are creating major traffic risks in orbit around the planet.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các mảnh vỡ tên lửa"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈrɒkɪt ʃɑːdz/",
+        "sentiment": "negative",
+        "definitionEN": "Sharp pieces or fragments from rockets that have broken apart.",
+        "translationVI": "Các mảnh vỡ tên lửa",
+        "relatedCollocates": ["fragments", "debris"],
+        "wordForms": {
+          "noun": [{ "form": "shard", "meaning": "mảnh vỡ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Even small rocket shards can cause catastrophic damage when travelling at orbital speeds."
+      }
+    },
+    {
+      "id": 3,
+      "targetLexeme": "collision debris",
+      "sourceContext": "Satellites, rocket shards and collision debris are creating major traffic risks in orbit around the planet.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mảnh vỡ do va chạm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kəˈlɪʒn ˈdebriː/",
+        "sentiment": "negative",
+        "definitionEN": "The wreckage and fragments resulting from two or more objects crashing into each other in space.",
+        "translationVI": "Mảnh vỡ do va chạm",
+        "relatedCollocates": ["space junk", "fragments"],
+        "wordForms": {
+          "noun": [{ "form": "debris", "meaning": "mảnh vỡ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The 2009 satellite crash generated a massive cloud of collision debris that is still being tracked today."
+      }
+    },
+    {
+      "id": 4,
+      "targetLexeme": "in orbit",
+      "sourceContext": "Satellites, rocket shards and collision debris are creating major traffic risks in orbit around the planet.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trên quỹ đạo"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn ˈɔːbɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "Following a curved path or trajectory around a celestial body such as a star or planet.",
+        "translationVI": "Trên quỹ đạo",
+        "relatedCollocates": ["orbital path", "circling the Earth"],
+        "wordForms": {
+          "noun": [{ "form": "orbit", "meaning": "quỹ đạo" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The International Space Station is in orbit approximately 400 kilometers above Earth."
+      }
+    },
+    {
+      "id": 5,
+      "targetLexeme": "constellations of satellites",
+      "sourceContext": "Numbers could rise even more sharply if leading space companies follow through on plans to deploy hundreds to thousands of large constellations of satellites in the next few years.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các chòm vệ tinh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌkɒnstəˈleɪʃənz əv ˈsætəlaɪts/",
+        "sentiment": "neutral",
+        "definitionEN": "A group or system of artificial satellites working together as a system.",
+        "translationVI": "Các chòm vệ tinh",
+        "relatedCollocates": ["satellite network", "mega-constellation"],
+        "wordForms": {
+          "noun": [{ "form": "constellation", "meaning": "chòm sao, hệ thống" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Companies like SpaceX are launching vast constellations of satellites to provide global internet coverage."
+      }
+    },
+    {
+      "id": 6,
+      "targetLexeme": "inactive Russian communications satellite",
+      "sourceContext": "Ten years ago, a US commercial Iridium satellite smashed into an inactive Russian communications satellite called Cosmos-2251...",
+      "phase1Inference": {
+        "contextualGuessVI": "Vệ tinh viễn thông không hoạt động của Nga"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈæktɪv ˈrʌʃn kəˌmjuːnɪˈkeɪʃənz ˈsætəlaɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "A non-operational Russian satellite that was originally used for transmitting information.",
+        "translationVI": "Vệ tinh viễn thông không hoạt động của Nga",
+        "relatedCollocates": ["defunct satellite", "space debris"],
+        "wordForms": {
+          "adjective": [{ "form": "inactive", "meaning": "không hoạt động" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "An old, inactive Russian communications satellite poses a significant collision risk."
+      }
+    },
+    {
+      "id": 7,
+      "targetLexeme": "space shrapnel",
+      "sourceContext": "...creating thousands of new pieces of space shrapnel that now threaten other satellites in low Earth orbit...",
+      "phase1Inference": {
+        "contextualGuessVI": "Mảnh vụn không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/speɪs ˈʃræpnəl/",
+        "sentiment": "negative",
+        "definitionEN": "Fragments of a bomb, shell, or other object thrown out by an explosion in space.",
+        "translationVI": "Mảnh vụn không gian",
+        "relatedCollocates": ["debris", "fragments"],
+        "wordForms": {
+          "noun": [{ "form": "shrapnel", "meaning": "mảnh bom, mảnh đạn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The explosion created a cloud of deadly space shrapnel, endangering nearby spacecraft."
+      }
+    },
+    {
+      "id": 8,
+      "targetLexeme": "Low Earth orbit (LEO)",
+      "sourceContext": "...that now threaten other satellites in low Earth orbit – the zone stretching up to 2,000 kilometres in altitude.",
+      "phase1Inference": {
+        "contextualGuessVI": "Quỹ đạo Trái Đất tầm thấp"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ləʊ ɜːθ ˈɔːbɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "An orbit around Earth with an altitude between 160 kilometers and 2,000 kilometers.",
+        "translationVI": "Quỹ đạo Trái Đất tầm thấp",
+        "relatedCollocates": [
+          "geostationary orbit (GEO)",
+          "medium Earth orbit (MEO)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "orbit", "meaning": "quỹ đạo" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Most human-made objects in space are located in Low Earth orbit."
+      }
+    },
+    {
+      "id": 9,
+      "targetLexeme": "human-made objects",
+      "sourceContext": "Altogether, there are roughly 20,000 human-made objects in orbit, from working satellites to small rocket pieces.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các vật thể nhân tạo"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhjuːmən-meɪd ˈɒbdʒɪkts/",
+        "sentiment": "neutral",
+        "definitionEN": "Objects that have been created by people, rather than occurring naturally.",
+        "translationVI": "Các vật thể nhân tạo",
+        "relatedCollocates": ["man-made objects", "artificial objects"],
+        "wordForms": {
+          "adjective": [
+            { "form": "human-made", "meaning": "do con người tạo ra" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The museum's collection includes both natural fossils and ancient human-made objects."
+      }
+    },
+    {
+      "id": 10,
+      "targetLexeme": "potential crash",
+      "sourceContext": "And satellite operators can’t steer away from every potential crash, because each move consumes time and fuel that could otherwise be used for the spacecraft’s main job.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vụ va chạm tiềm tàng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pəˈtenʃl kræʃ/",
+        "sentiment": "negative",
+        "definitionEN": "A possible future collision.",
+        "translationVI": "Vụ va chạm tiềm tàng",
+        "relatedCollocates": ["possible collision", "collision risk"],
+        "wordForms": {
+          "noun": [{ "form": "crash", "meaning": "vụ va chạm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The control center is monitoring a potential crash between two defunct satellites."
+      }
+    },
+    {
+      "id": 11,
+      "targetLexeme": "satellite era",
+      "sourceContext": "Concern about space junk goes back to the beginning of the satellite era, but the number of objects in orbit is rising so rapidly that researchers are investigating new ways of attacking the problem.",
+      "phase1Inference": {
+        "contextualGuessVI": "Kỷ nguyên vệ tinh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsætəlaɪt ˈɪərə/",
+        "sentiment": "neutral",
+        "definitionEN": "The period in history that began with the launch of the first artificial satellite (Sputnik 1) in 1957.",
+        "translationVI": "Kỷ nguyên vệ tinh",
+        "relatedCollocates": ["space age", "dawn of space exploration"],
+        "wordForms": {
+          "noun": [{ "form": "era", "meaning": "kỷ nguyên" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Global communication was revolutionized at the start of the satellite era."
+      }
+    },
+    {
+      "id": 12,
+      "targetLexeme": "ever-more-crowded space",
+      "sourceContext": "Several teams are trying to improve methods for assessing what is in orbit, so that satellite operators can work more efficiently in ever-more-crowded space.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không gian ngày càng đông đúc"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈevə-mɔː-ˈkraʊdɪd speɪs/",
+        "sentiment": "negative",
+        "definitionEN": "The orbital environment which is becoming increasingly congested with satellites and debris.",
+        "translationVI": "Không gian ngày càng đông đúc",
+        "relatedCollocates": ["congested orbit", "increasingly dense"],
+        "wordForms": {
+          "adjective": [{ "form": "crowded", "meaning": "đông đúc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Navigating through the ever-more-crowded space of Low Earth orbit requires precise tracking."
+      }
+    },
+    {
+      "id": 13,
+      "targetLexeme": "compile a massive data set",
+      "sourceContext": "Some researchers are now starting to compile a massive data set that includes the best possible information on where everything is in orbit.",
+      "phase1Inference": {
+        "contextualGuessVI": "Biên soạn một bộ dữ liệu khổng lồ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kəmˈpaɪl ə ˈmæsɪv ˈdeɪtə set/",
+        "sentiment": "neutral",
+        "definitionEN": "To collect and assemble a very large and comprehensive collection of related information.",
+        "translationVI": "Biên soạn một bộ dữ liệu khổng lồ",
+        "relatedCollocates": [
+          "assemble a large database",
+          "gather extensive data"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "compile", "meaning": "biên soạn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The research team's goal is to compile a massive data set on global weather patterns."
+      }
+    },
+    {
+      "id": 14,
+      "targetLexeme": "developing taxonomies of space debris",
+      "sourceContext": "Others are developing taxonomies of space debris – working on measuring properties such as the shape and size of an object...",
+      "phase1Inference": {
+        "contextualGuessVI": "Phát triển hệ thống phân loại rác không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈveləpɪŋ tækˈsɒnəmiz əv speɪs ˈdebriː/",
+        "sentiment": "neutral",
+        "definitionEN": "Creating classification systems for orbital debris based on its characteristics.",
+        "translationVI": "Phát triển hệ thống phân loại rác không gian",
+        "relatedCollocates": ["classifying debris", "categorization system"],
+        "wordForms": {
+          "noun": [{ "form": "taxonomy", "meaning": "phép phân loại" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "By developing taxonomies of space debris, scientists can better predict the risk posed by different fragments."
+      }
+    },
+    {
+      "id": 15,
+      "targetLexeme": "uncontrolled space crashes",
+      "sourceContext": "The alternative, many say, is unthinkable. Just a few uncontrolled space crashes could generate enough debris to set off a runaway cascade of fragments...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các vụ va chạm không gian không kiểm soát"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌʌnkənˈtrəʊld speɪs ˈkræʃɪz/",
+        "sentiment": "negative",
+        "definitionEN": "Collisions in space that happen without any human intervention or ability to prevent them.",
+        "translationVI": "Các vụ va chạm không gian không kiểm soát",
+        "relatedCollocates": ["accidental collisions", "unmanaged impacts"],
+        "wordForms": {
+          "adjective": [
+            { "form": "uncontrolled", "meaning": "không kiểm soát" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The risk of uncontrolled space crashes increases as the number of satellites grows."
+      }
+    },
+    {
+      "id": 16,
+      "targetLexeme": "a runaway cascade of fragments",
+      "sourceContext": "...could generate enough debris to set off a runaway cascade of fragments, rendering near-Earth space unusable.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một chuỗi mảnh vỡ ngoài tầm kiểm soát"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈrʌnəweɪ kəˈskeɪd əv ˈfræɡmənts/",
+        "sentiment": "negative",
+        "definitionEN": "A self-sustaining chain reaction of collisions where each crash generates more debris, which then causes more crashes.",
+        "translationVI": "Một chuỗi mảnh vỡ ngoài tầm kiểm soát",
+        "relatedCollocates": ["Kessler syndrome", "chain reaction"],
+        "wordForms": {
+          "noun": [{ "form": "cascade", "meaning": "chuỗi, thác" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Scientists warn that a single major collision could trigger a runaway cascade of fragments, making space travel impossible."
+      }
+    },
+    {
+      "id": 17,
+      "targetLexeme": "rendering near-Earth space unusable",
+      "sourceContext": "...rendering near-Earth space unusable.",
+      "phase1Inference": {
+        "contextualGuessVI": "Khiến không gian gần Trái Đất không thể sử dụng được"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈrendərɪŋ nɪər-ɜːθ speɪs ʌnˈjuːzəbl/",
+        "sentiment": "negative",
+        "definitionEN": "Causing the region of space close to our planet to be impossible to use safely.",
+        "translationVI": "Khiến không gian gần Trái Đất không thể sử dụng được",
+        "relatedCollocates": ["making space inaccessible", "unnavigable orbit"],
+        "wordForms": {
+          "verb": [{ "form": "render", "meaning": "làm cho, khiến cho" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A catastrophic debris event could risk rendering near-Earth space unusable for generations."
+      }
+    },
+    {
+      "id": 18,
+      "targetLexeme": "reach a point of no return",
+      "sourceContext": "‘If we go on like this, we will reach a point of no return,’ says Carolin Frueh...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đạt đến điểm không thể quay lại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/riːtʃ ə pɔɪnt əv nəʊ rɪˈtɜːn/",
+        "sentiment": "negative",
+        "definitionEN": "To get to a stage where it is impossible to go back to the previous situation.",
+        "translationVI": "Đạt đến điểm không thể quay lại",
+        "relatedCollocates": ["tipping point", "past the point of recovery"],
+        "wordForms": {
+          "noun": [{ "form": "point", "meaning": "điểm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Climate scientists warn that we are close to reaching a point of no return regarding global warming."
+      }
+    },
+    {
+      "id": 19,
+      "targetLexeme": "astrodynamical researcher",
+      "sourceContext": "...says Carolin Frueh, an astrodynamical researcher at Purdue University in West Lafayette, Indiana.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhà nghiên cứu động lực học thiên thể"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌæstrəʊdaɪˈnæmɪkl rɪˈsɜːtʃə/",
+        "sentiment": "neutral",
+        "definitionEN": "A scientist who studies the motion of rockets and other spacecraft in space.",
+        "translationVI": "Nhà nghiên cứu động lực học thiên thể",
+        "relatedCollocates": ["orbital mechanics expert", "astrophysicist"],
+        "wordForms": {
+          "noun": [
+            { "form": "astrodynamics", "meaning": "động lực học thiên thể" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "An astrodynamical researcher calculated the precise trajectory needed for the probe to reach Mars."
+      }
+    },
+    {
+      "id": 20,
+      "targetLexeme": "collaborating in new ways",
+      "sourceContext": "That means companies, governments and other players in space are collaborating in new ways to avoid a shared threat.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hợp tác theo những cách mới"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kəˈlæbəreɪtɪŋ ɪn njuː weɪz/",
+        "sentiment": "positive",
+        "definitionEN": "Working together in innovative or previously untried methods.",
+        "translationVI": "Hợp tác theo những cách mới",
+        "relatedCollocates": [
+          "new forms of cooperation",
+          "innovative partnerships"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "collaborate", "meaning": "hợp tác" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "To solve this complex problem, scientists from different fields are collaborating in new ways."
+      }
+    },
+    {
+      "id": 21,
+      "targetLexeme": "a shared threat",
+      "sourceContext": "...collaborating in new ways to avoid a shared threat.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một mối đe dọa chung"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ʃeəd θret/",
+        "sentiment": "negative",
+        "definitionEN": "A danger or risk that affects all parties involved.",
+        "translationVI": "Một mối đe dọa chung",
+        "relatedCollocates": ["common danger", "mutual risk"],
+        "wordForms": {
+          "noun": [{ "form": "threat", "meaning": "mối đe dọa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Climate change is a shared threat that requires a global response."
+      }
+    },
+    {
+      "id": 22,
+      "targetLexeme": "Inter-Agency Space Debris Coordination Committee",
+      "sourceContext": "International groups such as the Inter-Agency Space Debris Coordination Committee have developed guidelines on space sustainability.",
+      "phase1Inference": {
+        "contextualGuessVI": "Ủy ban Điều phối Rác không gian Liên cơ quan"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɪntər-ˈeɪdʒənsi speɪs ˈdebriː kəʊˌɔːdɪˈneɪʃn kəˈmɪti/",
+        "sentiment": "neutral",
+        "definitionEN": "An international governmental forum for the worldwide coordination of activities related to the issues of man-made and natural debris in space.",
+        "translationVI": "Ủy ban Điều phối Rác không gian Liên cơ quan",
+        "relatedCollocates": ["international forum", "space agency"],
+        "wordForms": {
+          "noun": [{ "form": "committee", "meaning": "ủy ban" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The Inter-Agency Space Debris Coordination Committee (IADC) issues guidelines to minimize the creation of new debris."
+      }
+    },
+    {
+      "id": 23,
+      "targetLexeme": "space sustainability",
+      "sourceContext": "...have developed guidelines on space sustainability.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự bền vững trong không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/speɪs səˌsteɪnəˈbɪləti/",
+        "sentiment": "positive",
+        "definitionEN": "The ability to maintain the use of outer space for peaceful purposes and socioeconomic benefits for present and future generations without causing long-term harm to the space environment.",
+        "translationVI": "Sự bền vững trong không gian",
+        "relatedCollocates": [
+          "long-term use of space",
+          "environmental protection"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "sustainability", "meaning": "sự bền vững" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "New regulations are needed to ensure long-term space sustainability."
+      }
+    },
+    {
+      "id": 24,
+      "targetLexeme": "inactivating satellites",
+      "sourceContext": "Those include inactivating satellites at the end of their useful life by venting pressurised materials or leftover fuel that might lead to explosions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vô hiệu hóa các vệ tinh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈæktɪveɪtɪŋ ˈsætəlaɪts/",
+        "sentiment": "neutral",
+        "definitionEN": "Making satellites non-operational or passive at the end of their mission.",
+        "translationVI": "Vô hiệu hóa các vệ tinh",
+        "relatedCollocates": ["decommissioning", "passivating"],
+        "wordForms": {
+          "verb": [
+            { "form": "inactivate", "meaning": "làm cho không hoạt động" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The process of inactivating satellites safely is crucial for preventing them from becoming space junk."
+      }
+    },
+    {
+      "id": 25,
+      "targetLexeme": "venting pressurised materials",
+      "sourceContext": "...by venting pressurised materials or leftover fuel that might lead to explosions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Xả các vật liệu chịu áp suất"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈventɪŋ ˈpreʃəraɪzd məˈtɪəriəlz/",
+        "sentiment": "neutral",
+        "definitionEN": "Releasing gases or liquids that are held under pressure to make a system safe.",
+        "translationVI": "Xả các vật liệu chịu áp suất",
+        "relatedCollocates": ["releasing pressure", "depressurization"],
+        "wordForms": {
+          "verb": [{ "form": "vent", "meaning": "xả, thông hơi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Before decommissioning the spacecraft, engineers began the process of venting pressurised materials."
+      }
+    },
+    {
+      "id": 26,
+      "targetLexeme": "intergovernmental groups",
+      "sourceContext": "The intergovernmental groups also advise lowering satellites deep into the atmosphere that they will burn up or disintegrate within 25 years.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các nhóm liên chính phủ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌɪntəɡʌvənˈmentl ɡruːps/",
+        "sentiment": "neutral",
+        "definitionEN": "Organizations that are composed primarily of sovereign states (member states), or of other intergovernmental organizations.",
+        "translationVI": "Các nhóm liên chính phủ",
+        "relatedCollocates": [
+          "international organizations",
+          "governmental bodies"
+        ],
+        "wordForms": {
+          "adjective": [
+            { "form": "intergovernmental", "meaning": "liên chính phủ" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The United Nations is one of the most well-known intergovernmental groups."
+      }
+    },
+    {
+      "id": 27,
+      "targetLexeme": "burn up or disintegrate",
+      "sourceContext": "...that they will burn up or disintegrate within 25 years.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bốc cháy hoặc tan rã"
+      },
+      "phase2Annotation": {
+        "phonetic": "/bɜːn ʌp ɔː dɪsˈɪntɪɡreɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "To be destroyed by fire or to break up into small parts or pieces upon re-entering the Earth's atmosphere.",
+        "translationVI": "Bốc cháy hoặc tan rã",
+        "relatedCollocates": ["atmospheric reentry", "break apart"],
+        "wordForms": {
+          "verb": [{ "form": "disintegrate", "meaning": "tan rã" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Most small meteors burn up or disintegrate completely before they can reach the ground."
+      }
+    },
+    {
+      "id": 28,
+      "targetLexeme": "abided by",
+      "sourceContext": "But so far, only about half of all missions have abided by this 25-year goal...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã tuân thủ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈbaɪdɪd baɪ/",
+        "sentiment": "positive",
+        "definitionEN": "To have accepted or acted in accordance with a rule, decision, or recommendation.",
+        "translationVI": "Đã tuân thủ",
+        "relatedCollocates": ["complied with", "adhered to"],
+        "wordForms": {
+          "verb": [{ "form": "abide by", "meaning": "tuân theo" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "All participants in the competition have abided by the official rules."
+      }
+    },
+    {
+      "id": 29,
+      "targetLexeme": "responsible stewards",
+      "sourceContext": "Operators of the planned large constellations of satellites say they will be responsible stewards in their enterprises...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những người quản lý có trách nhiệm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈspɒnsəbl ˈstjuːədz/",
+        "sentiment": "positive",
+        "definitionEN": "People who carefully and responsibly manage something entrusted to their care.",
+        "translationVI": "Những người quản lý có trách nhiệm",
+        "relatedCollocates": ["good custodians", "accountable managers"],
+        "wordForms": {
+          "noun": [{ "form": "steward", "meaning": "người quản lý" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "As farmers, they see themselves as responsible stewards of the land."
+      }
+    },
+    {
+      "id": 30,
+      "targetLexeme": "despite their best intentions",
+      "sourceContext": "...but Krag worries that problems could increase, despite their best intentions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bất chấp những ý định tốt nhất của họ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈspaɪt ðeə best ɪnˈtenʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Even though they have a sincere desire to do what is right and good.",
+        "translationVI": "Bất chấp những ý định tốt nhất của họ",
+        "relatedCollocates": [
+          "with the best will in the world",
+          "in spite of good intentions"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "intention", "meaning": "ý định" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite their best intentions, the project failed due to a lack of funding."
+      }
+    },
+    {
+      "id": 31,
+      "targetLexeme": "go bankrupt",
+      "sourceContext": "‘What happens to those that fail or go bankrupt?’ he asks.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị phá sản"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɡəʊ ˈbæŋkrʌpt/",
+        "sentiment": "negative",
+        "definitionEN": "To be officially declared in law as unable to pay off debts.",
+        "translationVI": "Bị phá sản",
+        "relatedCollocates": ["become insolvent", "fail financially"],
+        "wordForms": {
+          "adjective": [{ "form": "bankrupt", "meaning": "phá sản" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many small businesses were forced to go bankrupt during the economic recession."
+      }
+    },
+    {
+      "id": 32,
+      "targetLexeme": "to a high degree of precision",
+      "sourceContext": "Some scientists are tackling the problem of space junk by trying to find out where all the debris is to a high degree of precision.",
+      "phase1Inference": {
+        "contextualGuessVI": "Với độ chính xác cao"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tuː ə haɪ dɪˈɡriː əv prɪˈsɪʒn/",
+        "sentiment": "positive",
+        "definitionEN": "With great accuracy and exactness.",
+        "translationVI": "Với độ chính xác cao",
+        "relatedCollocates": ["with great accuracy", "very precisely"],
+        "wordForms": {
+          "noun": [{ "form": "precision", "meaning": "độ chính xác" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The robot arm can perform complex surgical tasks to a high degree of precision."
+      }
+    },
+    {
+      "id": 33,
+      "targetLexeme": "alleviate the need for",
+      "sourceContext": "That would alleviate the need for many of the unnecessary manoeuvres that are carried out to avoid potential collisions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Làm giảm bớt nhu cầu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈliːvieɪt ðə niːd fɔː/",
+        "sentiment": "positive",
+        "definitionEN": "To make the requirement for something less severe or necessary.",
+        "translationVI": "Làm giảm bớt nhu cầu",
+        "relatedCollocates": ["reduce the need for", "obviate the need for"],
+        "wordForms": {
+          "verb": [{ "form": "alleviate", "meaning": "làm giảm bớt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new bridge will alleviate the need for commuters to take the long, winding road."
+      }
+    },
+    {
+      "id": 34,
+      "targetLexeme": "unnecessary manoeuvres",
+      "sourceContext": "...the unnecessary manoeuvres that are carried out to avoid potential collisions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các thao tác không cần thiết"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ʌnˈnesəsəri məˈnuːvəz/",
+        "sentiment": "negative",
+        "definitionEN": "Movements or a series of moves requiring skill and care that are not needed.",
+        "translationVI": "Các thao tác không cần thiết",
+        "relatedCollocates": ["needless actions", "avoidance maneuvers"],
+        "wordForms": {
+          "noun": [{ "form": "manoeuvre", "meaning": "sự điều động, thao tác" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Clear communication can prevent many unnecessary manoeuvres and misunderstandings."
+      }
+    },
+    {
+      "id": 35,
+      "targetLexeme": "space-debris specialist",
+      "sourceContext": "...says Marlon Sorge, a space-debris specialist at the Aerospace Corporation in El Segundo, California.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chuyên gia về rác không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/speɪs-ˈdebriː ˈspeʃəlɪst/",
+        "sentiment": "neutral",
+        "definitionEN": "An expert in the field of orbital debris.",
+        "translationVI": "Chuyên gia về rác không gian",
+        "relatedCollocates": ["orbital debris expert", "space junk researcher"],
+        "wordForms": {
+          "noun": [{ "form": "specialist", "meaning": "chuyên gia" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A space-debris specialist presented a new model for predicting the movement of small fragments."
+      }
+    },
+    {
+      "id": 36,
+      "targetLexeme": "space traffic management",
+      "sourceContext": "The field is called space traffic management, because it’s similar to managing traffic on the roads or in the air.",
+      "phase1Inference": {
+        "contextualGuessVI": "Quản lý giao thông không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/speɪs ˈtræfɪk ˈmænɪdʒmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "The planning, coordination, and monitoring of spacecraft in orbit to prevent collisions and ensure safe and efficient operations.",
+        "translationVI": "Quản lý giao thông không gian",
+        "relatedCollocates": ["air traffic control", "orbital management"],
+        "wordForms": {
+          "noun": [{ "form": "management", "meaning": "sự quản lý" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "As more satellites are launched, the need for a comprehensive space traffic management system becomes critical."
+      }
+    },
+    {
+      "id": 37,
+      "targetLexeme": "astrodynamicist",
+      "sourceContext": "...says Moriba Jah, an astrodynamicist at the University of Texas at Austin.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhà động lực học thiên thể"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌæstrəʊdaɪˈnæmɪsɪst/",
+        "sentiment": "neutral",
+        "definitionEN": "A person who studies and is an expert in astrodynamics, the branch of astronomy that deals with the motion of rockets and other spacecraft.",
+        "translationVI": "Nhà động lực học thiên thể",
+        "relatedCollocates": [
+          "astrodynamical researcher",
+          "orbital mechanics expert"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "astrodynamicist",
+              "meaning": "nhà động lực học thiên thể"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The astrodynamicist plotted the spacecraft's trajectory for its long journey to Jupiter."
+      }
+    },
+    {
+      "id": 38,
+      "targetLexeme": "carefully choreographed routine",
+      "sourceContext": "Air-traffic controllers know the location of the planes down to one metre in accuracy. The same can’t be said for space debris.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một quy trình được biên đạo cẩn thận"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkeəfəli ˈkɒriəɡrɑːft ruːˈtiːn/",
+        "sentiment": "neutral",
+        "definitionEN": "A sequence of actions that has been planned in great detail.",
+        "translationVI": "Một quy trình được biên đạo cẩn thận",
+        "relatedCollocates": [
+          "meticulously planned procedure",
+          "well-orchestrated sequence"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "routine", "meaning": "thói quen, quy trình" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The pit stop was a carefully choreographed routine, completed in under three seconds."
+      }
+    },
+    {
+      "id": 39,
+      "targetLexeme": "Air-traffic controllers",
+      "sourceContext": "Air-traffic controllers know the location of the planes down to one metre in accuracy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Kiểm soát viên không lưu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈeə-træfɪk kənˈtrəʊləz/",
+        "sentiment": "neutral",
+        "definitionEN": "People who direct aircraft on the ground and through controlled airspace, and can provide advisory services to aircraft in non-controlled airspace.",
+        "translationVI": "Kiểm soát viên không lưu",
+        "relatedCollocates": ["flight control", "aviation"],
+        "wordForms": {
+          "noun": [{ "form": "controller", "meaning": "người kiểm soát" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Air-traffic controllers must remain calm and focused under immense pressure."
+      }
+    },
+    {
+      "id": 40,
+      "targetLexeme": "not tracked consistently",
+      "sourceContext": "Not all objects in orbit are known, and even those included in databases are not tracked consistently.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không được theo dõi một cách nhất quán"
+      },
+      "phase2Annotation": {
+        "phonetic": "/nɒt trækt kənˈsɪstəntli/",
+        "sentiment": "negative",
+        "definitionEN": "Not monitored or followed on a regular and uniform basis.",
+        "translationVI": "Không được theo dõi một cách nhất quán",
+        "relatedCollocates": ["irregularly monitored", "inconsistent tracking"],
+        "wordForms": {
+          "verb": [{ "form": "track", "meaning": "theo dõi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The package delivery was delayed because its location was not tracked consistently."
+      }
+    },
+    {
+      "id": 41,
+      "targetLexeme": "authoritative catalogue",
+      "sourceContext": "An additional problem is that there is no authoritative catalogue that accurately lists the orbits of all known space debris.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một danh mục có thẩm quyền"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɔːˈθɒrɪtətɪv ˈkætəlɒɡ/",
+        "sentiment": "neutral",
+        "definitionEN": "A definitive and reliable list or record of items.",
+        "translationVI": "Một danh mục có thẩm quyền",
+        "relatedCollocates": ["official registry", "definitive list"],
+        "wordForms": {
+          "adjective": [{ "form": "authoritative", "meaning": "có thẩm quyền" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The museum published an authoritative catalogue of all the paintings in its collection."
+      }
+    },
+    {
+      "id": 42,
+      "targetLexeme": "accurately lists",
+      "sourceContext": "...no authoritative catalogue that accurately lists the orbits of all known space debris.",
+      "phase1Inference": {
+        "contextualGuessVI": "Liệt kê một cách chính xác"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈækjərətli lɪsts/",
+        "sentiment": "positive",
+        "definitionEN": "To record or present information in a way that is correct in all details.",
+        "translationVI": "Liệt kê một cách chính xác",
+        "relatedCollocates": ["precisely details", "correctly records"],
+        "wordForms": {
+          "verb": [{ "form": "list", "meaning": "liệt kê" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The website accurately lists the ingredients for each recipe."
+      }
+    },
+    {
+      "id": 43,
+      "targetLexeme": "web-based database",
+      "sourceContext": "Jah illustrates this with a web-based database that he has developed.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cơ sở dữ liệu trên nền tảng web"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈweb-beɪst ˈdeɪtəbeɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "A structured set of data held in a computer, especially one that is accessible or manipulated over the internet.",
+        "translationVI": "Cơ sở dữ liệu trên nền tảng web",
+        "relatedCollocates": ["online database", "internet-accessible data"],
+        "wordForms": {
+          "noun": [{ "form": "database", "meaning": "cơ sở dữ liệu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The library provides access to a comprehensive web-based database of academic journals."
+      }
+    },
+    {
+      "id": 44,
+      "targetLexeme": "draws on several sources",
+      "sourceContext": "It draws on several sources, such as catalogues maintained by the US and Russian governments, to visualise where objects are in space.",
+      "phase1Inference": {
+        "contextualGuessVI": "Dựa trên nhiều nguồn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/drɔːz ɒn ˈsevrəl ˈsɔːsɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "To use information or ideas from multiple places or people.",
+        "translationVI": "Dựa trên nhiều nguồn",
+        "relatedCollocates": [
+          "utilizes various sources",
+          "pulls from multiple references"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "draw on", "meaning": "dựa vào, tận dụng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Her research paper draws on several sources, including historical archives and recent studies."
+      }
+    },
+    {
+      "id": 45,
+      "targetLexeme": "visualise",
+      "sourceContext": "...to visualise where objects are in space.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hình dung hóa"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈvɪʒuəlaɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "To form a mental image of; imagine. To make something visible to the eye.",
+        "translationVI": "Hình dung hóa",
+        "relatedCollocates": ["imagine", "picture", "render graphically"],
+        "wordForms": {
+          "noun": [{ "form": "visualization", "meaning": "sự hình dung hóa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The software helps architects visualise their designs in three dimensions."
+      }
+    },
+    {
+      "id": 46,
+      "targetLexeme": "designate its orbit",
+      "sourceContext": "When he types in an identifier for a particular space object, the database draws a purple line to designate its orbit.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chỉ định quỹ đạo của nó"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdezɪɡneɪt ɪts ˈɔːbɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "To officially mark or show the path of an object in space.",
+        "translationVI": "Chỉ định quỹ đạo của nó",
+        "relatedCollocates": ["indicate its path", "mark its trajectory"],
+        "wordForms": {
+          "verb": [{ "form": "designate", "meaning": "chỉ định" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The map uses different colors to designate the orbits of various satellite constellations."
+      }
+    },
+    {
+      "id": 47,
+      "targetLexeme": "Russian rocket body",
+      "sourceContext": "Only this doesn’t quite work for a number of objects, such as a Russian rocket body designated in the database as object number 32280.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thân tên lửa của Nga"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈrʌʃn ˈrɒkɪt ˈbɒdi/",
+        "sentiment": "neutral",
+        "definitionEN": "The main, structural part of a Russian rocket, typically a spent upper stage left in orbit after launch.",
+        "translationVI": "Thân tên lửa của Nga",
+        "relatedCollocates": ["spent rocket stage", "launch vehicle component"],
+        "wordForms": {
+          "noun": [{ "form": "rocket body", "meaning": "thân tên lửa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "An old Russian rocket body is one of the largest pieces of debris currently being tracked."
+      }
+    },
+    {
+      "id": 48,
+      "targetLexeme": "completely different orbits",
+      "sourceContext": "When Jah enters that number, the database draws two purple lines: the US and Russian sources contain two completely different orbits for the same object.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các quỹ đạo hoàn toàn khác nhau"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kəmˈpliːtli ˈdɪfrənt ˈɔːbɪts/",
+        "sentiment": "neutral",
+        "definitionEN": "Trajectories that are entirely distinct and not the same.",
+        "translationVI": "Các quỹ đạo hoàn toàn khác nhau",
+        "relatedCollocates": ["disparate paths", "conflicting trajectories"],
+        "wordForms": {
+          "adjective": [{ "form": "different", "meaning": "khác nhau" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The two asteroids were found to be on completely different orbits, so there was no risk of collision."
+      }
+    },
+    {
+      "id": 49,
+      "targetLexeme": "cross-correlate",
+      "sourceContext": "Jah says that it is almost impossible to tell which is correct, unless a third source of information made it possible to cross-correlate.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đối chiếu tương quan"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌkrɒsˈkɒrəleɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "To compare two or more sets of data or sources of information in order to find a relationship or confirm accuracy.",
+        "translationVI": "Đối chiếu tương quan",
+        "relatedCollocates": ["cross-reference", "compare data", "verify"],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "cross-correlation",
+              "meaning": "sự đối chiếu tương quan"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Researchers need to cross-correlate data from multiple telescopes to confirm the discovery."
+      }
+    },
+    {
+      "id": 50,
+      "targetLexeme": "space environmentalist",
+      "sourceContext": "Jah describes himself as a space environmentalist: ‘I want to make space a place that is safe to operate, that is free and useful for generations to come.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhà môi trường không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/speɪs ɪnˌvaɪrənˈmentəlɪst/",
+        "sentiment": "positive",
+        "definitionEN": "A person who is concerned with and advocates for the protection of the space environment from pollution and debris.",
+        "translationVI": "Nhà môi trường không gian",
+        "relatedCollocates": ["space advocate", "environmental activist"],
+        "wordForms": {
+          "noun": [
+            { "form": "environmentalist", "meaning": "nhà môi trường học" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "As a space environmentalist, she campaigns for stricter rules on satellite disposal."
+      }
+    },
+    {
+      "id": 51,
+      "targetLexeme": "generations to come",
+      "sourceContext": "‘I want to make space a place that is safe to operate, that is free and useful for generations to come.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Các thế hệ tương lai"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌdʒenəˈreɪʃənz tə kʌm/",
+        "sentiment": "positive",
+        "definitionEN": "Future generations of people.",
+        "translationVI": "Các thế hệ mai sau",
+        "relatedCollocates": ["future generations", "posterity"],
+        "wordForms": {
+          "noun": [{ "form": "generation", "meaning": "thế hệ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We must preserve our planet's resources for generations to come."
+      }
+    },
+    {
+      "id": 52,
+      "targetLexeme": "devolving into a tragedy",
+      "sourceContext": "‘Until that happens, he argues, the space community will continue devolving into a tragedy in which all spaceflight operators are polluting a common resource.",
+      "phase1Inference": {
+        "contextualGuessVI": "Biến thành một thảm kịch"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈvɒlvɪŋ ˈɪntuː ə ˈtrædʒədi/",
+        "sentiment": "negative",
+        "definitionEN": "Gradually deteriorating or degenerating into a very sad event or situation.",
+        "translationVI": "Thoái hóa thành một thảm kịch",
+        "relatedCollocates": ["degenerating into", "turning into a disaster"],
+        "wordForms": {
+          "verb": [{ "form": "devolve", "meaning": "chuyển giao, thoái hóa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Without proper communication, the debate started devolving into a series of personal attacks."
+      }
+    },
+    {
+      "id": 53,
+      "targetLexeme": "spaceflight operators",
+      "sourceContext": "...in which all spaceflight operators are polluting a common resource.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các nhà khai thác chuyến bay không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈspeɪsflaɪt ˈɒpəreɪtəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Companies, agencies, or other entities that manage and conduct space missions.",
+        "translationVI": "Các nhà khai thác chuyến bay không gian",
+        "relatedCollocates": ["satellite operators", "space agencies"],
+        "wordForms": {
+          "noun": [{ "form": "operator", "meaning": "nhà điều hành" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "All spaceflight operators have a responsibility to minimize the debris they create."
+      }
+    },
+    {
+      "id": 54,
+      "targetLexeme": "polluting a common resource",
+      "sourceContext": "...in which all spaceflight operators are polluting a common resource.",
+      "phase1Inference": {
+        "contextualGuessVI": "Làm ô nhiễm một nguồn tài nguyên chung"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pəˈluːtɪŋ ə ˈkɒmən rɪˈsɔːs/",
+        "sentiment": "negative",
+        "definitionEN": "Contaminating a resource, such as air, water, or in this case, orbital space, that is shared by everyone.",
+        "translationVI": "Làm ô nhiễm một nguồn tài nguyên chung",
+        "relatedCollocates": [
+          "tragedy of the commons",
+          "contaminating a shared asset"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "pollute", "meaning": "làm ô nhiễm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Without international agreements, countries risk polluting a common resource like the high seas."
+      }
+    },
+    {
+      "id": 55,
+      "targetLexeme": "major traffic risks",
+      "sourceContext": "Satellites, rocket shards and collision debris are creating major traffic risks in orbit around the planet.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những rủi ro giao thông lớn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmeɪdʒə ˈtræfɪk rɪsks/",
+        "sentiment": "negative",
+        "definitionEN": "Significant dangers related to the movement of objects, in this case, in space.",
+        "translationVI": "Những rủi ro giao thông lớn",
+        "relatedCollocates": ["collision hazards", "significant dangers"],
+        "wordForms": {
+          "noun": [{ "form": "risk", "meaning": "rủi ro" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Icy roads are creating major traffic risks for morning commuters."
+      }
+    },
+    {
+      "id": 56,
+      "targetLexeme": "yearly average",
+      "sourceContext": "Last year, commercial, military and civil departments and amateurs sent more than 400 satellites into orbit, over four times the yearly average in the previous decade.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mức trung bình hàng năm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈjɪəli ˈævərɪdʒ/",
+        "sentiment": "neutral",
+        "definitionEN": "The typical amount per year, calculated by adding together amounts for several years and dividing by the number of years.",
+        "translationVI": "Mức trung bình hàng năm",
+        "relatedCollocates": ["annual average", "average per year"],
+        "wordForms": {
+          "noun": [{ "form": "average", "meaning": "trung bình" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "This year's rainfall is well above the yearly average for the region."
+      }
+    },
+    {
+      "id": 57,
+      "targetLexeme": "follow through on plans",
+      "sourceContext": "Numbers could rise even more sharply if leading space companies follow through on plans to deploy hundreds to thousands of large constellations of satellites...",
+      "phase1Inference": {
+        "contextualGuessVI": "Thực hiện kế hoạch đến cùng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfɒləʊ θruː ɒn plænz/",
+        "sentiment": "positive",
+        "definitionEN": "To continue with a plan, project, or idea to its completion.",
+        "translationVI": "Thực hiện kế hoạch đến cùng",
+        "relatedCollocates": ["execute plans", "carry out plans"],
+        "wordForms": {
+          "verb": [{ "form": "follow through", "meaning": "theo đến cùng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It's important for the government to follow through on its promises to reduce taxes."
+      }
+    },
+    {
+      "id": 58,
+      "targetLexeme": "deploy",
+      "sourceContext": "...follow through on plans to deploy hundreds to thousands of large constellations of satellites...",
+      "phase1Inference": {
+        "contextualGuessVI": "Triển khai"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈplɔɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "To move (troops or equipment) into position for military action; to bring into effective action.",
+        "translationVI": "Triển khai",
+        "relatedCollocates": ["launch", "put into service"],
+        "wordForms": {
+          "noun": [{ "form": "deployment", "meaning": "sự triển khai" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company plans to deploy its new software across all departments next month."
+      }
+    },
+    {
+      "id": 59,
+      "targetLexeme": "steer away from",
+      "sourceContext": "And satellite operators can’t steer away from every potential crash...",
+      "phase1Inference": {
+        "contextualGuessVI": "Lái tránh khỏi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/stɪər əˈweɪ frəm/",
+        "sentiment": "neutral",
+        "definitionEN": "To guide a vehicle or spacecraft to avoid something.",
+        "translationVI": "Lái tránh khỏi",
+        "relatedCollocates": ["maneuver away from", "avoid"],
+        "wordForms": {
+          "verb": [{ "form": "steer", "meaning": "lái, điều khiển" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The captain had to steer away from the iceberg to prevent a collision."
+      }
+    },
+    {
+      "id": 60,
+      "targetLexeme": "spacecraft’s main job",
+      "sourceContext": "...fuel that could otherwise be used for the spacecraft’s main job.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhiệm vụ chính của tàu vũ trụ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈspeɪskrɑːfts meɪn dʒɒb/",
+        "sentiment": "neutral",
+        "definitionEN": "The primary function or purpose of the satellite or vehicle in space.",
+        "translationVI": "Nhiệm vụ chính của tàu vũ trụ",
+        "relatedCollocates": ["primary mission", "main function"],
+        "wordForms": {
+          "noun": [{ "form": "job", "meaning": "công việc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The spacecraft's main job is to observe distant galaxies, not to dodge debris."
+      }
+    },
+    {
+      "id": 61,
+      "targetLexeme": "attacking the problem",
+      "sourceContext": "...researchers are investigating new ways of attacking the problem.",
+      "phase1Inference": {
+        "contextualGuessVI": "Giải quyết vấn đề"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈtækɪŋ ðə ˈprɒbləm/",
+        "sentiment": "neutral",
+        "definitionEN": "To deal with a problem in a direct and determined way.",
+        "translationVI": "Giải quyết vấn đề",
+        "relatedCollocates": ["tackling the issue", "addressing the problem"],
+        "wordForms": {
+          "verb": [{ "form": "attack", "meaning": "tấn công, giải quyết" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We need a new strategy for attacking the problem of homelessness in our city."
+      }
+    },
+    {
+      "id": 62,
+      "targetLexeme": "work more efficiently",
+      "sourceContext": "...so that satellite operators can work more efficiently in ever-more-crowded space.",
+      "phase1Inference": {
+        "contextualGuessVI": "Làm việc hiệu quả hơn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɜːk mɔːr ɪˈfɪʃntli/",
+        "sentiment": "positive",
+        "definitionEN": "To operate in a way that achieves maximum productivity with minimum wasted effort or expense.",
+        "translationVI": "Làm việc hiệu quả hơn",
+        "relatedCollocates": [
+          "operate more effectively",
+          "improve productivity"
+        ],
+        "wordForms": {
+          "adverb": [{ "form": "efficiently", "meaning": "một cách hiệu quả" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "By automating repetitive tasks, the team was able to work more efficiently."
+      }
+    },
+    {
+      "id": 63,
+      "targetLexeme": "measuring properties",
+      "sourceContext": "...working on measuring properties such as the shape and size of an object...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đo lường các thuộc tính"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmeʒərɪŋ ˈprɒpətiz/",
+        "sentiment": "neutral",
+        "definitionEN": "To ascertain the size, amount, or degree of the qualities or characteristics of something.",
+        "translationVI": "Đo lường các thuộc tính",
+        "relatedCollocates": [
+          "assessing characteristics",
+          "determining qualities"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "property", "meaning": "thuộc tính, đặc tính" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The lab is responsible for measuring properties of new materials, such as their strength and conductivity."
+      }
+    },
+    {
+      "id": 64,
+      "targetLexeme": "unthinkable",
+      "sourceContext": "The alternative, many say, is unthinkable.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không thể tưởng tượng được"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ʌnˈθɪŋkəbl/",
+        "sentiment": "negative",
+        "definitionEN": "So shocking or bad that it is impossible to imagine.",
+        "translationVI": "Không thể tưởng tượng được",
+        "relatedCollocates": ["inconceivable", "unimaginable"],
+        "wordForms": {
+          "verb": [{ "form": "think", "meaning": "suy nghĩ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In the past, the idea of carrying a powerful computer in your pocket was unthinkable."
+      }
+    },
+    {
+      "id": 65,
+      "targetLexeme": "monitor space objects",
+      "sourceContext": "Even as our ability to monitor space objects increases, so too does the total number of items in orbit.",
+      "phase1Inference": {
+        "contextualGuessVI": "Giám sát các vật thể không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmɒnɪtə speɪs ˈɒbdʒɪkts/",
+        "sentiment": "neutral",
+        "definitionEN": "To observe and check the progress or quality of objects in space over a period of time.",
+        "translationVI": "Giám sát các vật thể không gian",
+        "relatedCollocates": ["track space debris", "observe satellites"],
+        "wordForms": {
+          "verb": [{ "form": "monitor", "meaning": "giám sát" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Radar stations around the world are used to monitor space objects."
+      }
+    },
+    {
+      "id": 66,
+      "targetLexeme": "end of their useful life",
+      "sourceContext": "Those include inactivating satellites at the end of their useful life...",
+      "phase1Inference": {
+        "contextualGuessVI": "Kết thúc vòng đời hữu ích của chúng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/end əv ðeə ˈjuːsfl laɪf/",
+        "sentiment": "neutral",
+        "definitionEN": "The point at which an asset is no longer functional or economically viable.",
+        "translationVI": "Kết thúc vòng đời hữu ích",
+        "relatedCollocates": ["end of mission", "decommissioning phase"],
+        "wordForms": {
+          "noun": [{ "form": "life", "meaning": "cuộc sống, vòng đời" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The washing machine finally reached the end of its useful life after 15 years of service."
+      }
+    },
+    {
+      "id": 67,
+      "targetLexeme": "leftover fuel",
+      "sourceContext": "...venting pressurised materials or leftover fuel that might lead to explosions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhiên liệu còn sót lại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈleftəʊvə fjuːəl/",
+        "sentiment": "neutral",
+        "definitionEN": "The remaining propellant in a spacecraft after its mission is complete.",
+        "translationVI": "Nhiên liệu còn sót lại",
+        "relatedCollocates": ["residual propellant", "remaining fuel"],
+        "wordForms": {
+          "noun": [{ "form": "fuel", "meaning": "nhiên liệu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Safely disposing of leftover fuel is a major challenge in decommissioning nuclear power plants."
+      }
+    },
+    {
+      "id": 68,
+      "targetLexeme": "European Space Agency",
+      "sourceContext": "...says Holger Krag, head of the European Space Agency’s space-debris office in Darmstadt, Germany.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cơ quan Vũ trụ Châu Âu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌjʊərəˈpiːən speɪs ˈeɪdʒənsi/",
+        "sentiment": "neutral",
+        "definitionEN": "An intergovernmental organization of 22 member states dedicated to the exploration of space.",
+        "translationVI": "Cơ quan Vũ trụ Châu Âu",
+        "relatedCollocates": ["ESA", "NASA"],
+        "wordForms": {
+          "noun": [{ "form": "agency", "meaning": "cơ quan" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The European Space Agency launched a new satellite to monitor Earth's changing climate."
+      }
+    },
+    {
+      "id": 69,
+      "targetLexeme": "enterprises",
+      "sourceContext": "Operators of the planned large constellations of satellites say they will be responsible stewards in their enterprises...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các doanh nghiệp, dự án kinh doanh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈentəpraɪzɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "A project or undertaking, typically one that is difficult or requires effort, especially a business or company.",
+        "translationVI": "Các doanh nghiệp",
+        "relatedCollocates": ["businesses", "ventures", "undertakings"],
+        "wordForms": {
+          "noun": [{ "form": "enterprise", "meaning": "doanh nghiệp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Starting a new company is a challenging but rewarding enterprise."
+      }
+    },
+    {
+      "id": 70,
+      "targetLexeme": "plenty of room",
+      "sourceContext": "In theory, given the vastness of space, satellite operators should have plenty of room for all these missions to fly safely without ever nearing another object.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhiều không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈplenti əv ruːm/",
+        "sentiment": "positive",
+        "definitionEN": "A large amount of available space.",
+        "translationVI": "Nhiều không gian",
+        "relatedCollocates": ["ample space", "a lot of space"],
+        "wordForms": {
+          "noun": [{ "form": "room", "meaning": "không gian, phòng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new house has a large backyard with plenty of room for the kids to play."
+      }
+    },
+    {
+      "id": 71,
+      "targetLexeme": "carried out",
+      "sourceContext": "...unnecessary manoeuvres that are carried out to avoid potential collisions.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được thực hiện"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkærid aʊt/",
+        "sentiment": "neutral",
+        "definitionEN": "To perform or complete a task or activity.",
+        "translationVI": "Được thực hiện",
+        "relatedCollocates": ["performed", "conducted", "executed"],
+        "wordForms": {
+          "verb": [{ "form": "carry out", "meaning": "thực hiện" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A detailed investigation was carried out to determine the cause of the accident."
+      }
+    },
+    {
+      "id": 72,
+      "targetLexeme": "planes line up",
+      "sourceContext": "Think about a busy day at an airport, says Moriba Jah, an astrodynamicist at the University of Texas at Austin: planes line up in the sky, landing and taking off close to one another in a carefully choreographed routine.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các máy bay xếp hàng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pleɪnz laɪn ʌp/",
+        "sentiment": "neutral",
+        "definitionEN": "When aircraft form a queue, typically in the air while waiting for permission to land.",
+        "translationVI": "Các máy bay xếp hàng",
+        "relatedCollocates": ["queue up", "form a line"],
+        "wordForms": {
+          "verb": [{ "form": "line up", "meaning": "xếp hàng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "During the storm, we could see several planes line up in a holding pattern, waiting to land."
+      }
+    },
+    {
+      "id": 73,
+      "targetLexeme": "down to one metre in accuracy",
+      "sourceContext": "Air-traffic controllers know the location of the planes down to one metre in accuracy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Với độ chính xác đến một mét"
+      },
+      "phase2Annotation": {
+        "phonetic": "/daʊn tuː wʌn ˈmiːtər ɪn ˈækjərəsi/",
+        "sentiment": "positive",
+        "definitionEN": "With a precision level where the margin of error is no more than one meter.",
+        "translationVI": "Với độ chính xác đến một mét",
+        "relatedCollocates": ["highly accurate", "precise to within one meter"],
+        "wordForms": {
+          "noun": [{ "form": "accuracy", "meaning": "độ chính xác" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Modern GPS systems can pinpoint your location down to one metre in accuracy."
+      }
+    },
+    {
+      "id": 74,
+      "targetLexeme": "The same can’t be said for",
+      "sourceContext": "The same can’t be said for space debris.",
+      "phase1Inference": {
+        "contextualGuessVI": "Điều tương tự không thể nói về"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə seɪm kɑːnt biː sed fɔː/",
+        "sentiment": "negative",
+        "definitionEN": "A phrase used to say that something is not true for another person or thing.",
+        "translationVI": "Điều tương tự không thể nói về",
+        "relatedCollocates": [
+          "it's a different story for",
+          "the opposite is true for"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "say", "meaning": "nói" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He is a very reliable employee, but the same can’t be said for his colleague."
+      }
+    },
+    {
+      "id": 75,
+      "targetLexeme": "illustrates this with",
+      "sourceContext": "Jah illustrates this with a web-based database that he has developed.",
+      "phase1Inference": {
+        "contextualGuessVI": "Minh họa điều này bằng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɪləstreɪts ðɪs wɪð/",
+        "sentiment": "neutral",
+        "definitionEN": "To explain or make something clear by using examples, charts, pictures, etc.",
+        "translationVI": "Minh họa điều này bằng",
+        "relatedCollocates": ["demonstrates this with", "shows this using"],
+        "wordForms": {
+          "verb": [{ "form": "illustrate", "meaning": "minh họa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The teacher illustrates the concept with a simple diagram on the board."
+      }
+    },
+    {
+      "id": 76,
+      "targetLexeme": "maintained by",
+      "sourceContext": "...such as catalogues maintained by the US and Russian governments...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được duy trì bởi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/meɪnˈteɪnd baɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "To be kept in good condition or in existence by someone or something.",
+        "translationVI": "Được duy trì bởi",
+        "relatedCollocates": ["kept up-to-date by", "managed by"],
+        "wordForms": {
+          "verb": [{ "form": "maintain", "meaning": "duy trì" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The public gardens are beautifully maintained by a team of dedicated volunteers."
+      }
+    },
+    {
+      "id": 77,
+      "targetLexeme": "doesn’t quite work",
+      "sourceContext": "Only this doesn’t quite work for a number of objects...",
+      "phase1Inference": {
+        "contextualGuessVI": "Không hoàn toàn hoạt động"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdʌznt kwaɪt wɜːk/",
+        "sentiment": "negative",
+        "definitionEN": "Does not function perfectly or as expected.",
+        "translationVI": "Không hoàn toàn hoạt động",
+        "relatedCollocates": [
+          "isn't completely effective",
+          "doesn't function properly"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "work", "meaning": "làm việc, hoạt động" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It's a good idea in theory, but it doesn’t quite work in practice."
+      }
+    },
+    {
+      "id": 78,
+      "targetLexeme": "almost impossible to tell",
+      "sourceContext": "Jah says that it is almost impossible to tell which is correct...",
+      "phase1Inference": {
+        "contextualGuessVI": "Hầu như không thể nói được"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɔːlməʊst ɪmˈpɒsəbl tuː tel/",
+        "sentiment": "neutral",
+        "definitionEN": "Extremely difficult to know or determine.",
+        "translationVI": "Hầu như không thể phân biệt/biết được",
+        "relatedCollocates": [
+          "nearly impossible to determine",
+          "very hard to know"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "tell", "meaning": "nói, phân biệt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The twins look so alike that it's almost impossible to tell them apart."
+      }
+    },
+    {
+      "id": 79,
+      "targetLexeme": "a third source of information",
+      "sourceContext": "...unless a third source of information made it possible to cross-correlate.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một nguồn thông tin thứ ba"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə θɜːd sɔːs əv ˌɪnfəˈmeɪʃn/",
+        "sentiment": "neutral",
+        "definitionEN": "An additional, independent provider of facts or data used for verification.",
+        "translationVI": "Một nguồn thông tin thứ ba",
+        "relatedCollocates": ["an independent source", "another reference"],
+        "wordForms": {
+          "noun": [{ "form": "source", "meaning": "nguồn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The journalist needed a third source of information to confirm the story before publishing it."
+      }
+    },
+    {
+      "id": 80,
+      "targetLexeme": "describes himself as",
+      "sourceContext": "Jah describes himself as a space environmentalist...",
+      "phase1Inference": {
+        "contextualGuessVI": "Mô tả bản thân là"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈskraɪbz hɪmˈself æz/",
+        "sentiment": "neutral",
+        "definitionEN": "To say what one is like or what one's job is.",
+        "translationVI": "Mô tả bản thân là",
+        "relatedCollocates": ["identifies as", "considers himself"],
+        "wordForms": {
+          "verb": [{ "form": "describe", "meaning": "mô tả" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She describes herself as a lifelong learner, always eager to acquire new skills."
+      }
+    },
+    {
+      "id": 81,
+      "targetLexeme": "safe to operate",
+      "sourceContext": "‘I want to make space a place that is safe to operate...",
+      "phase1Inference": {
+        "contextualGuessVI": "An toàn để vận hành"
+      },
+      "phase2Annotation": {
+        "phonetic": "/seɪf tuː ˈɒpəreɪt/",
+        "sentiment": "positive",
+        "definitionEN": "Free from danger or risk when conducting activities or missions.",
+        "translationVI": "An toàn để vận hành",
+        "relatedCollocates": ["secure for operations", "a safe environment"],
+        "wordForms": {
+          "verb": [{ "form": "operate", "meaning": "vận hành" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new machinery has many safety features, making it safe to operate even for beginners."
+      }
+    },
+    {
+      "id": 82,
+      "targetLexeme": "Until that happens",
+      "sourceContext": "‘Until that happens, he argues, the space community will continue devolving into a tragedy...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cho đến khi điều đó xảy ra"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ənˈtɪl ðæt ˈhæpənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Up to the point in time that a particular event occurs.",
+        "translationVI": "Cho đến khi điều đó xảy ra",
+        "relatedCollocates": ["before then", "in the meantime"],
+        "wordForms": {
+          "verb": [{ "form": "happen", "meaning": "xảy ra" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We can't make a final decision on the budget. Until that happens, all projects are on hold."
+      }
+    },
+    {
+      "id": 83,
+      "targetLexeme": "conquering",
+      "sourceContext": "Conquering Earth’s space junk problem",
+      "phase1Inference": {
+        "contextualGuessVI": "Chinh phục, giải quyết"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkɒŋkərɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "Successfully overcoming a problem or weakness.",
+        "translationVI": "Chinh phục, khắc phục",
+        "relatedCollocates": ["overcoming", "tackling", "solving"],
+        "wordForms": {
+          "verb": [{ "form": "conquer", "meaning": "chinh phục" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Scientists are working on new technologies for conquering the challenge of plastic pollution in our oceans."
+      }
+    },
+    {
+      "id": 84,
+      "targetLexeme": "reduce these threats",
+      "sourceContext": "Researchers are working to reduce these threats",
+      "phase1Inference": {
+        "contextualGuessVI": "Giảm bớt những mối đe dọa này"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈdjuːs ðiːz θrets/",
+        "sentiment": "positive",
+        "definitionEN": "To make these dangers or risks smaller in amount, degree, or size.",
+        "translationVI": "Giảm bớt những mối đe dọa này",
+        "relatedCollocates": ["mitigate these risks", "lessen these dangers"],
+        "wordForms": {
+          "verb": [{ "form": "reduce", "meaning": "giảm bớt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new security measures are intended to reduce the threats of cyberattacks."
+      }
+    },
+    {
+      "id": 85,
+      "targetLexeme": "civil departments",
+      "sourceContext": "Last year, commercial, military and civil departments and amateurs sent more than 400 satellites into orbit...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các cơ quan dân sự"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsɪvl dɪˈpɑːtmənts/",
+        "sentiment": "neutral",
+        "definitionEN": "Government agencies that are not part of the armed forces; non-military governmental bodies.",
+        "translationVI": "Các cơ quan dân sự",
+        "relatedCollocates": ["government agencies", "public sector"],
+        "wordForms": {
+          "adjective": [{ "form": "civil", "meaning": "dân sự" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Civil departments such as the weather service also rely heavily on satellite data."
+      }
+    },
+    {
+      "id": 86,
+      "targetLexeme": "amateurs",
+      "sourceContext": "...commercial, military and civil departments and amateurs sent more than 400 satellites into orbit...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những người nghiệp dư"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈæmətəz/",
+        "sentiment": "neutral",
+        "definitionEN": "People who engage in a pursuit, especially a scientific one, on an unpaid basis.",
+        "translationVI": "Những người nghiệp dư",
+        "relatedCollocates": ["hobbyists", "non-professionals"],
+        "wordForms": {
+          "adjective": [{ "form": "amateur", "meaning": "nghiệp dư" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many important astronomical discoveries have been made by amateurs with their own telescopes."
+      }
+    },
+    {
+      "id": 87,
+      "targetLexeme": "previous decade",
+      "sourceContext": "...over four times the yearly average in the previous decade.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thập kỷ trước"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpriːviəs ˈdekeɪd/",
+        "sentiment": "neutral",
+        "definitionEN": "The period of ten years that came before the current one.",
+        "translationVI": "Thập kỷ trước",
+        "relatedCollocates": ["the last ten years", "the preceding decade"],
+        "wordForms": {
+          "noun": [{ "form": "decade", "meaning": "thập kỷ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company's growth this year has surpassed its total growth in the previous decade."
+      }
+    },
+    {
+      "id": 88,
+      "targetLexeme": "rise even more sharply",
+      "sourceContext": "Numbers could rise even more sharply if leading space companies follow through on plans...",
+      "phase1Inference": {
+        "contextualGuessVI": "Tăng thậm chí còn đột ngột hơn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/raɪz ˈiːvən mɔː ˈʃɑːpli/",
+        "sentiment": "neutral",
+        "definitionEN": "To increase quickly and suddenly to a greater degree.",
+        "translationVI": "Tăng thậm chí còn mạnh hơn",
+        "relatedCollocates": ["increase dramatically", "grow rapidly"],
+        "wordForms": {
+          "verb": [{ "form": "rise", "meaning": "tăng lên" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After the product was featured on TV, sales began to rise even more sharply."
+      }
+    },
+    {
+      "id": 89,
+      "targetLexeme": "leading space companies",
+      "sourceContext": "...if leading space companies follow through on plans to deploy hundreds to thousands of large constellations of satellites...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các công ty không gian hàng đầu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈliːdɪŋ speɪs ˈkʌmpəniz/",
+        "sentiment": "neutral",
+        "definitionEN": "The most important or successful companies in the aerospace industry.",
+        "translationVI": "Các công ty không gian hàng đầu",
+        "relatedCollocates": ["major aerospace firms", "top companies"],
+        "wordForms": {
+          "adjective": [{ "form": "leading", "meaning": "hàng đầu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Leading space companies are in a new race to develop reusable rocket technology."
+      }
+    },
+    {
+      "id": 90,
+      "targetLexeme": "smashed into",
+      "sourceContext": "Ten years ago, a US commercial Iridium satellite smashed into an inactive Russian communications satellite...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đâm sầm vào"
+      },
+      "phase2Annotation": {
+        "phonetic": "/smæʃt ˈɪntuː/",
+        "sentiment": "negative",
+        "definitionEN": "To crash into something with great force and violence.",
+        "translationVI": "Đâm sầm vào",
+        "relatedCollocates": ["collided with", "crashed into"],
+        "wordForms": {
+          "verb": [{ "form": "smash", "meaning": "đập vỡ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The car lost control on the ice and smashed into a tree."
+      }
+    },
+    {
+      "id": 91,
+      "targetLexeme": "altitude",
+      "sourceContext": "...the zone stretching up to 2,000 kilometres in altitude.",
+      "phase1Inference": {
+        "contextualGuessVI": "Độ cao"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈæltɪtjuːd/",
+        "sentiment": "neutral",
+        "definitionEN": "The height of an object or point in relation to sea level or ground level.",
+        "translationVI": "Độ cao",
+        "relatedCollocates": ["elevation", "height"],
+        "wordForms": {
+          "noun": [{ "form": "altitude", "meaning": "độ cao" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Mountain climbers often need to acclimatize to the low oxygen levels at high altitude."
+      }
+    },
+    {
+      "id": 92,
+      "targetLexeme": "working satellites",
+      "sourceContext": "Altogether, there are roughly 20,000 human-made objects in orbit, from working satellites to small rocket pieces.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các vệ tinh đang hoạt động"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwɜːkɪŋ ˈsætəlaɪts/",
+        "sentiment": "positive",
+        "definitionEN": "Satellites that are currently operational and performing their intended function.",
+        "translationVI": "Các vệ tinh đang hoạt động",
+        "relatedCollocates": ["active satellites", "operational spacecraft"],
+        "wordForms": {
+          "adjective": [{ "form": "working", "meaning": "đang hoạt động" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company relies on a network of working satellites for its global communications service."
+      }
+    },
+    {
+      "id": 93,
+      "targetLexeme": "consumes time and fuel",
+      "sourceContext": "...because each move consumes time and fuel that could otherwise be used for the spacecraft’s main job.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tiêu tốn thời gian và nhiên liệu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kənˈsjuːmz taɪm ənd fjuːəl/",
+        "sentiment": "negative",
+        "definitionEN": "To use up resources, specifically the duration of an activity and the material used for energy.",
+        "translationVI": "Tiêu tốn thời gian và nhiên liệu",
+        "relatedCollocates": ["uses up resources", "expends energy"],
+        "wordForms": {
+          "verb": [{ "form": "consume", "meaning": "tiêu thụ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Taking the scenic route consumes time and fuel, but the views are worth it."
+      }
+    },
+    {
+      "id": 94,
+      "targetLexeme": "assessing",
+      "sourceContext": "Several teams are trying to improve methods for assessing what is in orbit...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đánh giá"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈsesɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "Evaluating or estimating the nature, ability, or quality of something.",
+        "translationVI": "Đánh giá",
+        "relatedCollocates": ["evaluating", "judging", "appraising"],
+        "wordForms": {
+          "verb": [{ "form": "assess", "meaning": "đánh giá" }],
+          "noun": [{ "form": "assessment", "meaning": "sự đánh giá" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The insurance company is responsible for assessing the damage to the vehicle after the accident."
+      }
+    },
+    {
+      "id": 95,
+      "targetLexeme": "set off",
+      "sourceContext": "...could generate enough debris to set off a runaway cascade of fragments...",
+      "phase1Inference": {
+        "contextualGuessVI": "Gây ra, kích hoạt"
+      },
+      "phase2Annotation": {
+        "phonetic": "/set ɒf/",
+        "sentiment": "neutral",
+        "definitionEN": "To cause a process or series of events to begin.",
+        "translationVI": "Kích hoạt, gây ra",
+        "relatedCollocates": ["trigger", "initiate", "start"],
+        "wordForms": {
+          "verb": [{ "form": "set off", "meaning": "kích hoạt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The unexpected news could set off a panic in the financial markets."
+      }
+    },
+    {
+      "id": 96,
+      "targetLexeme": "players in space",
+      "sourceContext": "That means companies, governments and other players in space are collaborating in new ways...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các bên tham gia trong lĩnh vực không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpleɪəz ɪn speɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "The various countries, companies, and organizations that are involved in space activities.",
+        "translationVI": "Các bên tham gia trong lĩnh vực không gian",
+        "relatedCollocates": ["stakeholders", "space-faring nations", "actors"],
+        "wordForms": {
+          "noun": [{ "form": "player", "meaning": "người chơi, bên tham gia" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "New private companies are becoming major players in space exploration."
+      }
+    },
+    {
+      "id": 97,
+      "targetLexeme": "guidelines",
+      "sourceContext": "International groups... have developed guidelines on space sustainability.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các hướng dẫn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɡaɪdlaɪnz/",
+        "sentiment": "neutral",
+        "definitionEN": "General rules, principles, or pieces of advice.",
+        "translationVI": "Các nguyên tắc hướng dẫn",
+        "relatedCollocates": ["recommendations", "rules", "protocols"],
+        "wordForms": {
+          "noun": [{ "form": "guideline", "meaning": "nguyên tắc hướng dẫn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government has issued new guidelines for safe international travel during the pandemic."
+      }
+    },
+    {
+      "id": 98,
+      "targetLexeme": "25-year goal",
+      "sourceContext": "...only about half of all missions have abided by this 25-year goal...",
+      "phase1Inference": {
+        "contextualGuessVI": "Mục tiêu 25 năm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtwenti faɪv jɪə ɡəʊl/",
+        "sentiment": "neutral",
+        "definitionEN": "An objective or target that is intended to be achieved within a twenty-five year timeframe.",
+        "translationVI": "Mục tiêu 25 năm",
+        "relatedCollocates": ["long-term objective", "time-bound target"],
+        "wordForms": {
+          "noun": [{ "form": "goal", "meaning": "mục tiêu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The international community has set a 25-year goal to significantly reduce carbon emissions."
+      }
+    },
+    {
+      "id": 99,
+      "targetLexeme": "head of",
+      "sourceContext": "...says Holger Krag, head of the European Space Agency’s space-debris office...",
+      "phase1Inference": {
+        "contextualGuessVI": "Người đứng đầu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hed əv/",
+        "sentiment": "neutral",
+        "definitionEN": "The person in charge of a team, department, or organization.",
+        "translationVI": "Người đứng đầu, trưởng phòng",
+        "relatedCollocates": ["leader of", "director of", "chief of"],
+        "wordForms": {
+          "noun": [{ "form": "head", "meaning": "cái đầu, người đứng đầu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She was recently appointed as the new head of the marketing department."
+      }
+    },
+    {
+      "id": 100,
+      "targetLexeme": "vastness of space",
+      "sourceContext": "In theory, given the vastness of space, satellite operators should have plenty of room...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự rộng lớn của không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈvɑːstnəs əv speɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "The quality of space being of very great extent or quantity; immense.",
+        "translationVI": "Sự rộng lớn của không gian",
+        "relatedCollocates": ["immensity of the cosmos", "expanse of space"],
+        "wordForms": {
+          "noun": [{ "form": "vastness", "meaning": "sự rộng lớn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Staring at the night sky, one can't help but feel humbled by the vastness of space."
+      }
+    },
+    {
+      "id": 101,
+      "targetLexeme": "nearing another object",
+      "sourceContext": "...to fly safely without ever nearing another object.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đến gần một vật thể khác"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈnɪərɪŋ əˈnʌðər ˈɒbdʒɪkt/",
+        "sentiment": "negative",
+        "definitionEN": "To come close to another item or body in terms of distance.",
+        "translationVI": "Đến gần một vật thể khác",
+        "relatedCollocates": ["approaching", "getting close to"],
+        "wordForms": {
+          "verb": [{ "form": "near", "meaning": "đến gần" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ship's radar sounded an alarm as it was nearing another object in the thick fog."
+      }
+    },
+    {
+      "id": 102,
+      "targetLexeme": "taking off",
+      "sourceContext": "...planes line up in the sky, landing and taking off close to one another...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cất cánh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈteɪkɪŋ ɒf/",
+        "sentiment": "neutral",
+        "definitionEN": "(Of an aircraft or bird) to become airborne.",
+        "translationVI": "Cất cánh",
+        "relatedCollocates": ["departing", "becoming airborne", "landing"],
+        "wordForms": {
+          "verb": [{ "form": "take off", "meaning": "cất cánh" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Please fasten your seatbelts as we are preparing for taking off."
+      }
+    },
+    {
+      "id": 103,
+      "targetLexeme": "identifier",
+      "sourceContext": "When he types in an identifier for a particular space object, the database draws a purple line...",
+      "phase1Inference": {
+        "contextualGuessVI": "Mã định danh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/aɪˈdentɪfaɪə/",
+        "sentiment": "neutral",
+        "definitionEN": "A sequence of characters used to identify or name an item of data.",
+        "translationVI": "Mã định danh",
+        "relatedCollocates": ["identification number", "designator", "code"],
+        "wordForms": {
+          "verb": [{ "form": "identify", "meaning": "nhận dạng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Each satellite in the catalogue is assigned a unique identifier."
+      }
+    },
+    {
+      "id": 104,
+      "targetLexeme": "space community",
+      "sourceContext": "...the space community will continue devolving into a tragedy...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cộng đồng không gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/speɪs kəˈmjuːnəti/",
+        "sentiment": "neutral",
+        "definitionEN": "The collection of all people, groups, and organizations involved in space-related activities.",
+        "translationVI": "Cộng đồng không gian",
+        "relatedCollocates": ["aerospace industry", "space sector"],
+        "wordForms": {
+          "noun": [{ "form": "community", "meaning": "cộng đồng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The entire space community is working together to address the problem of orbital debris."
+      }
+    }
+  ]
+}

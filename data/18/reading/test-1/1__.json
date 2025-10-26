@@ -1,1561 +1,1553 @@
 {
-  "logTitle": "IELTS Reading Log: Why we need to protect polar bears",
+  "logTitle": "IELTS Reading Log: Urban farming",
   "sourceId": "Reading Passage (Image)",
-  "totalItems": 75,
+  "totalItems": 83,
   "lexicalItems": [
     {
       "id": 1,
-      "targetLexeme": "increasingly threatened",
-      "sourceContext": "Polar bears are being increasingly threatened by the effects of climate change...",
+      "targetLexeme": "a soil-free approach",
+      "sourceContext": "In Paris, urban farmers are trying a soil-free approach to agriculture that uses less space and fewer resources.",
       "phase1Inference": {
-        "contextualGuessVI": "Bị 'đe dọa' (threatened) 'ngày càng tăng' (increasingly)"
+        "contextualGuessVI": "Một 'phương pháp' (approach) 'không dùng đất' (soil-free)"
       },
       "phase2Annotation": {
-        "phonetic": "/ɪnˈkriːsɪŋli ˈθretnd/",
-        "sentiment": "negative",
-        "definitionEN": "To be more and more at risk of harm or danger",
-        "translationVI": "Ngày càng bị đe dọa",
-        "relatedCollocates": [
-          "increasingly (vulnerable)",
-          "seriously (threatened)"
-        ],
+        "phonetic": "/ə sɔɪl-friː əˈprəʊtʃ/",
+        "sentiment": "neutral",
+        "definitionEN": "A method of farming or gardening that does not use soil",
+        "translationVI": "Phương pháp không dùng đất",
+        "relatedCollocates": ["hydroponics (synonym)", "aeroponics (synonym)"],
         "wordForms": {
-          "verb": [{ "form": "threaten", "meaning": "đe dọa" }],
-          "adverb": [{ "form": "increasingly", "meaning": "ngày càng" }]
+          "noun": [{ "form": "approach", "meaning": "phương pháp" }],
+          "adjective": [{ "form": "soil-free", "meaning": "không có đất" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Many species are increasingly threatened by habitat loss."
+        "content": "Hydroponics is a popular soil-free approach for growing vegetables indoors."
       }
     },
     {
       "id": 2,
-      "targetLexeme": "far-reaching consequences",
-      "sourceContext": "...but their disappearance could have far-reaching consequences.",
+      "targetLexeme": "fewer resources",
+      "sourceContext": "...that uses less space and fewer resources.",
       "phase1Inference": {
-        "contextualGuessVI": "Những 'hậu quả' (consequences) 'có ảnh hưởng sâu rộng' (far-reaching)"
+        "contextualGuessVI": "Sử dụng 'ít tài nguyên hơn' (fewer resources)"
       },
       "phase2Annotation": {
-        "phonetic": "/fɑː ˈriːtʃɪŋ ˈkɒnsɪkwənsɪz/",
-        "sentiment": "negative",
-        "definitionEN": "Effects that are extensive and have a wide influence or impact",
-        "translationVI": "Những hậu quả sâu rộng",
-        "relatedCollocates": [
-          "far-reaching (effects)",
-          "far-reaching (implications)"
-        ],
+        "phonetic": "/ˈfjuːə rɪˈsɔːsɪz/",
+        "sentiment": "positive",
+        "definitionEN": "A smaller amount of assets such as water, energy, or materials",
+        "translationVI": "Ít tài nguyên hơn",
+        "relatedCollocates": ["conserve (resources)", "natural (resources)"],
         "wordForms": {
-          "noun": [{ "form": "consequence", "meaning": "hậu quả" }],
-          "adjective": [
-            { "form": "far-reaching", "meaning": "ảnh hưởng sâu rộng" }
-          ]
+          "noun": [{ "form": "resource", "meaning": "tài nguyên" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The invention of the internet has had far-reaching consequences for society."
+        "content": "The new manufacturing process is more efficient and uses fewer resources."
       }
     },
     {
       "id": 3,
-      "targetLexeme": "uniquely adapted to",
-      "sourceContext": "They are uniquely adapted to the extreme conditions of the Arctic Circle...",
+      "targetLexeme": "face the threats",
+      "sourceContext": "Could it help cities face the threats to our food supplies?",
       "phase1Inference": {
-        "contextualGuessVI": "'Thích nghi một cách độc đáo' (uniquely adapted) 'với' (to) các điều kiện khắc nghiệt"
+        "contextualGuessVI": "Giúp các thành phố 'đối mặt với những mối đe dọa' (face the threats)"
       },
       "phase2Annotation": {
-        "phonetic": "/juːˈniːkli əˈdæptɪd tuː/",
-        "sentiment": "positive",
-        "definitionEN": "To be specially suited in a way that is unlike anything else for a particular environment or situation",
-        "translationVI": "Thích nghi một cách độc đáo với",
-        "relatedCollocates": ["well (adapted to)", "perfectly (adapted to)"],
+        "phonetic": "/feɪs ðə θrets/",
+        "sentiment": "neutral",
+        "definitionEN": "To confront or deal with dangers or risks",
+        "translationVI": "Đối mặt với những mối đe dọa",
+        "relatedCollocates": ["pose (a threat)", "confront (a threat)"],
         "wordForms": {
-          "verb": [{ "form": "adapt", "meaning": "thích nghi" }],
-          "adverb": [{ "form": "uniquely", "meaning": "một cách độc đáo" }]
+          "verb": [{ "form": "face", "meaning": "đối mặt" }],
+          "noun": [{ "form": "threat", "meaning": "mối đe dọa" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Camels are uniquely adapted to life in the desert."
+        "content": "Coastal communities must face the threats of rising sea levels."
       }
     },
     {
       "id": 4,
-      "targetLexeme": "adipose tissue",
-      "sourceContext": "Humans with comparative levels of adipose tissue would be considered obese...",
+      "targetLexeme": "food supplies",
+      "sourceContext": "...threats to our food supplies?",
       "phase1Inference": {
-        "contextualGuessVI": "'Mô' (tissue) 'mỡ' (adipose)"
+        "contextualGuessVI": "Các mối đe dọa đối với 'nguồn cung cấp thực phẩm' (food supplies) của chúng ta"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈædɪpəʊs ˈtɪʃuː/",
+        "phonetic": "/fuːd səˈplaɪz/",
         "sentiment": "neutral",
-        "definitionEN": "A technical term for body fat",
-        "translationVI": "Mô mỡ",
-        "relatedCollocates": ["body fat (synonym)", "tissue (n)"],
+        "definitionEN": "The stock of food available to a community or country",
+        "translationVI": "Nguồn cung cấp thực phẩm",
+        "relatedCollocates": ["food (shortage)", "supply chain (n)"],
         "wordForms": {
-          "noun": [{ "form": "tissue", "meaning": "mô" }],
-          "adjective": [{ "form": "adipose", "meaning": "béo, mỡ" }]
+          "noun": [{ "form": "supply", "meaning": "sự cung cấp" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Adipose tissue is important for storing energy and insulating the body."
+        "content": "The drought has severely impacted the country's food supplies."
       }
     },
     {
       "id": 5,
-      "targetLexeme": "considered obese",
-      "sourceContext": "...would be considered obese and would be likely to suffer from diabetes...",
+      "targetLexeme": "a striking new exhibition hall",
+      "sourceContext": "On top of a striking new exhibition hall in southern Paris...",
       "phase1Inference": {
-        "contextualGuessVI": "Sẽ 'được coi là' (be considered) 'béo phì' (obese)"
+        "contextualGuessVI": "Trên đỉnh một 'khu triển lãm' (exhibition hall) 'mới' (new) 'nổi bật' (striking)"
       },
       "phase2Annotation": {
-        "phonetic": "/kənˈsɪdəd əʊˈbiːs/",
-        "sentiment": "negative",
-        "definitionEN": "To be regarded as grossly fat or overweight",
-        "translationVI": "Được coi là béo phì",
-        "relatedCollocates": ["clinically (obese)", "obesity (n)"],
+        "phonetic": "/ə ˈstraɪkɪŋ njuː ˌeksɪˈbɪʃn hɔːl/",
+        "sentiment": "positive",
+        "definitionEN": "A visually impressive and recently built large room or building for public events and displays",
+        "translationVI": "Một khu triển lãm mới nổi bật",
+        "relatedCollocates": ["striking (architecture)", "exhibition (centre)"],
         "wordForms": {
-          "noun": [{ "form": "obesity", "meaning": "bệnh béo phì" }],
-          "adjective": [{ "form": "obese", "meaning": "béo phì" }]
+          "adjective": [{ "form": "striking", "meaning": "nổi bật" }],
+          "noun": [{ "form": "exhibition hall", "meaning": "khu triển lãm" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "A person with a BMI over 30 is generally considered obese."
+        "content": "The museum is housed in a striking new exhibition hall designed by a famous architect."
       }
     },
     {
       "id": 6,
-      "targetLexeme": "sheds light on this mystery",
-      "sourceContext": "A 2014 study by Shi Ping Liu and colleagues sheds light on this mystery.",
+      "targetLexeme": "urban rooftop farm",
+      "sourceContext": "...the world’s largest urban rooftop farm has started to bear fruit.",
       "phase1Inference": {
-        "contextualGuessVI": "'Làm sáng tỏ' (sheds light on) 'bí ẩn' (mystery) 'này' (this)"
+        "contextualGuessVI": "'Nông trại trên sân thượng' (rooftop farm) 'đô thị' (urban) lớn nhất thế giới"
       },
       "phase2Annotation": {
-        "phonetic": "/ʃedz laɪt ɒn ðɪs ˈmɪstri/",
-        "sentiment": "positive",
-        "definitionEN": "To help explain or provide new information about something that is difficult to understand",
-        "translationVI": "Làm sáng tỏ bí ẩn này",
-        "relatedCollocates": ["shed light on (a problem)", "clarify (synonym)"],
+        "phonetic": "/ˈɜːbən ˈruːftɒp fɑːm/",
+        "sentiment": "neutral",
+        "definitionEN": "A farm located on the roof of a building in a city",
+        "translationVI": "Nông trại đô thị trên sân thượng",
+        "relatedCollocates": ["rooftop (garden)", "urban (agriculture)"],
         "wordForms": {
-          "verb": [{ "form": "shed light on", "meaning": "làm sáng tỏ" }]
+          "noun": [{ "form": "farm", "meaning": "nông trại" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The new research sheds light on the causes of the disease."
+        "content": "The hotel's restaurant gets its fresh herbs from its own urban rooftop farm."
       }
     },
     {
       "id": 7,
-      "targetLexeme": "genetic structure",
-      "sourceContext": "They compared the genetic structure of polar bears with that of their closest relatives...",
+      "targetLexeme": "bear fruit",
+      "sourceContext": "...has started to bear fruit.",
       "phase1Inference": {
-        "contextualGuessVI": "'Cấu trúc' (structure) 'di truyền' (genetic)"
+        "contextualGuessVI": "Bắt đầu 'ra quả' (bear fruit)"
       },
       "phase2Annotation": {
-        "phonetic": "/dʒəˈnetɪk ˈstrʌktʃə/",
-        "sentiment": "neutral",
-        "definitionEN": "The arrangement and composition of genes in an organism",
-        "translationVI": "Cấu trúc di truyền",
-        "relatedCollocates": ["genetic (makeup)", "DNA (structure)"],
+        "phonetic": "/beə fruːt/",
+        "sentiment": "positive",
+        "definitionEN": "To produce fruit; to yield successful results",
+        "translationVI": "Đơm hoa kết trái, mang lại kết quả",
+        "relatedCollocates": ["efforts (bear fruit)", "come to fruition"],
         "wordForms": {
-          "noun": [{ "form": "structure", "meaning": "cấu trúc" }],
-          "adjective": [{ "form": "genetic", "meaning": "thuộc di truyền" }]
+          "verb": [{ "form": "bear", "meaning": "mang, sinh sản" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Scientists are studying the genetic structure of the virus to develop a vaccine."
+        "content": "After years of hard work, his research is finally starting to bear fruit."
       }
     },
     {
       "id": 8,
-      "targetLexeme": "mutations of this gene",
-      "sourceContext": "In humans, mutations of this gene are associated with increased risk of heart disease.",
+      "targetLexeme": "intensely flavoured",
+      "sourceContext": "Strawberries that are small, intensely flavoured and resplendently red sprout abundantly from large plastic tubes.",
       "phase1Inference": {
-        "contextualGuessVI": "Các 'đột biến' (mutations) 'của' (of) 'gen' (gene) 'này' (this)"
+        "contextualGuessVI": "Có 'hương vị' (flavoured) 'đậm đà' (intensely)"
       },
       "phase2Annotation": {
-        "phonetic": "/mjuːˈteɪʃənz əv ðɪs dʒiːn/",
-        "sentiment": "neutral",
-        "definitionEN": "Changes in the genetic sequence of a gene",
-        "translationVI": "Các đột biến của gen này",
-        "relatedCollocates": ["gene (mutation)", "genetic (mutation)"],
+        "phonetic": "/ɪnˈtensli ˈfleɪvəd/",
+        "sentiment": "positive",
+        "definitionEN": "Having a very strong and concentrated taste",
+        "translationVI": "Có hương vị đậm đà",
+        "relatedCollocates": ["intensely (aromatic)", "richly (flavoured)"],
         "wordForms": {
-          "noun": [
-            { "form": "mutation", "meaning": "sự đột biến" },
-            { "form": "gene", "meaning": "gen" }
-          ]
+          "adverb": [{ "form": "intensely", "meaning": "mãnh liệt, đậm" }],
+          "adjective": [{ "form": "flavoured", "meaning": "có hương vị" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Certain mutations of the BRCA1 gene can increase the risk of breast cancer."
+        "content": "The chef used a special blend of spices to create an intensely flavoured sauce."
       }
     },
     {
       "id": 9,
-      "targetLexeme": "increased risk of heart disease",
-      "sourceContext": "...are associated with increased risk of heart disease.",
+      "targetLexeme": "resplendently red",
+      "sourceContext": "...and resplendently red sprout abundantly from large plastic tubes.",
       "phase1Inference": {
-        "contextualGuessVI": "'Nguy cơ' (risk) 'bị bệnh tim' (of heart disease) 'tăng cao' (increased)"
+        "contextualGuessVI": "'Đỏ' (red) 'rực rỡ' (resplendently)"
       },
       "phase2Annotation": {
-        "phonetic": "/ɪnˈkriːst rɪsk əv hɑːt dɪˈziːz/",
-        "sentiment": "negative",
-        "definitionEN": "A higher probability of developing heart-related medical problems",
-        "translationVI": "Nguy cơ mắc bệnh tim tăng cao",
-        "relatedCollocates": ["a high (risk)", "risk factor (n)"],
+        "phonetic": "/rɪˈsplendəntli red/",
+        "sentiment": "positive",
+        "definitionEN": "Shining brilliantly; having a very bright and splendid red color",
+        "translationVI": "Đỏ rực rỡ",
+        "relatedCollocates": ["brightly (coloured)", "vibrantly (red)"],
         "wordForms": {
-          "noun": [
-            { "form": "risk", "meaning": "nguy cơ" },
-            { "form": "heart disease", "meaning": "bệnh tim" }
-          ]
+          "adverb": [{ "form": "resplendently", "meaning": "rực rỡ" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Smoking is associated with an increased risk of heart disease."
+        "content": "The maple leaves were resplendently red in the autumn sunlight."
       }
     },
     {
       "id": 10,
-      "targetLexeme": "osteoporosis",
-      "sourceContext": "...affects our older generation: osteoporosis.",
+      "targetLexeme": "sprout abundantly",
+      "sourceContext": "...sprout abundantly from large plastic tubes.",
       "phase1Inference": {
-        "contextualGuessVI": "Bệnh 'loãng xương' (osteoporosis)"
+        "contextualGuessVI": "'Nảy mầm' (sprout) 'một cách dồi dào' (abundantly)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˌɒstiəʊpəˈrəʊsɪs/",
-        "sentiment": "negative",
-        "definitionEN": "A medical condition in which the bones become brittle and fragile from loss of tissue",
-        "translationVI": "Bệnh loãng xương",
-        "relatedCollocates": ["bone density (n)", "brittle bones"],
+        "phonetic": "/spraʊt əˈbʌndəntli/",
+        "sentiment": "positive",
+        "definitionEN": "To grow in large quantities",
+        "translationVI": "Mọc lên nhiều",
+        "relatedCollocates": ["grow (abundantly)", "plentiful (adj)"],
         "wordForms": {
-          "noun": [{ "form": "osteoporosis", "meaning": "bệnh loãng xương" }]
+          "verb": [{ "form": "sprout", "meaning": "nảy mầm" }],
+          "adverb": [{ "form": "abundantly", "meaning": "dồi dào" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "A diet rich in calcium can help prevent osteoporosis in later life."
+        "content": "Wildflowers sprout abundantly in the fields after the spring rain."
       }
     },
     {
       "id": 11,
-      "targetLexeme": "insufficient exercise",
-      "sourceContext": "...usually caused by insufficient exercise, reduced calcium intake or food starvation.",
+      "targetLexeme": "completely hollow",
+      "sourceContext": "Peer inside and you see the tubes are completely hollow...",
       "phase1Inference": {
-        "contextualGuessVI": "'Tập thể dục' (exercise) 'không đủ' (insufficient)"
+        "contextualGuessVI": "Các ống này 'hoàn toàn' (completely) 'rỗng' (hollow)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˌɪnsəˈfɪʃnt ˈeksəsaɪz/",
-        "sentiment": "negative",
-        "definitionEN": "Not enough physical activity",
-        "translationVI": "Vận động không đủ",
-        "relatedCollocates": ["lack of (exercise)", "sufficient (exercise)"],
+        "phonetic": "/kəmˈpliːtli ˈhɒləʊ/",
+        "sentiment": "neutral",
+        "definitionEN": "Entirely empty inside",
+        "translationVI": "Hoàn toàn rỗng",
+        "relatedCollocates": ["hollow (tube)", "empty (inside)"],
         "wordForms": {
-          "noun": [{ "form": "exercise", "meaning": "sự tập thể dục" }],
-          "adjective": [{ "form": "insufficient", "meaning": "không đủ" }]
+          "adjective": [{ "form": "hollow", "meaning": "rỗng" }],
+          "adverb": [{ "form": "completely", "meaning": "hoàn toàn" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "A sedentary lifestyle with insufficient exercise can lead to health problems."
+        "content": "The chocolate Easter egg was completely hollow."
       }
     },
     {
       "id": 12,
-      "targetLexeme": "reduced calcium intake",
-      "sourceContext": "...reduced calcium intake or food starvation.",
+      "targetLexeme": "dangling down",
+      "sourceContext": "...the roots of dozens of strawberry plants dangling down inside them.",
       "phase1Inference": {
-        "contextualGuessVI": "Lượng 'canxi' (calcium) 'hấp thụ' (intake) 'bị giảm' (reduced)"
+        "contextualGuessVI": "Rễ cây 'treo lủng lẳng' (dangling down) bên trong"
       },
       "phase2Annotation": {
-        "phonetic": "/rɪˈdjuːst ˈkælsiəm ˈɪnteɪk/",
-        "sentiment": "negative",
-        "definitionEN": "A lower than recommended consumption of calcium",
-        "translationVI": "Lượng canxi hấp thụ giảm",
-        "relatedCollocates": ["calcium (supplement)", "dietary (intake)"],
+        "phonetic": "/ˈdæŋɡlɪŋ daʊn/",
+        "sentiment": "neutral",
+        "definitionEN": "Hanging or swinging loosely",
+        "translationVI": "Treo lủng lẳng xuống",
+        "relatedCollocates": ["hang (down)", "suspend (from)"],
         "wordForms": {
-          "noun": [
-            { "form": "calcium", "meaning": "canxi" },
-            { "form": "intake", "meaning": "lượng hấp thụ" }
-          ]
+          "verb": [{ "form": "dangle", "meaning": "treo lủng lẳng" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Reduced calcium intake during childhood can affect bone development."
+        "content": "A single light bulb was dangling down from the ceiling by a wire."
       }
     },
     {
       "id": 13,
-      "targetLexeme": "Bone tissue is constantly being remodelled",
-      "sourceContext": "Bone tissue is constantly being remodelled, meaning that bone is added or removed...",
+      "targetLexeme": "aromatic herbs",
+      "sourceContext": "...near those are aromatic herbs, such as basil, sage and peppermint.",
       "phase1Inference": {
-        "contextualGuessVI": "'Mô xương' (Bone tissue) 'liên tục' (constantly) 'được' (is being) 'tái tạo' (remodelled)"
+        "contextualGuessVI": "Các loại 'rau thơm' (aromatic herbs)"
       },
       "phase2Annotation": {
-        "phonetic": "/bəʊn ˈtɪʃuː ɪz ˈkɒnstəntli ˈbiːɪŋ ˌriːˈmɒdld/",
-        "sentiment": "neutral",
-        "definitionEN": "The living tissue of bones is continuously being broken down and rebuilt",
-        "translationVI": "Mô xương liên tục được tái tạo",
-        "relatedCollocates": ["bone (remodelling)", "constantly (changing)"],
+        "phonetic": "/ˌærəˈmætɪk hɜːbz/",
+        "sentiment": "positive",
+        "definitionEN": "Plants with a pleasant and distinctive smell, often used in cooking",
+        "translationVI": "Các loại rau thơm",
+        "relatedCollocates": ["fresh (herbs)", "culinary (herbs)"],
         "wordForms": {
-          "verb": [{ "form": "remodel", "meaning": "tái tạo, tu sửa" }]
+          "adjective": [{ "form": "aromatic", "meaning": "thơm" }],
+          "noun": [{ "form": "herb", "meaning": "rau thơm, thảo mộc" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Throughout our lives, our bone tissue is constantly being remodelled to adapt to stress."
+        "content": "She grows a variety of aromatic herbs in her kitchen garden."
       }
     },
     {
       "id": 14,
-      "targetLexeme": "nutrient availability",
-      "sourceContext": "...depending on nutrient availability and the stress that the bone is under.",
+      "targetLexeme": "sustainable development consultant",
+      "sourceContext": "Pascal Hardy, an engineer and sustainable development consultant...",
       "phase1Inference": {
-        "contextualGuessVI": "'Sự sẵn có' (availability) 'của chất dinh dưỡng' (nutrient)"
+        "contextualGuessVI": "Một 'nhà tư vấn' (consultant) 'phát triển bền vững' (sustainable development)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈnjuːtriənt əˌveɪləˈbɪləti/",
+        "phonetic": "/səˈsteɪnəbl dɪˈveləpmənt kənˈsʌltənt/",
         "sentiment": "neutral",
-        "definitionEN": "The extent to which nutrients are present and accessible for use by an organism",
-        "translationVI": "Sự sẵn có của chất dinh dưỡng",
-        "relatedCollocates": ["nutrient (deficiency)", "food (availability)"],
+        "definitionEN": "A professional who provides expert advice on environmentally friendly and economically viable growth",
+        "translationVI": "Nhà tư vấn phát triển bền vững",
+        "relatedCollocates": [
+          "environmental (consultant)",
+          "sustainable (practices)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "nutrient", "meaning": "chất dinh dưỡng" },
-            { "form": "availability", "meaning": "sự sẵn có" }
+            { "form": "consultant", "meaning": "nhà tư vấn" },
+            { "form": "development", "meaning": "sự phát triển" }
           ]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Plant growth is limited by nutrient availability in the soil."
+        "content": "The city hired a sustainable development consultant to help design the new park."
       }
     },
     {
       "id": 15,
-      "targetLexeme": "undergo extreme conditions",
-      "sourceContext": "Female polar bears, however, undergo extreme conditions during every pregnancy.",
+      "targetLexeme": "aeroponic growing towers",
+      "sourceContext": "...with vertical farming and aeroponic growing towers...",
       "phase1Inference": {
-        "contextualGuessVI": "'Trải qua' (undergo) 'những điều kiện' (conditions) 'khắc nghiệt' (extreme)"
+        "contextualGuessVI": "'Tháp trồng cây' (growing towers) 'khí canh' (aeroponic)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˌʌndəˈɡəʊ ɪkˈstriːm kənˈdɪʃənz/",
-        "sentiment": "negative",
-        "definitionEN": "To experience or be subjected to very difficult or severe circumstances",
-        "translationVI": "Trải qua những điều kiện khắc nghiệt",
-        "relatedCollocates": [
-          "experience (extreme conditions)",
-          "undergo (surgery)"
-        ],
+        "phonetic": "/ˌeərəˈpɒnɪk ˈɡrəʊɪŋ ˈtaʊəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Vertical structures for growing plants in an air or mist environment without the use of soil",
+        "translationVI": "Tháp trồng cây khí canh",
+        "relatedCollocates": ["vertical (farming)", "hydroponic (systems)"],
         "wordForms": {
-          "verb": [{ "form": "undergo", "meaning": "trải qua" }]
+          "noun": [{ "form": "tower", "meaning": "tháp" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The explorers had to undergo extreme conditions during their Antarctic expedition."
+        "content": "Aeroponic growing towers are an efficient way to cultivate leafy greens in a small space."
       }
     },
     {
       "id": 16,
-      "targetLexeme": "maternity dens",
-      "sourceContext": "...these females will dig maternity dens in the snow...",
+      "targetLexeme": "a couple of football pitches",
+      "sourceContext": "...and almost exactly the size of a couple of football pitches.",
       "phase1Inference": {
-        "contextualGuessVI": "Đào 'hang' (dens) 'để sinh sản' (maternity)"
+        "contextualGuessVI": "Kích thước bằng 'vài sân bóng đá' (a couple of football pitches)"
       },
       "phase2Annotation": {
-        "phonetic": "/məˈtɜːnəti denz/",
+        "phonetic": "/ə ˈkʌpl əv ˈfʊtbɔːl ˈpɪtʃɪz/",
         "sentiment": "neutral",
-        "definitionEN": "Shelters, usually dug in snow or earth, where a female animal gives birth and raises her young",
-        "translationVI": "Hang sinh sản",
-        "relatedCollocates": ["dig (a den)", "maternity (leave)"],
+        "definitionEN": "An area of land equivalent to two fields used for playing football",
+        "translationVI": "Vài sân bóng đá",
+        "relatedCollocates": ["sports (pitch)", "football (field)"],
         "wordForms": {
-          "noun": [
-            { "form": "maternity", "meaning": "thai sản" },
-            { "form": "den", "meaning": "hang" }
-          ]
+          "noun": [{ "form": "pitch", "meaning": "sân (thể thao)" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The polar bear cubs will stay in the maternity den for the first few months of their lives."
+        "content": "The new park is huge, covering an area the size of a couple of football pitches."
       }
     },
     {
       "id": 17,
-      "targetLexeme": "months of fasting",
-      "sourceContext": "This process results in about six months of fasting...",
+      "targetLexeme": "tend it",
+      "sourceContext": "...the team of young urban farmers who tend it have picked...",
       "phase1Inference": {
-        "contextualGuessVI": "Khoảng sáu 'tháng' (months) 'nhịn ăn' (of fasting)"
+        "contextualGuessVI": "Đội ngũ nông dân 'chăm sóc nó' (tend it)"
       },
       "phase2Annotation": {
-        "phonetic": "/mʌnθs əv ˈfɑːstɪŋ/",
-        "sentiment": "negative",
-        "definitionEN": "A period of many months of abstaining from all or some kinds of food or drink",
-        "translationVI": "Nhiều tháng nhịn ăn",
-        "relatedCollocates": ["fast (v)", "a period of (fasting)"],
+        "phonetic": "/tend ɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "To care for something; to look after it",
+        "translationVI": "Chăm sóc nó",
+        "relatedCollocates": ["tend (a garden)", "look after (synonym)"],
         "wordForms": {
-          "noun": [{ "form": "fast", "meaning": "sự nhịn ăn" }],
-          "verb": [{ "form": "fast", "meaning": "nhịn ăn" }]
+          "verb": [{ "form": "tend", "meaning": "chăm sóc" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Some animals endure long months of fasting during hibernation."
+        "content": "He has a small vegetable patch in his backyard that he likes to tend every morning."
       }
     },
     {
       "id": 18,
-      "targetLexeme": "depleting their own calcium and calorie reserves",
-      "sourceContext": "...depleting their own calcium and calorie reserves.",
+      "targetLexeme": "vast open area",
+      "sourceContext": "When the remaining two thirds of the vast open area are in production...",
       "phase1Inference": {
-        "contextualGuessVI": "'Làm cạn kiệt' (depleting) 'lượng dự trữ' (reserves) 'canxi' (calcium) 'và' (and) 'calo' (calorie) 'của chính chúng' (their own)"
+        "contextualGuessVI": "'Khu vực trống' (open area) 'rộng lớn' (vast)"
       },
       "phase2Annotation": {
-        "phonetic": "/dɪˈpliːtɪŋ ðeər əʊn ˈkælsiəm ənd ˈkæləri rɪˈzɜːvz/",
-        "sentiment": "negative",
-        "definitionEN": "Using up or exhausting one's own supply of calcium and energy",
-        "translationVI": "Làm cạn kiệt dự trữ canxi và calo của chính mình",
-        "relatedCollocates": ["deplete (resources)", "energy (reserves)"],
+        "phonetic": "/vɑːst ˈəʊpən ˈeəriə/",
+        "sentiment": "neutral",
+        "definitionEN": "A very large, unenclosed space",
+        "translationVI": "Khu vực trống rộng lớn",
+        "relatedCollocates": ["vast (expanse)", "wide open (space)"],
         "wordForms": {
-          "verb": [{ "form": "deplete", "meaning": "làm cạn kiệt" }],
-          "noun": [{ "form": "depletion", "meaning": "sự cạn kiệt" }]
+          "adjective": [{ "form": "vast", "meaning": "rộng lớn" }],
+          "noun": [{ "form": "area", "meaning": "khu vực" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Intense exercise can end up depleting your body's energy reserves."
+        "content": "The national park contains a vast open area of grassland."
       }
     },
     {
       "id": 19,
-      "targetLexeme": "remain strong and dense",
-      "sourceContext": "Despite this, their bones remain strong and dense.",
+      "targetLexeme": "in production",
+      "sourceContext": "...the vast open area are in production, 20 staff will harvest up to 1,000 kg...",
       "phase1Inference": {
-        "contextualGuessVI": "Xương của chúng 'vẫn' (remain) 'chắc' (strong) 'và' (and) 'đặc' (dense)"
+        "contextualGuessVI": "Khi khu vực này 'đi vào sản xuất' (in production)"
       },
       "phase2Annotation": {
-        "phonetic": "/rɪˈmeɪn strɒŋ ənd dens/",
-        "sentiment": "positive",
-        "definitionEN": "To continue to be solid, thick, and not easily broken",
-        "translationVI": "Vẫn chắc và đặc",
-        "relatedCollocates": ["bone density (n)", "remain (unchanged)"],
+        "phonetic": "/ɪn prəˈdʌkʃn/",
+        "sentiment": "neutral",
+        "definitionEN": "Being used for growing crops or manufacturing goods",
+        "translationVI": "Đi vào sản xuất, đang được sản xuất",
+        "relatedCollocates": ["mass (production)", "go into (production)"],
         "wordForms": {
-          "verb": [{ "form": "remain", "meaning": "vẫn" }],
-          "adjective": [
-            { "form": "strong", "meaning": "mạnh" },
-            { "form": "dense", "meaning": "dày đặc" }
-          ]
+          "noun": [{ "form": "production", "meaning": "sự sản xuất" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "It is important to eat well so your bones remain strong and dense."
+        "content": "The new car model will be in production by the end of the year."
       }
     },
     {
       "id": 20,
-      "targetLexeme": "found an explanation for this paradox",
-      "sourceContext": "Physiologists Alanda Lennox and Allen Goodship found an explanation for this paradox in 2008.",
+      "targetLexeme": "significant practical constraints",
+      "sourceContext": "...you’re working with very significant practical constraints, clearly, on what you can do and where.",
       "phase1Inference": {
-        "contextualGuessVI": "Đã 'tìm thấy một lời giải thích' (found an explanation) 'cho' (for) 'nghịch lý' (paradox) 'này' (this)"
+        "contextualGuessVI": "Những 'hạn chế' (constraints) 'thực tế' (practical) 'đáng kể' (significant)"
       },
       "phase2Annotation": {
-        "phonetic": "/faʊnd ən ˌekspləˈneɪʃən fɔː ðɪs ˈpærədɒks/",
-        "sentiment": "positive",
-        "definitionEN": "To discover the reason for a seemingly absurd or self-contradictory statement or proposition",
-        "translationVI": "Tìm ra lời giải thích cho nghịch lý này",
-        "relatedCollocates": [
-          "explain (a paradox)",
-          "a solution (to a paradox)"
-        ],
+        "phonetic": "/sɪɡˈnɪfɪkənt ˈpræktɪkl kənˈstreɪnts/",
+        "sentiment": "negative",
+        "definitionEN": "Important and real limitations or restrictions",
+        "translationVI": "Những hạn chế thực tế đáng kể",
+        "relatedCollocates": ["practical (limitations)", "face (constraints)"],
         "wordForms": {
-          "noun": [
-            { "form": "explanation", "meaning": "lời giải thích" },
-            { "form": "paradox", "meaning": "nghịch lý" }
-          ]
+          "noun": [{ "form": "constraint", "meaning": "sự hạn chế" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The scientist finally found an explanation for this strange paradox."
+        "content": "Building on such a steep slope presents significant practical constraints for the architects."
       }
     },
     {
       "id": 21,
-      "targetLexeme": "increase the density of their bones",
-      "sourceContext": "...pregnant bears were able to increase the density of their bones before they started to build their dens.",
+      "targetLexeme": "unused space",
+      "sourceContext": "But if enough unused space can be developed like this...",
       "phase1Inference": {
-        "contextualGuessVI": "Có thể 'tăng' (increase) 'mật độ' (the density) 'xương' (of their bones)"
+        "contextualGuessVI": "Nếu đủ 'không gian chưa sử dụng' (unused space) được phát triển"
       },
       "phase2Annotation": {
-        "phonetic": "/ɪnˈkriːs ðə ˈdensəti əv ðeə bəʊnz/",
-        "sentiment": "positive",
-        "definitionEN": "To make the bones more compact and solid",
-        "translationVI": "Tăng mật độ xương",
-        "relatedCollocates": ["bone density (n)", "increase (v)"],
+        "phonetic": "/ʌnˈjuːzd speɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "An area that is not currently being occupied or utilized",
+        "translationVI": "Không gian chưa sử dụng",
+        "relatedCollocates": ["empty (space)", "develop (space)"],
         "wordForms": {
-          "verb": [{ "form": "increase", "meaning": "tăng" }],
-          "noun": [{ "form": "density", "meaning": "mật độ" }]
+          "adjective": [{ "form": "unused", "meaning": "chưa được sử dụng" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Weight-bearing exercise can help to increase the density of your bones."
+        "content": "The old warehouse has a lot of unused space that could be converted into apartments."
       }
     },
     {
       "id": 22,
-      "targetLexeme": "significant loss of bone density",
-      "sourceContext": "...there was no evidence of significant loss of bone density.",
+      "targetLexeme": "target between 5% and 10% of consumption",
+      "sourceContext": "...there’s no reason why you shouldn’t eventually target between 5% and 10% of consumption.",
       "phase1Inference": {
-        "contextualGuessVI": "Không có 'bằng chứng' (evidence) 'về' (of) 'sự mất mát' (loss) 'mật độ xương' (of bone density) 'đáng kể' (significant)"
+        "contextualGuessVI": "'Nhắm đến mục tiêu' (target) 'từ 5% đến 10% lượng tiêu thụ' (between 5% and 10% of consumption)"
       },
       "phase2Annotation": {
-        "phonetic": "/sɪɡˈnɪfɪkənt lɒs əv bəʊn ˈdensəti/",
-        "sentiment": "positive",
-        "definitionEN": "A substantial or noteworthy decrease in the compactness of bone tissue",
-        "translationVI": "Sự mất mật độ xương đáng kể",
-        "relatedCollocates": ["bone density (n)", "significant (decrease)"],
+        "phonetic": "/ˈtɑːɡɪt bɪˈtwiːn faɪv ənd ten pəˈsent əv kənˈsʌmpʃn/",
+        "sentiment": "neutral",
+        "definitionEN": "To aim to achieve a goal of supplying a certain percentage of the total amount eaten or used",
+        "translationVI": "Đặt mục tiêu từ 5% đến 10% lượng tiêu thụ",
+        "relatedCollocates": ["target (a goal)", "food (consumption)"],
         "wordForms": {
-          "noun": [{ "form": "loss", "meaning": "sự mất mát" }],
-          "adjective": [{ "form": "significant", "meaning": "đáng kể" }]
+          "verb": [{ "form": "target", "meaning": "nhắm đến" }],
+          "noun": [{ "form": "consumption", "meaning": "sự tiêu thụ" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "After the age of 30, many people begin to experience a gradual but significant loss of bone density."
+        "content": "The company aims to target 20% of the market share with its new product."
       }
     },
     {
       "id": 23,
-      "targetLexeme": "resort to major bone reformation",
-      "sourceContext": "Hibernating brown bears do not have this capacity and must therefore resort to major bone reformation in the following spring.",
+      "targetLexeme": "a real-life showcase",
+      "sourceContext": "Perhaps most significantly, however, this is a real-life showcase for the work of Hardy’s flourishing urban agriculture consultancy...",
       "phase1Inference": {
-        "contextualGuessVI": "Phải 'dùng đến/nhờ đến' (resort to) 'việc tái tạo xương' (bone reformation) 'lớn' (major)"
+        "contextualGuessVI": "Một 'buổi trưng bày' (showcase) 'thực tế' (real-life)"
       },
       "phase2Annotation": {
-        "phonetic": "/rɪˈzɔːt tuː ˈmeɪdʒə bəʊn ˌriːfɔːˈmeɪʃən/",
-        "sentiment": "neutral",
-        "definitionEN": "To have to use or do something (like large-scale bone rebuilding) because there is no other choice",
-        "translationVI": "Phải dùng đến việc tái tạo xương quy mô lớn",
-        "relatedCollocates": [
-          "resort to (drastic measures)",
-          "bone (reformation)"
-        ],
+        "phonetic": "/ə rɪəl-laɪf ˈʃəʊkeɪs/",
+        "sentiment": "positive",
+        "definitionEN": "A setting in which something is displayed to its best advantage in a real-world context",
+        "translationVI": "Một buổi trưng bày thực tế",
+        "relatedCollocates": ["a perfect (showcase)", "demonstration (n)"],
         "wordForms": {
-          "verb": [{ "form": "resort to", "meaning": "dùng đến" }]
+          "noun": [
+            { "form": "showcase", "meaning": "tủ trưng bày, dịp để thể hiện" }
+          ]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "When negotiations failed, they had to resort to legal action."
+        "content": "The annual festival is a real-life showcase of the region's rich cultural heritage."
       }
     },
     {
       "id": 24,
-      "targetLexeme": "bedridden humans",
-      "sourceContext": "...many bedridden humans, and even astronauts, could potentially benefit.",
+      "targetLexeme": "flourishing urban agriculture consultancy",
+      "sourceContext": "...Hardy’s flourishing urban agriculture consultancy, Agripolis...",
       "phase1Inference": {
-        "contextualGuessVI": "Nhiều 'người' (humans) 'nằm liệt giường' (bedridden)"
+        "contextualGuessVI": "Công ty 'tư vấn' (consultancy) 'nông nghiệp đô thị' (urban agriculture) 'đang phát triển mạnh' (flourishing)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈbedrɪdn ˈhjuːmənz/",
-        "sentiment": "negative",
-        "definitionEN": "People who are confined to bed because of illness or injury",
-        "translationVI": "Người nằm liệt giường",
-        "relatedCollocates": ["bedridden (patient)", "confined to bed"],
+        "phonetic": "/ˈflʌrɪʃɪŋ ˈɜːbən ˈæɡrɪkʌltʃə kənˈsʌltənsi/",
+        "sentiment": "positive",
+        "definitionEN": "A successful and growing business that provides expert advice on city farming",
+        "translationVI": "Công ty tư vấn nông nghiệp đô thị đang phát triển mạnh",
+        "relatedCollocates": [
+          "flourishing (business)",
+          "management (consultancy)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "bedridden", "meaning": "nằm liệt giường" }]
+          "adjective": [
+            { "form": "flourishing", "meaning": "phát triển mạnh" }
+          ],
+          "noun": [{ "form": "consultancy", "meaning": "công ty tư vấn" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The treatment could help prevent muscle loss in bedridden patients."
+        "content": "She left her job to start her own flourishing graphic design consultancy."
       }
     },
     {
       "id": 25,
-      "targetLexeme": "taken into consideration",
-      "sourceContext": "...these should not be the only factors taken into consideration.",
+      "targetLexeme": "fielding enquiries",
+      "sourceContext": "...which is currently fielding enquiries from around the world to design, build and equip a new breed of soil-free inner-city farm.",
       "phase1Inference": {
-        "contextualGuessVI": "Những yếu tố duy nhất 'được xem xét/cân nhắc' (taken into consideration)"
+        "contextualGuessVI": "Hiện đang 'tiếp nhận các yêu cầu/câu hỏi' (fielding enquiries)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈteɪkən ˈɪntuː kənˌsɪdəˈreɪʃən/",
+        "phonetic": "/ˈfiːldɪŋ ɪnˈkwaɪəriz/",
         "sentiment": "neutral",
-        "definitionEN": "To be thought about carefully when making a decision or judgment",
-        "translationVI": "Được xem xét, được cân nhắc",
-        "relatedCollocates": ["take (into account)", "consider (v)"],
+        "definitionEN": "Dealing with or answering a lot of questions or requests for information",
+        "translationVI": "Tiếp nhận các yêu cầu",
+        "relatedCollocates": ["field (questions)", "handle (enquiries)"],
         "wordForms": {
-          "verb": [{ "form": "take into consideration", "meaning": "xem xét" }]
+          "verb": [{ "form": "field", "meaning": "trả lời, xử lý" }],
+          "noun": [{ "form": "enquiry", "meaning": "câu hỏi, sự yêu cầu" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "All relevant facts must be taken into consideration before a verdict is reached."
+        "content": "The customer service team is busy fielding enquiries about the new product launch."
       }
     },
     {
       "id": 26,
-      "targetLexeme": "possess emotions",
-      "sourceContext": "...we think are intelligent and possess emotions, such as elephants and primates.",
+      "targetLexeme": "a new breed of",
+      "sourceContext": "...a new breed of soil-free inner-city farm.",
       "phase1Inference": {
-        "contextualGuessVI": "'Sở hữu' (possess) 'cảm xúc' (emotions)"
+        "contextualGuessVI": "Một 'loại hình mới' (a new breed of) của trang trại"
       },
       "phase2Annotation": {
-        "phonetic": "/pəˈzes ɪˈməʊʃənz/",
+        "phonetic": "/ə njuː briːd əv/",
         "sentiment": "neutral",
-        "definitionEN": "To have or own feelings, such as happiness, sadness, or fear",
-        "translationVI": "Sở hữu/có cảm xúc",
-        "relatedCollocates": ["show (emotions)", "have (emotions)"],
+        "definitionEN": "A new type or kind of person or thing",
+        "translationVI": "Một loại/giống mới của",
+        "relatedCollocates": ["a new kind of", "a new generation of"],
         "wordForms": {
-          "verb": [{ "form": "possess", "meaning": "sở hữu" }],
-          "noun": [{ "form": "emotion", "meaning": "cảm xúc" }]
+          "noun": [{ "form": "breed", "meaning": "giống, loài" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Many people believe that animals like dogs and cats possess emotions."
+        "content": "She represents a new breed of politician who is more in touch with ordinary people."
       }
     },
     {
       "id": 27,
-      "targetLexeme": "perceived as stupid",
-      "sourceContext": "Bears, on the other hand, seem to be perceived as stupid and in many cases violent.",
+      "targetLexeme": "inner-city farm",
+      "sourceContext": "...soil-free inner-city farm.",
       "phase1Inference": {
-        "contextualGuessVI": "Dường như 'bị cho là/bị nhìn nhận là' (be perceived as) 'ngu ngốc' (stupid)"
+        "contextualGuessVI": "Trang trại 'trong nội thành' (inner-city)"
       },
       "phase2Annotation": {
-        "phonetic": "/pəˈsiːvd æz ˈstjuːpɪd/",
-        "sentiment": "negative",
-        "definitionEN": "To be regarded or understood in a particular way, in this case as being unintelligent",
-        "translationVI": "Bị cho là/nhìn nhận là ngu ngốc",
-        "relatedCollocates": ["perceive (as)", "seen (as)"],
+        "phonetic": "/ˌɪnə ˈsɪti fɑːm/",
+        "sentiment": "neutral",
+        "definitionEN": "A farm located in the central part of a city, especially in a poorer area",
+        "translationVI": "Trang trại nội thành",
+        "relatedCollocates": ["inner-city (areas)", "urban (farm)"],
         "wordForms": {
-          "verb": [{ "form": "perceive", "meaning": "nhìn nhận" }],
-          "noun": [{ "form": "perception", "meaning": "sự nhận thức" }]
+          "noun": [{ "form": "farm", "meaning": "trang trại" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Sharks are often wrongly perceived as mindless killing machines."
+        "content": "The inner-city farm provides fresh produce for local residents and educational programs for children."
       }
     },
     {
       "id": 28,
-      "targetLexeme": "anecdotal evidence",
-      "sourceContext": "And yet anecdotal evidence from the field challenges those assumptions...",
+      "targetLexeme": "different pesticides",
+      "sourceContext": "...treated with something like 17 different pesticides...",
       "phase1Inference": {
-        "contextualGuessVI": "'Bằng chứng' (evidence) 'giai thoại/truyền miệng' (anecdotal)"
+        "contextualGuessVI": "17 loại 'thuốc trừ sâu' (pesticides) 'khác nhau' (different)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˌænɪkˈdəʊtl ˈevɪdəns/",
-        "sentiment": "neutral",
-        "definitionEN": "Evidence in the form of personal stories or isolated examples, rather than systematic scientific data",
-        "translationVI": "Bằng chứng giai thoại/truyền miệng",
-        "relatedCollocates": ["scientific (evidence)", "anecdote (n)"],
+        "phonetic": "/ˈdɪfrənt ˈpestɪsaɪdz/",
+        "sentiment": "negative",
+        "definitionEN": "Various chemical substances used to kill insects and other organisms harmful to cultivated plants",
+        "translationVI": "Các loại thuốc trừ sâu khác nhau",
+        "relatedCollocates": ["use (pesticides)", "harmful (pesticides)"],
         "wordForms": {
-          "noun": [{ "form": "anecdote", "meaning": "giai thoại" }]
+          "noun": [{ "form": "pesticide", "meaning": "thuốc trừ sâu" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "While there is a lot of anecdotal evidence, there is no scientific proof that it works."
+        "content": "Organic farming prohibits the use of most synthetic and different pesticides."
       }
     },
     {
       "id": 29,
-      "targetLexeme": "challenges those assumptions",
-      "sourceContext": "...anecdotal evidence from the field challenges those assumptions...",
+      "targetLexeme": "intensive farming techniques",
+      "sourceContext": "...the intensive farming techniques that produced them are such huge generators of greenhouse gases.",
       "phase1Inference": {
-        "contextualGuessVI": "'Thách thức' (challenges) 'những giả định' (assumptions) 'đó' (those)"
+        "contextualGuessVI": "Các 'kỹ thuật canh tác thâm canh' (intensive farming techniques)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈtʃælɪndʒɪz ðəʊz əˈsʌmpʃənz/",
-        "sentiment": "positive",
-        "definitionEN": "To question or dispute the truth or validity of those beliefs that are taken for granted",
-        "translationVI": "Thách thức những giả định đó",
+        "phonetic": "/ɪnˈtensɪv ˈfɑːmɪŋ tekˈniːks/",
+        "sentiment": "negative",
+        "definitionEN": "Methods of farming that involve high levels of input (like fertilizers and pesticides) and output per unit of agricultural land area",
+        "translationVI": "Kỹ thuật canh tác thâm canh",
         "relatedCollocates": [
-          "challenge (an idea)",
-          "question (an assumption)"
+          "intensive (agriculture)",
+          "modern farming (techniques)"
         ],
         "wordForms": {
-          "verb": [{ "form": "challenge", "meaning": "thách thức" }],
-          "noun": [{ "form": "assumption", "meaning": "giả định" }]
+          "noun": [{ "form": "technique", "meaning": "kỹ thuật" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The new data challenges the long-held assumptions about the planet's atmosphere."
+        "content": "Intensive farming techniques can lead to soil degradation and water pollution."
       }
     },
     {
       "id": 30,
-      "targetLexeme": "problem-solving abilities",
-      "sourceContext": "...suggesting for example that polar bears have good problem-solving abilities.",
+      "targetLexeme": "huge generators of greenhouse gases",
+      "sourceContext": "...are such huge generators of greenhouse gases.",
       "phase1Inference": {
-        "contextualGuessVI": "'Khả năng' (abilities) 'giải quyết vấn đề' (problem-solving)"
+        "contextualGuessVI": "Là 'nguồn tạo ra' (generators of) 'khí nhà kính' (greenhouse gases) 'khổng lồ' (huge)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈprɒbləm ˈsɒlvɪŋ əˈbɪlətiz/",
-        "sentiment": "positive",
-        "definitionEN": "The capacity to find solutions to difficult or complex issues",
-        "translationVI": "Khả năng giải quyết vấn đề",
-        "relatedCollocates": ["solve (a problem)", "cognitive (abilities)"],
+        "phonetic": "/hjuːdʒ ˈdʒenəreɪtəz əv ˈɡriːnhaʊs ˈɡæsɪz/",
+        "sentiment": "negative",
+        "definitionEN": "Things that produce very large amounts of gases that trap heat in the atmosphere",
+        "translationVI": "Nguồn tạo ra khí nhà kính khổng lồ",
+        "relatedCollocates": [
+          "emit (greenhouse gases)",
+          "carbon dioxide (CO2)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "ability", "meaning": "khả năng" }]
+          "noun": [
+            { "form": "generator", "meaning": "máy phát, nguồn tạo ra" },
+            { "form": "greenhouse gas", "meaning": "khí nhà kính" }
+          ]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Chess is a game that develops critical thinking and problem-solving abilities."
+        "content": "The burning of fossil fuels and deforestation are huge generators of greenhouse gases."
       }
     },
     {
       "id": 31,
-      "targetLexeme": "manipulate his environment",
-      "sourceContext": "...observed making use of a tool to manipulate his environment.",
+      "targetLexeme": "refrigerated kilometres",
+      "sourceContext": "...they’ve travelled an average of 2,000 refrigerated kilometres to my plate...",
       "phase1Inference": {
-        "contextualGuessVI": "'Điều khiển/thao túng' (manipulate) 'môi trường' (environment) 'của mình' (his)"
+        "contextualGuessVI": "2,000 'km được làm lạnh' (refrigerated kilometres)"
       },
       "phase2Annotation": {
-        "phonetic": "/məˈnɪpjuleɪt hɪz ɪnˈvaɪrənmənt/",
-        "sentiment": "neutral",
-        "definitionEN": "To handle or control one's surroundings in a skillful manner",
-        "translationVI": "Điều khiển/thao túng môi trường của mình",
-        "relatedCollocates": ["manipulate (a tool)", "manipulation (n)"],
+        "phonetic": "/rɪˈfrɪdʒəreɪtɪd kɪˈlɒmɪtəz/",
+        "sentiment": "negative",
+        "definitionEN": "The distance food has travelled in a vehicle kept at a low temperature to prevent spoilage",
+        "translationVI": "Kilômét vận chuyển lạnh",
+        "relatedCollocates": ["refrigerated (truck)", "food miles"],
         "wordForms": {
-          "verb": [{ "form": "manipulate", "meaning": "thao túng" }],
-          "noun": [{ "form": "manipulation", "meaning": "sự thao túng" }]
+          "adjective": [{ "form": "refrigerated", "meaning": "được làm lạnh" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Humans are unique in their ability to manipulate their environment on a large scale."
+        "content": "Buying local produce helps to reduce the number of refrigerated kilometres your food travels."
       }
     },
     {
       "id": 32,
-      "targetLexeme": "dislodge a piece of meat",
-      "sourceContext": "...on multiple occasions to dislodge a piece of meat hung out of his reach.",
+      "targetLexeme": "withstand such substantial journeys",
+      "sourceContext": "...the varieties are selected for their capacity to withstand such substantial journeys...",
       "phase1Inference": {
-        "contextualGuessVI": "Để 'làm bật ra/lấy ra' (dislodge) 'một miếng thịt' (a piece of meat)"
+        "contextualGuessVI": "Để 'chịu được' (withstand) 'những hành trình dài' (such substantial journeys) như vậy"
       },
       "phase2Annotation": {
-        "phonetic": "/dɪsˈlɒdʒ ə piːs əv miːt/",
+        "phonetic": "/wɪðˈstænd sʌtʃ səbˈstænʃl ˈdʒɜːniz/",
         "sentiment": "neutral",
-        "definitionEN": "To knock or force something out of its position",
-        "translationVI": "Làm bật ra/lấy ra một miếng thịt",
-        "relatedCollocates": ["dislodge (a stone)", "remove (synonym)"],
+        "definitionEN": "To be strong enough to endure long and significant trips without being damaged",
+        "translationVI": "Chịu được những hành trình dài như vậy",
+        "relatedCollocates": ["withstand (pressure)", "long (journeys)"],
         "wordForms": {
-          "verb": [{ "form": "dislodge", "meaning": "làm bật ra" }]
+          "verb": [{ "form": "withstand", "meaning": "chịu đựng" }],
+          "adjective": [{ "form": "substantial", "meaning": "đáng kể, lớn" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "He used a stick to dislodge the apple stuck in the tree."
+        "content": "The packaging is designed to help the fragile items withstand the substantial journeys overseas."
       }
     },
     {
       "id": 33,
-      "targetLexeme": "A calculated move",
-      "sourceContext": "A calculated move by a male bear involved running and jumping onto barrels...",
+      "targetLexeme": "wholesalers and transport companies",
+      "sourceContext": "...80% of the price I pay goes to wholesalers and transport companies, not the producers.",
       "phase1Inference": {
-        "contextualGuessVI": "Một 'hành động/nước đi' (move) 'có tính toán' (calculated)"
+        "contextualGuessVI": "Đến 'các nhà bán buôn' (wholesalers) 'và' (and) 'công ty vận tải' (transport companies)"
       },
       "phase2Annotation": {
-        "phonetic": "/ə ˈkælkjuleɪtɪd muːv/",
+        "phonetic": "/ˈhəʊlseɪləz ənd ˈtrænspɔːt ˈkʌmpəniz/",
         "sentiment": "neutral",
-        "definitionEN": "An action that is planned and considered in advance",
-        "translationVI": "Một hành động có tính toán",
-        "relatedCollocates": ["a deliberate (move)", "calculated (risk)"],
+        "definitionEN": "Businesses that buy goods in large quantities from producers and sell them to retailers, and businesses that move goods from one place to another",
+        "translationVI": "Các nhà bán buôn và công ty vận tải",
+        "relatedCollocates": ["retailers", "logistics (companies)"],
         "wordForms": {
-          "verb": [{ "form": "calculate", "meaning": "tính toán" }]
+          "noun": [
+            { "form": "wholesaler", "meaning": "nhà bán buôn" },
+            { "form": "company", "meaning": "công ty" }
+          ]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "His resignation was a calculated move to gain public sympathy."
+        "content": "The food supply chain involves many intermediaries, including wholesalers and transport companies."
       }
     },
     {
       "id": 34,
-      "targetLexeme": "deliberate and focussed manipulation",
-      "sourceContext": "...polar bears showed deliberate and focussed manipulation.",
+      "targetLexeme": "enriched with organic nutrients",
+      "sourceContext": "...enriched with organic nutrients, pumped around a closed circuit of pipes...",
       "phase1Inference": {
-        "contextualGuessVI": "Sự 'điều khiển/thao tác' (manipulation) 'có chủ ý' (deliberate) 'và' (and) 'tập trung' (focussed)"
+        "contextualGuessVI": "Được 'làm giàu bằng' (enriched with) 'các chất dinh dưỡng hữu cơ' (organic nutrients)"
       },
       "phase2Annotation": {
-        "phonetic": "/dɪˈlɪbərət ənd ˈfəʊkəst məˌnɪpjuˈleɪʃən/",
+        "phonetic": "/ɪnˈrɪtʃt wɪð ɔːˈɡænɪk ˈnjuːtriənts/",
         "sentiment": "positive",
-        "definitionEN": "Skillful handling or control that is intentional and concentrated",
-        "translationVI": "Sự điều khiển có chủ ý và tập trung",
-        "relatedCollocates": ["deliberate (action)", "focussed (attention)"],
+        "definitionEN": "Having had natural substances that are necessary for growth and health added to it",
+        "translationVI": "Được làm giàu bằng các chất dinh dưỡng hữu cơ",
+        "relatedCollocates": ["nutrient-rich", "organic (fertilizer)"],
         "wordForms": {
-          "noun": [{ "form": "manipulation", "meaning": "sự điều khiển" }],
-          "adjective": [
-            { "form": "deliberate", "meaning": "có chủ ý" },
-            { "form": "focussed", "meaning": "tập trung" }
-          ]
+          "verb": [{ "form": "enrich", "meaning": "làm giàu" }],
+          "noun": [{ "form": "nutrient", "meaning": "chất dinh dưỡng" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Playing the piano requires deliberate and focussed manipulation of the keys."
+        "content": "The compost is enriched with organic nutrients to help the plants grow strong."
       }
     },
     {
       "id": 35,
-      "targetLexeme": "capable of agile and thought-out behaviours",
-      "sourceContext": "These examples suggest that bears are capable of agile and thought-out behaviours.",
+      "targetLexeme": "a closed circuit of pipes",
+      "sourceContext": "...pumped around a closed circuit of pipes, towers and trays...",
       "phase1Inference": {
-        "contextualGuessVI": "'Có khả năng' (capable of) 'có những hành vi' (behaviours) 'nhanh nhẹn' (agile) 'và' (and) 'có suy tính' (thought-out)"
+        "contextualGuessVI": "Một 'hệ thống tuần hoàn' (closed circuit) 'gồm các đường ống' (of pipes)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈkeɪpəbl əv ˈædʒaɪl ənd θɔːt aʊt bɪˈheɪvjəz/",
-        "sentiment": "positive",
-        "definitionEN": "Having the ability to perform actions that are quick, nimble, and well-planned",
-        "translationVI": "Có khả năng có những hành vi nhanh nhẹn và có suy tính",
-        "relatedCollocates": ["agile (movements)", "well-thought-out (plan)"],
+        "phonetic": "/ə kləʊzd ˈsɜːkɪt əv paɪps/",
+        "sentiment": "neutral",
+        "definitionEN": "A complete and continuous path through which something (like water) can flow",
+        "translationVI": "Một mạch/vòng tuần hoàn kín của các đường ống",
+        "relatedCollocates": ["circulatory (system)", "water pump"],
         "wordForms": {
-          "adjective": [
-            { "form": "capable", "meaning": "có khả năng" },
-            { "form": "agile", "meaning": "nhanh nhẹn" }
+          "noun": [
+            { "form": "circuit", "meaning": "mạch, chu trình" },
+            { "form": "pipe", "meaning": "ống" }
           ]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Dolphins are capable of complex and thought-out behaviours."
+        "content": "The heating system works by circulating hot water through a closed circuit of pipes."
       }
     },
     {
       "id": 36,
-      "targetLexeme": "greater creativity",
-      "sourceContext": "...bears have greater creativity and problem-solving abilities than previously thought.",
+      "targetLexeme": "produced up here",
+      "sourceContext": "Produce grown using this soil-free method, on the other hand – which relies solely on a small quantity of water, enriched with organic nutrients, pumped around a closed circuit of pipes, towers and trays – is ‘produced up here, and sold locally, just down there.",
       "phase1Inference": {
-        "contextualGuessVI": "'Sự sáng tạo' (creativity) 'lớn hơn' (greater)"
+        "contextualGuessVI": "Được 'sản xuất ở trên này' (produced up here)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈɡreɪtə ˌkriːeɪˈtɪvəti/",
-        "sentiment": "positive",
-        "definitionEN": "A higher level of imagination or original ideas",
-        "translationVI": "Sức sáng tạo lớn hơn",
-        "relatedCollocates": ["show (creativity)", "creative (thinking)"],
+        "phonetic": "/prəˈdjuːst ʌp hɪə/",
+        "sentiment": "neutral",
+        "definitionEN": "Grown or made in this high-up location (referring to the rooftop)",
+        "translationVI": "Được sản xuất ở trên này",
+        "relatedCollocates": ["locally (produced)", "grown (on-site)"],
         "wordForms": {
-          "noun": [{ "form": "creativity", "meaning": "sự sáng tạo" }]
+          "verb": [{ "form": "produce", "meaning": "sản xuất" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The new project allows for greater creativity and innovation."
+        "content": "All the vegetables we serve are produced up here on our rooftop garden."
       }
     },
     {
       "id": 37,
-      "targetLexeme": "seemingly out of frustration",
-      "sourceContext": "...hitting out at ice and snow – seemingly out of frustration – when they have just missed out on a kill.",
+      "targetLexeme": "sold locally",
+      "sourceContext": "...and sold locally, just down there.",
       "phase1Inference": {
-        "contextualGuessVI": "'Dường như' (seemingly) 'vì' (out of) 'sự bực bội/thất vọng' (frustration)"
+        "contextualGuessVI": "Và 'bán tại địa phương' (sold locally)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈsiːmɪŋli aʊt əv frʌˈstreɪʃən/",
-        "sentiment": "negative",
-        "definitionEN": "Appearing to be because of a feeling of annoyance or upset when unable to do something",
-        "translationVI": "Dường như vì thất vọng",
-        "relatedCollocates": ["a sign of (frustration)", "out of (anger)"],
+        "phonetic": "/səʊld ˈləʊkəli/",
+        "sentiment": "positive",
+        "definitionEN": "Offered for sale in the immediate area or neighbourhood",
+        "translationVI": "Được bán tại địa phương",
+        "relatedCollocates": ["locally (sourced)", "buy (local)"],
         "wordForms": {
-          "noun": [{ "form": "frustration", "meaning": "sự thất vọng" }],
-          "adverb": [{ "form": "seemingly", "meaning": "dường như" }]
+          "adverb": [{ "form": "locally", "meaning": "tại địa phương" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "He slammed the door, seemingly out of frustration with the bad news."
+        "content": "The craft beer is brewed and sold locally, so you won't find it in large supermarkets."
       }
     },
     {
       "id": 38,
-      "targetLexeme": "missed out on a kill",
-      "sourceContext": "...when they have just missed out on a kill.",
+      "targetLexeme": "barely travels at all",
+      "sourceContext": "It barely travels at all,’ Hardy says.",
       "phase1Inference": {
-        "contextualGuessVI": "Khi chúng 'vừa mới' (have just) 'để vuột mất' (missed out on) 'một con mồi' (a kill)"
+        "contextualGuessVI": "Nó 'hầu như không di chuyển' (barely travels at all)"
       },
       "phase2Annotation": {
-        "phonetic": "/mɪst aʊt ɒn ə kɪl/",
-        "sentiment": "negative",
-        "definitionEN": "To fail to catch or successfully hunt an animal for food",
-        "translationVI": "Để vuột mất một con mồi",
-        "relatedCollocates": [
-          "miss out on (an opportunity)",
-          "a successful (kill)"
-        ],
+        "phonetic": "/ˈbeəli ˈtrævlz ət ɔːl/",
+        "sentiment": "positive",
+        "definitionEN": "Travels a very short distance, or almost no distance",
+        "translationVI": "Hầu như không di chuyển chút nào",
+        "relatedCollocates": ["hardly (travels)", "short distance"],
         "wordForms": {
-          "verb": [{ "form": "miss out on", "meaning": "bỏ lỡ" }]
+          "verb": [{ "form": "travel", "meaning": "di chuyển" }],
+          "adverb": [{ "form": "barely", "meaning": "hầu như không" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The lioness was exhausted after she missed out on a kill."
+        "content": "Since he works from home, his car barely travels at all during the week."
       }
     },
     {
       "id": 39,
-      "targetLexeme": "form unusual relationships",
-      "sourceContext": "Moreover, polar bears can form unusual relationships with other species...",
+      "targetLexeme": "select crop varieties",
+      "sourceContext": "‘You can select crop varieties for their flavour, not their resistance to the transport and storage chain...",
       "phase1Inference": {
-        "contextualGuessVI": "Có thể 'hình thành' (form) 'những mối quan hệ' (relationships) 'bất thường' (unusual)"
+        "contextualGuessVI": "Bạn có thể 'chọn các giống cây trồng' (select crop varieties)"
       },
       "phase2Annotation": {
-        "phonetic": "/fɔːm ʌnˈjuːʒuəl rɪˈleɪʃənʃɪps/",
+        "phonetic": "/sɪˈlekt krɒp vəˈraɪətiz/",
         "sentiment": "neutral",
-        "definitionEN": "To develop connections or bonds that are not common or expected",
-        "translationVI": "Hình thành những mối quan hệ bất thường",
-        "relatedCollocates": ["form (a bond)", "an unusual (friendship)"],
+        "definitionEN": "To choose specific types of cultivated plants to grow",
+        "translationVI": "Chọn các giống cây trồng",
+        "relatedCollocates": ["choose (varieties)", "plant (varieties)"],
         "wordForms": {
-          "verb": [{ "form": "form", "meaning": "hình thành" }]
+          "verb": [{ "form": "select", "meaning": "lựa chọn" }],
+          "noun": [{ "form": "crop variety", "meaning": "giống cây trồng" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The documentary showed how a cat and a bird can form an unusual relationship."
+        "content": "Farmers carefully select crop varieties that are best suited to the local climate."
       }
     },
     {
       "id": 40,
-      "targetLexeme": "hand-raised polar bear",
-      "sourceContext": "Remarkably, one hand-raised polar bear called Agee has formed a close relationship with her owner...",
+      "targetLexeme": "resistance to the transport and storage chain",
+      "sourceContext": "...not their resistance to the transport and storage chain...",
       "phase1Inference": {
-        "contextualGuessVI": "Một con 'gấu Bắc Cực' (polar bear) 'được nuôi bằng tay' (hand-raised)"
+        "contextualGuessVI": "Không phải vì 'khả năng chống chịu' (resistance) 'với chuỗi vận chuyển và lưu kho' (to the transport and storage chain)"
       },
       "phase2Annotation": {
-        "phonetic": "/hænd reɪzd ˈpəʊlə beə/",
+        "phonetic": "/rɪˈzɪstəns tuː ðə ˈtrænspɔːt ənd ˈstɔːrɪdʒ tʃeɪn/",
         "sentiment": "neutral",
-        "definitionEN": "A polar bear that has been cared for and fed by humans from a very young age, instead of by its mother",
-        "translationVI": "Gấu Bắc Cực được nuôi bằng tay",
-        "relatedCollocates": ["raise (an animal)", "raised in captivity"],
+        "definitionEN": "The ability to withstand the process of being moved and kept before being sold, without being damaged",
+        "translationVI": "Khả năng chống chịu với chuỗi vận chuyển và lưu trữ",
+        "relatedCollocates": ["supply chain (n)", "resistance to (disease)"],
         "wordForms": {
-          "adjective": [
-            { "form": "hand-raised", "meaning": "được nuôi bằng tay" }
-          ]
+          "noun": [{ "form": "resistance", "meaning": "sự chống cự" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The hand-raised lion cub was very comfortable around people."
+        "content": "Modern apples are often bred for their resistance to the transport and storage chain, sometimes at the expense of flavour."
       }
     },
     {
       "id": 41,
-      "targetLexeme": "actively hunt humans",
-      "sourceContext": "...since polar bears are known to actively hunt humans in the wild.",
+      "targetLexeme": "at their best",
+      "sourceContext": "...and you can pick them when they’re really at their best, and not before.’",
       "phase1Inference": {
-        "contextualGuessVI": "Được biết là 'chủ động' (actively) 'săn' (hunt) 'người' (humans)"
+        "contextualGuessVI": "Khi chúng thực sự 'ngon nhất' (at their best)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈæktɪvli hʌnt ˈhjuːmənz/",
-        "sentiment": "negative",
-        "definitionEN": "To deliberately and energetically pursue people in order to catch or kill them",
-        "translationVI": "Chủ động săn người",
-        "relatedCollocates": ["actively (seek)", "hunt (prey)"],
+        "phonetic": "/æt ðeə best/",
+        "sentiment": "positive",
+        "definitionEN": "At the peak of quality, freshness, or ripeness",
+        "translationVI": "Ở trạng thái tốt nhất",
+        "relatedCollocates": ["at its peak", "in prime condition"],
         "wordForms": {
-          "verb": [{ "form": "hunt", "meaning": "săn" }],
-          "adverb": [{ "form": "actively", "meaning": "một cách chủ động" }]
+          "adjective": [{ "form": "best", "meaning": "tốt nhất" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Unlike most sharks, great whites are known to actively hunt humans on rare occasions."
+        "content": "Tomatoes picked straight from the vine are at their best."
       }
     },
     {
       "id": 42,
-      "targetLexeme": "potential breakthroughs in human medicine",
-      "sourceContext": "...this would mean not only the loss of potential breakthroughs in human medicine...",
+      "targetLexeme": "soil is exhausted",
+      "sourceContext": "No soil is exhausted...",
       "phase1Inference": {
-        "contextualGuessVI": "Sự mất mát 'những đột phá' (breakthroughs) 'tiềm năng' (potential) 'trong' (in) 'y học' (medicine) 'của con người' (human)"
+        "contextualGuessVI": "Không có 'đất bị bạc màu' (soil is exhausted)"
       },
       "phase2Annotation": {
-        "phonetic": "/pəˈtenʃəl ˈbreɪkθruːz ɪn ˈhjuːmən ˈmedsən/",
+        "phonetic": "/nəʊ sɔɪl ɪz ɪɡˈzɔːstɪd/",
         "sentiment": "positive",
-        "definitionEN": "Possible important new discoveries in the science or practice of the diagnosis, treatment, and prevention of disease",
-        "translationVI": "Những đột phá tiềm năng trong y học nhân loại",
-        "relatedCollocates": [
-          "a major (breakthrough)",
-          "medical (breakthrough)"
-        ],
+        "definitionEN": "The soil is not depleted of its nutrients",
+        "translationVI": "Đất không bị kiệt quệ/bạc màu",
+        "relatedCollocates": ["soil (depletion)", "nutrient-poor (soil)"],
         "wordForms": {
-          "noun": [{ "form": "breakthrough", "meaning": "sự đột phá" }]
+          "verb": [{ "form": "exhaust", "meaning": "làm cạn kiệt" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Gene editing offers potential breakthroughs in the treatment of genetic disorders."
+        "content": "Crop rotation is a method used to ensure the soil is not exhausted."
       }
     },
     {
       "id": 43,
-      "targetLexeme": "majestic animal",
-      "sourceContext": "...the disappearance of an intelligent, majestic animal.",
+      "targetLexeme": "gently showers the plants’ roots",
+      "sourceContext": "...the water that gently showers the plants’ roots every 12 minutes is recycled...",
       "phase1Inference": {
-        "contextualGuessVI": "Sự biến mất của một 'loài động vật' (animal) 'thông minh' (intelligent), 'hùng vĩ' (majestic)"
+        "contextualGuessVI": "Nước 'tưới nhẹ nhàng lên rễ cây' (gently showers the plants’ roots)"
       },
       "phase2Annotation": {
-        "phonetic": "/məˈdʒestɪk ˈænɪməl/",
-        "sentiment": "positive",
-        "definitionEN": "An animal that is beautiful, powerful, or causing great admiration and respect",
-        "translationVI": "Loài động vật hùng vĩ",
-        "relatedCollocates": ["majestic (creature)", "awe-inspiring (synonym)"],
+        "phonetic": "/ˈdʒentli ˈʃaʊəz ðə plɑːnts ruːts/",
+        "sentiment": "neutral",
+        "definitionEN": "To spray a light and soft flow of water over the roots of the plants",
+        "translationVI": "Tưới nhẹ lên rễ cây",
+        "relatedCollocates": ["gentle (mist)", "water (the roots)"],
         "wordForms": {
-          "noun": [{ "form": "animal", "meaning": "động vật" }],
-          "adjective": [{ "form": "majestic", "meaning": "hùng vĩ" }]
+          "verb": [{ "form": "shower", "meaning": "tắm, tưới" }],
+          "adverb": [{ "form": "gently", "meaning": "nhẹ nhàng" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The lion is often called a majestic animal because of its impressive mane and powerful presence."
+        "content": "The automated system gently showers the plants' roots with a nutrient solution."
       }
     },
     {
       "id": 44,
-      "targetLexeme": "closest relatives",
-      "sourceContext": "...their closest relatives from a warmer climate, the brown bears.",
+      "targetLexeme": "classic intensive farm",
+      "sourceContext": "...so the method uses 90% less water than a classic intensive farm for the same yield.",
       "phase1Inference": {
-        "contextualGuessVI": "Họ hàng 'gần nhất' (closest) của chúng"
+        "contextualGuessVI": "Một 'trang trại thâm canh' (intensive farm) 'truyền thống' (classic)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈkləʊsɪst ˈrelətɪvz/",
+        "phonetic": "/ˈklæsɪk ɪnˈtensɪv fɑːm/",
         "sentiment": "neutral",
-        "definitionEN": "The species that is most nearly related through a common ancestor",
-        "translationVI": "Họ hàng gần nhất",
-        "relatedCollocates": ["distant (relatives)", "common (ancestor)"],
+        "definitionEN": "A typical, traditional farm that uses high-input methods to maximize production",
+        "translationVI": "Trang trại thâm canh cổ điển",
+        "relatedCollocates": [
+          "conventional (farming)",
+          "industrial (agriculture)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "relative", "meaning": "họ hàng" }]
+          "noun": [{ "form": "farm", "meaning": "nông trại" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Chimpanzees are the closest relatives to humans in the animal kingdom."
+        "content": "A classic intensive farm often relies heavily on chemical fertilizers and pesticides."
       }
     },
     {
       "id": 45,
-      "targetLexeme": "toughest environments",
-      "sourceContext": "...allowed polar bears to survive in one of the toughest environments on Earth.",
+      "targetLexeme": "for the same yield",
+      "sourceContext": "...for the same yield.",
       "phase1Inference": {
-        "contextualGuessVI": "Một trong những 'môi trường' (environments) 'khắc nghiệt nhất' (toughest)"
+        "contextualGuessVI": "Cho 'cùng một sản lượng' (for the same yield)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈtʌfɪst ɪnˈvaɪrənmənts/",
-        "sentiment": "negative",
-        "definitionEN": "The most difficult or harsh places to live",
-        "translationVI": "Những môi trường khắc nghiệt nhất",
-        "relatedCollocates": ["harsh (environments)", "extreme (conditions)"],
+        "phonetic": "/fə ðə seɪm jiːld/",
+        "sentiment": "neutral",
+        "definitionEN": "Producing an equal amount of crops",
+        "translationVI": "Cho cùng một năng suất/sản lượng",
+        "relatedCollocates": ["crop (yield)", "high (yield)"],
         "wordForms": {
-          "adjective": [{ "form": "tough", "meaning": "khó khăn, khắc nghiệt" }]
+          "noun": [{ "form": "yield", "meaning": "sản lượng" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The desert is one of the toughest environments for survival."
+        "content": "The new seeds produce twice the amount of grain for the same yield of water."
       }
     },
     {
       "id": 46,
-      "targetLexeme": "hibernating (adj)",
-      "sourceContext": "Hibernating brown bears do not have this capacity...",
+      "targetLexeme": "a new phenomenon",
+      "sourceContext": "Urban farming is not, of course, a new phenomenon.",
       "phase1Inference": {
-        "contextualGuessVI": "Những con gấu nâu 'đang ngủ đông' (Hibernating)"
+        "contextualGuessVI": "Không phải là một 'hiện tượng mới' (a new phenomenon)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈhaɪbəneɪtɪŋ/",
+        "phonetic": "/ə njuː fəˈnɒmɪnən/",
         "sentiment": "neutral",
-        "definitionEN": "Spending the winter in a dormant state",
-        "translationVI": "Đang ngủ đông",
-        "relatedCollocates": ["hibernate (v)", "hibernation (n)"],
+        "definitionEN": "A recent or modern fact or situation that is observed to exist or happen",
+        "translationVI": "Một hiện tượng mới",
+        "relatedCollocates": ["recent (phenomenon)", "natural (phenomenon)"],
         "wordForms": {
-          "verb": [{ "form": "hibernate", "meaning": "ngủ đông" }],
-          "noun": [{ "form": "hibernation", "meaning": "sự ngủ đông" }]
+          "noun": [{ "form": "phenomenon", "meaning": "hiện tượng" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The hibernating bear will not eat or drink for several months."
+        "content": "The rise of social media is a relatively new phenomenon in human history."
       }
     },
     {
       "id": 47,
-      "targetLexeme": "primates (n)",
-      "sourceContext": "...such as elephants and primates.",
+      "targetLexeme": "Inner-city agriculture is booming",
+      "sourceContext": "Inner-city agriculture is booming from Shanghai to Detroit and Tokyo to Bangkok.",
       "phase1Inference": {
-        "contextualGuessVI": "Như là voi và 'động vật linh trưởng' (primates)"
+        "contextualGuessVI": "'Nông nghiệp nội thành' (Inner-city agriculture) 'đang bùng nổ' (is booming)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈpraɪmeɪts/",
-        "sentiment": "neutral",
-        "definitionEN": "A group of mammals that includes monkeys, apes, and humans",
-        "translationVI": "Động vật linh trưởng",
-        "relatedCollocates": ["apes", "monkeys"],
+        "phonetic": "/ˌɪnə ˈsɪti ˈæɡrɪkʌltʃər ɪz ˈbuːmɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "Farming within the central part of a city is growing and becoming very successful",
+        "translationVI": "Nông nghiệp nội thành đang bùng nổ",
+        "relatedCollocates": ["business is (booming)", "urban (agriculture)"],
         "wordForms": {
-          "noun": [{ "form": "primate", "meaning": "linh trưởng" }]
+          "verb": [{ "form": "boom", "meaning": "bùng nổ" }],
+          "noun": [{ "form": "agriculture", "meaning": "nông nghiệp" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Gorillas, chimpanzees, and orangutans are all great apes, a type of primate."
+        "content": "With the increasing demand for local food, inner-city agriculture is booming in many metropolitan areas."
       }
     },
     {
       "id": 48,
-      "targetLexeme": "on multiple occasions",
-      "sourceContext": "...has even been observed on multiple occasions to dislodge a piece of meat...",
+      "targetLexeme": "disused shipping containers",
+      "sourceContext": "Strawberries are being grown in disused shipping containers...",
       "phase1Inference": {
-        "contextualGuessVI": "Đã được quan sát 'nhiều lần' (on multiple occasions)"
+        "contextualGuessVI": "Trong các 'container vận chuyển' (shipping containers) 'không còn sử dụng' (disused)"
       },
       "phase2Annotation": {
-        "phonetic": "/ɒn ˈmʌltɪpl əˈkeɪʒənz/",
+        "phonetic": "/dɪsˈjuːzd ˈʃɪpɪŋ kənˈteɪnəz/",
         "sentiment": "neutral",
-        "definitionEN": "On several different instances; many times",
-        "translationVI": "Trong nhiều dịp, nhiều lần",
-        "relatedCollocates": ["on (several) occasions", "many times"],
+        "definitionEN": "Large metal boxes for transporting goods that are no longer in use",
+        "translationVI": "Các container vận chuyển không còn sử dụng",
+        "relatedCollocates": [
+          "abandoned (containers)",
+          "repurpose (containers)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "occasion", "meaning": "dịp" }]
+          "adjective": [{ "form": "disused", "meaning": "bị bỏ đi" }],
+          "noun": [
+            {
+              "form": "shipping container",
+              "meaning": "công-ten-nơ vận chuyển"
+            }
+          ]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "He has been late for work on multiple occasions this month."
+        "content": "The artist converted several disused shipping containers into a modern art studio."
       }
     },
     {
       "id": 49,
-      "targetLexeme": "out of his reach",
-      "sourceContext": "...a piece of meat hung out of his reach.",
+      "targetLexeme": "underground carparks",
+      "sourceContext": "...mushrooms in underground carparks.",
       "phase1Inference": {
-        "contextualGuessVI": "Treo 'ngoài tầm với' (out of his reach) của nó"
+        "contextualGuessVI": "Nấm trong các 'bãi đỗ xe ngầm' (underground carparks)"
       },
       "phase2Annotation": {
-        "phonetic": "/aʊt əv hɪz riːtʃ/",
+        "phonetic": "/ˌʌndəˈɡraʊnd ˈkɑːpɑːks/",
         "sentiment": "neutral",
-        "definitionEN": "In a position where one cannot get to or touch something",
-        "translationVI": "Ngoài tầm với của anh ấy/nó",
-        "relatedCollocates": ["within (reach)", "beyond (reach)"],
+        "definitionEN": "Parking areas for vehicles that are located below ground level",
+        "translationVI": "Bãi đỗ xe ngầm",
+        "relatedCollocates": ["multi-storey (carpark)", "parking garage"],
         "wordForms": {
-          "noun": [{ "form": "reach", "meaning": "tầm với" }]
+          "noun": [{ "form": "carpark", "meaning": "bãi đỗ xe" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "He put the cookies on the top shelf, out of the children's reach."
+        "content": "Many large shopping centres have underground carparks for customer convenience."
       }
     },
     {
       "id": 50,
-      "targetLexeme": "jumping onto barrels",
-      "sourceContext": "...involved running and jumping onto barrels in an attempt to get to a photographer...",
+      "targetLexeme": "is ‘virtuous’",
+      "sourceContext": "Aeroponic farming, he says, is ‘virtuous’.",
       "phase1Inference": {
-        "contextualGuessVI": "'Nhảy lên' (jumping onto) 'các thùng phuy' (barrels)"
+        "contextualGuessVI": "Canh tác khí canh là 'tốt đẹp/có đạo đức' (virtuous)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈdʒʌmpɪŋ ˈɒntuː ˈbærəlz/",
-        "sentiment": "neutral",
-        "definitionEN": "To leap on top of large, cylindrical containers",
-        "translationVI": "Nhảy lên các thùng phuy",
-        "relatedCollocates": ["jump (onto)", "barrel (n)"],
+        "phonetic": "/ɪz ˈvɜːtʃuəs/",
+        "sentiment": "positive",
+        "definitionEN": "Having or showing high moral standards; good and morally right",
+        "translationVI": "Là tốt đẹp, có ích",
+        "relatedCollocates": ["morally (good)", "ethical (adj)"],
         "wordForms": {
-          "verb": [{ "form": "jump", "meaning": "nhảy" }]
+          "adjective": [{ "form": "virtuous", "meaning": "có đạo đức, tốt" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The dog was trained to jump onto barrels as part of an agility course."
+        "content": "Using renewable energy sources is a virtuous choice for the planet."
       }
     },
     {
       "id": 51,
-      "targetLexeme": "in what appeared to be a game",
-      "sourceContext": "...knocking them over in what appeared to be a game.",
+      "targetLexeme": "weighs little",
+      "sourceContext": "The equipment weighs little...",
       "phase1Inference": {
-        "contextualGuessVI": "Trong một hành động 'dường như là' (in what appeared to be) 'một trò chơi' (a game)"
+        "contextualGuessVI": "Thiết bị 'nặng không đáng kể' (weighs little)"
       },
       "phase2Annotation": {
-        "phonetic": "/ɪn wɒt əˈpɪəd tə biː ə ɡeɪm/",
-        "sentiment": "neutral",
-        "definitionEN": "In a way that looked like it was a form of play or amusement",
-        "translationVI": "Trong một hành động dường như là một trò chơi",
-        "relatedCollocates": ["appear to be", "seemingly (a game)"],
+        "phonetic": "/weɪz ˈlɪtl/",
+        "sentiment": "positive",
+        "definitionEN": "Is not heavy; has a low weight",
+        "translationVI": "Nặng không đáng kể, nhẹ",
+        "relatedCollocates": ["lightweight (adj)", "easy to carry"],
         "wordForms": {
-          "verb": [{ "form": "appear", "meaning": "dường như" }]
+          "verb": [{ "form": "weigh", "meaning": "cân nặng" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The dolphins were leaping out of the water in what appeared to be a game."
+        "content": "This new laptop is very portable because it weighs little."
       }
     },
     {
       "id": 52,
-      "targetLexeme": "playing with the dogs",
-      "sourceContext": "...including playing with the dogs used to pull sleds in the Arctic.",
+      "targetLexeme": "installed on almost any flat surface",
+      "sourceContext": "...can be installed on almost any flat surface and is cheap to buy...",
       "phase1Inference": {
-        "contextualGuessVI": "'Chơi với' (playing with) 'những con chó' (the dogs)"
+        "contextualGuessVI": "Có thể 'được lắp đặt trên hầu hết mọi bề mặt phẳng' (installed on almost any flat surface)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈpleɪɪŋ wɪð ðə dɒɡz/",
-        "sentiment": "positive",
-        "definitionEN": "To engage in activity for enjoyment and recreation with dogs",
-        "translationVI": "Chơi với những con chó",
-        "relatedCollocates": ["play (with)", "sled dogs"],
+        "phonetic": "/ɪnˈstɔːld ɒn ˈɔːlməʊst ˈeni flæt ˈsɜːfɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "Can be set up or placed for use on nearly any level, even plane",
+        "translationVI": "Được lắp đặt trên hầu hết mọi bề mặt phẳng",
+        "relatedCollocates": ["easy to install", "flat (roof)"],
         "wordForms": {
-          "verb": [{ "form": "play", "meaning": "chơi" }]
+          "verb": [{ "form": "install", "meaning": "lắp đặt" }],
+          "noun": [{ "form": "surface", "meaning": "bề mặt" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The children spent the afternoon playing with the dogs in the park."
+        "content": "The solar panels are designed to be easily installed on almost any flat surface."
       }
     },
     {
       "id": 53,
-      "targetLexeme": "pull sleds",
-      "sourceContext": "...dogs used to pull sleds in the Arctic.",
+      "targetLexeme": "cheap to run",
+      "sourceContext": "It is lower than cheap to run, too...",
       "phase1Inference": {
-        "contextualGuessVI": "Những con chó 'dùng để' (used to) 'kéo' (pull) 'xe trượt tuyết' (sleds)"
+        "contextualGuessVI": "Cũng 'rẻ để vận hành' (cheap to run)"
       },
       "phase2Annotation": {
-        "phonetic": "/pʊl sledz/",
-        "sentiment": "neutral",
-        "definitionEN": "To draw or haul a vehicle on runners for conveying loads over snow or ice",
-        "translationVI": "Kéo xe trượt tuyết",
-        "relatedCollocates": ["sled dogs", "pull (a cart)"],
+        "phonetic": "/tʃiːp tuː rʌn/",
+        "sentiment": "positive",
+        "definitionEN": "Inexpensive to operate or maintain",
+        "translationVI": "Rẻ để vận hành",
+        "relatedCollocates": ["low running costs", "economical (adj)"],
         "wordForms": {
-          "verb": [{ "form": "pull", "meaning": "kéo" }],
-          "noun": [{ "form": "sled", "meaning": "xe trượt tuyết" }]
+          "verb": [{ "form": "run", "meaning": "vận hành" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Huskies are strong dogs that are often trained to pull sleds."
+        "content": "Electric cars are generally cheaper to run than gasoline-powered vehicles."
       }
     },
     {
       "id": 54,
-      "targetLexeme": "formed a close relationship",
-      "sourceContext": "...Agee has formed a close relationship with her owner Mark Dumas...",
+      "targetLexeme": "consuming a tiny fraction of the electricity",
+      "sourceContext": "...consuming a tiny fraction of the electricity used by some techniques.",
       "phase1Inference": {
-        "contextualGuessVI": "Đã 'hình thành một mối quan hệ' (formed a relationship) 'thân thiết' (close)"
+        "contextualGuessVI": "'Tiêu thụ một phần rất nhỏ' (consuming a tiny fraction) 'lượng điện' (of the electricity)"
       },
       "phase2Annotation": {
-        "phonetic": "/fɔːmd ə kləʊs rɪˈleɪʃənʃɪp/",
+        "phonetic": "/kənˈsjuːmɪŋ ə ˈtaɪni ˈfrækʃn əv ði ɪˌlekˈtrɪsəti/",
         "sentiment": "positive",
-        "definitionEN": "To develop a strong bond or connection with someone",
-        "translationVI": "Hình thành một mối quan hệ thân thiết",
-        "relatedCollocates": ["a close (bond)", "form (a friendship)"],
+        "definitionEN": "Using a very small part or amount of the electrical power",
+        "translationVI": "Tiêu thụ một phần rất nhỏ điện năng",
+        "relatedCollocates": ["energy-efficient", "a fraction of the cost"],
         "wordForms": {
-          "noun": [{ "form": "relationship", "meaning": "mối quan hệ" }]
+          "verb": [{ "form": "consume", "meaning": "tiêu thụ" }],
+          "noun": [{ "form": "fraction", "meaning": "phần nhỏ" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Over the years, she formed a close relationship with her mentor."
+        "content": "LED light bulbs are highly efficient, consuming a tiny fraction of the electricity of traditional bulbs."
       }
     },
     {
       "id": 55,
-      "targetLexeme": "to the point where",
-      "sourceContext": "...a close relationship with her owner Mark Dumas to the point where they even swim together.",
+      "targetLexeme": "sells at prices",
+      "sourceContext": "Produce grown this way typically sells at prices that, while generally higher than those of classic intensive agriculture, are lower than soil-based organic growers.",
       "phase1Inference": {
-        "contextualGuessVI": "Thân thiết 'đến mức' (to the point where) 'họ' (they) 'thậm chí' (even) 'bơi' (swim) 'cùng nhau' (together)"
+        "contextualGuessVI": "Thường 'bán với giá' (sells at prices)"
       },
       "phase2Annotation": {
-        "phonetic": "/tuː ðə pɔɪnt weə/",
+        "phonetic": "/selz ət ˈpraɪsɪz/",
         "sentiment": "neutral",
-        "definitionEN": "To a degree or extent that something (often surprising) happens",
-        "translationVI": "Đến mức mà",
-        "relatedCollocates": ["to the extent that", "so much so that"],
+        "definitionEN": "Is sold for a particular amount of money",
+        "translationVI": "Bán với giá",
+        "relatedCollocates": ["retail (price)", "sell for"],
         "wordForms": {
-          "noun": [{ "form": "point", "meaning": "điểm, mức độ" }]
+          "verb": [{ "form": "sell", "meaning": "bán" }],
+          "noun": [{ "form": "price", "meaning": "giá cả" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "He was exhausted to the point where he could barely stand."
+        "content": "This handmade jewelry sells at prices ranging from $50 to $500."
       }
     },
     {
       "id": 56,
-      "targetLexeme": "even more astonishing",
-      "sourceContext": "This is even more astonishing since polar bears are known to actively hunt humans in the wild.",
+      "targetLexeme": "soil-based organic growers",
+      "sourceContext": "...are lower than soil-based organic growers.",
       "phase1Inference": {
-        "contextualGuessVI": "Điều này 'thậm chí còn' (even more) 'đáng kinh ngạc hơn' (astonishing)"
+        "contextualGuessVI": "Thấp hơn so với 'những người trồng hữu cơ trên đất' (soil-based organic growers)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈiːvən mɔːr əˈstɒnɪʃɪŋ/",
-        "sentiment": "positive",
-        "definitionEN": "Even more surprising or impressive",
-        "translationVI": "Thậm chí còn đáng kinh ngạc hơn",
-        "relatedCollocates": ["even more (surprising)", "astonishing (adj)"],
+        "phonetic": "/sɔɪl-beɪst ɔːˈɡænɪk ˈɡrəʊəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Farmers who grow crops in soil according to organic principles",
+        "translationVI": "Người trồng hữu cơ trên đất",
+        "relatedCollocates": ["organic (farming)", "conventional (growers)"],
         "wordForms": {
-          "adjective": [{ "form": "astonishing", "meaning": "đáng kinh ngạc" }]
+          "noun": [{ "form": "grower", "meaning": "người trồng" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "He won the race, but what was even more astonishing was his record-breaking time."
+        "content": "Many consumers prefer to buy their vegetables directly from local, soil-based organic growers."
       }
     },
     {
       "id": 57,
-      "targetLexeme": "lead to their extinction",
-      "sourceContext": "If climate change were to lead to their extinction...",
+      "targetLexeme": "There are limits to",
+      "sourceContext": "There are limits to what farmers can grow this way, of course...",
       "phase1Inference": {
-        "contextualGuessVI": "Nếu biến đổi khí hậu 'dẫn đến' (lead to) 'sự tuyệt chủng' (their extinction) 'của chúng' (their)"
+        "contextualGuessVI": "'Có những giới hạn đối với' (There are limits to) những gì nông dân có thể trồng"
       },
       "phase2Annotation": {
-        "phonetic": "/liːd tuː ðeər ɪkˈstɪŋkʃən/",
-        "sentiment": "negative",
-        "definitionEN": "To cause a species to die out completely",
-        "translationVI": "Dẫn đến sự tuyệt chủng của chúng",
-        "relatedCollocates": ["cause (extinction)", "drive to (extinction)"],
+        "phonetic": "/ðər ə ˈlɪmɪts tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "There is a point beyond which something is not possible or permitted",
+        "translationVI": "Có những giới hạn đối với",
+        "relatedCollocates": ["set (limits)", "within the limits of"],
         "wordForms": {
-          "verb": [{ "form": "lead to", "meaning": "dẫn đến" }],
-          "noun": [{ "form": "extinction", "meaning": "sự tuyệt chủng" }]
+          "noun": [{ "form": "limit", "meaning": "giới hạn" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Overhunting can lead to the extinction of a species."
+        "content": "There are limits to how much the human body can endure."
       }
     },
     {
       "id": 58,
-      "targetLexeme": "loss of potential breakthroughs",
-      "sourceContext": "...this would mean not only the loss of potential breakthroughs in human medicine...",
+      "targetLexeme": "suited to the summer months",
+      "sourceContext": "...and much of the produce is suited to the summer months.",
       "phase1Inference": {
-        "contextualGuessVI": "Sự 'mất mát' (loss) 'của' (of) 'những đột phá' (breakthroughs) 'tiềm năng' (potential)"
+        "contextualGuessVI": "Phần lớn sản phẩm 'phù hợp với những tháng hè' (suited to the summer months)"
       },
       "phase2Annotation": {
-        "phonetic": "/lɒs əv pəˈtenʃəl ˈbreɪkθruːz/",
-        "sentiment": "negative",
-        "definitionEN": "The disappearance of possible important new discoveries",
-        "translationVI": "Sự mất mát những đột phá tiềm năng",
-        "relatedCollocates": [
-          "loss of (opportunity)",
-          "potential (discoveries)"
-        ],
+        "phonetic": "/ˈsuːtɪd tuː ðə ˈsʌmə mʌnθs/",
+        "sentiment": "neutral",
+        "definitionEN": "Is appropriate for or adapted to the warmest season of the year",
+        "translationVI": "Phù hợp với những tháng hè",
+        "relatedCollocates": ["well-suited for", "seasonal (produce)"],
         "wordForms": {
-          "noun": [
-            { "form": "loss", "meaning": "sự mất mát" },
-            { "form": "breakthrough", "meaning": "sự đột phá" }
-          ]
+          "adjective": [{ "form": "suited", "meaning": "phù hợp" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The destruction of the rainforest represents a huge loss of potential breakthroughs in medicine."
+        "content": "Linen clothing is well suited to the summer months because it is lightweight and breathable."
       }
     },
     {
       "id": 59,
-      "targetLexeme": "more importantly",
-      "sourceContext": "...but more importantly, the disappearance of an intelligent, majestic animal.",
+      "targetLexeme": "Root vegetables",
+      "sourceContext": "‘Root vegetables we cannot do, at least not yet,’ he says.",
       "phase1Inference": {
-        "contextualGuessVI": "Nhưng 'quan trọng hơn' (more importantly).."
+        "contextualGuessVI": "'Các loại rau củ' (Root vegetables) chúng tôi không thể trồng"
       },
       "phase2Annotation": {
-        "phonetic": "/mɔːr ɪmˈpɔːtəntli/",
+        "phonetic": "/ruːt ˈvedʒtəblz/",
         "sentiment": "neutral",
-        "definitionEN": "Used to introduce a point that is more significant than what has just been said",
-        "translationVI": "Quan trọng hơn",
-        "relatedCollocates": ["most importantly", "what's more"],
+        "definitionEN": "Vegetables where the main edible part is the root of the plant, such as carrots, potatoes, and radishes",
+        "translationVI": "Các loại rau củ",
+        "relatedCollocates": ["leafy greens", "starchy (vegetables)"],
         "wordForms": {
-          "adverb": [
-            { "form": "importantly", "meaning": "một cách quan trọng" }
-          ]
+          "noun": [{ "form": "vegetable", "meaning": "rau" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The plan will save us money, but more importantly, it will reduce our environmental impact."
+        "content": "Roasting is a delicious way to prepare root vegetables like carrots and parsnips."
       }
     },
     {
       "id": 60,
-      "targetLexeme": "Arctic Circle",
-      "sourceContext": "...the extreme conditions of the Arctic Circle...",
+      "targetLexeme": "at least not yet",
+      "sourceContext": "‘Root vegetables we cannot do, at least not yet,’ he says.",
       "phase1Inference": {
-        "contextualGuessVI": "Vòng Bắc Cực"
+        "contextualGuessVI": "'Ít nhất là chưa' (at least not yet)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈɑːktɪk ˈsɜːkl/",
+        "phonetic": "/ət liːst nɒt jet/",
         "sentiment": "neutral",
-        "definitionEN": "The imaginary line on the Earth's surface at a latitude of approximately 66.5° N, marking the southern limit of the Arctic region",
-        "translationVI": "Vòng Bắc Cực",
-        "relatedCollocates": ["Arctic (region)", "Antarctic Circle"],
+        "definitionEN": "Not at the present time, but possibly in the future",
+        "translationVI": "Ít nhất là chưa",
+        "relatedCollocates": ["not for now", "maybe later"],
         "wordForms": {
-          "noun": [
-            { "form": "Arctic", "meaning": "Bắc Cực" },
-            { "form": "Circle", "meaning": "Vòng tròn" }
-          ]
+          "adverb": [{ "form": "yet", "meaning": "chưa" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The sun does not set for several weeks in summer inside the Arctic Circle."
+        "content": "I haven't finished the report, at least not yet, but I'm making good progress."
       }
     },
     {
       "id": 61,
-      "targetLexeme": "low-density lipoproteins (LDLs)",
-      "sourceContext": "...reduces levels of low-density lipoproteins (LDLs) – a form of ‘bad’ cholesterol.",
+      "targetLexeme": "the roots are obviously not an option",
+      "sourceContext": "‘Radishes are OK, but carrots, potatoes, that kind of thing – the roots are obviously not an option.",
       "phase1Inference": {
-        "contextualGuessVI": "Lipoprotein mật độ thấp (một loại cholesterol 'xấu')"
+        "contextualGuessVI": "Củ 'rõ ràng không phải là một lựa chọn' (are obviously not an option)"
       },
       "phase2Annotation": {
-        "phonetic": "/ləʊ ˈdensəti ˌlaɪpəʊˈprəʊtiːnz/",
+        "phonetic": "/ðə ruːts ər ˈɒbviəsli nɒt ən ˈɒpʃn/",
         "sentiment": "negative",
-        "definitionEN": "A type of lipoprotein that transports cholesterol in the blood, high levels of which are associated with an increased risk of heart disease",
-        "translationVI": "Lipoprotein mật độ thấp (LDL)",
-        "relatedCollocates": [
-          "bad cholesterol",
-          "high-density lipoproteins (HDLs)"
-        ],
+        "definitionEN": "It is clear that the root part of the plant is not a possible choice",
+        "translationVI": "Rễ/củ rõ ràng không phải là một lựa chọn",
+        "relatedCollocates": ["not a viable option", "out of the question"],
         "wordForms": {
-          "noun": [{ "form": "lipoprotein", "meaning": "lipoprotein" }]
+          "noun": [{ "form": "option", "meaning": "lựa chọn" }],
+          "adverb": [{ "form": "obviously", "meaning": "rõ ràng" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "A healthy diet can help to lower your levels of low-density lipoproteins (LDLs)."
+        "content": "Given his broken leg, playing in the match tomorrow is obviously not an option."
       }
     },
     {
       "id": 62,
-      "targetLexeme": "physiologists (n)",
-      "sourceContext": "Physiologists Alanda Lennox and Allen Goodship found an explanation for this paradox...",
+      "targetLexeme": "Fruit trees are obviously not an option",
+      "sourceContext": "Fruit trees are obviously not an option.",
       "phase1Inference": {
-        "contextualGuessVI": "Các nhà 'sinh lý học' (Physiologists)"
+        "contextualGuessVI": "'Cây ăn quả' (Fruit trees) 'rõ ràng không phải là một lựa chọn' (are obviously not an option)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˌfɪziˈɒlədʒɪsts/",
-        "sentiment": "neutral",
-        "definitionEN": "Experts in physiology, the branch of biology that deals with the normal functions of living organisms and their parts",
-        "translationVI": "Các nhà sinh lý học",
-        "relatedCollocates": ["physiology (n)", "biologist (n)"],
+        "phonetic": "/fruːt triːz ər ˈɒbviəsli nɒt ən ˈɒpʃn/",
+        "sentiment": "negative",
+        "definitionEN": "It is clear that trees which bear fruit are not a possible choice",
+        "translationVI": "Cây ăn quả rõ ràng không phải là một lựa chọn",
+        "relatedCollocates": ["not feasible", "impractical"],
         "wordForms": {
-          "noun": [
-            { "form": "physiologist", "meaning": "nhà sinh lý học" },
-            { "form": "physiology", "meaning": "sinh lý học" }
+          "noun": [{ "form": "fruit tree", "meaning": "cây ăn quả" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "For a small balcony garden, fruit trees are obviously not an option."
+      }
+    },
+    {
+      "id": 63,
+      "targetLexeme": "tend to take up a lot of space",
+      "sourceContext": "And beans tend to take up a lot of space for not much return.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Và đậu 'có xu hướng chiếm nhiều không gian' (tend to take up a lot of space)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tend tuː teɪk ʌp ə lɒt əv speɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "Usually occupy a large area",
+        "translationVI": "Có xu hướng chiếm nhiều không gian",
+        "relatedCollocates": ["space-consuming", "occupy (space)"],
+        "wordForms": {
+          "verb": [
+            { "form": "tend", "meaning": "có xu hướng" },
+            { "form": "take up", "meaning": "chiếm" }
           ]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The physiologists studied how the athlete's body responded to extreme exercise."
-      }
-    },
-    {
-      "id": 63,
-      "targetLexeme": "astronauts (n)",
-      "sourceContext": "...and even astronauts, could potentially benefit.",
-      "phase1Inference": {
-        "contextualGuessVI": "Và thậm chí cả 'phi hành gia' (astronauts)"
-      },
-      "phase2Annotation": {
-        "phonetic": "/ˈæstrənɔːts/",
-        "sentiment": "neutral",
-        "definitionEN": "A person who is trained to travel in a spacecraft",
-        "translationVI": "Các phi hành gia",
-        "relatedCollocates": ["spacecraft", "NASA", "cosmonaut"],
-        "wordForms": {
-          "noun": [{ "form": "astronaut", "meaning": "phi hành gia" }]
-        }
-      },
-      "phase3Production": {
-        "taskType": "SENTENCE_CREATION",
-        "content": "Astronauts experience bone density loss during long missions in space."
+        "content": "Large pieces of furniture tend to take up a lot of space in a small apartment."
       }
     },
     {
       "id": 64,
-      "targetLexeme": "medical benefits",
-      "sourceContext": "The medical benefits of the polar bear for humanity certainly have their importance...",
+      "targetLexeme": "for not much return",
+      "sourceContext": "...for not much return.’",
       "phase1Inference": {
-        "contextualGuessVI": "Những 'lợi ích' (benefits) 'về y học' (medical)"
+        "contextualGuessVI": "Mà 'lợi nhuận/thu hoạch không nhiều' (for not much return)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈmedɪkl ˈbenɪfɪts/",
-        "sentiment": "positive",
-        "definitionEN": "Advantages or positive effects related to the science of medicine",
-        "translationVI": "Lợi ích y học",
-        "relatedCollocates": ["health (benefits)", "medical (research)"],
+        "phonetic": "/fə nɒt mʌtʃ rɪˈtɜːn/",
+        "sentiment": "negative",
+        "definitionEN": "In exchange for a small amount of profit or produce",
+        "translationVI": "Đổi lại không được bao nhiêu",
+        "relatedCollocates": ["low return on investment", "little reward"],
         "wordForms": {
-          "noun": [{ "form": "benefit", "meaning": "lợi ích" }]
+          "noun": [{ "form": "return", "meaning": "sự trở lại, lợi nhuận" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The study of this plant could have significant medical benefits."
+        "content": "He put a lot of effort into the project for not much return."
       }
     },
     {
       "id": 65,
-      "targetLexeme": "for humanity",
-      "sourceContext": "...the polar bear for humanity certainly have their importance...",
+      "targetLexeme": "of the kind being practised in Paris",
+      "sourceContext": "Nevertheless, urban farming of the kind being practised in Paris is one part of a bigger and fast-changing picture...",
       "phase1Inference": {
-        "contextualGuessVI": "Cho 'nhân loại' (humanity)"
+        "contextualGuessVI": "Nông nghiệp đô thị 'thuộc loại đang được thực hành ở Paris' (of the kind being practised in Paris)"
       },
       "phase2Annotation": {
-        "phonetic": "/fɔː hjuːˈmænəti/",
-        "sentiment": "positive",
-        "definitionEN": "For the human race as a whole",
-        "translationVI": "Cho nhân loại",
-        "relatedCollocates": ["for (mankind)", "benefit (humanity)"],
+        "phonetic": "/əv ðə kaɪnd ˈbiːɪŋ ˈpræktɪst ɪn ˈpærɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "Of the type that is currently being done in Paris",
+        "translationVI": "Thuộc loại đang được thực hành ở Paris",
+        "relatedCollocates": ["a type of", "similar to"],
         "wordForms": {
-          "noun": [{ "form": "humanity", "meaning": "nhân loại" }]
+          "noun": [{ "form": "kind", "meaning": "loại, kiểu" }],
+          "verb": [{ "form": "practise", "meaning": "thực hành" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "This discovery is a great step forward for humanity."
+        "content": "Architecture of the kind being practised by this firm is both innovative and sustainable."
       }
     },
     {
       "id": 66,
-      "targetLexeme": "tend to want to",
-      "sourceContext": "We tend to want to protect animals we think are intelligent...",
+      "targetLexeme": "a bigger and fast-changing picture",
+      "sourceContext": "...is one part of a bigger and fast-changing picture that is bringing food production closer to our lives.",
       "phase1Inference": {
-        "contextualGuessVI": "Chúng ta 'có xu hướng' (tend to) 'muốn' (want to) bảo vệ động vật.."
+        "contextualGuessVI": "Một phần của một 'bức tranh lớn hơn và thay đổi nhanh chóng' (a bigger and fast-changing picture)"
       },
       "phase2Annotation": {
-        "phonetic": "/tend tuː wɒnt tuː/",
+        "phonetic": "/ə ˈbɪɡər ənd fɑːst-ˈtʃeɪndʒɪŋ ˈpɪktʃə/",
         "sentiment": "neutral",
-        "definitionEN": "To usually or be likely to have a desire to do something",
-        "translationVI": "Có xu hướng muốn",
-        "relatedCollocates": ["tend to (do sth)", "be likely to"],
+        "definitionEN": "A larger and rapidly evolving situation or context",
+        "translationVI": "Một bức tranh lớn hơn và thay đổi nhanh chóng",
+        "relatedCollocates": ["the bigger picture", "rapidly changing"],
         "wordForms": {
-          "verb": [{ "form": "tend", "meaning": "có xu hướng" }]
+          "noun": [{ "form": "picture", "meaning": "bức tranh, tình hình" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "People tend to want to help others in an emergency."
+        "content": "This new technology is just one piece of a bigger and fast-changing picture in the world of artificial intelligence."
       }
     },
     {
       "id": 67,
-      "targetLexeme": "on the other hand",
-      "sourceContext": "Bears, on the other hand, seem to be perceived as stupid...",
+      "targetLexeme": "bringing food production closer to our lives",
+      "sourceContext": "...that is bringing food production closer to our lives.",
       "phase1Inference": {
-        "contextualGuessVI": "Mặt khác, ngược lại"
+        "contextualGuessVI": "Đang 'đưa sản xuất thực phẩm đến gần hơn với cuộc sống của chúng ta' (bringing food production closer to our lives)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbrɪŋɪŋ fuːd prəˈdʌkʃn ˈkləʊsə tuː ɑː laɪvz/",
+        "sentiment": "positive",
+        "definitionEN": "Making the process of growing and creating food more immediate and connected to people's daily existence",
+        "translationVI": "Đưa sản xuất thực phẩm đến gần hơn với cuộc sống của chúng ta",
+        "relatedCollocates": ["local food movement", "farm-to-table"],
+        "wordForms": {
+          "verb": [{ "form": "bring", "meaning": "mang lại" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Community gardens are a great way of bringing food production closer to our lives."
+      }
+    },
+    {
+      "id": 68,
+      "targetLexeme": "on the other hand",
+      "sourceContext": "Produce grown using this soil-free method, on the other hand...",
+      "phase1Inference": {
+        "contextualGuessVI": "Mặt khác"
       },
       "phase2Annotation": {
         "phonetic": "/ɒn ði ˈʌðə hænd/",
@@ -1569,186 +1561,1248 @@
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "I enjoy city life. On the other hand, I sometimes miss the peace of the countryside."
-      }
-    },
-    {
-      "id": 68,
-      "targetLexeme": "making use of a tool",
-      "sourceContext": "...observed making use of a tool to manipulate his environment.",
-      "phase1Inference": {
-        "contextualGuessVI": "Được quan sát 'sử dụng' (making use of) 'một công cụ' (a tool)"
-      },
-      "phase2Annotation": {
-        "phonetic": "/ˈmeɪkɪŋ juːs əv ə tuːl/",
-        "sentiment": "positive",
-        "definitionEN": "Using an object or device to achieve a purpose",
-        "translationVI": "Sử dụng một công cụ",
-        "relatedCollocates": ["use (a tool)", "tool use (n)"],
-        "wordForms": {
-          "verb": [{ "form": "make use of", "meaning": "sử dụng" }]
-        }
-      },
-      "phase3Production": {
-        "taskType": "SENTENCE_CREATION",
-        "content": "Early humans started making use of tools made from stone."
+        "content": "The city is vibrant and exciting. On the other hand, it can be very expensive to live there."
       }
     },
     {
       "id": 69,
-      "targetLexeme": "not as obviously as",
-      "sourceContext": "Problem-solving ability has also been witnessed in wild polar bears, although not as obviously as with GoGo.",
+      "targetLexeme": "relies solely on",
+      "sourceContext": "...which relies solely on a small quantity of water...",
       "phase1Inference": {
-        "contextualGuessVI": "Mặc dù 'không rõ ràng bằng' (not as obviously as)"
+        "contextualGuessVI": "Chỉ 'dựa vào' (relies on) 'duy nhất' (solely) một lượng nước nhỏ"
       },
       "phase2Annotation": {
-        "phonetic": "/nɒt æz ˈɒbviəsli æz/",
+        "phonetic": "/rɪˈlaɪz ˈsəʊli ɒn/",
         "sentiment": "neutral",
-        "definitionEN": "Not in a way that is as easy to see or understand as something else",
-        "translationVI": "Không rõ ràng bằng",
-        "relatedCollocates": ["not as (clear) as", "less (obvious) than"],
+        "definitionEN": "To depend exclusively on; to be supported only by",
+        "translationVI": "Chỉ dựa vào",
+        "relatedCollocates": ["depend entirely on", "rely on"],
         "wordForms": {
-          "adverb": [{ "form": "obviously", "meaning": "một cách rõ ràng" }]
+          "verb": [{ "form": "rely on", "meaning": "dựa vào" }],
+          "adverb": [{ "form": "solely", "meaning": "duy nhất" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "He was upset, although not as obviously as his sister, who was crying."
+        "content": "The success of the project relies solely on the efforts of the team members."
       }
     },
     {
       "id": 70,
-      "targetLexeme": "an attempt to get to",
-      "sourceContext": "...in an attempt to get to a photographer standing on a platform four metres high.",
+      "targetLexeme": "a small quantity of water",
+      "sourceContext": "...relies solely on a small quantity of water...",
       "phase1Inference": {
-        "contextualGuessVI": "Trong 'một nỗ lực để' (in an attempt to) 'tiếp cận' (get to) một nhiếp ảnh gia"
+        "contextualGuessVI": "Một 'lượng nước nhỏ' (a small quantity of water)"
       },
       "phase2Annotation": {
-        "phonetic": "/ɪn ən əˈtempt tə ɡet tuː/",
+        "phonetic": "/ə smɔːl ˈkwɒntəti əv ˈwɔːtə/",
         "sentiment": "neutral",
-        "definitionEN": "As an effort to reach or achieve something",
-        "translationVI": "Trong một nỗ lực để đến/tiếp cận",
-        "relatedCollocates": [
-          "in an effort to (synonym)",
-          "attempt (to do sth)"
-        ],
+        "definitionEN": "A little amount of water",
+        "translationVI": "Một lượng nước nhỏ",
+        "relatedCollocates": ["a small amount of", "a limited quantity"],
         "wordForms": {
-          "noun": [{ "form": "attempt", "meaning": "sự nỗ lực" }]
+          "noun": [{ "form": "quantity", "meaning": "số lượng" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "He raised his voice in an attempt to be heard over the noise."
+        "content": "You only need a small quantity of water to get the machine working."
       }
     },
     {
       "id": 71,
-      "targetLexeme": "putting objects in piles",
-      "sourceContext": "For example, Ames observed bears putting objects in piles and then knocking them over...",
+      "targetLexeme": "nevertheless",
+      "sourceContext": "Nevertheless, urban farming of the kind being practised in Paris...",
       "phase1Inference": {
-        "contextualGuessVI": "'Đặt các đồ vật' (putting objects) 'thành đống' (in piles)"
+        "contextualGuessVI": "Tuy nhiên"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈpʊtɪŋ ˈɒbdʒɪkts ɪn paɪlz/",
+        "phonetic": "/ˌnevəðəˈles/",
         "sentiment": "neutral",
-        "definitionEN": "Arranging items one on top of another to form a heap or stack",
-        "translationVI": "Xếp các đồ vật thành đống",
-        "relatedCollocates": ["a pile of (books)", "stacking (objects)"],
+        "definitionEN": "In spite of that; however",
+        "translationVI": "Tuy nhiên",
+        "relatedCollocates": ["however", "nonetheless"],
         "wordForms": {
-          "noun": [{ "form": "pile", "meaning": "đống" }]
+          "adverb": [{ "form": "nevertheless", "meaning": "tuy nhiên" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The child spent hours putting blocks in piles and then knocking them down."
+        "content": "The hike was challenging; nevertheless, the view from the top was worth it."
       }
     },
     {
       "id": 72,
-      "targetLexeme": "knocking them over",
-      "sourceContext": "...putting objects in piles and then knocking them over...",
+      "targetLexeme": "horizontal trays",
+      "sourceContext": "Opposite, in narrow, horizontal trays packed not with soil but with coconut fibre, grow cherry tomatoes, shiny aubergines and brightly coloured chards.",
       "phase1Inference": {
-        "contextualGuessVI": "Và sau đó 'làm đổ chúng' (knocking them over)"
+        "contextualGuessVI": "Các 'khay' (trays) 'nằm ngang' (horizontal)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈnɒkɪŋ ðəm ˈəʊvə/",
+        "phonetic": "/ˌhɒrɪˈzɒntl treɪz/",
         "sentiment": "neutral",
-        "definitionEN": "Causing something to fall to the ground",
-        "translationVI": "Làm đổ chúng",
-        "relatedCollocates": ["knock over (a glass)", "push over"],
+        "definitionEN": "Flat receptacles with a raised edge, used for holding things, that are parallel to the ground",
+        "translationVI": "Các khay nằm ngang",
+        "relatedCollocates": ["vertical (tubes)", "seedling (trays)"],
         "wordForms": {
-          "verb": [{ "form": "knock over", "meaning": "làm đổ" }]
+          "adjective": [{ "form": "horizontal", "meaning": "nằm ngang" }],
+          "noun": [{ "form": "tray", "meaning": "cái khay" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "Be careful not to get too close to the table and knock over the vase."
+        "content": "He planted rows of microgreens in long, horizontal trays."
       }
     },
     {
       "id": 73,
-      "targetLexeme": "previously thought",
-      "sourceContext": "...abilities than previously thought.",
+      "targetLexeme": "coconut fibre",
+      "sourceContext": "...packed not with soil but with coconut fibre...",
       "phase1Inference": {
-        "contextualGuessVI": "Hơn so với 'trước đây người ta nghĩ' (previously thought)"
+        "contextualGuessVI": "Không phải đất mà là 'xơ dừa' (coconut fibre)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈpriːviəsli θɔːt/",
+        "phonetic": "/ˈkəʊkənʌt ˈfaɪbə/",
         "sentiment": "neutral",
-        "definitionEN": "Than was believed or assumed in the past",
-        "translationVI": "So với đã nghĩ trước đây",
-        "relatedCollocates": ["previously (believed)", "than (expected)"],
+        "definitionEN": "A natural fiber extracted from the husk of coconut",
+        "translationVI": "Xơ dừa",
+        "relatedCollocates": ["coir (synonym)", "natural (fibre)"],
         "wordForms": {
-          "adverb": [{ "form": "previously", "meaning": "trước đây" }]
+          "noun": [{ "form": "fibre", "meaning": "sợi, xơ" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "The universe is much larger than previously thought."
+        "content": "Coconut fibre is a popular growing medium in hydroponics because it retains water well."
       }
     },
     {
       "id": 74,
-      "targetLexeme": "hitting out at",
-      "sourceContext": "...many bears have been seen to hit out at ice and snow...",
+      "targetLexeme": "brightly coloured chards",
+      "sourceContext": "...shiny aubergines and brightly coloured chards.",
       "phase1Inference": {
-        "contextualGuessVI": "Được nhìn thấy 'đánh/đập' (hit out at) vào băng và tuyết"
+        "contextualGuessVI": "Những cây 'cải cầu vồng' (chards) 'có màu sắc sặc sỡ' (brightly coloured)"
       },
       "phase2Annotation": {
-        "phonetic": "/ˈhɪtɪŋ aʊt æt/",
-        "sentiment": "negative",
-        "definitionEN": "To strike something with force, often in anger or frustration",
-        "translationVI": "Đánh/đập vào",
-        "relatedCollocates": ["lash out at", "strike (at)"],
+        "phonetic": "/ˈbraɪtli ˈkʌləd tʃɑːdz/",
+        "sentiment": "positive",
+        "definitionEN": "A leafy green vegetable with large stalks of vivid and varied colors",
+        "translationVI": "Cải cầu vồng màu sắc sặc sỡ",
+        "relatedCollocates": ["vibrantly (coloured)", "leafy greens"],
         "wordForms": {
-          "verb": [{ "form": "hit out", "meaning": "đánh mạnh" }]
+          "adjective": [
+            { "form": "brightly coloured", "meaning": "có màu sắc sặc sỡ" }
+          ],
+          "noun": [{ "form": "chard", "meaning": "cải cầu vồng" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "In his anger, he started hitting out at the wall."
+        "content": "The salad was decorated with brightly coloured chards, making it look as good as it tasted."
       }
     },
     {
       "id": 75,
-      "targetLexeme": "swim together",
-      "sourceContext": "...to the point where they even swim together.",
+      "targetLexeme": "experimenting with",
+      "sourceContext": "...began experimenting with vertical farming and aeroponic growing towers...",
       "phase1Inference": {
-        "contextualGuessVI": "Đến mức họ thậm chí còn 'bơi cùng nhau' (swim together)"
+        "contextualGuessVI": "Bắt đầu 'thử nghiệm với' (experimenting with) canh tác theo chiều dọc"
       },
       "phase2Annotation": {
-        "phonetic": "/swɪm təˈɡeðə/",
-        "sentiment": "positive",
-        "definitionEN": "To move through water at the same time and in company with each other",
-        "translationVI": "Bơi cùng nhau",
-        "relatedCollocates": ["play together", "live together"],
+        "phonetic": "/ɪkˈsperɪmentɪŋ wɪð/",
+        "sentiment": "neutral",
+        "definitionEN": "Trying out new ideas, methods, or activities in order to see what effect they have",
+        "translationVI": "Thử nghiệm với",
+        "relatedCollocates": ["experiment (on)", "try out"],
         "wordForms": {
-          "verb": [{ "form": "swim", "meaning": "bơi" }]
+          "verb": [{ "form": "experiment", "meaning": "thí nghiệm" }]
         }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
-        "content": "It's amazing to see the bear and its owner swim together in the pool."
+        "content": "The chef is always experimenting with new flavour combinations."
+      }
+    },
+    {
+      "id": 76,
+      "targetLexeme": "apartment block roof",
+      "sourceContext": "...on his Paris apartment block roof five years ago.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trên 'mái nhà của khu chung cư' (apartment block roof) của anh ấy"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈpɑːtmənt blɒk ruːf/",
+        "sentiment": "neutral",
+        "definitionEN": "The top surface of a large building containing multiple residential units",
+        "translationVI": "Mái nhà của khu chung cư",
+        "relatedCollocates": ["rooftop (garden)", "block of flats"],
+        "wordForms": {
+          "noun": [{ "form": "apartment block", "meaning": "khu chung cư" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "They installed solar panels on their apartment block roof to generate renewable energy."
+      }
+    },
+    {
+      "id": 77,
+      "targetLexeme": "somewhat bigger",
+      "sourceContext": "The urban rooftop space above the exhibition hall is somewhat bigger...",
+      "phase1Inference": {
+        "contextualGuessVI": "Không gian sân thượng 'lớn hơn một chút' (somewhat bigger)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsʌmwɒt ˈbɪɡə/",
+        "sentiment": "neutral",
+        "definitionEN": "A little larger; slightly bigger",
+        "translationVI": "Hơi lớn hơn",
+        "relatedCollocates": ["slightly (bigger)", "a bit (larger)"],
+        "wordForms": {
+          "adverb": [{ "form": "somewhat", "meaning": "hơi, một chút" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new model is somewhat bigger than the previous version."
+      }
+    },
+    {
+      "id": 78,
+      "targetLexeme": "punnets of strawberries",
+      "sourceContext": "...3,000 lettuces and 150 punnets of strawberries.",
+      "phase1Inference": {
+        "contextualGuessVI": "150 'hộp dâu tây' (punnets of strawberries)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpʌnɪts əv ˈstrɔːbəriz/",
+        "sentiment": "neutral",
+        "definitionEN": "Small, lightweight containers, typically made of plastic or cardboard, used for selling fruit like strawberries",
+        "translationVI": "Hộp dâu tây",
+        "relatedCollocates": ["a basket of", "a box of"],
+        "wordForms": {
+          "noun": [{ "form": "punnet", "meaning": "hộp nhỏ (đựng trái cây)" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She bought two punnets of strawberries from the local market."
+      }
+    },
+    {
+      "id": 79,
+      "targetLexeme": "feed the whole city",
+      "sourceContext": "‘We’re not ever, obviously, going to feed the whole city this way,’ cautions Hardy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sẽ không bao giờ 'nuôi sống cả thành phố' (feed the whole city) theo cách này"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fiːd ðə həʊl ˈsɪti/",
+        "sentiment": "neutral",
+        "definitionEN": "To provide enough food for the entire population of a city",
+        "translationVI": "Nuôi sống cả thành phố",
+        "relatedCollocates": ["feed the population", "food security"],
+        "wordForms": {
+          "verb": [{ "form": "feed", "meaning": "cho ăn, nuôi sống" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It would take a massive increase in agricultural output to feed the whole city."
+      }
+    },
+    {
+      "id": 80,
+      "targetLexeme": "urban environment",
+      "sourceContext": "‘In the urban environment you’re working with very significant practical constraints...",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong 'môi trường đô thị' (urban environment)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɜːbən ɪnˈvaɪrənmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "The setting of a city or town",
+        "translationVI": "Môi trường đô thị",
+        "relatedCollocates": ["urban (setting)", "city (environment)"],
+        "wordForms": {
+          "noun": [{ "form": "environment", "meaning": "môi trường" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Green spaces are essential for mental well-being in the urban environment."
+      }
+    },
+    {
+      "id": 81,
+      "targetLexeme": "quality is so poor",
+      "sourceContext": "...their quality is so poor, because the varieties are selected for their capacity to withstand such substantial journeys...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Chất lượng' (quality) của chúng 'quá kém' (is so poor)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkwɒləti ɪz səʊ pɔː/",
+        "sentiment": "negative",
+        "definitionEN": "The standard is very low; of a low grade",
+        "translationVI": "Chất lượng quá kém",
+        "relatedCollocates": ["poor (quality)", "low (standard)"],
+        "wordForms": {
+          "noun": [{ "form": "quality", "meaning": "chất lượng" }],
+          "adjective": [{ "form": "poor", "meaning": "kém, nghèo" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He returned the product because its quality was so poor."
+      }
+    },
+    {
+      "id": 82,
+      "targetLexeme": "capacity to withstand",
+      "sourceContext": "...selected for their capacity to withstand such substantial journeys...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được chọn vì 'khả năng chịu đựng' (capacity to withstand)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kəˈpæsəti tuː wɪðˈstænd/",
+        "sentiment": "neutral",
+        "definitionEN": "The ability or power to endure or resist something without being damaged",
+        "translationVI": "Khả năng chịu đựng",
+        "relatedCollocates": ["ability to (withstand)", "resist (pressure)"],
+        "wordForms": {
+          "noun": [{ "form": "capacity", "meaning": "năng lực, sức chứa" }],
+          "verb": [{ "form": "withstand", "meaning": "chịu đựng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The bridge was tested for its capacity to withstand earthquakes."
+      }
+    },
+    {
+      "id": 83,
+      "targetLexeme": "the producers",
+      "sourceContext": "...not the producers.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không phải 'những người sản xuất' (the producers)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə prəˈdjuːsəz/",
+        "sentiment": "neutral",
+        "definitionEN": "The people or companies that grow or make goods to be sold; the farmers",
+        "translationVI": "Những người sản xuất",
+        "relatedCollocates": ["farmers", "manufacturers"],
+        "wordForms": {
+          "noun": [{ "form": "producer", "meaning": "nhà sản xuất" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Fair trade practices ensure that the producers receive a fair price for their goods."
+      }
+    },
+    {
+      "id": 84,
+      "targetLexeme": "urban farmers",
+      "sourceContext": "In Paris, urban farmers are trying a soil-free approach to agriculture that uses less space and fewer resources.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'người nông dân' (farmers) 'thành thị' (urban)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɜːbən ˈfɑːməz/",
+        "sentiment": "neutral",
+        "definitionEN": "People who cultivate, process, and distribute food in or around a city.",
+        "translationVI": "Nông dân đô thị",
+        "relatedCollocates": ["urban (gardening)", "city (farming)"],
+        "wordForms": {
+          "noun": [{ "form": "farmer", "meaning": "nông dân" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Urban farmers are transforming unused city spaces into productive gardens."
+      }
+    },
+    {
+      "id": 85,
+      "targetLexeme": "on top of",
+      "sourceContext": "On top of a striking new exhibition hall in southern Paris, the world’s largest urban rooftop farm has started to bear fruit.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Ở trên đỉnh của' (On top of) một tòa nhà"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɒn tɒp əv/",
+        "sentiment": "neutral",
+        "definitionEN": "Situated on the highest surface of something.",
+        "translationVI": "Trên đỉnh của",
+        "relatedCollocates": ["above", "on the roof of"],
+        "wordForms": {
+          "preposition": [{ "form": "on top of", "meaning": "trên đỉnh của" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There is a beautiful restaurant on top of the skyscraper with panoramic city views."
+      }
+    },
+    {
+      "id": 86,
+      "targetLexeme": "peer inside",
+      "sourceContext": "Peer inside and you see the tubes are completely hollow, the roots of dozens of strawberry plants dangling down inside them.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Nhìn vào bên trong' (Peer inside)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pɪər ɪnˈsaɪd/",
+        "sentiment": "neutral",
+        "definitionEN": "To look closely or with difficulty into something.",
+        "translationVI": "Nhìn vào bên trong",
+        "relatedCollocates": ["look inside", "peek inside"],
+        "wordForms": {
+          "verb": [{ "form": "peer", "meaning": "nhìn kỹ, nhòm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She tried to peer inside the dark room to see what was making the noise."
+      }
+    },
+    {
+      "id": 87,
+      "targetLexeme": "row upon row of",
+      "sourceContext": "From identical vertical tubes nearby burst row upon row of lettuces...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Hàng này đến hàng khác' (Row upon row of) xà lách"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rəʊ əˈpɒn rəʊ əv/",
+        "sentiment": "neutral",
+        "definitionEN": "A large number of rows of something.",
+        "translationVI": "Hàng hàng, lớp lớp",
+        "relatedCollocates": ["lines of", "endless rows of"],
+        "wordForms": {
+          "noun": [{ "form": "row", "meaning": "hàng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The vineyard had row upon row of grapevines stretching to the horizon."
+      }
+    },
+    {
+      "id": 88,
+      "targetLexeme": "packed with",
+      "sourceContext": "Opposite, in narrow, horizontal trays packed not with soil but with coconut fibre...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'lấp đầy bởi' (packed with) xơ dừa"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pækt wɪð/",
+        "sentiment": "neutral",
+        "definitionEN": "To be completely full of something.",
+        "translationVI": "Chứa đầy, nhét đầy",
+        "relatedCollocates": ["filled with", "crammed with"],
+        "wordForms": {
+          "verb": [{ "form": "pack", "meaning": "đóng gói, nhồi nhét" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The train was packed with commuters during the morning rush hour."
+      }
+    },
+    {
+      "id": 89,
+      "targetLexeme": "vertical farming",
+      "sourceContext": "...began experimenting with vertical farming and aeroponic growing towers...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Canh tác theo chiều dọc' (vertical farming)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈvɜːtɪkl ˈfɑːmɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "The practice of growing crops in vertically stacked layers.",
+        "translationVI": "Canh tác theo chiều dọc",
+        "relatedCollocates": ["indoor farming", "urban agriculture"],
+        "wordForms": {
+          "noun": [{ "form": "farming", "meaning": "canh tác" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Vertical farming allows for crop production in urban areas with limited space."
+      }
+    },
+    {
+      "id": 90,
+      "targetLexeme": "remaining two thirds",
+      "sourceContext": "When the remaining two thirds of the vast open area are in production...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Hai phần ba còn lại' (remaining two thirds)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈmeɪnɪŋ tuː θɜːdz/",
+        "sentiment": "neutral",
+        "definitionEN": "The part that is still left, constituting two out of three equal parts of a whole.",
+        "translationVI": "Hai phần ba còn lại",
+        "relatedCollocates": ["the rest of", "the remainder"],
+        "wordForms": {
+          "noun": [{ "form": "third", "meaning": "một phần ba" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He painted one third of the fence and promised to finish the remaining two thirds tomorrow."
+      }
+    },
+    {
+      "id": 91,
+      "targetLexeme": "harvest up to",
+      "sourceContext": "...20 staff will harvest up to 1,000 kg of perhaps 35 different varieties of fruit and vegetables, every day.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thu hoạch tới' (harvest up to) 1,000 kg"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhɑːvɪst ʌp tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To gather a crop of a particular amount, reaching a maximum of that amount.",
+        "translationVI": "Thu hoạch tới",
+        "relatedCollocates": ["yield up to", "produce as much as"],
+        "wordForms": {
+          "verb": [{ "form": "harvest", "meaning": "thu hoạch" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A single tree can harvest up to 200 apples in a good season."
+      }
+    },
+    {
+      "id": 92,
+      "targetLexeme": "cautions",
+      "sourceContext": "‘We’re not ever, obviously, going to feed the whole city this way,’ cautions Hardy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hardy 'cảnh báo' (cautions)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkɔːʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "To say something as a warning.",
+        "translationVI": "Cảnh báo, lưu ý",
+        "relatedCollocates": ["warns", "advises"],
+        "wordForms": {
+          "verb": [{ "form": "caution", "meaning": "cảnh báo" }],
+          "noun": [{ "form": "caution", "meaning": "sự thận trọng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "'Be careful, the floor is wet,' she cautions."
+      }
+    },
+    {
+      "id": 93,
+      "targetLexeme": "no reason why",
+      "sourceContext": "...there’s no reason why you shouldn’t eventually target between 5% and 10% of consumption.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không có 'lý do tại sao' (reason why) bạn không nên"
+      },
+      "phase2Annotation": {
+        "phonetic": "/nəʊ ˈriːzn waɪ/",
+        "sentiment": "positive",
+        "definitionEN": "Used to say that there is nothing to prevent something from happening or being true.",
+        "translationVI": "Không có lý do gì",
+        "relatedCollocates": ["it makes sense to", "it's logical that"],
+        "wordForms": {
+          "noun": [{ "form": "reason", "meaning": "lý do" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There's no reason why we can't finish this project ahead of schedule."
+      }
+    },
+    {
+      "id": 94,
+      "targetLexeme": "eventually",
+      "sourceContext": "...there’s no reason why you shouldn’t eventually target between 5% and 10% of consumption.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Cuối cùng' (eventually) nhắm đến mục tiêu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪˈventʃuəli/",
+        "sentiment": "neutral",
+        "definitionEN": "In the end, especially after a long delay, dispute, or series of problems.",
+        "translationVI": "Cuối cùng, rốt cuộc",
+        "relatedCollocates": ["in the end", "finally", "ultimately"],
+        "wordForms": {
+          "adverb": [{ "form": "eventually", "meaning": "cuối cùng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After many attempts, he eventually managed to pass his driving test."
+      }
+    },
+    {
+      "id": 95,
+      "targetLexeme": "most significantly",
+      "sourceContext": "Perhaps most significantly, however, this is a real-life showcase for the work of Hardy’s flourishing urban agriculture consultancy...",
+      "phase1Inference": {
+        "contextualGuessVI": "Có lẽ 'quan trọng nhất là' (most significantly)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/məʊst sɪɡˈnɪfɪkəntli/",
+        "sentiment": "neutral",
+        "definitionEN": "Used to introduce the most important point.",
+        "translationVI": "Quan trọng nhất là",
+        "relatedCollocates": ["most importantly", "above all"],
+        "wordForms": {
+          "adverb": [{ "form": "significantly", "meaning": "một cách đáng kể" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new law will reduce taxes for many, but most significantly, it will help low-income families."
+      }
+    },
+    {
+      "id": 96,
+      "targetLexeme": "design, build and equip",
+      "sourceContext": "...fielding enquiries from around the world to design, build and equip a new breed of soil-free inner-city farm.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thiết kế, xây dựng và trang bị' (design, build and equip)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈzaɪn bɪld ənd ɪˈkwɪp/",
+        "sentiment": "neutral",
+        "definitionEN": "To plan, construct, and provide with the necessary items for a particular purpose.",
+        "translationVI": "Thiết kế, xây dựng và trang bị",
+        "relatedCollocates": ["construct and furnish", "plan and outfit"],
+        "wordForms": {
+          "verb": [
+            { "form": "design", "meaning": "thiết kế" },
+            { "form": "build", "meaning": "xây dựng" },
+            { "form": "equip", "meaning": "trang bị" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company was hired to design, build and equip the new science laboratory."
+      }
+    },
+    {
+      "id": 97,
+      "targetLexeme": "treated with",
+      "sourceContext": "‘First, I don’t much like the fact that most of the fruit and vegetables we eat have been treated with something like 17 different pesticides...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã được 'xử lý bằng' (treated with) thuốc trừ sâu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtriːtɪd wɪð/",
+        "sentiment": "negative",
+        "definitionEN": "To be subjected to a chemical or physical process to improve its properties or for preservation.",
+        "translationVI": "Được xử lý bằng",
+        "relatedCollocates": ["sprayed with", "processed with"],
+        "wordForms": {
+          "verb": [{ "form": "treat", "meaning": "đối xử, xử lý" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The wood is treated with a special varnish to protect it from the weather."
+      }
+    },
+    {
+      "id": 98,
+      "targetLexeme": "an average of",
+      "sourceContext": "I don’t much like the fact, either, that they’ve travelled an average of 2,000 refrigerated kilometres to my plate...",
+      "phase1Inference": {
+        "contextualGuessVI": "Di chuyển 'trung bình' (an average of) 2,000 km"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ən ˈævərɪdʒ əv/",
+        "sentiment": "neutral",
+        "definitionEN": "A number expressing the central or typical value in a set of data.",
+        "translationVI": "Trung bình",
+        "relatedCollocates": ["on average", "around", "approximately"],
+        "wordForms": {
+          "noun": [{ "form": "average", "meaning": "trung bình" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The students in this class read an average of three books per month."
+      }
+    },
+    {
+      "id": 99,
+      "targetLexeme": "goes to",
+      "sourceContext": "...that 80% of the price I pay goes to wholesalers and transport companies, not the producers.’",
+      "phase1Inference": {
+        "contextualGuessVI": "80% giá 'đi đến/thuộc về' (goes to) các nhà bán buôn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɡəʊz tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "Is given to or spent on someone or something.",
+        "translationVI": "Đi đến, thuộc về",
+        "relatedCollocates": ["is allocated to", "is paid to"],
+        "wordForms": {
+          "verb": [{ "form": "go", "meaning": "đi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A large portion of the ticket price goes to charity."
+      }
+    },
+    {
+      "id": 100,
+      "targetLexeme": "pumped around",
+      "sourceContext": "...enriched with organic nutrients, pumped around a closed circuit of pipes, towers and trays...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'bơm đi khắp' (pumped around) một hệ thống"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pʌmpt əˈraʊnd/",
+        "sentiment": "neutral",
+        "definitionEN": "To be forced to flow in a circuit or system by a pump.",
+        "translationVI": "Được bơm đi khắp",
+        "relatedCollocates": ["circulated around", "sent through"],
+        "wordForms": {
+          "verb": [{ "form": "pump", "meaning": "bơm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Blood is pumped around the body by the heart."
+      }
+    },
+    {
+      "id": 101,
+      "targetLexeme": "storage chain",
+      "sourceContext": "...not their resistance to the transport and storage chain...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Chuỗi lưu trữ' (storage chain)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈstɔːrɪdʒ tʃeɪn/",
+        "sentiment": "neutral",
+        "definitionEN": "The series of facilities and processes used for keeping and preserving goods.",
+        "translationVI": "Chuỗi lưu trữ",
+        "relatedCollocates": ["supply chain", "cold storage"],
+        "wordForms": {
+          "noun": [
+            { "form": "storage", "meaning": "sự lưu trữ" },
+            { "form": "chain", "meaning": "chuỗi" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Maintaining the correct temperature is crucial throughout the food storage chain."
+      }
+    },
+    {
+      "id": 102,
+      "targetLexeme": "is recycled",
+      "sourceContext": "...the water that gently showers the plants’ roots every 12 minutes is recycled...",
+      "phase1Inference": {
+        "contextualGuessVI": "Nước 'được tái chế' (is recycled)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪz ˌriːˈsaɪkld/",
+        "sentiment": "positive",
+        "definitionEN": "Is converted into reusable material.",
+        "translationVI": "Được tái chế",
+        "relatedCollocates": ["is reused", "is repurposed"],
+        "wordForms": {
+          "verb": [{ "form": "recycle", "meaning": "tái chế" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In our house, all paper, glass, and plastic is recycled."
+      }
+    },
+    {
+      "id": 103,
+      "targetLexeme": "90% less water",
+      "sourceContext": "...so the method uses 90% less water than a classic intensive farm for the same yield.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sử dụng 'ít nước hơn 90%' (90% less water)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈnaɪnti pəˈsent les ˈwɔːtə/",
+        "sentiment": "positive",
+        "definitionEN": "An amount of water that is smaller by ninety parts in every hundred.",
+        "translationVI": "Ít hơn 90% nước",
+        "relatedCollocates": ["a significant reduction", "water conservation"],
+        "wordForms": {
+          "adjective": [{ "form": "less", "meaning": "ít hơn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "This new showerhead uses 50% less water than the old one."
+      }
+    },
+    {
+      "id": 104,
+      "targetLexeme": "from Shanghai to Detroit",
+      "sourceContext": "Inner-city agriculture is booming from Shanghai to Detroit and Tokyo to Bangkok.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Từ Thượng Hải đến Detroit' (from Shanghai to Detroit) - chỉ sự phổ biến toàn cầu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/frəm ʃæŋˈhaɪ tuː dɪˈtrɔɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "An expression used to show that something is happening in many different parts of the world.",
+        "translationVI": "Từ Thượng Hải đến Detroit (chỉ sự lan rộng)",
+        "relatedCollocates": ["around the world", "from A to Z"],
+        "wordForms": {
+          "preposition": [
+            { "form": "from... to...", "meaning": "từ... đến..." }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new fashion trend is popular everywhere, from Paris to Tokyo."
+      }
+    },
+    {
+      "id": 105,
+      "targetLexeme": "per square metre",
+      "sourceContext": "...roughly €100 to €150 per square metre.",
+      "phase1Inference": {
+        "contextualGuessVI": "Giá 'mỗi mét vuông' (per square metre)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pə skweə ˈmiːtə/",
+        "sentiment": "neutral",
+        "definitionEN": "For each unit of area equal to a square with sides of one metre.",
+        "translationVI": "Trên mỗi mét vuông",
+        "relatedCollocates": ["price per unit", "area measurement"],
+        "wordForms": {
+          "noun": [{ "form": "square metre", "meaning": "mét vuông" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The rent for this office is calculated at $20 per square metre."
+      }
+    },
+    {
+      "id": 106,
+      "targetLexeme": "used by some techniques",
+      "sourceContext": "...consuming a tiny fraction of the electricity used by some techniques.",
+      "phase1Inference": {
+        "contextualGuessVI": "Lượng điện 'được sử dụng bởi một số kỹ thuật' (used by some techniques)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/juːzd baɪ səm tekˈniːks/",
+        "sentiment": "neutral",
+        "definitionEN": "The amount of power that is utilized by certain methods.",
+        "translationVI": "Được sử dụng bởi một số kỹ thuật",
+        "relatedCollocates": ["required by", "employed in"],
+        "wordForms": {
+          "verb": [{ "form": "use", "meaning": "sử dụng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The energy consumption is far lower than that used by traditional manufacturing techniques."
+      }
+    },
+    {
+      "id": 107,
+      "targetLexeme": "grown this way",
+      "sourceContext": "Produce grown this way typically sells at prices that...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sản phẩm 'được trồng theo cách này' (grown this way)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɡrəʊn ðɪs weɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "Cultivated using this particular method.",
+        "translationVI": "Được trồng theo cách này",
+        "relatedCollocates": [
+          "produced in this manner",
+          "cultivated like this"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "grow", "meaning": "trồng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Vegetables grown this way are free from soil-borne diseases."
+      }
+    },
+    {
+      "id": 108,
+      "targetLexeme": "typically sells",
+      "sourceContext": "Produce grown this way typically sells at prices that...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thường được bán' (typically sells) với giá..."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtɪpɪkli selz/",
+        "sentiment": "neutral",
+        "definitionEN": "Usually is sold for a certain price.",
+        "translationVI": "Thường được bán",
+        "relatedCollocates": ["generally sells for", "is usually priced at"],
+        "wordForms": {
+          "adverb": [{ "form": "typically", "meaning": "thường, điển hình" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A cup of coffee in this cafe typically sells for about five dollars."
+      }
+    },
+    {
+      "id": 109,
+      "targetLexeme": "while generally higher than",
+      "sourceContext": "...prices that, while generally higher than those of classic intensive agriculture, are lower than soil-based organic growers.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Mặc dù nhìn chung cao hơn' (while generally higher than)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/waɪl ˈdʒenrəli ˈhaɪə ðæn/",
+        "sentiment": "neutral",
+        "definitionEN": "Although usually at a greater level compared to something else.",
+        "translationVI": "Trong khi nhìn chung cao hơn",
+        "relatedCollocates": [
+          "although often more than",
+          "despite being higher than"
+        ],
+        "wordForms": {
+          "adverb": [{ "form": "generally", "meaning": "nhìn chung" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His salary, while generally higher than his peers, was not enough to cover his expenses."
+      }
+    },
+    {
+      "id": 110,
+      "targetLexeme": "much of the produce",
+      "sourceContext": "...and much of the produce is suited to the summer months.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Phần lớn sản phẩm' (much of the produce)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/mʌtʃ əv ðə ˈprɒdjuːs/",
+        "sentiment": "neutral",
+        "definitionEN": "A large part of the food that has been grown.",
+        "translationVI": "Phần lớn nông sản",
+        "relatedCollocates": [
+          "most of the crops",
+          "a large portion of the harvest"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "produce", "meaning": "nông sản" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Much of the produce from this farm is sold at the local farmers' market."
+      }
+    },
+    {
+      "id": 111,
+      "targetLexeme": "that kind of thing",
+      "sourceContext": "‘Radishes are OK, but carrots, potatoes, that kind of thing – the roots are obviously not an option.",
+      "phase1Inference": {
+        "contextualGuessVI": "Khoai tây, 'những thứ đại loại vậy' (that kind of thing)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðæt kaɪnd əv θɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "Used to refer to other things of the same type, without being specific.",
+        "translationVI": "Những thứ đại loại vậy",
+        "relatedCollocates": ["and so on", "etcetera", "and things like that"],
+        "wordForms": {
+          "noun": [{ "form": "thing", "meaning": "thứ, vật" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I enjoy hiking, camping, and that kind of thing."
+      }
+    },
+    {
+      "id": 112,
+      "targetLexeme": "And beans",
+      "sourceContext": "And beans tend to take up a lot of space for not much return.’",
+      "phase1Inference": {
+        "contextualGuessVI": "'Còn đậu thì' (And beans)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ənd biːnz/",
+        "sentiment": "neutral",
+        "definitionEN": "Used to introduce an additional point, specifically about beans.",
+        "translationVI": "Và các loại đậu",
+        "relatedCollocates": ["As for beans", "Regarding beans"],
+        "wordForms": {
+          "noun": [{ "form": "bean", "meaning": "đậu, đỗ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Tomatoes and cucumbers are easy to grow. And beans, they need a lot of support to climb."
+      }
+    },
+    {
+      "id": 113,
+      "targetLexeme": "one part of",
+      "sourceContext": "...urban farming of the kind being practised in Paris is one part of a bigger and fast-changing picture...",
+      "phase1Inference": {
+        "contextualGuessVI": "Là 'một phần của' (one part of) một bức tranh lớn hơn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wʌn pɑːt əv/",
+        "sentiment": "neutral",
+        "definitionEN": "A single piece or element of a larger whole.",
+        "translationVI": "Một phần của",
+        "relatedCollocates": ["a component of", "an element of"],
+        "wordForms": {
+          "noun": [{ "form": "part", "meaning": "phần" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Eating a healthy diet is just one part of an overall healthy lifestyle."
+      }
+    },
+    {
+      "id": 114,
+      "targetLexeme": "fast-changing",
+      "sourceContext": "...is one part of a bigger and fast-changing picture that is bringing food production closer to our lives.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một bức tranh 'thay đổi nhanh chóng' (fast-changing)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fɑːst-ˈtʃeɪndʒɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "Changing very quickly.",
+        "translationVI": "Thay đổi nhanh chóng",
+        "relatedCollocates": ["rapidly evolving", "quickly changing"],
+        "wordForms": {
+          "adjective": [
+            { "form": "fast-changing", "meaning": "thay đổi nhanh" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We live in a fast-changing world where technology is constantly advancing."
+      }
+    },
+    {
+      "id": 115,
+      "targetLexeme": "the advantages are many",
+      "sourceContext": "‘The method’s advantages are many,’ he says.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Những ưu điểm là rất nhiều' (the advantages are many)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ði ədˈvɑːntɪdʒɪz ə ˈmeni/",
+        "sentiment": "positive",
+        "definitionEN": "There is a large number of benefits or positive aspects.",
+        "translationVI": "Có nhiều ưu điểm",
+        "relatedCollocates": [
+          "there are numerous benefits",
+          "has many upsides"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "advantage", "meaning": "lợi thế" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The advantages of living in a city are many, including better job opportunities and cultural attractions."
+      }
+    },
+    {
+      "id": 116,
+      "targetLexeme": "I don’t much like the fact that",
+      "sourceContext": "‘First, I don’t much like the fact that most of the fruit and vegetables we eat have been treated with something like 17 different pesticides...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Tôi không thích lắm sự thật là' (I don’t much like the fact that)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/aɪ dəʊnt mʌtʃ laɪk ðə fækt ðæt/",
+        "sentiment": "negative",
+        "definitionEN": "A phrase used to express dislike or disapproval of a particular situation.",
+        "translationVI": "Tôi không thích lắm sự thật là",
+        "relatedCollocates": ["I'm not happy about", "it bothers me that"],
+        "wordForms": {
+          "verb": [{ "form": "like", "meaning": "thích" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I don't much like the fact that our meetings are always scheduled so early in the morning."
+      }
+    },
+    {
+      "id": 117,
+      "targetLexeme": "to my plate",
+      "sourceContext": "...they’ve travelled an average of 2,000 refrigerated kilometres to my plate...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đến 'đĩa ăn của tôi' (to my plate)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tuː maɪ pleɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "To the point where it is ready to be eaten by the consumer.",
+        "translationVI": "Đến đĩa của tôi",
+        "relatedCollocates": ["from farm to table", "on my dinner table"],
+        "wordForms": {
+          "noun": [{ "form": "plate", "meaning": "cái đĩa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It's amazing to think about the long journey food makes from the farm to my plate."
+      }
+    },
+    {
+      "id": 118,
+      "targetLexeme": "just down there",
+      "sourceContext": "...is ‘produced up here, and sold locally, just down there.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Bán ở 'ngay dưới kia' (just down there)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dʒəst daʊn ðeə/",
+        "sentiment": "neutral",
+        "definitionEN": "In a location very close by and at a lower level.",
+        "translationVI": "Ngay dưới kia",
+        "relatedCollocates": ["nearby", "close by", "right there"],
+        "wordForms": {
+          "adverb": [{ "form": "down", "meaning": "xuống" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "You can buy fresh bread from the bakery just down there on the corner."
+      }
+    },
+    {
+      "id": 119,
+      "targetLexeme": "and not before",
+      "sourceContext": "...and you can pick them when they’re really at their best, and not before.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Và 'không phải trước đó' (and not before)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ənd nɒt bɪˈfɔː/",
+        "sentiment": "neutral",
+        "definitionEN": "Emphasizing that something should only happen at that specific time and no earlier.",
+        "translationVI": "Và không phải trước đó",
+        "relatedCollocates": ["only then", "at the right moment"],
+        "wordForms": {
+          "adverb": [{ "form": "before", "meaning": "trước khi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The cake needs to cool for an hour, and not before, or the icing will melt."
+      }
+    },
+    {
+      "id": 120,
+      "targetLexeme": "of course",
+      "sourceContext": "Urban farming is not, of course, a new phenomenon.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Tất nhiên' (of course), không phải là một hiện tượng mới"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əv kɔːs/",
+        "sentiment": "neutral",
+        "definitionEN": "Used to introduce something that is expected or obvious.",
+        "translationVI": "Tất nhiên, dĩ nhiên",
+        "relatedCollocates": ["naturally", "obviously"],
+        "wordForms": {
+          "adverb": [{ "form": "of course", "meaning": "tất nhiên" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He's a great player, so of course, he was chosen for the team."
+      }
+    },
+    {
+      "id": 121,
+      "targetLexeme": "cheap to buy",
+      "sourceContext": "...and is cheap to buy: roughly €100 to €150 per square metre.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Rẻ để mua' (cheap to buy)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tʃiːp tuː baɪ/",
+        "sentiment": "positive",
+        "definitionEN": "Not expensive to purchase.",
+        "translationVI": "Rẻ để mua",
+        "relatedCollocates": ["inexpensive", "affordable"],
+        "wordForms": {
+          "adjective": [{ "form": "cheap", "meaning": "rẻ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Second-hand books are often very cheap to buy."
+      }
+    },
+    {
+      "id": 122,
+      "targetLexeme": "of the kind",
+      "sourceContext": "Nevertheless, urban farming of the kind being practised in Paris is one part of a bigger and fast-changing picture...",
+      "phase1Inference": {
+        "contextualGuessVI": "Nông nghiệp đô thị 'thuộc loại' (of the kind) đang được thực hành..."
+      },
+      "phase2Annotation": {
+        "phonetic": "/əv ðə kaɪnd/",
+        "sentiment": "neutral",
+        "definitionEN": "Of a particular type or variety.",
+        "translationVI": "Thuộc loại, kiểu",
+        "relatedCollocates": ["of the type", "a sort of"],
+        "wordForms": {
+          "noun": [{ "form": "kind", "meaning": "loại, kiểu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I've never seen a problem of the kind we are facing now."
+      }
+    },
+    {
+      "id": 123,
+      "targetLexeme": "closer to our lives",
+      "sourceContext": "...that is bringing food production closer to our lives.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đưa sản xuất thực phẩm 'gần hơn với cuộc sống của chúng ta' (closer to our lives)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkləʊsə tuː ɑː laɪvz/",
+        "sentiment": "positive",
+        "definitionEN": "More connected to and integrated with people's daily existence.",
+        "translationVI": "Gần gũi hơn với cuộc sống của chúng ta",
+        "relatedCollocates": ["more relevant to", "more connected with"],
+        "wordForms": {
+          "adjective": [{ "form": "close", "meaning": "gần" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The farm-to-table movement aims to bring consumers closer to their food sources."
       }
     }
   ]
