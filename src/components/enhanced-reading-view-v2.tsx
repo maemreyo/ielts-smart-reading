@@ -1,9 +1,10 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { ReadingToolbar } from "./reading/components/ReadingToolbar";
 import { ReadingContent } from "./reading/components/ReadingContent";
 import { ShortcutsModal } from "./reading/components/ShortcutsModal";
+import { VocabularyLearningScreen } from "./vocabulary-learning/VocabularyLearningScreen";
 import { useReadingState } from "./reading/hooks/useReadingState";
 import { useAutoScroll } from "./reading/hooks/useAutoScroll";
 import { useKeyboardShortcuts } from "./reading/hooks/useKeyboardShortcuts";
@@ -21,6 +22,10 @@ export function EnhancedReadingViewV2({
   paragraphs,
   lexicalItems,
 }: EnhancedReadingViewProps) {
+  // Vocabulary learning state
+  const [learningItem, setLearningItem] = useState<LexicalItem | null>(null);
+  const [showLearningScreen, setShowLearningScreen] = useState(false);
+
   // All state management
   const readingState = useReadingState();
   
@@ -66,13 +71,30 @@ export function EnhancedReadingViewV2({
     setLastScrollY: readingState.setLastScrollY,
   });
 
+  // Vocabulary learning handlers
+  const handleLearnVocabulary = (item: LexicalItem) => {
+    setLearningItem(item);
+    setShowLearningScreen(true);
+  };
+
+  const handleCloseLearning = () => {
+    setShowLearningScreen(false);
+    setLearningItem(null);
+  };
+
+  const handleCompleteLearning = () => {
+    // Optional: Add completion tracking logic here
+    console.log('Vocabulary learning completed for:', learningItem?.targetLexeme);
+  };
+
   // Text processing function
   const processParagraph = createTextProcessor(
     lexicalItems,
     readingState.sentimentFilter,
     readingState.hideTranslations,
     readingState.guessMode,
-    readingState.theme
+    readingState.theme,
+    handleLearnVocabulary
   );
 
   // Cleanup effect
@@ -86,6 +108,15 @@ export function EnhancedReadingViewV2({
 
   return (
     <div className="min-h-screen">
+      {/* Vocabulary Learning Screen - Full overlay */}
+      {showLearningScreen && learningItem && (
+        <VocabularyLearningScreen
+          lexicalItem={learningItem}
+          onBack={handleCloseLearning}
+          onComplete={handleCompleteLearning}
+        />
+      )}
+
       {/* Toolbar */}
       <ReadingToolbar
         toolbarVisible={readingState.toolbarVisible}

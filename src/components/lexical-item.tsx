@@ -5,7 +5,7 @@ import {
   PopoverTrigger,
 } from "@/components/ui/popover";
 import { Button } from "@/components/ui/button";
-import { BookText, FlipHorizontal, Spline, Wand2, Brain, Eye, ArrowRight } from "lucide-react";
+import { BookText, FlipHorizontal, Spline, Wand2, Brain, Eye, ArrowRight, Zap, Target } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { PhoneticZoom } from "./phonetic-zoom";
 import { useGuessStore } from "./reading/hooks/useGuessStore";
@@ -17,9 +17,10 @@ interface LexicalItemProps {
   hideTranslation?: boolean;
   guessMode?: boolean;
   theme?: string;
+  onLearnVocabulary?: (item: LexicalItem) => void;
 }
 
-export function LexicalItem({ item, children, hideTranslation = false, guessMode = false, theme = "light" }: LexicalItemProps) {
+export function LexicalItem({ item, children, hideTranslation = false, guessMode = false, theme = "light", onLearnVocabulary }: LexicalItemProps) {
   const [revealLevel, setRevealLevel] = useState(0); // 0: guess, 1: definition, 2: full
   const { getGuess, setGuess } = useGuessStore();
   
@@ -74,9 +75,21 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
         {guessMode ? (
           /* Guess Mode UI */
           <div className="p-5">
-            <div className="flex items-center gap-2 mb-4">
-              <Brain className="h-5 w-5 text-blue-500" />
-              <h4 className="font-bold text-xl text-foreground">{targetLexeme}</h4>
+            <div className="flex items-center justify-between gap-2 mb-4">
+              <div className="flex items-center gap-2">
+                <Brain className="h-5 w-5 text-blue-500" />
+                <h4 className="font-bold text-xl text-foreground">{targetLexeme}</h4>
+              </div>
+              {onLearnVocabulary && (
+                <Button
+                  size="sm"
+                  onClick={() => onLearnVocabulary(item)}
+                  className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white shadow-lg animate-pulse"
+                >
+                  <Zap className="h-4 w-4 mr-1" />
+                  Học siêu tốc
+                </Button>
+              )}
             </div>
 
             {/* Phase 1: User Guess Input */}
@@ -172,7 +185,19 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
         ) : (
           /* Normal Mode UI */
           <div className="p-5">
-            <h4 className="font-bold text-2xl text-foreground">{targetLexeme}</h4>
+            <div className="flex items-center justify-between gap-2 mb-2">
+              <h4 className="font-bold text-2xl text-foreground">{targetLexeme}</h4>
+              {onLearnVocabulary && (
+                <Button
+                  size="sm"
+                  onClick={() => onLearnVocabulary(item)}
+                  className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white shadow-lg animate-pulse"
+                >
+                  <Zap className="h-4 w-4 mr-1" />
+                  Học siêu tốc
+                </Button>
+              )}
+            </div>
             {phonetic && (
               <div className="my-2">
                 <PhoneticZoom
