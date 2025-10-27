@@ -7,6 +7,7 @@ import { AudioEffectsManager } from "./audio/AudioEffects";
 import { generateCardPattern, selectPattern, type DrillingInstance, type IntensityPhase } from "./patterns/CardPatternGenerator";
 import { Target, Badge, Volume2, ArrowLeft } from "lucide-react";
 import { Button } from "../ui/button";
+import "./styles/VocabularyAnimations.css";
 
 interface VocabularyLearningScreenProps {
   lexicalItem: LexicalItem;
@@ -30,6 +31,8 @@ export function VocabularyLearningScreen({
   const [drillingTime, setDrillingTime] = useState(0);
   const [isElectricShock, setIsElectricShock] = useState(false);
   const [isSpeaking, setIsSpeaking] = useState(false);
+  const [randomTextStyle, setRandomTextStyle] = useState(1);
+  const [randomMeaningStyle, setRandomMeaningStyle] = useState(1);
 
   const audioManager = useRef<AudioEffectsManager>(new AudioEffectsManager());
   const summaryIntervalRef = useRef<NodeJS.Timeout | null>(null);
@@ -109,8 +112,14 @@ export function VocabularyLearningScreen({
         setProgress(Math.min(progressValue, 100));
         setDrillingTime(speechCount * 1.2); // Approximate time
 
-        // Time-lapse effect activation (earlier trigger: 6s-14s period)
+        // Time-lapse effect activation (6s-12s period)
         const isTimeLapseActive = speechCount >= 5 && speechCount <= 14;
+        
+        // Generate random text styles during time-lapse
+        if (isTimeLapseActive) {
+          setRandomTextStyle(Math.floor(Math.random() * 3) + 1); // 1, 2, or 3
+          setRandomMeaningStyle(Math.floor(Math.random() * 3) + 1); // 1, 2, or 3
+        }
 
         // Card visibility control
         if ((speechCount >= 2 && speechCount <= 4) || (speechCount >= 6 && speechCount <= 9)) {
@@ -388,40 +397,40 @@ export function VocabularyLearningScreen({
           );
         })}
 
-        {/* Dimming Overlay During Time-lapse (9s-15s) */}
-        {drillingTime >= 9 && drillingTime <= 15 && (
+        {/* Dimming Overlay During Time-lapse (6s-12s) */}
+        {drillingTime >= 6 && drillingTime <= 12 && (
           <div className="fixed inset-0 bg-black/60 backdrop-blur-sm z-20 transition-all duration-1000"></div>
         )}
 
         {/* Fixed Central Word and Meaning - Floating Effect During Time-lapse */}
         <div className="fixed inset-0 flex items-center justify-center pointer-events-none z-30">
-          <div className={`text-center transition-all duration-1000 ${drillingTime >= 9 && drillingTime <= 15
+          <div className={`text-center transition-all duration-1000 ${drillingTime >= 6 && drillingTime <= 12
               ? 'transform translate-y-[-20px] scale-110 animate-floating-focus'
               : 'transform translate-y-0 scale-100'
             }`}>
-            {/* Word with enhanced changes during time-lapse */}
-            <div className={`text-8xl font-black mb-8 transition-all duration-500 ${isElectricShock
-                ? 'text-white animate-flash-bright drop-shadow-[0_0_30px_rgba(255,255,255,1)]'
-                : drillingTime >= 9 && drillingTime <= 15
-                  ? 'text-white drop-shadow-[0_0_40px_rgba(255,255,255,1)] transform scale-115 font-extrabold animate-time-lapse-word-glow'
+            {/* Word with random style changes during time-lapse */}
+            <div className={`text-8xl mb-8 transition-all duration-800 ${isElectricShock
+                ? 'text-white animate-flash-bright drop-shadow-[0_0_30px_rgba(255,255,255,1)] font-black'
+                : drillingTime >= 6 && drillingTime <= 12
+                  ? `text-white drop-shadow-[0_0_40px_rgba(255,255,255,1)] transform scale-115 animate-random-text-style-${randomTextStyle}`
                   : intensityPhase === 'low'
-                    ? 'text-white drop-shadow-[0_0_20px_rgba(59,130,246,0.8)] transform scale-100'
+                    ? 'text-white drop-shadow-[0_0_20px_rgba(59,130,246,0.8)] transform scale-100 font-black'
                     : intensityPhase === 'medium'
-                      ? 'text-white drop-shadow-[0_0_25px_rgba(147,51,234,0.8)] transform scale-105 italic'
+                      ? 'text-white drop-shadow-[0_0_25px_rgba(147,51,234,0.8)] transform scale-105 italic font-black'
                       : 'text-white drop-shadow-[0_0_30px_rgba(239,68,68,0.8)] transform scale-110 font-extrabold underline'
               }`}>
               {cleanTargetWord}
             </div>
 
-            {/* Meaning with enhanced changes during time-lapse */}
-            <div className={`text-4xl font-bold transition-all duration-500 ${isElectricShock
-                ? 'text-white animate-flash-bright drop-shadow-[0_0_20px_rgba(255,255,255,1)]'
-                : drillingTime >= 9 && drillingTime <= 15
-                  ? 'text-yellow-100 drop-shadow-[0_0_30px_rgba(255,255,0,1)] transform scale-115 font-black animate-time-lapse-meaning-glow'
+            {/* Meaning with random style changes during time-lapse */}
+            <div className={`text-4xl transition-all duration-800 ${isElectricShock
+                ? 'text-white animate-flash-bright drop-shadow-[0_0_20px_rgba(255,255,255,1)] font-bold'
+                : drillingTime >= 6 && drillingTime <= 12
+                  ? `text-yellow-100 drop-shadow-[0_0_30px_rgba(255,255,0,1)] transform scale-115 animate-random-meaning-style-${randomMeaningStyle}`
                   : intensityPhase === 'low'
-                    ? 'text-yellow-300 drop-shadow-[0_0_15px_rgba(255,255,0,0.6)] transform scale-100'
+                    ? 'text-yellow-300 drop-shadow-[0_0_15px_rgba(255,255,0,0.6)] transform scale-100 font-bold'
                     : intensityPhase === 'medium'
-                      ? 'text-yellow-200 drop-shadow-[0_0_18px_rgba(255,255,0,0.7)] transform scale-105 italic'
+                      ? 'text-yellow-200 drop-shadow-[0_0_18px_rgba(255,255,0,0.7)] transform scale-105 italic font-bold'
                       : 'text-yellow-100 drop-shadow-[0_0_22px_rgba(255,255,0,0.8)] transform scale-110 font-black underline'
               }`}>
               {lexicalItem.phase2Annotation?.translationVI}
