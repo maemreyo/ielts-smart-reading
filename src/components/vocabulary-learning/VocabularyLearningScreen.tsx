@@ -23,7 +23,14 @@ export function VocabularyLearningScreen({
 }: VocabularyLearningScreenProps) {
   const [phase, setPhase] = useState<LearningPhase>("priming");
   const [progress, setProgress] = useState(0);
-  const [drillingInstances, setDrillingInstances] = useState<Array<{ id: number; x: number; y: number; opacity: number }>>([]);
+  const [drillingInstances, setDrillingInstances] = useState<Array<{ 
+    id: number; 
+    x: number; 
+    y: number; 
+    opacity: number;
+    pattern: string;
+    size: 'normal' | 'large' | 'mega';
+  }>>([]);
   const [expandedMeaning, setExpandedMeaning] = useState(false);
   const [showCentralCard, setShowCentralCard] = useState(true);
   const [summaryCountdown, setSummaryCountdown] = useState(5);
@@ -52,6 +59,107 @@ export function VocabularyLearningScreen({
     setTimeout(() => {
       setIsElectricShock(false);
     }, 150); // Short electric shock duration for maximum brain impact
+  };
+
+  // Pattern generation module for card appearances
+  const generateCardPattern = (patternType: string, count: number, intensityPhase: 'low' | 'medium' | 'high') => {
+    const patterns = {
+      random: () => ({
+        x: Math.random() * 80 + 10,
+        y: Math.random() * 80 + 10,
+        size: intensityPhase === 'low' ? 'normal' : intensityPhase === 'medium' ? 'large' : 'mega'
+      }),
+      
+      topToBottom: (index: number) => ({
+        x: Math.random() * 60 + 20,
+        y: (index * 25) + Math.random() * 10,
+        size: intensityPhase === 'low' ? 'large' : intensityPhase === 'medium' ? 'mega' : 'mega'
+      }),
+      
+      leftToRight: (index: number) => ({
+        x: (index * 25) + Math.random() * 10,
+        y: Math.random() * 60 + 20,
+        size: intensityPhase === 'low' ? 'large' : intensityPhase === 'medium' ? 'mega' : 'mega'
+      }),
+      
+      diagonal: (index: number) => ({
+        x: (index * 20) + Math.random() * 15,
+        y: (index * 20) + Math.random() * 15,
+        size: intensityPhase === 'low' ? 'large' : intensityPhase === 'medium' ? 'mega' : 'mega'
+      }),
+      
+      corners: (index: number) => {
+        const corners = [
+          { x: 10, y: 10 }, // top-left
+          { x: 80, y: 10 }, // top-right
+          { x: 10, y: 80 }, // bottom-left
+          { x: 80, y: 80 }  // bottom-right
+        ];
+        const corner = corners[index % 4];
+        return {
+          x: corner.x + Math.random() * 15,
+          y: corner.y + Math.random() * 15,
+          size: 'mega' as const
+        };
+      },
+      
+      circle: (index: number) => {
+        const angle = (index * 60) + Math.random() * 30; // degrees
+        const radius = 25 + Math.random() * 15;
+        const centerX = 50;
+        const centerY = 50;
+        return {
+          x: centerX + radius * Math.cos(angle * Math.PI / 180),
+          y: centerY + radius * Math.sin(angle * Math.PI / 180),
+          size: intensityPhase === 'low' ? 'large' : 'mega'
+        };
+      },
+      
+      wave: (index: number) => ({
+        x: (index * 15) + Math.random() * 10,
+        y: 50 + 20 * Math.sin(index * 0.5) + Math.random() * 10,
+        size: intensityPhase === 'low' ? 'large' : intensityPhase === 'medium' ? 'mega' : 'mega'
+      }),
+      
+      spiral: (index: number) => {
+        const angle = index * 45;
+        const radius = 5 + index * 3;
+        const centerX = 50;
+        const centerY = 50;
+        return {
+          x: centerX + radius * Math.cos(angle * Math.PI / 180),
+          y: centerY + radius * Math.sin(angle * Math.PI / 180),
+          size: 'mega' as const
+        };
+      }
+    };
+
+    const results = [];
+    const patternFunc = patterns[patternType as keyof typeof patterns] || patterns.random;
+    
+    for (let i = 0; i < count; i++) {
+      const position = patternFunc(i);
+      results.push({
+        ...position,
+        size: position.size as 'normal' | 'large' | 'mega'
+      });
+    }
+    
+    return results;
+  };
+
+  // Pattern selector based on time and intensity
+  const selectPattern = (time: number, intensity: 'low' | 'medium' | 'high') => {
+    const timeSlot = Math.floor(time / 2.5); // Change pattern every 2.5 seconds
+    const patterns = ['random', 'topToBottom', 'leftToRight', 'diagonal', 'corners', 'circle', 'wave', 'spiral'];
+    
+    if (intensity === 'low') {
+      return patterns[timeSlot % 3]; // Use first 3 patterns (simpler)
+    } else if (intensity === 'medium') {
+      return patterns[timeSlot % 6]; // Use first 6 patterns
+    } else {
+      return patterns[timeSlot % patterns.length]; // Use all patterns
+    }
   };
 
   // Get clean word for display
@@ -274,18 +382,22 @@ export function VocabularyLearningScreen({
         }
       }, 100);
 
-      // Drilling instances - fixed intervals
+      // Drilling instances - pattern-based intervals
       const instanceTimer = setInterval(() => {
-        const count = localIntensity === 'low' ? 1 : localIntensity === 'medium' ? 2 : 4;
-        const duration = localIntensity === 'low' ? 2000 : localIntensity === 'medium' ? 1500 : 1000;
+        const count = localIntensity === 'low' ? 2 : localIntensity === 'medium' ? 3 : 5;
+        const duration = localIntensity === 'low' ? 2500 : localIntensity === 'medium' ? 2000 : 1500;
+        const currentPattern = selectPattern(localTime, localIntensity);
+        const positions = generateCardPattern(currentPattern, count, localIntensity);
         
-        for (let i = 0; i < count; i++) {
+        positions.forEach((position, i) => {
           setTimeout(() => {
             const newInstance = {
               id: instanceCounterRef.current++,
-              x: Math.random() * 80 + 10,
-              y: Math.random() * 80 + 10,
+              x: Math.max(5, Math.min(90, position.x)), // Ensure within bounds
+              y: Math.max(5, Math.min(90, position.y)), // Ensure within bounds
               opacity: 1,
+              pattern: currentPattern,
+              size: position.size,
             };
 
             setDrillingInstances(prev => [...prev, newInstance]);
@@ -293,9 +405,9 @@ export function VocabularyLearningScreen({
             setTimeout(() => {
               setDrillingInstances(prev => prev.filter(instance => instance.id !== newInstance.id));
             }, duration);
-          }, i * 50);
-        }
-      }, 400);
+          }, i * 100); // Staggered appearance for pattern effect
+        });
+      }, 600); // Slightly slower for better pattern visibility
 
       // Speech pattern - fixed interval
       const speechTimer = setInterval(() => {
@@ -558,32 +670,68 @@ export function VocabularyLearningScreen({
           )}
         </div>
 
-        {/* Mega Drilling Instances with Explosive Effects */}
-        {drillingInstances.map((instance) => (
-          <div
-            key={instance.id}
-            className="absolute animate-explosive-appear transform-gpu"
-            style={{
-              left: `${instance.x}%`,
-              top: `${instance.y}%`,
-              opacity: instance.opacity,
-              animation: "explosiveAppear 2s ease-out, megaFloat 2s ease-in-out infinite",
-              animationDelay: `${Math.random() * 0.5}s`,
-            }}
-          >
-            <Card className={`p-6 ${isElectricShock ? 'bg-black border-white' : 'bg-gradient-to-br from-white/90 to-white/70 border-white/50'} backdrop-blur-xl border-2 text-center transform rotate-3 hover:rotate-0 transition-all duration-150 shadow-[0_0_50px_rgba(255,255,255,0.5)]`}>
-              <div className={`font-black text-3xl ${isElectricShock ? 'text-white animate-flash-bright drop-shadow-[0_0_20px_rgba(255,255,255,1)]' : 'bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent'} animate-text-glow mb-2`}>
-                {cleanTargetWord}
-              </div>
-              <div className={`text-2xl font-black ${isElectricShock ? 'text-white animate-flash-bright drop-shadow-[0_0_20px_rgba(255,255,255,1)]' : 'text-red-600'} animate-meaning-flash mb-2`}>
-                {lexicalItem.phase2Annotation?.translationVI}
-              </div>
-              <div className={`text-sm mt-1 font-mono ${isElectricShock ? 'text-white animate-flash-bright' : 'text-blue-600'} opacity-60`}>
-                {lexicalItem.phase2Annotation?.phonetic}
-              </div>
-            </Card>
-          </div>
-        ))}
+        {/* Pattern-Based Drilling Instances with Size Variations */}
+        {drillingInstances.map((instance) => {
+          // Size configurations for high contrast
+          const sizeConfigs = {
+            normal: {
+              padding: 'p-6',
+              wordSize: 'text-3xl',
+              meaningSize: 'text-2xl',
+              phoneticSize: 'text-sm',
+              cardScale: 'scale-100',
+              shadow: 'shadow-[0_0_50px_rgba(255,255,255,0.5)]'
+            },
+            large: {
+              padding: 'p-8',
+              wordSize: 'text-4xl',
+              meaningSize: 'text-3xl',
+              phoneticSize: 'text-base',
+              cardScale: 'scale-110',
+              shadow: 'shadow-[0_0_80px_rgba(255,255,255,0.7)]'
+            },
+            mega: {
+              padding: 'p-12',
+              wordSize: 'text-6xl',
+              meaningSize: 'text-4xl',
+              phoneticSize: 'text-xl',
+              cardScale: 'scale-125',
+              shadow: 'shadow-[0_0_120px_rgba(255,255,255,0.9)]'
+            }
+          };
+
+          const config = sizeConfigs[instance.size];
+          
+          return (
+            <div
+              key={instance.id}
+              className="absolute animate-explosive-appear transform-gpu"
+              style={{
+                left: `${instance.x}%`,
+                top: `${instance.y}%`,
+                opacity: instance.opacity,
+                animation: "explosiveAppear 2s ease-out, megaFloat 2s ease-in-out infinite",
+                animationDelay: `${Math.random() * 0.5}s`,
+              }}
+            >
+              <Card className={`${config.padding} ${config.cardScale} ${isElectricShock ? 'bg-black border-white border-4' : 'bg-gradient-to-br from-gray-900 to-black border-white/80'} backdrop-blur-xl border-2 text-center transform rotate-3 hover:rotate-0 transition-all duration-150 ${config.shadow}`}>
+                <div className={`font-black ${config.wordSize} ${isElectricShock ? 'text-white animate-flash-bright drop-shadow-[0_0_20px_rgba(255,255,255,1)]' : 'text-white drop-shadow-[0_0_10px_rgba(255,255,255,0.8)]'} animate-text-glow mb-2`}>
+                  {cleanTargetWord}
+                </div>
+                <div className={`${config.meaningSize} font-black ${isElectricShock ? 'text-white animate-flash-bright drop-shadow-[0_0_20px_rgba(255,255,255,1)]' : 'text-yellow-400 drop-shadow-[0_0_8px_rgba(255,255,0,0.6)]'} animate-meaning-flash mb-2`}>
+                  {lexicalItem.phase2Annotation?.translationVI}
+                </div>
+                <div className={`${config.phoneticSize} mt-1 font-mono ${isElectricShock ? 'text-white animate-flash-bright' : 'text-cyan-300'} opacity-70`}>
+                  {lexicalItem.phase2Annotation?.phonetic}
+                </div>
+                {/* Pattern indicator for debugging (remove in production) */}
+                <div className="absolute -top-2 -right-2 text-xs bg-purple-500 text-white px-2 py-1 rounded opacity-50">
+                  {instance.pattern}
+                </div>
+              </Card>
+            </div>
+          );
+        })}
 
         {/* DYNAMIC Central Learning Block with Progressive Intensity */}
         {showCentralCard && (() => {
