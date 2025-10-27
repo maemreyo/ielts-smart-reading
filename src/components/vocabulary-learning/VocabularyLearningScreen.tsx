@@ -64,19 +64,19 @@ export function VocabularyLearningScreen({
       utterance.lang = 'en-US';
       utterance.rate = rate || currentSpeechRate;
       utterance.volume = 0.8;
-      
+
       setIsSpeaking(true);
-      
+
       utterance.onend = () => {
         setIsSpeaking(false);
         if (onComplete) onComplete();
       };
-      
+
       utterance.onerror = () => {
         setIsSpeaking(false);
         if (onComplete) onComplete();
       };
-      
+
       speechSynthesis.speak(utterance);
     }
   };
@@ -89,14 +89,14 @@ export function VocabularyLearningScreen({
       setDrillingTime(0);
       setIntensityPhase('low');
       setProgress(0);
-      
+
       let speechCount = 0;
       let localIntensity: IntensityPhase = 'low';
       const totalSpeechCycles = 12; // Total number of speech cycles
 
       const nextSpeechCycle = () => {
         speechCount++;
-        
+
         // Update intensity based on speech count
         if (speechCount <= 4) {
           localIntensity = 'low';
@@ -114,6 +114,9 @@ export function VocabularyLearningScreen({
         setProgress(Math.min(progressValue, 100));
         setDrillingTime(speechCount * 1.2); // Approximate time
 
+        // Time-lapse effect activation (9s-15s period)
+        const isTimeLapseActive = speechCount >= 7 && speechCount <= 12;
+
         // Card visibility control
         if ((speechCount >= 2 && speechCount <= 4) || (speechCount >= 6 && speechCount <= 9)) {
           setShowCentralCard(false);
@@ -126,7 +129,7 @@ export function VocabularyLearningScreen({
         const duration = localIntensity === 'low' ? 3000 : localIntensity === 'medium' ? 2500 : 2000;
         const currentPattern = selectPattern(speechCount, localIntensity);
         const positions = generateCardPattern(currentPattern, count, localIntensity);
-        
+
         positions.forEach((position, i) => {
           setTimeout(() => {
             const newInstance: DrillingInstance = {
@@ -162,7 +165,17 @@ export function VocabularyLearningScreen({
         } else {
           // Speak next cycle after a brief pause
           setTimeout(() => {
-            const rate = localIntensity === 'low' ? 0.6 : localIntensity === 'medium' ? 0.8 : 1.1;
+            // Dynamic speech rate: faster at beginning, slower at end
+            let rate;
+            if (speechCount <= 4) {
+              rate = 1.005; // Fast start
+            } else if (speechCount <= 7) {
+              rate = 1.01; // Peak speed
+            } else if (speechCount <= 10) {
+              rate = 1.15; // Medium speed during time-lapse
+            } else {
+              rate = 1.07; // Slow down at end for memory consolidation
+            }
             setCurrentSpeechRate(rate);
             speakText(lexicalItem.targetLexeme, rate, nextSpeechCycle);
           }, 200);
@@ -251,37 +264,69 @@ export function VocabularyLearningScreen({
 
     return (
       <div className={`relative min-h-screen ${isElectricShock ? 'bg-black' : `bg-gradient-to-br ${bgConfig.bgGradient}`} flex items-center justify-center overflow-hidden transition-all duration-150`}>
-        {/* Ultra Dynamic Background */}
-        <div className="absolute inset-0">
-          {/* Lightning Effects */}
-          <div className={`absolute inset-0 bg-gradient-to-r from-purple-500/20 via-transparent to-pink-500/20 animate-lightning ${bgConfig.lightningOpacity}`}></div>
-          <div className={`absolute inset-0 bg-gradient-to-l from-blue-500/20 via-transparent to-orange-500/20 animate-lightning-reverse ${bgConfig.lightningOpacity}`}></div>
+        {/* Time-lapse Dynamic Background - Only Active During 9s-15s */}
+        <div className={`absolute inset-0 transition-all duration-1000 ${drillingTime >= 9 && drillingTime <= 15
+            ? 'animate-time-lapse-bg opacity-100'
+            : 'opacity-30'
+          }`}>
+          {/* Lightning Effects - 2x-4x Speed During Time-lapse */}
+          <div className={`absolute inset-0 bg-gradient-to-r from-purple-500/30 via-transparent to-pink-500/30 ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-ultra-fast-lightning' : 'animate-super-fast-lightning'
+            } ${bgConfig.lightningOpacity}`}></div>
+          <div className={`absolute inset-0 bg-gradient-to-l from-blue-500/30 via-transparent to-orange-500/30 ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-ultra-fast-lightning-reverse' : 'animate-super-fast-lightning-reverse'
+            } ${bgConfig.lightningOpacity}`}></div>
+          <div className={`absolute inset-0 bg-gradient-to-br from-green-500/25 via-transparent to-purple-500/25 ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-ultra-diagonal-lightning' : 'animate-diagonal-lightning'
+            } ${bgConfig.lightningOpacity}`}></div>
+          <div className={`absolute inset-0 bg-gradient-to-tl from-red-500/25 via-transparent to-blue-500/25 ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-ultra-diagonal-lightning-reverse' : 'animate-diagonal-lightning-reverse'
+            } ${bgConfig.lightningOpacity}`}></div>
 
-          {/* Chaos Lightning for High Intensity */}
-          {intensityPhase === 'high' && (
+          {/* Chaos Lightning - Mega Speed During Time-lapse */}
+          {(intensityPhase === 'high' || (drillingTime >= 9 && drillingTime <= 15)) && (
             <>
-              <div className="absolute inset-0 bg-gradient-to-tr from-yellow-500/30 via-transparent to-red-500/30 animate-chaos-lightning opacity-80"></div>
-              <div className="absolute inset-0 bg-gradient-to-bl from-orange-500/25 via-transparent to-yellow-500/25 animate-chaos-lightning-reverse opacity-70"></div>
+              <div className={`absolute inset-0 bg-gradient-to-tr from-yellow-500/40 via-transparent to-red-500/40 ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-mega-chaos-lightning' : 'animate-hyper-chaos-lightning'
+                } opacity-90`}></div>
+              <div className={`absolute inset-0 bg-gradient-to-bl from-orange-500/35 via-transparent to-yellow-500/35 ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-mega-chaos-lightning-reverse' : 'animate-hyper-chaos-lightning-reverse'
+                } opacity-80`}></div>
+              <div className={`absolute inset-0 bg-gradient-to-r from-pink-500/30 via-transparent to-cyan-500/30 ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-mega-ultra-chaos-lightning' : 'animate-ultra-chaos-lightning'
+                } opacity-70`}></div>
             </>
           )}
 
-          {/* Energy Particles */}
-          {[...Array(bgConfig.particleCount)].map((_, i) => (
+          {/* Super Fast Energy Particles - 4x Speed During Time-lapse */}
+          {[...Array(drillingTime >= 9 && drillingTime <= 15 ? bgConfig.particleCount * 4 : bgConfig.particleCount * 2)].map((_, i) => (
             <div
               key={i}
-              className={`absolute ${bgConfig.particleSize} bg-gradient-to-r ${bgConfig.particleColors} rounded-full animate-energy-particle`}
+              className={`absolute ${bgConfig.particleSize} bg-gradient-to-r ${bgConfig.particleColors} rounded-full ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-mega-energy-particle' : 'animate-hyper-energy-particle'
+                }`}
               style={{
                 left: `${Math.random() * 100}%`,
                 top: `${Math.random() * 100}%`,
-                animationDelay: `${Math.random() * 3}s`,
-                animationDuration: `${intensityPhase === 'high' ? 0.5 : intensityPhase === 'medium' ? 1.5 : 2.5} + ${Math.random()}s`,
+                animationDelay: `${Math.random() * (drillingTime >= 9 && drillingTime <= 15 ? 0.5 : 1)}s`,
+                animationDuration: `${drillingTime >= 9 && drillingTime <= 15
+                  ? (intensityPhase === 'high' ? 0.05 : intensityPhase === 'medium' ? 0.1 : 0.2)
+                  : (intensityPhase === 'high' ? 0.2 : intensityPhase === 'medium' ? 0.5 : 0.8)
+                  }s`,
               }}
             />
           ))}
 
-          {/* Explosive Background Effects for High Intensity */}
-          {intensityPhase === 'high' && (
-            <div className="absolute inset-0 bg-gradient-radial from-yellow-500/10 via-orange-500/5 to-transparent animate-explosive-pulse"></div>
+          {/* Rotating Gradients - 3x Speed During Time-lapse */}
+          <div className={`absolute inset-0 bg-gradient-conic from-blue-500/20 via-purple-500/20 to-pink-500/20 ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-mega-time-lapse-rotate' : 'animate-time-lapse-rotate'
+            }`}></div>
+          <div className={`absolute inset-0 bg-gradient-conic from-green-500/15 via-yellow-500/15 to-red-500/15 ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-mega-time-lapse-rotate-reverse' : 'animate-time-lapse-rotate-reverse'
+            }`}></div>
+
+          {/* Wave Patterns - 2x Speed During Time-lapse */}
+          <div className={`absolute inset-0 bg-gradient-to-r from-transparent via-white/10 to-transparent ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-mega-time-lapse-wave-1' : 'animate-time-lapse-wave-1'
+            }`}></div>
+          <div className={`absolute inset-0 bg-gradient-to-l from-transparent via-white/8 to-transparent ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-mega-time-lapse-wave-2' : 'animate-time-lapse-wave-2'
+            }`}></div>
+          <div className={`absolute inset-0 bg-gradient-to-b from-transparent via-white/6 to-transparent ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-mega-time-lapse-wave-3' : 'animate-time-lapse-wave-3'
+            }`}></div>
+
+          {/* Explosive Effects - 4x Speed During Time-lapse */}
+          {(intensityPhase === 'high' || (drillingTime >= 9 && drillingTime <= 15)) && (
+            <div className={`absolute inset-0 bg-gradient-radial from-yellow-500/15 via-orange-500/10 to-transparent ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-mega-explosive-pulse' : 'animate-hyper-explosive-pulse'
+              }`}></div>
           )}
         </div>
 
@@ -348,68 +393,46 @@ export function VocabularyLearningScreen({
           );
         })}
 
-        {/* DYNAMIC Central Learning Block with Progressive Intensity */}
-        {showCentralCard && (() => {
-          const getCardConfig = () => {
-            switch (intensityPhase) {
-              case 'low':
-                return {
-                  cardClass: 'p-12 max-w-3xl transform scale-95',
-                  shadowColor: 'shadow-[0_0_100px_rgba(59,130,246,0.6)]',
-                  headerBadge: '🌊 GENTLE DRILLING 🌊',
-                  headerColors: 'from-blue-600 to-purple-600',
-                  wordSize: 'text-7xl',
-                  wordColors: 'from-blue-600 via-purple-600 to-indigo-600',
-                  meaningSize: 'text-4xl',
-                  meaningColors: 'from-green-600 via-teal-600 to-blue-600',
-                  iconSize: 'w-12 h-12'
-                };
-              case 'medium':
-                return {
-                  cardClass: 'p-14 max-w-4xl transform scale-100',
-                  shadowColor: 'shadow-[0_0_200px_rgba(147,51,234,0.8)]',
-                  headerBadge: '⚡ MEGA DRILLING ⚡',
-                  headerColors: 'from-purple-600 to-pink-600',
-                  wordSize: 'text-8xl',
-                  wordColors: 'from-purple-600 via-pink-600 to-red-600',
-                  meaningSize: 'text-5xl',
-                  meaningColors: 'from-green-600 via-blue-600 to-purple-600',
-                  iconSize: 'w-14 h-14'
-                };
-              case 'high':
-                return {
-                  cardClass: 'p-20 max-w-6xl transform scale-110',
-                  shadowColor: 'shadow-[0_0_300px_rgba(239,68,68,0.9)]',
-                  headerBadge: '🔥 EXPLOSIVE DRILLING 🔥',
-                  headerColors: 'from-red-600 to-yellow-500',
-                  wordSize: 'text-9xl',
-                  wordColors: 'from-red-600 via-orange-500 to-yellow-500',
-                  meaningSize: 'text-6xl',
-                  meaningColors: 'from-orange-600 via-red-600 to-yellow-600',
-                  iconSize: 'w-20 h-20'
-                };
-            }
-          };
+        {/* Dimming Overlay During Time-lapse (9s-15s) */}
+        {drillingTime >= 9 && drillingTime <= 15 && (
+          <div className="fixed inset-0 bg-black/60 backdrop-blur-sm z-20 transition-all duration-1000"></div>
+        )}
 
-          const config = getCardConfig();
+        {/* Fixed Central Word and Meaning - Floating Effect During Time-lapse */}
+        <div className="fixed inset-0 flex items-center justify-center pointer-events-none z-30">
+          <div className={`text-center transition-all duration-1000 ${drillingTime >= 9 && drillingTime <= 15
+              ? 'transform translate-y-[-20px] scale-110 animate-floating-focus'
+              : 'transform translate-y-0 scale-100'
+            }`}>
+            {/* Word with enhanced changes during time-lapse */}
+            <div className={`text-8xl font-black mb-8 transition-all duration-500 ${isElectricShock
+                ? 'text-white animate-flash-bright drop-shadow-[0_0_30px_rgba(255,255,255,1)]'
+                : drillingTime >= 9 && drillingTime <= 15
+                  ? 'text-white drop-shadow-[0_0_40px_rgba(255,255,255,1)] transform scale-115 font-extrabold animate-time-lapse-word-glow'
+                  : intensityPhase === 'low'
+                    ? 'text-white drop-shadow-[0_0_20px_rgba(59,130,246,0.8)] transform scale-100'
+                    : intensityPhase === 'medium'
+                      ? 'text-white drop-shadow-[0_0_25px_rgba(147,51,234,0.8)] transform scale-105 italic'
+                      : 'text-white drop-shadow-[0_0_30px_rgba(239,68,68,0.8)] transform scale-110 font-extrabold underline'
+              }`}>
+              {cleanTargetWord}
+            </div>
 
-          return (
-            <Card className={`${config.cardClass} ${isElectricShock ? 'bg-black border-white border-4' : 'bg-gradient-to-br from-white via-purple-50 to-pink-50 border-0'} backdrop-blur-xl ${config.shadowColor} mx-auto text-center animate-mega-pulse transition-all duration-150`}>
-              <div className="space-y-8">
-
-                {/* DYNAMIC Word Display - Scales with Intensity */}
-                <div className={`${config.wordSize} font-black ${isElectricShock ? 'text-white animate-flash-bright drop-shadow-[0_0_30px_rgba(255,255,255,1)]' : `text-transparent bg-gradient-to-r ${config.wordColors} bg-clip-text`} animate-mega-word-pulse drop-shadow-2xl mb-6 transition-all duration-150`}>
-                  {cleanTargetWord}
-                </div>
-
-                {/* DYNAMIC Translation - Scales with Intensity */}
-                <div className={`${config.meaningSize} font-black ${isElectricShock ? 'text-white animate-flash-bright drop-shadow-[0_0_30px_rgba(255,255,255,1)]' : `bg-gradient-to-r ${config.meaningColors} bg-clip-text text-transparent`} animate-rainbow-text mb-8 transition-all duration-150`}>
-                  {lexicalItem.phase2Annotation?.translationVI}
-                </div>
-              </div>
-            </Card>
-          );
-        })()}
+            {/* Meaning with enhanced changes during time-lapse */}
+            <div className={`text-4xl font-bold transition-all duration-500 ${isElectricShock
+                ? 'text-white animate-flash-bright drop-shadow-[0_0_20px_rgba(255,255,255,1)]'
+                : drillingTime >= 9 && drillingTime <= 15
+                  ? 'text-yellow-100 drop-shadow-[0_0_30px_rgba(255,255,0,1)] transform scale-115 font-black animate-time-lapse-meaning-glow'
+                  : intensityPhase === 'low'
+                    ? 'text-yellow-300 drop-shadow-[0_0_15px_rgba(255,255,0,0.6)] transform scale-100'
+                    : intensityPhase === 'medium'
+                      ? 'text-yellow-200 drop-shadow-[0_0_18px_rgba(255,255,0,0.7)] transform scale-105 italic'
+                      : 'text-yellow-100 drop-shadow-[0_0_22px_rgba(255,255,0,0.8)] transform scale-110 font-black underline'
+              }`}>
+              {lexicalItem.phase2Annotation?.translationVI}
+            </div>
+          </div>
+        </div>
 
         {/* Epic Progress Bar */}
         <div className="fixed bottom-8 left-8 right-8">
@@ -419,7 +442,12 @@ export function VocabularyLearningScreen({
               <span className="font-black text-2xl text-white">NẠP TỪ VÀO TRÍ NHỚ: {Math.round(progress)}%</span>
               <div className="text-4xl animate-bounce">🧠💥</div>
             </div>
-            <Progress value={progress} className="h-6 bg-gradient-to-r from-red-500 to-yellow-500 rounded-full shadow-inner" />
+            <div className="w-full bg-gray-800 rounded-full h-6 overflow-hidden">
+              <div
+                className="h-full bg-gradient-to-r from-red-500 to-yellow-500 rounded-full transition-all duration-300"
+                style={{ width: `${progress}%` }}
+              ></div>
+            </div>
           </div>
         </div>
       </div>
@@ -674,6 +702,322 @@ export function VocabularyLearningScreen({
         
         .animate-flash-bright {
           animation: flash-bright 0.15s ease-in-out infinite;
+        }
+        
+        /* TIME-LAPSE EFFECT ANIMATIONS */
+        @keyframes time-lapse-bg {
+          0% { transform: scale(1) rotate(0deg); }
+          25% { transform: scale(1.02) rotate(1deg); }
+          50% { transform: scale(1.01) rotate(0deg); }
+          75% { transform: scale(1.03) rotate(-1deg); }
+          100% { transform: scale(1) rotate(0deg); }
+        }
+        
+        @keyframes super-fast-lightning {
+          0%, 100% { opacity: 0.1; transform: translateX(-200px) scaleX(1); }
+          50% { opacity: 0.8; transform: translateX(200px) scaleX(1.5); }
+        }
+        
+        @keyframes super-fast-lightning-reverse {
+          0%, 100% { opacity: 0.1; transform: translateX(200px) scaleX(1); }
+          50% { opacity: 0.8; transform: translateX(-200px) scaleX(1.5); }
+        }
+        
+        @keyframes diagonal-lightning {
+          0%, 100% { opacity: 0.1; transform: translate(-150px, -150px) scale(1); }
+          50% { opacity: 0.6; transform: translate(150px, 150px) scale(1.3); }
+        }
+        
+        @keyframes diagonal-lightning-reverse {
+          0%, 100% { opacity: 0.1; transform: translate(150px, -150px) scale(1); }
+          50% { opacity: 0.6; transform: translate(-150px, 150px) scale(1.3); }
+        }
+        
+        @keyframes hyper-chaos-lightning {
+          0%, 100% { opacity: 0.2; transform: translateX(-300px) rotateZ(0deg); }
+          25% { opacity: 0.9; transform: translateX(100px) rotateZ(90deg); }
+          50% { opacity: 0.7; transform: translateX(300px) rotateZ(180deg); }
+          75% { opacity: 0.8; transform: translateX(-100px) rotateZ(270deg); }
+        }
+        
+        @keyframes hyper-chaos-lightning-reverse {
+          0%, 100% { opacity: 0.2; transform: translateX(300px) rotateZ(360deg); }
+          25% { opacity: 0.9; transform: translateX(-100px) rotateZ(270deg); }
+          50% { opacity: 0.7; transform: translateX(-300px) rotateZ(180deg); }
+          75% { opacity: 0.8; transform: translateX(100px) rotateZ(90deg); }
+        }
+        
+        @keyframes ultra-chaos-lightning {
+          0%, 100% { opacity: 0.1; transform: translateY(-200px) rotateZ(0deg) scaleY(1); }
+          33% { opacity: 0.8; transform: translateY(0px) rotateZ(120deg) scaleY(1.5); }
+          66% { opacity: 0.6; transform: translateY(200px) rotateZ(240deg) scaleY(0.8); }
+        }
+        
+        @keyframes hyper-energy-particle {
+          0% { opacity: 0; transform: translateY(0px) scale(0) rotate(0deg); }
+          25% { opacity: 1; transform: translateY(-50px) scale(1.5) rotate(90deg); }
+          50% { opacity: 0.8; transform: translateY(-100px) scale(1) rotate(180deg); }
+          75% { opacity: 0.6; transform: translateY(-150px) scale(1.2) rotate(270deg); }
+          100% { opacity: 0; transform: translateY(-200px) scale(0) rotate(360deg); }
+        }
+        
+        @keyframes time-lapse-rotate {
+          0% { transform: rotate(0deg) scale(1); }
+          100% { transform: rotate(360deg) scale(1.1); }
+        }
+        
+        @keyframes time-lapse-rotate-reverse {
+          0% { transform: rotate(360deg) scale(1); }
+          100% { transform: rotate(0deg) scale(1.1); }
+        }
+        
+        @keyframes time-lapse-wave-1 {
+          0%, 100% { transform: translateX(-100%) rotateY(0deg); }
+          50% { transform: translateX(100%) rotateY(180deg); }
+        }
+        
+        @keyframes time-lapse-wave-2 {
+          0%, 100% { transform: translateX(100%) rotateY(0deg); }
+          50% { transform: translateX(-100%) rotateY(180deg); }
+        }
+        
+        @keyframes time-lapse-wave-3 {
+          0%, 100% { transform: translateY(-100%) rotateX(0deg); }
+          50% { transform: translateY(100%) rotateX(180deg); }
+        }
+        
+        @keyframes hyper-explosive-pulse {
+          0%, 100% { transform: scale(1) rotate(0deg); opacity: 0.1; }
+          25% { transform: scale(1.5) rotate(90deg); opacity: 0.3; }
+          50% { transform: scale(2) rotate(180deg); opacity: 0.2; }
+          75% { transform: scale(1.8) rotate(270deg); opacity: 0.4; }
+        }
+        
+        .animate-time-lapse-bg {
+          animation: time-lapse-bg 3s ease-in-out infinite;
+        }
+        
+        .animate-super-fast-lightning {
+          animation: super-fast-lightning 0.3s ease-in-out infinite;
+        }
+        
+        .animate-super-fast-lightning-reverse {
+          animation: super-fast-lightning-reverse 0.4s ease-in-out infinite;
+        }
+        
+        .animate-diagonal-lightning {
+          animation: diagonal-lightning 0.5s ease-in-out infinite;
+        }
+        
+        .animate-diagonal-lightning-reverse {
+          animation: diagonal-lightning-reverse 0.6s ease-in-out infinite;
+        }
+        
+        .animate-hyper-chaos-lightning {
+          animation: hyper-chaos-lightning 0.2s linear infinite;
+        }
+        
+        .animate-hyper-chaos-lightning-reverse {
+          animation: hyper-chaos-lightning-reverse 0.25s linear infinite;
+        }
+        
+        .animate-ultra-chaos-lightning {
+          animation: ultra-chaos-lightning 0.3s linear infinite;
+        }
+        
+        .animate-hyper-energy-particle {
+          animation: hyper-energy-particle 0.8s linear infinite;
+        }
+        
+        .animate-time-lapse-rotate {
+          animation: time-lapse-rotate 1s linear infinite;
+        }
+        
+        .animate-time-lapse-rotate-reverse {
+          animation: time-lapse-rotate-reverse 1.2s linear infinite;
+        }
+        
+        .animate-time-lapse-wave-1 {
+          animation: time-lapse-wave-1 0.4s ease-in-out infinite;
+        }
+        
+        .animate-time-lapse-wave-2 {
+          animation: time-lapse-wave-2 0.6s ease-in-out infinite;
+        }
+        
+        .animate-time-lapse-wave-3 {
+          animation: time-lapse-wave-3 0.8s ease-in-out infinite;
+        }
+        
+        .animate-hyper-explosive-pulse {
+          animation: hyper-explosive-pulse 0.5s ease-in-out infinite;
+        }
+        
+        /* MEGA SPEED ANIMATIONS FOR TIME-LAPSE - HIGHER VISIBILITY */
+        @keyframes ultra-fast-lightning {
+          0%, 100% { opacity: 0.4; transform: translateX(-300px) scaleX(1.5); }
+          50% { opacity: 1; transform: translateX(300px) scaleX(3); }
+        }
+        
+        @keyframes ultra-fast-lightning-reverse {
+          0%, 100% { opacity: 0.4; transform: translateX(300px) scaleX(1.5); }
+          50% { opacity: 1; transform: translateX(-300px) scaleX(3); }
+        }
+        
+        @keyframes ultra-diagonal-lightning {
+          0%, 100% { opacity: 0.3; transform: translate(-250px, -250px) scale(1.5); }
+          50% { opacity: 0.9; transform: translate(250px, 250px) scale(3); }
+        }
+        
+        @keyframes ultra-diagonal-lightning-reverse {
+          0%, 100% { opacity: 0.3; transform: translate(250px, -250px) scale(1.5); }
+          50% { opacity: 0.9; transform: translate(-250px, 250px) scale(3); }
+        }
+        
+        @keyframes mega-chaos-lightning {
+          0%, 100% { opacity: 0.5; transform: translateX(-500px) rotateZ(0deg) scaleX(2); }
+          25% { opacity: 1; transform: translateX(150px) rotateZ(90deg) scaleX(2.5); }
+          50% { opacity: 0.9; transform: translateX(500px) rotateZ(180deg) scaleX(3); }
+          75% { opacity: 1; transform: translateX(-150px) rotateZ(270deg) scaleX(2.5); }
+        }
+        
+        @keyframes mega-chaos-lightning-reverse {
+          0%, 100% { opacity: 0.5; transform: translateX(500px) rotateZ(360deg) scaleX(2); }
+          25% { opacity: 1; transform: translateX(-150px) rotateZ(270deg) scaleX(2.5); }
+          50% { opacity: 0.9; transform: translateX(-500px) rotateZ(180deg) scaleX(3); }
+          75% { opacity: 1; transform: translateX(150px) rotateZ(90deg) scaleX(2.5); }
+        }
+        
+        @keyframes mega-ultra-chaos-lightning {
+          0%, 100% { opacity: 0.4; transform: translateY(-400px) rotateZ(0deg) scaleY(2); }
+          33% { opacity: 1; transform: translateY(0px) rotateZ(120deg) scaleY(3.5); }
+          66% { opacity: 0.9; transform: translateY(400px) rotateZ(240deg) scaleY(2.5); }
+        }
+        
+        @keyframes mega-energy-particle {
+          0% { opacity: 0; transform: translateY(0px) scale(0) rotate(0deg); }
+          20% { opacity: 1; transform: translateY(-40px) scale(2) rotate(72deg); }
+          40% { opacity: 0.9; transform: translateY(-80px) scale(1.5) rotate(144deg); }
+          60% { opacity: 0.7; transform: translateY(-120px) scale(1.8) rotate(216deg); }
+          80% { opacity: 0.5; transform: translateY(-160px) scale(1.2) rotate(288deg); }
+          100% { opacity: 0; transform: translateY(-200px) scale(0) rotate(360deg); }
+        }
+        
+        @keyframes mega-time-lapse-rotate {
+          0% { transform: rotate(0deg) scale(1); }
+          100% { transform: rotate(1080deg) scale(1.3); }
+        }
+        
+        @keyframes mega-time-lapse-rotate-reverse {
+          0% { transform: rotate(1080deg) scale(1); }
+          100% { transform: rotate(0deg) scale(1.3); }
+        }
+        
+        @keyframes mega-time-lapse-wave-1 {
+          0%, 100% { transform: translateX(-100%) rotateY(0deg) scaleX(2); }
+          50% { transform: translateX(100%) rotateY(360deg) scaleX(1.5); }
+        }
+        
+        @keyframes mega-time-lapse-wave-2 {
+          0%, 100% { transform: translateX(100%) rotateY(0deg) scaleX(2); }
+          50% { transform: translateX(-100%) rotateY(360deg) scaleX(1.5); }
+        }
+        
+        @keyframes mega-time-lapse-wave-3 {
+          0%, 100% { transform: translateY(-100%) rotateX(0deg) scaleY(2); }
+          50% { transform: translateY(100%) rotateX(360deg) scaleY(1.5); }
+        }
+        
+        @keyframes mega-explosive-pulse {
+          0%, 100% { transform: scale(1) rotate(0deg); opacity: 0.2; }
+          20% { transform: scale(2.5) rotate(72deg); opacity: 0.5; }
+          40% { transform: scale(3.5) rotate(144deg); opacity: 0.3; }
+          60% { transform: scale(3) rotate(216deg); opacity: 0.6; }
+          80% { transform: scale(2.8) rotate(288deg); opacity: 0.4; }
+        }
+        
+        @keyframes floating-focus {
+          0%, 100% { transform: translateY(-20px) scale(1.1); }
+          50% { transform: translateY(-30px) scale(1.15); }
+        }
+        
+        @keyframes time-lapse-word-glow {
+          0%, 100% { text-shadow: 0 0 40px rgba(255,255,255,1), 0 0 80px rgba(255,255,255,0.8); }
+          50% { text-shadow: 0 0 60px rgba(255,255,255,1), 0 0 120px rgba(255,255,255,1), 0 0 180px rgba(255,255,255,0.6); }
+        }
+        
+        @keyframes time-lapse-meaning-glow {
+          0%, 100% { text-shadow: 0 0 30px rgba(255,255,0,1), 0 0 60px rgba(255,255,0,0.8); }
+          50% { text-shadow: 0 0 50px rgba(255,255,0,1), 0 0 100px rgba(255,255,0,1), 0 0 150px rgba(255,255,0,0.6); }
+        }
+        
+        /* MEGA SPEED CLASS ASSIGNMENTS - MUCH FASTER & MORE VISIBLE */
+        .animate-ultra-fast-lightning {
+          animation: ultra-fast-lightning 0.03s ease-in-out infinite;
+        }
+        
+        .animate-ultra-fast-lightning-reverse {
+          animation: ultra-fast-lightning-reverse 0.04s ease-in-out infinite;
+        }
+        
+        .animate-ultra-diagonal-lightning {
+          animation: ultra-diagonal-lightning 0.05s ease-in-out infinite;
+        }
+        
+        .animate-ultra-diagonal-lightning-reverse {
+          animation: ultra-diagonal-lightning-reverse 0.06s ease-in-out infinite;
+        }
+        
+        .animate-mega-chaos-lightning {
+          animation: mega-chaos-lightning 0.02s linear infinite;
+        }
+        
+        .animate-mega-chaos-lightning-reverse {
+          animation: mega-chaos-lightning-reverse 0.025s linear infinite;
+        }
+        
+        .animate-mega-ultra-chaos-lightning {
+          animation: mega-ultra-chaos-lightning 0.03s linear infinite;
+        }
+        
+        .animate-mega-energy-particle {
+          animation: mega-energy-particle 0.08s linear infinite;
+        }
+        
+        .animate-mega-time-lapse-rotate {
+          animation: mega-time-lapse-rotate 0.1s linear infinite;
+        }
+        
+        .animate-mega-time-lapse-rotate-reverse {
+          animation: mega-time-lapse-rotate-reverse 0.12s linear infinite;
+        }
+        
+        .animate-mega-time-lapse-wave-1 {
+          animation: mega-time-lapse-wave-1 0.06s ease-in-out infinite;
+        }
+        
+        .animate-mega-time-lapse-wave-2 {
+          animation: mega-time-lapse-wave-2 0.08s ease-in-out infinite;
+        }
+        
+        .animate-mega-time-lapse-wave-3 {
+          animation: mega-time-lapse-wave-3 0.1s ease-in-out infinite;
+        }
+        
+        .animate-mega-explosive-pulse {
+          animation: mega-explosive-pulse 0.04s ease-in-out infinite;
+        }
+        
+        .animate-floating-focus {
+          animation: floating-focus 2s ease-in-out infinite;
+        }
+        
+        .animate-time-lapse-word-glow {
+          animation: time-lapse-word-glow 1s ease-in-out infinite;
+        }
+        
+        .animate-time-lapse-meaning-glow {
+          animation: time-lapse-meaning-glow 1.2s ease-in-out infinite;
         }
         
         @keyframes fade-in {
