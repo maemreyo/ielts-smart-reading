@@ -139,6 +139,7 @@ export function EnhancedReadingViewV2({
         showAnimations={readingState.showAnimations}
         bookmarks={readingState.bookmarks}
         processParagraph={processParagraph}
+        onParagraphClick={readingState.setCurrentParagraph}
       />
 
       {/* Shortcuts Modal */}

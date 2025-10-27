@@ -29,6 +29,7 @@ interface ReadingContentProps {
   
   // Functions
   processParagraph: (paragraph: string, paragraphIndex: number) => React.ReactNode[];
+  onParagraphClick?: (paragraphIndex: number) => void;
 }
 
 export function ReadingContent({
@@ -45,6 +46,7 @@ export function ReadingContent({
   bookmarks,
   showAnimations,
   processParagraph,
+  onParagraphClick,
 }: ReadingContentProps) {
   const themeClasses = {
     light: "bg-white text-gray-900",
@@ -115,11 +117,13 @@ export function ReadingContent({
                 transition={showAnimations ? { delay: index * 0.1 } : undefined}
                 className={cn(
                   "mb-8 relative group",
-                  dimOthers && currentParagraph !== index && "dim-paragraph",
+                  dimOthers && currentParagraph !== index && "dim-paragraph cursor-pointer hover:opacity-60",
                   dimOthers && currentParagraph === index && "current-focus-paragraph",
                   currentParagraph === index &&
-                    "ring-2 ring-primary/20 rounded-lg p-2"
+                    "ring-2 ring-primary/20 rounded-lg p-2",
+                  dimOthers && "transition-opacity duration-200"
                 )}
+                onClick={() => dimOthers && onParagraphClick?.(index)}
               >
                 {/* Bookmark indicator */}
                 {bookmarks.includes(index) && (
