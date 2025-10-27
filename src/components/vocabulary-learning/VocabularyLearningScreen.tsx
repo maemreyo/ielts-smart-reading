@@ -5,11 +5,6 @@ import { Card } from "@/components/ui/card";
 import { type LexicalItem } from "../reading/utils/textProcessing";
 import { AudioEffectsManager } from "./audio/AudioEffects";
 import { generateCardPattern, selectPattern, type DrillingInstance, type IntensityPhase } from "./patterns/CardPatternGenerator";
-import { DrillingPhase } from "./phases/DrillingPhase";
-import { ExpansionPhase } from "./phases/ExpansionPhase";
-import { ApplicationPhase } from "./phases/ApplicationPhase";
-import { SummaryPhase } from "./phases/SummaryPhase";
-import { Progress } from "@radix-ui/react-progress";
 import { Target, Badge, Volume2, ArrowLeft } from "lucide-react";
 import { Button } from "../ui/button";
 
@@ -114,8 +109,8 @@ export function VocabularyLearningScreen({
         setProgress(Math.min(progressValue, 100));
         setDrillingTime(speechCount * 1.2); // Approximate time
 
-        // Time-lapse effect activation (9s-15s period)
-        const isTimeLapseActive = speechCount >= 7 && speechCount <= 12;
+        // Time-lapse effect activation (earlier trigger: 6s-14s period)
+        const isTimeLapseActive = speechCount >= 5 && speechCount <= 14;
 
         // Card visibility control
         if ((speechCount >= 2 && speechCount <= 4) || (speechCount >= 6 && speechCount <= 9)) {
@@ -385,9 +380,9 @@ export function VocabularyLearningScreen({
                   {lexicalItem.phase2Annotation?.phonetic}
                 </div>
                 {/* Pattern indicator for debugging (remove in production) */}
-                <div className="absolute -top-2 -right-2 text-xs bg-purple-500 text-white px-2 py-1 rounded opacity-50">
+                {/* <div className="absolute -top-2 -right-2 text-xs bg-purple-500 text-white px-2 py-1 rounded opacity-50">
                   {instance.pattern}
-                </div>
+                </div> */}
               </Card>
             </div>
           );
@@ -453,234 +448,6 @@ export function VocabularyLearningScreen({
       </div>
     );
   };
-
-  const renderExpansionPhase = () => (
-    <div className="min-h-screen bg-gradient-to-br from-emerald-900 via-teal-900 to-cyan-900 flex items-center justify-center overflow-hidden relative">
-      {/* Magical Knowledge Expansion Background */}
-      <div className="absolute inset-0">
-        {/* Knowledge Waves */}
-        <div className="absolute inset-0 bg-gradient-to-r from-emerald-500/10 via-transparent to-cyan-500/10 animate-knowledge-wave"></div>
-        <div className="absolute inset-0 bg-gradient-to-l from-teal-500/10 via-transparent to-emerald-500/10 animate-knowledge-wave-reverse"></div>
-
-        {/* Floating Knowledge Orbs */}
-        {[...Array(30)].map((_, i) => (
-          <div
-            key={i}
-            className="absolute w-3 h-3 bg-gradient-to-br from-emerald-400 to-cyan-400 rounded-full animate-knowledge-orb opacity-60"
-            style={{
-              left: `${Math.random() * 100}%`,
-              top: `${Math.random() * 100}%`,
-              animationDelay: `${Math.random() * 6}s`,
-              animationDuration: `${4 + Math.random() * 3}s`,
-            }}
-          />
-        ))}
-      </div>
-
-      <Card className="p-16 bg-gradient-to-br from-white via-emerald-50 to-cyan-50 backdrop-blur-xl border-0 shadow-[0_0_200px_rgba(16,185,129,0.6)] max-w-5xl mx-auto text-center transform animate-expansion-bloom relative overflow-hidden">
-        {/* Magic Sparkles */}
-        <div className="absolute inset-0 pointer-events-none">
-          {[...Array(20)].map((_, i) => (
-            <div
-              key={i}
-              className="absolute text-2xl animate-sparkle"
-              style={{
-                left: `${Math.random() * 100}%`,
-                top: `${Math.random() * 100}%`,
-                animationDelay: `${Math.random() * 3}s`,
-              }}
-            >
-              ✨
-            </div>
-          ))}
-        </div>
-
-        <div className="space-y-10 relative z-10">
-
-          <div className="text-6xl font-black text-transparent bg-gradient-to-r from-emerald-600 via-teal-600 to-cyan-600 bg-clip-text animate-word-expansion drop-shadow-2xl">
-            {cleanTargetWord}
-          </div>
-
-          {/* <div className="text-3xl text-blue-800 font-mono bg-white/60 px-8 py-4 rounded-full border-4 border-emerald-300 animate-phonetic-expansion shadow-2xl">
-            {lexicalItem.phase2Annotation?.phonetic}
-          </div> */}
-
-          {/* <div className={`text-3xl font-black transition-all duration-2000 transform ${expandedMeaning
-            ? "text-transparent bg-gradient-to-r from-emerald-600 to-cyan-600 bg-clip-text scale-110 animate-meaning-revelation"
-            : "text-gray-600 scale-100"
-            }`}>
-            {expandedMeaning
-              ? `${lexicalItem.phase2Annotation?.translationVI} ⚡ ${lexicalItem.phase2Annotation?.definitionEN}`
-              : lexicalItem.phase2Annotation?.translationVI
-            }
-          </div> */}
-
-          {/* {expandedMeaning && lexicalItem.phase2Annotation?.relatedCollocates && (
-            <div className="mt-10 p-8 bg-gradient-to-br from-emerald-100 to-cyan-100 rounded-2xl animate-knowledge-panel border-4 border-emerald-300 shadow-2xl">
-              <div className="flex flex-wrap gap-4 justify-center">
-                {lexicalItem.phase2Annotation.relatedCollocates.map((collocation, index) => (
-                  <Badge
-                    key={index}
-                    variant="outline"
-                    className="text-lg px-4 py-2 border-2 border-emerald-400 bg-white/80 hover:bg-emerald-100 transform hover:scale-110 transition-all duration-300 animate-collocation-float shadow-lg"
-                    style={{ animationDelay: `${index * 0.2}s` }}
-                  >
-                    {collocation}
-                  </Badge>
-                ))}
-              </div>
-            </div>
-          )} */}
-
-          {/* {expandedMeaning && lexicalItem.phase2Annotation?.wordForms && (
-            <div className="mt-8 p-8 bg-gradient-to-br from-blue-100 to-purple-100 rounded-2xl animate-knowledge-panel border-4 border-blue-300 shadow-2xl">
-              <div className="grid grid-cols-2 gap-6 text-lg">
-                {Object.entries(lexicalItem.phase2Annotation.wordForms).map(([type, forms], typeIndex) =>
-                  forms && Array.isArray(forms) && forms.length > 0 ? (
-                    <div key={type} className="animate-word-form-reveal" style={{ animationDelay: `${typeIndex * 0.3}s` }}>
-                      {(forms as Array<{ form: string; meaning: string }>).map((form, index) => (
-                        <div key={index} className="ml-4 mb-2 p-2 bg-white/50 rounded-lg animate-form-float" style={{ animationDelay: `${index * 0.1}s` }}>
-                          <span className="font-mono font-bold text-purple-700">{form.form}</span> - <span className="text-gray-700">{form.meaning}</span>
-                        </div>
-                      ))}
-                    </div>
-                  ) : null
-                )}
-              </div>
-            </div>
-          )} */}
-        </div>
-      </Card>
-    </div>
-  );
-
-  const renderApplicationPhase = () => (
-    <div className="min-h-screen bg-gradient-to-br from-amber-900 via-orange-900 to-red-900 flex items-center justify-center overflow-hidden relative">
-      {/* Epic Application Background */}
-      <div className="absolute inset-0">
-        {/* Power Waves */}
-        <div className="absolute inset-0 bg-gradient-to-r from-amber-500/20 via-transparent to-orange-500/20 animate-power-wave"></div>
-        <div className="absolute inset-0 bg-gradient-to-l from-red-500/20 via-transparent to-amber-500/20 animate-power-wave-reverse"></div>
-
-        {/* Success Stars */}
-        {[...Array(40)].map((_, i) => (
-          <div
-            key={i}
-            className="absolute text-yellow-400 animate-success-star"
-            style={{
-              left: `${Math.random() * 100}%`,
-              top: `${Math.random() * 100}%`,
-              animationDelay: `${Math.random() * 4}s`,
-              animationDuration: `${3 + Math.random() * 2}s`,
-              fontSize: `${12 + Math.random() * 8}px`,
-            }}
-          >
-            ⭐
-          </div>
-        ))}
-
-        {/* Victory Rays */}
-        <div className="absolute inset-0 bg-gradient-radial from-yellow-500/10 via-transparent to-transparent animate-victory-rays"></div>
-      </div>
-
-      <Card className="p-20 bg-gradient-to-br from-white via-amber-50 to-orange-50 backdrop-blur-xl border-0 shadow-[0_0_250px_rgba(245,158,11,0.8)] max-w-6xl mx-auto text-center transform animate-application-mastery relative overflow-hidden">
-        {/* Victory Fireworks */}
-        <div className="absolute inset-0 pointer-events-none">
-          {[...Array(15)].map((_, i) => (
-            <div
-              key={i}
-              className="absolute text-4xl animate-firework"
-              style={{
-                left: `${Math.random() * 100}%`,
-                top: `${Math.random() * 100}%`,
-                animationDelay: `${Math.random() * 2}s`,
-              }}
-            >
-              🎆
-            </div>
-          ))}
-        </div>
-
-        <div className="space-y-12 relative z-10">
-
-          <div className="text-7xl font-black text-transparent bg-gradient-to-r from-amber-600 via-orange-600 to-red-600 bg-clip-text animate-word-mastery drop-shadow-2xl">
-            {cleanTargetWord}
-          </div>
-
-          {/* Success Indicators */}
-          <div className="flex justify-center gap-8 mt-12">
-            <div className="text-6xl animate-success-icon">🎉</div>
-            <div className="text-6xl animate-success-icon" style={{ animationDelay: '0.5s' }}>🏆</div>
-            <div className="text-6xl animate-success-icon" style={{ animationDelay: '1s' }}>💫</div>
-            <div className="text-6xl animate-success-icon" style={{ animationDelay: '1.5s' }}>🌟</div>
-          </div>
-        </div>
-      </Card>
-    </div>
-  );
-
-  const renderSummaryPhase = () => (
-    <div className="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900 flex items-center justify-center overflow-hidden relative">
-      {/* Celebration Background */}
-      <div className="absolute inset-0">
-        {[...Array(60)].map((_, i) => (
-          <div
-            key={i}
-            className="absolute text-yellow-400 animate-celebration-float"
-            style={{
-              left: `${Math.random() * 100}%`,
-              top: `${Math.random() * 100}%`,
-              animationDelay: `${Math.random() * 3}s`,
-              fontSize: `${16 + Math.random() * 12}px`,
-            }}
-          >
-            {['🎉', '🌟', '⭐', '✨', '🎊', '🏆', '💫'][Math.floor(Math.random() * 7)]}
-          </div>
-        ))}
-      </div>
-
-      <Card className="p-20 bg-gradient-to-br from-white via-purple-50 to-blue-50 backdrop-blur-xl border-0 shadow-[0_0_300px_rgba(147,51,234,0.9)] max-w-4xl mx-auto text-center transform animate-summary-celebration relative overflow-hidden">
-        <div className="space-y-10 relative z-10">
-          {/* Final Word Display */}
-          <div className="text-8xl font-black text-transparent bg-gradient-to-r from-purple-600 via-pink-600 to-blue-600 bg-clip-text animate-final-word-celebration drop-shadow-2xl mb-6">
-            {cleanTargetWord}
-          </div>
-
-          {/* Final Meaning */}
-          <div className="text-4xl font-black text-transparent bg-gradient-to-r from-green-600 to-blue-600 bg-clip-text mb-8">
-            {lexicalItem.phase2Annotation?.translationVI}
-          </div>
-
-          <Button onClick={onBack} size="lg" className="mt-6 bg-gradient-to-r from-purple-600 to-blue-600 text-white text-xl px-8 py-4">
-            <ArrowLeft className="w-6 h-6 mr-3" />
-            Quay lại ngay
-          </Button>
-        </div>
-      </Card>
-    </div>
-  );
-
-  const renderCompletedPhase = () => (
-    <div className="min-h-screen bg-gradient-to-br from-green-900 to-emerald-900 flex items-center justify-center">
-      <Card className="p-12 bg-white/95 backdrop-blur-sm border-0 shadow-2xl max-w-2xl mx-auto text-center">
-        <div className="space-y-6">
-          <div className="text-6xl mb-6">🎉</div>
-          <h2 className="text-3xl font-bold text-green-900 mb-4">
-            Hoàn thành!
-          </h2>
-          <p className="text-lg text-gray-700 mb-8">
-            Bạn đã học xong từ vựng <strong>{cleanTargetWord}</strong>
-          </p>
-          <div className="space-y-4">
-            <Button onClick={onBack} size="lg" className="w-full">
-              <ArrowLeft className="w-5 h-5 mr-2" />
-              Quay lại đọc
-            </Button>
-          </div>
-        </div>
-      </Card>
-    </div>
-  );
 
   return (
     <div className="fixed inset-0 z-50 overflow-hidden">
@@ -1018,6 +785,37 @@ export function VocabularyLearningScreen({
         
         .animate-time-lapse-meaning-glow {
           animation: time-lapse-meaning-glow 1.2s ease-in-out infinite;
+        }
+        
+        /* GENTLE TEXT STYLE CYCLING ANIMATIONS */
+        @keyframes gentle-text-styles {
+          0% { font-weight: 400; font-style: normal; text-decoration: none; }
+          12.5% { font-weight: 700; font-style: normal; text-decoration: none; }
+          25% { font-weight: 900; font-style: normal; text-decoration: none; }
+          37.5% { font-weight: 700; font-style: italic; text-decoration: none; }
+          50% { font-weight: 400; font-style: italic; text-decoration: none; }
+          62.5% { font-weight: 500; font-style: normal; text-decoration: underline; }
+          75% { font-weight: 600; font-style: normal; text-decoration: line-through; }
+          87.5% { font-weight: 800; font-style: italic; text-decoration: underline; }
+          100% { font-weight: 400; font-style: normal; text-decoration: none; }
+        }
+        
+        @keyframes gentle-meaning-styles {
+          0% { font-weight: 400; font-style: normal; text-decoration: none; }
+          16.66% { font-weight: 600; font-style: normal; text-decoration: none; }
+          33.33% { font-weight: 700; font-style: italic; text-decoration: none; }
+          50% { font-weight: 500; font-style: normal; text-decoration: underline; }
+          66.66% { font-weight: 300; font-style: italic; text-decoration: none; }
+          83.33% { font-weight: 800; font-style: normal; text-decoration: line-through; }
+          100% { font-weight: 400; font-style: normal; text-decoration: none; }
+        }
+        
+        .animate-gentle-text-styles {
+          animation: gentle-text-styles 4s ease-in-out infinite;
+        }
+        
+        .animate-gentle-meaning-styles {
+          animation: gentle-meaning-styles 3.5s ease-in-out infinite;
         }
         
         @keyframes fade-in {
@@ -1663,10 +1461,10 @@ export function VocabularyLearningScreen({
       {/* Phase content */}
       {phase === "priming" && renderPrimingPhase()}
       {phase === "drilling" && renderDrillingPhase()}
-      {phase === "expansion" && renderExpansionPhase()}
+      {/* {phase === "expansion" && renderExpansionPhase()}
       {phase === "application" && renderApplicationPhase()}
       {phase === "summary" && renderSummaryPhase()}
-      {phase === "completed" && renderCompletedPhase()}
+      {phase === "completed" && renderCompletedPhase()} */}
     </div>
   );
 }
