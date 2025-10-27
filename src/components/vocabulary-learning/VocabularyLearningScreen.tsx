@@ -32,6 +32,7 @@ export function VocabularyLearningScreen({
   const [currentSpeechRate, setCurrentSpeechRate] = useState(0.6); // Start slower for gradual build
   const [intensityPhase, setIntensityPhase] = useState<'low' | 'medium' | 'high'>('low');
   const [drillingTime, setDrillingTime] = useState(0);
+  const [isElectricShock, setIsElectricShock] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const audioContextRef = useRef<AudioContext | null>(null);
   const drillingIntervalRef = useRef<NodeJS.Timeout | null>(null);
@@ -43,6 +44,14 @@ export function VocabularyLearningScreen({
   // Clean vocabulary text by removing grammar annotations
   const cleanVocabularyText = (text: string) => {
     return text.replace(/\s*\([^)]*\)/g, '').trim();
+  };
+
+  // Electric shock effect for brain impact with bright flash
+  const triggerElectricShock = () => {
+    setIsElectricShock(true);
+    setTimeout(() => {
+      setIsElectricShock(false);
+    }, 150); // Short electric shock duration for maximum brain impact
   };
 
   // Get clean word for display
@@ -255,7 +264,7 @@ export function VocabularyLearningScreen({
         }
 
         // Update progress
-        setProgress(Math.min((localTime / 15) * 100, 99));
+        setProgress(Math.round(Math.min((localTime / 15) * 100, 99)));
 
         // Card visibility
         if ((localTime >= 3 && localTime <= 6) || (localTime >= 9 && localTime <= 13)) {
@@ -294,6 +303,16 @@ export function VocabularyLearningScreen({
         setCurrentSpeechRate(rate);
         speakText(lexicalItem.targetLexeme, rate);
         playDrillingBeat(localIntensity);
+        
+        // Trigger electric shock effect randomly for brain impact
+        if (Math.random() < 0.4) { // 40% chance
+          setTimeout(() => triggerElectricShock(), Math.random() * 500);
+        }
+        
+        // Additional shock triggers for high intensity
+        if (localIntensity === 'high' && Math.random() < 0.3) {
+          setTimeout(() => triggerElectricShock(), Math.random() * 300 + 200);
+        }
       }, 900);
 
       // Bass pattern - fixed interval
@@ -504,7 +523,7 @@ export function VocabularyLearningScreen({
     const bgConfig = getBackgroundConfig();
 
     return (
-      <div className={`relative min-h-screen bg-gradient-to-br ${bgConfig.bgGradient} flex items-center justify-center overflow-hidden transition-all duration-1000`}>
+      <div className={`relative min-h-screen ${isElectricShock ? 'bg-black' : `bg-gradient-to-br ${bgConfig.bgGradient}`} flex items-center justify-center overflow-hidden transition-all duration-150`}>
         {/* Ultra Dynamic Background */}
         <div className="absolute inset-0">
           {/* Lightning Effects */}
@@ -552,14 +571,14 @@ export function VocabularyLearningScreen({
               animationDelay: `${Math.random() * 0.5}s`,
             }}
           >
-            <Card className="p-6 bg-gradient-to-br from-white/90 to-white/70 backdrop-blur-xl border-2 border-white/50 text-center transform rotate-3 hover:rotate-0 transition-all duration-500 shadow-[0_0_50px_rgba(255,255,255,0.5)]">
-              <div className="font-black text-3xl bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent animate-text-glow mb-2">
+            <Card className={`p-6 ${isElectricShock ? 'bg-black border-white' : 'bg-gradient-to-br from-white/90 to-white/70 border-white/50'} backdrop-blur-xl border-2 text-center transform rotate-3 hover:rotate-0 transition-all duration-150 shadow-[0_0_50px_rgba(255,255,255,0.5)]`}>
+              <div className={`font-black text-3xl ${isElectricShock ? 'text-white animate-flash-bright drop-shadow-[0_0_20px_rgba(255,255,255,1)]' : 'bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent'} animate-text-glow mb-2`}>
                 {cleanTargetWord}
               </div>
-              <div className="text-2xl font-black text-red-600 animate-meaning-flash mb-2">
+              <div className={`text-2xl font-black ${isElectricShock ? 'text-white animate-flash-bright drop-shadow-[0_0_20px_rgba(255,255,255,1)]' : 'text-red-600'} animate-meaning-flash mb-2`}>
                 {lexicalItem.phase2Annotation?.translationVI}
               </div>
-              <div className="text-sm mt-1 font-mono text-blue-600 opacity-60">
+              <div className={`text-sm mt-1 font-mono ${isElectricShock ? 'text-white animate-flash-bright' : 'text-blue-600'} opacity-60`}>
                 {lexicalItem.phase2Annotation?.phonetic}
               </div>
             </Card>
@@ -612,39 +631,31 @@ export function VocabularyLearningScreen({
           const config = getCardConfig();
 
           return (
-            <Card className={`${config.cardClass} bg-gradient-to-br from-white via-purple-50 to-pink-50 backdrop-blur-xl border-0 ${config.shadowColor} mx-auto text-center animate-mega-pulse transition-all duration-1000`}>
+            <Card className={`${config.cardClass} ${isElectricShock ? 'bg-black border-white border-4' : 'bg-gradient-to-br from-white via-purple-50 to-pink-50 border-0'} backdrop-blur-xl ${config.shadowColor} mx-auto text-center animate-mega-pulse transition-all duration-150`}>
               <div className="space-y-8">
-                {/* Dynamic Header */}
-                <div className="flex items-center justify-center gap-6 mb-8">
-                  <Zap className={`${config.iconSize} text-yellow-500 animate-mega-spin`} />
-                  <Badge variant="destructive" className={`text-2xl px-8 py-4 animate-dramatic-pulse bg-gradient-to-r ${config.headerColors} shadow-2xl`}>
-                    {config.headerBadge}
-                  </Badge>
-                  <Zap className={`${config.iconSize} text-yellow-500 animate-mega-spin-reverse`} />
-                </div>
 
                 {/* DYNAMIC Word Display - Scales with Intensity */}
-                <div className={`${config.wordSize} font-black text-transparent bg-gradient-to-r ${config.wordColors} bg-clip-text animate-mega-word-pulse drop-shadow-2xl mb-6 transition-all duration-1000`}>
+                <div className={`${config.wordSize} font-black ${isElectricShock ? 'text-white animate-flash-bright drop-shadow-[0_0_30px_rgba(255,255,255,1)]' : `text-transparent bg-gradient-to-r ${config.wordColors} bg-clip-text`} animate-mega-word-pulse drop-shadow-2xl mb-6 transition-all duration-150`}>
                   {cleanTargetWord}
                 </div>
 
                 {/* DYNAMIC Translation - Scales with Intensity */}
-                <div className={`${config.meaningSize} font-black bg-gradient-to-r ${config.meaningColors} bg-clip-text text-transparent animate-rainbow-text mb-8 transition-all duration-1000`}>
+                <div className={`${config.meaningSize} font-black ${isElectricShock ? 'text-white animate-flash-bright drop-shadow-[0_0_30px_rgba(255,255,255,1)]' : `bg-gradient-to-r ${config.meaningColors} bg-clip-text text-transparent`} animate-rainbow-text mb-8 transition-all duration-150`}>
                   {lexicalItem.phase2Annotation?.translationVI}
                 </div>
 
                 {/* Timing Display */}
-                <div className="text-xl font-bold text-white bg-black/50 px-4 py-2 rounded-full inline-block">
+                <div className={`text-xl font-bold ${isElectricShock ? 'text-white bg-black' : 'text-white bg-black/50'} px-4 py-2 rounded-full inline-block transition-all duration-150`}>
                   {intensityPhase.toUpperCase()} PHASE: {drillingTime.toFixed(1)}s
                 </div>
 
                 {/* Dimmed Phonetic */}
-                <div className="text-xl text-blue-600 font-mono bg-white/30 px-6 py-3 rounded-full border-2 border-blue-200 opacity-60 mb-6">
+                <div className={`text-xl ${isElectricShock ? 'text-white bg-black' : 'text-blue-600 bg-white/30 border-blue-200'} font-mono px-6 py-3 rounded-full border-2 opacity-60 mb-6 transition-all duration-150`}>
                   {lexicalItem.phase2Annotation?.phonetic}
                 </div>
 
                 {/* Dimmed Button */}
-                <Button
+                {/* <Button
                   variant="ghost"
                   size="lg"
                   onClick={() => speakText(lexicalItem.targetLexeme)}
@@ -652,7 +663,7 @@ export function VocabularyLearningScreen({
                 >
                   <Volume2 className="w-6 h-6 mr-3" />
                   NGHE PHÁT ÂM
-                </Button>
+                </Button> */}
               </div>
             </Card>
           );
@@ -663,7 +674,7 @@ export function VocabularyLearningScreen({
           <div className="bg-gradient-to-r from-purple-900/90 to-pink-900/90 backdrop-blur-xl rounded-2xl p-6 border-2 border-white/30 shadow-2xl">
             <div className="flex items-center gap-6 mb-4">
               <Target className="w-8 h-8 text-yellow-400 animate-spin" />
-              <span className="font-black text-2xl text-white">NẠP TỪ VÀO TRÍ NHỚ: {progress}%</span>
+              <span className="font-black text-2xl text-white">NẠP TỪ VÀO TRÍ NHỚ: {Math.round(progress)}%</span>
               <div className="text-4xl animate-bounce">🧠💥</div>
             </div>
             <Progress value={progress} className="h-6 bg-gradient-to-r from-red-500 to-yellow-500 rounded-full shadow-inner" />
@@ -715,22 +726,6 @@ export function VocabularyLearningScreen({
         </div>
 
         <div className="space-y-10 relative z-10">
-          {/* Countdown Timer */}
-          <div className="flex items-center justify-center gap-4 mb-6">
-            <Clock className="w-12 h-12 text-emerald-400 animate-spin" />
-            <div className="text-4xl font-black text-transparent bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text">
-              {expansionCountdown}
-            </div>
-            <Clock className="w-12 h-12 text-emerald-400 animate-spin" />
-          </div>
-
-          <div className="flex items-center justify-center gap-6 mb-8">
-            <Lightbulb className="w-20 h-20 text-yellow-500 animate-enlightenment" />
-            <Badge variant="secondary" className="text-3xl px-10 py-6 bg-gradient-to-r from-emerald-600 to-cyan-600 text-white shadow-2xl animate-knowledge-badge">
-              🧠 EXPANDING MIND 🧠
-            </Badge>
-            <Lightbulb className="w-20 h-20 text-yellow-500 animate-enlightenment-reverse" />
-          </div>
 
           <div className="text-6xl font-black text-transparent bg-gradient-to-r from-emerald-600 via-teal-600 to-cyan-600 bg-clip-text animate-word-expansion drop-shadow-2xl">
             {cleanTargetWord}
@@ -752,7 +747,6 @@ export function VocabularyLearningScreen({
 
           {expandedMeaning && lexicalItem.phase2Annotation?.relatedCollocates && (
             <div className="mt-10 p-8 bg-gradient-to-br from-emerald-100 to-cyan-100 rounded-2xl animate-knowledge-panel border-4 border-emerald-300 shadow-2xl">
-              <h3 className="font-black text-2xl mb-6 text-emerald-900 animate-title-glow">🔗 COLLOCATIONS SIÊU MẠNH:</h3>
               <div className="flex flex-wrap gap-4 justify-center">
                 {lexicalItem.phase2Annotation.relatedCollocates.map((collocation, index) => (
                   <Badge
@@ -770,14 +764,10 @@ export function VocabularyLearningScreen({
 
           {expandedMeaning && lexicalItem.phase2Annotation?.wordForms && (
             <div className="mt-8 p-8 bg-gradient-to-br from-blue-100 to-purple-100 rounded-2xl animate-knowledge-panel border-4 border-blue-300 shadow-2xl">
-              <h3 className="font-black text-2xl mb-6 text-blue-900 animate-title-glow">🎭 WORD FORMS TRANSFORMATION:</h3>
               <div className="grid grid-cols-2 gap-6 text-lg">
                 {Object.entries(lexicalItem.phase2Annotation.wordForms).map(([type, forms], typeIndex) =>
                   forms && Array.isArray(forms) && forms.length > 0 ? (
                     <div key={type} className="animate-word-form-reveal" style={{ animationDelay: `${typeIndex * 0.3}s` }}>
-                      <div className="font-black capitalize text-blue-800 mb-3 text-xl bg-white/60 px-4 py-2 rounded-lg border-2 border-blue-300">
-                        {type}:
-                      </div>
                       {(forms as Array<{ form: string; meaning: string }>).map((form, index) => (
                         <div key={index} className="ml-4 mb-2 p-2 bg-white/50 rounded-lg animate-form-float" style={{ animationDelay: `${index * 0.1}s` }}>
                           <span className="font-mono font-bold text-purple-700">{form.form}</span> - <span className="text-gray-700">{form.meaning}</span>
@@ -842,22 +832,6 @@ export function VocabularyLearningScreen({
         </div>
 
         <div className="space-y-12 relative z-10">
-          {/* Countdown Timer */}
-          <div className="flex items-center justify-center gap-4 mb-6">
-            <Clock className="w-12 h-12 text-amber-400 animate-spin" />
-            <div className="text-4xl font-black text-transparent bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text">
-              {applicationCountdown}
-            </div>
-            <Clock className="w-12 h-12 text-amber-400 animate-spin" />
-          </div>
-
-          <div className="flex items-center justify-center gap-8 mb-10">
-            <BookOpen className="w-24 h-24 text-amber-500 animate-book-magic" />
-            <Badge variant="secondary" className="text-4xl px-12 py-8 bg-gradient-to-r from-amber-600 to-orange-600 text-white shadow-2xl animate-application-badge">
-              🚀 PRACTICAL MASTERY 🚀
-            </Badge>
-            <BookOpen className="w-24 h-24 text-amber-500 animate-book-magic-reverse" />
-          </div>
 
           <div className="text-7xl font-black text-transparent bg-gradient-to-r from-amber-600 via-orange-600 to-red-600 bg-clip-text animate-word-mastery drop-shadow-2xl">
             {cleanTargetWord}
@@ -867,10 +841,6 @@ export function VocabularyLearningScreen({
             <div className="bg-gradient-to-br from-amber-100 to-orange-100 p-12 rounded-3xl border-4 border-amber-400 shadow-2xl animate-example-showcase relative overflow-hidden">
               {/* Example Spotlight */}
               <div className="absolute inset-0 bg-gradient-radial from-yellow-300/20 via-transparent to-transparent animate-example-spotlight"></div>
-
-              <Badge className="mb-8 bg-gradient-to-r from-amber-600 to-orange-600 text-white text-2xl px-8 py-4 shadow-xl animate-example-badge">
-                🎯 SIÊU VÍ DỤ 🎯
-              </Badge>
 
               <div className="text-3xl text-gray-800 mb-8 leading-relaxed font-semibold p-6 bg-white/70 rounded-2xl border-2 border-amber-300 animate-example-text relative">
                 <div className="absolute -top-4 -left-4 text-6xl animate-quote-mark">"</div>
@@ -928,17 +898,6 @@ export function VocabularyLearningScreen({
 
       <Card className="p-20 bg-gradient-to-br from-white via-purple-50 to-blue-50 backdrop-blur-xl border-0 shadow-[0_0_300px_rgba(147,51,234,0.9)] max-w-4xl mx-auto text-center transform animate-summary-celebration relative overflow-hidden">
         <div className="space-y-10 relative z-10">
-          {/* Countdown Timer */}
-          <div className="flex items-center justify-center gap-4 mb-8">
-            <Clock className="w-16 h-16 text-purple-600 animate-spin" />
-            <div className="text-6xl font-black text-transparent bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text">
-              {summaryCountdown}
-            </div>
-            <Clock className="w-16 h-16 text-purple-600 animate-spin" />
-          </div>
-
-          <div className="text-6xl mb-8">🎊 HOÀN THÀNH! 🎊</div>
-
           {/* Final Word Display */}
           <div className="text-8xl font-black text-transparent bg-gradient-to-r from-purple-600 via-pink-600 to-blue-600 bg-clip-text animate-final-word-celebration drop-shadow-2xl mb-6">
             {cleanTargetWord}
@@ -947,14 +906,6 @@ export function VocabularyLearningScreen({
           {/* Final Meaning */}
           <div className="text-4xl font-black text-transparent bg-gradient-to-r from-green-600 to-blue-600 bg-clip-text mb-8">
             {lexicalItem.phase2Annotation?.translationVI}
-          </div>
-
-          <div className="text-2xl text-gray-700 mb-8 bg-gradient-to-r from-purple-100 to-blue-100 p-6 rounded-2xl border-2 border-purple-300">
-            🧠 Từ vựng đã được nạp vào trí nhớ thành công!
-          </div>
-
-          <div className="text-lg text-gray-600">
-            Tự động quay lại trong <span className="font-bold text-purple-600">{summaryCountdown}</span> giây...
           </div>
 
           <Button onClick={onBack} size="lg" className="mt-6 bg-gradient-to-r from-purple-600 to-blue-600 text-white text-xl px-8 py-4">
@@ -995,6 +946,25 @@ export function VocabularyLearningScreen({
           0% { opacity: 0; transform: scale(0.8); }
           50% { opacity: 1; transform: scale(1); }
           100% { opacity: 0; transform: scale(0.8); }
+        }
+        
+        @keyframes flash-bright {
+          0% { 
+            text-shadow: 0 0 10px rgba(255,255,255,0.8), 0 0 20px rgba(255,255,255,0.6), 0 0 30px rgba(255,255,255,0.4);
+            transform: scale(1);
+          }
+          50% { 
+            text-shadow: 0 0 20px rgba(255,255,255,1), 0 0 40px rgba(255,255,255,0.8), 0 0 60px rgba(255,255,255,0.6);
+            transform: scale(1.05);
+          }
+          100% { 
+            text-shadow: 0 0 10px rgba(255,255,255,0.8), 0 0 20px rgba(255,255,255,0.6), 0 0 30px rgba(255,255,255,0.4);
+            transform: scale(1);
+          }
+        }
+        
+        .animate-flash-bright {
+          animation: flash-bright 0.15s ease-in-out infinite;
         }
         
         @keyframes fade-in {
