@@ -33,6 +33,7 @@ export function VocabularyLearningScreen({
   const [isSpeaking, setIsSpeaking] = useState(false);
   const [randomTextStyle, setRandomTextStyle] = useState(1);
   const [randomMeaningStyle, setRandomMeaningStyle] = useState(1);
+  const [isCompleting, setIsCompleting] = useState(false);
 
   const audioManager = useRef<AudioEffectsManager>(new AudioEffectsManager());
   const summaryIntervalRef = useRef<NodeJS.Timeout | null>(null);
@@ -162,10 +163,19 @@ export function VocabularyLearningScreen({
 
         // Continue or complete
         if (speechCount >= totalSpeechCycles) {
-          // Learning complete - return to reading screen
+          // Learning complete - immediate cleanup to prevent lag
+          setIsCompleting(true);
+          setDrillingInstances([]);
+          setIsElectricShock(false);
+          setProgress(100);
+          
+          // Quick exit without heavy animations
           setTimeout(() => {
             onBack();
-          }, 1500);
+          }, 300);
+        } else if (speechCount >= totalSpeechCycles - 1) {
+          // Start reducing effects one cycle before completion
+          setIsCompleting(true);
         } else {
           // Speak next cycle after a brief pause
           setTimeout(() => {
@@ -296,7 +306,7 @@ export function VocabularyLearningScreen({
           )}
 
           {/* Super Fast Energy Particles - 4x Speed During Time-lapse */}
-          {[...Array(drillingTime >= 9 && drillingTime <= 15 ? bgConfig.particleCount * 4 : bgConfig.particleCount * 2)].map((_, i) => (
+          {!isCompleting && [...Array(drillingTime >= 6 && drillingTime <= 12 ? Math.min(bgConfig.particleCount * 2, 80) : Math.min(bgConfig.particleCount, 40))].map((_, i) => (
             <div
               key={i}
               className={`absolute ${bgConfig.particleSize} bg-gradient-to-r ${bgConfig.particleColors} rounded-full ${drillingTime >= 9 && drillingTime <= 15 ? 'animate-mega-energy-particle' : 'animate-hyper-energy-particle'

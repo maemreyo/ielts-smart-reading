@@ -121,50 +121,158 @@
   50% { transform: translateY(-30px) scale(1.15); }
 }
 
-/* RANDOM TEXT STYLE ANIMATIONS FOR TIME-LAPSE */
+/* PROMINENT TEXT STYLE ANIMATIONS FOR TIME-LAPSE */
 @keyframes random-text-style-1 {
-  0% { font-weight: 400; font-style: normal; text-decoration: none; }
-  20% { font-weight: 700; font-style: normal; text-decoration: none; }
-  40% { font-weight: 900; font-style: italic; text-decoration: none; }
-  60% { font-weight: 500; font-style: normal; text-decoration: underline; }
-  80% { font-weight: 300; font-style: italic; text-decoration: line-through; }
-  100% { font-weight: 400; font-style: normal; text-decoration: none; }
+  0% { 
+    font-weight: 400; font-style: normal; text-decoration: none; 
+    transform: scale(1) rotateX(0deg); 
+    text-shadow: 0 0 40px rgba(255,255,255,1);
+  }
+  20% { 
+    font-weight: 700; font-style: normal; text-decoration: none; 
+    transform: scale(1.1) rotateX(10deg); 
+    text-shadow: 0 0 60px rgba(255,255,255,1), 0 0 120px rgba(255,255,255,0.8);
+  }
+  40% { 
+    font-weight: 900; font-style: italic; text-decoration: none; 
+    transform: scale(1.2) rotateX(-10deg); 
+    text-shadow: 0 0 80px rgba(255,255,255,1), 0 0 160px rgba(255,255,255,0.6);
+  }
+  60% { 
+    font-weight: 500; font-style: normal; text-decoration: underline; 
+    transform: scale(1.05) rotateX(5deg); 
+    text-shadow: 0 0 50px rgba(255,255,255,1), 0 0 100px rgba(255,255,255,0.8);
+  }
+  80% { 
+    font-weight: 300; font-style: italic; text-decoration: line-through; 
+    transform: scale(1.15) rotateX(-5deg); 
+    text-shadow: 0 0 70px rgba(255,255,255,1), 0 0 140px rgba(255,255,255,0.7);
+  }
+  100% { 
+    font-weight: 400; font-style: normal; text-decoration: none; 
+    transform: scale(1) rotateX(0deg); 
+    text-shadow: 0 0 40px rgba(255,255,255,1);
+  }
 }
 
 @keyframes random-text-style-2 {
-  0% { font-weight: 600; font-style: italic; text-decoration: none; }
-  25% { font-weight: 800; font-style: normal; text-decoration: underline; }
-  50% { font-weight: 300; font-style: normal; text-decoration: none; }
-  75% { font-weight: 700; font-style: italic; text-decoration: line-through; }
-  100% { font-weight: 600; font-style: italic; text-decoration: none; }
+  0% { 
+    font-weight: 600; font-style: italic; text-decoration: none; 
+    transform: scale(1) rotateY(0deg) skewX(0deg); 
+    text-shadow: 0 0 45px rgba(255,255,255,1);
+  }
+  25% { 
+    font-weight: 800; font-style: normal; text-decoration: underline; 
+    transform: scale(1.15) rotateY(15deg) skewX(5deg); 
+    text-shadow: 0 0 75px rgba(255,255,255,1), 0 0 150px rgba(255,255,255,0.8);
+  }
+  50% { 
+    font-weight: 300; font-style: normal; text-decoration: none; 
+    transform: scale(1.25) rotateY(-15deg) skewX(-5deg); 
+    text-shadow: 0 0 90px rgba(255,255,255,1), 0 0 180px rgba(255,255,255,0.6);
+  }
+  75% { 
+    font-weight: 700; font-style: italic; text-decoration: line-through; 
+    transform: scale(1.1) rotateY(10deg) skewX(3deg); 
+    text-shadow: 0 0 65px rgba(255,255,255,1), 0 0 130px rgba(255,255,255,0.7);
+  }
+  100% { 
+    font-weight: 600; font-style: italic; text-decoration: none; 
+    transform: scale(1) rotateY(0deg) skewX(0deg); 
+    text-shadow: 0 0 45px rgba(255,255,255,1);
+  }
 }
 
 @keyframes random-text-style-3 {
-  0% { font-weight: 500; font-style: normal; text-decoration: line-through; }
-  30% { font-weight: 900; font-style: italic; text-decoration: none; }
-  60% { font-weight: 400; font-style: normal; text-decoration: underline; }
-  90% { font-weight: 800; font-style: italic; text-decoration: none; }
-  100% { font-weight: 500; font-style: normal; text-decoration: line-through; }
+  0% { 
+    font-weight: 500; font-style: normal; text-decoration: line-through; 
+    transform: scale(1) rotateZ(0deg) perspective(1000px) rotateX(0deg); 
+    text-shadow: 0 0 50px rgba(255,255,255,1);
+  }
+  30% { 
+    font-weight: 900; font-style: italic; text-decoration: none; 
+    transform: scale(1.3) rotateZ(10deg) perspective(1000px) rotateX(20deg); 
+    text-shadow: 0 0 100px rgba(255,255,255,1), 0 0 200px rgba(255,255,255,0.8);
+  }
+  60% { 
+    font-weight: 400; font-style: normal; text-decoration: underline; 
+    transform: scale(1.2) rotateZ(-10deg) perspective(1000px) rotateX(-20deg); 
+    text-shadow: 0 0 85px rgba(255,255,255,1), 0 0 170px rgba(255,255,255,0.7);
+  }
+  90% { 
+    font-weight: 800; font-style: italic; text-decoration: none; 
+    transform: scale(1.1) rotateZ(5deg) perspective(1000px) rotateX(10deg); 
+    text-shadow: 0 0 70px rgba(255,255,255,1), 0 0 140px rgba(255,255,255,0.8);
+  }
+  100% { 
+    font-weight: 500; font-style: normal; text-decoration: line-through; 
+    transform: scale(1) rotateZ(0deg) perspective(1000px) rotateX(0deg); 
+    text-shadow: 0 0 50px rgba(255,255,255,1);
+  }
 }
 
 @keyframes random-meaning-style-1 {
-  0% { font-weight: 300; font-style: normal; text-decoration: none; }
-  33% { font-weight: 700; font-style: italic; text-decoration: none; }
-  66% { font-weight: 600; font-style: normal; text-decoration: underline; }
-  100% { font-weight: 300; font-style: normal; text-decoration: none; }
+  0% { 
+    font-weight: 300; font-style: normal; text-decoration: none; 
+    transform: scale(1) translateY(0px); 
+    text-shadow: 0 0 30px rgba(255,255,0,1);
+  }
+  33% { 
+    font-weight: 700; font-style: italic; text-decoration: none; 
+    transform: scale(1.2) translateY(-10px); 
+    text-shadow: 0 0 60px rgba(255,255,0,1), 0 0 120px rgba(255,255,0,0.8);
+  }
+  66% { 
+    font-weight: 600; font-style: normal; text-decoration: underline; 
+    transform: scale(1.15) translateY(-15px); 
+    text-shadow: 0 0 50px rgba(255,255,0,1), 0 0 100px rgba(255,255,0,0.7);
+  }
+  100% { 
+    font-weight: 300; font-style: normal; text-decoration: none; 
+    transform: scale(1) translateY(0px); 
+    text-shadow: 0 0 30px rgba(255,255,0,1);
+  }
 }
 
 @keyframes random-meaning-style-2 {
-  0% { font-weight: 800; font-style: normal; text-decoration: underline; }
-  40% { font-weight: 400; font-style: italic; text-decoration: none; }
-  80% { font-weight: 600; font-style: normal; text-decoration: line-through; }
-  100% { font-weight: 800; font-style: normal; text-decoration: underline; }
+  0% { 
+    font-weight: 800; font-style: normal; text-decoration: underline; 
+    transform: scale(1) rotateZ(0deg); 
+    text-shadow: 0 0 40px rgba(255,255,0,1);
+  }
+  40% { 
+    font-weight: 400; font-style: italic; text-decoration: none; 
+    transform: scale(1.25) rotateZ(8deg); 
+    text-shadow: 0 0 80px rgba(255,255,0,1), 0 0 160px rgba(255,255,0,0.8);
+  }
+  80% { 
+    font-weight: 600; font-style: normal; text-decoration: line-through; 
+    transform: scale(1.1) rotateZ(-8deg); 
+    text-shadow: 0 0 60px rgba(255,255,0,1), 0 0 120px rgba(255,255,0,0.7);
+  }
+  100% { 
+    font-weight: 800; font-style: normal; text-decoration: underline; 
+    transform: scale(1) rotateZ(0deg); 
+    text-shadow: 0 0 40px rgba(255,255,0,1);
+  }
 }
 
 @keyframes random-meaning-style-3 {
-  0% { font-weight: 500; font-style: italic; text-decoration: line-through; }
-  50% { font-weight: 900; font-style: normal; text-decoration: none; }
-  100% { font-weight: 500; font-style: italic; text-decoration: line-through; }
+  0% { 
+    font-weight: 500; font-style: italic; text-decoration: line-through; 
+    transform: scale(1) skewY(0deg); 
+    text-shadow: 0 0 35px rgba(255,255,0,1);
+  }
+  50% { 
+    font-weight: 900; font-style: normal; text-decoration: none; 
+    transform: scale(1.3) skewY(5deg); 
+    text-shadow: 0 0 90px rgba(255,255,0,1), 0 0 180px rgba(255,255,0,0.8);
+  }
+  100% { 
+    font-weight: 500; font-style: italic; text-decoration: line-through; 
+    transform: scale(1) skewY(0deg); 
+    text-shadow: 0 0 35px rgba(255,255,0,1);
+  }
 }
 
 /* ANIMATION CLASSES */
@@ -232,27 +340,27 @@
   animation: floating-focus 2s ease-in-out infinite;
 }
 
-/* RANDOM TEXT STYLE CLASSES */
+/* PROMINENT TEXT STYLE CLASSES - FASTER & MORE DRAMATIC */
 .animate-random-text-style-1 {
-  animation: random-text-style-1 2.5s ease-in-out infinite;
+  animation: random-text-style-1 1.5s ease-in-out infinite;
 }
 
 .animate-random-text-style-2 {
-  animation: random-text-style-2 3s ease-in-out infinite;
+  animation: random-text-style-2 1.8s ease-in-out infinite;
 }
 
 .animate-random-text-style-3 {
-  animation: random-text-style-3 2.8s ease-in-out infinite;
+  animation: random-text-style-3 1.6s ease-in-out infinite;
 }
 
 .animate-random-meaning-style-1 {
-  animation: random-meaning-style-1 2.2s ease-in-out infinite;
+  animation: random-meaning-style-1 1.3s ease-in-out infinite;
 }
 
 .animate-random-meaning-style-2 {
-  animation: random-meaning-style-2 2.7s ease-in-out infinite;
+  animation: random-meaning-style-2 1.7s ease-in-out infinite;
 }
 
 .animate-random-meaning-style-3 {
-  animation: random-meaning-style-3 2.4s ease-in-out infinite;
+  animation: random-meaning-style-3 1.4s ease-in-out infinite;
 }
