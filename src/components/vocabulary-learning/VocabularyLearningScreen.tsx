@@ -1,12 +1,17 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import { Button } from "@/components/ui/button";
-import { Progress } from "@/components/ui/progress";
 import { Card } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import { ArrowLeft, Volume2, BookOpen, Target, Lightbulb, Zap, Clock } from "lucide-react";
 import { type LexicalItem } from "../reading/utils/textProcessing";
+import { AudioEffectsManager } from "./audio/AudioEffects";
+import { generateCardPattern, selectPattern, type DrillingInstance, type IntensityPhase } from "./patterns/CardPatternGenerator";
+import { DrillingPhase } from "./phases/DrillingPhase";
+import { ExpansionPhase } from "./phases/ExpansionPhase";
+import { ApplicationPhase } from "./phases/ApplicationPhase";
+import { SummaryPhase } from "./phases/SummaryPhase";
+import { Progress } from "@radix-ui/react-progress";
+import { Target, Badge, Volume2, ArrowLeft } from "lucide-react";
+import { Button } from "../ui/button";
 
 interface VocabularyLearningScreenProps {
   lexicalItem: LexicalItem;
@@ -21,31 +26,18 @@ export function VocabularyLearningScreen({
   onBack,
   onComplete,
 }: VocabularyLearningScreenProps) {
-  const [phase, setPhase] = useState<LearningPhase>("priming");
+  const [phase, setPhase] = useState<LearningPhase>("drilling");
   const [progress, setProgress] = useState(0);
-  const [drillingInstances, setDrillingInstances] = useState<Array<{ 
-    id: number; 
-    x: number; 
-    y: number; 
-    opacity: number;
-    pattern: string;
-    size: 'normal' | 'large' | 'mega';
-  }>>([]);
-  const [expandedMeaning, setExpandedMeaning] = useState(false);
+  const [drillingInstances, setDrillingInstances] = useState<DrillingInstance[]>([]);
   const [showCentralCard, setShowCentralCard] = useState(true);
-  const [summaryCountdown, setSummaryCountdown] = useState(5);
-  const [expansionCountdown, setExpansionCountdown] = useState(5);
-  const [applicationCountdown, setApplicationCountdown] = useState(5);
-  const [currentSpeechRate, setCurrentSpeechRate] = useState(0.6); // Start slower for gradual build
-  const [intensityPhase, setIntensityPhase] = useState<'low' | 'medium' | 'high'>('low');
+  const [currentSpeechRate, setCurrentSpeechRate] = useState(0.6);
+  const [intensityPhase, setIntensityPhase] = useState<IntensityPhase>('low');
   const [drillingTime, setDrillingTime] = useState(0);
   const [isElectricShock, setIsElectricShock] = useState(false);
-  const audioRef = useRef<HTMLAudioElement | null>(null);
-  const audioContextRef = useRef<AudioContext | null>(null);
-  const drillingIntervalRef = useRef<NodeJS.Timeout | null>(null);
-  const progressIntervalRef = useRef<NodeJS.Timeout | null>(null);
+  const [isSpeaking, setIsSpeaking] = useState(false);
+
+  const audioManager = useRef<AudioEffectsManager>(new AudioEffectsManager());
   const summaryIntervalRef = useRef<NodeJS.Timeout | null>(null);
-  const backgroundMusicRef = useRef<NodeJS.Timeout | null>(null);
   const instanceCounterRef = useRef(0);
 
   // Clean vocabulary text by removing grammar annotations
@@ -61,508 +53,131 @@ export function VocabularyLearningScreen({
     }, 150); // Short electric shock duration for maximum brain impact
   };
 
-  // Pattern generation module for card appearances
-  const generateCardPattern = (patternType: string, count: number, intensityPhase: 'low' | 'medium' | 'high') => {
-    const patterns = {
-      random: () => ({
-        x: Math.random() * 80 + 10,
-        y: Math.random() * 80 + 10,
-        size: intensityPhase === 'low' ? 'normal' : intensityPhase === 'medium' ? 'large' : 'mega'
-      }),
-      
-      topToBottom: (index: number) => ({
-        x: Math.random() * 60 + 20,
-        y: (index * 25) + Math.random() * 10,
-        size: intensityPhase === 'low' ? 'large' : intensityPhase === 'medium' ? 'mega' : 'mega'
-      }),
-      
-      leftToRight: (index: number) => ({
-        x: (index * 25) + Math.random() * 10,
-        y: Math.random() * 60 + 20,
-        size: intensityPhase === 'low' ? 'large' : intensityPhase === 'medium' ? 'mega' : 'mega'
-      }),
-      
-      diagonal: (index: number) => ({
-        x: (index * 20) + Math.random() * 15,
-        y: (index * 20) + Math.random() * 15,
-        size: intensityPhase === 'low' ? 'large' : intensityPhase === 'medium' ? 'mega' : 'mega'
-      }),
-      
-      corners: (index: number) => {
-        const corners = [
-          { x: 10, y: 10 }, // top-left
-          { x: 80, y: 10 }, // top-right
-          { x: 10, y: 80 }, // bottom-left
-          { x: 80, y: 80 }  // bottom-right
-        ];
-        const corner = corners[index % 4];
-        return {
-          x: corner.x + Math.random() * 15,
-          y: corner.y + Math.random() * 15,
-          size: 'mega' as const
-        };
-      },
-      
-      circle: (index: number) => {
-        const angle = (index * 60) + Math.random() * 30; // degrees
-        const radius = 25 + Math.random() * 15;
-        const centerX = 50;
-        const centerY = 50;
-        return {
-          x: centerX + radius * Math.cos(angle * Math.PI / 180),
-          y: centerY + radius * Math.sin(angle * Math.PI / 180),
-          size: intensityPhase === 'low' ? 'large' : 'mega'
-        };
-      },
-      
-      wave: (index: number) => ({
-        x: (index * 15) + Math.random() * 10,
-        y: 50 + 20 * Math.sin(index * 0.5) + Math.random() * 10,
-        size: intensityPhase === 'low' ? 'large' : intensityPhase === 'medium' ? 'mega' : 'mega'
-      }),
-      
-      spiral: (index: number) => {
-        const angle = index * 45;
-        const radius = 5 + index * 3;
-        const centerX = 50;
-        const centerY = 50;
-        return {
-          x: centerX + radius * Math.cos(angle * Math.PI / 180),
-          y: centerY + radius * Math.sin(angle * Math.PI / 180),
-          size: 'mega' as const
-        };
-      }
-    };
-
-    const results = [];
-    const patternFunc = patterns[patternType as keyof typeof patterns] || patterns.random;
-    
-    for (let i = 0; i < count; i++) {
-      const position = patternFunc(i);
-      results.push({
-        ...position,
-        size: position.size as 'normal' | 'large' | 'mega'
-      });
-    }
-    
-    return results;
-  };
-
-  // Pattern selector based on time and intensity
-  const selectPattern = (time: number, intensity: 'low' | 'medium' | 'high') => {
-    const timeSlot = Math.floor(time / 2.5); // Change pattern every 2.5 seconds
-    const patterns = ['random', 'topToBottom', 'leftToRight', 'diagonal', 'corners', 'circle', 'wave', 'spiral'];
-    
-    if (intensity === 'low') {
-      return patterns[timeSlot % 3]; // Use first 3 patterns (simpler)
-    } else if (intensity === 'medium') {
-      return patterns[timeSlot % 6]; // Use first 6 patterns
-    } else {
-      return patterns[timeSlot % patterns.length]; // Use all patterns
-    }
-  };
-
   // Get clean word for display
   const cleanTargetWord = cleanVocabularyText(lexicalItem.targetLexeme);
 
-  // Initialize Audio Context for background sounds
-  const initAudioContext = () => {
-    if (!audioContextRef.current && 'AudioContext' in window) {
-      audioContextRef.current = new AudioContext();
-    }
-  };
-
-  // Advanced Audio System with Multiple Sound Types
-
-  // Create rhythmic background beats with different wave types
-  const playBackgroundBeat = (frequency: number, duration: number, volume: number = 0.1, type: OscillatorType = 'sine') => {
-    if (!audioContextRef.current) return;
-
-    const oscillator = audioContextRef.current.createOscillator();
-    const gainNode = audioContextRef.current.createGain();
-    const filter = audioContextRef.current.createBiquadFilter();
-
-    oscillator.connect(filter);
-    filter.connect(gainNode);
-    gainNode.connect(audioContextRef.current.destination);
-
-    oscillator.frequency.setValueAtTime(frequency, audioContextRef.current.currentTime);
-    oscillator.type = type;
-    filter.type = 'lowpass';
-    filter.frequency.setValueAtTime(frequency * 2, audioContextRef.current.currentTime);
-
-    gainNode.gain.setValueAtTime(0, audioContextRef.current.currentTime);
-    gainNode.gain.linearRampToValueAtTime(volume, audioContextRef.current.currentTime + 0.01);
-    gainNode.gain.exponentialRampToValueAtTime(0.01, audioContextRef.current.currentTime + duration);
-
-    oscillator.start();
-    oscillator.stop(audioContextRef.current.currentTime + duration);
-  };
-
-  // Dynamic drilling beat that scales with intensity
-  const playDrillingBeat = (phase: 'low' | 'medium' | 'high') => {
-    if (!audioContextRef.current) return;
-
-    const configs = {
-      low: {
-        mainFreq: 220, mainVol: 0.08, mainDur: 0.2,
-        bassFreq: 110, bassVol: 0.05, bassDur: 0.25,
-        hihatFreq: 800, hihatVol: 0.04, hihatDur: 0.08,
-        layers: 1
-      },
-      medium: {
-        mainFreq: 330, mainVol: 0.12, mainDur: 0.15,
-        bassFreq: 165, bassVol: 0.08, bassDur: 0.2,
-        hihatFreq: 1200, hihatVol: 0.06, hihatDur: 0.06,
-        layers: 2
-      },
-      high: {
-        mainFreq: 440, mainVol: 0.16, mainDur: 0.1,
-        bassFreq: 220, bassVol: 0.12, bassDur: 0.15,
-        hihatFreq: 1600, hihatVol: 0.08, hihatDur: 0.04,
-        layers: 3
-      }
-    };
-
-    const config = configs[phase];
-
-    // Main beat
-    playBackgroundBeat(config.mainFreq, config.mainDur, config.mainVol, 'square');
-
-    // Sub bass
-    playBackgroundBeat(config.bassFreq, config.bassDur, config.bassVol, 'sawtooth');
-
-    // High hat
-    setTimeout(() =>
-      playBackgroundBeat(config.hihatFreq, config.hihatDur, config.hihatVol, 'triangle'), 30
-    );
-
-    // Additional layers for higher intensity
-    if (config.layers >= 2) {
-      setTimeout(() =>
-        playBackgroundBeat(config.mainFreq * 1.5, config.mainDur * 0.8, config.mainVol * 0.7, 'triangle'), 60
-      );
-    }
-
-    if (config.layers >= 3) {
-      setTimeout(() =>
-        playBackgroundBeat(config.bassFreq * 0.5, config.bassDur * 1.2, config.bassVol * 0.8, 'sawtooth'), 90
-      );
-      setTimeout(() =>
-        playBackgroundBeat(config.hihatFreq * 1.5, config.hihatDur * 0.6, config.hihatVol * 0.9, 'square'), 120
-      );
-    }
-  };
-
-  // Bass drop effect
-  const playBassDrop = () => {
-    if (!audioContextRef.current) return;
-
-    const oscillator = audioContextRef.current.createOscillator();
-    const gainNode = audioContextRef.current.createGain();
-
-    oscillator.connect(gainNode);
-    gainNode.connect(audioContextRef.current.destination);
-
-    oscillator.type = 'sawtooth';
-    oscillator.frequency.setValueAtTime(80, audioContextRef.current.currentTime);
-    oscillator.frequency.exponentialRampToValueAtTime(40, audioContextRef.current.currentTime + 0.8);
-
-    gainNode.gain.setValueAtTime(0, audioContextRef.current.currentTime);
-    gainNode.gain.linearRampToValueAtTime(0.15, audioContextRef.current.currentTime + 0.1);
-    gainNode.gain.exponentialRampToValueAtTime(0.01, audioContextRef.current.currentTime + 0.8);
-
-    oscillator.start();
-    oscillator.stop(audioContextRef.current.currentTime + 0.8);
-  };
-
-  // Create epic success chord progression
-  const playSuccessSound = () => {
-    if (!audioContextRef.current) return;
-
-    // Major chord progression: C - E - G - C (higher)
-    const chordProgression = [
-      [523.25, 659.25, 783.99], // C Major
-      [659.25, 830.61, 987.77], // E Major
-      [783.99, 987.77, 1174.66] // G Major
-    ];
-
-    chordProgression.forEach((chord, chordIndex) => {
-      chord.forEach((freq, noteIndex) => {
-        setTimeout(() => {
-          playBackgroundBeat(freq, 0.6, 0.1, 'triangle');
-        }, chordIndex * 200 + noteIndex * 50);
-      });
-    });
-  };
-
-  // Victory fanfare
-  const playVictoryFanfare = () => {
-    if (!audioContextRef.current) return;
-
-    const melody = [523.25, 659.25, 783.99, 1046.5]; // C, E, G, C
-    melody.forEach((freq, index) => {
-      setTimeout(() => {
-        playBackgroundBeat(freq, 0.4, 0.12, 'triangle');
-      }, index * 150);
-    });
-
-    // Add bass line
-    setTimeout(() => {
-      playBackgroundBeat(130.81, 1.5, 0.1, 'sawtooth'); // C bass
-    }, 300);
-  };
-
-  // Speech synthesis for pronunciation with dynamic rate
-  const speakText = (text: string, rate?: number) => {
+  // Speech function with completion tracking
+  const speakText = (text: string, rate?: number, onComplete?: () => void) => {
     if ('speechSynthesis' in window) {
-      const utterance = new SpeechSynthesisUtterance(cleanVocabularyText(text));
+      const cleanText = cleanVocabularyText(text);
+      const utterance = new SpeechSynthesisUtterance(cleanText);
       utterance.lang = 'en-US';
       utterance.rate = rate || currentSpeechRate;
       utterance.volume = 0.8;
+      
+      setIsSpeaking(true);
+      
+      utterance.onend = () => {
+        setIsSpeaking(false);
+        if (onComplete) onComplete();
+      };
+      
+      utterance.onerror = () => {
+        setIsSpeaking(false);
+        if (onComplete) onComplete();
+      };
+      
       speechSynthesis.speak(utterance);
     }
   };
 
-  // Phase 1: Priming (2 seconds)
-  useEffect(() => {
-    if (phase === "priming") {
-      initAudioContext();
-      // Play a gentle intro sound
-      setTimeout(() => {
-        playBackgroundBeat(220, 0.5, 0.08, 'sine'); // Low A note
-        playBassDrop(); // Add bass drop for impact
-      }, 500);
 
-      const timer = setTimeout(() => {
-        setPhase("drilling");
-      }, 2000);
-      return () => clearTimeout(timer);
-    }
-  }, [phase]);
 
-  // Phase 2: FIXED 3-PHASE PROGRESSIVE DRILLING SYSTEM (15 seconds total)
+  // Main Drilling Phase - Speech-Synchronized Learning
   useEffect(() => {
     if (phase === "drilling") {
       setDrillingTime(0);
       setIntensityPhase('low');
       setProgress(0);
       
-      let localTime = 0;
-      let localIntensity: 'low' | 'medium' | 'high' = 'low';
+      let speechCount = 0;
+      let localIntensity: IntensityPhase = 'low';
+      const totalSpeechCycles = 12; // Total number of speech cycles
 
-      // Main time tracker
-      const timeTracker = setInterval(() => {
-        localTime += 0.1;
-        setDrillingTime(localTime);
-
-        // Update intensity
-        if (localTime <= 5) {
+      const nextSpeechCycle = () => {
+        speechCount++;
+        
+        // Update intensity based on speech count
+        if (speechCount <= 4) {
           localIntensity = 'low';
           setIntensityPhase('low');
-        } else if (localTime <= 12) {
+        } else if (speechCount <= 8) {
           localIntensity = 'medium';
           setIntensityPhase('medium');
-        } else if (localTime <= 15) {
+        } else {
           localIntensity = 'high';
           setIntensityPhase('high');
-        } else {
-          setPhase("expansion");
-          return;
         }
 
-        // Update progress
-        setProgress(Math.round(Math.min((localTime / 15) * 100, 99)));
+        // Update progress based on completed speech cycles
+        const progressValue = Math.round((speechCount / totalSpeechCycles) * 100);
+        setProgress(Math.min(progressValue, 100));
+        setDrillingTime(speechCount * 1.2); // Approximate time
 
-        // Card visibility
-        if ((localTime >= 3 && localTime <= 6) || (localTime >= 9 && localTime <= 13)) {
+        // Card visibility control
+        if ((speechCount >= 2 && speechCount <= 4) || (speechCount >= 6 && speechCount <= 9)) {
           setShowCentralCard(false);
         } else {
           setShowCentralCard(true);
         }
-      }, 100);
 
-      // Drilling instances - pattern-based intervals
-      const instanceTimer = setInterval(() => {
+        // Generate pattern-based cards
         const count = localIntensity === 'low' ? 2 : localIntensity === 'medium' ? 3 : 5;
-        const duration = localIntensity === 'low' ? 2500 : localIntensity === 'medium' ? 2000 : 1500;
-        const currentPattern = selectPattern(localTime, localIntensity);
+        const duration = localIntensity === 'low' ? 3000 : localIntensity === 'medium' ? 2500 : 2000;
+        const currentPattern = selectPattern(speechCount, localIntensity);
         const positions = generateCardPattern(currentPattern, count, localIntensity);
         
         positions.forEach((position, i) => {
           setTimeout(() => {
-            const newInstance = {
+            const newInstance: DrillingInstance = {
               id: instanceCounterRef.current++,
-              x: Math.max(5, Math.min(90, position.x)), // Ensure within bounds
-              y: Math.max(5, Math.min(90, position.y)), // Ensure within bounds
+              x: Math.max(5, Math.min(90, position.x)),
+              y: Math.max(5, Math.min(90, position.y)),
               opacity: 1,
               pattern: currentPattern,
               size: position.size,
             };
 
             setDrillingInstances(prev => [...prev, newInstance]);
-
             setTimeout(() => {
               setDrillingInstances(prev => prev.filter(instance => instance.id !== newInstance.id));
             }, duration);
-          }, i * 100); // Staggered appearance for pattern effect
+          }, i * 150);
         });
-      }, 600); // Slightly slower for better pattern visibility
 
-      // Speech pattern - fixed interval
-      const speechTimer = setInterval(() => {
-        const rate = localIntensity === 'low' ? 0.6 : localIntensity === 'medium' ? 0.8 : 1.1;
-        setCurrentSpeechRate(rate);
-        speakText(lexicalItem.targetLexeme, rate);
-        playDrillingBeat(localIntensity);
-        
-        // Trigger electric shock effect randomly for brain impact
-        if (Math.random() < 0.4) { // 40% chance
-          setTimeout(() => triggerElectricShock(), Math.random() * 500);
+        // Electric shock triggers
+        if (Math.random() < 0.4) {
+          setTimeout(() => triggerElectricShock(), Math.random() * 800);
         }
-        
-        // Additional shock triggers for high intensity
         if (localIntensity === 'high' && Math.random() < 0.3) {
-          setTimeout(() => triggerElectricShock(), Math.random() * 300 + 200);
+          setTimeout(() => triggerElectricShock(), Math.random() * 400 + 300);
         }
-      }, 900);
 
-      // Bass pattern - fixed interval
-      const bassTimer = setInterval(() => {
-        const volume = localIntensity === 'low' ? 0.05 : localIntensity === 'medium' ? 0.08 : 0.12;
-        playBackgroundBeat(110, 0.25, volume, 'sawtooth');
-
-        if (localIntensity === 'high') {
-          setTimeout(() => playBackgroundBeat(60, 0.1, 0.15, 'square'), 100);
-          setTimeout(() => playBackgroundBeat(220, 0.15, 0.1, 'triangle'), 200);
+        // Continue or complete
+        if (speechCount >= totalSpeechCycles) {
+          // Learning complete - return to reading screen
+          setTimeout(() => {
+            onBack();
+          }, 1500);
+        } else {
+          // Speak next cycle after a brief pause
+          setTimeout(() => {
+            const rate = localIntensity === 'low' ? 0.6 : localIntensity === 'medium' ? 0.8 : 1.1;
+            setCurrentSpeechRate(rate);
+            speakText(lexicalItem.targetLexeme, rate, nextSpeechCycle);
+          }, 200);
         }
-      }, 1200);
-
-      return () => {
-        clearInterval(timeTracker);
-        clearInterval(instanceTimer);
-        clearInterval(speechTimer);
-        clearInterval(bassTimer);
       };
-    }
-  }, [phase, lexicalItem.targetLexeme]);
 
-  // Phase 3: Expansion with countdown
-  useEffect(() => {
-    if (phase === "expansion") {
-      setDrillingInstances([]); // Clear drilling instances
-      setExpansionCountdown(5);
-
-      // Play expansion sound with layered effect
-      playBackgroundBeat(440, 1.0, 0.1, 'triangle'); // A note for expansion
-      setTimeout(() => playBackgroundBeat(880, 0.8, 0.08, 'sine'), 200); // Higher harmony
-
+      // Start first speech cycle
       setTimeout(() => {
-        setExpandedMeaning(true);
-        // Play epic enlightenment chord
-        playSuccessSound();
-        setTimeout(() => playVictoryFanfare(), 400); // Add fanfare
+        const rate = 0.6;
+        setCurrentSpeechRate(rate);
+        speakText(lexicalItem.targetLexeme, rate, nextSpeechCycle);
       }, 500);
-
-      // Countdown timer
-      const expansionTimer = setInterval(() => {
-        setExpansionCountdown(prev => {
-          if (prev > 1) {
-            playBackgroundBeat(600, 0.1, 0.08, 'triangle'); // Higher tick sound
-          }
-          if (prev <= 1) {
-            setPhase("application");
-            return 0;
-          }
-          return prev - 1;
-        });
-      }, 1000);
-
-      return () => {
-        clearInterval(expansionTimer);
-      };
     }
-  }, [phase]);
+  }, [phase, lexicalItem.targetLexeme, onBack]);
 
-  // Phase 4: Application with countdown
-  useEffect(() => {
-    if (phase === "application") {
-      setApplicationCountdown(5);
-
-      // Speak the example sentence
-      setTimeout(() => {
-        if (lexicalItem.phase3Production?.content) {
-          speakText(lexicalItem.phase3Production.content, 0.9);
-        }
-      }, 500);
-
-      // Final rapid repetition with controlled speed
-      setTimeout(() => {
-        const rapidSpeak = () => {
-          speakText(lexicalItem.targetLexeme, 1.0);
-        };
-
-        for (let i = 0; i < 2; i++) { // Reduced to 2 for faster pace
-          setTimeout(rapidSpeak, i * 300);
-        }
-      }, 1500);
-
-      // Countdown timer
-      const applicationTimer = setInterval(() => {
-        setApplicationCountdown(prev => {
-          if (prev > 1) {
-            playBackgroundBeat(700, 0.1, 0.09, 'square'); // Even higher tick sound
-          }
-          if (prev <= 1) {
-            setPhase("summary");
-            return 0;
-          }
-          return prev - 1;
-        });
-      }, 1000);
-
-      return () => {
-        clearInterval(applicationTimer);
-      };
-    }
-  }, [phase, lexicalItem]);
-
-  // Phase 5: Summary with countdown
-  useEffect(() => {
-    if (phase === "summary") {
-      setSummaryCountdown(5);
-
-      // Play epic celebration sound sequence
-      playVictoryFanfare();
-      setTimeout(() => playSuccessSound(), 600);
-      setTimeout(() => playVictoryFanfare(), 1200);
-      setTimeout(() => playBassDrop(), 1800); // Epic bass drop
-
-      summaryIntervalRef.current = setInterval(() => {
-        setSummaryCountdown(prev => {
-          // Play dramatic countdown tick sound
-          if (prev > 1) {
-            playBackgroundBeat(800, 0.12, 0.1, 'triangle'); // Highest tick sound
-            // Add harmonic
-            setTimeout(() => playBackgroundBeat(1600, 0.08, 0.06, 'sine'), 50);
-          }
-
-          if (prev <= 1) {
-            setPhase("completed");
-            onComplete?.();
-            return 0;
-          }
-          return prev - 1;
-        });
-      }, 1000);
-
-      return () => {
-        if (summaryIntervalRef.current) {
-          clearInterval(summaryIntervalRef.current);
-        }
-      };
-    }
-  }, [phase, onComplete]);
 
   const renderPrimingPhase = () => (
     <div className="relative min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-indigo-900 flex items-center justify-center overflow-hidden">
@@ -701,7 +316,7 @@ export function VocabularyLearningScreen({
           };
 
           const config = sizeConfigs[instance.size];
-          
+
           return (
             <div
               key={instance.id}
@@ -791,27 +406,6 @@ export function VocabularyLearningScreen({
                 <div className={`${config.meaningSize} font-black ${isElectricShock ? 'text-white animate-flash-bright drop-shadow-[0_0_30px_rgba(255,255,255,1)]' : `bg-gradient-to-r ${config.meaningColors} bg-clip-text text-transparent`} animate-rainbow-text mb-8 transition-all duration-150`}>
                   {lexicalItem.phase2Annotation?.translationVI}
                 </div>
-
-                {/* Timing Display */}
-                <div className={`text-xl font-bold ${isElectricShock ? 'text-white bg-black' : 'text-white bg-black/50'} px-4 py-2 rounded-full inline-block transition-all duration-150`}>
-                  {intensityPhase.toUpperCase()} PHASE: {drillingTime.toFixed(1)}s
-                </div>
-
-                {/* Dimmed Phonetic */}
-                <div className={`text-xl ${isElectricShock ? 'text-white bg-black' : 'text-blue-600 bg-white/30 border-blue-200'} font-mono px-6 py-3 rounded-full border-2 opacity-60 mb-6 transition-all duration-150`}>
-                  {lexicalItem.phase2Annotation?.phonetic}
-                </div>
-
-                {/* Dimmed Button */}
-                {/* <Button
-                  variant="ghost"
-                  size="lg"
-                  onClick={() => speakText(lexicalItem.targetLexeme)}
-                  className="mt-6 text-lg p-6 bg-gradient-to-r from-blue-600 to-purple-600 text-white hover:scale-105 transform transition-all duration-300 shadow-xl opacity-70"
-                >
-                  <Volume2 className="w-6 h-6 mr-3" />
-                  NGHE PHÁT ÂM
-                </Button> */}
               </div>
             </Card>
           );
@@ -879,11 +473,11 @@ export function VocabularyLearningScreen({
             {cleanTargetWord}
           </div>
 
-          <div className="text-3xl text-blue-800 font-mono bg-white/60 px-8 py-4 rounded-full border-4 border-emerald-300 animate-phonetic-expansion shadow-2xl">
+          {/* <div className="text-3xl text-blue-800 font-mono bg-white/60 px-8 py-4 rounded-full border-4 border-emerald-300 animate-phonetic-expansion shadow-2xl">
             {lexicalItem.phase2Annotation?.phonetic}
-          </div>
+          </div> */}
 
-          <div className={`text-3xl font-black transition-all duration-2000 transform ${expandedMeaning
+          {/* <div className={`text-3xl font-black transition-all duration-2000 transform ${expandedMeaning
             ? "text-transparent bg-gradient-to-r from-emerald-600 to-cyan-600 bg-clip-text scale-110 animate-meaning-revelation"
             : "text-gray-600 scale-100"
             }`}>
@@ -891,9 +485,9 @@ export function VocabularyLearningScreen({
               ? `${lexicalItem.phase2Annotation?.translationVI} ⚡ ${lexicalItem.phase2Annotation?.definitionEN}`
               : lexicalItem.phase2Annotation?.translationVI
             }
-          </div>
+          </div> */}
 
-          {expandedMeaning && lexicalItem.phase2Annotation?.relatedCollocates && (
+          {/* {expandedMeaning && lexicalItem.phase2Annotation?.relatedCollocates && (
             <div className="mt-10 p-8 bg-gradient-to-br from-emerald-100 to-cyan-100 rounded-2xl animate-knowledge-panel border-4 border-emerald-300 shadow-2xl">
               <div className="flex flex-wrap gap-4 justify-center">
                 {lexicalItem.phase2Annotation.relatedCollocates.map((collocation, index) => (
@@ -908,9 +502,9 @@ export function VocabularyLearningScreen({
                 ))}
               </div>
             </div>
-          )}
+          )} */}
 
-          {expandedMeaning && lexicalItem.phase2Annotation?.wordForms && (
+          {/* {expandedMeaning && lexicalItem.phase2Annotation?.wordForms && (
             <div className="mt-8 p-8 bg-gradient-to-br from-blue-100 to-purple-100 rounded-2xl animate-knowledge-panel border-4 border-blue-300 shadow-2xl">
               <div className="grid grid-cols-2 gap-6 text-lg">
                 {Object.entries(lexicalItem.phase2Annotation.wordForms).map(([type, forms], typeIndex) =>
@@ -926,7 +520,7 @@ export function VocabularyLearningScreen({
                 )}
               </div>
             </div>
-          )}
+          )} */}
         </div>
       </Card>
     </div>
@@ -984,33 +578,6 @@ export function VocabularyLearningScreen({
           <div className="text-7xl font-black text-transparent bg-gradient-to-r from-amber-600 via-orange-600 to-red-600 bg-clip-text animate-word-mastery drop-shadow-2xl">
             {cleanTargetWord}
           </div>
-
-          {lexicalItem.phase3Production?.content && (
-            <div className="bg-gradient-to-br from-amber-100 to-orange-100 p-12 rounded-3xl border-4 border-amber-400 shadow-2xl animate-example-showcase relative overflow-hidden">
-              {/* Example Spotlight */}
-              <div className="absolute inset-0 bg-gradient-radial from-yellow-300/20 via-transparent to-transparent animate-example-spotlight"></div>
-
-              <div className="text-3xl text-gray-800 mb-8 leading-relaxed font-semibold p-6 bg-white/70 rounded-2xl border-2 border-amber-300 animate-example-text relative">
-                <div className="absolute -top-4 -left-4 text-6xl animate-quote-mark">"</div>
-                {lexicalItem.phase3Production.content}
-                <div className="absolute -bottom-4 -right-4 text-6xl animate-quote-mark-reverse">"</div>
-              </div>
-
-              <div className="text-2xl text-gray-700 italic font-medium p-4 bg-gradient-to-r from-orange-100 to-amber-100 rounded-xl border-2 border-orange-300 animate-translation-reveal">
-                🇻🇳 Tôi đang theo đuổi một lý tưởng cứ mãi xa tầm với.
-              </div>
-
-              <Button
-                variant="ghost"
-                size="lg"
-                onClick={() => speakText(lexicalItem.phase3Production?.content || '')}
-                className="mt-10 text-3xl p-10 bg-gradient-to-r from-amber-600 to-orange-600 text-white hover:scale-125 transform transition-all duration-500 shadow-2xl animate-mega-listen-button"
-              >
-                <Volume2 className="w-12 h-12 mr-6 animate-sound-wave" />
-                🔊 NGHE VÍ DỤ SIÊU ĐẲNG 🔊
-              </Button>
-            </div>
-          )}
 
           {/* Success Indicators */}
           <div className="flex justify-center gap-8 mt-12">
@@ -1090,12 +657,6 @@ export function VocabularyLearningScreen({
   return (
     <div className="fixed inset-0 z-50 overflow-hidden">
       <style jsx>{`
-        @keyframes fadeInOut {
-          0% { opacity: 0; transform: scale(0.8); }
-          50% { opacity: 1; transform: scale(1); }
-          100% { opacity: 0; transform: scale(0.8); }
-        }
-        
         @keyframes flash-bright {
           0% { 
             text-shadow: 0 0 10px rgba(255,255,255,0.8), 0 0 20px rgba(255,255,255,0.6), 0 0 30px rgba(255,255,255,0.4);
