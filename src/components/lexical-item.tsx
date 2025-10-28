@@ -80,7 +80,7 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
                 <Brain className="h-5 w-5 text-blue-500" />
                 <h4 className="font-bold text-xl text-foreground">{targetLexeme}</h4>
               </div>
-              {onLearnVocabulary && (
+              {/* {onLearnVocabulary && (
                 <Button
                   size="sm"
                   onClick={() => onLearnVocabulary(item)}
@@ -89,7 +89,7 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
                   <Zap className="h-4 w-4 mr-1" />
                   Học siêu tốc
                 </Button>
-              )}
+              )} */}
             </div>
 
             {/* Phase 1: User Guess Input */}
@@ -187,7 +187,7 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
           <div className="p-5">
             <div className="flex items-center justify-between gap-2 mb-2">
               <h4 className="font-bold text-2xl text-foreground">{targetLexeme}</h4>
-              {onLearnVocabulary && (
+              {/* {onLearnVocabulary && (
                 <Button
                   size="sm"
                   onClick={() => onLearnVocabulary(item)}
@@ -196,7 +196,7 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
                   <Zap className="h-4 w-4 mr-1" />
                   Học siêu tốc
                 </Button>
-              )}
+              )} */}
             </div>
             {phonetic && (
               <div className="my-2">
