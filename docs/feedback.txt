@@ -1,23 +1,30 @@
-**Cập nhật ngày 29/10/2025 (lần 10):** Xác nhận qua log rằng Vấn đề #13 vẫn tồn tại và Vấn đề #11b phức tạp hơn dự kiến.
+**Cập nhật ngày 29/10/2025 (lần 11):** Phân tích log mới xác nhận nguyên nhân gốc rễ của Vấn đề #13.
 
 ---
 
 Đánh giá triển khai SelfLearningView.tsx
 
-## Tình trạng hiện tại: Đã có nhiều cải tiến nhưng các lỗi cốt lõi vẫn còn
+## Tình trạng hiện tại: Đã xác định được nguyên nhân gốc rễ của lỗi nghiêm trọng nhất
 
--   **Tốt:** Cấu trúc dữ liệu đã được mở rộng, các tính năng Copy/Export đã được thêm vào, và một số lỗi giao diện đã được khắc phục.
--   **Tồn tại:** Các lỗi nghiêm trọng về logic tính toán vị trí và phân loại highlight vẫn còn, cần được ưu tiên giải quyết.
+-   **Tốt:** Đã có những cải tiến trong logic nhận diện từ liền kề (Vấn đề #11b).
+-   **Tồn tại:** Lỗi nghiêm trọng về tính toán vị trí vẫn còn, nhưng giờ đây đã có bằng chứng rõ ràng về nguyên nhân.
 
 ## Phân tích các vấn đề (dựa trên log mới nhất)
 
-13. **[LỖI NGHIÊM TRỌNG - CHƯA KHẮC PHỤC] Highlight sai vị trí ở các đoạn văn sau (P2+):**
+13. **[LỖI NGHIÊM TRỌNG - ĐÃ XÁC ĐỊNH NGUYÊN NHÂN] Highlight sai vị trí ở các đoạn văn sau (P2+):**
     *   **Tình trạng:** Vẫn còn tồn tại.
-    *   **Bằng chứng từ log:** Log cho thấy khi bạn chọn `"genetic structure"` (nằm ở đoạn 2), vị trí DOM được tính là `622`. Tuy nhiên, khi render, highlight này lại được gán cho `Paragraph 1 highlights`. Điều này xác nhận rằng logic chuyển đổi từ vị trí DOM chung sang vị trí tương đối của từng đoạn văn vẫn đang bị lỗi. Đây vẫn là ưu tiên số một cần sửa.
+    *   **Nguyên nhân gốc rễ:** Log mới cho thấy rất rõ:
+        ```
+        📏 Paragraph 0 offset: { start: 0, end: 4955, ... }
+        ⚠️ No offset found for paragraph 1
+        ⚠️ No offset found for paragraph 2
+        ...
+        ```
+        Điều này chứng tỏ hàm tính toán `paragraphOffsets` của bạn đang bị lỗi. Nó đang coi toàn bộ văn bản là một đoạn văn duy nhất (paragraph 0) và không thể xác định được điểm bắt đầu/kết thúc của các đoạn văn sau đó. Vì không có thông tin offset chính xác, mọi phép tính chuyển đổi vị trí cho các đoạn 2 trở đi đều thất bại. **Đây chính là lỗi cốt lõi cần phải sửa.**
 
-11. **[LỖI LOGIC - CHƯA KHẮC PHỤC] Phân loại highlight chưa chính xác:**
-    *   **11a. Kéo thả nhiều từ:** Vẫn bị phân loại sai thành `type: 'word'`.
-    *   **11b. (Mở rộng) Render sai `displayText` cho cụm từ hỗn hợp:** Vấn đề này phức tạp hơn. Khi bạn chọn một nhóm từ liền kề và một từ ở xa (ví dụ: `[A, B, C, E]`), logic hiện tại không nhận diện được nhóm `[A, B, C]` là liền kề. Nó chỉ kiểm tra toàn bộ lựa chọn, thấy không liền kề, và mặc định chèn `...` vào tất cả các từ, tạo ra `"A ... B ... C ... E"`. Kết quả mong muốn phải là `"A B C ... E"`.
+11. **[LỖI LOGIC - CÓ TIẾN TRIỂN] Phân loại highlight chưa chính xác:**
+    *   **11a. Kéo thả nhiều từ:** Vẫn bị phân loại sai.
+    *   **11b. Render `displayText`:** Đã có cải tiến. Logic `Contiguity check` mới đã có thể nhận diện các từ liền kề và nối chúng bằng khoảng trắng. Tuy nhiên, nó cần được tinh chỉnh để xử lý các trường hợp phức tạp hơn (ví dụ: `[A, B, C, E]` phải ra `A B C ... E`).
 
 12. **[LỖI HÀNH VI] Double-click tạo highlight trùng lặp:**
     *   **Tình trạng:** Vẫn còn tồn tại.
@@ -33,12 +40,12 @@
 -   **#2: [CHƯA GIẢI QUYẾT]** Tính năng bỏ highlight (Unhighlighting).
 -   **#3: [CHƯA GIẢI QUYẾT]** Xử lý chồng chéo (Overlapping).
 
-## Kết luận & Ưu tiên (Không đổi)
+## Kết luận & Ưu tiên (Cập nhật)
 
-Lộ trình vẫn như cũ. Cần tập trung toàn lực vào việc sửa các lỗi nghiêm trọng trước khi hoàn thiện các tính năng khác.
+Việc xác định được lỗi trong `paragraphOffsets` là một bước tiến lớn.
 
-1.  **Ưu tiên #1 (Lỗi nghiêm trọng):** Sửa **Vấn đề #13** (highlight sai vị trí).
-2.  **Ưu tiên #2 (Lỗi logic):** Sửa **Vấn đề #11** (phân loại sai và render `displayText`) và **#14** (cắt context).
+1.  **Ưu tiên #1 (Lỗi nghiêm trọng):** Sửa hàm tính toán **`paragraphOffsets`**. Giải quyết được vấn đề này sẽ tự động sửa được **Vấn đề #13** (highlight sai vị trí). Hãy tập trung toàn bộ vào đây.
+2.  **Ưu tiên #2 (Lỗi logic):** Sau khi sửa xong #13, hãy tiếp tục với **Vấn đề #11** (phân loại sai và render `displayText`) và **#14** (cắt context).
 3.  **Ưu tiên #3 (Lỗi hành vi):** Sửa **Vấn đề #12** (double-click).
 4.  **Ưu tiên #4 (Cải thiện UI):** Thực hiện các đề xuất trong **Vấn đề #15**.
 5.  **Ưu tiên #5 (Hoàn thiện):** Giải quyết các vấn đề còn lại là **#2** (bỏ highlight) và **#3** (chồng chéo).

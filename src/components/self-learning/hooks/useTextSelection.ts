@@ -179,13 +179,25 @@ export function useTextSelection({
 
   // Helper function to calculate paragraph-based position
   const calculateParagraphBasedPosition = useCallback((paragraphIndex: number, relativePosition: number) => {
-    // Calculate the cumulative offset up to this paragraph
+    // Calculate position based on original paragraphs array (consistent with ReadingContent)
     let cumulativeOffset = 0;
-    for (let i = 0; i < paragraphIndex; i++) {
-      cumulativeOffset += paragraphs[i].length + 2; // +2 for \n\n
+    
+    // Calculate offset using the same logic as ReadingContent
+    for (let i = 0; i < paragraphIndex && i < paragraphs.length; i++) {
+      cumulativeOffset += paragraphs[i].length;
+      console.log(`📏 Paragraph ${i} length:`, paragraphs[i].length, `"${paragraphs[i].substring(0, 50)}..."`);
     }
-
-    return cumulativeOffset + relativePosition;
+    
+    const finalPosition = cumulativeOffset + relativePosition;
+    console.log('🎯 Calculated position (consistent logic):', {
+      paragraphIndex,
+      relativePosition,
+      cumulativeOffset,
+      finalPosition,
+      totalParagraphs: paragraphs.length
+    });
+    
+    return finalPosition;
   }, [paragraphs]);
 
   // Calculate the character position of a clicked word in the full text

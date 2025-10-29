@@ -159,22 +159,51 @@ export function ReadingContent({
       );
     }
 
-    // Calculate text offsets for each paragraph
-    let currentOffset = 0;
+    // Calculate text offsets for each paragraph based on original paragraph data
     const paragraphOffsets: Array<{ start: number; end: number; text: string }> = [];
+    let currentOffset = 0;
 
-    paragraphs.forEach((paragraph) => {
+    paragraphs.forEach((paragraph, index) => {
       const start = currentOffset;
       const end = start + paragraph.length;
-      paragraphOffsets.push({ start, end, text: paragraph });
-      currentOffset = end + 2; // +2 for \n\n between paragraphs
+      
+      paragraphOffsets.push({ 
+        start, 
+        end, 
+        text: paragraph 
+      });
+      
+      console.log(`📏 Paragraph ${index} offset (from paragraphs array):`, {
+        start,
+        end,
+        length: paragraph.length,
+        text: paragraph.substring(0, 50) + '...'
+      });
+      
+      currentOffset = end; // Use paragraph text length directly
     });
 
     // Render each paragraph with its highlights
     return (
       <div className={cn("prose prose-lg max-w-none", lineSpacing)}>
         {paragraphs.map((paragraph, paragraphIndex) => {
+          // Use the corresponding offset if available, otherwise fallback
           const paragraphOffset = paragraphOffsets[paragraphIndex];
+          if (!paragraphOffset) {
+            console.log(`⚠️ No offset found for paragraph ${paragraphIndex}`);
+            return (
+              <motion.div
+                key={paragraphIndex}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: paragraphIndex * 0.1 }}
+                className="mb-8"
+              >
+                {renderTextSegmentWithWordClicks(paragraph, `paragraph-${paragraphIndex}`)}
+              </motion.div>
+            );
+          }
+          
           const paragraphStart = paragraphOffset.start;
           const paragraphEnd = paragraphOffset.end;
 
