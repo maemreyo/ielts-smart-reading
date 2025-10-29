@@ -9,6 +9,7 @@ import { BookText, FlipHorizontal, Spline, Wand2, Brain, Eye, ArrowRight, Zap, T
 import { cn } from "@/lib/utils";
 import { PhoneticZoom } from "./phonetic-zoom";
 import { useGuessStore } from "./reading/hooks/useGuessStore";
+import { useSpeech } from "@/hooks/useSpeech";
 import { type LexicalItem } from "./reading/utils/textProcessing";
 
 interface LexicalItemProps {
@@ -22,8 +23,10 @@ interface LexicalItemProps {
 
 export function LexicalItem({ item, children, hideTranslation = false, guessMode = false, theme = "light", onLearnVocabulary }: LexicalItemProps) {
   const [revealLevel, setRevealLevel] = useState(0); // 0: guess, 1: definition, 2: full
-  const [isSpeaking, setIsSpeaking] = useState(false);
   const { getGuess, setGuess } = useGuessStore();
+
+  // Use the new speech hook
+  const { isSpeaking, speak } = useSpeech({ rate: 0.8 });
   
   const {
     targetLexeme,
@@ -42,35 +45,13 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
   const formattedTranslation =
     translationVI.charAt(0).toLowerCase() + translationVI.slice(1);
 
-  // Clean vocabulary text by removing grammar annotations
-  const cleanVocabularyText = (text: string) => {
-    return text.replace(/\s*\([^)]*\)/g, '').trim();
-  };
-
-  // Text-to-speech function
-  const speakText = (text: string, rate: number = 0.8) => {
-    if ('speechSynthesis' in window) {
-      // Cancel any ongoing speech
-      window.speechSynthesis.cancel();
-
-      const cleanText = cleanVocabularyText(text);
-      const utterance = new SpeechSynthesisUtterance(cleanText);
-      utterance.lang = 'en-US';
-      utterance.rate = rate;
-      utterance.volume = 0.8;
-
-      setIsSpeaking(true);
-
-      utterance.onend = () => {
-        setIsSpeaking(false);
-      };
-
-      utterance.onerror = () => {
-        setIsSpeaking(false);
-      };
-
-      window.speechSynthesis.speak(utterance);
-    }
+  // Simplified speech function using the hook
+  const speakText = (text: string, rate?: number) => {
+    speak({
+      text,
+      lang: 'en-US',
+      rate: rate || 0.8
+    });
   };
 
   const sentimentClass = {
