@@ -5,7 +5,7 @@ import {
   PopoverTrigger,
 } from "@/components/ui/popover";
 import { Button } from "@/components/ui/button";
-import { BookText, FlipHorizontal, Spline, Wand2, Brain, Eye, ArrowRight, Zap, Target } from "lucide-react";
+import { BookText, FlipHorizontal, Spline, Wand2, Brain, Eye, ArrowRight, Zap, Target, Volume2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { PhoneticZoom } from "./phonetic-zoom";
 import { useGuessStore } from "./reading/hooks/useGuessStore";
@@ -22,6 +22,7 @@ interface LexicalItemProps {
 
 export function LexicalItem({ item, children, hideTranslation = false, guessMode = false, theme = "light", onLearnVocabulary }: LexicalItemProps) {
   const [revealLevel, setRevealLevel] = useState(0); // 0: guess, 1: definition, 2: full
+  const [isSpeaking, setIsSpeaking] = useState(false);
   const { getGuess, setGuess } = useGuessStore();
   
   const {
@@ -40,6 +41,37 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
 
   const formattedTranslation =
     translationVI.charAt(0).toLowerCase() + translationVI.slice(1);
+
+  // Clean vocabulary text by removing grammar annotations
+  const cleanVocabularyText = (text: string) => {
+    return text.replace(/\s*\([^)]*\)/g, '').trim();
+  };
+
+  // Text-to-speech function
+  const speakText = (text: string, rate: number = 0.8) => {
+    if ('speechSynthesis' in window) {
+      // Cancel any ongoing speech
+      window.speechSynthesis.cancel();
+
+      const cleanText = cleanVocabularyText(text);
+      const utterance = new SpeechSynthesisUtterance(cleanText);
+      utterance.lang = 'en-US';
+      utterance.rate = rate;
+      utterance.volume = 0.8;
+
+      setIsSpeaking(true);
+
+      utterance.onend = () => {
+        setIsSpeaking(false);
+      };
+
+      utterance.onerror = () => {
+        setIsSpeaking(false);
+      };
+
+      window.speechSynthesis.speak(utterance);
+    }
+  };
 
   const sentimentClass = {
     positive: "bg-highlight-positive text-highlight-positive-foreground",
@@ -69,17 +101,27 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
         </span>
       </PopoverTrigger>
       <PopoverContent className={cn(
-        "w-full max-w-sm md:max-w-md lg:max-w-lg shadow-xl rounded-xl border p-0",
+        "w-[90vw] max-w-sm md:max-w-md lg:max-w-lg shadow-xl rounded-xl border p-0 mx-2",
         themeClasses[theme as keyof typeof themeClasses]
-      )}>
+      )} align="start" side="bottom">
         {guessMode ? (
           /* Guess Mode UI */
-          <div className="p-5">
+          <div className="p-4 md:p-5">
             <div className="flex items-center justify-between gap-2 mb-4">
-              <div className="flex items-center gap-2">
-                <Brain className="h-5 w-5 text-blue-500" />
-                <h4 className="font-bold text-xl text-foreground">{targetLexeme}</h4>
+              <div className="flex items-center gap-2 flex-1 min-w-0">
+                <Brain className="h-5 w-5 text-blue-500 flex-shrink-0" />
+                <h4 className="font-bold text-lg md:text-xl text-foreground truncate">{targetLexeme}</h4>
               </div>
+              <Button
+                size="sm"
+                variant="ghost"
+                onClick={() => speakText(targetLexeme)}
+                disabled={isSpeaking}
+                className="flex-shrink-0 p-2 hover:bg-blue-100 dark:hover:bg-blue-900/30"
+                title="Pronounce word"
+              >
+                <Volume2 className={cn("h-4 w-4", isSpeaking ? "animate-pulse text-blue-600" : "text-muted-foreground")} />
+              </Button>
               {/* {onLearnVocabulary && (
                 <Button
                   size="sm"
@@ -184,9 +226,21 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
           </div>
         ) : (
           /* Normal Mode UI */
-          <div className="p-5">
+          <div className="p-4 md:p-5">
             <div className="flex items-center justify-between gap-2 mb-2">
-              <h4 className="font-bold text-2xl text-foreground">{targetLexeme}</h4>
+              <div className="flex items-center gap-2 flex-1 min-w-0">
+                <h4 className="font-bold text-xl md:text-2xl text-foreground truncate">{targetLexeme}</h4>
+              </div>
+              <Button
+                size="sm"
+                variant="ghost"
+                onClick={() => speakText(targetLexeme)}
+                disabled={isSpeaking}
+                className="flex-shrink-0 p-2 hover:bg-blue-100 dark:hover:bg-blue-900/30"
+                title="Pronounce word"
+              >
+                <Volume2 className={cn("h-4 w-4", isSpeaking ? "animate-pulse text-blue-600" : "text-muted-foreground")} />
+              </Button>
               {/* {onLearnVocabulary && (
                 <Button
                   size="sm"
@@ -213,7 +267,7 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
 
         {/* Additional Details - Show in normal mode or when fully revealed in guess mode */}
         {(!guessMode || revealLevel >= 2) && (
-          <div className="px-5 pb-5 space-y-5">
+          <div className="px-4 md:px-5 pb-4 md:pb-5 space-y-4 md:space-y-5">
             {!guessMode && (
               <div className="flex items-start space-x-3">
                 <BookText className="h-5 w-5 text-muted-foreground mt-1" />
@@ -223,41 +277,81 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
 
             {relatedCollocates && relatedCollocates.length > 0 && (
               <div className="flex items-start space-x-3">
-                <Spline className="h-5 w-5 text-muted-foreground mt-1" />
-                <div className="flex-1">
-                  <h5 className="font-semibold text-foreground">Collocates:</h5>
+                <Spline className="h-5 w-5 text-blue-500 mt-1 flex-shrink-0" />
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-center gap-2 mb-2">
+                    <h5 className="font-semibold text-blue-600 dark:text-blue-400">Collocates</h5>
+                    <span className="text-xs bg-blue-100 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400 px-2 py-1 rounded-full">
+                      {relatedCollocates.length}
+                    </span>
+                  </div>
                   <div className="flex flex-wrap gap-2 mt-2">
                     {relatedCollocates.map((collocate, index) => (
-                      <span
+                      <div
                         key={index}
-                        className="px-2 py-1 bg-muted text-muted-foreground rounded-md text-sm"
+                        className="group relative"
                       >
-                        {collocate}
-                      </span>
+                        <span
+                          className={cn(
+                            "inline-flex items-center gap-1 px-3 py-2 bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 text-blue-700 dark:text-blue-300 border border-blue-200 dark:border-blue-700/50 rounded-lg text-sm font-medium cursor-pointer transition-all duration-200 hover:from-blue-100 hover:to-indigo-100 hover:border-blue-300 hover:shadow-md hover:scale-105",
+                            "max-w-[150px] md:max-w-none"
+                          )}
+                          onClick={() => speakText(collocate)}
+                          title={`Click to pronounce: ${collocate}`}
+                        >
+                          <span className="truncate">{collocate}</span>
+                          <Volume2 className="h-3 w-3 opacity-0 group-hover:opacity-100 transition-opacity duration-200 flex-shrink-0" />
+                        </span>
+                      </div>
                     ))}
                   </div>
+                  <p className="text-xs text-muted-foreground mt-2 italic">
+                    💡 Click any collocate to hear its pronunciation
+                  </p>
                 </div>
               </div>
             )}
 
             {wordForms && (
               <div className="flex items-start space-x-3">
-                <Wand2 className="h-5 w-5 text-muted-foreground mt-1" />
-                <div className="flex-1">
-                  <h5 className="font-semibold text-foreground">Word Forms:</h5>
+                <Wand2 className="h-5 w-5 text-purple-500 mt-1 flex-shrink-0" />
+                <div className="flex-1 min-w-0">
+                  <h5 className="font-semibold text-purple-600 dark:text-purple-400">Word Forms</h5>
                   <div className="mt-2">
-                    <table className="w-full text-sm">
+                    {/* Mobile-friendly card layout */}
+                    <div className="space-y-2 md:hidden">
+                      {Object.entries(wordForms).map(
+                        ([type, forms]) =>
+                          forms &&
+                          (forms as any[]).length > 0 && (
+                            <div key={type} className="bg-purple-50 dark:bg-purple-900/20 p-3 rounded-lg border border-purple-200 dark:border-purple-700/50">
+                              <div className="font-medium text-purple-700 dark:text-purple-300 capitalize mb-1">
+                                {type}
+                              </div>
+                              <div className="text-sm text-purple-600 dark:text-purple-400">
+                                {(forms as any[])
+                                  .map(
+                                    (form) => `${form.form} (${form.meaning})`
+                                  )
+                                  .join(", ")}
+                              </div>
+                            </div>
+                          )
+                      )}
+                    </div>
+                    {/* Desktop table layout */}
+                    <table className="w-full text-sm hidden md:block">
                       <tbody>
                         {Object.entries(wordForms).map(
                           ([type, forms]) =>
                             forms &&
                             (forms as any[]).length > 0 &&
                             ((
-                              <tr key={type} className="border-b border-muted/50">
-                                <td className="py-2 font-medium text-foreground capitalize">
+                              <tr key={type} className="border-b border-purple-200 dark:border-purple-700/50">
+                                <td className="py-2 font-medium text-purple-700 dark:text-purple-300 capitalize pr-4">
                                   {type}
                                 </td>
-                                <td className="py-2 text-muted-foreground">
+                                <td className="py-2 text-purple-600 dark:text-purple-400">
                                   {(forms as any[])
                                     .map(
                                       (form) => `${form.form} (${form.meaning})`
@@ -279,7 +373,7 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
               <div className="flex items-start space-x-3">
                 <FlipHorizontal className="h-5 w-5 text-muted-foreground mt-1" />
                 <div className="flex-1">
-                  <h5 className="font-semibold text-foreground">Practice Example:</h5>
+                  <h5 className="font-semibold text-foreground">Practice Example</h5>
                   <p className="text-sm text-muted-foreground mt-1 italic">
                     "{phase3Production.content}"
                   </p>
