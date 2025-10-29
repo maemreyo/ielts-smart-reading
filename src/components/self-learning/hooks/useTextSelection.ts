@@ -129,51 +129,80 @@ export function useTextSelection({
   const findParagraphForDOMPosition = useCallback((range: Range) => {
     if (!contentRef.current) return { paragraphIndex: 0, relativePosition: 0 };
 
-    // Find the paragraph element that contains the selection
-    let container = range.commonAncestorContainer;
-
+    console.log('🔍 Starting DOM position search...');
+    
+    // Find the actual text node and element that contains the selection
+    let targetElement = range.startContainer;
+    
     // If we're in a text node, get its parent element
-    if (container.nodeType === Node.TEXT_NODE) {
-      container = container.parentElement;
+    if (targetElement.nodeType === Node.TEXT_NODE) {
+      targetElement = targetElement.parentNode;
     }
 
-    // Find the closest paragraph element within contentRef
-    let paragraphElement = container as Element;
-    while (paragraphElement && paragraphElement !== contentRef.current) {
-      if (paragraphElement.tagName === 'P' || paragraphElement.tagName === 'DIV') {
-        // Check if this is one of our rendered paragraphs by walking through the DOM structure
+    console.log('🎯 Target element:', targetElement);
+
+    // Walk up the DOM tree to find the motion.div container
+    let currentElement = targetElement as Element;
+    while (currentElement && currentElement !== contentRef.current) {
+      console.log('🔍 Checking element:', currentElement.tagName, currentElement.className);
+      
+      // Check if this element is a direct child of contentRef (motion.div)
+      if (currentElement.parentElement === contentRef.current) {
+        // This is a motion.div - find its index
         const contentChildren = Array.from(contentRef.current.children);
+        const motionDivIndex = contentChildren.indexOf(currentElement);
         
-        // Look for the paragraph within motion.div wrappers
-        for (let i = 0; i < contentChildren.length; i++) {
-          const motionDiv = contentChildren[i];
-          const paragraphElements = motionDiv.querySelectorAll('p');
-          
-          for (let j = 0; j < paragraphElements.length; j++) {
-            if (paragraphElements[j] === paragraphElement || paragraphElements[j].contains(paragraphElement)) {
-              // Calculate the relative position within this paragraph
-              const paragraphRange = document.createRange();
-              paragraphRange.selectNodeContents(paragraphElements[j]);
-              paragraphRange.setEnd(range.startContainer, range.startOffset);
-              const relativePosition = paragraphRange.toString().length;
+        console.log('🎯 Found motion.div at index:', motionDivIndex);
+        
+        if (motionDivIndex !== -1) {
+          // Calculate relative position within the paragraph
+          const paragraphElement = currentElement.querySelector('p');
+          if (paragraphElement) {
+            const paragraphRange = document.createRange();
+            paragraphRange.selectNodeContents(paragraphElement);
+            paragraphRange.setEnd(range.startContainer, range.startOffset);
+            const relativePosition = paragraphRange.toString().length;
 
-              console.log('🎯 Found paragraph:', {
-                paragraphIndex: i, // Use the motion div index as paragraph index
-                paragraphText: paragraphElements[j].textContent?.substring(0, 50) + '...',
-                relativePosition,
-                actualParagraphInDiv: j
-              });
+            console.log('🎯 Successfully found paragraph:', {
+              paragraphIndex: motionDivIndex,
+              paragraphText: paragraphElement.textContent?.substring(0, 50) + '...',
+              relativePosition,
+              motionDivElement: currentElement.tagName
+            });
 
-              return { paragraphIndex: i, relativePosition };
-            }
+            return { paragraphIndex: motionDivIndex, relativePosition };
           }
         }
       }
-      paragraphElement = paragraphElement.parentElement;
+      
+      currentElement = currentElement.parentElement;
     }
 
-    // Fallback: use the first paragraph
-    console.log('⚠️ Fallback to first paragraph');
+    // Enhanced fallback - try to find by comparing text content
+    console.log('⚠️ Direct method failed, trying text comparison fallback...');
+    
+    const selectionText = range.toString();
+    const contentChildren = Array.from(contentRef.current.children);
+    
+    for (let i = 0; i < contentChildren.length; i++) {
+      const motionDiv = contentChildren[i];
+      const textContent = motionDiv.textContent || '';
+      
+      if (textContent.includes(selectionText)) {
+        console.log('🎯 Found by text comparison:', {
+          paragraphIndex: i,
+          paragraphText: textContent.substring(0, 50) + '...',
+          selectionText
+        });
+        
+        // Calculate relative position
+        const selectionStart = textContent.indexOf(selectionText);
+        return { paragraphIndex: i, relativePosition: selectionStart };
+      }
+    }
+
+    // Final fallback
+    console.log('⚠️ All methods failed, using fallback to first paragraph');
     return { paragraphIndex: 0, relativePosition: 0 };
   }, [contentRef]);
 
@@ -473,29 +502,62 @@ export function useTextSelection({
         wordCount: g.words.length
       })));
 
-      // Create display text based on contiguous groups
+      // Create display text based on contiguous groups - FIXED LOGIC
       const displayTextParts: string[] = [];
+      
       contiguousGroups.forEach((group) => {
-        if (group.isContiguous) {
-          // Join contiguous words with spaces
+        if (group.isContiguous && group.words.length > 1) {
+          // Join contiguous words with spaces (e.g., "A B C")
           displayTextParts.push(group.words.map(w => w.word).join(' '));
         } else {
-          // For single words, add them individually
+          // For single words (including single words in non-contiguous groups), add them individually
           group.words.forEach(word => {
             displayTextParts.push(word.word);
           });
         }
       });
 
-      // Join groups with ellipsis if there are multiple non-contiguous parts
+      console.log('🔧 Display text parts before joining:', displayTextParts);
+
+      // Smart joining logic to avoid redundant ellipsis
       let displayText: string;
       if (displayTextParts.length === 1) {
+        // Only one part - just use it as is
         displayText = displayTextParts[0];
-      } else {
+      } else if (displayTextParts.length === 2) {
+        // Two parts - join with ellipsis
         displayText = displayTextParts.join(' ... ');
+      } else {
+        // Multiple parts - join with ellipsis but avoid creating "A ... B ... C"
+        // Instead, group consecutive single words if they form meaningful phrases
+        const optimizedParts: string[] = [];
+        let tempSingleWords: string[] = [];
+        
+        displayTextParts.forEach((part, index) => {
+          const isSingleWord = part.split(' ').length === 1;
+          
+          if (isSingleWord) {
+            tempSingleWords.push(part);
+          } else {
+            // This is a multi-word phrase
+            if (tempSingleWords.length > 0) {
+              // Add accumulated single words as separate parts
+              tempSingleWords.forEach(word => optimizedParts.push(word));
+              tempSingleWords = [];
+            }
+            optimizedParts.push(part);
+          }
+        });
+        
+        // Add any remaining single words
+        if (tempSingleWords.length > 0) {
+          tempSingleWords.forEach(word => optimizedParts.push(word));
+        }
+        
+        displayText = optimizedParts.join(' ... ');
       }
 
-      console.log('🎨 Final display text:', `"${displayText}"`);
+      console.log('🎨 Final display text (fixed logic):', `"${displayText}"`);
 
       const componentRanges = sortedWords.map((word) => {
         if (word.start !== undefined && word.end !== undefined && word.start !== -1) {

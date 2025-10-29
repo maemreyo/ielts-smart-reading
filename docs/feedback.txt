@@ -1,51 +1,32 @@
-**Cập nhật ngày 29/10/2025 (lần 11):** Phân tích log mới xác nhận nguyên nhân gốc rễ của Vấn đề #13.
+**Cập nhật ngày 29/10/2025 - Bắt đầu lại**
+
+**Tổng quan:** Đã có những bước tiến vượt bậc. Các vấn đề về cấu trúc dữ liệu, tính năng export, chống trùng lặp và layout đã được giải quyết. Tuy nhiên, một lỗi nghiêm trọng về logic tính toán vị trí vẫn còn.
 
 ---
 
-Đánh giá triển khai SelfLearningView.tsx
+## Phân tích các vấn đề còn lại
 
-## Tình trạng hiện tại: Đã xác định được nguyên nhân gốc rễ của lỗi nghiêm trọng nhất
+**1. [LỖI NGHIÊM TRỌNG] Không xác định đúng `paragraphIndex` từ DOM Selection:**
 
--   **Tốt:** Đã có những cải tiến trong logic nhận diện từ liền kề (Vấn đề #11b).
--   **Tồn tại:** Lỗi nghiêm trọng về tính toán vị trí vẫn còn, nhưng giờ đây đã có bằng chứng rõ ràng về nguyên nhân.
+*   **Vấn đề:** Khi người dùng kéo thả chuột để chọn văn bản ở các đoạn văn sau đoạn 1 (P2, P3,...), hệ thống vẫn xác định sai rằng lựa chọn đó thuộc về đoạn 1 (`paragraphIndex: 0`).
+*   **Bằng chứng từ log:**
+    *   Khi chọn text ở đoạn 2, log ghi: `🎯 Found paragraph: { paragraphIndex: 0, ... actualParagraphInDiv: 1 }`. Tìm đúng `div` nhưng sai `index`.
+    *   Khi chọn text ở đoạn 3, log ghi: `⚠️ Fallback to first paragraph`. Logic thất bại hoàn toàn.
+*   **Nguyên nhân gốc rễ:** Mặc dù mảng `paragraphOffsets` đã được tính toán chính xác, nhưng logic trong `handleMouseUp` (hoặc các hàm con của nó) đang không thể **ánh xạ** một cách đáng tin cậy từ một `div` (phần tử DOM) mà người dùng chọn sang `index` tương ứng của nó trong mảng `paragraphs`. Vì nó luôn trả về `paragraphIndex: 0`, các phép tính vị trí cho các đoạn sau đều sai.
+*   **Khuyến nghị:** Tập trung toàn lực vào việc sửa logic tìm `paragraphIndex` từ một DOM selection. Đây là ưu tiên tuyệt đối.
 
-## Phân tích các vấn đề (dựa trên log mới nhất)
+**2. [LỖI LOGIC] `displayText` cho cụm từ hỗn hợp (liền kề + không liền kề) bị sai:**
 
-13. **[LỖI NGHIÊM TRỌNG - ĐÃ XÁC ĐỊNH NGUYÊN NHÂN] Highlight sai vị trí ở các đoạn văn sau (P2+):**
-    *   **Tình trạng:** Vẫn còn tồn tại.
-    *   **Nguyên nhân gốc rễ:** Log mới cho thấy rất rõ:
-        ```
-        📏 Paragraph 0 offset: { start: 0, end: 4955, ... }
-        ⚠️ No offset found for paragraph 1
-        ⚠️ No offset found for paragraph 2
-        ...
-        ```
-        Điều này chứng tỏ hàm tính toán `paragraphOffsets` của bạn đang bị lỗi. Nó đang coi toàn bộ văn bản là một đoạn văn duy nhất (paragraph 0) và không thể xác định được điểm bắt đầu/kết thúc của các đoạn văn sau đó. Vì không có thông tin offset chính xác, mọi phép tính chuyển đổi vị trí cho các đoạn 2 trở đi đều thất bại. **Đây chính là lỗi cốt lõi cần phải sửa.**
+*   **Vấn đề:** Khi chọn một nhóm từ liền kề và một từ ở xa (ví dụ: `[A, B, C, E]`), `displayText` được tạo ra là `"A ... B ... C ... E"` thay vì `"A B C ... E"`.
+*   **Nguyên nhân:** Logic kiểm tra liền kề (`Contiguity check`) chưa đủ thông minh để nhận diện các "cụm con liền kề" bên trong một lựa chọn lớn hơn.
+*   **Khuyến nghị:** Nâng cấp logic tạo `displayText` để nó có thể xác định các nhóm liền kề và chỉ chèn `...` vào giữa các nhóm đó.
 
-11. **[LỖI LOGIC - CÓ TIẾN TRIỂN] Phân loại highlight chưa chính xác:**
-    *   **11a. Kéo thả nhiều từ:** Vẫn bị phân loại sai.
-    *   **11b. Render `displayText`:** Đã có cải tiến. Logic `Contiguity check` mới đã có thể nhận diện các từ liền kề và nối chúng bằng khoảng trắng. Tuy nhiên, nó cần được tinh chỉnh để xử lý các trường hợp phức tạp hơn (ví dụ: `[A, B, C, E]` phải ra `A B C ... E`).
+**3. [TÍNH NĂNG THIẾU] Bỏ highlight (Unhighlighting):**
 
-12. **[LỖI HÀNH VI] Double-click tạo highlight trùng lặp:**
-    *   **Tình trạng:** Vẫn còn tồn tại.
+*   **Vấn đề:** Vẫn chưa thể xóa một highlight bằng cách nhấp vào nó.
 
-14. **[LỖI LOGIC] Cắt `sourceContext` làm gãy từ:**
-    *   **Tình trạng:** Vẫn còn tồn tại.
+hị từ vựng cho đơn giản, trực quan hơn (chỉ cần `displayText`).
 
-15. **[ĐỀ XUẤT UI/UX] Cải thiện panel "Highlighted Vocabulary":**
-    *   **Tình trạng:** Chưa thực hiện.
+## Kết luận & Ưu tiên
 
-## Các vấn đề cũ chưa được giải quyết
-
--   **#2: [CHƯA GIẢI QUYẾT]** Tính năng bỏ highlight (Unhighlighting).
--   **#3: [CHƯA GIẢI QUYẾT]** Xử lý chồng chéo (Overlapping).
-
-## Kết luận & Ưu tiên (Cập nhật)
-
-Việc xác định được lỗi trong `paragraphOffsets` là một bước tiến lớn.
-
-1.  **Ưu tiên #1 (Lỗi nghiêm trọng):** Sửa hàm tính toán **`paragraphOffsets`**. Giải quyết được vấn đề này sẽ tự động sửa được **Vấn đề #13** (highlight sai vị trí). Hãy tập trung toàn bộ vào đây.
-2.  **Ưu tiên #2 (Lỗi logic):** Sau khi sửa xong #13, hãy tiếp tục với **Vấn đề #11** (phân loại sai và render `displayText`) và **#14** (cắt context).
-3.  **Ưu tiên #3 (Lỗi hành vi):** Sửa **Vấn đề #12** (double-click).
-4.  **Ưu tiên #4 (Cải thiện UI):** Thực hiện các đề xuất trong **Vấn đề #15**.
-5.  **Ưu tiên #5 (Hoàn thiện):** Giải quyết các vấn đề còn lại là **#2** (bỏ highlight) và **#3** (chồng chéo).
+1.  **Ưu tiên #1 (Lỗi nghiêm trọng):** Sửa **Vấn đề #1** (xác định sai `paragraphIndex`). Đây là lỗi chặn (blocker) cho toàn bộ chức năng highlight bằng cách kéo thả.
