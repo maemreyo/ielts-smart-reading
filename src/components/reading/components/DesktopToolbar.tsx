@@ -4,9 +4,6 @@ import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import { Slider } from "@/components/ui/slider";
 import {
-  Sun,
-  Moon,
-  BookOpen,
   Play,
   Pause,
   RotateCcw,
@@ -16,11 +13,10 @@ import {
   Heart,
   Eye,
   EyeOff,
-  Focus,
-  Globe,
-  Brain,
-  Keyboard,
   VolumeX,
+  Turtle,
+  Rabbit,
+  Gauge,
 } from "lucide-react";
 
 interface DesktopToolbarProps {
@@ -33,8 +29,8 @@ interface DesktopToolbarProps {
   startAutoScroll: () => void;
   stopAutoScroll: () => void;
   resetReading: () => void;
-  readingSpeed: number;
-  setReadingSpeed: (speed: number) => void;
+  speechRate: number;
+  setSpeechRate: (rate: number) => void;
 
   // Speech controls
   speechSupported: boolean;
@@ -62,21 +58,27 @@ interface DesktopToolbarProps {
 }
 
 const sentimentFilters = [
-  { name: "All", value: null, icon: <Heart size={18} />, color: "" },
-  { name: "Positive", value: "positive", icon: <Smile size={18} />, color: "text-green-600" },
-  { name: "Negative", value: "negative", icon: <Frown size={18} />, color: "text-red-600" },
-  { name: "Neutral", value: "neutral", icon: <Meh size={18} />, color: "text-gray-600" }
+  { name: "All", value: null, icon: <Heart size={18} />, color: "", colorClass: "bg-muted" },
+  { name: "Positive", value: "positive", icon: <Smile size={18} />, color: "text-green-600", colorClass: "bg-green-500" },
+  { name: "Negative", value: "negative", icon: <Frown size={18} />, color: "text-red-600", colorClass: "bg-red-500" },
+  { name: "Neutral", value: "neutral", icon: <Meh size={18} />, color: "text-gray-600", colorClass: "bg-gray-500" }
+];
+
+
+// Speech rate presets
+const speechRatePresets = [
+  { name: "Slow", rate: 0.85, icon: <Turtle size={16} /> },
+  { name: "Normal", rate: 1.00, icon: <Gauge size={16} /> },
+  { name: "Fast", rate: 1.15, icon: <Rabbit size={16} /> }
 ];
 
 export function DesktopToolbar({
-  theme,
-  setTheme,
   isPlaying,
   startAutoScroll,
   stopAutoScroll,
   resetReading,
-  readingSpeed,
-  setReadingSpeed,
+  speechRate,
+  setSpeechRate,
   // Speech controls
   speechSupported,
   isSpeaking,
@@ -89,42 +91,29 @@ export function DesktopToolbar({
   setSentimentFilter,
   dimOthers,
   setDimOthers,
-  focusMode,
-  setFocusMode,
-  hideTranslations,
-  setHideTranslations,
-  guessMode,
-  setGuessMode,
-  toggleShortcuts,
 }: DesktopToolbarProps) {
+
+  // Function to cycle through sentiment filters
+  const cycleSentimentFilter = () => {
+    const currentIndex = sentimentFilters.findIndex(f => f.value === sentimentFilter);
+    const nextIndex = (currentIndex + 1) % sentimentFilters.length;
+    setSentimentFilter(sentimentFilters[nextIndex].value);
+  };
+
+  // Get current sentiment filter info
+  const currentSentiment = sentimentFilters.find(f => f.value === sentimentFilter) || sentimentFilters[0];
+
+  // Function to cycle through speech rate presets
+  const cycleSpeechRatePreset = () => {
+    const currentIndex = speechRatePresets.findIndex(p => p.rate === speechRate);
+    const nextIndex = (currentIndex + 1) % speechRatePresets.length;
+    setSpeechRate(speechRatePresets[nextIndex].rate);
+  };
+
+  // Get current speech rate preset info
+  const currentSpeechRatePreset = speechRatePresets.find(p => p.rate === speechRate) || speechRatePresets[0];
   return (
     <div className="hidden md:flex items-center gap-3 flex-wrap">
-      {/* Theme Controls */}
-      <div className="flex items-center gap-1">
-        {[
-          { theme: "light", icon: <Sun size={18} />, title: "Light (1)" },
-          { theme: "sepia", icon: <BookOpen size={18} />, title: "Sepia (2)" },
-          { theme: "dark", icon: <Moon size={18} />, title: "Dark (3)" },
-        ].map(({ theme: t, icon, title }) => (
-          <motion.button
-            key={t}
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            onClick={() => setTheme(t)}
-            className={cn(
-              "p-2 rounded-lg transition-colors",
-              theme === t
-                ? "bg-primary text-primary-foreground"
-                : "hover:bg-muted"
-            )}
-            title={title}
-          >
-            {icon}
-          </motion.button>
-        ))}
-      </div>
-
-      <div className="h-5 w-px bg-border"></div>
 
       {/* Reading Controls */}
       <div className="flex items-center gap-1">
@@ -187,48 +176,64 @@ export function DesktopToolbar({
 
       <div className="h-5 w-px bg-border"></div>
 
-      {/* Reading Speed Control */}
+      {/* Speech Rate Control */}
       <div className="flex items-center gap-2 min-w-[120px]">
-        <span className="text-xs">WPM</span>
+        {/* <span className="text-xs">Rate</span> */}
         <Slider
-          value={[readingSpeed]}
-          onValueChange={([value]) => setReadingSpeed(value)}
-          max={400}
-          min={100}
-          step={25}
+          value={[speechRate]}
+          onValueChange={([value]) => setSpeechRate(value)}
+          max={2.0}
+          min={0.5}
+          step={0.05}
           className="flex-1"
         />
-        <span className="text-xs w-8">{readingSpeed}</span>
+        <span className="text-xs w-8">{speechRate.toFixed(2)}</span>
       </div>
 
-      <div className="h-5 w-px bg-border"></div>
-
-      {/* Sentiment Controls */}
+      {/* Speech Rate Presets - Stacked Layout */}
       <div className="flex items-center gap-1">
-        {sentimentFilters.map((filter) => (
-          <motion.button
-            key={filter.name}
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            onClick={() => setSentimentFilter(filter.value)}
-            className={cn(
-              "p-2 rounded-lg transition-colors",
-              sentimentFilter === filter.value
-                ? "bg-primary text-primary-foreground"
-                : `hover:bg-muted ${filter.color}`
-            )}
-            title={`${filter.name} sentiment (${filter.name
-              .charAt(0)
-              .toUpperCase()})`}
-          >
-            {filter.icon}
-          </motion.button>
-        ))}
+        <motion.button
+          whileHover={{ scale: 1.05 }}
+          whileTap={{ scale: 0.95, rotate: 180 }}
+          onClick={cycleSpeechRatePreset}
+          className={cn(
+            "p-2 rounded-lg transition-colors",
+            speechRate === currentSpeechRatePreset.rate
+              ? "bg-primary text-primary-foreground"
+              : "bg-muted hover:bg-muted/80"
+          )}
+          title={`${currentSpeechRatePreset.name} Speech Rate (${currentSpeechRatePreset.rate}x) - Click to cycle`}
+        >
+          <div className="flex flex-col items-center gap-0.5">
+            {currentSpeechRatePreset.icon}
+            <div className="w-1 h-1 bg-current rounded-full opacity-50"></div>
+          </div>
+        </motion.button>
       </div>
 
       <div className="h-5 w-px bg-border"></div>
 
-      {/* Advanced Controls */}
+      {/* Sentiment Filter - Single Cycling Button */}
+      <div className="flex items-center gap-1">
+        <motion.button
+          whileHover={{ scale: 1.05 }}
+          whileTap={{ scale: 0.95, rotate: 180 }}
+          onClick={cycleSentimentFilter}
+          className={cn(
+            "p-2 rounded-lg transition-colors",
+            sentimentFilter === null
+              ? "bg-primary text-primary-foreground"
+              : currentSentiment.colorClass + " text-white"
+          )}
+          title={`${currentSentiment.name} Sentiment (${currentSentiment.name.charAt(0).toUpperCase()}) - Click to cycle`}
+        >
+          {currentSentiment.icon}
+        </motion.button>
+      </div>
+
+      <div className="h-5 w-px bg-border"></div>
+
+      {/* Essential Control - Only Dim Others */}
       <div className="flex items-center gap-1">
         <motion.button
           whileHover={{ scale: 1.05 }}
@@ -243,61 +248,6 @@ export function DesktopToolbar({
           title="Dim other paragraphs (D)"
         >
           {dimOthers ? <EyeOff size={18} /> : <Eye size={18} />}
-        </motion.button>
-
-        <motion.button
-          whileHover={{ scale: 1.05 }}
-          whileTap={{ scale: 0.95 }}
-          onClick={() => setFocusMode(!focusMode)}
-          className={cn(
-            "p-2 rounded-lg transition-colors",
-            focusMode
-              ? "bg-primary text-primary-foreground"
-              : "hover:bg-muted"
-          )}
-          title="Focus Mode (F)"
-        >
-          <Focus size={18} />
-        </motion.button>
-
-        <motion.button
-          whileHover={{ scale: 1.05 }}
-          whileTap={{ scale: 0.95 }}
-          onClick={() => setHideTranslations(!hideTranslations)}
-          className={cn(
-            "p-2 rounded-lg transition-colors",
-            hideTranslations
-              ? "bg-primary text-primary-foreground"
-              : "hover:bg-muted"
-          )}
-          title="Hide Vietnamese translations (T)"
-        >
-          {hideTranslations ? <EyeOff size={18} /> : <Globe size={18} />}
-        </motion.button>
-
-        <motion.button
-          whileHover={{ scale: 1.05 }}
-          whileTap={{ scale: 0.95 }}
-          onClick={() => setGuessMode(!guessMode)}
-          className={cn(
-            "p-2 rounded-lg transition-colors",
-            guessMode
-              ? "bg-blue-500 text-white"
-              : "hover:bg-muted"
-          )}
-          title="Guess Mode (G)"
-        >
-          <Brain size={18} />
-        </motion.button>
-
-        <motion.button
-          whileHover={{ scale: 1.05 }}
-          whileTap={{ scale: 0.95 }}
-          onClick={toggleShortcuts}
-          className="p-2 rounded-lg hover:bg-muted"
-          title="Shortcuts (Shift + ?)"
-        >
-          <Keyboard size={18} />
         </motion.button>
       </div>
     </div>

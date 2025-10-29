@@ -4,28 +4,49 @@ import React from "react";
 import { Slider } from "@/components/ui/slider";
 import { Switch } from "@/components/ui/switch";
 import { cn } from "@/lib/utils";
-import { 
-  Smile, 
-  Frown, 
-  Meh, 
+import {
+  Smile,
+  Frown,
+  Meh,
   Heart,
   PanelLeft,
   Columns,
   Grid,
   AlignLeft,
   AlignCenter,
-  AlignJustify
+  AlignJustify,
+  Sun,
+  Moon,
+  BookOpen,
+  Focus,
+  Keyboard,
+  Eye,
+  EyeOff,
+  Globe,
+  Brain,
+  Turtle,
+  Rabbit,
+  Zap,
+  Gauge
 } from "lucide-react";
 
 interface MobileSettingsContentProps {
-  readingSpeed: number;
-  setReadingSpeed: (speed: number) => void;
+  speechRate: number;
+  setSpeechRate: (rate: number) => void;
   sentimentFilter: string | null;
   setSentimentFilter: (filter: string | null) => void;
+  // Advanced controls moved from main toolbar
+  theme: string;
+  setTheme: (theme: string) => void;
   focusMode: boolean;
   setFocusMode: (focus: boolean) => void;
+  toggleShortcuts: () => void;
   dimOthers: boolean;
   setDimOthers: (dim: boolean) => void;
+  hideTranslations: boolean;
+  setHideTranslations: (hide: boolean) => void;
+  guessMode: boolean;
+  setGuessMode: (guess: boolean) => void;
   showAnimations: boolean;
   setShowAnimations: (show: boolean) => void;
   fontFamily: string;
@@ -57,15 +78,37 @@ const lineSpacings = [
   { name: "Relaxed", class: "leading-relaxed", icon: <AlignJustify size={16} /> }
 ];
 
+// Speech rate presets for mobile - stacked layout
+const speechRatePresetsMobile = [
+  { name: "Slow", rate: 0.85, icon: <Turtle size={16} /> },
+  { name: "Normal", rate: 1.00, icon: <Gauge size={16} /> },
+  { name: "Fast", rate: 1.15, icon: <Rabbit size={16} /> }
+];
+
+// Function to cycle through speech rate presets for mobile
+const cycleSpeechRatePresetMobile = (currentRate: number, setRate: (rate: number) => void) => {
+  const currentIndex = speechRatePresetsMobile.findIndex(p => p.rate === currentRate);
+  const nextIndex = (currentIndex + 1) % speechRatePresetsMobile.length;
+  setRate(speechRatePresetsMobile[nextIndex].rate);
+};
+
 export function MobileSettingsContent({
-  readingSpeed,
-  setReadingSpeed,
+  speechRate,
+  setSpeechRate,
   sentimentFilter,
   setSentimentFilter,
+  // Advanced controls moved from main toolbar
+  theme,
+  setTheme,
   focusMode,
   setFocusMode,
+  toggleShortcuts,
   dimOthers,
   setDimOthers,
+  hideTranslations,
+  setHideTranslations,
+  guessMode,
+  setGuessMode,
   showAnimations,
   setShowAnimations,
   fontFamily,
@@ -77,22 +120,44 @@ export function MobileSettingsContent({
   lineSpacing,
   setLineSpacing,
 }: MobileSettingsContentProps) {
+  // Get current speech rate preset info for mobile
+  const currentSpeechRatePresetMobile = speechRatePresetsMobile.find(p => p.rate === speechRate) || speechRatePresetsMobile[0];
+
   return (
     <div className="space-y-6">
-      {/* Reading Speed */}
+      {/* Speech Rate */}
       <div className="space-y-3">
         <div className="flex items-center justify-between">
-          <label className="text-sm font-medium">Reading Speed</label>
-          <span className="text-sm text-muted-foreground">{readingSpeed} WPM</span>
+          <label className="text-sm font-medium">Speech Rate</label>
+          <span className="text-sm text-muted-foreground">{speechRate.toFixed(2)}x</span>
         </div>
         <Slider
-          value={[readingSpeed]}
-          onValueChange={([value]) => setReadingSpeed(value)}
-          max={400}
-          min={100}
-          step={25}
+          value={[speechRate]}
+          onValueChange={([value]) => setSpeechRate(value)}
+          max={2.0}
+          min={0.5}
+          step={0.05}
           className="w-full"
         />
+
+        {/* Speech Rate Presets - Stacked Layout */}
+        <div className="space-y-3">
+          <label className="text-sm font-medium">Rate Presets</label>
+          <button
+            onClick={() => cycleSpeechRatePresetMobile(speechRate, setSpeechRate)}
+            className={cn(
+              "w-full p-3 rounded-md transition-colors flex flex-col items-center gap-2",
+              speechRate === currentSpeechRatePresetMobile.rate
+                ? "bg-primary text-primary-foreground"
+                : "bg-muted hover:bg-muted/80"
+            )}
+            title={`${currentSpeechRatePresetMobile.name} Speech Rate (${currentSpeechRatePresetMobile.rate}x) - Click to cycle`}
+          >
+            {currentSpeechRatePresetMobile.icon}
+            <span className="text-sm font-medium">{currentSpeechRatePresetMobile.name}</span>
+            <span className="text-xs opacity-75">{currentSpeechRatePresetMobile.rate}x</span>
+          </button>
+        </div>
       </div>
 
       {/* Sentiment Filter */}

@@ -30,14 +30,9 @@ export function EnhancedReadingViewV2({
   // All state management
   const readingState = useReadingState();
 
-  // Convert WPM to speech rate (words per minute to speech rate multiplier)
-  // Average reading speed: 200-250 WPM, Average speech rate: 150-160 WPM
-  // Formula: speechRate = (WPM / 160) * 1.0 (where 1.0 is normal speech rate)
-  const calculateSpeechRate = (wpm: number): number => {
-    return Math.max(0.5, Math.min(2.0, (wpm / 160) * 0.9));
-  };
+  // Speech functionality with direct speech rate control
+  const [speechRate, setSpeechRate] = useState(1.0); // Default to 1.0x speed
 
-  // Speech functionality with dynamic rate based on reading speed
   const {
     isSpeaking,
     isPaused,
@@ -48,14 +43,14 @@ export function EnhancedReadingViewV2({
     currentCharIndex,
     isSupported: speechSupported,
     updateSettings,
-  } = useSpeech({ rate: calculateSpeechRate(readingState.readingSpeed) });
+  } = useSpeech({ rate: speechRate });
 
-  // Update speech rate when reading speed changes
+  // Update speech rate when it changes
   useEffect(() => {
     if (speechSupported) {
-      updateSettings({ rate: calculateSpeechRate(readingState.readingSpeed) });
+      updateSettings({ rate: speechRate });
     }
-  }, [readingState.readingSpeed, speechSupported, updateSettings]);
+  }, [speechRate, speechSupported, updateSettings]);
 
   // Speech reading state
   const [speechMode, setSpeechMode] = useState(false);
@@ -105,7 +100,7 @@ export function EnhancedReadingViewV2({
     speak({
       text: fullText,
       lang: 'en-US',
-      rate: calculateSpeechRate(readingState.readingSpeed),
+      rate: speechRate,
       onBoundary: (event) => {
         // Check which paragraph is currently being spoken
         const currentCharPosition = event.charIndex;
@@ -199,7 +194,7 @@ export function EnhancedReadingViewV2({
     setIsPlaying: readingState.setIsPlaying,
     currentParagraph: readingState.currentParagraph,
     setCurrentParagraph: readingState.setCurrentParagraph,
-    readingSpeed: readingState.readingSpeed,
+    readingSpeed: 200, // Fixed fallback speed for auto-scroll (not used anymore)
     totalParagraphs: paragraphs.length,
     autoScrollRef: readingState.autoScrollRef,
   });
@@ -290,8 +285,8 @@ export function EnhancedReadingViewV2({
         startAutoScroll={autoScrollActions.startAutoScroll}
         stopAutoScroll={autoScrollActions.stopAutoScroll}
         resetReading={readingState.resetReading}
-        readingSpeed={readingState.readingSpeed}
-        setReadingSpeed={readingState.setReadingSpeed}
+        speechRate={speechRate}
+        setSpeechRate={setSpeechRate}
         sentimentFilter={readingState.sentimentFilter}
         setSentimentFilter={readingState.setSentimentFilter}
         dimOthers={readingState.dimOthers}

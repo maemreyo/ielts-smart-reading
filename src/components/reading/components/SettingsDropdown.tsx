@@ -12,14 +12,23 @@ import {
   DropdownMenuLabel,
   DropdownMenuSeparator,
 } from "@/components/ui/dropdown-menu";
-import { 
+import {
   Settings,
   PanelLeft,
   Columns,
   Grid,
   AlignLeft,
   AlignCenter,
-  AlignJustify
+  AlignJustify,
+  Focus,
+  Keyboard,
+  Eye,
+  EyeOff,
+  Globe,
+  Brain,
+  Sun,
+  Moon,
+  BookOpen
 } from "lucide-react";
 
 interface SettingsDropdownProps {
@@ -33,6 +42,18 @@ interface SettingsDropdownProps {
   setLineSpacing: (spacing: string) => void;
   showAnimations: boolean;
   setShowAnimations: (show: boolean) => void;
+  // Advanced controls moved from main toolbar
+  theme: string;
+  setTheme: (theme: string) => void;
+  focusMode: boolean;
+  setFocusMode: (focus: boolean) => void;
+  toggleShortcuts: () => void;
+  dimOthers: boolean;
+  setDimOthers: (dim: boolean) => void;
+  hideTranslations: boolean;
+  setHideTranslations: (hide: boolean) => void;
+  guessMode: boolean;
+  setGuessMode: (guess: boolean) => void;
 }
 
 const fontFamilies = [
@@ -58,7 +79,26 @@ export function SettingsDropdown({
   setLineSpacing,
   showAnimations,
   setShowAnimations,
+  // Advanced controls
+  theme,
+  setTheme,
+  focusMode,
+  setFocusMode,
+  toggleShortcuts,
+  dimOthers,
+  setDimOthers,
+  hideTranslations,
+  setHideTranslations,
+  guessMode,
+  setGuessMode,
 }: SettingsDropdownProps) {
+
+  // Theme options
+  const themes = [
+    { name: "Light", value: "light", icon: <Sun size={16} /> },
+    { name: "Sepia", value: "sepia", icon: <BookOpen size={16} /> },
+    { name: "Dark", value: "dark", icon: <Moon size={16} /> }
+  ];
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
@@ -177,6 +217,123 @@ export function SettingsDropdown({
               </button>
             ))}
           </div>
+        </div>
+
+        {/* Theme Settings */}
+        <div className="space-y-3 mb-4">
+          <label className="text-sm font-medium">Theme</label>
+          <div className="flex gap-1">
+            {themes.map((t) => (
+              <button
+                key={t.value}
+                onClick={() => setTheme(t.value)}
+                className={cn(
+                  "px-3 py-2 text-sm rounded-md transition-colors flex items-center gap-2",
+                  theme === t.value
+                    ? "bg-primary text-primary-foreground"
+                    : "bg-muted hover:bg-muted/80"
+                )}
+                title={t.name}
+              >
+                {React.cloneElement(t.icon, { size: 14 })}
+                {t.name}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <DropdownMenuSeparator />
+
+        {/* Reading Modes */}
+        <div className="space-y-3 mb-4">
+          <label className="text-sm font-medium">Reading Modes</label>
+          <div className="space-y-2">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-2">
+                <Eye size={16} />
+                <span className="text-sm">Dim Other Paragraphs</span>
+              </div>
+              <button
+                onClick={() => setDimOthers(!dimOthers)}
+                className={cn(
+                  "px-2 py-1 text-xs rounded-md transition-colors",
+                  dimOthers
+                    ? "bg-primary text-primary-foreground"
+                    : "bg-muted hover:bg-muted/80"
+                )}
+              >
+                {dimOthers ? "On" : "Off"}
+              </button>
+            </div>
+
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-2">
+                <Focus size={16} />
+                <span className="text-sm">Focus Mode</span>
+              </div>
+              <button
+                onClick={() => setFocusMode(!focusMode)}
+                className={cn(
+                  "px-2 py-1 text-xs rounded-md transition-colors",
+                  focusMode
+                    ? "bg-primary text-primary-foreground"
+                    : "bg-muted hover:bg-muted/80"
+                )}
+              >
+                {focusMode ? "On" : "Off"}
+              </button>
+            </div>
+
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-2">
+                <Globe size={16} />
+                <span className="text-sm">Hide Translations</span>
+              </div>
+              <button
+                onClick={() => setHideTranslations(!hideTranslations)}
+                className={cn(
+                  "px-2 py-1 text-xs rounded-md transition-colors",
+                  hideTranslations
+                    ? "bg-primary text-primary-foreground"
+                    : "bg-muted hover:bg-muted/80"
+                )}
+              >
+                {hideTranslations ? "On" : "Off"}
+              </button>
+            </div>
+
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-2">
+                <Brain size={16} />
+                <span className="text-sm">Guess Mode</span>
+              </div>
+              <button
+                onClick={() => setGuessMode(!guessMode)}
+                className={cn(
+                  "px-2 py-1 text-xs rounded-md transition-colors",
+                  guessMode
+                    ? "bg-blue-500 text-white"
+                    : "bg-muted hover:bg-muted/80"
+                )}
+              >
+                {guessMode ? "On" : "Off"}
+              </button>
+            </div>
+          </div>
+        </div>
+
+        {/* Keyboard Shortcuts */}
+        <div className="flex items-center justify-between mb-4">
+          <div className="flex items-center gap-2">
+            <Keyboard size={16} />
+            <span className="text-sm font-medium">Keyboard Shortcuts</span>
+          </div>
+          <button
+            onClick={toggleShortcuts}
+            className="px-3 py-1 text-xs bg-muted hover:bg-muted/80 rounded-md transition-colors"
+          >
+            Show (Shift + ?)
+          </button>
         </div>
 
         {/* Animations Toggle */}

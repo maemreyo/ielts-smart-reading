@@ -8,6 +8,7 @@ import {
   BookOpen,
   Play,
   Pause,
+  Eye,
   EyeOff,
   Globe,
   Brain,
@@ -47,16 +48,19 @@ interface MobileToolbarProps {
   setHideTranslations: (hide: boolean) => void;
   guessMode: boolean;
   setGuessMode: (guess: boolean) => void;
-  
-  // Settings props (for mobile dropdown)
-  readingSpeed: number;
-  setReadingSpeed: (speed: number) => void;
-  sentimentFilter: string | null;
-  setSentimentFilter: (filter: string | null) => void;
+
+  // Advanced controls moved from main toolbar
   focusMode: boolean;
   setFocusMode: (focus: boolean) => void;
+  toggleShortcuts: () => void;
   dimOthers: boolean;
   setDimOthers: (dim: boolean) => void;
+
+  // Settings props (for mobile dropdown)
+  speechRate: number;
+  setSpeechRate: (rate: number) => void;
+  sentimentFilter: string | null;
+  setSentimentFilter: (filter: string | null) => void;
   showAnimations: boolean;
   setShowAnimations: (show: boolean) => void;
   fontFamily: string;
@@ -87,7 +91,27 @@ export function MobileToolbar({
   setHideTranslations,
   guessMode,
   setGuessMode,
-  ...settingsProps
+  // Advanced controls moved from main toolbar
+  focusMode,
+  setFocusMode,
+  toggleShortcuts,
+  dimOthers,
+  setDimOthers,
+  // Settings props (for mobile dropdown)
+  speechRate,
+  setSpeechRate,
+  sentimentFilter,
+  setSentimentFilter,
+  showAnimations,
+  setShowAnimations,
+  fontFamily,
+  setFontFamily,
+  fontSize,
+  setFontSize,
+  columnCount,
+  setColumnCount,
+  lineSpacing,
+  setLineSpacing,
 }: MobileToolbarProps) {
   const handleThemeToggle = () => {
     const themes = ["light", "sepia", "dark"];
@@ -146,49 +170,20 @@ export function MobileToolbar({
         </motion.button>
       )}
 
-      {/* Theme Switcher */}
+          {/* Dim Others toggle - Kept as essential control */}
       <motion.button
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}
-        onClick={handleThemeToggle}
-        className="p-2 rounded-lg hover:bg-muted"
-        title="Switch theme"
-      >
-        {theme === "light" && <Sun size={16} />}
-        {theme === "sepia" && <BookOpen size={16} />}
-        {theme === "dark" && <Moon size={16} />}
-      </motion.button>
-
-      {/* Hide translations toggle */}
-      <motion.button
-        whileHover={{ scale: 1.05 }}
-        whileTap={{ scale: 0.95 }}
-        onClick={() => setHideTranslations(!hideTranslations)}
+        onClick={() => setDimOthers(!dimOthers)}
         className={cn(
           "p-2 rounded-lg transition-colors",
-          hideTranslations
+          dimOthers
             ? "bg-primary text-primary-foreground"
             : "hover:bg-muted"
         )}
-        title="Hide translations (T)"
+        title="Dim other paragraphs (D)"
       >
-        {hideTranslations ? <EyeOff size={16} /> : <Globe size={16} />}
-      </motion.button>
-
-      {/* Guess Mode toggle */}
-      <motion.button
-        whileHover={{ scale: 1.05 }}
-        whileTap={{ scale: 0.95 }}
-        onClick={() => setGuessMode(!guessMode)}
-        className={cn(
-          "p-2 rounded-lg transition-colors",
-          guessMode
-            ? "bg-blue-500 text-white"
-            : "hover:bg-muted"
-        )}
-        title="Guess Mode (G)"
-      >
-        <Brain size={16} />
+        {dimOthers ? <EyeOff size={16} /> : <Eye size={16} />}
       </motion.button>
 
       {/* Mobile Settings Button */}
@@ -207,7 +202,34 @@ export function MobileToolbar({
           <DropdownMenuLabel>Reading Settings</DropdownMenuLabel>
           <DropdownMenuSeparator />
           
-          <MobileSettingsContent {...settingsProps} />
+          <MobileSettingsContent
+            speechRate={speechRate}
+            setSpeechRate={setSpeechRate}
+            sentimentFilter={sentimentFilter}
+            setSentimentFilter={setSentimentFilter}
+            // Advanced controls moved from main toolbar
+            theme={theme}
+            setTheme={setTheme}
+            focusMode={focusMode}
+            setFocusMode={setFocusMode}
+            toggleShortcuts={toggleShortcuts}
+            dimOthers={dimOthers}
+            setDimOthers={setDimOthers}
+            hideTranslations={hideTranslations}
+            setHideTranslations={setHideTranslations}
+            guessMode={guessMode}
+            setGuessMode={setGuessMode}
+            showAnimations={showAnimations}
+            setShowAnimations={setShowAnimations}
+            fontFamily={fontFamily}
+            setFontFamily={setFontFamily}
+            fontSize={fontSize}
+            setFontSize={setFontSize}
+            columnCount={columnCount}
+            setColumnCount={setColumnCount}
+            lineSpacing={lineSpacing}
+            setLineSpacing={setLineSpacing}
+          />
         </DropdownMenuContent>
       </DropdownMenu>
     </div>

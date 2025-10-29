@@ -16,8 +16,8 @@ interface ReadingToolbarProps {
   startAutoScroll: () => void;
   stopAutoScroll: () => void;
   resetReading: () => void;
-  readingSpeed: number;
-  setReadingSpeed: (speed: number) => void;
+  speechRate: number;
+  setSpeechRate: (rate: number) => void;
 
   // Speech controls
   speechSupported: boolean;
@@ -64,8 +64,8 @@ export function ReadingToolbar({
   startAutoScroll,
   stopAutoScroll,
   resetReading,
-  readingSpeed,
-  setReadingSpeed,
+  speechRate,
+  setSpeechRate,
   // Speech controls
   speechSupported,
   isSpeaking,
@@ -111,8 +111,6 @@ export function ReadingToolbar({
           isPlaying={isPlaying}
           startAutoScroll={startAutoScroll}
           stopAutoScroll={stopAutoScroll}
-          hideTranslations={hideTranslations}
-          setHideTranslations={setHideTranslations}
           guessMode={guessMode}
           setGuessMode={setGuessMode}
           // Speech props
@@ -124,14 +122,18 @@ export function ReadingToolbar({
           onResumeSpeech={onResumeSpeech}
           onStopSpeech={onStopSpeech}
           // Settings props
-          readingSpeed={readingSpeed}
-          setReadingSpeed={setReadingSpeed}
+          speechRate={speechRate}
+          setSpeechRate={setSpeechRate}
           sentimentFilter={sentimentFilter}
           setSentimentFilter={setSentimentFilter}
+          // Advanced controls moved from main toolbar
           focusMode={focusMode}
           setFocusMode={setFocusMode}
+          toggleShortcuts={toggleShortcuts}
           dimOthers={dimOthers}
           setDimOthers={setDimOthers}
+          hideTranslations={hideTranslations}
+          setHideTranslations={setHideTranslations}
           showAnimations={showAnimations}
           setShowAnimations={setShowAnimations}
           fontFamily={fontFamily}
@@ -152,8 +154,8 @@ export function ReadingToolbar({
           startAutoScroll={startAutoScroll}
           stopAutoScroll={stopAutoScroll}
           resetReading={resetReading}
-          readingSpeed={readingSpeed}
-          setReadingSpeed={setReadingSpeed}
+          speechRate={speechRate}
+          setSpeechRate={setSpeechRate}
           // Speech props
           speechSupported={speechSupported}
           isSpeaking={isSpeaking}
@@ -188,6 +190,18 @@ export function ReadingToolbar({
             setLineSpacing={setLineSpacing}
             showAnimations={showAnimations}
             setShowAnimations={setShowAnimations}
+            // Advanced controls moved from main toolbar
+            theme={theme}
+            setTheme={setTheme}
+            focusMode={focusMode}
+            setFocusMode={setFocusMode}
+            toggleShortcuts={toggleShortcuts}
+            dimOthers={dimOthers}
+            setDimOthers={setDimOthers}
+            hideTranslations={hideTranslations}
+            setHideTranslations={setHideTranslations}
+            guessMode={guessMode}
+            setGuessMode={setGuessMode}
           />
         </div>
       </div>
