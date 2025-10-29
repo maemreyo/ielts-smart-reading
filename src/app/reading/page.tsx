@@ -3,7 +3,7 @@ import { readdir, stat } from 'fs/promises';
 import { join } from 'path';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { BookOpen, Clock, FileText } from 'lucide-react';
+import { BookOpen, Clock, FileText, Highlighter } from 'lucide-react';
 
 interface PassageInfo {
   book: string;
@@ -142,39 +142,54 @@ export default async function ReadingIndexPage() {
             
             <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
               {passages.map((passage) => (
-                <Link
-                  key={`${book}-${test}-${passage.passage}`}
-                  href={`/reading/${book}/${test}/${passage.passage}`}
-                  className="block transition-transform hover:scale-105"
-                >
-                  <Card className="h-full hover:shadow-lg transition-shadow">
-                    <CardHeader>
-                      <div className="flex items-start justify-between">
-                        <CardTitle className="text-lg line-clamp-2">
-                          {passage.title}
-                        </CardTitle>
-                        <Badge variant="secondary">
-                          Passage {passage.passage}
-                        </Badge>
-                      </div>
-                      <CardDescription>
-                        Cambridge IELTS {book} • {test.replace('test-', 'Test ')}
-                      </CardDescription>
-                    </CardHeader>
-                    <CardContent>
-                      <div className="flex items-center gap-4 text-sm text-muted-foreground">
-                        <span className="flex items-center gap-1">
-                          <FileText size={14} />
-                          {passage.wordCount.toLocaleString()} words
-                        </span>
-                        <span className="flex items-center gap-1">
-                          <Clock size={14} />
-                          {passage.readingTime} min read
-                        </span>
-                      </div>
-                    </CardContent>
-                  </Card>
-                </Link>
+                <Card key={`${book}-${test}-${passage.passage}`} className="h-full hover:shadow-lg transition-shadow">
+                  <CardHeader>
+                    <div className="flex items-start justify-between">
+                      <CardTitle className="text-lg line-clamp-2">
+                        {passage.title}
+                      </CardTitle>
+                      <Badge variant="secondary">
+                        Passage {passage.passage}
+                      </Badge>
+                    </div>
+                    <CardDescription>
+                      Cambridge IELTS {book} • {test.replace('test-', 'Test ')}
+                    </CardDescription>
+                  </CardHeader>
+                  <CardContent>
+                    <div className="flex items-center gap-4 text-sm text-muted-foreground mb-4">
+                      <span className="flex items-center gap-1">
+                        <FileText size={14} />
+                        {passage.wordCount.toLocaleString()} words
+                      </span>
+                      <span className="flex items-center gap-1">
+                        <Clock size={14} />
+                        {passage.readingTime} min read
+                      </span>
+                    </div>
+
+                    <div className="flex gap-2">
+                      <Link
+                        href={`/reading/${book}/${test}/${passage.passage}`}
+                        className="flex-1"
+                      >
+                        <div className="w-full text-center px-3 py-2 bg-primary text-primary-foreground rounded-md text-sm font-medium hover:bg-primary/90 transition-colors">
+                          Read Passage
+                        </div>
+                      </Link>
+
+                      <Link
+                        href={`/self-learning/${book}/${test}/${passage.passage}`}
+                        className="flex-1"
+                      >
+                        <div className="w-full text-center px-3 py-2 bg-secondary text-secondary-foreground rounded-md text-sm font-medium hover:bg-secondary/80 transition-colors flex items-center justify-center gap-1">
+                          <Highlighter size={14} />
+                          Learn by Myself
+                        </div>
+                      </Link>
+                    </div>
+                  </CardContent>
+                </Card>
               ))}
             </div>
           </div>
