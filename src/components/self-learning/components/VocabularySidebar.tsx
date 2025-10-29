@@ -90,7 +90,7 @@ export function VocabularySidebar({
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 exit={{ opacity: 0, y: -20 }}
-                transition={{ duration: 0.3 }}
+                transition={{ duration: 0.3, delay: 0.2 }}
               >
                 {/* Copy and Export buttons */}
                 <div className="mb-4 space-y-2">
@@ -192,7 +192,7 @@ export function VocabularySidebar({
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 exit={{ opacity: 0, y: -20 }}
-                transition={{ duration: 0.3 }}
+                transition={{ duration: 0.3, delay: 0.2 }}
                 className="flex flex-col items-center justify-center py-12 px-6 text-center"
               >
                 <div className="w-16 h-16 rounded-full bg-muted/30 flex items-center justify-center mb-4">
