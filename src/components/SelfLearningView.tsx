@@ -28,7 +28,7 @@ export function SelfLearningView({
   
   // UI state
   const [settingsOpen, setSettingsOpen] = useState(false);
-  const [isPanelCollapsed, setIsPanelCollapsed] = useState(false);
+  const [isPanelCollapsed, setIsPanelCollapsed] = useState(true);
   const [isClient] = useState(typeof window !== 'undefined');
 
   // Highlights management

@@ -46,7 +46,7 @@ export function OnboardingTour({ hasHighlights, onStartTour }: OnboardingTourPro
   return (
     <>
       {/* Floating Help Button */}
-      <motion.div
+      {/* <motion.div
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
         className="fixed bottom-6 right-6 z-50"
@@ -58,7 +58,7 @@ export function OnboardingTour({ hasHighlights, onStartTour }: OnboardingTourPro
         >
           <HelpCircle className="w-6 h-6" />
         </Button>
-      </motion.div>
+      </motion.div> */}
 
       {/* Onboarding Hint Popup */}
       <AnimatePresence>
@@ -82,7 +82,7 @@ export function OnboardingTour({ hasHighlights, onStartTour }: OnboardingTourPro
                 <X className="w-4 h-4" />
               </Button>
             </div>
-            
+
             <p className="text-sm text-muted-foreground mb-4 leading-relaxed">
               I notice you haven't started highlighting yet. Would you like a quick tour to see how the vocabulary learning works?
             </p>
