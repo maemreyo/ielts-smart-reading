@@ -20,9 +20,7 @@ import {
   Globe,
   Brain,
   Keyboard,
-  Volume2,
   VolumeX,
-  Zap, // Using Zap for the main play button
 } from "lucide-react";
 
 interface DesktopToolbarProps {
@@ -40,7 +38,6 @@ interface DesktopToolbarProps {
 
   // Speech controls
   speechSupported: boolean;
-  speechMode: boolean;
   isSpeaking: boolean;
   isPaused: boolean;
   onStartSpeech: () => void;
@@ -82,7 +79,6 @@ export function DesktopToolbar({
   setReadingSpeed,
   // Speech controls
   speechSupported,
-  speechMode,
   isSpeaking,
   isPaused,
   onStartSpeech,

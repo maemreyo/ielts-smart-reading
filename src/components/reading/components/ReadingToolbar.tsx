@@ -21,7 +21,6 @@ interface ReadingToolbarProps {
 
   // Speech controls
   speechSupported: boolean;
-  speechMode: boolean;
   isSpeaking: boolean;
   isPaused: boolean;
   onStartSpeech: () => void;
@@ -69,7 +68,6 @@ export function ReadingToolbar({
   setReadingSpeed,
   // Speech controls
   speechSupported,
-  speechMode,
   isSpeaking,
   isPaused,
   onStartSpeech,
@@ -119,7 +117,6 @@ export function ReadingToolbar({
           setGuessMode={setGuessMode}
           // Speech props
           speechSupported={speechSupported}
-          speechMode={speechMode}
           isSpeaking={isSpeaking}
           isPaused={isPaused}
           onStartSpeech={onStartSpeech}
@@ -159,7 +156,6 @@ export function ReadingToolbar({
           setReadingSpeed={setReadingSpeed}
           // Speech props
           speechSupported={speechSupported}
-          speechMode={speechMode}
           isSpeaking={isSpeaking}
           isPaused={isPaused}
           onStartSpeech={onStartSpeech}

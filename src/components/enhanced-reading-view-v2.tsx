@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, useMemo } from "react";
 import { ReadingToolbar } from "./reading/components/ReadingToolbar";
 import { ReadingContent } from "./reading/components/ReadingContent";
 import { ShortcutsModal } from "./reading/components/ShortcutsModal";
@@ -30,7 +30,14 @@ export function EnhancedReadingViewV2({
   // All state management
   const readingState = useReadingState();
 
-  // Speech functionality
+  // Convert WPM to speech rate (words per minute to speech rate multiplier)
+  // Average reading speed: 200-250 WPM, Average speech rate: 150-160 WPM
+  // Formula: speechRate = (WPM / 160) * 1.0 (where 1.0 is normal speech rate)
+  const calculateSpeechRate = (wpm: number): number => {
+    return Math.max(0.5, Math.min(2.0, (wpm / 160) * 0.9));
+  };
+
+  // Speech functionality with dynamic rate based on reading speed
   const {
     isSpeaking,
     isPaused,
@@ -40,11 +47,36 @@ export function EnhancedReadingViewV2({
     stop,
     currentCharIndex,
     isSupported: speechSupported,
-  } = useSpeech({ rate: 1.0 });
+    updateSettings,
+  } = useSpeech({ rate: calculateSpeechRate(readingState.readingSpeed) });
+
+  // Update speech rate when reading speed changes
+  useEffect(() => {
+    if (speechSupported) {
+      updateSettings({ rate: calculateSpeechRate(readingState.readingSpeed) });
+    }
+  }, [readingState.readingSpeed, speechSupported, updateSettings]);
 
   // Speech reading state
   const [speechMode, setSpeechMode] = useState(false);
   const [wasDimmedBeforeSpeech, setWasDimmedBeforeSpeech] = useState(false);
+  const [currentSpeechParagraph, setCurrentSpeechParagraph] = useState(0);
+  const [isSpeakingCurrentParagraph, setIsSpeakingCurrentParagraph] = useState(false);
+
+  // Calculate paragraph boundaries for precise timing
+  const paragraphBoundaries = useMemo(() => {
+    const boundaries: Array<{ start: number; end: number; text: string }> = [];
+    let charCount = 0;
+
+    paragraphs.forEach((paragraph) => {
+      const start = charCount;
+      const end = charCount + paragraph.length;
+      boundaries.push({ start, end, text: paragraph });
+      charCount = end + 1; // +1 for space between paragraphs
+    });
+
+    return boundaries;
+  }, [paragraphs]);
 
   // Combine all paragraphs into full text for speech
   const fullText = paragraphs.join(' ');
@@ -64,15 +96,38 @@ export function EnhancedReadingViewV2({
       readingState.setDimOthers(true);
     }
 
+    // Reset to first paragraph
+    setCurrentSpeechParagraph(0);
+    readingState.setCurrentParagraph(0);
     setSpeechMode(true);
+
+    // Start speech with synchronized timing
     speak({
       text: fullText,
       lang: 'en-US',
-      onBoundary: () => {
-        // Handle speech boundary events if needed
+      rate: calculateSpeechRate(readingState.readingSpeed),
+      onBoundary: (event) => {
+        // Check which paragraph is currently being spoken
+        const currentCharPosition = event.charIndex;
+
+        // Find current paragraph based on character position
+        for (let i = 0; i < paragraphBoundaries.length; i++) {
+          const boundary = paragraphBoundaries[i];
+          if (currentCharPosition >= boundary.start && currentCharPosition <= boundary.end) {
+            if (currentSpeechParagraph !== i) {
+              // Moved to a new paragraph - synchronize scroll
+              setCurrentSpeechParagraph(i);
+              readingState.setCurrentParagraph(i);
+              setIsSpeakingCurrentParagraph(true);
+            }
+            break;
+          }
+        }
       },
       onEnd: () => {
         setSpeechMode(false);
+        setCurrentSpeechParagraph(0);
+        setIsSpeakingCurrentParagraph(false);
         // Restore dim state if it was auto-enabled
         if (wasDimmedBeforeSpeech) {
           readingState.setDimOthers(false);
@@ -81,6 +136,8 @@ export function EnhancedReadingViewV2({
       },
       onError: () => {
         setSpeechMode(false);
+        setCurrentSpeechParagraph(0);
+        setIsSpeakingCurrentParagraph(false);
         // Restore dim state on error
         if (wasDimmedBeforeSpeech) {
           readingState.setDimOthers(false);
@@ -136,9 +193,9 @@ export function EnhancedReadingViewV2({
     }
   }, [currentCharIndex, speechMode, isSpeaking, readingState]);
 
-  // Auto-scroll functionality
+  // Auto-scroll functionality - modify to pause when speech is active
   const autoScrollActions = useAutoScroll({
-    isPlaying: readingState.isPlaying,
+    isPlaying: readingState.isPlaying && !speechMode, // Pause auto-scroll when speech is active
     setIsPlaying: readingState.setIsPlaying,
     currentParagraph: readingState.currentParagraph,
     setCurrentParagraph: readingState.setCurrentParagraph,
@@ -258,7 +315,6 @@ export function EnhancedReadingViewV2({
         toggleShortcuts={toggleShortcuts}
         // Speech controls
         speechSupported={speechSupported}
-        speechMode={speechMode}
         isSpeaking={isSpeaking}
         isPaused={isPaused}
         onStartSpeech={handleStartSpeech}

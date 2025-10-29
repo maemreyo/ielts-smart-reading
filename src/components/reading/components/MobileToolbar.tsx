@@ -35,7 +35,6 @@ interface MobileToolbarProps {
 
   // Speech controls
   speechSupported: boolean;
-  speechMode: boolean;
   isSpeaking: boolean;
   isPaused: boolean;
   onStartSpeech: () => void;
@@ -78,7 +77,6 @@ export function MobileToolbar({
   stopAutoScroll,
   // Speech controls
   speechSupported,
-  speechMode,
   isSpeaking,
   isPaused,
   onStartSpeech,
@@ -124,9 +122,7 @@ export function MobileToolbar({
           onClick={isSpeaking ? (isPaused ? onResumeSpeech : onPauseSpeech) : onStartSpeech}
           className={cn(
             "p-2 rounded-lg transition-colors",
-            speechMode
-              ? "bg-blue-500 text-white"
-              : isSpeaking
+            isSpeaking
               ? "bg-orange-500 text-white"
               : "bg-gray-500 text-white"
           )}
