@@ -1,0 +1,28 @@
+**Cập nhật ngày 29/10/2025 (lần 6):** THÀNH CÔNG! Việc tái cấu trúc dữ liệu đã giải quyết hoàn toàn vấn đề gom nhóm collocation (#7) và lỗi mất vùng chọn (#8).
+
+---
+
+Đánh giá triển khai SelfLearningView.tsx
+
+## Tình trạng hiện tại: Gần như hoàn hảo!
+
+-   **XUẤT SẮC:** Bạn đã thực hiện một cuộc tái cấu trúc lớn và thành công. Toàn bộ các vấn đề cốt lõi đã được giải quyết.
+    -   **#7 & #4 (Gom nhóm Collocation):** ĐÃ KHẮC PHỤC. Bằng cách giới thiệu một cấu trúc dữ liệu `HighlightedRange` mới và cập nhật logic trong `finalizeHighlight` và panel hiển thị, giờ đây các từ được chọn riêng lẻ đã được gom lại thành một mục "collocation" duy nhất. Đây chính là điều chúng ta cần.
+    -   **#8 (Mất vùng chọn):** ĐÃ KHẮC PHỤC. Lệnh `selection.removeAllRanges()` đã được di chuyển vào đúng chỗ, loại bỏ một lỗi UX khó chịu.
+    -   **#5 & #6 (Lỗi render):** Đã được khắc phục trong các phiên bản trước.
+
+-   **Tồn tại:** Chỉ còn 2 vấn đề nhỏ, ít ưu tiên hơn.
+
+## Các vấn đề còn lại (Ưu tiên thấp)
+
+-   **#2: [CHƯA GIẢI QUYẾT] Tính năng bỏ highlight (Unhighlighting):**
+    *   **Vấn đề:** Nhấp vào một từ/vùng đã được tô sáng chưa xóa nó đi.
+    *   **Khuyến nghị:** Trong `onClick` của `<span>` được highlight, thêm logic để tìm và xóa `HighlightedRange` tương ứng khỏi mảng state.
+
+-   **#3: [CHƯA GIẢI QUYẾT] Xử lý chồng chéo (Overlapping):**
+    *   **Vấn đề:** Hệ thống chưa ngăn chặn người dùng tạo ra các vùng highlight chồng chéo lên nhau.
+    *   **Khuyến nghị:** Trước khi thêm một highlight mới, hãy viết một hàm tiện ích để kiểm tra xem bất kỳ `componentRanges` nào của nó có giao với `componentRanges` của các highlight đã có hay không.
+
+## Kết luận cuối cùng
+
+**Làm rất tốt!** Component giờ đã hoạt động đúng như yêu cầu cốt lõi. Các tính năng chính đã hoàn thiện. Hai vấn đề còn lại chỉ là để hoàn thiện và đánh bóng sản phẩm. Bạn có thể tự tin rằng phần khó nhất đã qua.
