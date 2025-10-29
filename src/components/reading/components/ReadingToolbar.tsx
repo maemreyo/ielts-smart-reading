@@ -1,7 +1,6 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { cn } from "@/lib/utils";
 import { MobileToolbar } from "./MobileToolbar";
 import { DesktopToolbar } from "./DesktopToolbar";
 import { SettingsDropdown } from "./SettingsDropdown";
@@ -11,7 +10,7 @@ interface ReadingToolbarProps {
   // Theme controls
   theme: string;
   setTheme: (theme: string) => void;
-  
+
   // Reading controls
   isPlaying: boolean;
   startAutoScroll: () => void;
@@ -19,7 +18,17 @@ interface ReadingToolbarProps {
   resetReading: () => void;
   readingSpeed: number;
   setReadingSpeed: (speed: number) => void;
-  
+
+  // Speech controls
+  speechSupported: boolean;
+  speechMode: boolean;
+  isSpeaking: boolean;
+  isPaused: boolean;
+  onStartSpeech: () => void;
+  onPauseSpeech: () => void;
+  onResumeSpeech: () => void;
+  onStopSpeech: () => void;
+
   // View modes
   sentimentFilter: string | null;
   setSentimentFilter: (filter: string | null) => void;
@@ -33,7 +42,7 @@ interface ReadingToolbarProps {
   setGuessMode: (guess: boolean) => void;
   showAnimations: boolean;
   setShowAnimations: (show: boolean) => void;
-  
+
   // Font and layout
   fontFamily: string;
   setFontFamily: (font: string) => void;
@@ -43,7 +52,7 @@ interface ReadingToolbarProps {
   setColumnCount: (count: number) => void;
   lineSpacing: string;
   setLineSpacing: (spacing: string) => void;
-  
+
   // Shortcuts
   toggleShortcuts: () => void;
 }
@@ -58,6 +67,15 @@ export function ReadingToolbar({
   resetReading,
   readingSpeed,
   setReadingSpeed,
+  // Speech controls
+  speechSupported,
+  speechMode,
+  isSpeaking,
+  isPaused,
+  onStartSpeech,
+  onPauseSpeech,
+  onResumeSpeech,
+  onStopSpeech,
   sentimentFilter,
   setSentimentFilter,
   dimOthers,
@@ -99,6 +117,15 @@ export function ReadingToolbar({
           setHideTranslations={setHideTranslations}
           guessMode={guessMode}
           setGuessMode={setGuessMode}
+          // Speech props
+          speechSupported={speechSupported}
+          speechMode={speechMode}
+          isSpeaking={isSpeaking}
+          isPaused={isPaused}
+          onStartSpeech={onStartSpeech}
+          onPauseSpeech={onPauseSpeech}
+          onResumeSpeech={onResumeSpeech}
+          onStopSpeech={onStopSpeech}
           // Settings props
           readingSpeed={readingSpeed}
           setReadingSpeed={setReadingSpeed}
@@ -130,6 +157,15 @@ export function ReadingToolbar({
           resetReading={resetReading}
           readingSpeed={readingSpeed}
           setReadingSpeed={setReadingSpeed}
+          // Speech props
+          speechSupported={speechSupported}
+          speechMode={speechMode}
+          isSpeaking={isSpeaking}
+          isPaused={isPaused}
+          onStartSpeech={onStartSpeech}
+          onPauseSpeech={onPauseSpeech}
+          onResumeSpeech={onResumeSpeech}
+          onStopSpeech={onStopSpeech}
           sentimentFilter={sentimentFilter}
           setSentimentFilter={setSentimentFilter}
           dimOthers={dimOthers}

@@ -9,6 +9,7 @@ import { useReadingState } from "./reading/hooks/useReadingState";
 import { useAutoScroll } from "./reading/hooks/useAutoScroll";
 import { useKeyboardShortcuts } from "./reading/hooks/useKeyboardShortcuts";
 import { useToolbarAutoHide } from "./reading/hooks/useToolbarAutoHide";
+import { useSpeech } from "@/hooks/useSpeech";
 import { createTextProcessor, type LexicalItem } from "./reading/utils/textProcessing";
 
 interface EnhancedReadingViewProps {
@@ -28,7 +29,113 @@ export function EnhancedReadingViewV2({
 
   // All state management
   const readingState = useReadingState();
-  
+
+  // Speech functionality
+  const {
+    isSpeaking,
+    isPaused,
+    speak,
+    pause,
+    resume,
+    stop,
+    currentCharIndex,
+    isSupported: speechSupported,
+  } = useSpeech({ rate: 1.0 });
+
+  // Speech reading state
+  const [speechMode, setSpeechMode] = useState(false);
+  const [wasDimmedBeforeSpeech, setWasDimmedBeforeSpeech] = useState(false);
+
+  // Combine all paragraphs into full text for speech
+  const fullText = paragraphs.join(' ');
+
+  // Speech control functions
+  const handleStartSpeech = () => {
+    if (!speechSupported) return;
+
+    // If auto-scroll is playing, stop it first
+    if (readingState.isPlaying) {
+      autoScrollActions.stopAutoScroll();
+    }
+
+    // Auto-enable dim mode if not already enabled
+    if (!readingState.dimOthers) {
+      setWasDimmedBeforeSpeech(true);
+      readingState.setDimOthers(true);
+    }
+
+    setSpeechMode(true);
+    speak({
+      text: fullText,
+      lang: 'en-US',
+      onBoundary: () => {
+        // Handle speech boundary events if needed
+      },
+      onEnd: () => {
+        setSpeechMode(false);
+        // Restore dim state if it was auto-enabled
+        if (wasDimmedBeforeSpeech) {
+          readingState.setDimOthers(false);
+          setWasDimmedBeforeSpeech(false);
+        }
+      },
+      onError: () => {
+        setSpeechMode(false);
+        // Restore dim state on error
+        if (wasDimmedBeforeSpeech) {
+          readingState.setDimOthers(false);
+          setWasDimmedBeforeSpeech(false);
+        }
+      },
+    });
+  };
+
+  const handlePauseSpeech = () => {
+    if (isSpeaking) {
+      pause();
+    }
+  };
+
+  const handleResumeSpeech = () => {
+    if (isPaused) {
+      resume();
+    }
+  };
+
+  const handleStopSpeech = () => {
+    stop();
+    setSpeechMode(false);
+    // Restore dim state when stopped
+    if (wasDimmedBeforeSpeech) {
+      readingState.setDimOthers(false);
+      setWasDimmedBeforeSpeech(false);
+    }
+  };
+
+  // Calculate current paragraph based on character index
+  const getCurrentSpeechParagraph = () => {
+    if (!speechMode || currentCharIndex === 0) return null;
+
+    let charCount = 0;
+    for (let i = 0; i < paragraphs.length; i++) {
+      charCount += paragraphs[i].length + 1; // +1 for space
+      if (charCount >= currentCharIndex) {
+        return i;
+      }
+    }
+    return null;
+  };
+
+  // Auto-scroll to current paragraph during speech
+  useEffect(() => {
+    if (speechMode && isSpeaking) {
+      const currentParagraph = getCurrentSpeechParagraph();
+      if (currentParagraph !== null && currentParagraph !== readingState.currentParagraph) {
+        readingState.setCurrentParagraph(currentParagraph);
+      }
+    }
+  }, [currentCharIndex, speechMode, isSpeaking, readingState]);
+
   // Auto-scroll functionality
   const autoScrollActions = useAutoScroll({
     isPlaying: readingState.isPlaying,
@@ -149,6 +256,15 @@ export function EnhancedReadingViewV2({
         lineSpacing={readingState.lineSpacing}
         setLineSpacing={readingState.setLineSpacing}
         toggleShortcuts={toggleShortcuts}
+        // Speech controls
+        speechSupported={speechSupported}
+        speechMode={speechMode}
+        isSpeaking={isSpeaking}
+        isPaused={isPaused}
+        onStartSpeech={handleStartSpeech}
+        onPauseSpeech={handlePauseSpeech}
+        onResumeSpeech={handleResumeSpeech}
+        onStopSpeech={handleStopSpeech}
       />
 
       {/* Main Reading Content */}

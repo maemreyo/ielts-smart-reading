@@ -1,12 +1,11 @@
 "use client";
 
-import React from "react";
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import { Slider } from "@/components/ui/slider";
-import { 
-  Sun, 
-  Moon, 
+import {
+  Sun,
+  Moon,
   BookOpen,
   Play,
   Pause,
@@ -20,14 +19,17 @@ import {
   Focus,
   Globe,
   Brain,
-  Keyboard
+  Keyboard,
+  Volume2,
+  VolumeX,
+  Zap, // Using Zap for the main play button
 } from "lucide-react";
 
 interface DesktopToolbarProps {
   // Theme
   theme: string;
   setTheme: (theme: string) => void;
-  
+
   // Reading controls
   isPlaying: boolean;
   startAutoScroll: () => void;
@@ -35,7 +37,17 @@ interface DesktopToolbarProps {
   resetReading: () => void;
   readingSpeed: number;
   setReadingSpeed: (speed: number) => void;
-  
+
+  // Speech controls
+  speechSupported: boolean;
+  speechMode: boolean;
+  isSpeaking: boolean;
+  isPaused: boolean;
+  onStartSpeech: () => void;
+  onPauseSpeech: () => void;
+  onResumeSpeech: () => void;
+  onStopSpeech: () => void;
+
   // View modes
   sentimentFilter: string | null;
   setSentimentFilter: (filter: string | null) => void;
@@ -47,7 +59,7 @@ interface DesktopToolbarProps {
   setHideTranslations: (hide: boolean) => void;
   guessMode: boolean;
   setGuessMode: (guess: boolean) => void;
-  
+
   // UI
   toggleShortcuts: () => void;
 }
@@ -68,6 +80,15 @@ export function DesktopToolbar({
   resetReading,
   readingSpeed,
   setReadingSpeed,
+  // Speech controls
+  speechSupported,
+  speechMode,
+  isSpeaking,
+  isPaused,
+  onStartSpeech,
+  onPauseSpeech,
+  onResumeSpeech,
+  onStopSpeech,
   sentimentFilter,
   setSentimentFilter,
   dimOthers,
@@ -111,20 +132,51 @@ export function DesktopToolbar({
 
       {/* Reading Controls */}
       <div className="flex items-center gap-1">
-        <motion.button
-          whileHover={{ scale: 1.05 }}
-          whileTap={{ scale: 0.95 }}
-          onClick={isPlaying ? stopAutoScroll : startAutoScroll}
-          className={cn(
-            "p-2 rounded-lg transition-colors",
-            isPlaying
-              ? "bg-red-500 text-white"
-              : "bg-green-500 text-white hover:bg-green-600"
-          )}
-          title={isPlaying ? "Pause (Space)" : "Play (Space)"}
-        >
-          {isPlaying ? <Pause size={18} /> : <Play size={18} />}
-        </motion.button>
+        {/* Unified Play/Pause Button */}
+        {speechSupported ? (
+          <motion.button
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            onClick={isSpeaking ? (isPaused ? onResumeSpeech : onPauseSpeech) : onStartSpeech}
+            className={cn(
+              "p-2 rounded-lg transition-colors",
+              isSpeaking && !isPaused
+                ? "bg-orange-500 text-white hover:bg-orange-600" // Speaking
+                : "bg-green-500 text-white hover:bg-green-600" // Paused or stopped
+            )}
+            title={isSpeaking ? (isPaused ? "Resume (S)" : "Pause (S)") : "Read Aloud (S)"}
+          >
+            {isSpeaking && !isPaused ? <Pause size={18} /> : <Play size={18} />}
+          </motion.button>
+        ) : (
+          // Fallback for non-speech-supported browsers (original auto-scroll)
+          <motion.button
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            onClick={isPlaying ? stopAutoScroll : startAutoScroll}
+            className={cn(
+              "p-2 rounded-lg transition-colors",
+              isPlaying
+                ? "bg-red-500 text-white"
+                : "bg-green-500 text-white hover:bg-green-600"
+            )}
+            title={isPlaying ? "Pause (Space)" : "Play (Space)"}
+          >
+            {isPlaying ? <Pause size={18} /> : <Play size={18} />}
+          </motion.button>
+        )}
+
+        {isSpeaking && (
+          <motion.button
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            onClick={onStopSpeech}
+            className="p-2 rounded-lg bg-red-500 text-white hover:bg-red-600"
+            title="Stop (Shift+S)"
+          >
+            <VolumeX size={18} />
+          </motion.button>
+        )}
 
         <motion.button
           whileHover={{ scale: 1.05 }}

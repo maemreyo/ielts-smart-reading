@@ -2,16 +2,17 @@
 
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
-import { 
-  Sun, 
-  Moon, 
-  BookOpen, 
-  Play, 
-  Pause, 
-  EyeOff, 
-  Globe, 
-  Brain, 
-  Settings 
+import {
+  Sun,
+  Moon,
+  BookOpen,
+  Play,
+  Pause,
+  EyeOff,
+  Globe,
+  Brain,
+  Settings,
+  Volume2
 } from "lucide-react";
 import {
   DropdownMenu,
@@ -26,12 +27,22 @@ interface MobileToolbarProps {
   // Theme
   theme: string;
   setTheme: (theme: string) => void;
-  
+
   // Reading controls
   isPlaying: boolean;
   startAutoScroll: () => void;
   stopAutoScroll: () => void;
-  
+
+  // Speech controls
+  speechSupported: boolean;
+  speechMode: boolean;
+  isSpeaking: boolean;
+  isPaused: boolean;
+  onStartSpeech: () => void;
+  onPauseSpeech: () => void;
+  onResumeSpeech: () => void;
+  onStopSpeech: () => void;
+
   // View modes
   hideTranslations: boolean;
   setHideTranslations: (hide: boolean) => void;
@@ -65,6 +76,15 @@ export function MobileToolbar({
   isPlaying,
   startAutoScroll,
   stopAutoScroll,
+  // Speech controls
+  speechSupported,
+  speechMode,
+  isSpeaking,
+  isPaused,
+  onStartSpeech,
+  onPauseSpeech,
+  onResumeSpeech,
+  onStopSpeech,
   hideTranslations,
   setHideTranslations,
   guessMode,
@@ -95,6 +115,40 @@ export function MobileToolbar({
       >
         {isPlaying ? <Pause size={16} /> : <Play size={16} />}
       </motion.button>
+
+      {/* Speech Controls */}
+      {speechSupported && (
+        <motion.button
+          whileHover={{ scale: 1.05 }}
+          whileTap={{ scale: 0.95 }}
+          onClick={isSpeaking ? (isPaused ? onResumeSpeech : onPauseSpeech) : onStartSpeech}
+          className={cn(
+            "p-2 rounded-lg transition-colors",
+            speechMode
+              ? "bg-blue-500 text-white"
+              : isSpeaking
+              ? "bg-orange-500 text-white"
+              : "bg-gray-500 text-white"
+          )}
+          title={
+            isSpeaking
+              ? isPaused
+                ? "Resume Speech"
+                : "Pause Speech"
+              : "Start Speech"
+          }
+        >
+          {isSpeaking ? (
+            isPaused ? (
+              <Play size={16} />
+            ) : (
+              <Pause size={16} />
+            )
+          ) : (
+            <Volume2 size={16} />
+          )}
+        </motion.button>
+      )}
 
       {/* Theme Switcher */}
       <motion.button
