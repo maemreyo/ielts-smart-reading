@@ -3,17 +3,13 @@
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import {
-  Sun,
-  Moon,
-  BookOpen,
   Play,
   Pause,
   Eye,
   EyeOff,
-  Globe,
-  Brain,
   Settings,
-  Volume2
+  Volume2,
+  VolumeX
 } from "lucide-react";
 import {
   DropdownMenu,
@@ -113,64 +109,67 @@ export function MobileToolbar({
   lineSpacing,
   setLineSpacing,
 }: MobileToolbarProps) {
-  const handleThemeToggle = () => {
-    const themes = ["light", "sepia", "dark"];
-    const currentIndex = themes.indexOf(theme);
-    const nextIndex = (currentIndex + 1) % themes.length;
-    setTheme(themes[nextIndex]);
-  };
 
   return (
     <div className="md:hidden flex items-center gap-1">
-      {/* Play/Pause */}
-      <motion.button
-        whileHover={{ scale: 1.05 }}
-        whileTap={{ scale: 0.95 }}
-        onClick={isPlaying ? stopAutoScroll : startAutoScroll}
-        className={cn(
-          "p-2 rounded-lg transition-colors",
-          isPlaying
-            ? "bg-red-500 text-white"
-            : "bg-green-500 text-white hover:bg-green-600"
-        )}
-        title={isPlaying ? "Pause (Space)" : "Play (Space)"}
-      >
-        {isPlaying ? <Pause size={16} /> : <Play size={16} />}
-      </motion.button>
+      {/* Unified Speech Control - Only show if speech is supported */}
+      {speechSupported ? (
+        <>
+          <motion.button
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            onClick={isSpeaking ? (isPaused ? onResumeSpeech : onPauseSpeech) : onStartSpeech}
+            className={cn(
+              "p-2 rounded-lg transition-colors",
+              isSpeaking && !isPaused
+                ? "bg-orange-500 text-white hover:bg-orange-600" // Speaking
+                : isSpeaking && isPaused
+                ? "bg-yellow-500 text-white hover:bg-yellow-600" // Paused
+                : "bg-green-500 text-white hover:bg-green-600" // Ready to speak
+            )}
+            title={isSpeaking ? (isPaused ? "Resume Speech (S)" : "Pause Speech (S)") : "Start Speech (S)"}
+          >
+            {isSpeaking && !isPaused ? (
+              <Pause size={16} />
+            ) : isSpeaking && isPaused ? (
+              <Play size={16} />
+            ) : (
+              <Volume2 size={16} />
+            )}
+          </motion.button>
 
-      {/* Speech Controls */}
-      {speechSupported && (
+          {/* Stop Button - Only show when speaking */}
+          {isSpeaking && (
+            <motion.button
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              onClick={onStopSpeech}
+              className="p-2 rounded-lg bg-red-500 text-white hover:bg-red-600"
+              title="Stop Speech (Shift+S)"
+            >
+              <VolumeX size={16} />
+            </motion.button>
+          )}
+        </>
+      ) : (
+        // Fallback for non-speech-supported browsers (original auto-scroll)
         <motion.button
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
-          onClick={isSpeaking ? (isPaused ? onResumeSpeech : onPauseSpeech) : onStartSpeech}
+          onClick={isPlaying ? stopAutoScroll : startAutoScroll}
           className={cn(
             "p-2 rounded-lg transition-colors",
-            isSpeaking
-              ? "bg-orange-500 text-white"
-              : "bg-gray-500 text-white"
+            isPlaying
+              ? "bg-red-500 text-white hover:bg-red-600"
+              : "bg-green-500 text-white hover:bg-green-600"
           )}
-          title={
-            isSpeaking
-              ? isPaused
-                ? "Resume Speech"
-                : "Pause Speech"
-              : "Start Speech"
-          }
+          title={isPlaying ? "Pause (Space)" : "Play (Space)"}
         >
-          {isSpeaking ? (
-            isPaused ? (
-              <Play size={16} />
-            ) : (
-              <Pause size={16} />
-            )
-          ) : (
-            <Volume2 size={16} />
-          )}
+          {isPlaying ? <Pause size={16} /> : <Play size={16} />}
         </motion.button>
       )}
 
-          {/* Dim Others toggle - Kept as essential control */}
+      {/* Dim Others toggle - Kept as essential control */}
       <motion.button
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}

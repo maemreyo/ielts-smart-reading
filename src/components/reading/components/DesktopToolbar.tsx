@@ -14,6 +14,7 @@ import {
   Eye,
   EyeOff,
   VolumeX,
+  Volume2,
   Turtle,
   Rabbit,
   Gauge,
@@ -117,7 +118,7 @@ export function DesktopToolbar({
 
       {/* Reading Controls */}
       <div className="flex items-center gap-1">
-        {/* Unified Play/Pause Button */}
+        {/* Unified Speech Control Button */}
         {speechSupported ? (
           <motion.button
             whileHover={{ scale: 1.05 }}
@@ -127,11 +128,19 @@ export function DesktopToolbar({
               "p-2 rounded-lg transition-colors",
               isSpeaking && !isPaused
                 ? "bg-orange-500 text-white hover:bg-orange-600" // Speaking
-                : "bg-green-500 text-white hover:bg-green-600" // Paused or stopped
+                : isSpeaking && isPaused
+                ? "bg-yellow-500 text-white hover:bg-yellow-600" // Paused
+                : "bg-green-500 text-white hover:bg-green-600" // Ready to speak
             )}
-            title={isSpeaking ? (isPaused ? "Resume (S)" : "Pause (S)") : "Read Aloud (S)"}
+            title={isSpeaking ? (isPaused ? "Resume Speech (S)" : "Pause Speech (S)") : "Start Reading Aloud (S)"}
           >
-            {isSpeaking && !isPaused ? <Pause size={18} /> : <Play size={18} />}
+            {isSpeaking && !isPaused ? (
+              <Pause size={18} />
+            ) : isSpeaking && isPaused ? (
+              <Play size={18} />
+            ) : (
+              <Volume2 size={18} />
+            )}
           </motion.button>
         ) : (
           // Fallback for non-speech-supported browsers (original auto-scroll)
@@ -142,22 +151,23 @@ export function DesktopToolbar({
             className={cn(
               "p-2 rounded-lg transition-colors",
               isPlaying
-                ? "bg-red-500 text-white"
+                ? "bg-red-500 text-white hover:bg-red-600"
                 : "bg-green-500 text-white hover:bg-green-600"
             )}
-            title={isPlaying ? "Pause (Space)" : "Play (Space)"}
+            title={isPlaying ? "Pause Auto-scroll (Space)" : "Start Auto-scroll (Space)"}
           >
             {isPlaying ? <Pause size={18} /> : <Play size={18} />}
           </motion.button>
         )}
 
-        {isSpeaking && (
+        {/* Stop Button - Only show when speaking */}
+        {speechSupported && isSpeaking && (
           <motion.button
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             onClick={onStopSpeech}
             className="p-2 rounded-lg bg-red-500 text-white hover:bg-red-600"
-            title="Stop (Shift+S)"
+            title="Stop Speech (Shift+S)"
           >
             <VolumeX size={18} />
           </motion.button>
@@ -168,7 +178,7 @@ export function DesktopToolbar({
           whileTap={{ scale: 0.95 }}
           onClick={resetReading}
           className="p-2 rounded-lg hover:bg-muted"
-          title="Reset (Esc)"
+          title="Reset Reading Position (Esc)"
         >
           <RotateCcw size={18} />
         </motion.button>

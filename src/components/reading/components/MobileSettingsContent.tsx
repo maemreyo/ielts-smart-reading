@@ -26,7 +26,6 @@ import {
   Brain,
   Turtle,
   Rabbit,
-  Zap,
   Gauge
 } from "lucide-react";
 
@@ -91,6 +90,13 @@ const cycleSpeechRatePresetMobile = (currentRate: number, setRate: (rate: number
   const nextIndex = (currentIndex + 1) % speechRatePresetsMobile.length;
   setRate(speechRatePresetsMobile[nextIndex].rate);
 };
+
+// Theme options for mobile
+const themes = [
+  { name: "Light", value: "light", icon: <Sun size={16} /> },
+  { name: "Sepia", value: "sepia", icon: <BookOpen size={16} /> },
+  { name: "Dark", value: "dark", icon: <Moon size={16} /> }
+];
 
 export function MobileSettingsContent({
   speechRate,
@@ -182,35 +188,7 @@ export function MobileSettingsContent({
         </div>
       </div>
 
-      {/* Advanced Options */}
-      <div className="space-y-3">
-        <label className="text-sm font-medium">Advanced Options</label>
-        <div className="space-y-2">
-          <div className="flex items-center justify-between">
-            <span className="text-sm">Focus Mode</span>
-            <Switch
-              checked={focusMode}
-              onCheckedChange={setFocusMode}
-            />
-          </div>
-          <div className="flex items-center justify-between">
-            <span className="text-sm">Dim Other Paragraphs</span>
-            <Switch
-              checked={dimOthers}
-              onCheckedChange={setDimOthers}
-            />
-          </div>
-          <div className="flex items-center justify-between">
-            <span className="text-sm">Show Animations</span>
-            <Switch
-              checked={showAnimations}
-              onCheckedChange={setShowAnimations}
-            />
-          </div>
-        </div>
-      </div>
-
-      <div className="border-t pt-4" />
+     
 
       {/* Font Family Settings */}
       <div className="space-y-3">
@@ -314,6 +292,132 @@ export function MobileSettingsContent({
             </button>
           ))}
         </div>
+      </div>
+
+      <div className="border-t pt-4" />
+
+      {/* Theme Settings */}
+      <div className="space-y-3">
+        <label className="text-sm font-medium">Theme</label>
+        <div className="flex gap-1">
+          {themes.map((t) => (
+            <button
+              key={t.value}
+              onClick={() => setTheme(t.value)}
+              className={cn(
+                "px-3 py-2 text-sm rounded-md transition-colors flex items-center gap-2",
+                theme === t.value
+                  ? "bg-primary text-primary-foreground"
+                  : "bg-muted hover:bg-muted/80"
+              )}
+              title={t.name}
+            >
+              {React.cloneElement(t.icon, { size: 14 })}
+              {t.name}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      {/* Reading Modes */}
+      <div className="space-y-3">
+        <label className="text-sm font-medium">Reading Modes</label>
+        <div className="space-y-2">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <Eye size={16} />
+              <span className="text-sm">Dim Other Paragraphs</span>
+            </div>
+            <button
+              onClick={() => setDimOthers(!dimOthers)}
+              className={cn(
+                "px-2 py-1 text-xs rounded-md transition-colors",
+                dimOthers
+                  ? "bg-primary text-primary-foreground"
+                  : "bg-muted hover:bg-muted/80"
+              )}
+            >
+              {dimOthers ? "On" : "Off"}
+            </button>
+          </div>
+
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <Focus size={16} />
+              <span className="text-sm">Focus Mode</span>
+            </div>
+            <button
+              onClick={() => setFocusMode(!focusMode)}
+              className={cn(
+                "px-2 py-1 text-xs rounded-md transition-colors",
+                focusMode
+                  ? "bg-primary text-primary-foreground"
+                  : "bg-muted hover:bg-muted/80"
+              )}
+            >
+              {focusMode ? "On" : "Off"}
+            </button>
+          </div>
+
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <Globe size={16} />
+              <span className="text-sm">Hide Translations</span>
+            </div>
+            <button
+              onClick={() => setHideTranslations(!hideTranslations)}
+              className={cn(
+                "px-2 py-1 text-xs rounded-md transition-colors",
+                hideTranslations
+                  ? "bg-primary text-primary-foreground"
+                  : "bg-muted hover:bg-muted/80"
+              )}
+            >
+              {hideTranslations ? "On" : "Off"}
+            </button>
+          </div>
+
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <Brain size={16} />
+              <span className="text-sm">Guess Mode</span>
+            </div>
+            <button
+              onClick={() => setGuessMode(!guessMode)}
+              className={cn(
+                "px-2 py-1 text-xs rounded-md transition-colors",
+                guessMode
+                  ? "bg-blue-500 text-white"
+                  : "bg-muted hover:bg-muted/80"
+              )}
+            >
+              {guessMode ? "On" : "Off"}
+            </button>
+          </div>
+        </div>
+      </div>
+
+      {/* Keyboard Shortcuts */}
+      <div className="flex items-center justify-between">
+        <div className="flex items-center gap-2">
+          <Keyboard size={16} />
+          <span className="text-sm font-medium">Keyboard Shortcuts</span>
+        </div>
+        <button
+          onClick={toggleShortcuts}
+          className="px-3 py-1 text-xs bg-muted hover:bg-muted/80 rounded-md transition-colors"
+        >
+          Show (Shift + ?)
+        </button>
+      </div>
+
+      {/* Animations Toggle */}
+      <div className="flex items-center justify-between">
+        <span className="text-sm font-medium">Show Animations</span>
+        <Switch
+          checked={showAnimations}
+          onCheckedChange={setShowAnimations}
+        />
       </div>
     </div>
   );
