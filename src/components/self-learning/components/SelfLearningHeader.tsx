@@ -25,7 +25,7 @@ export function SelfLearningHeader({
       <div className="max-w-7xl mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
-            <Link href={`/reading/${book}/${test}/${passage}`}>
+            <Link href={`/reading`}>
               <Button variant="ghost" size="sm" className="flex items-center gap-2">
                 <ArrowLeft className="w-4 h-4" />
                 Back to Reading
@@ -37,7 +37,7 @@ export function SelfLearningHeader({
               <h1 className="text-lg font-semibold">Learn by Myself Mode</h1>
             </div>
 
-            <Button
+            {/* <Button
               variant="ghost"
               size="sm"
               onClick={onSettingsClick}
@@ -45,7 +45,7 @@ export function SelfLearningHeader({
             >
               <Settings className="w-4 h-4" />
               Settings
-            </Button>
+            </Button> */}
           </div>
 
           {/* <div className="flex items-center gap-4">

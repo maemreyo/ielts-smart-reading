@@ -15,6 +15,7 @@ import { FloatingToolbar } from "./self-learning/components/FloatingToolbar";
 import { VocabularySidebar } from "./self-learning/components/VocabularySidebar";
 import { OnboardingTour } from "./self-learning/components/OnboardingTour";
 import { useIntroTour } from "./self-learning/hooks/useIntroTour";
+import { useEffect } from "react";
 
 export function SelfLearningView({
   title,
@@ -25,6 +26,7 @@ export function SelfLearningView({
 }: SelfLearningViewProps) {
   const readingState = useReadingState();
   const contentRef = useRef<HTMLDivElement>(null);
+  const sidebarRef = useRef<HTMLDivElement>(null);
   
   // UI state
   const [settingsOpen, setSettingsOpen] = useState(false);
@@ -63,6 +65,28 @@ export function SelfLearningView({
 
   // Onboarding tour
   const { startTour } = useIntroTour();
+
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (!isPanelCollapsed && sidebarRef.current && !sidebarRef.current.contains(event.target as Node)) {
+        setIsPanelCollapsed(true);
+      }
+    };
+
+    const handleEscapeKey = (event: KeyboardEvent) => {
+      if (!isPanelCollapsed && event.key === 'Escape') {
+        setIsPanelCollapsed(true);
+      }
+    };
+
+    document.addEventListener('mousedown', handleClickOutside);
+    document.addEventListener('keydown', handleEscapeKey);
+
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+      document.removeEventListener('keydown', handleEscapeKey);
+    };
+  }, [isPanelCollapsed]);
 
   // Theme classes for background
   const themeClasses = {
@@ -137,6 +161,7 @@ export function SelfLearningView({
       {/* Vocabulary Sidebar */}
       <div data-tour="vocabulary-sidebar">
         <VocabularySidebar
+          ref={sidebarRef}
           highlightedRanges={highlightedRanges}
           isPanelCollapsed={isPanelCollapsed}
           onToggleCollapse={() => setIsPanelCollapsed(!isPanelCollapsed)}

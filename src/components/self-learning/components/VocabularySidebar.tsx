@@ -22,29 +22,32 @@ interface VocabularySidebarProps {
   passage: string;
 }
 
-export function VocabularySidebar({
-  highlightedRanges,
-  isPanelCollapsed,
-  onToggleCollapse,
-  onClearAll,
-  onCopyToClipboard,
-  onDownloadFile,
-  exportAsText,
-  exportAsCSV,
-  exportAsJSON,
-  book,
-  test,
-  passage
-}: VocabularySidebarProps) {
+export const VocabularySidebar = React.forwardRef<HTMLDivElement, VocabularySidebarProps>((
+  {
+    highlightedRanges,
+    isPanelCollapsed,
+    onToggleCollapse,
+    onClearAll,
+    onCopyToClipboard,
+    onDownloadFile,
+    exportAsText,
+    exportAsCSV,
+    exportAsJSON,
+    book,
+    test,
+    passage
+  },
+  ref
+) => {
   const hasHighlights = highlightedRanges.length > 0;
 
   return (
-    <div className={cn(
+    <div ref={ref} className={cn(
       "fixed right-4 top-24 bg-card/95 backdrop-blur-md border border-border/50 rounded-xl shadow-xl z-30 transition-all duration-500 ease-in-out",
-      isPanelCollapsed 
-        ? "w-14 h-14" 
-        : hasHighlights 
-          ? "w-80 h-[calc(100vh-6rem)]" 
+      isPanelCollapsed
+        ? "w-14 h-14"
+        : hasHighlights
+          ? "w-80 h-[calc(100vh-6rem)]"
           : "w-80 h-96"
     )}>
       <div className={cn(
@@ -68,8 +71,8 @@ export function VocabularySidebar({
             onClick={onToggleCollapse}
             className={cn(
               "transition-all duration-300 hover:bg-primary/10",
-              isPanelCollapsed 
-                ? "p-2 h-8 w-8 rounded-full" 
+              isPanelCollapsed
+                ? "p-2 h-8 w-8 rounded-full"
                 : "p-1 h-8 w-8"
             )}
             title={isPanelCollapsed ? "Expand vocabulary panel" : "Collapse panel"}
@@ -204,7 +207,7 @@ export function VocabularySidebar({
                 <p className="text-xs text-muted-foreground mb-6 leading-relaxed">
                   Select text or click words to start building your vocabulary list.
                 </p>
-                
+
                 {/* Quick tips */}
                 <div className="space-y-2 text-xs text-muted-foreground">
                   <div className="flex items-center gap-2">
@@ -226,5 +229,5 @@ export function VocabularySidebar({
         )}
       </div>
     </div>
-  );
-}
+  )
+});
