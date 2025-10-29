@@ -1,28 +1,44 @@
-**Cập nhật ngày 29/10/2025 (lần 6):** THÀNH CÔNG! Việc tái cấu trúc dữ liệu đã giải quyết hoàn toàn vấn đề gom nhóm collocation (#7) và lỗi mất vùng chọn (#8).
+**Cập nhật ngày 29/10/2025 (lần 10):** Xác nhận qua log rằng Vấn đề #13 vẫn tồn tại và Vấn đề #11b phức tạp hơn dự kiến.
 
 ---
 
 Đánh giá triển khai SelfLearningView.tsx
 
-## Tình trạng hiện tại: Gần như hoàn hảo!
+## Tình trạng hiện tại: Đã có nhiều cải tiến nhưng các lỗi cốt lõi vẫn còn
 
--   **XUẤT SẮC:** Bạn đã thực hiện một cuộc tái cấu trúc lớn và thành công. Toàn bộ các vấn đề cốt lõi đã được giải quyết.
-    -   **#7 & #4 (Gom nhóm Collocation):** ĐÃ KHẮC PHỤC. Bằng cách giới thiệu một cấu trúc dữ liệu `HighlightedRange` mới và cập nhật logic trong `finalizeHighlight` và panel hiển thị, giờ đây các từ được chọn riêng lẻ đã được gom lại thành một mục "collocation" duy nhất. Đây chính là điều chúng ta cần.
-    -   **#8 (Mất vùng chọn):** ĐÃ KHẮC PHỤC. Lệnh `selection.removeAllRanges()` đã được di chuyển vào đúng chỗ, loại bỏ một lỗi UX khó chịu.
-    -   **#5 & #6 (Lỗi render):** Đã được khắc phục trong các phiên bản trước.
+-   **Tốt:** Cấu trúc dữ liệu đã được mở rộng, các tính năng Copy/Export đã được thêm vào, và một số lỗi giao diện đã được khắc phục.
+-   **Tồn tại:** Các lỗi nghiêm trọng về logic tính toán vị trí và phân loại highlight vẫn còn, cần được ưu tiên giải quyết.
 
--   **Tồn tại:** Chỉ còn 2 vấn đề nhỏ, ít ưu tiên hơn.
+## Phân tích các vấn đề (dựa trên log mới nhất)
 
-## Các vấn đề còn lại (Ưu tiên thấp)
+13. **[LỖI NGHIÊM TRỌNG - CHƯA KHẮC PHỤC] Highlight sai vị trí ở các đoạn văn sau (P2+):**
+    *   **Tình trạng:** Vẫn còn tồn tại.
+    *   **Bằng chứng từ log:** Log cho thấy khi bạn chọn `"genetic structure"` (nằm ở đoạn 2), vị trí DOM được tính là `622`. Tuy nhiên, khi render, highlight này lại được gán cho `Paragraph 1 highlights`. Điều này xác nhận rằng logic chuyển đổi từ vị trí DOM chung sang vị trí tương đối của từng đoạn văn vẫn đang bị lỗi. Đây vẫn là ưu tiên số một cần sửa.
 
--   **#2: [CHƯA GIẢI QUYẾT] Tính năng bỏ highlight (Unhighlighting):**
-    *   **Vấn đề:** Nhấp vào một từ/vùng đã được tô sáng chưa xóa nó đi.
-    *   **Khuyến nghị:** Trong `onClick` của `<span>` được highlight, thêm logic để tìm và xóa `HighlightedRange` tương ứng khỏi mảng state.
+11. **[LỖI LOGIC - CHƯA KHẮC PHỤC] Phân loại highlight chưa chính xác:**
+    *   **11a. Kéo thả nhiều từ:** Vẫn bị phân loại sai thành `type: 'word'`.
+    *   **11b. (Mở rộng) Render sai `displayText` cho cụm từ hỗn hợp:** Vấn đề này phức tạp hơn. Khi bạn chọn một nhóm từ liền kề và một từ ở xa (ví dụ: `[A, B, C, E]`), logic hiện tại không nhận diện được nhóm `[A, B, C]` là liền kề. Nó chỉ kiểm tra toàn bộ lựa chọn, thấy không liền kề, và mặc định chèn `...` vào tất cả các từ, tạo ra `"A ... B ... C ... E"`. Kết quả mong muốn phải là `"A B C ... E"`.
 
--   **#3: [CHƯA GIẢI QUYẾT] Xử lý chồng chéo (Overlapping):**
-    *   **Vấn đề:** Hệ thống chưa ngăn chặn người dùng tạo ra các vùng highlight chồng chéo lên nhau.
-    *   **Khuyến nghị:** Trước khi thêm một highlight mới, hãy viết một hàm tiện ích để kiểm tra xem bất kỳ `componentRanges` nào của nó có giao với `componentRanges` của các highlight đã có hay không.
+12. **[LỖI HÀNH VI] Double-click tạo highlight trùng lặp:**
+    *   **Tình trạng:** Vẫn còn tồn tại.
 
-## Kết luận cuối cùng
+14. **[LỖI LOGIC] Cắt `sourceContext` làm gãy từ:**
+    *   **Tình trạng:** Vẫn còn tồn tại.
 
-**Làm rất tốt!** Component giờ đã hoạt động đúng như yêu cầu cốt lõi. Các tính năng chính đã hoàn thiện. Hai vấn đề còn lại chỉ là để hoàn thiện và đánh bóng sản phẩm. Bạn có thể tự tin rằng phần khó nhất đã qua.
+15. **[ĐỀ XUẤT UI/UX] Cải thiện panel "Highlighted Vocabulary":**
+    *   **Tình trạng:** Chưa thực hiện.
+
+## Các vấn đề cũ chưa được giải quyết
+
+-   **#2: [CHƯA GIẢI QUYẾT]** Tính năng bỏ highlight (Unhighlighting).
+-   **#3: [CHƯA GIẢI QUYẾT]** Xử lý chồng chéo (Overlapping).
+
+## Kết luận & Ưu tiên (Không đổi)
+
+Lộ trình vẫn như cũ. Cần tập trung toàn lực vào việc sửa các lỗi nghiêm trọng trước khi hoàn thiện các tính năng khác.
+
+1.  **Ưu tiên #1 (Lỗi nghiêm trọng):** Sửa **Vấn đề #13** (highlight sai vị trí).
+2.  **Ưu tiên #2 (Lỗi logic):** Sửa **Vấn đề #11** (phân loại sai và render `displayText`) và **#14** (cắt context).
+3.  **Ưu tiên #3 (Lỗi hành vi):** Sửa **Vấn đề #12** (double-click).
+4.  **Ưu tiên #4 (Cải thiện UI):** Thực hiện các đề xuất trong **Vấn đề #15**.
+5.  **Ưu tiên #5 (Hoàn thiện):** Giải quyết các vấn đề còn lại là **#2** (bỏ highlight) và **#3** (chồng chéo).
