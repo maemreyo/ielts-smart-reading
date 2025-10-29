@@ -38,41 +38,56 @@ export function useTextSelection({
     const fullText = getFullText();
     if (!fullText) return "";
 
+    console.log('📄 Extracting source context for positions:', { start, end, fullTextLength: fullText.length });
+
     // Find the start and end of the sentence containing the highlighted text
     const beforeText = fullText.substring(0, start);
     const afterText = fullText.substring(end);
 
-    // Find sentence boundaries (., !, ?)
-    const sentenceStart = Math.max(
-      beforeText.lastIndexOf('. ') + 2,
-      beforeText.lastIndexOf('! ') + 2,
-      beforeText.lastIndexOf('? ') + 2,
-      0
-    );
+    // Find sentence boundaries (., !, ?) with proper spacing
+    const sentenceStartCandidates = [
+      beforeText.lastIndexOf('. ') !== -1 ? beforeText.lastIndexOf('. ') + 2 : -1,
+      beforeText.lastIndexOf('! ') !== -1 ? beforeText.lastIndexOf('! ') + 2 : -1,
+      beforeText.lastIndexOf('? ') !== -1 ? beforeText.lastIndexOf('? ') + 2 : -1,
+      0 // Start of text as fallback
+    ].filter(pos => pos !== -1);
 
-    const sentenceEnd = Math.min(
-      afterText.indexOf('. ') + end + 1,
-      afterText.indexOf('! ') + end + 1,
-      afterText.indexOf('? ') + end + 1,
-      fullText.length
-    );
+    const sentenceStart = Math.max(...sentenceStartCandidates);
+
+    const sentenceEndCandidates = [
+      afterText.indexOf('. ') !== -1 ? afterText.indexOf('. ') + end + 1 : -1,
+      afterText.indexOf('! ') !== -1 ? afterText.indexOf('! ') + end + 1 : -1,
+      afterText.indexOf('? ') !== -1 ? afterText.indexOf('? ') + end + 1 : -1,
+      fullText.length // End of text as fallback
+    ].filter(pos => pos !== -1);
+
+    const sentenceEnd = Math.min(...sentenceEndCandidates);
 
     const sentence = fullText.substring(sentenceStart, sentenceEnd).trim();
+    console.log('📝 Extracted sentence:', `"${sentence}"`);
 
     // Truncate to < 18 words as per specification, respecting word boundaries
-    const words = sentence.split(' ').filter(word => word.trim().length > 0);
+    const words = sentence.split(/\s+/).filter(word => word.trim().length > 0);
+    console.log('📊 Word analysis:', { totalWords: words.length, words: words.slice(0, 10) });
+
     if (words.length > 18) {
+      // Take first 18 words
       const truncatedWords = words.slice(0, 18);
       let truncatedText = truncatedWords.join(' ');
 
+      // Clean up trailing punctuation and add ellipsis
+      truncatedText = truncatedText.replace(/[,.!?;:]+$/, '');
+      
+      // Only add ellipsis if we actually truncated content
       if (words.length > 18) {
-        truncatedText = truncatedText.replace(/[,.!?;:]+$/, '');
         truncatedText += '...';
       }
 
+      console.log('✂️ Truncated context:', `"${truncatedText}"`);
       return truncatedText;
     }
 
+    console.log('✅ Context within limit:', `"${sentence}"`);
     return sentence;
   }, [getFullText]);
 
@@ -126,24 +141,32 @@ export function useTextSelection({
     let paragraphElement = container as Element;
     while (paragraphElement && paragraphElement !== contentRef.current) {
       if (paragraphElement.tagName === 'P' || paragraphElement.tagName === 'DIV') {
-        // Check if this is one of our rendered paragraphs
-        const childNodes = Array.from(contentRef.current.children);
-        const paragraphIndex = childNodes.indexOf(paragraphElement);
+        // Check if this is one of our rendered paragraphs by walking through the DOM structure
+        const contentChildren = Array.from(contentRef.current.children);
+        
+        // Look for the paragraph within motion.div wrappers
+        for (let i = 0; i < contentChildren.length; i++) {
+          const motionDiv = contentChildren[i];
+          const paragraphElements = motionDiv.querySelectorAll('p');
+          
+          for (let j = 0; j < paragraphElements.length; j++) {
+            if (paragraphElements[j] === paragraphElement || paragraphElements[j].contains(paragraphElement)) {
+              // Calculate the relative position within this paragraph
+              const paragraphRange = document.createRange();
+              paragraphRange.selectNodeContents(paragraphElements[j]);
+              paragraphRange.setEnd(range.startContainer, range.startOffset);
+              const relativePosition = paragraphRange.toString().length;
 
-        if (paragraphIndex !== -1) {
-          // Calculate the relative position within this paragraph
-          const paragraphRange = document.createRange();
-          paragraphRange.selectNodeContents(paragraphElement);
-          paragraphRange.setEnd(range.startContainer, range.startOffset);
-          const relativePosition = paragraphRange.toString().length;
+              console.log('🎯 Found paragraph:', {
+                paragraphIndex: i, // Use the motion div index as paragraph index
+                paragraphText: paragraphElements[j].textContent?.substring(0, 50) + '...',
+                relativePosition,
+                actualParagraphInDiv: j
+              });
 
-          console.log('🎯 Found paragraph:', {
-            paragraphIndex,
-            paragraphText: paragraphElement.textContent?.substring(0, 50) + '...',
-            relativePosition
-          });
-
-          return { paragraphIndex, relativePosition };
+              return { paragraphIndex: i, relativePosition };
+            }
+          }
         }
       }
       paragraphElement = paragraphElement.parentElement;
@@ -230,19 +253,51 @@ export function useTextSelection({
       const timeSinceLastHighlight = currentTime - lastHighlightTime;
       const isSameText = selectedText === lastHighlightText;
       const isSimilarText = selectedText.trim() === lastHighlightText.trim();
-      const isRapidSelection = timeSinceLastHighlight < 500 && (isSameText || isSimilarText);
+      const isRapidSelection = timeSinceLastHighlight < 1000 && (isSameText || isSimilarText); // Increased timeout to 1 second
 
-      // Also check for range overlap as additional protection
+      // Enhanced overlap detection - check for exact matches and partial overlaps
       const hasOverlappingRange = highlightedRanges.some(hr =>
         hr.componentRanges.some(range => {
+          // Check for exact match first
+          if (range.start === start && range.end === end) {
+            console.log('🔍 Found exact match:', { existing: range, new: { start, end } });
+            return true;
+          }
+          
+          // Check for partial overlap
           const overlapStart = Math.max(start, range.start);
           const overlapEnd = Math.min(end, range.end);
-          return overlapStart < overlapEnd; // Some overlap exists
+          const hasOverlap = overlapStart < overlapEnd;
+          
+          if (hasOverlap) {
+            console.log('🔍 Found overlap:', { 
+              existing: range, 
+              new: { start, end }, 
+              overlap: { overlapStart, overlapEnd } 
+            });
+          }
+          
+          return hasOverlap;
         })
       );
 
+      // Enhanced duplicate detection logging
+      console.log('🖱️ Duplicate detection:', {
+        currentTime,
+        lastHighlightTime,
+        timeSinceLastHighlight,
+        selectedText: `"${selectedText}"`,
+        lastHighlightText: `"${lastHighlightText}"`,
+        isSameText,
+        isSimilarText,
+        isRapidSelection,
+        hasOverlappingRange,
+        shouldBlock: isRapidSelection || hasOverlappingRange
+      });
+
       if (isRapidSelection || hasOverlappingRange) {
         console.log('🚫 Duplicate highlight detected, ignoring');
+        selection.removeAllRanges(); // Clear selection to avoid confusion
         return;
       }
 
@@ -252,6 +307,15 @@ export function useTextSelection({
         const words = trimmedText.split(/\s+/).filter(word => word.length > 0);
         const isCollocation = words.length > 1;
         const type = isCollocation ? 'collocation' : 'word';
+
+        console.log('🔍 Classification analysis for mouse selection:', {
+          originalText: `"${selectedText}"`,
+          trimmedText: `"${trimmedText}"`,
+          words,
+          wordCount: words.length,
+          isCollocation,
+          type
+        });
 
         const newHighlight = createHighlightedRange(
           selectedText,
@@ -343,6 +407,14 @@ export function useTextSelection({
       }
     } else {
       // Multi-word selection - create a collocation
+      console.log('🔗 Creating collocation from multiple words');
+      console.log('🔍 Analyzing contiguity for words:', sortedWords.map(w => ({
+        word: w.word,
+        start: w.start,
+        end: w.end,
+        paragraphIndex: w.paragraphIndex
+      })));
+
       const contiguousGroups: Array<{words: typeof sortedWords, isContiguous: boolean}> = [];
       let currentGroup: typeof sortedWords = [sortedWords[0]];
 
@@ -350,42 +422,68 @@ export function useTextSelection({
         const currentWord = sortedWords[i];
         const prevWord = sortedWords[i - 1];
 
-        // Check if words are contiguous
+        // Check if words are contiguous (same paragraph and close position)
         const isContiguous =
           currentWord.paragraphIndex === prevWord.paragraphIndex &&
           currentWord.start !== undefined &&
           prevWord.end !== undefined &&
-          (currentWord.start - prevWord.end) <= 5;
+          (currentWord.start - prevWord.end) <= 5; // Allow up to 5 characters gap
+
+        console.log(`📏 Checking contiguity between "${prevWord.word}" and "${currentWord.word}":`, {
+          isContiguous,
+          gap: currentWord.start !== undefined && prevWord.end !== undefined ? currentWord.start - prevWord.end : 'unknown',
+          sameParagraph: currentWord.paragraphIndex === prevWord.paragraphIndex,
+          paragraphIndex: currentWord.paragraphIndex
+        });
 
         if (isContiguous) {
+          // Add to current group
           currentGroup.push(currentWord);
         } else {
+          // Start a new group
           contiguousGroups.push({
-            words: currentGroup,
+            words: [...currentGroup],
             isContiguous: currentGroup.length > 1
           });
           currentGroup = [currentWord];
         }
       }
 
+      // Add the last group
       contiguousGroups.push({
-        words: currentGroup,
+        words: [...currentGroup],
         isContiguous: currentGroup.length > 1
       });
 
-      // Create display text
+      console.log('📊 Contiguous groups detected:', contiguousGroups.map(g => ({
+        words: g.words.map(w => w.word),
+        isContiguous: g.isContiguous,
+        wordCount: g.words.length
+      })));
+
+      // Create display text based on contiguous groups
       const displayTextParts: string[] = [];
       contiguousGroups.forEach((group) => {
         if (group.isContiguous) {
+          // Join contiguous words with spaces
           displayTextParts.push(group.words.map(w => w.word).join(' '));
         } else {
-          displayTextParts.push(group.words[0].word);
+          // For single words, add them individually
+          group.words.forEach(word => {
+            displayTextParts.push(word.word);
+          });
         }
       });
 
-      const displayText = displayTextParts.length === 1 
-        ? displayTextParts[0] 
-        : displayTextParts.join(' ... ');
+      // Join groups with ellipsis if there are multiple non-contiguous parts
+      let displayText: string;
+      if (displayTextParts.length === 1) {
+        displayText = displayTextParts[0];
+      } else {
+        displayText = displayTextParts.join(' ... ');
+      }
+
+      console.log('🎨 Final display text:', `"${displayText}"`);
 
       const componentRanges = sortedWords.map((word) => {
         if (word.start !== undefined && word.end !== undefined && word.start !== -1) {

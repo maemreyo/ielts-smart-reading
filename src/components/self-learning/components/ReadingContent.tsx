@@ -10,6 +10,7 @@ interface ReadingContentProps {
   highlightedRanges: HighlightedRange[];
   selectedWords: SelectedWord[];
   onWordClick: (word: string, element: HTMLElement, position: number, paragraphIndex: number, isCtrlPressed: boolean) => void;
+  onRemoveHighlight: (highlightId: string) => void;
   lineSpacing: string;
   contentRef: React.RefObject<HTMLDivElement>;
   onToolbarPositionUpdate: (position: { x: number; y: number }) => void;
@@ -20,6 +21,7 @@ export function ReadingContent({
   highlightedRanges,
   selectedWords,
   onWordClick,
+  onRemoveHighlight,
   lineSpacing,
   contentRef,
   onToolbarPositionUpdate
@@ -240,13 +242,16 @@ export function ReadingContent({
             paragraphElements.push(
               <span
                 key={`highlight-${highlightId}-${componentIndex}`}
-                className="bg-yellow-200 dark:bg-yellow-800/50 px-0.5 py-0.5 -mx-0.5 rounded cursor-pointer hover:bg-yellow-300 dark:hover:bg-yellow-700/50"
+                className="bg-yellow-200 dark:bg-yellow-800/50 px-0.5 py-0.5 -mx-0.5 rounded cursor-pointer hover:bg-red-300 dark:hover:bg-red-700/50 transition-colors"
                 onClick={(e) => {
                   e.stopPropagation();
                   console.log('🖱️ Clicked highlighted text:', {highlightId, displayText, highlightedText});
-                  // TODO: Implement remove highlight functionality
+                  // Confirm before removing highlight
+                  if (window.confirm(`Remove highlight "${displayText}"?`)) {
+                    onRemoveHighlight(highlightId);
+                  }
                 }}
-                title={displayText} // Show the full display text on hover
+                title={`Click to remove highlight: "${displayText}"`} // Show remove instruction on hover
               >
                 {highlightedText}
               </span>

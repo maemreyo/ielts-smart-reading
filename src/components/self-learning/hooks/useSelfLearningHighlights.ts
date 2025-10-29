@@ -16,31 +16,39 @@ export function useSelfLearningHighlights(paragraphs: string[]) {
     const beforeText = fullText.substring(0, start);
     const afterText = fullText.substring(end);
 
-    // Find sentence boundaries (., !, ?)
-    const sentenceStart = Math.max(
-      beforeText.lastIndexOf('. ') + 2,
-      beforeText.lastIndexOf('! ') + 2,
-      beforeText.lastIndexOf('? ') + 2,
-      0
-    );
+    // Find sentence boundaries (., !, ?) with proper spacing
+    const sentenceStartCandidates = [
+      beforeText.lastIndexOf('. ') !== -1 ? beforeText.lastIndexOf('. ') + 2 : -1,
+      beforeText.lastIndexOf('! ') !== -1 ? beforeText.lastIndexOf('! ') + 2 : -1,
+      beforeText.lastIndexOf('? ') !== -1 ? beforeText.lastIndexOf('? ') + 2 : -1,
+      0 // Start of text as fallback
+    ].filter(pos => pos !== -1);
 
-    const sentenceEnd = Math.min(
-      afterText.indexOf('. ') + end + 1,
-      afterText.indexOf('! ') + end + 1,
-      afterText.indexOf('? ') + end + 1,
-      fullText.length
-    );
+    const sentenceStart = Math.max(...sentenceStartCandidates);
+
+    const sentenceEndCandidates = [
+      afterText.indexOf('. ') !== -1 ? afterText.indexOf('. ') + end + 1 : -1,
+      afterText.indexOf('! ') !== -1 ? afterText.indexOf('! ') + end + 1 : -1,
+      afterText.indexOf('? ') !== -1 ? afterText.indexOf('? ') + end + 1 : -1,
+      fullText.length // End of text as fallback
+    ].filter(pos => pos !== -1);
+
+    const sentenceEnd = Math.min(...sentenceEndCandidates);
 
     const sentence = fullText.substring(sentenceStart, sentenceEnd).trim();
 
     // Truncate to < 18 words as per specification, respecting word boundaries
-    const words = sentence.split(' ').filter(word => word.trim().length > 0);
+    const words = sentence.split(/\s+/).filter(word => word.trim().length > 0);
     if (words.length > 18) {
+      // Take first 18 words
       const truncatedWords = words.slice(0, 18);
       let truncatedText = truncatedWords.join(' ');
 
+      // Clean up trailing punctuation and add ellipsis
+      truncatedText = truncatedText.replace(/[,.!?;:]+$/, '');
+      
+      // Only add ellipsis if we actually truncated content
       if (words.length > 18) {
-        truncatedText = truncatedText.replace(/[,.!?;:]+$/, '');
         truncatedText += '...';
       }
 
@@ -117,9 +125,20 @@ export function useSelfLearningHighlights(paragraphs: string[]) {
     setHighlightedRanges([]);
   }, []);
 
+  // Remove a specific highlight
+  const removeHighlight = useCallback((highlightId: string) => {
+    console.log('🗑️ Removing highlight:', highlightId);
+    setHighlightedRanges(prev => {
+      const updated = prev.filter(highlight => highlight.id !== highlightId);
+      console.log('📋 Highlights after removal:', updated);
+      return updated;
+    });
+  }, []);
+
   return {
     highlightedRanges,
     setHighlightedRanges,
-    clearHighlightedItems
+    clearHighlightedItems,
+    removeHighlight
   };
 }

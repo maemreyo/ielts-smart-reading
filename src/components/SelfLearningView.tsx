@@ -30,7 +30,7 @@ export function SelfLearningView({
   const [isClient] = useState(typeof window !== 'undefined');
 
   // Highlights management
-  const { highlightedRanges, setHighlightedRanges, clearHighlightedItems } = 
+  const { highlightedRanges, setHighlightedRanges, clearHighlightedItems, removeHighlight } = 
     useSelfLearningHighlights(paragraphs);
 
   // Text selection functionality
@@ -113,6 +113,7 @@ export function SelfLearningView({
             highlightedRanges={highlightedRanges}
             selectedWords={selectedWords}
             onWordClick={handleWordClick}
+            onRemoveHighlight={removeHighlight}
             lineSpacing={readingState.lineSpacing}
             contentRef={contentRef}
             onToolbarPositionUpdate={setToolbarPosition}
