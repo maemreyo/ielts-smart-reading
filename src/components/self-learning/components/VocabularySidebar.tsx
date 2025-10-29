@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { Highlighter, Copy, Download } from "lucide-react";
 import { cn } from "@/lib/utils";
@@ -35,31 +36,46 @@ export function VocabularySidebar({
   test,
   passage
 }: VocabularySidebarProps) {
-  if (highlightedRanges.length === 0) return null;
+  const hasHighlights = highlightedRanges.length > 0;
 
   return (
     <div className={cn(
-      "fixed right-0 top-20 bg-card border-l border-border shadow-lg z-30 transition-all duration-300",
-      isPanelCollapsed ? "w-12" : "w-80 bottom-0"
+      "fixed right-4 top-24 bg-card/95 backdrop-blur-md border border-border/50 rounded-xl shadow-xl z-30 transition-all duration-500 ease-in-out",
+      isPanelCollapsed 
+        ? "w-14 h-14" 
+        : hasHighlights 
+          ? "w-80 h-[calc(100vh-6rem)]" 
+          : "w-80 h-96"
     )}>
-      <div className="p-4">
+      <div className={cn(
+        "p-4 h-full flex flex-col transition-all duration-300",
+        isPanelCollapsed && "p-3"
+      )}>
         {/* Header with collapse button */}
-        <div className="flex items-center justify-between mb-4">
+        <div className={cn(
+          "flex items-center justify-between transition-all duration-300",
+          isPanelCollapsed ? "mb-0" : "mb-4"
+        )}>
           {!isPanelCollapsed && (
             <h3 className="font-semibold flex items-center gap-2">
-              <Highlighter className="w-5 h-5" />
-              Vocabulary ({highlightedRanges.length})
+              <Highlighter className={cn("w-5 h-5", hasHighlights ? "text-primary" : "text-muted-foreground")} />
+              {hasHighlights ? `Vocabulary (${highlightedRanges.length})` : "Vocabulary"}
             </h3>
           )}
           <Button
             size="sm"
             variant="ghost"
             onClick={onToggleCollapse}
-            className="p-1 h-8 w-8"
-            title={isPanelCollapsed ? "Expand panel" : "Collapse panel"}
+            className={cn(
+              "transition-all duration-300 hover:bg-primary/10",
+              isPanelCollapsed 
+                ? "p-2 h-8 w-8 rounded-full" 
+                : "p-1 h-8 w-8"
+            )}
+            title={isPanelCollapsed ? "Expand vocabulary panel" : "Collapse panel"}
           >
             {isPanelCollapsed ? (
-              <span className="text-lg">›</span>
+              <Highlighter className={cn("w-4 h-4", hasHighlights ? "text-primary" : "text-muted-foreground")} />
             ) : (
               <span className="text-lg">‹</span>
             )}
@@ -67,100 +83,146 @@ export function VocabularySidebar({
         </div>
 
         {!isPanelCollapsed && (
-          <>
-            {/* Copy and Export buttons */}
-            <div className="mb-4 space-y-2">
-              {/* Copy Section */}
-              <div className="space-y-2">
-                <div className="text-xs font-medium text-muted-foreground">Copy to Clipboard</div>
-                <div className="flex gap-2">
-                  <Button
-                    size="sm"
-                    variant="outline"
-                    onClick={() => onCopyToClipboard('simple')}
-                    className="flex-1 flex items-center gap-1"
-                  >
-                    <Copy className="w-3 h-3" />
-                    Copy Simple
-                  </Button>
-                  <Button
-                    size="sm"
-                    variant="outline"
-                    onClick={() => onCopyToClipboard('json')}
-                    className="flex-1 flex items-center gap-1"
-                  >
-                    <Copy className="w-3 h-3" />
-                    Copy JSON
-                  </Button>
-                </div>
-              </div>
-
-              {/* Export Section */}
-              <div className="space-y-2">
-                <div className="text-xs font-medium text-muted-foreground">Export as File</div>
-                <div className="flex gap-1">
-                  <Button
-                    size="sm"
-                    variant="outline"
-                    onClick={() => onDownloadFile(exportAsText(), `vocabulary-${book}-${test}-${passage}.txt`, 'text/plain')}
-                    className="flex-1 flex items-center gap-1 text-xs"
-                  >
-                    <Download className="w-3 h-3" />
-                    .txt
-                  </Button>
-                  <Button
-                    size="sm"
-                    variant="outline"
-                    onClick={() => onDownloadFile(exportAsCSV(), `vocabulary-${book}-${test}-${passage}.csv`, 'text/csv')}
-                    className="flex-1 flex items-center gap-1 text-xs"
-                  >
-                    <Download className="w-3 h-3" />
-                    .csv
-                  </Button>
-                  <Button
-                    size="sm"
-                    variant="outline"
-                    onClick={() => onDownloadFile(exportAsJSON(), `vocabulary-${book}-${test}-${passage}.json`, 'application/json')}
-                    className="flex-1 flex items-center gap-1 text-xs"
-                  >
-                    <Download className="w-3 h-3" />
-                    .json
-                  </Button>
-                </div>
-              </div>
-            </div>
-
-            {/* Vocabulary list */}
-            <div className="space-y-2 max-h-96 overflow-y-auto">
-              {highlightedRanges.map((item) => (
-                <div
-                  key={item.id}
-                  className="p-3 bg-muted/30 rounded-lg border border-border/50 hover:bg-muted/50 transition-colors"
-                >
-                  <div className="font-medium text-sm text-foreground leading-relaxed">
-                    {item.displayText}
-                  </div>
-                  {item.type === 'collocation' && (
-                    <div className="text-xs text-muted-foreground mt-1 italic">
-                      Phrase
-                    </div>
-                  )}
-                </div>
-              ))}
-            </div>
-
-            {/* Clear button at bottom */}
-            <div className="mt-4 pt-4 border-t border-border">
-              <Button
-                variant="destructive"
-                size="sm"
-                onClick={onClearAll}
-                className="w-full"
+          <AnimatePresence mode="wait">
+            {hasHighlights ? (
+              <motion.div
+                key="has-highlights"
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -20 }}
+                transition={{ duration: 0.3 }}
               >
-                Clear All Highlights
-              </Button>
-            </div>
-          </>
+                {/* Copy and Export buttons */}
+                <div className="mb-4 space-y-2">
+                  {/* Copy Section */}
+                  <div className="space-y-2">
+                    <div className="text-xs font-medium text-muted-foreground">Copy to Clipboard</div>
+                    <div className="flex gap-2">
+                      <Button
+                        size="sm"
+                        variant="outline"
+                        onClick={() => onCopyToClipboard('simple')}
+                        className="flex-1 flex items-center gap-1"
+                      >
+                        <Copy className="w-3 h-3" />
+                        Copy Simple
+                      </Button>
+                      <Button
+                        size="sm"
+                        variant="outline"
+                        onClick={() => onCopyToClipboard('json')}
+                        className="flex-1 flex items-center gap-1"
+                      >
+                        <Copy className="w-3 h-3" />
+                        Copy JSON
+                      </Button>
+                    </div>
+                  </div>
+
+                  {/* Export Section */}
+                  <div className="space-y-2">
+                    <div className="text-xs font-medium text-muted-foreground">Export as File</div>
+                    <div className="flex gap-1">
+                      <Button
+                        size="sm"
+                        variant="outline"
+                        onClick={() => onDownloadFile(exportAsText(), `vocabulary-${book}-${test}-${passage}.txt`, 'text/plain')}
+                        className="flex-1 flex items-center gap-1 text-xs"
+                      >
+                        <Download className="w-3 h-3" />
+                        .txt
+                      </Button>
+                      <Button
+                        size="sm"
+                        variant="outline"
+                        onClick={() => onDownloadFile(exportAsCSV(), `vocabulary-${book}-${test}-${passage}.csv`, 'text/csv')}
+                        className="flex-1 flex items-center gap-1 text-xs"
+                      >
+                        <Download className="w-3 h-3" />
+                        .csv
+                      </Button>
+                      <Button
+                        size="sm"
+                        variant="outline"
+                        onClick={() => onDownloadFile(exportAsJSON(), `vocabulary-${book}-${test}-${passage}.json`, 'application/json')}
+                        className="flex-1 flex items-center gap-1 text-xs"
+                      >
+                        <Download className="w-3 h-3" />
+                        .json
+                      </Button>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Vocabulary list */}
+                <div className="space-y-2 max-h-96 overflow-y-auto">
+                  {highlightedRanges.map((item) => (
+                    <div
+                      key={item.id}
+                      className="p-3 bg-muted/30 rounded-lg border border-border/50 hover:bg-muted/50 transition-colors"
+                    >
+                      <div className="font-medium text-sm text-foreground leading-relaxed">
+                        {item.displayText}
+                      </div>
+                      {item.type === 'collocation' && (
+                        <div className="text-xs text-muted-foreground mt-1 italic">
+                          Phrase
+                        </div>
+                      )}
+                    </div>
+                  ))}
+                </div>
+
+                {/* Clear button at bottom */}
+                <div className="mt-4 pt-4 border-t border-border">
+                  <Button
+                    variant="destructive"
+                    size="sm"
+                    onClick={onClearAll}
+                    className="w-full"
+                  >
+                    Clear All Highlights
+                  </Button>
+                </div>
+              </motion.div>
+            ) : (
+              /* Empty State */
+              <motion.div
+                key="empty-state"
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -20 }}
+                transition={{ duration: 0.3 }}
+                className="flex flex-col items-center justify-center py-12 px-6 text-center"
+              >
+                <div className="w-16 h-16 rounded-full bg-muted/30 flex items-center justify-center mb-4">
+                  <Highlighter className="w-8 h-8 text-muted-foreground/50" />
+                </div>
+                <h4 className="font-medium text-sm text-foreground mb-2">
+                  No Highlights Yet
+                </h4>
+                <p className="text-xs text-muted-foreground mb-6 leading-relaxed">
+                  Select text or click words to start building your vocabulary list.
+                </p>
+                
+                {/* Quick tips */}
+                <div className="space-y-2 text-xs text-muted-foreground">
+                  <div className="flex items-center gap-2">
+                    <div className="w-1 h-1 bg-muted-foreground/50 rounded-full"></div>
+                    <span>Click & drag to select text</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <div className="w-1 h-1 bg-muted-foreground/50 rounded-full"></div>
+                    <span>Hold Ctrl + click for phrases</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <div className="w-1 h-1 bg-muted-foreground/50 rounded-full"></div>
+                    <span>Click highlights to remove</span>
+                  </div>
+                </div>
+              </motion.div>
+            )}
+          </AnimatePresence>
         )}
       </div>
     </div>

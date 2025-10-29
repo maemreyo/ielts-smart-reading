@@ -13,6 +13,8 @@ import { InstructionsBanner } from "./self-learning/components/InstructionsBanne
 import { ReadingContent } from "./self-learning/components/ReadingContent";
 import { FloatingToolbar } from "./self-learning/components/FloatingToolbar";
 import { VocabularySidebar } from "./self-learning/components/VocabularySidebar";
+import { OnboardingTour } from "./self-learning/components/OnboardingTour";
+import { useIntroTour } from "./self-learning/hooks/useIntroTour";
 
 export function SelfLearningView({
   title,
@@ -59,6 +61,9 @@ export function SelfLearningView({
     downloadFile
   } = useExportFunctions(highlightedRanges);
 
+  // Onboarding tour
+  const { startTour } = useIntroTour();
+
   // Theme classes for background
   const themeClasses = {
     light: "bg-white text-gray-900",
@@ -88,10 +93,7 @@ export function SelfLearningView({
       <InstructionsBanner />
 
       {/* Main Content */}
-      <div className={cn(
-        "max-w-7xl mx-auto px-4 py-8 transition-all duration-300",
-        highlightedRanges.length > 0 && "mr-80"
-      )}>
+      <div className="max-w-7xl mx-auto px-4 py-8 transition-all duration-300">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -108,16 +110,18 @@ export function SelfLearningView({
           )}
 
           {/* Reading Content */}
-          <ReadingContent
-            paragraphs={paragraphs}
-            highlightedRanges={highlightedRanges}
-            selectedWords={selectedWords}
-            onWordClick={handleWordClick}
-            onRemoveHighlight={removeHighlight}
-            lineSpacing={readingState.lineSpacing}
-            contentRef={contentRef}
-            onToolbarPositionUpdate={setToolbarPosition}
-          />
+          <div className="reading-content">
+            <ReadingContent
+              paragraphs={paragraphs}
+              highlightedRanges={highlightedRanges}
+              selectedWords={selectedWords}
+              onWordClick={handleWordClick}
+              onRemoveHighlight={removeHighlight}
+              lineSpacing={readingState.lineSpacing}
+              contentRef={contentRef}
+              onToolbarPositionUpdate={setToolbarPosition}
+            />
+          </div>
         </motion.div>
       </div>
 
@@ -131,19 +135,27 @@ export function SelfLearningView({
       />
 
       {/* Vocabulary Sidebar */}
-      <VocabularySidebar
-        highlightedRanges={highlightedRanges}
-        isPanelCollapsed={isPanelCollapsed}
-        onToggleCollapse={() => setIsPanelCollapsed(!isPanelCollapsed)}
-        onClearAll={clearHighlightedItems}
-        onCopyToClipboard={copyToClipboard}
-        onDownloadFile={downloadFile}
-        exportAsText={exportAsText}
-        exportAsCSV={exportAsCSV}
-        exportAsJSON={exportAsJSON}
-        book={book}
-        test={test}
-        passage={passage}
+      <div data-tour="vocabulary-sidebar">
+        <VocabularySidebar
+          highlightedRanges={highlightedRanges}
+          isPanelCollapsed={isPanelCollapsed}
+          onToggleCollapse={() => setIsPanelCollapsed(!isPanelCollapsed)}
+          onClearAll={clearHighlightedItems}
+          onCopyToClipboard={copyToClipboard}
+          onDownloadFile={downloadFile}
+          exportAsText={exportAsText}
+          exportAsCSV={exportAsCSV}
+          exportAsJSON={exportAsJSON}
+          book={book}
+          test={test}
+          passage={passage}
+        />
+      </div>
+
+      {/* Onboarding Tour */}
+      <OnboardingTour
+        hasHighlights={highlightedRanges.length > 0}
+        onStartTour={startTour}
       />
 
       {/* Settings Modal - Commented out as in original */}
