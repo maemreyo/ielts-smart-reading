@@ -223,12 +223,7 @@ export function EnhancedReadingViewV2({
     setLastScrollY: readingState.setLastScrollY,
   });
 
-  // Vocabulary learning handlers
-  const handleLearnVocabulary = (item: LexicalItem) => {
-    setLearningItem(item);
-    setShowLearningScreen(true);
-  };
-
+  
   const handleCloseLearning = () => {
     setShowLearningScreen(false);
     setLearningItem(null);
@@ -273,8 +268,7 @@ export function EnhancedReadingViewV2({
     readingState.sentimentFilter,
     readingState.hideTranslations,
     readingState.guessMode,
-    readingState.theme,
-    handleLearnVocabulary
+    readingState.theme
   );
 
   // Cleanup effect

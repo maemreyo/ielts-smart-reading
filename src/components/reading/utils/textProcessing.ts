@@ -17,8 +17,7 @@ export function createTextProcessor(
   sentimentFilter: string | null,
   hideTranslations: boolean,
   guessMode: boolean,
-  theme: string,
-  onLearnVocabulary?: (item: LexicalItem) => void
+  theme: string
 ) {
   return React.useMemo(() => function processParagraph(
     paragraph: string,
@@ -99,8 +98,7 @@ export function createTextProcessor(
               item,
               hideTranslation: hideTranslations,
               guessMode,
-              theme,
-              onLearnVocabulary,
+              theme: theme as "light" | "sepia" | "dark",
               children: matchedText
             })
           );
@@ -156,5 +154,5 @@ export function createTextProcessor(
     }
 
     return result.length > 0 ? result : [paragraph];
-  }, [lexicalItems, sentimentFilter, hideTranslations, guessMode, theme, onLearnVocabulary]);
+  }, [lexicalItems, sentimentFilter, hideTranslations, guessMode, theme]);
 }
