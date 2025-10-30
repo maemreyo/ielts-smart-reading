@@ -79,9 +79,12 @@ const sentimentFilters = [
 
 // Speech rate presets
 const speechRatePresets = [
-  { name: "Slow", rate: 0.85, icon: <Turtle size={16} /> },
-  { name: "Normal", rate: 1.00, icon: <Gauge size={16} /> },
-  { name: "Fast", rate: 1.15, icon: <Rabbit size={16} /> }
+  { name: "Very Slow", rate: 0.65, icon: <Turtle size={14} /> },
+  { name: "Slow", rate: 0.75, icon: <Turtle size={16} /> },
+  { name: "Normal", rate: 0.85, icon: <Gauge size={14} /> },
+  { name: "Standard", rate: 0.95, icon: <Gauge size={16} /> },
+  { name: "Fast", rate: 1.05, icon: <Rabbit size={14} /> },
+  { name: "Very Fast", rate: 1.15, icon: <Rabbit size={16} /> }
 ];
 
 export function DesktopToolbar({

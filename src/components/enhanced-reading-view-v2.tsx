@@ -82,7 +82,19 @@ export function EnhancedReadingViewV2({
   const readingState = useReadingState();
 
   // Speech functionality with direct speech rate control
-  const [speechRate, setSpeechRate] = useState(1.0); // Default to 1.0x speed
+  const [speechRate, setSpeechRate] = useState(() => {
+    // Load speech rate preference from localStorage on mount
+    if (typeof window !== 'undefined') {
+      try {
+        const saved = localStorage.getItem('speechRate');
+        return saved ? parseFloat(saved) : 0.95; // Default to 0.95x speed (user preferred)
+      } catch (error) {
+        console.error('Failed to load speech rate preference:', error);
+        return 0.95;
+      }
+    }
+    return 0.95; // Default to 0.95x speed (user preferred)
+  });
 
   const useSpeechInstance = useSpeech({ rate: speechRate });
 
@@ -122,6 +134,17 @@ export function EnhancedReadingViewV2({
       }
     }
   }, [voiceRotationFavoritesOnly]);
+
+  // Save speech rate preference to localStorage when it changes
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      try {
+        localStorage.setItem('speechRate', speechRate.toString());
+      } catch (error) {
+        console.error('Failed to save speech rate preference:', error);
+      }
+    }
+  }, [speechRate]);
 
   // Use custom hooks
   const paragraphSpeech = useParagraphSpeech({
