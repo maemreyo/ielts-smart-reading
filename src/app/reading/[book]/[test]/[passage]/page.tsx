@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { readFile } from 'fs/promises';
 import { join } from 'path';
-import { EnhancedReadingViewV2 } from '@/components/enhanced-reading-view-v2';
+import { PassageViewClient } from '@/components/PassageViewClient';
 
 // Force dynamic rendering for development
 export const dynamic = 'force-dynamic';
@@ -72,10 +72,13 @@ export default async function ReadingPage({ params }: PageProps) {
   const lexicalItems = data.lexicalData.lexicalItems || [];
 
   return (
-    <EnhancedReadingViewV2 
+    <PassageViewClient
       title={title}
       paragraphs={paragraphs}
       lexicalItems={lexicalItems}
+      book={resolvedParams.book}
+      test={resolvedParams.test}
+      passage={resolvedParams.passage}
     />
   );
 }
