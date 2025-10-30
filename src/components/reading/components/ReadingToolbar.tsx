@@ -32,6 +32,8 @@ interface ReadingToolbarProps {
   voices: SpeechSynthesisVoice[];
   currentVoice: SpeechSynthesisVoice | null;
   onVoiceChange: (voiceName: string) => void;
+  favoriteVoices: string[];
+  setFavoriteVoices: (voices: string[]) => void;
 
   // View modes
   sentimentFilter: string | null;
@@ -122,6 +124,8 @@ export function ReadingToolbar({
   voices,
   currentVoice,
   onVoiceChange,
+  favoriteVoices,
+  setFavoriteVoices,
 }: ReadingToolbarProps) {
   return (
     <motion.div
@@ -254,6 +258,8 @@ export function ReadingToolbar({
             voices={voices}
             currentVoice={currentVoice}
             onVoiceChange={onVoiceChange}
+            favoriteVoices={favoriteVoices}
+            setFavoriteVoices={setFavoriteVoices}
           />
         </div>
       </div>

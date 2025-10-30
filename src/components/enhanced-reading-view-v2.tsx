@@ -31,6 +31,21 @@ export function EnhancedReadingViewV2({
   const [learningItem, setLearningItem] = useState<LexicalItem | null>(null);
   const [showLearningScreen, setShowLearningScreen] = useState(false);
 
+  // Favorite voices state
+  const [favoriteVoices, setFavoriteVoices] = useState<string[]>(() => {
+    // Load favorite voices from localStorage on mount
+    if (typeof window !== 'undefined') {
+      try {
+        const saved = localStorage.getItem('favoriteVoices');
+        return saved ? JSON.parse(saved) : [];
+      } catch (error) {
+        console.error('Failed to load favorite voices:', error);
+        return [];
+      }
+    }
+    return [];
+  });
+
   // All state management
   const readingState = useReadingState();
 
@@ -255,6 +270,8 @@ export function EnhancedReadingViewV2({
         voices={useSpeechInstance.voices}
         currentVoice={useSpeechInstance.settings.voice}
         onVoiceChange={handleVoiceChange}
+        favoriteVoices={favoriteVoices}
+        setFavoriteVoices={setFavoriteVoices}
       />
 
       {/* Main Reading Content */}

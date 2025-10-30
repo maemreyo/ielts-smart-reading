@@ -64,6 +64,8 @@ interface SettingsDialogProps {
     voices: SpeechSynthesisVoice[];
     currentVoice: SpeechSynthesisVoice | null;
     onVoiceChange: (voiceName: string) => void;
+    favoriteVoices: string[];
+    setFavoriteVoices: (voices: string[]) => void;
 }
 
 const fontFamilies = [
@@ -162,6 +164,8 @@ export function SettingsDialog({
     voices,
     currentVoice,
     onVoiceChange,
+    favoriteVoices,
+    setFavoriteVoices,
 }: SettingsDialogProps) {
 
     const themes = [
@@ -180,6 +184,23 @@ export function SettingsDialog({
     const handleTimerDurationChange = useCallback((value: number[]) => {
         setTimerDuration(value[0]);
     }, [setTimerDuration]);
+
+    const toggleFavoriteVoice = useCallback((voiceName: string) => {
+        setFavoriteVoices((prev) => {
+            const newFavorites = prev.includes(voiceName)
+                ? prev.filter(v => v !== voiceName)
+                : [...prev, voiceName];
+
+            // Save to localStorage
+            try {
+                localStorage.setItem('favoriteVoices', JSON.stringify(newFavorites));
+            } catch (error) {
+                console.error('Failed to save favorite voices:', error);
+            }
+
+            return newFavorites;
+        });
+    }, [setFavoriteVoices]);
 
     return (
         <Dialog>
@@ -239,7 +260,7 @@ export function SettingsDialog({
                     <section className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                         <div className="space-y-4">
                             <SectionHeader icon={<Palette size={16} />} title="Typography" />
-                            
+
                             <div className="space-y-2">
                                 <div className="flex items-center justify-between">
                                     <label className="text-sm font-medium">Text Size</label>
@@ -302,7 +323,7 @@ export function SettingsDialog({
 
                         <div className="space-y-4">
                             <SectionHeader icon={<Columns size={16} />} title="Layout & Theme" />
-                            
+
                             <div className="space-y-2">
                                 <label className="text-sm font-medium">Color Theme</label>
                                 <div className="grid grid-cols-3 gap-2">
@@ -389,12 +410,14 @@ export function SettingsDialog({
                                 voices={voices}
                                 currentVoice={currentVoice}
                                 onVoiceChange={onVoiceChange}
+                                favoriteVoices={favoriteVoices}
+                                onToggleFavorite={toggleFavoriteVoice}
                             />
                         </div>
 
                         <div className="space-y-4">
                             <SectionHeader icon={<Clock size={16} />} title="Reading Timer" />
-                            
+
                             <QuickToggle
                                 icon={<Clock size={16} />}
                                 label="Enable Timer"
