@@ -3,6 +3,9 @@ import { useState, useRef, useCallback } from "react";
 interface UseParagraphSpeechProps {
   paragraphs: string[];
   speechRate: number;
+  voiceRotation: boolean;
+  voiceRotationFavoritesOnly: boolean;
+  favoriteVoices: string[];
   speechInstance: {
     isSpeaking: boolean;
     isPaused: boolean;
@@ -11,6 +14,11 @@ interface UseParagraphSpeechProps {
     resume: () => void;
     stop: () => void;
     isSupported: boolean;
+    getVoicesByLanguage: (lang: string) => SpeechSynthesisVoice[];
+    updateSettings: (settings: any) => void;
+    settings: {
+      voice: SpeechSynthesisVoice | null;
+    };
   };
   onParagraphChange?: (paragraphIndex: number) => void;
 }
@@ -32,6 +40,9 @@ interface UseParagraphSpeechReturn {
 export function useParagraphSpeech({
   paragraphs,
   speechRate,
+  voiceRotation,
+  voiceRotationFavoritesOnly,
+  favoriteVoices,
   speechInstance,
   onParagraphChange,
 }: UseParagraphSpeechProps): UseParagraphSpeechReturn {
@@ -43,6 +54,7 @@ export function useParagraphSpeech({
   // Refs for stale closure prevention
   const repeatModeRef = useRef(repeatMode);
   const isManuallyStoppedRef = useRef(false);
+  const lastUsedVoiceIndex = useRef(-1);
 
   // Update ref whenever repeatMode changes
   const updateRepeatModeRef = useCallback(() => {
@@ -51,6 +63,30 @@ export function useParagraphSpeech({
 
   // Update ref when repeatMode changes
   updateRepeatModeRef();
+
+  // Function to get a random voice
+  const getRandomVoice = useCallback((): SpeechSynthesisVoice | null => {
+    let availableVoices: SpeechSynthesisVoice[];
+
+    if (voiceRotationFavoritesOnly && favoriteVoices.length > 0) {
+      // Use only favorite voices
+      const allEnglishVoices = speechInstance.getVoicesByLanguage('en');
+      availableVoices = allEnglishVoices.filter(voice => favoriteVoices.includes(voice.name));
+    } else {
+      // Use all English voices
+      availableVoices = speechInstance.getVoicesByLanguage('en');
+    }
+
+    if (availableVoices.length === 0) return null;
+
+    let randomIndex: number;
+    do {
+      randomIndex = Math.floor(Math.random() * availableVoices.length);
+    } while (randomIndex === lastUsedVoiceIndex.current && availableVoices.length > 1);
+
+    lastUsedVoiceIndex.current = randomIndex;
+    return availableVoices[randomIndex];
+  }, [voiceRotationFavoritesOnly, favoriteVoices, speechInstance.getVoicesByLanguage]);
 
   // Core function to speak a paragraph
   const speakParagraph = useCallback((paragraphIndex: number) => {
@@ -61,10 +97,27 @@ export function useParagraphSpeech({
     setIsSpeakingCurrentParagraph(true);
     isManuallyStoppedRef.current = false; // Reset manual stop flag for new speech
 
+    // Handle voice rotation
+    let voiceToUse = speechInstance.settings.voice;
+    if (voiceRotation && !voiceToUse) {
+      // If rotation is enabled but no voice is selected, pick a random one
+      voiceToUse = getRandomVoice();
+      if (voiceToUse) {
+        speechInstance.updateSettings({ voice: voiceToUse });
+      }
+    } else if (voiceRotation) {
+      // If rotation is enabled and a voice is already selected, pick a new random one
+      voiceToUse = getRandomVoice();
+      if (voiceToUse) {
+        speechInstance.updateSettings({ voice: voiceToUse });
+      }
+    }
+
     speechInstance.speak({
       text: paragraphs[paragraphIndex],
       lang: 'en-US',
       rate: speechRate,
+      voice: voiceToUse,
       onEnd: () => {
         setIsSpeakingCurrentParagraph(false);
         setCurrentSpeakingParagraph(-1);
@@ -92,7 +145,7 @@ export function useParagraphSpeech({
         setCurrentSpeakingParagraph(-1);
       },
     });
-  }, [paragraphs, speechRate, speechInstance.speak, onParagraphChange, speechInstance.isSupported]);
+  }, [paragraphs, speechRate, voiceRotation, speechInstance.speak, speechInstance.settings.voice, speechInstance.getVoicesByLanguage, speechInstance.updateSettings, getRandomVoice, onParagraphChange, speechInstance.isSupported]);
 
   // Play a specific paragraph
   const playParagraph = useCallback((paragraphIndex: number) => {

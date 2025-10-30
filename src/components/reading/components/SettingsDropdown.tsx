@@ -67,6 +67,8 @@ interface SettingsDropdownProps {
   voices: SpeechSynthesisVoice[];
   currentVoice: SpeechSynthesisVoice | null;
   onVoiceChange: (voiceName: string) => void;
+  favoriteVoices: string[];
+  onToggleFavorite: (voiceName: string) => void;
 }
 
 const fontFamilies = [
@@ -121,6 +123,8 @@ export function SettingsDropdown({
   voices,
   currentVoice,
   onVoiceChange,
+  favoriteVoices,
+  onToggleFavorite,
 }: SettingsDropdownProps) {
 
   // Theme options
@@ -396,6 +400,8 @@ export function SettingsDropdown({
           voices={voices}
           currentVoice={currentVoice}
           onVoiceChange={onVoiceChange}
+          favoriteVoices={favoriteVoices}
+          onToggleFavorite={onToggleFavorite}
           className="mb-4"
         />
 

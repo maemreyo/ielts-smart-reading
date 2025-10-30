@@ -32,6 +32,8 @@ import {
     Clock,
     Palette,
     Volume2,
+    Shuffle,
+    Star,
 } from "lucide-react";
 import { VoiceSelection } from "./VoiceSelection";
 
@@ -66,6 +68,10 @@ interface SettingsDialogProps {
     onVoiceChange: (voiceName: string) => void;
     favoriteVoices: string[];
     setFavoriteVoices: (voices: string[]) => void;
+    voiceRotation: boolean;
+    setVoiceRotation: (enabled: boolean) => void;
+    voiceRotationFavoritesOnly: boolean;
+    setVoiceRotationFavoritesOnly: (enabled: boolean) => void;
 }
 
 const fontFamilies = [
@@ -166,6 +172,10 @@ export function SettingsDialog({
     onVoiceChange,
     favoriteVoices,
     setFavoriteVoices,
+    voiceRotation,
+    setVoiceRotation,
+    voiceRotationFavoritesOnly,
+    setVoiceRotationFavoritesOnly,
 }: SettingsDialogProps) {
 
     const themes = [
@@ -186,21 +196,20 @@ export function SettingsDialog({
     }, [setTimerDuration]);
 
     const toggleFavoriteVoice = useCallback((voiceName: string) => {
-        setFavoriteVoices((prev) => {
-            const newFavorites = prev.includes(voiceName)
-                ? prev.filter(v => v !== voiceName)
-                : [...prev, voiceName];
+        const currentFavorites = favoriteVoices;
+        const newFavorites = currentFavorites.includes(voiceName)
+            ? currentFavorites.filter(v => v !== voiceName)
+            : [...currentFavorites, voiceName];
 
-            // Save to localStorage
-            try {
-                localStorage.setItem('favoriteVoices', JSON.stringify(newFavorites));
-            } catch (error) {
-                console.error('Failed to save favorite voices:', error);
-            }
+        // Save to localStorage
+        try {
+            localStorage.setItem('favoriteVoices', JSON.stringify(newFavorites));
+        } catch (error) {
+            console.error('Failed to save favorite voices:', error);
+        }
 
-            return newFavorites;
-        });
-    }, [setFavoriteVoices]);
+        setFavoriteVoices(newFavorites);
+    }, [favoriteVoices, setFavoriteVoices]);
 
     return (
         <Dialog>
@@ -406,13 +415,37 @@ export function SettingsDialog({
                     <section className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                         <div className="space-y-4">
                             <SectionHeader icon={<Volume2 size={16} />} title="Text-to-Speech" />
-                            <VoiceSelection
-                                voices={voices}
-                                currentVoice={currentVoice}
-                                onVoiceChange={onVoiceChange}
-                                favoriteVoices={favoriteVoices}
-                                onToggleFavorite={toggleFavoriteVoice}
-                            />
+                            <div className="space-y-3">
+                                <QuickToggle
+                                    icon={<Shuffle size={16} />}
+                                    label="Random Voice"
+                                    checked={voiceRotation}
+                                    onCheckedChange={setVoiceRotation}
+                                />
+                                {voiceRotation && (
+                                    <motion.div
+                                        initial={{ opacity: 0, height: 0 }}
+                                        animate={{ opacity: 1, height: "auto" }}
+                                        exit={{ opacity: 0, height: 0 }}
+                                        className="pl-4 border-l-2 border-primary/30 space-y-2"
+                                    >
+                                        <QuickToggle
+                                            icon={<Star size={16} />}
+                                            label="Only Favorites"
+                                            checked={voiceRotationFavoritesOnly}
+                                            onCheckedChange={setVoiceRotationFavoritesOnly}
+                                            variant="compact"
+                                        />
+                                    </motion.div>
+                                )}
+                                <VoiceSelection
+                                    voices={voices}
+                                    currentVoice={currentVoice}
+                                    onVoiceChange={onVoiceChange}
+                                    favoriteVoices={favoriteVoices}
+                                    onToggleFavorite={toggleFavoriteVoice}
+                                />
+                            </div>
                         </div>
 
                         <div className="space-y-4">

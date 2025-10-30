@@ -34,6 +34,10 @@ interface ReadingToolbarProps {
   onVoiceChange: (voiceName: string) => void;
   favoriteVoices: string[];
   setFavoriteVoices: (voices: string[]) => void;
+  voiceRotation: boolean;
+  setVoiceRotation: (enabled: boolean) => void;
+  voiceRotationFavoritesOnly: boolean;
+  setVoiceRotationFavoritesOnly: (enabled: boolean) => void;
 
   // View modes
   sentimentFilter: string | null;
@@ -126,6 +130,10 @@ export function ReadingToolbar({
   onVoiceChange,
   favoriteVoices,
   setFavoriteVoices,
+  voiceRotation,
+  setVoiceRotation,
+  voiceRotationFavoritesOnly,
+  setVoiceRotationFavoritesOnly,
 }: ReadingToolbarProps) {
   return (
     <motion.div
@@ -260,6 +268,10 @@ export function ReadingToolbar({
             onVoiceChange={onVoiceChange}
             favoriteVoices={favoriteVoices}
             setFavoriteVoices={setFavoriteVoices}
+            voiceRotation={voiceRotation}
+            setVoiceRotation={setVoiceRotation}
+            voiceRotationFavoritesOnly={voiceRotationFavoritesOnly}
+            setVoiceRotationFavoritesOnly={setVoiceRotationFavoritesOnly}
           />
         </div>
       </div>

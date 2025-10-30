@@ -46,6 +46,35 @@ export function EnhancedReadingViewV2({
     return [];
   });
 
+  // Voice rotation state
+  const [voiceRotation, setVoiceRotation] = useState(() => {
+    // Load voice rotation preference from localStorage on mount
+    if (typeof window !== 'undefined') {
+      try {
+        const saved = localStorage.getItem('voiceRotation');
+        return saved ? JSON.parse(saved) : false;
+      } catch (error) {
+        console.error('Failed to load voice rotation preference:', error);
+        return false;
+      }
+    }
+    return false;
+  });
+
+  const [voiceRotationFavoritesOnly, setVoiceRotationFavoritesOnly] = useState(() => {
+    // Load voice rotation favorites only preference from localStorage on mount
+    if (typeof window !== 'undefined') {
+      try {
+        const saved = localStorage.getItem('voiceRotationFavoritesOnly');
+        return saved ? JSON.parse(saved) : false;
+      } catch (error) {
+        console.error('Failed to load voice rotation favorites only preference:', error);
+        return false;
+      }
+    }
+    return false;
+  });
+
   // All state management
   const readingState = useReadingState();
 
@@ -70,10 +99,34 @@ export function EnhancedReadingViewV2({
     }
   }, [useSpeechInstance]);
 
+  // Save voice rotation preferences to localStorage when they change
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      try {
+        localStorage.setItem('voiceRotation', JSON.stringify(voiceRotation));
+      } catch (error) {
+        console.error('Failed to save voice rotation preference:', error);
+      }
+    }
+  }, [voiceRotation]);
+
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      try {
+        localStorage.setItem('voiceRotationFavoritesOnly', JSON.stringify(voiceRotationFavoritesOnly));
+      } catch (error) {
+        console.error('Failed to save voice rotation favorites only preference:', error);
+      }
+    }
+  }, [voiceRotationFavoritesOnly]);
+
   // Use custom hooks
   const paragraphSpeech = useParagraphSpeech({
     paragraphs,
     speechRate,
+    voiceRotation,
+    voiceRotationFavoritesOnly,
+    favoriteVoices,
     speechInstance: useSpeechInstance,
     onParagraphChange: readingState.setCurrentParagraph,
   });
@@ -272,6 +325,10 @@ export function EnhancedReadingViewV2({
         onVoiceChange={handleVoiceChange}
         favoriteVoices={favoriteVoices}
         setFavoriteVoices={setFavoriteVoices}
+        voiceRotation={voiceRotation}
+        setVoiceRotation={setVoiceRotation}
+        voiceRotationFavoritesOnly={voiceRotationFavoritesOnly}
+        setVoiceRotationFavoritesOnly={setVoiceRotationFavoritesOnly}
       />
 
       {/* Main Reading Content */}
