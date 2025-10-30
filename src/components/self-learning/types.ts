@@ -35,8 +35,17 @@ export interface HighlightedRange {
     sentiment: string;
     definitionEN: string;
     translationVI: string;
-    relatedCollocates: string[];
-    wordForms: Record<string, Array<{ form: string; meaning: string }>>;
+    relatedCollocates: string[] | string;
+    wordForms: {
+      noun?: Array<{ form: string; meaning: string }>;
+      verb?: Array<{ form: string; meaning: string }>;
+      adjective?: Array<{ form: string; meaning: string }>;
+      adverb?: Array<{ form: string; meaning: string }>;
+    };
+    register: "formal" | "informal" | "neutral" | "";
+    connotation: string | null;
+    usageNotes: string | null;
+    contrastingCollocates: string[];
   };
   phase3Production: {
     taskType: string;

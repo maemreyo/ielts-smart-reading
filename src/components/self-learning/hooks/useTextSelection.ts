@@ -119,7 +119,16 @@ export function useTextSelection({
         definitionEN: "",
         translationVI: "",
         relatedCollocates: [],
-        wordForms: {}
+        wordForms: {
+          noun: [],
+          verb: [],
+          adjective: [],
+          adverb: []
+        },
+        register: "",
+        connotation: null,
+        usageNotes: null,
+        contrastingCollocates: []
       },
       phase3Production: { taskType: "", content: "" }
     };
@@ -604,7 +613,16 @@ export function useTextSelection({
           definitionEN: "",
           translationVI: "",
           relatedCollocates: [],
-          wordForms: {}
+          wordForms: {
+            noun: [],
+            verb: [],
+            adjective: [],
+            adverb: []
+          },
+          register: "",
+          connotation: null,
+          usageNotes: null,
+          contrastingCollocates: []
         },
         phase3Production: { taskType: "", content: "" }
       };

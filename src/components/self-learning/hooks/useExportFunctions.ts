@@ -24,11 +24,25 @@ export function useExportFunctions(highlightedRanges: HighlightedRange[]) {
 
     const exportData = highlightedRanges.map(item => {
       const exportItem = {
-        id: parseInt(item.id),
+        id: item.id,
         targetLexeme: item.targetLexeme,
         sourceContext: item.sourceContext,
         phase1Inference: item.phase1Inference,
-        phase2Annotation: item.phase2Annotation,
+        phase2Annotation: {
+          ...item.phase2Annotation,
+          // Ensure all new fields are present with proper defaults
+          register: item.phase2Annotation.register || "",
+          connotation: item.phase2Annotation.connotation ?? null,
+          usageNotes: item.phase2Annotation.usageNotes ?? null,
+          contrastingCollocates: item.phase2Annotation.contrastingCollocates || [],
+          // Ensure wordForms has the proper structure
+          wordForms: {
+            noun: item.phase2Annotation.wordForms?.noun || [],
+            verb: item.phase2Annotation.wordForms?.verb || [],
+            adjective: item.phase2Annotation.wordForms?.adjective || [],
+            adverb: item.phase2Annotation.wordForms?.adverb || []
+          }
+        },
         phase3Production: item.phase3Production
       };
       console.log('📦 Export item:', exportItem);
