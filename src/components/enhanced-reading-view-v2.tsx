@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState, useRef } from "react";
+import { useEffect, useState, useRef, useCallback } from "react";
 import { ReadingToolbar } from "./reading/components/ReadingToolbar";
 import { ReadingContent } from "./reading/components/ReadingContent";
 import { ShortcutsModal } from "./reading/components/ShortcutsModal";
@@ -44,7 +44,16 @@ export function EnhancedReadingViewV2({
     if (useSpeechInstance.isSupported) {
       useSpeechInstance.updateSettings({ rate: speechRate });
     }
-  }, [speechRate, useSpeechInstance.isSupported, useSpeechInstance.updateSettings]);
+  }, [speechRate, useSpeechInstance.isSupported]);
+
+  // Handle voice change
+  const handleVoiceChange = useCallback((voiceName: string) => {
+    const englishVoices = useSpeechInstance.getVoicesByLanguage('en');
+    const selectedVoice = englishVoices.find(v => v.name === voiceName);
+    if (selectedVoice) {
+      useSpeechInstance.updateSettings({ voice: selectedVoice });
+    }
+  }, [useSpeechInstance]);
 
   // Use custom hooks
   const paragraphSpeech = useParagraphSpeech({
@@ -242,6 +251,10 @@ export function EnhancedReadingViewV2({
         timerRemaining={readingTimer.timer.remaining}
         timerActive={readingTimer.timer.active}
         formatTimer={readingTimer.formatTimer}
+        // Voice selection controls
+        voices={useSpeechInstance.voices}
+        currentVoice={useSpeechInstance.settings.voice}
+        onVoiceChange={handleVoiceChange}
       />
 
       {/* Main Reading Content */}

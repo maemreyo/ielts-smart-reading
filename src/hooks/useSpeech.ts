@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef, useCallback } from 'react';
+import { useLocalStorage } from './use-local-storage';
 
 // Types for the speech hook
 export interface SpeakOptions {
@@ -83,6 +84,9 @@ const isSpeechSynthesisSupported = (): boolean => {
 export const useSpeech = (defaultSettings?: Partial<SpeechSettings>): UseSpeechReturn => {
   const synth = getSynth();
 
+  // Use localStorage to persist the selected voice name
+  const [savedVoiceName, setSavedVoiceName] = useLocalStorage<string | null>('selected-voice-name', null);
+
   // Merge default settings with user defaults
   const [settings, setSettings] = useState<SpeechSettings>({
     ...DEFAULT_SETTINGS,
@@ -116,20 +120,30 @@ export const useSpeech = (defaultSettings?: Partial<SpeechSettings>): UseSpeechR
 
     // Auto-select default voice if not set
     if (!settings.voice && availableVoices.length > 0) {
-      const defaultVoice = availableVoices.find(v => v.name === 'Daniel' && v.lang === 'en-GB') ||
-                          availableVoices.find(v => v.lang === 'en-GB') ||
-                          availableVoices.find(v => v.lang === 'en-US') ||
-                          availableVoices.find(v => v.lang.startsWith('en')) ||
-                          availableVoices[0];
+      let selectedVoice: SpeechSynthesisVoice | null = null;
 
-      if (defaultVoice && !isInitializedRef.current) {
-        setSettings(prev => ({ ...prev, voice: defaultVoice }));
+      // First, try to find the saved voice from localStorage
+      if (savedVoiceName) {
+        selectedVoice = availableVoices.find(v => v.name === savedVoiceName) || null;
+      }
+
+      // If no saved voice found, use the default selection logic
+      if (!selectedVoice) {
+        selectedVoice = availableVoices.find(v => v.name === 'Daniel' && v.lang === 'en-GB') ||
+                       availableVoices.find(v => v.lang === 'en-GB') ||
+                       availableVoices.find(v => v.lang === 'en-US') ||
+                       availableVoices.find(v => v.lang.startsWith('en')) ||
+                       availableVoices[0];
+      }
+
+      if (selectedVoice && !isInitializedRef.current) {
+        setSettings(prev => ({ ...prev, voice: selectedVoice }));
         isInitializedRef.current = true;
       }
     }
 
     setState(prev => ({ ...prev, isLoading: false }));
-  }, [synth, settings.voice]);
+  }, [synth, settings.voice, savedVoiceName]);
 
   // Initialize voices
   useEffect(() => {
@@ -150,7 +164,12 @@ export const useSpeech = (defaultSettings?: Partial<SpeechSettings>): UseSpeechR
   // Update settings
   const updateSettings = useCallback((newSettings: Partial<SpeechSettings>) => {
     setSettings(prev => ({ ...prev, ...newSettings }));
-  }, []);
+
+    // Save voice name to localStorage when voice changes
+    if (newSettings.voice) {
+      setSavedVoiceName(newSettings.voice.name);
+    }
+  }, [setSavedVoiceName]);
 
   // Voice utility functions
   const getVoicesByLanguage = useCallback((lang: string): SpeechSynthesisVoice[] => {
@@ -203,7 +222,7 @@ export const useSpeech = (defaultSettings?: Partial<SpeechSettings>): UseSpeechR
     utterance.pitch = options.pitch ?? settings.pitch;
     utterance.volume = options.volume ?? settings.volume;
 
-    // Set voice with priority
+    // Set voice with priority and fallback logic
     if (options.voice) {
       utterance.voice = options.voice;
     } else if (settings.voice) {
@@ -211,6 +230,19 @@ export const useSpeech = (defaultSettings?: Partial<SpeechSettings>): UseSpeechR
     } else if (options.lang) {
       const voiceForLang = getVoicesByLanguage(options.lang)[0];
       if (voiceForLang) utterance.voice = voiceForLang;
+    } else {
+      // Fallback: try to find the best English voice if no voice is set
+      const currentVoices = synth.getVoices();
+      if (currentVoices.length > 0 && !utterance.voice) {
+        const bestEnglishVoice = currentVoices.find(v => v.name === 'Daniel' && v.lang === 'en-GB') ||
+                               currentVoices.find(v => v.lang === 'en-GB') ||
+                               currentVoices.find(v => v.lang === 'en-US') ||
+                               currentVoices.find(v => v.lang.startsWith('en')) ||
+                               currentVoices[0];
+        if (bestEnglishVoice) {
+          utterance.voice = bestEnglishVoice;
+        }
+      }
     }
 
     // Event handlers

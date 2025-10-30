@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+import React, { useMemo, useCallback } from "react";
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import { Slider } from "@/components/ui/slider";
@@ -31,6 +31,7 @@ import {
   BookOpen,
   Clock
 } from "lucide-react";
+import { VoiceSelection } from "./VoiceSelection";
 
 interface SettingsDropdownProps {
   fontFamily: string;
@@ -61,6 +62,11 @@ interface SettingsDropdownProps {
   setTimerEnabled: (enabled: boolean) => void;
   timerDuration: number;
   setTimerDuration: (duration: number) => void;
+
+  // Voice selection controls
+  voices: SpeechSynthesisVoice[];
+  currentVoice: SpeechSynthesisVoice | null;
+  onVoiceChange: (voiceName: string) => void;
 }
 
 const fontFamilies = [
@@ -111,6 +117,10 @@ export function SettingsDropdown({
   setTimerEnabled,
   timerDuration,
   setTimerDuration,
+  // Voice selection controls
+  voices,
+  currentVoice,
+  onVoiceChange,
 }: SettingsDropdownProps) {
 
   // Theme options
@@ -119,6 +129,20 @@ export function SettingsDropdown({
     { name: "Sepia", value: "sepia", icon: <BookOpen size={16} /> },
     { name: "Dark", value: "dark", icon: <Moon size={16} /> }
   ];
+
+  // Memoize slider values to prevent infinite re-renders
+  const fontSizeValue = useMemo(() => [fontSize], [fontSize]);
+  const timerDurationValue = useMemo(() => [timerDuration], [timerDuration]);
+
+  // Memoize slider change handlers to prevent infinite re-renders
+  const handleFontSizeChange = useCallback((value: number[]) => {
+    setFontSize(value[0]);
+  }, [setFontSize]);
+
+  const handleTimerDurationChange = useCallback((value: number[]) => {
+    setTimerDuration(value[0]);
+  }, [setTimerDuration]);
+
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
@@ -165,8 +189,8 @@ export function SettingsDropdown({
             </span>
           </div>
           <Slider
-            value={[fontSize]}
-            onValueChange={([value]) => setFontSize(value)}
+            value={fontSizeValue}
+            onValueChange={handleFontSizeChange}
             max={40}
             min={16}
             step={2}
@@ -367,6 +391,16 @@ export function SettingsDropdown({
 
         <DropdownMenuSeparator />
 
+        {/* Voice Selection Settings */}
+        <VoiceSelection
+          voices={voices}
+          currentVoice={currentVoice}
+          onVoiceChange={onVoiceChange}
+          className="mb-4"
+        />
+
+        <DropdownMenuSeparator />
+
         {/* Timer Settings */}
         <div className="space-y-3">
           <label className="text-sm font-medium">Reading Timer</label>
@@ -397,8 +431,8 @@ export function SettingsDropdown({
                     <span className="text-xs text-muted-foreground">{timerDuration} min</span>
                   </div>
                   <Slider
-                    value={[timerDuration]}
-                    onValueChange={([value]) => setTimerDuration(value)}
+                    value={timerDurationValue}
+                    onValueChange={handleTimerDurationChange}
                     max={30}
                     min={5}
                     step={5}

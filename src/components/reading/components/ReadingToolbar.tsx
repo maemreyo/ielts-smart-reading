@@ -28,6 +28,11 @@ interface ReadingToolbarProps {
   onResumeSpeech: () => void;
   onStopSpeech: () => void;
 
+  // Voice selection controls
+  voices: SpeechSynthesisVoice[];
+  currentVoice: SpeechSynthesisVoice | null;
+  onVoiceChange: (voiceName: string) => void;
+
   // View modes
   sentimentFilter: string | null;
   setSentimentFilter: (filter: string | null) => void;
@@ -112,6 +117,11 @@ export function ReadingToolbar({
   timerRemaining,
   timerActive,
   formatTimer,
+
+  // Voice selection controls
+  voices,
+  currentVoice,
+  onVoiceChange,
 }: ReadingToolbarProps) {
   return (
     <motion.div
@@ -240,6 +250,10 @@ export function ReadingToolbar({
             setTimerEnabled={setTimerEnabled}
             timerDuration={timerDuration}
             setTimerDuration={setTimerDuration}
+            // Voice selection controls
+            voices={voices}
+            currentVoice={currentVoice}
+            onVoiceChange={onVoiceChange}
           />
         </div>
       </div>

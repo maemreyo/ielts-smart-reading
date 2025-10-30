@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import { useMemo, useCallback } from "react";
 import { cn } from "@/lib/utils";
 import { Slider } from "@/components/ui/slider";
 import {
@@ -131,6 +132,15 @@ export function DesktopToolbar({
 
   // Get current speech rate preset info
   const currentSpeechRatePreset = speechRatePresets.find(p => p.rate === speechRate) || speechRatePresets[0];
+
+  // Memoize the speech rate value array to prevent infinite re-renders
+  const speechRateValue = useMemo(() => [speechRate], [speechRate]);
+
+  // Memoize the speech rate change handler to prevent infinite re-renders
+  const handleSpeechRateChange = useCallback((value: number[]) => {
+    setSpeechRate(value[0]);
+  }, [setSpeechRate]);
+
   return (
     <div className="hidden md:flex items-center gap-3 flex-wrap">
 
@@ -208,8 +218,8 @@ export function DesktopToolbar({
       <div className="flex items-center gap-2 min-w-[120px]">
         {/* <span className="text-xs">Rate</span> */}
         <Slider
-          value={[speechRate]}
-          onValueChange={([value]) => setSpeechRate(value)}
+          value={speechRateValue}
+          onValueChange={handleSpeechRateChange}
           max={2.0}
           min={0.5}
           step={0.05}

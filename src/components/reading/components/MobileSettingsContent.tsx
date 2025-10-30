@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+import React, { useMemo, useCallback } from "react";
 import { Slider } from "@/components/ui/slider";
 import { Switch } from "@/components/ui/switch";
 import { cn } from "@/lib/utils";
@@ -155,6 +155,24 @@ export function MobileSettingsContent({
   // Get current speech rate preset info for mobile
   const currentSpeechRatePresetMobile = speechRatePresetsMobile.find(p => p.rate === speechRate) || speechRatePresetsMobile[0];
 
+  // Memoize slider values to prevent infinite re-renders
+  const speechRateValue = useMemo(() => [speechRate], [speechRate]);
+  const fontSizeValue = useMemo(() => [fontSize], [fontSize]);
+  const timerDurationValue = useMemo(() => [timerDuration], [timerDuration]);
+
+  // Memoize slider change handlers to prevent infinite re-renders
+  const handleSpeechRateChange = useCallback((value: number[]) => {
+    setSpeechRate(value[0]);
+  }, [setSpeechRate]);
+
+  const handleFontSizeChange = useCallback((value: number[]) => {
+    setFontSize(value[0]);
+  }, [setFontSize]);
+
+  const handleTimerDurationChange = useCallback((value: number[]) => {
+    setTimerDuration(value[0]);
+  }, [setTimerDuration]);
+
   return (
     <div className="space-y-6">
       {/* Speech Rate */}
@@ -164,8 +182,8 @@ export function MobileSettingsContent({
           <span className="text-sm text-muted-foreground">{speechRate.toFixed(2)}x</span>
         </div>
         <Slider
-          value={[speechRate]}
-          onValueChange={([value]) => setSpeechRate(value)}
+          value={speechRateValue}
+          onValueChange={handleSpeechRateChange}
           max={2.0}
           min={0.5}
           step={0.05}
@@ -246,7 +264,7 @@ export function MobileSettingsContent({
           </span>
         </div>
         <Slider
-          value={[fontSize]}
+          value={fontSizeValue}
           onValueChange={([value]) => setFontSize(value)}
           max={40}
           min={16}
@@ -494,7 +512,7 @@ export function MobileSettingsContent({
                   <span className="text-xs text-muted-foreground">{timerDuration} min</span>
                 </div>
                 <Slider
-                  value={[timerDuration]}
+                  value={timerDurationValue}
                   onValueChange={([value]) => setTimerDuration(value)}
                   max={30}
                   min={5}
