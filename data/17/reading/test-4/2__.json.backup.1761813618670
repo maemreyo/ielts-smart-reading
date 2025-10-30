@@ -1,0 +1,4046 @@
+{
+  "logTitle": "IELTS Reading Log: Does education fuel economic growth? (Part 1)",
+  "sourceId": "Reading Passage (Image '...16.57.47.png')",
+  "totalItems": 115,
+  "lexicalItems": [
+    {
+      "id": "1761813174072-22-0-788fb46d",
+      "targetLexeme": "fuel economic growth",
+      "sourceContext": "Does education fuel economic growth?",
+      "phase1Inference": {
+        "contextualGuessVI": "Giáo dục có 'thúc đẩy/tiếp nhiên liệu' (fuel) 'sự tăng trưởng' (growth) 'kinh tế' (economic) 'không' (Does)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fjuːəl ˌiːkəˈnɒmɪk ɡrəʊθ/",
+        "sentiment": "positive",
+        "definitionEN": "To supply something (like education) that increases or stimulates the rate at which a country's economy grows",
+        "translationVI": "Thúc đẩy tăng trưởng kinh tế",
+        "relatedCollocates": [
+          "drive (economic growth)",
+          "stimulate (growth)",
+          "spur (growth)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "fuel",
+              "meaning": "nhiên liệu"
+            },
+            {
+              "form": "growth",
+              "meaning": "sự tăng trưởng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "fuel",
+              "meaning": "thúc đẩy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Exports are the main engine that fuels economic growth in this country."
+      }
+    },
+    {
+      "id": "1761813174072-22-1-20f1d9f9",
+      "targetLexeme": "a huge database",
+      "sourceContext": "...a huge database about the lives of southwest German villagers...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'cơ sở dữ liệu' (database) 'khổng lồ' (huge)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə hjuːdʒ ˈdeɪtəbeɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "A very large, structured set of data held in a computer",
+        "translationVI": "Một cơ sở dữ liệu khổng lồ",
+        "relatedCollocates": [
+          "a large (database)",
+          "a massive (database)",
+          "compile (a database)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "database",
+              "meaning": "cơ sở dữ liệu"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "huge",
+              "meaning": "khổng lồ"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government has compiled a huge database of census records."
+      }
+    },
+    {
+      "id": "1761813174072-22-2-4e3570b4",
+      "targetLexeme": "compiled by (a team)",
+      "sourceContext": "...has been compiled by a team led by...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã được 'biên soạn/tổng hợp' (compiled by) 'bởi' (by) 'một nhóm' (a team)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kəmˈpaɪld baɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "To be put together or gathered from various sources by a group of people",
+        "translationVI": "Được biên soạn/tổng hợp bởi (một nhóm)",
+        "relatedCollocates": [
+          "compile (data)",
+          "compile (a list)",
+          "compilation (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "compilation",
+              "meaning": "sự biên soạn"
+            }
+          ],
+          "verb": [
+            {
+              "form": "compile",
+              "meaning": "biên soạn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The report was compiled by a team of independent researchers."
+      }
+    },
+    {
+      "id": "1761813174072-22-3-739a57a7",
+      "targetLexeme": "Faculty of Economics",
+      "sourceContext": "...at Cambridge University's Faculty of Economics.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Khoa' (Faculty) 'Kinh tế' (of Economics)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfæklti əv ˌiːkəˈnɒmɪks/",
+        "sentiment": "neutral",
+        "definitionEN": "The department within a university that is concerned with the study of economics",
+        "translationVI": "Khoa Kinh tế",
+        "relatedCollocates": [
+          "Faculty of (Arts)",
+          "Faculty of (Law)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "faculty",
+              "meaning": "khoa"
+            },
+            {
+              "form": "economics",
+              "meaning": "kinh tế học"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She is a professor at the Faculty of Economics."
+      }
+    },
+    {
+      "id": "1761813174072-22-4-33b8c303",
+      "targetLexeme": "parish registers",
+      "sourceContext": "It includes court records, guild ledgers, parish registers...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Sổ' (registers) 'giáo xứ' (parish) (ghi lại sinh, tử, kết hôn)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpærɪʃ ˈredʒɪstəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Official records of births, marriages, and deaths kept by a local church (parish)",
+        "translationVI": "Sổ đăng ký/hộ tịch giáo xứ",
+        "relatedCollocates": [
+          "church (register)",
+          "birth (register)",
+          "death (register)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "parish",
+              "meaning": "giáo xứ"
+            },
+            {
+              "form": "register",
+              "meaning": "sổ đăng ký"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Historians often use old parish registers to trace family histories."
+      }
+    },
+    {
+      "id": "1761813174072-22-5-283417dd",
+      "targetLexeme": "village censuses",
+      "sourceContext": "...parish registers, village censuses, tax lists...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các cuộc 'điều tra dân số' (censuses) 'của làng' (village)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈvɪlɪdʒ ˈsensəsɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "Official counts or surveys of the population in a village",
+        "translationVI": "Các cuộc điều tra dân số làng",
+        "relatedCollocates": [
+          "national census",
+          "conduct (a census)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "village",
+              "meaning": "làng"
+            },
+            {
+              "form": "census",
+              "meaning": "điều tra dân số"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The village censuses provided data on population and occupations."
+      }
+    },
+    {
+      "id": "1761813174072-22-6-6023e75d",
+      "targetLexeme": "tax lists",
+      "sourceContext": "...village censuses, tax lists and...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Danh sách' (lists) 'thuế' (tax)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tæks lɪsts/",
+        "sentiment": "neutral",
+        "definitionEN": "Official records showing who had to pay taxes and how much they owed",
+        "translationVI": "Danh sách/sổ bộ thuế",
+        "relatedCollocates": [
+          "tax (records)",
+          "pay (tax)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "tax",
+              "meaning": "thuế"
+            },
+            {
+              "form": "list",
+              "meaning": "danh sách"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Her name was found on the tax lists from 1850."
+      }
+    },
+    {
+      "id": "1761813174072-22-7-7de79c79",
+      "targetLexeme": "handwritten inventories",
+      "sourceContext": "...9,000 handwritten inventories listing over a million personal possessions...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'bản kiểm kê' (inventories) 'viết tay' (handwritten)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhændˌrɪtn ˈɪnvəntriz/",
+        "sentiment": "neutral",
+        "definitionEN": "Detailed lists of items (possessions, goods) that were written by hand",
+        "translationVI": "Các bản kiểm kê/thống kê (tài sản) viết tay",
+        "relatedCollocates": [
+          "inventory (n)",
+          "handwritten (adj)",
+          "list (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "inventory",
+              "meaning": "bản kiểm kê"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "handwritten",
+              "meaning": "viết tay"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The museum discovered a handwritten inventory of the castle's contents from 1730."
+      }
+    },
+    {
+      "id": "1761813174072-22-8-5a6d1275",
+      "targetLexeme": "personal possessions",
+      "sourceContext": "...a million personal possessions belonging to ordinary women and men...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Tài sản/vật dụng' (possessions) 'cá nhân' (personal)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpɜːsənl pəˈzeʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Items that are owned by an individual; belongings",
+        "translationVI": "Tài sản/vật dụng cá nhân",
+        "relatedCollocates": [
+          "belongings (synonym)",
+          "worldly goods (synonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "possession",
+              "meaning": "vật sở hữu"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "personal",
+              "meaning": "cá nhân"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "When he died, his personal possessions were divided among his children."
+      }
+    },
+    {
+      "id": "1761813174072-22-9-26d6b30d",
+      "targetLexeme": "ordinary women and men",
+      "sourceContext": "...belonging to ordinary women and men across three centuries.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'người đàn ông' (men) 'và' (and) 'phụ nữ' (women) 'bình thường' (ordinary)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɔːdnri ˈwɪmɪn ənd men/",
+        "sentiment": "neutral",
+        "definitionEN": "Normal people, not those who are famous, rich, or powerful",
+        "translationVI": "Những người đàn ông và phụ nữ bình thường",
+        "relatedCollocates": [
+          "ordinary (people)",
+          "common (people)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "ordinary",
+              "meaning": "bình thường"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The book tells the stories of ordinary women and men who lived through the war."
+      }
+    },
+    {
+      "id": "1761813174072-22-10-6e750285",
+      "targetLexeme": "across three centuries",
+      "sourceContext": "...ordinary women and men across three centuries.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Xuyên suốt' (across) 'ba' (three) 'thế kỷ' (centuries)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈkrɒs θriː ˈsentʃəriz/",
+        "sentiment": "neutral",
+        "definitionEN": "Spanning a period of 300 years",
+        "translationVI": "Xuyên suốt ba thế kỷ",
+        "relatedCollocates": [
+          "span (three centuries)",
+          "over (three centuries)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "century",
+              "meaning": "thế kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The castle has remained in the same family across three centuries."
+      }
+    },
+    {
+      "id": "1761813174072-22-11-3a3175d3",
+      "targetLexeme": "discovered in the archives",
+      "sourceContext": "Ogilvie, who discovered the inventories in the archives of two German communities...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã 'phát hiện' (discovered) 'các bản kiểm kê' (the inventories) 'trong' (in) 'kho lưu trữ' (the archives)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈskʌvəd ɪn ði ˈɑːkaɪvz/",
+        "sentiment": "neutral",
+        "definitionEN": "Found or located within a collection of historical documents or records",
+        "translationVI": "Phát hiện/tìm thấy trong kho lưu trữ",
+        "relatedCollocates": [
+          "discover (v)",
+          "archive (n)",
+          "historical (archives)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "archive",
+              "meaning": "kho lưu trữ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "discover",
+              "meaning": "phát hiện"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "An old map of the city was discovered in the archives."
+      }
+    },
+    {
+      "id": "1761813174072-22-12-7d048da3",
+      "targetLexeme": "hold the answer to a conundrum",
+      "sourceContext": "...believes they may hold the answer to a conundrum that has long puzzled economists...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Nắm giữ' (hold) 'câu trả lời' (the answer) 'cho' (to) 'một' (a) 'câu hỏi hóc búa/vấn đề nan giải' (conundrum)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/həʊld ði ˈɑːnsə tu ə kəˈnʌndrəm/",
+        "sentiment": "positive",
+        "definitionEN": "To contain the solution to a confusing and difficult problem or question",
+        "translationVI": "Nắm giữ câu trả lời cho một vấn đề nan giải",
+        "relatedCollocates": [
+          "solve (a conundrum)",
+          "a puzzle (n) (synonym)",
+          "a riddle (n) (synonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "answer",
+              "meaning": "câu trả lời"
+            },
+            {
+              "form": "conundrum",
+              "meaning": "vấn đề nan giải"
+            }
+          ],
+          "verb": [
+            {
+              "form": "hold",
+              "meaning": "nắm giữ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Scientists believe this ancient ice core may hold the answer to the conundrum of past climate change."
+      }
+    },
+    {
+      "id": "1761813174072-22-13-00589278",
+      "targetLexeme": "long puzzled economists",
+      "sourceContext": "...a conundrum that has long puzzled economists:",
+      "phase1Inference": {
+        "contextualGuessVI": "Một vấn đề nan giải 'từ lâu' (long) 'đã làm bối rối/đánh đố' (puzzled) 'các nhà kinh tế học' (economists)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/lɒŋ ˈpʌzld ɪˈkɒnəmɪsts/",
+        "sentiment": "neutral",
+        "definitionEN": "To have caused confusion or difficulty for economists over a significant period of time",
+        "translationVI": "Đã làm bối rối/đánh đố các nhà kinh tế học từ lâu",
+        "relatedCollocates": [
+          "puzzle (v)",
+          "baffle (v) (synonym)",
+          "economist (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "economist",
+              "meaning": "nhà kinh tế học"
+            },
+            {
+              "form": "puzzle",
+              "meaning": "câu đố"
+            }
+          ],
+          "verb": [
+            {
+              "form": "puzzle",
+              "meaning": "làm bối rối"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The sudden disappearance of the ancient civilization has long puzzled archaeologists."
+      }
+    },
+    {
+      "id": "1761813174072-22-14-665b7f99",
+      "targetLexeme": "lack of evidence for",
+      "sourceContext": "...the lack of evidence for a causal link between...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'thiếu' (lack) 'bằng chứng' (of evidence) 'về' (for) 'một' (a) 'mối liên hệ' (link) 'nhân quả' (causal)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/læk əv ˈevɪdəns fɔː/",
+        "sentiment": "negative",
+        "definitionEN": "The absence or insufficiency of proof or facts supporting a particular idea",
+        "translationVI": "Sự thiếu bằng chứng về",
+        "relatedCollocates": [
+          "a lack of (sth)",
+          "evidence (for sth)",
+          "no evidence (synonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "lack",
+              "meaning": "sự thiếu hụt"
+            },
+            {
+              "form": "evidence",
+              "meaning": "bằng chứng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There is a lack of evidence for his claims, so no one believes him."
+      }
+    },
+    {
+      "id": "1761813174072-22-15-7f264a41",
+      "targetLexeme": "a causal link between",
+      "sourceContext": "...a causal link between education and a country's economic growth.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'mối liên hệ' (link) 'nhân quả' (causal) 'giữa' (between) 'giáo dục' (education) 'và' (and) 'tăng trưởng kinh tế' (economic growth)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈkɔːzəl lɪŋk bɪˈtwiːn/",
+        "sentiment": "neutral",
+        "definitionEN": "A relationship where one thing (a cause) makes another thing (an effect) happen",
+        "translationVI": "Mối liên hệ nhân quả giữa",
+        "relatedCollocates": [
+          "a (causal) relationship",
+          "a correlation (n)",
+          "cause (v)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "link",
+              "meaning": "mối liên hệ"
+            },
+            {
+              "form": "cause",
+              "meaning": "nguyên nhân"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "causal",
+              "meaning": "thuộc nhân quả"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The study found a direct causal link between smoking and lung cancer."
+      }
+    },
+    {
+      "id": "1761813174072-22-16-227ed95b",
+      "targetLexeme": "work more productively",
+      "sourceContext": "‘Education helps us to work more productively...",
+      "phase1Inference": {
+        "contextualGuessVI": "Giúp chúng ta 'làm việc' (work) 'năng suất hơn' (more productively)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɜːk mɔː prəˈdʌktɪvli/",
+        "sentiment": "positive",
+        "definitionEN": "To do one's job in a way that produces more or achieves better results in less time",
+        "translationVI": "Làm việc năng suất hơn",
+        "relatedCollocates": [
+          "increase (productivity)",
+          "work (efficiently)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "productivity",
+              "meaning": "năng suất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "productively",
+              "meaning": "một cách năng suất"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new software allows employees to work more productively."
+      }
+    },
+    {
+      "id": "1761813174072-22-17-2f4ab8c7",
+      "targetLexeme": "invent better technology",
+      "sourceContext": "...invent better technology, and earn more ...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Phát minh' (invent) 'công nghệ' (technology) 'tốt hơn' (better)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈvent ˈbetə tekˈnɒlədʒi/",
+        "sentiment": "positive",
+        "definitionEN": "To create new and improved tools, machines, or methods",
+        "translationVI": "Phát minh công nghệ tốt hơn",
+        "relatedCollocates": [
+          "invent (v)",
+          "invention (n)",
+          "new (technology)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "invention",
+              "meaning": "sự phát minh"
+            },
+            {
+              "form": "technology",
+              "meaning": "công nghệ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "invent",
+              "meaning": "phát minh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Companies must constantly invent better technology to stay competitive."
+      }
+    },
+    {
+      "id": "1761813174072-22-18-5fab88a7",
+      "targetLexeme": "critical for (economic growth)",
+      "sourceContext": "...surely it must be critical for economic growth?",
+      "phase1Inference": {
+        "contextualGuessVI": "Chắc chắn nó phải 'rất quan trọng/thiết yếu' (critical) 'cho' (for) 'tăng trưởng kinh tế' (economic growth)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkrɪtɪkl fɔː/",
+        "sentiment": "positive",
+        "definitionEN": "Extremely important or necessary for the success or existence of something",
+        "translationVI": "Thiết yếu/quan trọng cho (tăng trưởng kinh tế)",
+        "relatedCollocates": [
+          "crucial (for) (synonym)",
+          "vital (for) (synonym)",
+          "essential (for) (synonym)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "critical",
+              "meaning": "quan trọng, chí mạng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Foreign investment is critical for the development of the new project."
+      }
+    },
+    {
+      "id": "1761813174072-22-19-58a65ea9",
+      "targetLexeme": "look back through history",
+      "sourceContext": "But, if you look back through history, there’s no evidence that...",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhưng, nếu bạn 'nhìn lại' (look back) 'suốt' (through) 'lịch sử' (history).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/lʊk bæk θruː ˈhɪstri/",
+        "sentiment": "neutral",
+        "definitionEN": "To review or examine past events",
+        "translationVI": "Nhìn lại/xét lại lịch sử",
+        "relatedCollocates": [
+          "look back (at)",
+          "in the past",
+          "historically (adv)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "look back",
+              "meaning": "nhìn lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "When we look back through history, we can see how much technology has changed our lives."
+      }
+    },
+    {
+      "id": "1761813174072-22-20-35feb774",
+      "targetLexeme": "a high literacy rate",
+      "sourceContext": "...there’s no evidence that having a high literacy rate made a country industrialise earlier.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Việc có 'tỷ lệ' (rate) 'biết chữ' (literacy) 'cao' (high) 'đã khiến' (made) 'một quốc gia' (a country) 'công nghiệp hóa' (industrialise) 'sớm hơn' (earlier)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə haɪ ˈlɪtərəsi reɪt/",
+        "sentiment": "positive",
+        "definitionEN": "A high percentage of the population in a country that is able to read and write",
+        "translationVI": "Tỷ lệ biết chữ cao",
+        "relatedCollocates": [
+          "low (literacy rate) (antonym)",
+          "literacy (n)",
+          "illiteracy (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "literacy",
+              "meaning": "sự biết chữ"
+            },
+            {
+              "form": "rate",
+              "meaning": "tỷ lệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Countries with a high literacy rate often have stronger economies."
+      }
+    },
+    {
+      "id": "1761813174072-22-21-32e6284a",
+      "targetLexeme": "industrialise (v)",
+      "sourceContext": "...made a country industrialise earlier.’",
+      "phase1Inference": {
+        "contextualGuessVI": "'Công nghiệp hóa' (industrialise)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈdʌstriəlaɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "To develop industries in a country or region on a wide scale",
+        "translationVI": "Công nghiệp hóa",
+        "relatedCollocates": [
+          "industrialisation (n)",
+          "industrial (revolution)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "industrialisation",
+              "meaning": "sự CNH"
+            }
+          ],
+          "verb": [
+            {
+              "form": "industrialise",
+              "meaning": "công nghiệp hóa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Japan was the first country in Asia to industrialise."
+      }
+    },
+    {
+      "id": "1761813174072-22-22-421526b7",
+      "targetLexeme": "mediocre (adj)",
+      "sourceContext": "...England had only mediocre literacy rates by European standards...",
+      "phase1Inference": {
+        "contextualGuessVI": "Nước Anh chỉ có 'tỷ lệ' (rates) 'biết chữ' (literacy) 'trung bình/xoàng xĩnh' (mediocre) 'so với' (by) 'tiêu chuẩn' (standards) 'châu Âu' (European)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌmiːdiˈəʊkə/",
+        "sentiment": "negative",
+        "definitionEN": "Of only average quality; not very good",
+        "translationVI": "Tầm thường, xoàng xĩnh, trung bình",
+        "relatedCollocates": [
+          "average (synonym)",
+          "unimpressive (synonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "mediocrity",
+              "meaning": "sự tầm thường"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "mediocre",
+              "meaning": "tầm thường"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The restaurant was expensive, but the food was mediocre."
+      }
+    },
+    {
+      "id": "1761813174072-22-23-6712968e",
+      "targetLexeme": "by European standards",
+      "sourceContext": "...mediocre literacy rates by European standards...",
+      "phase1Inference": {
+        "contextualGuessVI": "'So với/Theo' (by) 'tiêu chuẩn' (standards) 'châu Âu' (European)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/baɪ ˌjʊərəˈpiːən ˈstændədz/",
+        "sentiment": "neutral",
+        "definitionEN": "When judged or measured in comparison to other countries in Europe",
+        "translationVI": "Theo/So với tiêu chuẩn châu Âu",
+        "relatedCollocates": [
+          "by (modern) standards",
+          "by (any) standards"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "standard",
+              "meaning": "tiêu chuẩn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The apartment is quite small by European standards, but it is normal for Tokyo."
+      }
+    },
+    {
+      "id": "1761813174072-22-24-291045f3",
+      "targetLexeme": "cross-country analyses",
+      "sourceContext": "‘Modern cross-country analyses also struggled to find evidence that...’",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'phân tích' (analyses) 'liên' (cross-) 'quốc gia' (country) 'hiện đại' (Modern)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌkrɒsˈkʌntri əˈnæləsiːz/",
+        "sentiment": "neutral",
+        "definitionEN": "Studies that compare data from different countries",
+        "translationVI": "Các phân tích/nghiên cứu liên quốc gia",
+        "relatedCollocates": [
+          "cross-cultural (adj)",
+          "analysis (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "analysis",
+              "meaning": "sự phân tích"
+            },
+            {
+              "form": "country",
+              "meaning": "quốc gia"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Modern cross-country analyses are often used in economics to compare development levels."
+      }
+    },
+    {
+      "id": "1761813174072-22-25-347daae4",
+      "targetLexeme": "plenty of evidence that",
+      "sourceContext": "...even though there is plenty of evidence that growth increases education,’ she adds.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mặc dù có 'rất nhiều' (plenty of) 'bằng chứng' (evidence) 'rằng' (that) 'tăng trưởng' (growth) 'làm tăng' (increases) 'giáo dục' (education)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈplenti əv ˈevɪdəns ðæt/",
+        "sentiment": "positive",
+        "definitionEN": "A large or sufficient amount of proof or facts",
+        "translationVI": "Rất nhiều bằng chứng rằng",
+        "relatedCollocates": [
+          "a lot of (evidence)",
+          "ample (evidence)",
+          "lack of (evidence) (antonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "evidence",
+              "meaning": "bằng chứng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There is plenty of evidence that regular exercise is good for your health."
+      }
+    },
+    {
+      "id": "1761813174072-22-26-445f2491",
+      "targetLexeme": "belongings (n)",
+      "sourceContext": "In the handwritten inventories... are analysing the belongings of women and men...",
+      "phase1Inference": {
+        "contextualGuessVI": "Phân tích 'tài sản/vật dụng' (belongings) 'của' (of) 'phụ nữ' (women) 'và' (and) 'đàn ông' (men)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/bɪˈlɒŋɪŋz/",
+        "sentiment": "neutral",
+        "definitionEN": "A person's movable personal possessions",
+        "translationVI": "Tài sản, vật dụng cá nhân",
+        "relatedCollocates": [
+          "personal possessions (synonym)",
+          "worldly goods (synonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "belongings",
+              "meaning": "vật dụng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Please make sure you have all your personal belongings before leaving the train."
+      }
+    },
+    {
+      "id": "1761813174072-22-27-6eafdbbe",
+      "targetLexeme": "at marriage, remarriage and death",
+      "sourceContext": "...belongings of women and men at marriage, remarriage and death.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Vào lúc' (at) 'kết hôn' (marriage), 'tái hôn' (remarriage) 'và' (and) 'qua đời' (death)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ət ˈmærɪdʒ ˌriːˈmærɪdʒ ənd deθ/",
+        "sentiment": "neutral",
+        "definitionEN": "At the specific life events of getting married, getting married again, and dying",
+        "translationVI": "Vào lúc kết hôn, tái hôn và qua đời",
+        "relatedCollocates": [
+          "life events (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "marriage",
+              "meaning": "hôn nhân"
+            },
+            {
+              "form": "remarriage",
+              "meaning": "sự tái hôn"
+            },
+            {
+              "form": "death",
+              "meaning": "cái chết"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Wills are often read out after a person's death, detailing their belongings."
+      }
+    },
+    {
+      "id": "1761813174072-22-28-1a859b7c",
+      "targetLexeme": "badger skins",
+      "sourceContext": "From badger skins to Bibles, sewing machines to scarlet bodices...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Da' (skins) 'của con lửng' (badger)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbædʒə skɪnz/",
+        "sentiment": "neutral",
+        "definitionEN": "The pelts or hides of the badger, a burrowing mammal",
+        "translationVI": "Da lửng",
+        "relatedCollocates": [
+          "animal skins",
+          "fur (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "badger",
+              "meaning": "con lửng"
+            },
+            {
+              "form": "skin",
+              "meaning": "da"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In the past, badger skins were used to make warm hats."
+      }
+    },
+    {
+      "id": "1761813174072-22-29-40df5b63",
+      "targetLexeme": "sewing machines",
+      "sourceContext": "...badger skins to Bibles, sewing machines to scarlet bodices...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Máy may' (sewing machines)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsəʊɪŋ məˈʃiːnz/",
+        "sentiment": "neutral",
+        "definitionEN": "Machines used for stitching cloth and other materials together with thread",
+        "translationVI": "Máy may",
+        "relatedCollocates": [
+          "sew (v)",
+          "needle (n)",
+          "thread (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "machine",
+              "meaning": "máy móc"
+            },
+            {
+              "form": "sewing",
+              "meaning": "việc may vá"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The invention of the sewing machine revolutionized the textile industry."
+      }
+    },
+    {
+      "id": "1761813174072-22-30-0a24131c",
+      "targetLexeme": "scarlet bodices",
+      "sourceContext": "...sewing machines to scarlet bodices – the villagers' entire worldly goods...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Áo nịt ngực/áo lót thân trên' (bodices) 'màu đỏ tươi' (scarlet)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈskɑːlət ˈbɒdɪsɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "The upper part of a woman's dress, bright red in color",
+        "translationVI": "Áo nịt ngực/thân trên màu đỏ tươi",
+        "relatedCollocates": [
+          "scarlet (adj)",
+          "bodice (n)",
+          "clothing (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "bodice",
+              "meaning": "áo nịt ngực"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "scarlet",
+              "meaning": "đỏ tươi"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The traditional folk costume included a white blouse and a scarlet bodice."
+      }
+    },
+    {
+      "id": "1761813174072-22-31-4092b526",
+      "targetLexeme": "entire worldly goods",
+      "sourceContext": "...the villagers' entire worldly goods are included.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Toàn bộ' (entire) 'tài sản/của cải' (goods) 'trần thế/trên đời' (worldly) 'của dân làng' (villagers')"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈtaɪə ˈwɜːldli ɡʊdz/",
+        "sentiment": "neutral",
+        "definitionEN": "All the personal possessions that a person owns",
+        "translationVI": "Toàn bộ của cải/tài sản trần thế",
+        "relatedCollocates": [
+          "all (one's) belongings",
+          "personal possessions (synonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "goods",
+              "meaning": "hàng hóa, của cải"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "worldly",
+              "meaning": "thuộc trần thế"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "When he fled the country, he had to leave his entire worldly goods behind."
+      }
+    },
+    {
+      "id": "1761813174072-22-32-2ff1c64b",
+      "targetLexeme": "agricultural equipment",
+      "sourceContext": "Inventories of agricultural equipment and craft tools...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thiết bị/dụng cụ' (equipment) 'nông nghiệp' (agricultural)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌæɡrɪˈkʌltʃərəl ɪˈkwɪpmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "Tools and machinery used in farming (e.g., plows, sickles)",
+        "translationVI": "Thiết bị/dụng cụ nông nghiệp",
+        "relatedCollocates": [
+          "farm (equipment)",
+          "craft (tools)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "equipment",
+              "meaning": "thiết bị"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "agricultural",
+              "meaning": "thuộc nông nghiệp"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The museum has a collection of old agricultural equipment."
+      }
+    },
+    {
+      "id": "1761813174072-22-33-6ecd08c4",
+      "targetLexeme": "craft tools",
+      "sourceContext": "...agricultural equipment and craft tools reveal economic activities...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Dụng cụ' (tools) 'thủ công' (craft)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/krɑːft tuːlz/",
+        "sentiment": "neutral",
+        "definitionEN": "Tools used for skilled manual work, like woodworking, weaving, or blacksmithing",
+        "translationVI": "Dụng cụ thủ công",
+        "relatedCollocates": [
+          "handicraft (n)",
+          "tools (n)",
+          "artisan (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "craft",
+              "meaning": "nghề thủ công"
+            },
+            {
+              "form": "tool",
+              "meaning": "dụng cụ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The carpenter's workshop was filled with various craft tools."
+      }
+    },
+    {
+      "id": "1761813174072-22-34-6b3fd71f",
+      "targetLexeme": "reveal economic activities",
+      "sourceContext": "...craft tools reveal economic activities...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Tiết lộ/cho thấy' (reveal) 'các hoạt động' (activities) 'kinh tế' (economic)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈviːl ˌiːkəˈnɒmɪk ækˈtɪvətiz/",
+        "sentiment": "neutral",
+        "definitionEN": "To show or make known the ways in which people were making money or producing goods",
+        "translationVI": "Tiết lộ/cho thấy các hoạt động kinh tế",
+        "relatedCollocates": [
+          "reveal (v)",
+          "show (v) (synonym)",
+          "economic (activity)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "activity",
+              "meaning": "hoạt động"
+            },
+            {
+              "form": "revelation",
+              "meaning": "sự tiết lộ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "reveal",
+              "meaning": "tiết lộ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The excavated artifacts reveal the economic activities of the ancient city."
+      }
+    },
+    {
+      "id": "1761813174072-22-35-7462f12e",
+      "targetLexeme": "education-related objects",
+      "sourceContext": "...ownership of books and education-related objects like pens and slates...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Các đồ vật' (objects) 'liên quan đến' (related) 'giáo dục' (education) 'như' (like) 'bút' (pens) 'và' (and) 'bảng đá' (slates)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌedʒuˈkeɪʃən rɪˈleɪtɪd ˈɒbdʒɪkts/",
+        "sentiment": "neutral",
+        "definitionEN": "Items that are connected with the process of learning, reading, and writing",
+        "translationVI": "Các đồ vật liên quan đến giáo dục",
+        "relatedCollocates": [
+          "books (n)",
+          "pens (n)",
+          "slates (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "education",
+              "meaning": "giáo dục"
+            },
+            {
+              "form": "object",
+              "meaning": "đồ vật"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The inventory listed books, pens, and slates, all education-related objects."
+      }
+    },
+    {
+      "id": "1761813174072-22-36-0276e971",
+      "targetLexeme": "assets and debts",
+      "sourceContext": "...record the value of farms, workshops, assets and debts...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Tài sản' (assets) 'và' (and) 'các khoản nợ' (debts)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈæsets ənd dets/",
+        "sentiment": "neutral",
+        "definitionEN": "The total value of things a person owns (assets) and the total amount of money they owe (debts)",
+        "translationVI": "Tài sản và nợ",
+        "relatedCollocates": [
+          "assets (n)",
+          "debts (n)",
+          "liabilities (synonym for debts)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "asset",
+              "meaning": "tài sản"
+            },
+            {
+              "form": "debt",
+              "meaning": "khoản nợ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "When he died, his assets and debts were calculated by the executor."
+      }
+    },
+    {
+      "id": "1761813174072-22-37-19ad9f1d",
+      "targetLexeme": "indicate literacy and numeracy levels",
+      "sourceContext": "...signatures and people's estimates of their age indicate literacy and numeracy levels...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Chữ ký' (signatures) '... 'chỉ ra/cho thấy' (indicate) 'các cấp độ' (levels) 'biết chữ' (literacy) 'và' (and) 'biết tính toán' (numeracy)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɪndɪkeɪt ˈlɪtərəsi ənd ˈnjuːmərəsi ˈlevlz/",
+        "sentiment": "neutral",
+        "definitionEN": "To show or be a sign of how well people could read/write (literacy) and do basic math (numeracy)",
+        "translationVI": "Chỉ ra/cho thấy mức độ biết chữ và biết tính toán",
+        "relatedCollocates": [
+          "literacy (n)",
+          "numeracy (n)",
+          "levels (n)",
+          "indicate (v)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "literacy",
+              "meaning": "sự biết chữ"
+            },
+            {
+              "form": "numeracy",
+              "meaning": "sự biết tính toán"
+            }
+          ],
+          "verb": [
+            {
+              "form": "indicate",
+              "meaning": "chỉ ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A person's ability to sign their name was often used to indicate their literacy level."
+      }
+    },
+    {
+      "id": "1761813174072-22-38-7c71cd8a",
+      "targetLexeme": "record obstacles",
+      "sourceContext": "...and court records reveal obstacles (such as the activities of the guilds*) that stifled industry.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Hồ sơ' (records) 'tòa án' (court) 'tiết lộ' (reveal) 'những trở ngại' (obstacles) 'đã kìm hãm' (that stifled) 'công nghiệp' (industry)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈkɔːd ˈɒbstəklz/",
+        "sentiment": "negative",
+        "definitionEN": "To make an official note of difficulties or things that block progress",
+        "translationVI": "Ghi lại/cho thấy những trở ngại",
+        "relatedCollocates": [
+          "reveal (obstacles)",
+          "obstacle (n)",
+          "stifle (industry)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "record",
+              "meaning": "hồ sơ"
+            },
+            {
+              "form": "obstacle",
+              "meaning": "trở ngại"
+            }
+          ],
+          "verb": [
+            {
+              "form": "record",
+              "meaning": "ghi lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The historical documents record obstacles that early inventors faced."
+      }
+    },
+    {
+      "id": "1761813174072-22-39-7ae2563f",
+      "targetLexeme": "stifled (v)",
+      "sourceContext": "...obstacles (such as the activities of the guilds*) that stifled industry.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những trở ngại 'đã kìm hãm/làm nghẹt thở' (stifled) 'nền công nghiệp/hoạt động kinh doanh' (industry)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈstaɪfld/",
+        "sentiment": "negative",
+        "definitionEN": "To prevent something from developing or growing; to suppress or suffocate",
+        "translationVI": "Kìm hãm, làm nghẹt thở",
+        "relatedCollocates": [
+          "stifle (innovation)",
+          "suppress (synonym)",
+          "hinder (synonym)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "stifle",
+              "meaning": "kìm hãm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Excessive regulation stifled innovation in the technology sector."
+      }
+    },
+    {
+      "id": "1761813174072-22-40-26cb4081",
+      "targetLexeme": "Previous studies",
+      "sourceContext": "Previous studies usually had just one way of linking education with economic growth...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'nghiên cứu' (studies) 'trước đây' (Previous)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpriːviəs ˈstʌdiz/",
+        "sentiment": "neutral",
+        "definitionEN": "Research or analyses that were conducted in the past",
+        "translationVI": "Các nghiên cứu trước đây",
+        "relatedCollocates": [
+          "earlier (studies)",
+          "past (research)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "study",
+              "meaning": "nghiên cứu"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "previous",
+              "meaning": "trước đây"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Previous studies have shown a link between diet and health."
+      }
+    },
+    {
+      "id": "1761813174072-22-41-0aa37592",
+      "targetLexeme": "school enrolment",
+      "sourceContext": "...perhaps, or school enrolment, or the ability to sign names.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hoặc 'sự nhập học' (enrolment) 'ở trường' (school) (tỷ lệ nhập học)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/skuːl ɪnˈrəʊlmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "The act of officially joining or registering for a school",
+        "translationVI": "Sự nhập học, tỷ lệ nhập học",
+        "relatedCollocates": [
+          "enrol (in school)",
+          "enrolment (rates)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "enrolment",
+              "meaning": "sự nhập học"
+            }
+          ],
+          "verb": [
+            {
+              "form": "enrol",
+              "meaning": "nhập học"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "School enrolment has increased dramatically in the last twenty years."
+      }
+    },
+    {
+      "id": "1761813174072-22-42-725f7a4d",
+      "targetLexeme": "multiple indicators",
+      "sourceContext": "...the database provides multiple indicators for the same individuals...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cung cấp 'nhiều' (multiple) 'chỉ số/dấu hiệu' (indicators) 'cho' (for) 'cùng' (the same) 'các cá nhân' (individuals)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmʌltɪpl ˈɪndɪkeɪtəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Many different signs or measurements that show what something is like",
+        "translationVI": "Nhiều chỉ số",
+        "relatedCollocates": [
+          "several (indicators)",
+          "an indicator (of sth)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "indicator",
+              "meaning": "chỉ số"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "multiple",
+              "meaning": "nhiều"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "GDP is just one of multiple indicators used to measure a country's wealth."
+      }
+    },
+    {
+      "id": "1761813174072-22-43-5c87832b",
+      "targetLexeme": "demographic reconstruction",
+      "sourceContext": "...building the vast database of material possessions on top of their full demographic reconstruction...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Sự tái cấu trúc/dựng lại' (reconstruction) 'nhân khẩu học' (demographic) 'đầy đủ' (full)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌdeməˈɡræfɪk ˌriːkənˈstrʌkʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "The process of re-creating or mapping out the historical structure of a population (e.g., births, deaths, marriages, family sizes)",
+        "translationVI": "Sự tái cấu trúc/dựng lại (bức tranh) nhân khẩu học",
+        "relatedCollocates": [
+          "demographic (data)",
+          "population (reconstruction)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "demographics",
+              "meaning": "nhân khẩu học"
+            },
+            {
+              "form": "reconstruction",
+              "meaning": "sự tái cấu trúc"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The historian's full demographic reconstruction revealed high rates of infant mortality."
+      }
+    },
+    {
+      "id": "1761813174072-22-44-33cd9137",
+      "targetLexeme": "unfolded before their eyes",
+      "sourceContext": "‘We can follow the same people... Individual lives have unfolded before their eyes.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Cuộc đời của 'các cá nhân' (Individual lives) 'đã mở ra/hiện ra' (have unfolded) 'trước mắt họ' (before their eyes)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ʌnˈfəʊldɪd bɪˈfɔː ðeər aɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "An idiom meaning that something (like a story or a life) has been revealed or developed as they watched",
+        "translationVI": "Mở ra/hiện ra/diễn ra trước mắt họ",
+        "relatedCollocates": [
+          "unfold (v)",
+          "a story (unfolds)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "unfold",
+              "meaning": "mở ra, bộc lộ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "They watched the dramatic events unfolded before their eyes on the news."
+      }
+    },
+    {
+      "id": "1761813174072-22-45-31a64bbd",
+      "targetLexeme": "chastised (v)",
+      "sourceContext": "...Ana Regina and Magdalena Riethmüllerin, who were chastised in 1707 for reading books in church...",
+      "phase1Inference": {
+        "contextualGuessVI": "Hai người 'đã bị' (were) 'khiển trách/quở phạt' (chastised) 'vào năm 1707' (in 1707) 'vì' (for) 'đọc sách' (reading books) 'trong nhà thờ' (in church)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tʃæˈstaɪzd/",
+        "sentiment": "negative",
+        "definitionEN": "To criticize someone severely; to reprimand",
+        "translationVI": "Khiển trách, quở phạt, mắng mỏ",
+        "relatedCollocates": [
+          "reprimand (synonym)",
+          "scold (synonym)",
+          "chastise (sb for doing sth)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "chastise",
+              "meaning": "khiển trách"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The teacher chastised the student for not doing his homework."
+      }
+    },
+    {
+      "id": "1761813174072-22-46-48c8f2fc",
+      "targetLexeme": "listening to the sermon",
+      "sourceContext": "...reading books in church instead of listening to the sermon.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đọc sách 'thay vì' (instead of) 'nghe' (listening to) 'bài thuyết giáo/giảng đạo' (the sermon)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlɪsnɪŋ tu ðə ˈsɜːmən/",
+        "sentiment": "neutral",
+        "definitionEN": "To pay attention to the talk on a religious or moral subject given by a priest or pastor during a church service",
+        "translationVI": "Nghe giảng đạo, nghe thuyết giáo",
+        "relatedCollocates": [
+          "give (a sermon)",
+          "church (sermon)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "sermon",
+              "meaning": "bài thuyết giáo"
+            }
+          ],
+          "verb": [
+            {
+              "form": "listen",
+              "meaning": "nghe"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The congregation sat quietly, listening to the sermon."
+      }
+    },
+    {
+      "id": "1761813174072-22-47-7aa8123e",
+      "targetLexeme": "develop their reading skills",
+      "sourceContext": "...they were continuing to develop their reading skills...",
+      "phase1Inference": {
+        "contextualGuessVI": "Họ 'đang tiếp tục' (were continuing) 'phát triển' (to develop) 'kỹ năng đọc' (their reading skills) 'của mình' (their)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈveləp ðeə ˈriːdɪŋ skɪlz/",
+        "sentiment": "positive",
+        "definitionEN": "To improve one's ability to read and understand text",
+        "translationVI": "Phát triển kỹ năng đọc",
+        "relatedCollocates": [
+          "improve (skills)",
+          "reading (ability)",
+          "literacy (skills)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "skill",
+              "meaning": "kỹ năng"
+            },
+            {
+              "form": "development",
+              "meaning": "sự phát triển"
+            }
+          ],
+          "verb": [
+            {
+              "form": "develop",
+              "meaning": "phát triển"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Reading every day is the best way to develop your reading skills."
+      }
+    },
+    {
+      "id": "1761813174072-22-48-79264392",
+      "targetLexeme": "a steep learning curve",
+      "sourceContext": "...after leaving school, explains Ogilvie. The database also reveals the case of...",
+      "phase1Inference": {
+        "contextualGuessVI": "(Mặc dù không có trong câu, 'a steep learning curve' (đường cong học tập dốc) là một cụm từ liên quan thường gặp, nghĩa là 'giai đoạn học hỏi khó khăn ban đầu')"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə stiːp ˈlɜːnɪŋ kɜːv/",
+        "sentiment": "neutral",
+        "definitionEN": "A situation in which someone has to learn a lot of difficult things in a short period of time",
+        "translationVI": "Giai đoạn học hỏi ban đầu (khó khăn, vất vả)",
+        "relatedCollocates": [
+          "a (steep) curve",
+          "learning (process)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "learning curve",
+              "meaning": "đường cong học tập"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTSENT_CREATION",
+        "content": "The new job had a steep learning curve, but she mastered it quickly."
+      }
+    },
+    {
+      "id": "1761813174072-22-49-35593691",
+      "targetLexeme": "reprimanded (v)",
+      "sourceContext": "...Juliana Schneickherdt, a 50-year-old spinster... who was reprimanded in 1752 by the local weavers' guild...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một người 'đã bị' (was) 'khiển trách/khiển phạt' (reprimanded) 'bởi' (by) 'phường hội' (guild) 'thợ dệt' (weavers') 'địa phương' (local)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈreprɪmɑːndɪd/",
+        "sentiment": "negative",
+        "definitionEN": "To be told officially that one's behavior is wrong and unacceptable; to rebuke",
+        "translationVI": "Bị khiển trách, bị kỷ luật",
+        "relatedCollocates": [
+          "chastise (synonym)",
+          "rebuke (synonym)",
+          "tell off (phrasal verb)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "reprimand",
+              "meaning": "sự khiển trách"
+            }
+          ],
+          "verb": [
+            {
+              "form": "reprimand",
+              "meaning": "khiển trách"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The soldier was severely reprimanded for falling asleep on duty."
+      }
+    },
+    {
+      "id": "1761813174072-22-50-53c1a8fa",
+      "targetLexeme": "weaving cloth",
+      "sourceContext": "...by the local weavers' guild for ‘weaving cloth and combing wool...",
+      "phase1Inference": {
+        "contextualGuessVI": "Vì 'dệt' (weaving) 'vải' (cloth) 'và' (and) 'chải' (combing) 'lông cừu' (wool)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwiːvɪŋ klɒθ/",
+        "sentiment": "neutral",
+        "definitionEN": "The craft or action of forming fabric (cloth) by interlacing threads",
+        "translationVI": "Dệt vải",
+        "relatedCollocates": [
+          "weave (v)",
+          "cloth (n)",
+          "weaver (n)",
+          "loom (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "weaving",
+              "meaning": "sự dệt"
+            },
+            {
+              "form": "cloth",
+              "meaning": "vải"
+            }
+          ],
+          "verb": [
+            {
+              "form": "weave",
+              "meaning": "dệt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Weaving cloth on a traditional loom is a highly skilled craft."
+      }
+    },
+    {
+      "id": "1761813174072-22-51-4953e34d",
+      "targetLexeme": "combing wool",
+      "sourceContext": "...for ‘weaving cloth and combing wool, counter to the guild ordinance’.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Chải' (combing) 'lông cừu' (wool) (để chuẩn bị sợi)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkəʊmɪŋ wʊl/",
+        "sentiment": "neutral",
+        "definitionEN": "The process of preparing wool fibers for spinning by brushing them with combs",
+        "translationVI": "Chải len/lông cừu",
+        "relatedCollocates": [
+          "comb (v)",
+          "wool (n)",
+          "spinning (related)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "comb",
+              "meaning": "cái lược"
+            },
+            {
+              "form": "wool",
+              "meaning": "lông cừu"
+            }
+          ],
+          "verb": [
+            {
+              "form": "comb",
+              "meaning": "chải"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Combing wool removes short fibers and aligns the long ones for spinning."
+      }
+    },
+    {
+      "id": "1761813174072-22-52-04d89215",
+      "targetLexeme": "counter to the guild ordinance",
+      "sourceContext": "...combing wool, counter to the guild ordinance’.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Trái với/đi ngược lại' (counter to) 'quy định/pháp lệnh' (the ordinance) 'của phường hội' (the guild)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkaʊntə tu ðə ɡɪld ˈɔːdɪnəns/",
+        "sentiment": "negative",
+        "definitionEN": "In opposition to or against the official rule or regulation of the craft association (guild)",
+        "translationVI": "Trái với/ngược với quy định của phường hội",
+        "relatedCollocates": [
+          "counter to (sth)",
+          "against (the rules)",
+          "ordinance (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "ordinance",
+              "meaning": "pháp lệnh, quy định"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His actions were counter to the company's official policy."
+      }
+    },
+    {
+      "id": "1761813174072-22-53-3166214e",
+      "targetLexeme": "taking jobs reserved for",
+      "sourceContext": "...taking jobs reserved for male guild members...",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhận 'những công việc' (taking jobs) 'được dành riêng cho' (reserved for) 'các thành viên' (members) 'phường hội' (guild) 'là nam giới' (male)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈteɪkɪŋ dʒɒbz rɪˈzɜːvd fɔː/",
+        "sentiment": "neutral",
+        "definitionEN": "Doing work that was officially kept only for a specific group of people (male guild members)",
+        "translationVI": "Làm những công việc vốn dành riêng cho",
+        "relatedCollocates": [
+          "reserve (v)",
+          "reserved (seat)",
+          "male (members)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "take",
+              "meaning": "lấy, nhận"
+            },
+            {
+              "form": "reserve",
+              "meaning": "để dành"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She was criticized for taking a job traditionally reserved for men."
+      }
+    },
+    {
+      "id": "1761813174072-22-54-67676873",
+      "targetLexeme": "summoned before (the court)",
+      "sourceContext": "...she was summoned before the guild court and told to pay a fine...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bà ta 'bị triệu tập' (was summoned) 'ra trước' (before) 'tòa án' (the court) 'của phường hội' (the guild)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsʌmənd bɪˈfɔː/",
+        "sentiment": "negative",
+        "definitionEN": "To be officially ordered to appear in front of a court or authoritative body",
+        "translationVI": "Bị triệu tập ra trước (tòa)",
+        "relatedCollocates": [
+          "summon (v)",
+          "appear (before the court)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "summons",
+              "meaning": "giấy triệu tập"
+            }
+          ],
+          "verb": [
+            {
+              "form": "summon",
+              "meaning": "triệu tập"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The witness was summoned before the court to give testimony."
+      }
+    },
+    {
+      "id": "1761813174072-22-55-31c43cfa",
+      "targetLexeme": "pay a fine equivalent to",
+      "sourceContext": "...told to pay a fine equivalent to one third of a servant's annual wage.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Nộp' (pay) 'một khoản tiền phạt' (a fine) 'tương đương với' (equivalent to) 'một phần ba' (one third) 'lương' (wage) 'hàng năm' (annual) 'của người hầu' (of a servant's)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/peɪ ə faɪn ɪˈkwɪvələnt tuː/",
+        "sentiment": "negative",
+        "definitionEN": "To pay a financial penalty that is equal in value to another amount",
+        "translationVI": "Nộp phạt một khoản tương đương với",
+        "relatedCollocates": [
+          "pay (a fine)",
+          "equivalent (to)",
+          "a heavy (fine)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "fine",
+              "meaning": "tiền phạt"
+            },
+            {
+              "form": "equivalent",
+              "meaning": "vật tương đương"
+            }
+          ],
+          "verb": [
+            {
+              "form": "pay",
+              "meaning": "trả"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He had to pay a fine equivalent to three months' rent for breaking the contract."
+      }
+    },
+    {
+      "id": "1761813174072-22-56-65462456",
+      "targetLexeme": "a servant's annual wage",
+      "sourceContext": "...one third of a servant's annual wage.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Lương' (wage) 'hàng năm' (annual) 'của một người hầu' (of a servant's)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈsɜːvənts ˈænjuəl weɪdʒ/",
+        "sentiment": "neutral",
+        "definitionEN": "The total amount of money paid to a domestic worker over one year",
+        "translationVI": "Lương/tiền công hàng năm của người hầu",
+        "relatedCollocates": [
+          "annual (salary)",
+          "wage (n)",
+          "servant (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "servant",
+              "meaning": "người hầu"
+            },
+            {
+              "form": "wage",
+              "meaning": "tiền công"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "annual",
+              "meaning": "hàng năm"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In those days, a servant's annual wage was barely enough to survive on."
+      }
+    },
+    {
+      "id": "1761813174072-22-57-35262fe9",
+      "targetLexeme": "a small act of defiance",
+      "sourceContext": "It was a small act of defiance by today's standards...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đó là 'một hành động' (an act) 'thách thức/bất tuân' (of defiance) 'nhỏ bé' (small) 'so với' (by) 'tiêu chuẩn' (standards) 'ngày nay' (today's)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə smɔːl ækt əv dɪˈfaɪəns/",
+        "sentiment": "neutral",
+        "definitionEN": "A minor action that shows open resistance or bold disobedience",
+        "translationVI": "Một hành động thách thức/bất tuân nhỏ",
+        "relatedCollocates": [
+          "an act of (defiance)",
+          "defy (v)",
+          "rebellion (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "act",
+              "meaning": "hành động"
+            },
+            {
+              "form": "defiance",
+              "meaning": "sự thách thức"
+            }
+          ],
+          "verb": [
+            {
+              "form": "defy",
+              "meaning": "thách thức"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Wearing jeans to the formal event was a small act of defiance."
+      }
+    },
+    {
+      "id": "1761813174072-22-58-38f6a821",
+      "targetLexeme": "regulated people's access to",
+      "sourceContext": "...it reflects a time when laws in Germany and elsewhere regulated people's access to labour markets.",
+      "phase1Inference": {
+        "contextualGuessVI": "Phản ánh thời kỳ mà luật pháp 'quy định/kiểm soát' (regulated) 'sự tiếp cận' (people's access to) 'của người dân' (people's) 'với' (to) 'thị trường lao động' (labour markets)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈreɡjuleɪtɪd ˈpiːplz ˈækses tuː/",
+        "sentiment": "negative",
+        "definitionEN": "To control or manage who was allowed to participate in the job market, often through laws",
+        "translationVI": "Quy định/kiểm soát sự tiếp cận của người dân với",
+        "relatedCollocates": [
+          "regulate (v)",
+          "access (to)",
+          "restrict (access)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "regulation",
+              "meaning": "quy định"
+            },
+            {
+              "form": "access",
+              "meaning": "sự tiếp cận"
+            }
+          ],
+          "verb": [
+            {
+              "form": "regulate",
+              "meaning": "quy định"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new law strictly regulated people's access to firearms."
+      }
+    },
+    {
+      "id": "1761813174072-22-59-69c4841c",
+      "targetLexeme": "labour markets",
+      "sourceContext": "...access to labour markets.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thị trường' (markets) 'lao động' (labour)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈleɪbə ˈmɑːkɪts/",
+        "sentiment": "neutral",
+        "definitionEN": "The system in which employers compete to hire workers and workers compete for jobs",
+        "translationVI": "Thị trường lao động",
+        "relatedCollocates": [
+          "job market (synonym)",
+          "access (to)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "labour",
+              "meaning": "lao động"
+            },
+            {
+              "form": "market",
+              "meaning": "thị trường"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Graduates entering the labour market today face many challenges."
+      }
+    },
+    {
+      "id": "1761813174072-22-60-2a8ececc",
+      "targetLexeme": "dominance of (guilds)",
+      "sourceContext": "The dominance of guilds not only prevented people from using their skills...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Sự thống trị' (The dominance) 'của' (of) 'các phường hội' (guilds)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdɒmɪnəns əv/",
+        "sentiment": "negative",
+        "definitionEN": "The power, influence, and control that guilds had over others",
+        "translationVI": "Sự thống trị/thế áp đảo của (các phường hội)",
+        "relatedCollocates": [
+          "economic (dominance)",
+          "dominate (v)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "dominance",
+              "meaning": "sự thống trị"
+            }
+          ],
+          "verb": [
+            {
+              "form": "dominate",
+              "meaning": "thống trị"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company's dominance of the market is being challenged by new startups."
+      }
+    },
+    {
+      "id": "1761813174072-22-61-25244790",
+      "targetLexeme": "industrial innovation",
+      "sourceContext": "...but also held back even the simplest industrial innovation.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cũng 'kìm hãm' (held back) 'ngay cả' (even) 'sự đổi mới' (innovation) 'công nghiệp' (industrial) 'đơn giản nhất' (the simplest)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈdʌstriəl ˌɪnəˈveɪʃən/",
+        "sentiment": "positive",
+        "definitionEN": "The creation of new methods, ideas, or products related to industry",
+        "translationVI": "Đổi mới/cải tiến công nghiệp",
+        "relatedCollocates": [
+          "technological (innovation)",
+          "innovate (v)",
+          "stifle (innovation)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "innovation",
+              "meaning": "sự đổi mới"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "industrial",
+              "meaning": "công nghiệp"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The steam engine was a major industrial innovation of its time."
+      }
+    },
+    {
+      "id": "1761813174072-22-62-6571d672",
+      "targetLexeme": "data-gathering phase",
+      "sourceContext": "The data-gathering phase of the project has been completed...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Giai đoạn' (phase) 'thu thập' (gathering) 'dữ liệu' (data)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdeɪtə ˈɡæðərɪŋ feɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "The period of time when information is being collected",
+        "translationVI": "Giai đoạn thu thập dữ liệu",
+        "relatedCollocates": [
+          "data (collection) (synonym)",
+          "gathering (data)",
+          "phase (of a project)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "data",
+              "meaning": "dữ liệu"
+            },
+            {
+              "form": "phase",
+              "meaning": "giai đoạn"
+            }
+          ],
+          "verb": [
+            {
+              "form": "gather",
+              "meaning": "thu thập"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The data-gathering phase involved surveys and interviews with over 1,000 people."
+      }
+    },
+    {
+      "id": "1761813174072-22-63-5341efff",
+      "targetLexeme": "hold wealth constant",
+      "sourceContext": "One way to look at whether education causes economic growth is to ‘hold wealth constant’.",
+      "phase1Inference": {
+        "contextualGuessVI": "Là 'giữ' (hold) 'sự giàu có/tài sản' (wealth) 'không đổi' (constant)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/həʊld welθ ˈkɒnstənt/",
+        "sentiment": "neutral",
+        "definitionEN": "A scientific method of keeping the level of wealth the same (unchanged) while analyzing the effect of another variable (like education)",
+        "translationVI": "Giữ (cho) sự giàu có/tài sản không đổi",
+        "relatedCollocates": [
+          "hold (sth) constant",
+          "constant (adj)",
+          "variable (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "wealth",
+              "meaning": "sự giàu có"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "constant",
+              "meaning": "không đổi"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "FEYNMAN_EXPLANATION",
+        "content": "It means to only look at people who have the same amount of money. This way, you can see if education makes a difference, without wealth confusing the results."
+      }
+    },
+    {
+      "id": "1761813174072-22-64-3f6baab7",
+      "targetLexeme": "cultivation of (new crops)",
+      "sourceContext": "...linked to the cultivation of new crops, or to the adoption of...",
+      "phase1Inference": {
+        "contextualGuessVI": "Liên quan đến 'việc trồng trọt' (the cultivation of) 'các loại cây trồng mới' (new crops)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌkʌltɪˈveɪʃən əv/",
+        "sentiment": "neutral",
+        "definitionEN": "The process of preparing land and growing new types of plants for food",
+        "translationVI": "Việc trồng trọt/canh tác (các loại cây trồng mới)",
+        "relatedCollocates": [
+          "cultivate (v)",
+          "crop (n)",
+          "farming (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "cultivation",
+              "meaning": "sự trồng trọt"
+            },
+            {
+              "form": "crop",
+              "meaning": "cây trồng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "cultivate",
+              "meaning": "trồng trọt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The cultivation of potatoes was introduced to Europe in the 16th century."
+      }
+    },
+    {
+      "id": "1761813174072-22-65-5a71cff7",
+      "targetLexeme": "adoption of (innovations)",
+      "sourceContext": "...or to the adoption of industrial innovations like sewing machines.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hoặc 'sự tiếp nhận/áp dụng' (the adoption of) 'các đổi mới' (innovations) 'công nghiệp' (industrial)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈdɒpʃən əv/",
+        "sentiment": "neutral",
+        "definitionEN": "The act of starting to use a new method, idea, or product",
+        "translationVI": "Sự tiếp nhận/áp dụng (các đổi mới)",
+        "relatedCollocates": [
+          "adopt (v)",
+          "innovation (n)",
+          "adopt (a method)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "adoption",
+              "meaning": "sự tiếp nhận"
+            },
+            {
+              "form": "innovation",
+              "meaning": "sự đổi mới"
+            }
+          ],
+          "verb": [
+            {
+              "form": "adopt",
+              "meaning": "tiếp nhận"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The rapid adoption of smartphones has changed how we communicate."
+      }
+    },
+    {
+      "id": "1761813174072-22-66-7a786a84",
+      "targetLexeme": "engage more with",
+      "sourceContext": "...education helped people engage more with productive and innovative activities.",
+      "phase1Inference": {
+        "contextualGuessVI": "Giáo dục đã giúp người ta 'tham gia/tương tác' (engage) 'nhiều hơn' (more) 'với' (with) 'các hoạt động' (activities) 'năng suất' (productive) 'và' (and) 'đổi mới' (innovative)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈɡeɪdʒ mɔː wɪð/",
+        "sentiment": "positive",
+        "definitionEN": "To become more involved or participate more in something",
+        "translationVI": "Tham gia/tương tác nhiều hơn với",
+        "relatedCollocates": [
+          "engage (in an activity)",
+          "get involved (with)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "engage",
+              "meaning": "tham gia"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The teacher tried to get students to engage more with the lesson."
+      }
+    },
+    {
+      "id": "1761813174072-22-67-7e13cabe",
+      "targetLexeme": "productive and innovative activities",
+      "sourceContext": "...engage more with productive and innovative activities.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'hoạt động' (activities) 'năng suất' (productive) 'và' (and) 'đổi mới' (innovative)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/prəˈdʌktɪv ənd ˈɪnəvətɪv ækˈtɪvətiz/",
+        "sentiment": "positive",
+        "definitionEN": "Actions or tasks that create valuable goods/services (productive) and introduce new ideas (innovative)",
+        "translationVI": "Các hoạt động năng suất và đổi mới",
+        "relatedCollocates": [
+          "productive (adj)",
+          "innovative (adj)",
+          "activity (n)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "productive",
+              "meaning": "năng suất"
+            },
+            {
+              "form": "innovative",
+              "meaning": "đổi mới"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company encourages productive and innovative activities among its staff."
+      }
+    },
+    {
+      "id": "1761813174072-22-68-019ebce4",
+      "targetLexeme": "book ownership",
+      "sourceContext": "Was it, for instance, literacy, numeracy, book ownership, years of schooling?",
+      "phase1Inference": {
+        "contextualGuessVI": "Có phải là 'việc sở hữu sách' (book ownership) 'không' (Was it)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/bʊk ˈəʊnəʃɪp/",
+        "sentiment": "neutral",
+        "definitionEN": "The state of having or owning books",
+        "translationVI": "Việc/Sự sở hữu sách",
+        "relatedCollocates": [
+          "own (books)",
+          "ownership (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "book",
+              "meaning": "sách"
+            },
+            {
+              "form": "ownership",
+              "meaning": "sự sở hữu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In the 18th century, book ownership was a sign of wealth and education."
+      }
+    },
+    {
+      "id": "1761813174072-22-69-31a39008",
+      "targetLexeme": "years of schooling",
+      "sourceContext": "...literacy, numeracy, book ownership, years of schooling?",
+      "phase1Inference": {
+        "contextualGuessVI": "'Số năm' (years) 'đi học' (of schooling)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/jɪəz əv ˈskuːlɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "The number of years a person has spent attending school; level of education",
+        "translationVI": "Số năm đi học",
+        "relatedCollocates": [
+          "level of (education)",
+          "schooling (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "year",
+              "meaning": "năm"
+            },
+            {
+              "form": "schooling",
+              "meaning": "việc đi học"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The study found a correlation between an individual's years of schooling and their income."
+      }
+    },
+    {
+      "id": "1761813174072-22-70-6bf7a26a",
+      "targetLexeme": "a threshold level",
+      "sourceContext": "Was there a threshold level – a tipping point – that needed to be reached...?",
+      "phase1Inference": {
+        "contextualGuessVI": "Có 'một mức' (a level) 'ngưỡng' (threshold) 'hay không' (Was there) – 'một điểm bùng phát' (a tipping point)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈθreʃhəʊld ˈlevl/",
+        "sentiment": "neutral",
+        "definitionEN": "The minimum level or point at which something starts to happen or take effect",
+        "translationVI": "Một mức/cấp độ ngưỡng",
+        "relatedCollocates": [
+          "tipping point (synonym)",
+          "reach (a threshold)",
+          "a low (threshold)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "threshold",
+              "meaning": "ngưỡng"
+            },
+            {
+              "form": "level",
+              "meaning": "cấp độ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Is there a threshold level of income needed to achieve happiness?"
+      }
+    },
+    {
+      "id": "1761813174072-22-71-6b4a06eb",
+      "targetLexeme": "a tipping point",
+      "sourceContext": "...a threshold level – a tipping point – that needed to be reached...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'điểm bùng phát' (a tipping point)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈtɪpɪŋ pɔɪnt/",
+        "sentiment": "neutral",
+        "definitionEN": "The point at which a series of small changes becomes significant enough to cause a larger, more important change",
+        "translationVI": "Điểm bùng phát, bước ngoặt",
+        "relatedCollocates": [
+          "threshold level (synonym)",
+          "reach (a tipping point)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "tipping point",
+              "meaning": "điểm bùng phát"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The increasing pollution reached a tipping point, leading to ecological collapse."
+      }
+    },
+    {
+      "id": "1761813174072-22-72-3cf91066",
+      "targetLexeme": "affect economic performance",
+      "sourceContext": "...that needed to be reached to affect economic performance?",
+      "phase1Inference": {
+        "contextualGuessVI": "Cần 'đạt được' (to be reached) 'để' (to) 'ảnh hưởng đến' (affect) 'thành quả/hiệu suất' (performance) 'kinh tế' (economic)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈfekt ˌiːkəˈnɒmɪk pəˈfɔːməns/",
+        "sentiment": "neutral",
+        "definitionEN": "To have an influence on or cause a change in how well an economy is doing",
+        "translationVI": "Ảnh hưởng đến/tác động đến thành quả/hiệu suất kinh tế",
+        "relatedCollocates": [
+          "impact (economic performance)",
+          "economic (performance)",
+          "affect (v)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "performance",
+              "meaning": "hiệu suất"
+            }
+          ],
+          "verb": [
+            {
+              "form": "affect",
+              "meaning": "ảnh hưởng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new trade policies will significantly affect economic performance."
+      }
+    },
+    {
+      "id": "1761813174072-22-73-73f9d149",
+      "targetLexeme": "far from straightforward",
+      "sourceContext": "...the relationship between education and economic growth is far from straightforward.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mối quan hệ này 'không hề' (far from) 'đơn giản/rõ ràng' (straightforward)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fɑː frəm ˌstreɪtˈfɔːwəd/",
+        "sentiment": "neutral",
+        "definitionEN": "Not simple, easy, or clear; very complicated",
+        "translationVI": "Không hề đơn giản/rõ ràng (rất phức tạp)",
+        "relatedCollocates": [
+          "not (straightforward)",
+          "complicated (synonym)",
+          "complex (synonym)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "straightforward",
+              "meaning": "đơn giản, rõ ràng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The solution to the problem is far from straightforward."
+      }
+    },
+    {
+      "id": "1761813174072-22-74-42bbc23e",
+      "targetLexeme": "an excellent laboratory for",
+      "sourceContext": "‘German-speaking central Europe is an excellent laboratory for testing theories of...",
+      "phase1Inference": {
+        "contextualGuessVI": "Là 'một phòng thí nghiệm' (a laboratory) 'tuyệt vời' (excellent) 'để' (for) 'kiểm chứng' (testing) 'các lý thuyết' (theories) 'về' (of).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ən ˈeksələnt ləˈbɒrətri fɔː/",
+        "sentiment": "positive",
+        "definitionEN": "A perfect place, region, or situation for conducting tests or research on theories",
+        "translationVI": "Một phòng thí nghiệm (môi trường) tuyệt vời để",
+        "relatedCollocates": [
+          "a perfect (place for)",
+          "testing (theories)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "laboratory",
+              "meaning": "phòng thí nghiệm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The isolated island provides an excellent laboratory for studying evolution."
+      }
+    },
+    {
+      "id": "1761813174072-22-75-5d9f56a8",
+      "targetLexeme": "testing theories of (economic growth)",
+      "sourceContext": "...an excellent laboratory for testing theories of economic growth,’ she explains.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Kiểm chứng' (testing) 'các lý thuyết' (theories) 'về' (of) 'tăng trưởng kinh tế' (economic growth)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtestɪŋ ˈθɪəriz əv/",
+        "sentiment": "neutral",
+        "definitionEN": "To examine or experiment on ideas about how economies grow to see if they are true",
+        "translationVI": "Kiểm chứng các lý thuyết về (tăng trưởng kinh tế)",
+        "relatedCollocates": [
+          "test (a theory)",
+          "economic (theory)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "test",
+              "meaning": "bài kiểm tra"
+            },
+            {
+              "form": "theory",
+              "meaning": "lý thuyết"
+            }
+          ],
+          "verb": [
+            {
+              "form": "test",
+              "meaning": "kiểm chứng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The experiment was designed for testing theories of gravity."
+      }
+    },
+    {
+      "id": "1761813174072-22-76-179dd5ad",
+      "targetLexeme": "the region remained poor",
+      "sourceContext": "...literacy rates and book ownership were high and yet the region remained poor.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tỷ lệ biết chữ... cao 'ấy vậy mà' (and yet) 'khu vực' (the region) 'vẫn' (remained) 'nghèo' (poor)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈriːdʒən rɪˈmeɪnd pɔː/",
+        "sentiment": "negative",
+        "definitionEN": "The area continued to be economically unsuccessful or lacking in wealth",
+        "translationVI": "Khu vực (đó) vẫn nghèo",
+        "relatedCollocates": [
+          "remain (poor)",
+          "economic (growth) (related)",
+          "wealth (related)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "region",
+              "meaning": "khu vực"
+            }
+          ],
+          "verb": [
+            {
+              "form": "remain",
+              "meaning": "vẫn"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "poor",
+              "meaning": "nghèo"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite finding gold, the region remained poor due to corruption."
+      }
+    },
+    {
+      "id": "1761813174072-22-77-3cb7b8f1",
+      "targetLexeme": "merchant associations",
+      "sourceContext": "...local guilds and merchant associations were extremely powerful...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Các hiệp hội' (associations) 'thương gia/lái buôn' (merchant)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmɜːtʃənt əˌsəʊsiˈeɪʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Organized groups or bodies of traders and businessmen",
+        "translationVI": "Các hiệp hội/phường hội thương gia",
+        "relatedCollocates": [
+          "guilds (related)",
+          "merchant (n)",
+          "association (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "merchant",
+              "meaning": "thương gia"
+            },
+            {
+              "form": "association",
+              "meaning": "hiệp hội"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Local guilds and merchant associations controlled trade in the medieval city."
+      }
+    },
+    {
+      "id": "1761813174072-22-78-27009859",
+      "targetLexeme": "legislated against (anything)",
+      "sourceContext": "...and legislated against anything that undermined their monopolies.",
+      "phase1Inference": {
+        "contextualGuessVI": "Và 'ban hành luật' (legislated) 'chống lại' (against) 'bất cứ điều gì' (anything) 'làm suy yếu/phá hoại' (that undermined) 'sự độc quyền' (their monopolies) 'của họ' (their)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈledʒɪsleɪtɪd əˈɡenst/",
+        "sentiment": "negative",
+        "definitionEN": "To make or pass laws that oppose or forbid something",
+        "translationVI": "Lập pháp/ban hành luật chống lại (bất cứ điều gì)",
+        "relatedCollocates": [
+          "legislate (v)",
+          "legislate (for) (related)",
+          "pass (a law) against"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "legislation",
+              "meaning": "luật pháp"
+            }
+          ],
+          "verb": [
+            {
+              "form": "legislate",
+              "meaning": "lập pháp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government legislated against discriminatory hiring practices."
+      }
+    },
+    {
+      "id": "1761813174072-22-79-690edf8c",
+      "targetLexeme": "undermined their monopolies",
+      "sourceContext": "...anything that undermined their monopolies.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thứ 'làm suy yếu/phá hoại' (undermined) 'sự độc quyền' (their monopolies) 'của họ' (their)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌʌndəˈmaɪnd ðeə məˈnɒpəliz/",
+        "sentiment": "negative",
+        "definitionEN": "To weaken or damage the exclusive control that they had over a trade or industry",
+        "translationVI": "Làm suy yếu/phá hoại sự độc quyền của họ",
+        "relatedCollocates": [
+          "undermine (v)",
+          "monopoly (n)",
+          "weaken (synonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "monopoly",
+              "meaning": "sự độc quyền"
+            }
+          ],
+          "verb": [
+            {
+              "form": "undermine",
+              "meaning": "làm suy yếu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The rise of streaming services has undermined the monopolies of traditional cable companies."
+      }
+    },
+    {
+      "id": "1761813174072-22-80-24bdb837",
+      "targetLexeme": "blocked labour migration",
+      "sourceContext": "In villages throughout the region, guilds blocked labour migration...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các phường hội 'đã ngăn chặn' (blocked) 'sự di cư' (migration) 'lao động' (labour)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/blɒkt ˈleɪbə maɪˈɡreɪʃən/",
+        "sentiment": "negative",
+        "definitionEN": "To prevent workers from moving from one area to another to find work",
+        "translationVI": "Ngăn chặn sự di cư/di dân lao động",
+        "relatedCollocates": [
+          "block (v)",
+          "labour (migration)",
+          "prevent (migration)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "labour",
+              "meaning": "lao động"
+            },
+            {
+              "form": "migration",
+              "meaning": "sự di cư"
+            }
+          ],
+          "verb": [
+            {
+              "form": "block",
+              "meaning": "ngăn chặn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Strict visa policies blocked labour migration, leading to a worker shortage."
+      }
+    },
+    {
+      "id": "1761813174072-22-81-678ae82e",
+      "targetLexeme": "resisted changes",
+      "sourceContext": "...and resisted changes that might reduce their influence.",
+      "phase1Inference": {
+        "contextualGuessVI": "Và 'chống lại' (resisted) 'những thay đổi' (changes) 'có thể' (that might) 'làm giảm' (reduce) 'ảnh hưởng' (their influence) 'của họ' (their)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈzɪstɪd ˈtʃeɪndʒɪz/",
+        "sentiment": "negative",
+        "definitionEN": "To fight against or oppose new methods or ideas",
+        "translationVI": "Chống lại/kháng cự lại những thay đổi",
+        "relatedCollocates": [
+          "resist (v)",
+          "resistance (n)",
+          "oppose (changes)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "resistance",
+              "meaning": "sự kháng cự"
+            },
+            {
+              "form": "change",
+              "meaning": "sự thay đổi"
+            }
+          ],
+          "verb": [
+            {
+              "form": "resist",
+              "meaning": "kháng cự"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many older employees resisted changes to the company's workflow."
+      }
+    },
+    {
+      "id": "1761813174072-22-82-0cd2c609",
+      "targetLexeme": "Early findings suggest that",
+      "sourceContext": "‘Early findings suggest that the potential benefits of education for the economy...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Những phát hiện' (findings) 'ban đầu' (Early) 'cho thấy' (suggest) 'rằng' (that).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɜːli ˈfaɪndɪŋz səˈdʒest ðæt/",
+        "sentiment": "neutral",
+        "definitionEN": "Initial results or conclusions from a study indicate that..",
+        "translationVI": "Những phát hiện/kết quả ban đầu cho thấy rằng",
+        "relatedCollocates": [
+          "early (results)",
+          "preliminary (findings)",
+          "findings (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "finding",
+              "meaning": "phát hiện"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "early",
+              "meaning": "sớm, ban đầu"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Early findings suggest that the new vaccine is highly effective."
+      }
+    },
+    {
+      "id": "1761813174072-22-83-1efbb519",
+      "targetLexeme": "potential benefits of",
+      "sourceContext": "...the potential benefits of education for the economy can be held back by...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Những lợi ích' (benefits) 'tiềm năng' (potential) 'của' (of) 'giáo dục' (education) 'cho' (for) 'nền kinh tế' (the economy) 'có thể bị' (can be) 'kìm hãm' (held back) 'bởi' (by).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/pəˈtenʃəl ˈbenɪfɪts əv/",
+        "sentiment": "positive",
+        "definitionEN": "The possible advantages or positive effects of something",
+        "translationVI": "Các lợi ích tiềm năng của",
+        "relatedCollocates": [
+          "potential (advantages)",
+          "benefits (of)",
+          "held back by (obstacles)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "benefit",
+              "meaning": "lợi ích"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "potential",
+              "meaning": "tiềm năng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The potential benefits of renewable energy are enormous."
+      }
+    },
+    {
+      "id": "1761813174072-22-84-70d7a2af",
+      "targetLexeme": "has implications for",
+      "sourceContext": "...and this has implications for today,’ says Ogilvie.",
+      "phase1Inference": {
+        "contextualGuessVI": "Và điều này 'có' (has) 'những hàm ý/hệ quả' (implications) 'cho' (for) 'ngày nay' (today)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/həz ˌɪmplɪˈkeɪʃənz fɔː/",
+        "sentiment": "neutral",
+        "definitionEN": "To have likely consequences or effects on something in the present",
+        "translationVI": "Có/mang những hàm ý/hệ quả đối với",
+        "relatedCollocates": [
+          "implications (for)",
+          "have (consequences)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "implication",
+              "meaning": "hàm ý, hệ quả"
+            }
+          ],
+          "verb": [
+            {
+              "form": "imply",
+              "meaning": "ngụ ý"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new research has implications for how we treat the disease."
+      }
+    },
+    {
+      "id": "1761813174072-22-85-5b39345e",
+      "targetLexeme": "developing countries",
+      "sourceContext": "...improving education in developing countries, but this spending can fail to...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cải thiện giáo dục ở 'các nước' (countries) 'đang phát triển' (developing)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈveləpɪŋ ˈkʌntriz/",
+        "sentiment": "neutral",
+        "definitionEN": "Poorer countries that are seeking to become more advanced economically and socially",
+        "translationVI": "Các nước đang phát triển",
+        "relatedCollocates": [
+          "developed countries (antonym)",
+          "LDCs (Least Developed Countries)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "country",
+              "meaning": "quốc gia"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "developing",
+              "meaning": "đang phát triển"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many developing countries rely on agriculture as their main industry."
+      }
+    },
+    {
+      "id": "1761813174072-22-86-0fa1a103",
+      "targetLexeme": "fail to deliver (economic growth)",
+      "sourceContext": "...but this spending can fail to deliver economic growth if restrictions block people...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chi tiêu này có thể 'thất bại trong việc mang lại' (fail to deliver) 'tăng trưởng kinh tế' (economic growth) 'nếu' (if) 'các hạn chế' (restrictions) 'ngăn chặn' (block) 'người dân' (people).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/feɪl tə dɪˈlɪvə/",
+        "sentiment": "negative",
+        "definitionEN": "To not succeed in providing or achieving the promised or expected result",
+        "translationVI": "Thất bại trong việc mang lại (tăng trưởng kinh tế)",
+        "relatedCollocates": [
+          "fail to (achieve)",
+          "fail to (provide)",
+          "deliver (results)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "fail",
+              "meaning": "thất bại"
+            },
+            {
+              "form": "deliver",
+              "meaning": "mang lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government's reforms fail to deliver the promised improvements in healthcare."
+      }
+    },
+    {
+      "id": "1761813174072-22-87-544c0f23",
+      "targetLexeme": "economically productive ways",
+      "sourceContext": "...block people... from using their education in economically productive ways.",
+      "phase1Inference": {
+        "contextualGuessVI": "Ngăn cản mọi người sử dụng giáo dục của họ 'theo những cách' (in... ways) 'mang lại năng suất/hiệu quả' (productive) 'về mặt kinh tế' (economically)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈnɒmɪkəli prəˈdʌktɪv weɪz/",
+        "sentiment": "positive",
+        "definitionEN": "Methods or activities that contribute positively to the economy and create wealth",
+        "translationVI": "Những cách thức/phương thức (làm việc) hiệu quả về mặt kinh tế",
+        "relatedCollocates": [
+          "economically (productive)",
+          "productive (activities)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "productive",
+              "meaning": "năng suất"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "economically",
+              "meaning": "về mặt kinh tế"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new technology allowed farmers to use their land in more economically productive ways."
+      }
+    },
+    {
+      "id": "1761813174072-22-88-5d21f266",
+      "targetLexeme": "economic institutions",
+      "sourceContext": "‘If economic institutions are poorly set up, for instance, education can’t lead to growth.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Nếu 'các thể chế/tổ chức' (institutions) 'kinh tế' (economic) 'được thiết lập' (are set up) 'một cách tồi tệ/yếu kém' (poorly).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈnɒmɪk ˌɪnstɪˈtjuːʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "The rules, laws, and organizations (like banks, guilds, property rights) that govern economic activity",
+        "translationVI": "Các thể chế/thiết chế kinh tế",
+        "relatedCollocates": [
+          "financial (institutions)",
+          "political (institutions)",
+          "set up (poorly)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "institution",
+              "meaning": "thể chế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Strong economic institutions, like property rights and contract enforcement, are vital for growth."
+      }
+    },
+    {
+      "id": "1761813174072-22-89-180c8687",
+      "targetLexeme": "poorly set up",
+      "sourceContext": "‘If economic institutions are poorly set up...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'thiết lập' (set up) 'một cách yếu kém/tồi tệ' (poorly)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpɔːli set ʌp/",
+        "sentiment": "negative",
+        "definitionEN": "To be organized or established in an ineffective or bad way",
+        "translationVI": "Được thiết lập một cách yếu kém/tồi",
+        "relatedCollocates": [
+          "badly (organized)",
+          "ineffective (adj)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "set up",
+              "meaning": "thiết lập"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "poorly",
+              "meaning": "một cách yếu kém"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The project failed because the original plan was poorly set up."
+      }
+    },
+    {
+      "id": "1761813174072-22-90-57085800",
+      "targetLexeme": "lead to growth",
+      "sourceContext": "...education can’t lead to growth.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Giáo dục 'không thể' (can’t) 'dẫn đến' (lead to) 'sự tăng trưởng' (growth)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/liːd tə ɡrəʊθ/",
+        "sentiment": "positive",
+        "definitionEN": "To cause or result in an increase (e.g., in the economy)",
+        "translationVI": "Dẫn đến/tạo ra sự tăng trưởng",
+        "relatedCollocates": [
+          "result in (growth)",
+          "cause (growth)",
+          "fuel (growth)"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "growth",
+              "meaning": "sự tăng trưởng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "lead (to)",
+              "meaning": "dẫn đến"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Investment in technology is expected to lead to significant economic growth."
+      }
+    },
+    {
+      "id": "1761813174072-22-91-7373eefb",
+      "targetLexeme": "focus on individuals",
+      "sourceContext": "Q14 (Matching): an explanation of the need for research to focus on individuals with a fairly consistent income",
+      "phase1Inference": {
+        "contextualGuessVI": "'Tập trung' (focus on) 'vào' (on) 'các cá nhân' (individuals)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfəʊkəs ɒn ˌɪndɪˈvɪdʒuəlz/",
+        "sentiment": "neutral",
+        "definitionEN": "Focus: Compares 'focus on individuals' with 'follow the same people' and 'following... different people'",
+        "translationVI": "Trọng tâm: So sánh 'tập trung vào các cá nhân' với 'theo dõi cùng một người' và 'theo dõi... những người khác nhau'",
+        "relatedCollocates": [
+          "follow the same people (paraphrase)",
+          "following... different people (paraphrase)",
+          "individual lives (related)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'focus on individuals' \n<->\nPassage: 'follow the same people' / 'following... different people'"
+      }
+    },
+    {
+      "id": "1761813174072-22-92-72e4b0e1",
+      "targetLexeme": "fairly consistent income",
+      "sourceContext": "Q14 (Matching): ...individuals with a fairly consistent income",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thu nhập' (income) 'khá' (fairly) 'ổn định/nhất quán' (consistent)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfeəli kənˈsɪstənt ˈɪnkʌm/",
+        "sentiment": "neutral",
+        "definitionEN": "Focus: Compares 'fairly consistent income' with 'hold wealth constant' and 'same level of wealth'",
+        "translationVI": "Trọng tâm: So sánh 'thu nhập khá ổn định' với 'giữ tài sản không đổi' và 'cùng mức tài sản'",
+        "relatedCollocates": [
+          "hold wealth constant (paraphrase)",
+          "with the same level of wealth (paraphrase)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'fairly consistent income' \n<->\nPassage: 'to ‘hold wealth constant’' / 'people with the same level of wealth'"
+      }
+    },
+    {
+      "id": "1761813174072-22-93-2a27485f",
+      "targetLexeme": "sources... compiled from",
+      "sourceContext": "Q15 (Matching): examples of the sources the database has been compiled from",
+      "phase1Inference": {
+        "contextualGuessVI": "'Các nguồn' (sources) 'mà' (that) 'cơ sở dữ liệu' (the database) 'được' (has been) 'biên soạn/tổng hợp từ' (compiled from)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsɔːsɪz kəmˈpaɪld frɒm/",
+        "sentiment": "neutral",
+        "definitionEN": "Focus: Compares 'sources' with 'court records, guild ledgers, parish registers, village censuses, tax lists'",
+        "translationVI": "Trọng tâm: So sánh 'các nguồn' với 'hồ sơ tòa án, sổ sách phường hội, sổ giáo xứ, điều tra dân số làng, danh sách thuế'",
+        "relatedCollocates": [
+          "court records (example)",
+          "guild ledgers (example)",
+          "parish registers (example)",
+          "village censuses (example)",
+          "tax lists (example)",
+          "handwritten inventories (example)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'examples of the sources' \n<->\nPassage: 'It includes court records, guild ledgers, parish registers, village censuses, tax lists...'"
+      }
+    },
+    {
+      "id": "1761813174072-22-94-56df7f5e",
+      "targetLexeme": "refusal to obey an order",
+      "sourceContext": "Q16 (Matching): an account of one individual's refusal to obey an order",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'câu chuyện/báo cáo' (an account) 'về' (of) 'sự từ chối' (refusal) 'tuân theo' (to obey) 'một mệnh lệnh' (an order) 'của một cá nhân' (one individual's)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈfjuːzəl tu əˈbeɪ ən ˈɔːdə/",
+        "sentiment": "negative",
+        "definitionEN": "Focus: Compares 'refusal to obey an order' with 'chastised', 'reprimanded', 'counter to the guild ordinance', and 'act of defiance'",
+        "translationVI": "Trọng tâm: So sánh 'từ chối tuân theo mệnh lệnh' với 'bị quở phạt', 'bị khiển trách', 'trái với quy định của phường hội', và 'hành động thách thức'",
+        "relatedCollocates": [
+          "chastised (related)",
+          "reprimanded (related)",
+          "counter to the guild ordinance (synonym)",
+          "a small act of defiance (synonym)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'refusal to obey an order' \n<->\nPassage: '...who were chastised... for reading books... instead of listening...' / '...who was reprimanded... for ‘weaving cloth... counter to the guild ordinance’.' / 'a small act of defiance'"
+      }
+    },
+    {
+      "id": "1761813174072-22-95-5ca9c298",
+      "targetLexeme": "a region particularly suited",
+      "sourceContext": "Q17 (Matching): a reference to a region being particularly suited to research into the link between education and economic growth",
+      "phase1Inference": {
+        "contextualGuessVI": "Đề cập đến 'một khu vực' (a region) 'đặc biệt' (particularly) 'phù hợp' (suited) 'cho' (to) 'nghiên cứu' (research)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈriːdʒən pəˈtɪkjələli ˈsuːtɪd/",
+        "sentiment": "positive",
+        "definitionEN": "Focus: Compares 'a region particularly suited' with 'an excellent laboratory for testing theories'",
+        "translationVI": "Trọng tâm: So sánh 'khu vực đặc biệt phù hợp' với 'một phòng thí nghiệm tuyệt vời để kiểm chứng lý thuyết'",
+        "relatedCollocates": [
+          "German-speaking central Europe (the region)",
+          "an excellent laboratory for (synonym)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'a region being particularly suited to research' \n<->\nPassage: 'German-speaking central Europe is an excellent laboratory for testing theories of economic growth'"
+      }
+    },
+    {
+      "id": "1761813174072-22-96-00b64a49",
+      "targetLexeme": "items included in a list",
+      "sourceContext": "Q18 (Matching): examples of the items included in a list of personal possessions",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'ví dụ' (examples) 'về' (of) 'các món đồ' (the items) 'được bao gồm' (included) 'trong' (in) 'một danh sách' (a list) 'tài sản cá nhân' (of personal possessions)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈaɪtəmz ɪnˈkluːdɪd ɪn ə lɪst/",
+        "sentiment": "neutral",
+        "definitionEN": "Focus: Compares 'items included in a list' with 'badger skins to Bibles, sewing machines to scarlet bodices'",
+        "translationVI": "Trọng tâm: So sánh 'các món đồ trong danh sách' với 'từ da lửng đến Kinh thánh, máy may đến áo nịt ngực đỏ'",
+        "relatedCollocates": [
+          "personal possessions (synonym for 'worldly goods')",
+          "belongings (synonym)",
+          "badger skins (example)",
+          "Bibles (example)",
+          "sewing machines (example)",
+          "scarlet bodices (example)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'examples of the items included in a list of personal possessions' \n<->\nPassage: 'From badger skins to Bibles, sewing machines to scarlet bodices – the villagers’ entire worldly goods are included.'"
+      }
+    },
+    {
+      "id": "1761813174072-22-97-6de5572d",
+      "targetLexeme": "sheds light on",
+      "sourceContext": "Q (Summary): The database... has sheds light on the lives of a range of individuals...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã 'làm sáng tỏ' (sheds light on) 'cuộc sống' (the lives) 'của' (of) 'nhiều' (a range of) 'cá nhân' (individuals)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ʃedz laɪt ɒn/",
+        "sentiment": "positive",
+        "definitionEN": "Focus: Compares 'sheds light on' with 'follow the same people' and 'unfolded before their eyes'",
+        "translationVI": "Trọng tâm: So sánh 'làm sáng tỏ' với 'theo dõi cùng một người' và 'mở ra trước mắt họ'",
+        "relatedCollocates": [
+          "follow the same people (paraphrase)",
+          "Individual lives have unfolded before their eyes (paraphrase)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'sheds light on the lives of a range of individuals' \n<->\nPassage: 'We can follow the same people... Individual lives have unfolded before their eyes.'"
+      }
+    },
+    {
+      "id": "1761813174072-22-98-24dae84c",
+      "targetLexeme": "over a 300-year period",
+      "sourceContext": "Q (Summary): ...individuals, as well as those of their 19 .......... , over a 300-year period.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong 'một khoảng thời gian' (a period) '300 năm' (300-year)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈəʊvər ə ˈθriː hʌndrəd jɪə ˈpɪəriəd/",
+        "sentiment": "neutral",
+        "definitionEN": "Focus: Compares 'a 300-year period' with 'across three centuries'",
+        "translationVI": "Trọng tâm: So sánh 'một khoảng thời gian 300 năm' với 'xuyên suốt ba thế kỷ'",
+        "relatedCollocates": [
+          "across three centuries (synonym)",
+          "from 1600 and 1900 (related)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'over a 300-year period' \n<->\nPassage: 'across three centuries' / 'between 1600 and 1900'"
+      }
+    },
+    {
+      "id": "1761813174072-22-99-34c800d9",
+      "targetLexeme": "those of their 19 ..........",
+      "sourceContext": "Q (Summary): ...lives of a range of individuals, as well as those of their 19 .......... , over a 300-year period.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cũng như 'cuộc sống của' (those of) 'những ...' (their 19) 'của họ' (their)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'those of their...' with 'people - and their...'",
+        "translationVI": "Trọng tâm: So sánh 'cuộc sống của...' với 'người dân - và ... của họ'",
+        "relatedCollocates": [
+          "the same people (passage info)",
+          "and their descendants (passage info)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: '...individuals, as well as those of their 19 ..........' \n<->\nPassage: 'We can follow the same people – and their descendants – across 300 years...'"
+      }
+    },
+    {
+      "id": "1761813174072-22-100-20df5814",
+      "targetLexeme": "paying attention to a 20 ..........",
+      "sourceContext": "Q (Summary): ...reprimanded for reading while they should have been paying attention to a 20 ..........",
+      "phase1Inference": {
+        "contextualGuessVI": "Đáng lẽ phải 'tập trung' (paying attention) 'vào' (to) 'một' (a) '[cái gì đó]' (20)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'paying attention to' with 'listening to'",
+        "translationVI": "Trọng tâm: So sánh 'chú ý/tập trung vào' với 'lắng nghe'",
+        "relatedCollocates": [
+          "listening to (synonym)",
+          "the sermon (passage info)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'paying attention to a 20 ..........' \n<->\nPassage: '...reading books in church instead of listening to the sermon.'"
+      }
+    },
+    {
+      "id": "1761813174072-22-101-3d46e6d5",
+      "targetLexeme": "breaking guild rules",
+      "sourceContext": "Q (Summary): ...who came to the notice of the weavers' guild in the year 1752 for breaking guild rules.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vì 'vi phạm' (breaking) 'các quy định' (rules) 'của phường hội' (guild)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbreɪkɪŋ ɡɪld ruːlz/",
+        "sentiment": "negative",
+        "definitionEN": "Focus: Compares 'breaking guild rules' with 'counter to the guild ordinance'",
+        "translationVI": "Trọng tâm: So sánh 'vi phạm quy định phường hội' với 'trái với quy định của phường hội'",
+        "relatedCollocates": [
+          "counter to the guild ordinance (synonym)",
+          "reprimanded (related)",
+          "act of defiance (related)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'breaking guild rules' \n<->\nPassage: '...reprimanded... for ‘weaving cloth and combing wool, counter to the guild ordinance’.'"
+      }
+    },
+    {
+      "id": "1761813174072-22-102-278661cf",
+      "targetLexeme": "given a 21 ..........",
+      "sourceContext": "Q (Summary): As a punishment, she was later given a 21 ..........",
+      "phase1Inference": {
+        "contextualGuessVI": "Như 'một hình phạt' (As a punishment), 'bà ta' (she) 'sau đó' (was later) 'bị' (given) 'một' (a) '[cái gì đó]' (21)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'given a...' with 'told to pay a...'",
+        "translationVI": "Trọng tâm: So sánh 'bị/nhận một...' với 'bị yêu cầu trả một...'",
+        "relatedCollocates": [
+          "told to pay a fine (paraphrase)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'As a punishment, she was... given a 21 ..........' \n<->\nPassage: '...she was summoned... and told to pay a fine...'"
+      }
+    },
+    {
+      "id": "1761813174072-22-103-0b7fe71a",
+      "targetLexeme": "guilds could prevent 22 ..........",
+      "sourceContext": "Q (Summary): Cases like this illustrate how the guilds could prevent 22 .......... and stop skilled people from working.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các phường hội 'có thể' (could) 'ngăn chặn' (prevent) '[cái gì đó]' (22) 'và' (and) 'cản' (stop) 'người có kỹ năng' (skilled people) 'làm việc' (from working)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'prevent...' and 'stop skilled people from working' with 'held back... innovation' and 'prevented people from using their skills'",
+        "translationVI": "Trọng tâm: So sánh 'ngăn chặn...' và 'cản người có kỹ năng làm việc' với 'kìm hãm... đổi mới' và 'ngăn cản mọi người sử dụng kỹ năng của họ'",
+        "relatedCollocates": [
+          "held back... industrial innovation (paraphrase for 'prevent 22')",
+          "prevented people from using their skills (paraphrase for 'stop skilled people from working')"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'prevent 22 .......... and stop skilled people from working' \n<->\nPassage: '...prevented people from using their skills, but also held back even the simplest industrial innovation.'"
+      }
+    },
+    {
+      "id": "1761813174072-22-104-7460e1c2",
+      "targetLexeme": "Very little research has been done",
+      "sourceContext": "Q23/24 (Multiple Choice): Very little research has been done into the link between high literacy rates and improved earnings.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Rất ít' (Very little) 'nghiên cứu' (research) 'đã được thực hiện' (has been done) 'về' (into) 'mối liên hệ' (the link) 'giữa' (between) 'tỷ lệ biết chữ cao' (high literacy rates) 'và' (and) 'thu nhập' (earnings) 'được cải thiện' (improved)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈveri ˈlɪtl rɪˈsɜːtʃ həz bɪn dʌn/",
+        "sentiment": "neutral",
+        "definitionEN": "Focus: Compares 'Very little research' with 'long puzzled economists' and 'lack of evidence'",
+        "translationVI": "Trọng tâm: So sánh 'Rất ít nghiên cứu' với 'đã làm bối rối các nhà kinh tế từ lâu' và 'thiếu bằng chứng'",
+        "relatedCollocates": [
+          "long puzzled economists (related)",
+          "lack of evidence for a causal link (related)",
+          "Modern cross-country analyses also struggled to find evidence (related)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'Very little research has been done' \n<->\nPassage: '...a conundrum that has long puzzled economists: the lack of evidence for a causal link...'"
+      }
+    },
+    {
+      "id": "1761813174072-22-105-7e318b94",
+      "targetLexeme": "were very good",
+      "sourceContext": "Q23/24 (Multiple Choice): Literacy rates in Germany between 1600 and 1900 were very good.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tỷ lệ biết chữ... 'rất' (very) 'tốt' (good)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɜː ˈveri ɡʊd/",
+        "sentiment": "positive",
+        "definitionEN": "Focus: Compares 'very good' with 'excellent'",
+        "translationVI": "Trọng tâm: So sánh 'rất tốt' với 'xuất sắc'",
+        "relatedCollocates": [
+          "excellent literacy rates (synonym)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'were very good' \n<->\nPassage: 'Germany and Scandinavia had excellent literacy rates...'"
+      }
+    },
+    {
+      "id": "1761813174072-22-106-71f6e962",
+      "targetLexeme": "modern world",
+      "sourceContext": "Q23/24 (Multiple Choice): There is strong evidence that high literacy rates in the modern world result in economic growth.",
+      "phase1Inference": {
+        "contextualGuessVI": "Có 'bằng chứng' (evidence) 'mạnh mẽ' (strong) 'rằng' (that) 'trong' (in) 'thế giới' (world) 'hiện đại' (modern).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmɒdn wɜːld/",
+        "sentiment": "neutral",
+        "definitionEN": "Focus: Compares 'modern world' and 'strong evidence' with 'Modern cross-country analyses' and 'struggled to find evidence'",
+        "translationVI": "Trọng tâm: So sánh 'thế giới hiện đại' và 'bằng chứng mạnh mẽ' với 'Các phân tích liên quốc gia hiện đại' và 'đã vật lộn để tìm bằng chứng'",
+        "relatedCollocates": [
+          "Modern cross-country analyses (synonym for 'modern world' research)",
+          "struggled to find evidence (antonym for 'strong evidence')"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'strong evidence... in the modern world' \n<->\nPassage: 'Modern cross-country analyses also struggled to find evidence...'"
+      }
+    },
+    {
+      "id": "1761813174072-22-107-6c4205f1",
+      "targetLexeme": "a good example",
+      "sourceContext": "Q23/24 (Multiple Choice): England is a good example of how high literacy rates helped a country industrialise.",
+      "phase1Inference": {
+        "contextualGuessVI": "Anh là 'một ví dụ' (an example) 'tốt' (good) 'về việc' (of how).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ɡʊd ɪɡˈzɑːmpl/",
+        "sentiment": "positive",
+        "definitionEN": "Focus: Compares 'a good example' with 'no evidence', 'mediocre literacy rates', and 'first country to industrialise'",
+        "translationVI": "Trọng tâm: So sánh 'một ví dụ tốt' với 'không có bằng chứng', 'tỷ lệ biết chữ tầm thường', và 'quốc gia đầu tiên công nghiệp hóa'",
+        "relatedCollocates": [
+          "no evidence that... (passage info)",
+          "England had only mediocre literacy rates (contradiction)",
+          "yet... was the first country to industrialise (contradiction)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'England is a good example of how high literacy rates helped...' \n<->\nPassage: '...no evidence that having a high literacy rate made a country industrialise earlier. ... England had only mediocre literacy rates... yet... was the first country to industrialise.'"
+      }
+    },
+    {
+      "id": "1761813174072-22-108-546a178d",
+      "targetLexeme": "Economic growth can help to improve literacy rates.",
+      "sourceContext": "Q23/24 (Multiple Choice): Economic growth can help to improve literacy rates.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Tăng trưởng kinh tế' (Economic growth) 'có thể giúp' (can help) 'cải thiện' (to improve) 'tỷ lệ biết chữ' (literacy rates)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈnɒmɪk ɡrəʊθ kən help tu ɪmˈpruːv ˈlɪtərəsi reɪts/",
+        "sentiment": "positive",
+        "definitionEN": "Focus: Compares 'improve literacy rates' with 'increases education'",
+        "translationVI": "Trọng tâm: So sánh 'cải thiện tỷ lệ biết chữ' với 'làm tăng giáo dục'",
+        "relatedCollocates": [
+          "plenty of evidence that (passage info)",
+          "growth increases education (synonym)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'Economic growth can help to improve literacy rates.' \n<->\nPassage: '...there is plenty of evidence that growth increases education...'"
+      }
+    },
+    {
+      "id": "1761813174072-22-109-3c1b6875",
+      "targetLexeme": "helped young people to learn a skill",
+      "sourceContext": "Q25/26 (Multiple Choice - Guilds): They helped young people to learn a skill.",
+      "phase1Inference": {
+        "contextualGuessVI": "Họ 'giúp' (helped) 'người trẻ' (young people) 'học' (to learn) 'một kỹ năng' (a skill)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/helpt jʌŋ ˈpiːpl tə lɜːn ə skɪl/",
+        "sentiment": "positive",
+        "definitionEN": "Focus: Compares 'helped... learn a skill' with 'prevented people from using their skills'. (Note: The passage doesn't say how people learned skills, only how guilds *stopped* them from *using* them)",
+        "translationVI": "Trọng tâm: So sánh 'giúp... học một kỹ năng' với 'ngăn cản mọi người sử dụng kỹ năng của họ'. (Lưu ý: Bài đọc không nói phường hội giúp học kỹ năng, chỉ nói họ *ngăn cản* *sử dụng* kỹ năng)",
+        "relatedCollocates": [
+          "prevented people from using their skills (related but different)",
+          "activities of the guilds (related)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'helped young people to learn a skill' \n<->\nPassage: '...prevented people from using their skills...'"
+      }
+    },
+    {
+      "id": "1761813174072-22-110-66409ef6",
+      "targetLexeme": "opposed to people moving to an area",
+      "sourceContext": "Q25/26 (Multiple Choice - Guilds): They were opposed to people moving to an area for work.",
+      "phase1Inference": {
+        "contextualGuessVI": "Họ 'phản đối' (were opposed to) 'việc người ta' (people) 'di chuyển' (moving) 'đến' (to) 'một khu vực' (an area) 'để' (for) 'làm việc' (work)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈpəʊzd tə ˈpiːpl ˈmuːvɪŋ tu ən ˈeəriə/",
+        "sentiment": "negative",
+        "definitionEN": "Focus: Compares 'opposed to people moving... for work' with 'blocked labour migration'",
+        "translationVI": "Trọng tâm: So sánh 'phản đối người ta di chuyển... để làm việc' với 'ngăn chặn di cư lao động'",
+        "relatedCollocates": [
+          "blocked labour migration (synonym)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'opposed to people moving to an area for work' \n<->\nPassage: '...guilds blocked labour migration...'"
+      }
+    },
+    {
+      "id": "1761813174072-22-111-49fca5f7",
+      "targetLexeme": "kept better records than",
+      "sourceContext": "Q25/26 (Multiple Choice - Guilds): They kept better records than guilds in other parts of the world.",
+      "phase1Inference": {
+        "contextualGuessVI": "Họ 'lưu giữ' (kept) 'hồ sơ' (records) 'tốt hơn' (better than) 'các phường hội' (guilds) 'ở' (in) 'những nơi khác' (other parts) 'trên' (of) 'thế giới' (the world)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kept ˈbetə ˈrekɔːdz ðæn/",
+        "sentiment": "neutral",
+        "definitionEN": "Focus: Compares 'kept better records than...' with 'guild ledgers'. (Note: The passage mentions ledgers exist, but makes no comparison to other parts of the world)",
+        "translationVI": "Trọng tâm: So sánh 'lưu giữ hồ sơ tốt hơn...' với 'sổ sách phường hội'. (Lưu ý: Bài đọc đề cập đến sổ sách, nhưng không so sánh với nơi khác)",
+        "relatedCollocates": [
+          "guild ledgers (passage info - no comparison)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'kept better records than guilds in other parts of the world' \n<->\nPassage: '...guild ledgers...' (Passage only mentions their existence)"
+      }
+    },
+    {
+      "id": "1761813174072-22-112-05e7f57b",
+      "targetLexeme": "opposed practices that threatened",
+      "sourceContext": "Q25/26 (Multiple Choice - Guilds): They opposed practices that threatened their control over a trade.",
+      "phase1Inference": {
+        "contextualGuessVI": "Họ 'phản đối' (opposed) 'các hoạt động' (practices) 'mà' (that) 'đe dọa' (threatened) 'quyền kiểm soát' (their control) 'của họ' (their) 'đối với' (over) 'một ngành nghề' (a trade)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈpəʊzd ˈpræktɪsɪz ðæt ˈθretnd/",
+        "sentiment": "negative",
+        "definitionEN": "Focus: Compares 'opposed practices that threatened their control' with 'legislated against anything that undermined their monopolies'",
+        "translationVI": "Trọng tâm: So sánh 'phản đối các hoạt động đe dọa quyền kiểm soát' với 'ban hành luật chống lại bất cứ điều gì làm suy yếu sự độc quyền của họ'",
+        "relatedCollocates": [
+          "legislated against (synonym for 'opposed')",
+          "anything that undermined (synonym for 'practices that threatened')",
+          "their monopolies (synonym for 'their control over a trade')"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'opposed practices that threatened their control over a trade' \n<->\nPassage: '...legislated against anything that undermined their monopolies.'"
+      }
+    },
+    {
+      "id": "1761813174072-22-113-7ef84ccc",
+      "targetLexeme": "consisted of wealthy merchants",
+      "sourceContext": "Q25/26 (Multiple Choice - Guilds): They predominantly consisted of wealthy merchants.",
+      "phase1Inference": {
+        "contextualGuessVI": "Họ 'chủ yếu' (predominantly) 'bao gồm' (consisted of) 'các thương gia' (merchants) 'giàu có' (wealthy)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kənˈsɪstɪd əv ˈwelθi ˈmɜːtʃənts/",
+        "sentiment": "neutral",
+        "definitionEN": "Focus: Compares 'consisted of wealthy merchants' with 'local guilds and merchant associations'. (Note: The passage lists them as separate or related groups, not that one *is* the other)",
+        "translationVI": "Trọng tâm: So sánh 'bao gồm các thương gia giàu có' với 'các phường hội địa phương và hiệp hội thương gia'. (Lưu ý: Bài đọc liệt kê chúng là các nhóm riêng biệt hoặc liên quan, không phải nhóm này *là* nhóm kia)",
+        "relatedCollocates": [
+          "local guilds (passage info)",
+          "merchant associations (passage info)",
+          "weavers' guild (example)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'consisted of wealthy merchants' \n<->\nPassage: '...local guilds and merchant associations...'"
+      }
+    },
+    {
+      "id": "1761813174072-22-114-7006fa9e",
+      "targetLexeme": "list of personal possessions",
+      "sourceContext": "Q18 (Matching): examples of the items included in a list of personal possessions",
+      "phase1Inference": {
+        "contextualGuessVI": "Danh sách tài sản cá nhân"
+      },
+      "phase2Annotation": {
+        "phonetic": "/lɪst əv ˈpɜːsənl pəˈzeʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Focus: Compares 'list of personal possessions' with 'handwritten inventories', 'belongings', and 'worldly goods'",
+        "translationVI": "Trọng tâm: So sánh 'danh sách tài sản cá nhân' với 'bản kiểm kê viết tay', 'vật dụng', và 'của cải trần thế'",
+        "relatedCollocates": [
+          "handwritten inventories (synonym)",
+          "belongings (synonym)",
+          "entire worldly goods (synonym)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'a list of personal possessions' \n<->\nPassage: 'handwritten inventories' / 'belongings' / 'entire worldly goods'"
+      }
+    }
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.072Z",
+    "version": "2.0",
+    "originalCount": 115,
+    "migratedCount": 115
+  }
+}

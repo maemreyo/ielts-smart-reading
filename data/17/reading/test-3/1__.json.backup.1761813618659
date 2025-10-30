@@ -1,0 +1,3398 @@
+{
+  "logTitle": "IELTS Reading Log: The thylacine",
+  "sourceId": "Reading Passage",
+  "totalItems": 87,
+  "lexicalItems": [
+    {
+      "id": "1761813174061-18-0-61ef3025",
+      "targetLexeme": "bore a superficial resemblance to",
+      "sourceContext": "...bore a superficial resemblance to a dog.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Bore' (mang) 'resemblance' (sự giống) 'superficial' (bề ngoài) 'to' (với) con chó"
+      },
+      "phase2Annotation": {
+        "phonetic": "/bɔːr ə ˌsuːpəˈfɪʃl rɪˈzembləns tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To look similar to something on the surface, but not in a deep or fundamental way. (Past tense of 'bear a resemblance')",
+        "translationVI": "Trông giống (cái gì) một cách hời hợt/bề ngoài",
+        "relatedCollocates": [
+          "bear a resemblance to",
+          "look similar to",
+          "a striking resemblance"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "resemblance",
+              "meaning": "sự giống nhau"
+            }
+          ],
+          "verb": [
+            {
+              "form": "bear (past: bore)",
+              "meaning": "mang"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "superficial",
+              "meaning": "bề ngoài"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new building bore a superficial resemblance to the classic design, but it was made of modern materials."
+      }
+    },
+    {
+      "id": "1761813174061-18-1-3d4d6af6",
+      "targetLexeme": "The extinct thylacine",
+      "sourceContext": "The extinct thylacine, also known as the Tasmanian tiger, was a marsupial* that bore a superficial resemblance to...",
+      "phase1Inference": {
+        "contextualGuessVI": "Loài thylacine đã tuyệt chủng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ði ɪkˈstɪŋkt ˈθaɪləsiːn/",
+        "sentiment": "neutral",
+        "definitionEN": "The thylacine, a species which no longer has any living members.",
+        "translationVI": "Loài thylacine đã tuyệt chủng",
+        "relatedCollocates": [
+          "extinct species",
+          "prehistoric animal",
+          "critically endangered"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "thylacine",
+              "meaning": "loài thylacine (hổ Tasmania)"
+            },
+            {
+              "form": "extinction",
+              "meaning": "sự tuyệt chủng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "extinct",
+              "meaning": "tuyệt chủng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Museums around the world hold preserved specimens of the extinct thylacine."
+      }
+    },
+    {
+      "id": "1761813174061-18-2-209fcdf9",
+      "targetLexeme": "Tasmanian tiger",
+      "sourceContext": "The extinct thylacine, also known as the Tasmanian tiger, was a marsupial* that bore a superficial resemblance to...",
+      "phase1Inference": {
+        "contextualGuessVI": "Hổ Tasmania"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tæzˈmeɪniən ˈtaɪɡər/",
+        "sentiment": "neutral",
+        "definitionEN": "A common name for the thylacine, a large carnivorous marsupial from Australia that is now extinct.",
+        "translationVI": "Hổ Tasmania",
+        "relatedCollocates": [
+          "Tasmanian devil",
+          "marsupial wolf"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "tiger",
+              "meaning": "con hổ"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "Tasmanian",
+              "meaning": "thuộc về Tasmania"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The Tasmanian tiger was not a true tiger but a marsupial."
+      }
+    },
+    {
+      "id": "1761813174061-18-3-7ebdb07a",
+      "targetLexeme": "distinguishing feature",
+      "sourceContext": "Its most distinguishing feature was the 13–19 dark brown stripes over its back, beginning at the rear of...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đặc điểm phân biệt"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈstɪŋɡwɪʃɪŋ ˈfiːtʃər/",
+        "sentiment": "neutral",
+        "definitionEN": "A characteristic that makes something clearly different from others of its type.",
+        "translationVI": "Đặc điểm nổi bật/phân biệt",
+        "relatedCollocates": [
+          "key feature",
+          "unique characteristic",
+          "defining trait"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "feature",
+              "meaning": "đặc điểm"
+            }
+          ],
+          "verb": [
+            {
+              "form": "distinguish",
+              "meaning": "phân biệt"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "distinguishing",
+              "meaning": "để phân biệt"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The panda's most distinguishing feature is its black and white coat."
+      }
+    },
+    {
+      "id": "1761813174061-18-4-73c63cac",
+      "targetLexeme": "stripes",
+      "sourceContext": "Its most distinguishing feature was the 13–19 dark brown stripes over its back, beginning at the rear of...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những cái sọc"
+      },
+      "phase2Annotation": {
+        "phonetic": "/straɪps/",
+        "sentiment": "neutral",
+        "definitionEN": "Long, narrow bands of colour.",
+        "translationVI": "Sọc, vằn",
+        "relatedCollocates": [
+          "zebra stripes",
+          "pinstripes",
+          "bold stripes"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "stripe",
+              "meaning": "sọc"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "striped/stripy",
+              "meaning": "có sọc"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The thylacine had dark stripes across the lower part of its back, similar to a tiger."
+      }
+    },
+    {
+      "id": "1761813174061-18-5-6284b383",
+      "targetLexeme": "rear of the body",
+      "sourceContext": "Its most distinguishing feature was the 13–19 dark brown stripes over its back, beginning at the rear of...",
+      "phase1Inference": {
+        "contextualGuessVI": "Phần sau của cơ thể"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪər əv ðə ˈbɒdi/",
+        "sentiment": "neutral",
+        "definitionEN": "The back part of the body.",
+        "translationVI": "Phía sau cơ thể",
+        "relatedCollocates": [
+          "front of the body",
+          "lower back",
+          "hindquarters"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "rear",
+              "meaning": "phía sau"
+            },
+            {
+              "form": "body",
+              "meaning": "cơ thể"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The vehicle was damaged at the rear of the body in the accident."
+      }
+    },
+    {
+      "id": "1761813174061-18-6-3d756f00",
+      "targetLexeme": "occupy",
+      "sourceContext": "The thylacine occupied a wide range of terrain...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chiếm giữ, sinh sống"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɒkjupaɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "To live in or fill a particular space or area.",
+        "translationVI": "Cư ngụ, sinh sống",
+        "relatedCollocates": [
+          "occupy a territory",
+          "occupy a niche",
+          "inhabit"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "occupation",
+              "meaning": "sự cư ngụ"
+            },
+            {
+              "form": "occupant",
+              "meaning": "cư dân"
+            }
+          ],
+          "verb": [
+            {
+              "form": "occupy",
+              "meaning": "cư ngụ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "These birds occupy the upper canopy of the rainforest."
+      }
+    },
+    {
+      "id": "1761813174061-18-7-5f200adb",
+      "targetLexeme": "terrain",
+      "sourceContext": "The thylacine occupied a wide range of terrain...",
+      "phase1Inference": {
+        "contextualGuessVI": "Địa hình"
+      },
+      "phase2Annotation": {
+        "phonetic": "/təˈreɪn/",
+        "sentiment": "neutral",
+        "definitionEN": "An area of land, usually with reference to its physical features.",
+        "translationVI": "Địa hình",
+        "relatedCollocates": [
+          "rough terrain",
+          "mountainous terrain",
+          "difficult terrain"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "terrain",
+              "meaning": "địa hình"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The army truck is designed to handle rough terrain."
+      }
+    },
+    {
+      "id": "1761813174061-18-8-536335a2",
+      "targetLexeme": "dense rainforest",
+      "sourceContext": "...including dense rainforest, wetlands and eucalyptus forest.",
+      "phase1Inference": {
+        "contextualGuessVI": "Rừng rậm nhiệt đới"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dens ˈreɪnfɒrɪst/",
+        "sentiment": "neutral",
+        "definitionEN": "A forest with a large number of trees and plants growing very close together.",
+        "translationVI": "Rừng rậm nhiệt đới",
+        "relatedCollocates": [
+          "lush rainforest",
+          "tropical rainforest",
+          "jungle"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "rainforest",
+              "meaning": "rừng nhiệt đới"
+            },
+            {
+              "form": "density",
+              "meaning": "mật độ"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "dense",
+              "meaning": "dày đặc, rậm rạp"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Exploring the dense rainforest requires a guide and proper equipment."
+      }
+    },
+    {
+      "id": "1761813174061-18-9-20ac4093",
+      "targetLexeme": "eucalyptus forest",
+      "sourceContext": "...including dense rainforest, wetlands and eucalyptus forest.",
+      "phase1Inference": {
+        "contextualGuessVI": "Rừng bạch đàn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌjuːkəˈlɪptəs ˈfɒrɪst/",
+        "sentiment": "neutral",
+        "definitionEN": "A woodland area where eucalyptus trees are the dominant type of tree.",
+        "translationVI": "Rừng bạch đàn",
+        "relatedCollocates": [
+          "pine forest",
+          "oak woodland",
+          "Australian bush"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "eucalyptus",
+              "meaning": "cây bạch đàn"
+            },
+            {
+              "form": "forest",
+              "meaning": "rừng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Koalas primarily live in the eucalyptus forest, as their diet consists of eucalyptus leaves."
+      }
+    },
+    {
+      "id": "1761813174061-18-10-4afee3c7",
+      "targetLexeme": "prime",
+      "sourceContext": "Its prime habitat was the... coastal heathland of Tasmania.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chính, chủ yếu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/praɪm/",
+        "sentiment": "positive",
+        "definitionEN": "Main, most important, or of the highest quality.",
+        "translationVI": "Chủ yếu, chính, tốt nhất",
+        "relatedCollocates": [
+          "prime location",
+          "prime example",
+          "prime real estate"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "prime",
+              "meaning": "thời kỳ đỉnh cao"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "prime",
+              "meaning": "chủ yếu, hàng đầu"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "This area is a prime nesting site for the endangered sea turtles."
+      }
+    },
+    {
+      "id": "1761813174061-18-11-6d8de062",
+      "targetLexeme": "habitat",
+      "sourceContext": "Its prime habitat was the... coastal heathland of Tasmania.",
+      "phase1Inference": {
+        "contextualGuessVI": "Môi trường sống"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhæbɪtæt/",
+        "sentiment": "neutral",
+        "definitionEN": "The natural home or environment of an animal, plant, or other organism.",
+        "translationVI": "Môi trường sống",
+        "relatedCollocates": [
+          "natural habitat",
+          "wildlife habitat",
+          "habitat loss"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "habitat",
+              "meaning": "môi trường sống"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Deforestation is leading to the destruction of habitat for countless species."
+      }
+    },
+    {
+      "id": "1761813174061-18-12-0a54a686",
+      "targetLexeme": "muscular",
+      "sourceContext": "In terms of feeding, it was exclusively carnivorous, and its stomach was muscular with an ability to distend...",
+      "phase1Inference": {
+        "contextualGuessVI": "Có cơ bắp, thuộc về cơ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmʌskjələr/",
+        "sentiment": "neutral",
+        "definitionEN": "Relating to or consisting of muscle; having well-developed muscles.",
+        "translationVI": "Nhiều cơ bắp, vạm vỡ",
+        "relatedCollocates": [
+          "muscular strength",
+          "muscular system",
+          "lean and muscular"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "muscle",
+              "meaning": "cơ bắp"
+            },
+            {
+              "form": "musculature",
+              "meaning": "hệ cơ"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "muscular",
+              "meaning": "thuộc về cơ, vạm vỡ"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The heart is a powerful, muscular organ that pumps blood throughout the body."
+      }
+    },
+    {
+      "id": "1761813174061-18-13-17f254e0",
+      "targetLexeme": "an ability to distend",
+      "sourceContext": "In terms of feeding, it was exclusively carnivorous, and its stomach was muscular with an ability to distend...",
+      "phase1Inference": {
+        "contextualGuessVI": "Khả năng giãn ra"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ən əˈbɪləti tuː dɪˈstend/",
+        "sentiment": "neutral",
+        "definitionEN": "The capacity to swell or expand from internal pressure.",
+        "translationVI": "Khả năng căng phồng/giãn nở",
+        "relatedCollocates": [
+          "ability to adapt",
+          "capacity to grow",
+          "distended abdomen"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "ability",
+              "meaning": "khả năng"
+            },
+            {
+              "form": "distension",
+              "meaning": "sự căng phồng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "distend",
+              "meaning": "làm căng phồng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Snakes have an ability to distend their jaws to swallow prey larger than their heads."
+      }
+    },
+    {
+      "id": "1761813174061-18-14-201326f4",
+      "targetLexeme": "compensate for",
+      "sourceContext": "...an ability to distend to eat large amounts of food at one time, probably an adaptation to compensate for long periods when food was scarce.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bù đắp cho"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkɒmpenseɪt fɔːr/",
+        "sentiment": "neutral",
+        "definitionEN": "To reduce or counteract the effect of something undesirable by exerting an opposite force or effect.",
+        "translationVI": "Bù đắp, đền bù cho",
+        "relatedCollocates": [
+          "make up for",
+          "offset",
+          "balance out"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "compensation",
+              "meaning": "sự đền bù"
+            }
+          ],
+          "verb": [
+            {
+              "form": "compensate",
+              "meaning": "bù đắp"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "compensatory",
+              "meaning": "mang tính bù đắp"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He bought her a gift to compensate for being late to their dinner."
+      }
+    },
+    {
+      "id": "1761813174061-18-15-40dfbe7c",
+      "targetLexeme": "food scarce",
+      "sourceContext": "...to compensate for long periods when food was scarce.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thức ăn khan hiếm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fuːd skeəs/",
+        "sentiment": "negative",
+        "definitionEN": "A situation in which there is not enough food available.",
+        "translationVI": "Thức ăn khan hiếm",
+        "relatedCollocates": [
+          "food shortage",
+          "water scarcity",
+          "rare resources"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "food",
+              "meaning": "thức ăn"
+            },
+            {
+              "form": "scarcity",
+              "meaning": "sự khan hiếm"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "scarce",
+              "meaning": "khan hiếm"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "During the long winter, food was scarce for the animals in the forest."
+      }
+    },
+    {
+      "id": "1761813174061-18-16-5a5c27bc",
+      "targetLexeme": "prey",
+      "sourceContext": "The thylacine was not a fast runner and probably caught its prey by exhausting it during a long...",
+      "phase1Inference": {
+        "contextualGuessVI": "Con mồi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/preɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "An animal that is hunted and killed for food by another animal.",
+        "translationVI": "Con mồi",
+        "relatedCollocates": [
+          "predator and prey",
+          "fall prey to",
+          "stalk its prey"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "prey",
+              "meaning": "con mồi"
+            }
+          ],
+          "verb": [
+            {
+              "form": "prey on",
+              "meaning": "săn mồi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The lioness patiently waited for the right moment to ambush her prey."
+      }
+    },
+    {
+      "id": "1761813174061-18-17-10d96bb4",
+      "targetLexeme": "a long pursuit",
+      "sourceContext": "The thylacine was not a fast runner and probably caught its prey by exhausting it during a long pursuit.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một cuộc rượt đuổi dài"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə lɒŋ pəˈsjuːt/",
+        "sentiment": "neutral",
+        "definitionEN": "A lengthy chase in order to catch or attack something or someone.",
+        "translationVI": "Một cuộc truy đuổi kéo dài",
+        "relatedCollocates": [
+          "high-speed pursuit",
+          "in pursuit of",
+          "hot pursuit"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "pursuit",
+              "meaning": "sự truy đuổi"
+            }
+          ],
+          "verb": [
+            {
+              "form": "pursue",
+              "meaning": "truy đuổi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The police car was engaged in a long pursuit of the stolen vehicle."
+      }
+    },
+    {
+      "id": "1761813174061-18-18-54490ecd",
+      "targetLexeme": "relied more on",
+      "sourceContext": "During long-distance chases, thylacines were likely to have relied more on scent than any other sense.",
+      "phase1Inference": {
+        "contextualGuessVI": "Dựa nhiều hơn vào"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈlaɪd mɔːr ɒn/",
+        "sentiment": "neutral",
+        "definitionEN": "To have depended on something or someone to a greater degree.",
+        "translationVI": "Dựa/phụ thuộc nhiều hơn vào",
+        "relatedCollocates": [
+          "depend on",
+          "count on",
+          "heavy reliance on"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "reliance",
+              "meaning": "sự phụ thuộc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "rely on (past: relied on)",
+              "meaning": "dựa vào"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "reliant",
+              "meaning": "phụ thuộc"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In the past, sailors relied more on the stars for navigation than on modern technology."
+      }
+    },
+    {
+      "id": "1761813174061-18-19-46745c6c",
+      "targetLexeme": "scent",
+      "sourceContext": "During long-distance chases, thylacines were likely to have relied more on scent than any other sense.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mùi, khứu giác"
+      },
+      "phase2Annotation": {
+        "phonetic": "/sent/",
+        "sentiment": "neutral",
+        "definitionEN": "A particular smell, especially a pleasant one; the sense of smell.",
+        "translationVI": "Mùi hương, khứu giác",
+        "relatedCollocates": [
+          "sense of scent",
+          "pick up the scent",
+          "sweet scent"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "scent",
+              "meaning": "mùi hương"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "scented",
+              "meaning": "có mùi thơm"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The dog followed the scent of the rabbit through the woods."
+      }
+    },
+    {
+      "id": "1761813174061-18-20-6f23cc4f",
+      "targetLexeme": "sense",
+      "sourceContext": "During long-distance chases, thylacines were likely to have relied more on scent than any other sense.",
+      "phase1Inference": {
+        "contextualGuessVI": "Giác quan"
+      },
+      "phase2Annotation": {
+        "phonetic": "/sens/",
+        "sentiment": "neutral",
+        "definitionEN": "Any of the faculties of sight, smell, hearing, taste, and touch, by which the body perceives an external stimulus.",
+        "translationVI": "Giác quan",
+        "relatedCollocates": [
+          "the five senses",
+          "a sense of hearing",
+          "a sixth sense"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "sense",
+              "meaning": "giác quan"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "sensory",
+              "meaning": "thuộc về giác quan"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A dog's strongest sense is its sense of smell."
+      }
+    },
+    {
+      "id": "1761813174061-18-21-5670c929",
+      "targetLexeme": "emerged to",
+      "sourceContext": "They emerged to hunt during the evening, night and early morning and tended to retreat to the hills...",
+      "phase1Inference": {
+        "contextualGuessVI": "Xuất hiện để"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪˈmɜːdʒd tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To come out or appear from a hidden or enclosed place for a specific purpose.",
+        "translationVI": "Trồi lên/xuất hiện để",
+        "relatedCollocates": [
+          "appear to",
+          "come out to",
+          "surface to"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "emergence",
+              "meaning": "sự xuất hiện"
+            }
+          ],
+          "verb": [
+            {
+              "form": "emerge (past: emerged)",
+              "meaning": "xuất hiện"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The bear emerged from its den after a long winter hibernation."
+      }
+    },
+    {
+      "id": "1761813174061-18-22-483be033",
+      "targetLexeme": "tended to",
+      "sourceContext": "They emerged to hunt during the evening, night and early morning and tended to retreat to the hills...",
+      "phase1Inference": {
+        "contextualGuessVI": "Có xu hướng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtendɪd tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To regularly or frequently behave in a particular way or have a certain characteristic.",
+        "translationVI": "Có xu hướng",
+        "relatedCollocates": [
+          "be likely to",
+          "have a tendency to",
+          "be inclined to"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "tendency",
+              "meaning": "xu hướng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "tend to (past: tended to)",
+              "meaning": "có xu hướng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She tended to choose books over movies for entertainment."
+      }
+    },
+    {
+      "id": "1761813174061-18-23-34b7fda8",
+      "targetLexeme": "shelter",
+      "sourceContext": "...and tended to retreat to the hills and forest for shelter by day.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nơi trú ẩn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈʃeltər/",
+        "sentiment": "neutral",
+        "definitionEN": "A place giving temporary protection from bad weather or danger.",
+        "translationVI": "Nơi trú ẩn, chỗ ở",
+        "relatedCollocates": [
+          "seek shelter",
+          "find shelter",
+          "animal shelter"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "shelter",
+              "meaning": "nơi trú ẩn"
+            }
+          ],
+          "verb": [
+            {
+              "form": "shelter",
+              "meaning": "che chở, trú ẩn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The hikers found shelter in a cave during the sudden storm."
+      }
+    },
+    {
+      "id": "1761813174061-18-24-2afe51fb",
+      "targetLexeme": "basking",
+      "sourceContext": "Although mainly nocturnal, it was sighted moving during the day and some individuals were even recorded basking in...",
+      "phase1Inference": {
+        "contextualGuessVI": "Phơi nắng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbɑːskɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "Lying or sitting enjoying warmth, especially from the sun.",
+        "translationVI": "Tắm nắng, phơi nắng",
+        "relatedCollocates": [
+          "basking in the sun",
+          "basking shark",
+          "basking in glory"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "bask",
+              "meaning": "phơi nắng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We saw a lizard basking on a hot rock by the side of the path."
+      }
+    },
+    {
+      "id": "1761813174061-18-25-20b5a5e2",
+      "targetLexeme": "an extended breeding season",
+      "sourceContext": "There are indications that breeding took place throughout the year, but that there was an extended breeding season from winter to spring.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mùa sinh sản kéo dài"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ən ɪkˈstendɪd ˈbriːdɪŋ ˈsiːzən/",
+        "sentiment": "neutral",
+        "definitionEN": "A longer than usual period of time during which animals mate and produce offspring.",
+        "translationVI": "Mùa sinh sản kéo dài",
+        "relatedCollocates": [
+          "mating season",
+          "peak season",
+          "extended period"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "breeding",
+              "meaning": "sự sinh sản"
+            },
+            {
+              "form": "season",
+              "meaning": "mùa"
+            }
+          ],
+          "verb": [
+            {
+              "form": "extend",
+              "meaning": "kéo dài"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "extended",
+              "meaning": "kéo dài"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Due to the warm climate, some bird species in this region have an extended breeding season."
+      }
+    },
+    {
+      "id": "1761813174061-18-26-7d5b40d2",
+      "targetLexeme": "crawled into",
+      "sourceContext": "Newborns crawled into the pouch on the belly of their mother, and attached themselves to one of the...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bò vào trong"
+      },
+      "phase2Annotation": {
+        "phonetic": "/krɔːld ˈɪntuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To move forward on the hands and knees or by dragging the body close to the ground to get inside something.",
+        "translationVI": "Bò vào",
+        "relatedCollocates": [
+          "climb into",
+          "creep into",
+          "sneak into"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "crawl (past: crawled)",
+              "meaning": "bò, trườn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The baby laughed as he crawled into the cardboard box."
+      }
+    },
+    {
+      "id": "1761813174061-18-27-31abc862",
+      "targetLexeme": "pouch",
+      "sourceContext": "Newborns crawled into the pouch on the belly of their mother...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cái túi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/paʊtʃ/",
+        "sentiment": "neutral",
+        "definitionEN": "A pocket of skin on the abdomen of female marsupials, such as kangaroos and wallabies, in which they carry their young.",
+        "translationVI": "Túi (trước bụng của thú có túi)",
+        "relatedCollocates": [
+          "marsupial pouch",
+          "brood pouch"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "pouch",
+              "meaning": "cái túi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A baby kangaroo, known as a joey, develops inside its mother's pouch."
+      }
+    },
+    {
+      "id": "1761813174061-18-28-627fb606",
+      "targetLexeme": "belly",
+      "sourceContext": "Newborns crawled into the pouch on the belly of their mother...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cái bụng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbeli/",
+        "sentiment": "neutral",
+        "definitionEN": "The front part of the human trunk below the ribs, containing the stomach and intestines; the stomach.",
+        "translationVI": "Bụng",
+        "relatedCollocates": [
+          "pork belly",
+          "belly button",
+          "on your belly"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "belly",
+              "meaning": "bụng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The cat rolled over, exposing its soft belly for a rub."
+      }
+    },
+    {
+      "id": "1761813174061-18-29-772aac33",
+      "targetLexeme": "teats",
+      "sourceContext": "...and attached themselves to one of the four teats, where they remained for three months.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vú"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tiːts/",
+        "sentiment": "neutral",
+        "definitionEN": "The nipples of the mammary gland of a female mammal, from which the young suck milk.",
+        "translationVI": "Vú (động vật)",
+        "relatedCollocates": [
+          "suckle",
+          "udder",
+          "nipple"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "teat",
+              "meaning": "vú (động vật)"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The piglets gathered around the sow to feed from her teats."
+      }
+    },
+    {
+      "id": "1761813174061-18-30-5fbeec8a",
+      "targetLexeme": "a lair",
+      "sourceContext": "When old enough to leave the pouch, the young stayed in a lair such as a deep rocky...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một cái hang ổ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə leər/",
+        "sentiment": "neutral",
+        "definitionEN": "A wild animal's resting place, especially one that is well hidden.",
+        "translationVI": "Hang ổ",
+        "relatedCollocates": [
+          "a dragon's lair",
+          "a fox's den",
+          "hideout"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "lair",
+              "meaning": "hang ổ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The explorers were careful not to disturb the bear's lair."
+      }
+    },
+    {
+      "id": "1761813174061-18-31-21e6ccf2",
+      "targetLexeme": "hollow log",
+      "sourceContext": "...a deep rocky cave, a hollow log, or a well-hidden nest.",
+      "phase1Inference": {
+        "contextualGuessVI": "Khúc gỗ rỗng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhɒləʊ lɒɡ/",
+        "sentiment": "neutral",
+        "definitionEN": "A piece of a tree trunk or large branch that is empty inside.",
+        "translationVI": "Khúc gỗ rỗng",
+        "relatedCollocates": [
+          "hollow tree",
+          "fallen log",
+          "tree trunk"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "log",
+              "meaning": "khúc gỗ"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "hollow",
+              "meaning": "rỗng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A family of squirrels made their home inside a hollow log."
+      }
+    },
+    {
+      "id": "1761813174061-18-32-74181530",
+      "targetLexeme": "whilst",
+      "sourceContext": "...stayed in a lair... whilst their mother hunted.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong khi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/waɪlst/",
+        "sentiment": "neutral",
+        "definitionEN": "A conjunction meaning 'while'; during the time that, or at the same time as.",
+        "translationVI": "Trong khi",
+        "relatedCollocates": [
+          "while",
+          "whereas",
+          "during"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She read a book whilst waiting for the train to arrive."
+      }
+    },
+    {
+      "id": "1761813174061-18-33-7c6a8381",
+      "targetLexeme": "Approximately",
+      "sourceContext": "Approximately 4,000 years ago, the thylacine became widespread throughout mainland Australia and New Guinea.",
+      "phase1Inference": {
+        "contextualGuessVI": "Khoảng chừng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈprɒksɪmətli/",
+        "sentiment": "neutral",
+        "definitionEN": "Used to show that something is almost, but not completely, accurate or exact; roughly.",
+        "translationVI": "Xấp xỉ, khoảng",
+        "relatedCollocates": [
+          "roughly",
+          "around",
+          "about"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "approximation",
+              "meaning": "sự xấp xỉ"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "approximate",
+              "meaning": "xấp xỉ"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "approximately",
+              "meaning": "khoảng chừng"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The journey will take approximately two hours by car."
+      }
+    },
+    {
+      "id": "1761813174061-18-34-5fc99306",
+      "targetLexeme": "mainland",
+      "sourceContext": "...throughout mainland Australia and New Guinea.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đất liền"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmeɪnlænd/",
+        "sentiment": "neutral",
+        "definitionEN": "The main landmass of a country or continent, not including any islands.",
+        "translationVI": "Lục địa, đất liền",
+        "relatedCollocates": [
+          "mainland China",
+          "offshore island",
+          "continental"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "mainland",
+              "meaning": "đất liền"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He took a ferry from the island to the mainland."
+      }
+    },
+    {
+      "id": "1761813174061-18-35-15acafa0",
+      "targetLexeme": "well-dated occurrence",
+      "sourceContext": "The most recent, well-dated occurrence of a thylacine on the mainland is a carbon-dated fossil from Murray Cave...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự xuất hiện được xác định niên đại rõ ràng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wel-ˈdeɪtɪd əˈkʌrəns/",
+        "sentiment": "neutral",
+        "definitionEN": "An event or instance of something happening for which the date has been accurately established.",
+        "translationVI": "Sự xuất hiện được xác định niên đại rõ ràng",
+        "relatedCollocates": [
+          "historical record",
+          "archaeological find",
+          "confirmed sighting"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "occurrence",
+              "meaning": "sự xuất hiện"
+            }
+          ],
+          "verb": [
+            {
+              "form": "occur",
+              "meaning": "xảy ra"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "well-dated",
+              "meaning": "được xác định niên đại rõ"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The earliest well-dated occurrence of this pottery style is from the 5th century BC."
+      }
+    },
+    {
+      "id": "1761813174061-18-36-0d015bbc",
+      "targetLexeme": "a carbon-dated fossil",
+      "sourceContext": "The most recent... occurrence... is a carbon-dated fossil from Murray Cave...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một hóa thạch được xác định niên đại bằng carbon"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈkɑːbən-ˈdeɪtɪd ˈfɒsl/",
+        "sentiment": "neutral",
+        "definitionEN": "The remains of a prehistoric organism whose age has been determined by using the radiocarbon dating method.",
+        "translationVI": "Hóa thạch được xác định niên đại bằng carbon",
+        "relatedCollocates": [
+          "radiocarbon dating",
+          "fossil record",
+          "dinosaur fossil"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "fossil",
+              "meaning": "hóa thạch"
+            },
+            {
+              "form": "carbon dating",
+              "meaning": "phương pháp xác định niên đại bằng carbon"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "carbon-dated",
+              "meaning": "được xác định niên đại bằng carbon"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The museum displayed a carbon-dated fossil of an early human ancestor."
+      }
+    },
+    {
+      "id": "1761813174061-18-37-6dfa33a6",
+      "targetLexeme": "dingoes",
+      "sourceContext": "Its extinction coincided closely with the arrival of wild dogs called dingoes in Australia...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chó dingo"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdɪŋɡəʊz/",
+        "sentiment": "neutral",
+        "definitionEN": "A type of wild dog found in Australia.",
+        "translationVI": "Chó dingo",
+        "relatedCollocates": [
+          "wild dogs",
+          "Australian fauna",
+          "feral animal"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "dingo (plural: dingoes)",
+              "meaning": "chó dingo"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Dingoes are a protected native species in some parts of Australia."
+      }
+    },
+    {
+      "id": "1761813174061-18-38-5b23dc41",
+      "targetLexeme": "predator",
+      "sourceContext": "...and a similar predator, the New Guinea singing dog.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thú săn mồi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpredətər/",
+        "sentiment": "neutral",
+        "definitionEN": "An animal that naturally preys on others.",
+        "translationVI": "Thú săn mồi",
+        "relatedCollocates": [
+          "apex predator",
+          "predator and prey",
+          "natural predator"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "predator",
+              "meaning": "thú săn mồi"
+            },
+            {
+              "form": "predation",
+              "meaning": "sự săn mồi"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "predatory",
+              "meaning": "có tính săn mồi"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The eagle is a fierce predator, soaring high above to spot its prey."
+      }
+    },
+    {
+      "id": "1761813174061-18-39-556e6e08",
+      "targetLexeme": "dramatic decline",
+      "sourceContext": "The dramatic decline of the thylacine in Tasmania, which began in the 1830s...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự suy giảm đột ngột"
+      },
+      "phase2Annotation": {
+        "phonetic": "/drəˈmætɪk dɪˈklaɪn/",
+        "sentiment": "negative",
+        "definitionEN": "A sudden and very noticeable decrease in number, size, or quality.",
+        "translationVI": "Sự suy giảm nghiêm trọng/đột ngột",
+        "relatedCollocates": [
+          "sharp decline",
+          "rapid decrease",
+          "population decline"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "decline",
+              "meaning": "sự suy giảm"
+            }
+          ],
+          "verb": [
+            {
+              "form": "decline",
+              "meaning": "suy giảm"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "dramatic",
+              "meaning": "đột ngột, gây ấn tượng mạnh"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There has been a dramatic decline in the number of bees in recent years."
+      }
+    },
+    {
+      "id": "1761813174061-18-40-55333c3a",
+      "targetLexeme": "is ... attributed to",
+      "sourceContext": "...is usually attributed to the relentless efforts of farmers and bounty hunters.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được cho là do"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪz əˈtrɪbjuːtɪd tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To be regarded as being caused by a particular person, event, or situation.",
+        "translationVI": "Được cho là do/quy cho",
+        "relatedCollocates": [
+          "be caused by",
+          "be due to",
+          "be the result of"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "attribution",
+              "meaning": "sự quy cho"
+            }
+          ],
+          "verb": [
+            {
+              "form": "attribute to",
+              "meaning": "quy cho"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The team's success is attributed to their hard work and dedication."
+      }
+    },
+    {
+      "id": "1761813174061-18-41-6eed9e74",
+      "targetLexeme": "relentless effort",
+      "sourceContext": "...attributed to the relentless efforts of farmers and bounty hunters.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nỗ lực không ngừng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈlentləs ˈefət/",
+        "sentiment": "neutral",
+        "definitionEN": "A continuous and determined attempt that does not stop or become less intense.",
+        "translationVI": "Nỗ lực không ngừng nghỉ",
+        "relatedCollocates": [
+          "persistent effort",
+          "ceaseless work",
+          "determined attempt"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "effort",
+              "meaning": "nỗ lực"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "relentless",
+              "meaning": "không ngừng, không nao núng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Thanks to the relentless effort of the firefighters, the wildfire was finally brought under control."
+      }
+    },
+    {
+      "id": "1761813174061-18-42-56789da9",
+      "targetLexeme": "undoubtedly",
+      "sourceContext": "While this determined campaign undoubtedly played a large part, it is likely that various other factors also contributed...",
+      "phase1Inference": {
+        "contextualGuessVI": "Không nghi ngờ gì"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ʌnˈdaʊtɪdli/",
+        "sentiment": "positive",
+        "definitionEN": "Used to emphasize that something is true; without doubt.",
+        "translationVI": "Chắc chắn, không còn nghi ngờ gì nữa",
+        "relatedCollocates": [
+          "certainly",
+          "definitely",
+          "without a doubt"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "undoubted",
+              "meaning": "rõ ràng, không thể nghi ngờ"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "undoubtedly",
+              "meaning": "chắc chắn"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She is undoubtedly the best candidate for the job."
+      }
+    },
+    {
+      "id": "1761813174061-18-43-12486004",
+      "targetLexeme": "European settlers",
+      "sourceContext": "These include competition with wild dogs introduced by European settlers, loss of habitat along with the disappearance of...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những người định cư châu Âu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌjʊərəˈpiːən ˈsetlərz/",
+        "sentiment": "neutral",
+        "definitionEN": "People from Europe who moved to a new country to live there permanently.",
+        "translationVI": "Người định cư châu Âu",
+        "relatedCollocates": [
+          "early settlers",
+          "colonists",
+          "immigrants"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "settler",
+              "meaning": "người định cư"
+            }
+          ],
+          "verb": [
+            {
+              "form": "settle",
+              "meaning": "định cư"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "European",
+              "meaning": "thuộc châu Âu"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The arrival of European settlers dramatically changed the landscape of North America."
+      }
+    },
+    {
+      "id": "1761813174061-18-44-5675da6d",
+      "targetLexeme": "disappearance of prey species",
+      "sourceContext": "...loss of habitat along with the disappearance of prey species...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự biến mất của các loài mồi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌdɪsəˈpɪərəns əv preɪ ˈspiːʃiːz/",
+        "sentiment": "negative",
+        "definitionEN": "The fact that species of animals that are hunted for food no longer exist or cannot be found.",
+        "translationVI": "Sự biến mất của các loài con mồi",
+        "relatedCollocates": [
+          "species extinction",
+          "habitat loss",
+          "food source depletion"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "disappearance",
+              "meaning": "sự biến mất"
+            },
+            {
+              "form": "prey",
+              "meaning": "con mồi"
+            },
+            {
+              "form": "species",
+              "meaning": "loài"
+            }
+          ],
+          "verb": [
+            {
+              "form": "disappear",
+              "meaning": "biến mất"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The disappearance of prey species led to a decline in the population of local predators."
+      }
+    },
+    {
+      "id": "1761813174061-18-45-0e0f98f4",
+      "targetLexeme": "a distemper-like disease",
+      "sourceContext": "...and a distemper-like disease which also affected the thylacine.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một căn bệnh giống bệnh sài sốt"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə dɪˈstempər-laɪk dɪˈziːz/",
+        "sentiment": "negative",
+        "definitionEN": "An illness that has similar symptoms to distemper, a viral disease affecting animals like dogs.",
+        "translationVI": "Một căn bệnh giống bệnh sài sốt",
+        "relatedCollocates": [
+          "infectious disease",
+          "viral infection",
+          "flu-like symptoms"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "distemper",
+              "meaning": "bệnh sài sốt (ở chó)"
+            },
+            {
+              "form": "disease",
+              "meaning": "bệnh tật"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The wolf population was decimated by a distemper-like disease."
+      }
+    },
+    {
+      "id": "1761813174061-18-46-32a382a9",
+      "targetLexeme": "captivity",
+      "sourceContext": "There was no successful attempt to breed the thylacine in captivity.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tình trạng nuôi nhốt"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kæpˈtɪvəti/",
+        "sentiment": "neutral",
+        "definitionEN": "The condition of being imprisoned or confined.",
+        "translationVI": "Tình trạng bị giam cầm/nuôi nhốt",
+        "relatedCollocates": [
+          "bred in captivity",
+          "held in captivity",
+          "born in captivity"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "captivity",
+              "meaning": "sự nuôi nhốt"
+            },
+            {
+              "form": "captive",
+              "meaning": "tù nhân, con vật bị nhốt"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "captive",
+              "meaning": "bị giam cầm"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "These animals have never lived in the wild; they were born in captivity."
+      }
+    },
+    {
+      "id": "1761813174061-18-47-365ea908",
+      "targetLexeme": "particularly",
+      "sourceContext": "This was despite the large numbers that went through some zoos, particularly London Zoo and Tasmania's Hobart Zoo.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đặc biệt là"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pəˈtɪkjələli/",
+        "sentiment": "neutral",
+        "definitionEN": "Especially; more than usual or more than others.",
+        "translationVI": "Đặc biệt là, nhất là",
+        "relatedCollocates": [
+          "especially",
+          "in particular",
+          "notably"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "particular",
+              "meaning": "cụ thể, đặc biệt"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "particularly",
+              "meaning": "một cách đặc biệt"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I enjoy all types of music, but I particularly like classical."
+      }
+    },
+    {
+      "id": "1761813174061-18-48-001cd520",
+      "targetLexeme": "foresaw",
+      "sourceContext": "The famous naturalist John Gould foresaw the thylacine's demise when he published his Mammals of Australia...",
+      "phase1Inference": {
+        "contextualGuessVI": "Thấy trước"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fɔːˈsɔː/",
+        "sentiment": "neutral",
+        "definitionEN": "To see or know that something is going to happen in the future (past tense of foresee).",
+        "translationVI": "Thấy trước, đoán trước",
+        "relatedCollocates": [
+          "predict",
+          "anticipate",
+          "envisage"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "foresee (past: foresaw)",
+              "meaning": "thấy trước"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "foreseeable",
+              "meaning": "có thể thấy trước"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "No one could have foresaw the scale of the natural disaster."
+      }
+    },
+    {
+      "id": "1761813174061-18-49-1fa4949d",
+      "targetLexeme": "demise",
+      "sourceContext": "The famous naturalist John Gould foresaw the thylacine's demise when he published his Mammals of Australia...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự sụp đổ, cái chết"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈmaɪz/",
+        "sentiment": "negative",
+        "definitionEN": "The end or failure of an institution, an idea, a company, etc.; death.",
+        "translationVI": "Sự kết thúc, sự sụp đổ, cái chết",
+        "relatedCollocates": [
+          "sudden demise",
+          "lead to the demise of",
+          "untimely demise"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "demise",
+              "meaning": "sự sụp đổ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The rise of digital streaming led to the demise of video rental stores."
+      }
+    },
+    {
+      "id": "1761813174061-18-50-2eb4fab6",
+      "targetLexeme": "singular animal",
+      "sourceContext": "He wrote: ‘...this singular animal will speedily diminish...’",
+      "phase1Inference": {
+        "contextualGuessVI": "Động vật kỳ lạ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsɪŋɡjələr ˈænɪməl/",
+        "sentiment": "neutral",
+        "definitionEN": "An unusual, remarkable, or strange animal.",
+        "translationVI": "Loài vật đặc biệt/kỳ lạ",
+        "relatedCollocates": [
+          "unique creature",
+          "remarkable species",
+          "peculiar animal"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "animal",
+              "meaning": "động vật"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "singular",
+              "meaning": "kỳ lạ, đặc biệt"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The platypus is a truly singular animal, being a mammal that lays eggs."
+      }
+    },
+    {
+      "id": "1761813174061-18-51-04f4d589",
+      "targetLexeme": "extermination",
+      "sourceContext": "...the large Tasmanian marsupial will probably in a few years be hunted to extermination.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự tuyệt diệt"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˌstɜːmɪˈneɪʃn/",
+        "sentiment": "negative",
+        "definitionEN": "The act of killing all the members of a group of people or animals.",
+        "translationVI": "Sự tiêu diệt, sự hủy diệt",
+        "relatedCollocates": [
+          "annihilation",
+          "eradication",
+          "mass destruction"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "extermination",
+              "meaning": "sự tiêu diệt"
+            }
+          ],
+          "verb": [
+            {
+              "form": "exterminate",
+              "meaning": "tiêu diệt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The campaign for the extermination of the invasive species was controversial."
+      }
+    },
+    {
+      "id": "1761813174061-18-52-742d3be7",
+      "targetLexeme": "full sway",
+      "sourceContext": "When the comparatively small island of Tasmania is populated and the kangaroo is hunted for its skin, the numbers of this singular animal will speedily diminish, extermination will have its full sway...",
+      "phase1Inference": {
+        "contextualGuessVI": "Hoàn toàn thống trị"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fʊl sweɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "Complete control or influence over a situation.",
+        "translationVI": "Toàn quyền kiểm soát/ảnh hưởng",
+        "relatedCollocates": [
+          "hold sway",
+          "under the sway of",
+          "complete control"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "sway",
+              "meaning": "sự ảnh hưởng, sự kiểm soát"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "By the end of the evening, excitement had its full sway over the crowd."
+      }
+    },
+    {
+      "id": "1761813174061-18-53-5e8eade0",
+      "targetLexeme": "an animal of the past",
+      "sourceContext": "...and it will then be recorded as an animal of the past.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một loài vật của quá khứ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ən ˈænɪməl əv ðə pɑːst/",
+        "sentiment": "neutral",
+        "definitionEN": "An animal that no longer exists; an extinct animal.",
+        "translationVI": "Một loài vật của quá khứ",
+        "relatedCollocates": [
+          "a thing of the past",
+          "relic of the past",
+          "extinct species"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "animal",
+              "meaning": "động vật"
+            },
+            {
+              "form": "past",
+              "meaning": "quá khứ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Without conservation efforts, the majestic rhino could soon become an animal of the past."
+      }
+    },
+    {
+      "id": "1761813174061-18-54-0f1a319e",
+      "targetLexeme": "little public pressure",
+      "sourceContext": "There seems to have been little public pressure to halt the hunting of the thylacine...",
+      "phase1Inference": {
+        "contextualGuessVI": "Ít áp lực từ công chúng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlɪtl ˈpʌblɪk ˈpreʃər/",
+        "sentiment": "negative",
+        "definitionEN": "Not much effort from ordinary people to persuade or influence action on a particular issue.",
+        "translationVI": "Ít áp lực từ dư luận/công chúng",
+        "relatedCollocates": [
+          "public opinion",
+          "political pressure",
+          "social pressure"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "pressure",
+              "meaning": "áp lực"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "public",
+              "meaning": "công cộng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There was little public pressure to change the law until the media started reporting on the issue."
+      }
+    },
+    {
+      "id": "1761813174061-18-55-184174de",
+      "targetLexeme": "A notable exception",
+      "sourceContext": "A notable exception was T.T. Flynn, Professor of Biology at the University of Tasmania.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một ngoại lệ đáng chú ý"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈnəʊtəbl ɪkˈsepʃn/",
+        "sentiment": "positive",
+        "definitionEN": "A person or thing that is a significant example of not following a general rule or pattern.",
+        "translationVI": "Một ngoại lệ đáng chú ý",
+        "relatedCollocates": [
+          "a rare exception",
+          "with the exception of",
+          "make an exception"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "exception",
+              "meaning": "ngoại lệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "notable",
+              "meaning": "đáng chú ý"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Most students struggled with the exam, but Maria, with her perfect score, was a notable exception."
+      }
+    },
+    {
+      "id": "1761813174061-18-56-31cb01d8",
+      "targetLexeme": "concerned about",
+      "sourceContext": "In 1914, he was sufficiently concerned about the scarcity of the thylacine to suggest that some should be...",
+      "phase1Inference": {
+        "contextualGuessVI": "Lo lắng về"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kənˈsɜːnd əˈbaʊt/",
+        "sentiment": "negative",
+        "definitionEN": "Worried or anxious about something.",
+        "translationVI": "Quan ngại/lo lắng về",
+        "relatedCollocates": [
+          "worried about",
+          "anxious about",
+          "express concern about"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "concern",
+              "meaning": "mối lo ngại"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "concerned",
+              "meaning": "lo lắng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many people are concerned about the effects of climate change."
+      }
+    },
+    {
+      "id": "1761813174061-18-57-19d79ec4",
+      "targetLexeme": "it was not until",
+      "sourceContext": "But it was not until 1929, with the species on the very edge of extinction, that Tasmania's Animals...",
+      "phase1Inference": {
+        "contextualGuessVI": "Mãi cho đến khi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪt wɒz nɒt ənˈtɪl/",
+        "sentiment": "neutral",
+        "definitionEN": "A phrase used to emphasize that something did not happen before a particular time or event.",
+        "translationVI": "Mãi cho đến khi",
+        "relatedCollocates": [
+          "not until... that...",
+          "only when",
+          "it was only after"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It was not until he apologized that she agreed to speak to him again."
+      }
+    },
+    {
+      "id": "1761813174061-18-58-042d04b1",
+      "targetLexeme": "on the very edge of extinction",
+      "sourceContext": "But it was not until 1929, with the species on the very edge of extinction, that Tasmania's Animals...",
+      "phase1Inference": {
+        "contextualGuessVI": "Trên bờ vực tuyệt chủng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɒn ðə ˈveri edʒ əv ɪkˈstɪŋkʃn/",
+        "sentiment": "negative",
+        "definitionEN": "Extremely close to becoming extinct.",
+        "translationVI": "Trên bờ vực tuyệt chủng",
+        "relatedCollocates": [
+          "on the brink of extinction",
+          "critically endangered",
+          "facing extinction"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "edge",
+              "meaning": "bờ, rìa"
+            },
+            {
+              "form": "extinction",
+              "meaning": "sự tuyệt chủng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The giant panda was once on the very edge of extinction, but conservation efforts have helped its population recover."
+      }
+    },
+    {
+      "id": "1761813174061-18-59-0fb80cf5",
+      "targetLexeme": "a motion protecting",
+      "sourceContext": "...that Tasmania's Animals and Birds' Protection Board passed a motion protecting thylacines...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một kiến nghị bảo vệ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈməʊʃn prəˈtektɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "A formal proposal put to a legislature or committee that is intended to provide legal protection.",
+        "translationVI": "Một kiến nghị/đề xuất nhằm bảo vệ",
+        "relatedCollocates": [
+          "pass a motion",
+          "propose a motion",
+          "environmental protection"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "motion",
+              "meaning": "kiến nghị"
+            }
+          ],
+          "verb": [
+            {
+              "form": "protect",
+              "meaning": "bảo vệ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The council passed a motion protecting the historic building from demolition."
+      }
+    },
+    {
+      "id": "1761813174061-18-60-1d90791a",
+      "targetLexeme": "captive specimens",
+      "sourceContext": "The last known wild thylacine to be killed was shot by a farmer in the north-east of Tasmania... The last of the captive specimens, a thylacine known as ‘Benjamin’, died in Hobart Zoo in 1936.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các mẫu vật bị nuôi nhốt"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkæptɪv ˈspesɪmənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Individual animals that are kept in confinement, such as in a zoo or research facility, rather than in their natural habitat.",
+        "translationVI": "Các mẫu vật bị nuôi nhốt",
+        "relatedCollocates": [
+          "wild specimens",
+          "zoo animals",
+          "biological samples"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "specimen",
+              "meaning": "mẫu vật"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "captive",
+              "meaning": "bị giam cầm"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Scientists study captive specimens to learn more about the species' behavior without disturbing wild populations."
+      }
+    },
+    {
+      "id": "1761813174061-18-61-743d55f1",
+      "targetLexeme": "numerous expeditions",
+      "sourceContext": "Over the next 50 years, numerous expeditions were mounted to search for the thylacine...",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhiều cuộc thám hiểm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈnjuːmərəs ˌekspəˈdɪʃnz/",
+        "sentiment": "neutral",
+        "definitionEN": "A large number of journeys undertaken by a group of people with a particular purpose, especially that of exploration, research, or war.",
+        "translationVI": "Nhiều cuộc thám hiểm",
+        "relatedCollocates": [
+          "scientific expedition",
+          "exploration trip",
+          "many journeys"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "expedition",
+              "meaning": "cuộc thám hiểm"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "numerous",
+              "meaning": "nhiều, đông đảo"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Numerous expeditions have attempted to reach the summit of Mount Everest."
+      }
+    },
+    {
+      "id": "1761813174061-18-62-6ced30ad",
+      "targetLexeme": "definitive evidence",
+      "sourceContext": "...but no definitive evidence of the thylacine's continued existence was ever found.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bằng chứng cuối cùng/rõ ràng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈfɪnətɪv ˈevɪdəns/",
+        "sentiment": "positive",
+        "definitionEN": "Information or proof that is final, conclusive, and cannot be disputed.",
+        "translationVI": "Bằng chứng xác thực/cuối cùng",
+        "relatedCollocates": [
+          "conclusive proof",
+          "irrefutable evidence",
+          "concrete evidence"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "evidence",
+              "meaning": "bằng chứng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "definitive",
+              "meaning": "cuối cùng, quyết định"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The detective was still searching for definitive evidence to solve the case."
+      }
+    },
+    {
+      "id": "1761813174061-18-63-2c0d70dd",
+      "targetLexeme": "indications",
+      "sourceContext": "There are indications that breeding took place throughout the year...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những dấu hiệu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌɪndɪˈkeɪʃnz/",
+        "sentiment": "neutral",
+        "definitionEN": "Signs or pieces of information that point to or suggest something.",
+        "translationVI": "Dấu hiệu, sự biểu thị",
+        "relatedCollocates": [
+          "clear indications",
+          "early signs",
+          "strong evidence"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "indication",
+              "meaning": "dấu hiệu"
+            }
+          ],
+          "verb": [
+            {
+              "form": "indicate",
+              "meaning": "chỉ ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Dark clouds are often an indication of an approaching storm."
+      }
+    },
+    {
+      "id": "1761813174061-18-64-4f6e8536",
+      "targetLexeme": "a shy, nervous temperament",
+      "sourceContext": "Despite the common name ‘tiger', the thylacine had a shy, nervous temperament.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tính khí nhút nhát, hay lo lắng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ʃaɪ, ˈnɜːvəs ˈtemprəmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "A personality that is characterized by being timid and easily worried or frightened.",
+        "translationVI": "Tính khí nhút nhát, hay lo lắng",
+        "relatedCollocates": [
+          "gentle nature",
+          "calm disposition",
+          "anxious personality"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "temperament",
+              "meaning": "tính khí"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "shy",
+              "meaning": "nhút nhát"
+            },
+            {
+              "form": "nervous",
+              "meaning": "lo lắng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Our rescue dog has a shy, nervous temperament and is scared of loud noises."
+      }
+    },
+    {
+      "id": "1761813174061-18-65-63eb95f5",
+      "targetLexeme": "mainly nocturnal",
+      "sourceContext": "Although mainly nocturnal, it was sighted moving during the day...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chủ yếu hoạt động về đêm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmeɪnli nɒkˈtɜːnl/",
+        "sentiment": "neutral",
+        "definitionEN": "Primarily active during the night.",
+        "translationVI": "Chủ yếu hoạt động về đêm",
+        "relatedCollocates": [
+          "mostly active at night",
+          "nocturnal animal",
+          "diurnal"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "nocturnal",
+              "meaning": "thuộc về đêm"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "mainly",
+              "meaning": "chủ yếu"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Owls are mainly nocturnal, hunting for their prey under the cover of darkness."
+      }
+    },
+    {
+      "id": "1761813174061-18-66-7b8cf2e2",
+      "targetLexeme": "it is likely that various other factors also contributed to",
+      "sourceContext": "While this determined campaign undoubtedly played a large part, it is likely that various other factors also contributed to the decline and eventual extinction...",
+      "phase1Inference": {
+        "contextualGuessVI": "Có khả năng là nhiều yếu tố khác cũng đã góp phần vào"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪt ɪz ˈlaɪkli ðæt ˈveəriəs ˈʌðər ˈfæktərz ˈɔːlsəʊ kənˈtrɪbjuːtɪd tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "There is a strong probability that several different elements also played a part in causing something.",
+        "translationVI": "Có khả năng là nhiều yếu tố khác cũng đã góp phần vào",
+        "relatedCollocates": [
+          "it is probable that",
+          "it seems that",
+          "played a role in"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "contribute to",
+              "meaning": "góp phần vào"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "likely",
+              "meaning": "có khả năng"
+            },
+            {
+              "form": "various",
+              "meaning": "nhiều, khác nhau"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "While the main cause was a mechanical failure, it is likely that various other factors also contributed to the accident."
+      }
+    },
+    {
+      "id": "1761813174061-18-67-1d65aa55",
+      "targetLexeme": "sighted moving",
+      "sourceContext": "Although mainly nocturnal, it was sighted moving during the day...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được nhìn thấy đang di chuyển"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsaɪtɪd ˈmuːvɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "Was seen while in the act of moving.",
+        "translationVI": "Được nhìn thấy đang di chuyển",
+        "relatedCollocates": [
+          "spotted",
+          "observed",
+          "seen"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "sight (past: sighted)",
+              "meaning": "nhìn thấy"
+            },
+            {
+              "form": "move",
+              "meaning": "di chuyển"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The rare bird was sighted moving through the trees by a group of birdwatchers."
+      }
+    },
+    {
+      "id": "1761813174061-18-68-0ff96847",
+      "targetLexeme": "a deep rocky cave",
+      "sourceContext": "When old enough to leave the pouch, the young stayed in a lair such as a deep rocky cave...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một hang đá sâu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə diːp ˈrɒki keɪv/",
+        "sentiment": "neutral",
+        "definitionEN": "A large natural underground chamber in a hillside or cliff made of rock that extends far down or in.",
+        "translationVI": "Một hang đá sâu",
+        "relatedCollocates": [
+          "dark cave",
+          "limestone cave",
+          "underground cavern"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "cave",
+              "meaning": "hang động"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "deep",
+              "meaning": "sâu"
+            },
+            {
+              "form": "rocky",
+              "meaning": "nhiều đá"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ancient paintings were discovered inside a deep rocky cave."
+      }
+    },
+    {
+      "id": "1761813174061-18-69-7b505af7",
+      "targetLexeme": "well-hidden nest",
+      "sourceContext": "...a deep rocky cave, a hollow log, or a well-hidden nest.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một cái tổ được giấu kỹ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wel-ˈhɪdn nest/",
+        "sentiment": "neutral",
+        "definitionEN": "A structure built by a bird or other animal to hold its eggs and young, which is concealed very effectively.",
+        "translationVI": "Tổ được che giấu kỹ",
+        "relatedCollocates": [
+          "cleverly concealed",
+          "secret hiding place",
+          "camouflaged"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "nest",
+              "meaning": "tổ"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "hidden",
+              "meaning": "bị giấu"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "well",
+              "meaning": "tốt, kỹ"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The bird built a well-hidden nest high up in the thick branches of the tree."
+      }
+    },
+    {
+      "id": "1761813174061-18-70-6f9c370d",
+      "targetLexeme": "speedily diminish",
+      "sourceContext": "‘...this singular animal will speedily diminish...’",
+      "phase1Inference": {
+        "contextualGuessVI": "Giảm sút nhanh chóng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈspiːdɪli dɪˈmɪnɪʃ/",
+        "sentiment": "negative",
+        "definitionEN": "To reduce or become smaller in size, amount, or importance very quickly.",
+        "translationVI": "Giảm đi nhanh chóng",
+        "relatedCollocates": [
+          "rapidly decrease",
+          "quickly dwindle",
+          "decline swiftly"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "diminish",
+              "meaning": "giảm bớt"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "speedily",
+              "meaning": "một cách nhanh chóng"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "As the sun set, the light began to speedily diminish."
+      }
+    },
+    {
+      "id": "1761813174061-18-71-5670b52f",
+      "targetLexeme": "a marsupial",
+      "sourceContext": "The extinct thylacine, also known as the Tasmanian tiger, was a marsupial* that bore a superficial resemblance to...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một loài thú có túi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə mɑːˈsuːpiəl/",
+        "sentiment": "neutral",
+        "definitionEN": "A type of mammal, such as a kangaroo or koala, that carries its young in a pouch on the mother's belly.",
+        "translationVI": "Một loài thú có túi",
+        "relatedCollocates": [
+          "placental mammal",
+          "monotreme",
+          "pouched animal"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "marsupial",
+              "meaning": "thú có túi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The kangaroo is perhaps the most famous example of a marsupial."
+      }
+    },
+    {
+      "id": "1761813174061-18-72-01fbbd1f",
+      "targetLexeme": "nose-to-tail length",
+      "sourceContext": "The thylacine's average nose-to-tail length for adult males was 162.6 cm...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chiều dài từ mũi đến đuôi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/nəʊz-tuː-teɪl leŋθ/",
+        "sentiment": "neutral",
+        "definitionEN": "The measurement of an animal from the tip of its nose to the end of its tail.",
+        "translationVI": "Chiều dài từ mũi đến đuôi",
+        "relatedCollocates": [
+          "total length",
+          "body length",
+          "head-to-tail"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "nose",
+              "meaning": "mũi"
+            },
+            {
+              "form": "tail",
+              "meaning": "đuôi"
+            },
+            {
+              "form": "length",
+              "meaning": "chiều dài"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The crocodile's impressive nose-to-tail length was over four meters."
+      }
+    },
+    {
+      "id": "1761813174061-18-73-373b55e3",
+      "targetLexeme": "exclusively carnivorous",
+      "sourceContext": "In terms of feeding, it was exclusively carnivorous...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chỉ ăn thịt"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˈskluːsɪvli kɑːˈnɪvərəs/",
+        "sentiment": "neutral",
+        "definitionEN": "Eating only meat and nothing else.",
+        "translationVI": "Hoàn toàn ăn thịt",
+        "relatedCollocates": [
+          "strictly herbivorous",
+          "omnivorous diet",
+          "meat-eater"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "carnivore",
+              "meaning": "động vật ăn thịt"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "carnivorous",
+              "meaning": "thuộc loài ăn thịt"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "exclusively",
+              "meaning": "chỉ, riêng"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Unlike bears which are omnivores, lions are exclusively carnivorous."
+      }
+    },
+    {
+      "id": "1761813174061-18-74-1549d3e1",
+      "targetLexeme": "exhausting",
+      "sourceContext": "...caught its prey by exhausting it during a long pursuit.",
+      "phase1Inference": {
+        "contextualGuessVI": "Làm kiệt sức"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪɡˈzɔːstɪŋ/",
+        "sentiment": "negative",
+        "definitionEN": "Making someone feel extremely tired.",
+        "translationVI": "Làm kiệt sức",
+        "relatedCollocates": [
+          "tiring out",
+          "wearing down",
+          "fatiguing"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "exhaustion",
+              "meaning": "sự kiệt sức"
+            }
+          ],
+          "verb": [
+            {
+              "form": "exhaust",
+              "meaning": "làm kiệt sức"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "exhausting",
+              "meaning": "gây kiệt sức"
+            },
+            {
+              "form": "exhausted",
+              "meaning": "bị kiệt sức"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The wolf pack hunted by exhausting the deer over many miles."
+      }
+    },
+    {
+      "id": "1761813174061-18-75-5d55709f",
+      "targetLexeme": "long-distance chases",
+      "sourceContext": "During long-distance chases, thylacines were likely to have relied more on scent...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những cuộc rượt đuổi đường dài"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlɒŋ-ˈdɪstəns ˈtʃeɪsɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "Pursuits that cover a great distance.",
+        "translationVI": "Những cuộc rượt đuổi đường dài",
+        "relatedCollocates": [
+          "high-speed chases",
+          "endurance running",
+          "marathon"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "chase",
+              "meaning": "cuộc rượt đuổi"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "long-distance",
+              "meaning": "đường dài"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Persistence hunting involves long-distance chases to tire out the prey."
+      }
+    },
+    {
+      "id": "1761813174061-18-76-29ec6e4a",
+      "targetLexeme": "likely to",
+      "sourceContext": "...thylacines were likely to have relied more on scent...",
+      "phase1Inference": {
+        "contextualGuessVI": "Có khả năng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlaɪkli tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "Probably will; having a strong chance of happening.",
+        "translationVI": "Có khả năng",
+        "relatedCollocates": [
+          "probably",
+          "apt to",
+          "inclined to"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "likelihood",
+              "meaning": "khả năng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "likely",
+              "meaning": "có khả năng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "If you don't water the plants, they are likely to die."
+      }
+    },
+    {
+      "id": "1761813174061-18-77-52552093",
+      "targetLexeme": "took place",
+      "sourceContext": "There are indications that breeding took place throughout the year...",
+      "phase1Inference": {
+        "contextualGuessVI": "Diễn ra"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tʊk pleɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "To happen or occur (past tense of take place).",
+        "translationVI": "Diễn ra, xảy ra",
+        "relatedCollocates": [
+          "occurred",
+          "happened",
+          "came about"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "take place (past: took place)",
+              "meaning": "diễn ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The meeting took place in the main conference room."
+      }
+    },
+    {
+      "id": "1761813174061-18-78-5b5ae766",
+      "targetLexeme": "widespread throughout",
+      "sourceContext": "Approximately 4,000 years ago, the thylacine became widespread throughout mainland Australia...",
+      "phase1Inference": {
+        "contextualGuessVI": "Phổ biến khắp"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwaɪdspred θruːˈaʊt/",
+        "sentiment": "neutral",
+        "definitionEN": "Existing or happening in all parts of a particular area.",
+        "translationVI": "Lan rộng/phổ biến khắp",
+        "relatedCollocates": [
+          "common throughout",
+          "prevalent across",
+          "found all over"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "widespread",
+              "meaning": "lan rộng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The use of mobile phones is now widespread throughout the world."
+      }
+    },
+    {
+      "id": "1761813174061-18-79-57c22fcd",
+      "targetLexeme": "coincided closely with",
+      "sourceContext": "Its extinction coincided closely with the arrival of wild dogs called dingoes...",
+      "phase1Inference": {
+        "contextualGuessVI": "Trùng hợp chặt chẽ với"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌkəʊɪnˈsaɪdɪd ˈkləʊsli wɪð/",
+        "sentiment": "neutral",
+        "definitionEN": "To have happened at or near the same time as something else.",
+        "translationVI": "Trùng khớp chặt chẽ với",
+        "relatedCollocates": [
+          "occurred at the same time as",
+          "happened in conjunction with",
+          "closely correlated with"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "coincidence",
+              "meaning": "sự trùng hợp"
+            }
+          ],
+          "verb": [
+            {
+              "form": "coincide (past: coincided)",
+              "meaning": "trùng hợp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The sharp increase in sales coincided closely with their new marketing campaign."
+      }
+    },
+    {
+      "id": "1761813174061-18-80-46a2632a",
+      "targetLexeme": "the decline and eventual extinction",
+      "sourceContext": "...various other factors also contributed to the decline and eventual extinction of the species.",
+      "phase1Inference": {
+        "contextualGuessVI": "sự suy tàn và cuối cùng là tuyệt chủng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə dɪˈklaɪn ənd ɪˈventʃuəl ɪkˈstɪŋkʃn/",
+        "sentiment": "negative",
+        "definitionEN": "The process of becoming less in number or quality, leading ultimately to the complete dying out of a species.",
+        "translationVI": "Sự suy giảm và tuyệt chủng cuối cùng",
+        "relatedCollocates": [
+          "gradual decline",
+          "population crash",
+          "path to extinction"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "decline",
+              "meaning": "sự suy giảm"
+            },
+            {
+              "form": "extinction",
+              "meaning": "sự tuyệt chủng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "eventual",
+              "meaning": "cuối cùng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Habitat loss is a major factor in the decline and eventual extinction of many species."
+      }
+    },
+    {
+      "id": "1761813174061-18-81-79a39188",
+      "targetLexeme": "loss of habitat",
+      "sourceContext": "...loss of habitat along with the disappearance of prey species...",
+      "phase1Inference": {
+        "contextualGuessVI": "mất môi trường sống"
+      },
+      "phase2Annotation": {
+        "phonetic": "/lɒs əv ˈhæbɪtæt/",
+        "sentiment": "negative",
+        "definitionEN": "The destruction or reduction of the natural environment where an organism lives.",
+        "translationVI": "Sự mất môi trường sống",
+        "relatedCollocates": [
+          "habitat destruction",
+          "deforestation",
+          "habitat fragmentation"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "loss",
+              "meaning": "sự mất mát"
+            },
+            {
+              "form": "habitat",
+              "meaning": "môi trường sống"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The primary threat to the orangutan is the loss of habitat due to palm oil plantations."
+      }
+    },
+    {
+      "id": "1761813174061-18-82-22e09e0b",
+      "targetLexeme": "along with",
+      "sourceContext": "...loss of habitat along with the disappearance of prey species...",
+      "phase1Inference": {
+        "contextualGuessVI": "cùng với"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈlɒŋ wɪð/",
+        "sentiment": "neutral",
+        "definitionEN": "In addition to someone or something; together with.",
+        "translationVI": "Cùng với",
+        "relatedCollocates": [
+          "together with",
+          "in addition to",
+          "as well as"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He submitted his report along with a set of recommendations."
+      }
+    },
+    {
+      "id": "1761813174061-18-83-3998577b",
+      "targetLexeme": "successful attempt to",
+      "sourceContext": "There was no successful attempt to breed the thylacine in captivity.",
+      "phase1Inference": {
+        "contextualGuessVI": "nỗ lực thành công để"
+      },
+      "phase2Annotation": {
+        "phonetic": "/səkˈsesfl əˈtempt tuː/",
+        "sentiment": "positive",
+        "definitionEN": "An effort to do something that achieves the desired result.",
+        "translationVI": "Nỗ lực thành công để",
+        "relatedCollocates": [
+          "failed attempt",
+          "make an attempt",
+          "a valiant effort"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "attempt",
+              "meaning": "sự cố gắng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "successful",
+              "meaning": "thành công"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After several tries, it was the first successful attempt to launch the rocket into orbit."
+      }
+    },
+    {
+      "id": "1761813174061-18-84-72243dbc",
+      "targetLexeme": "there seems to",
+      "sourceContext": "There seems to have been little public pressure to halt the hunting...",
+      "phase1Inference": {
+        "contextualGuessVI": "dường như"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðeər siːmz tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "It appears that; it gives the impression of being.",
+        "translationVI": "Dường như, có vẻ như",
+        "relatedCollocates": [
+          "it appears to be",
+          "it would seem that",
+          "it looks like"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There seems to be a misunderstanding about the schedule."
+      }
+    },
+    {
+      "id": "1761813174061-18-85-06708ea4",
+      "targetLexeme": "expressed by",
+      "sourceContext": "...and any concern expressed by scientists was ignored.",
+      "phase1Inference": {
+        "contextualGuessVI": "được bày tỏ bởi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˈsprest baɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "Stated or shown by someone.",
+        "translationVI": "Được bày tỏ/thể hiện bởi",
+        "relatedCollocates": [
+          "voiced by",
+          "stated by",
+          "shown by"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "express (past: expressed)",
+              "meaning": "bày tỏ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The concerns expressed by the parents were taken seriously by the school."
+      }
+    },
+    {
+      "id": "1761813174061-18-86-432e8ba3",
+      "targetLexeme": "none of",
+      "sourceContext": "Over the next 50 years, numerous expeditions were mounted to search for the thylacine, but none of the expeditions was successful.",
+      "phase1Inference": {
+        "contextualGuessVI": "không có ai/cái nào trong số"
+      },
+      "phase2Annotation": {
+        "phonetic": "/nʌn əv/",
+        "sentiment": "neutral",
+        "definitionEN": "Not one of a group of people or things.",
+        "translationVI": "Không ai/cái nào trong số",
+        "relatedCollocates": [
+          "not any of",
+          "not one of",
+          "zero"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I invited many friends to the party, but none of them could come."
+      }
+    }
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.061Z",
+    "version": "2.0",
+    "originalCount": 87,
+    "migratedCount": 87
+  }
+}

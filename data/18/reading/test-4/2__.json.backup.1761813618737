@@ -1,0 +1,3492 @@
+{
+  "logTitle": "IELTS Reading Log: The growth mindset",
+  "sourceId": "Reading Passage (Image)",
+  "totalItems": 105,
+  "lexicalItems": [
+    {
+      "id": "1761813174100-34-0-340d0cdd",
+      "targetLexeme": "has taken root",
+      "sourceContext": "Over the past century, a powerful idea has taken root in the educational landscape.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã bén rễ, trở nên vững chắc"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hæz ˈteɪkən ruːt/",
+        "sentiment": "positive",
+        "definitionEN": "To become established and accepted.",
+        "translationVI": "Đã bén rễ",
+        "relatedCollocates": [
+          "become established",
+          "become widespread"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "take root",
+              "meaning": "bén rễ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The concept of lifelong learning has taken root in modern society."
+      }
+    },
+    {
+      "id": "1761813174100-34-1-127ecbd8",
+      "targetLexeme": "educational landscape",
+      "sourceContext": "...a powerful idea has taken root in the educational landscape.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bối cảnh giáo dục"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌedʒuˈkeɪʃənl ˈlændskeɪp/",
+        "sentiment": "neutral",
+        "definitionEN": "The overall state and environment of education in a particular place or time.",
+        "translationVI": "Bối cảnh giáo dục",
+        "relatedCollocates": [
+          "academic environment",
+          "educational sphere"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "landscape",
+              "meaning": "phong cảnh, bối cảnh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Online courses have significantly changed the educational landscape."
+      }
+    },
+    {
+      "id": "1761813174100-34-2-491a3f8b",
+      "targetLexeme": "innate",
+      "sourceContext": "The concept of intelligence as something innate has been supplanted by the idea that intelligence is not fixed...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bẩm sinh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪˈneɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "Inborn; natural.",
+        "translationVI": "Bẩm sinh",
+        "relatedCollocates": [
+          "inborn",
+          "natural",
+          "inherent"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "innate",
+              "meaning": "bẩm sinh"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She has an innate talent for music."
+      }
+    },
+    {
+      "id": "1761813174100-34-3-1d4eae08",
+      "targetLexeme": "has been supplanted by",
+      "sourceContext": "The concept of intelligence as something innate has been supplanted by the idea that intelligence is not fixed...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã bị thay thế bởi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hæz bɪn səˈplɑːntɪd baɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "To have been replaced by something else, often something newer or better.",
+        "translationVI": "Đã bị thay thế bởi",
+        "relatedCollocates": [
+          "replaced by",
+          "superseded by"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "supplant",
+              "meaning": "thay thế"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In many industries, manual labor has been supplanted by automation."
+      }
+    },
+    {
+      "id": "1761813174100-34-4-7a829155",
+      "targetLexeme": "intelligence is not fixed",
+      "sourceContext": "...the idea that intelligence is not fixed, and that, with the right training, we can be the authors of our own cognitive capabilities.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trí thông minh không cố định"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈtelɪdʒəns ɪz nɒt fɪkst/",
+        "sentiment": "positive",
+        "definitionEN": "The belief that intellectual ability is not a permanent, unchangeable trait.",
+        "translationVI": "Trí thông minh không cố định",
+        "relatedCollocates": [
+          "malleable intelligence",
+          "changeable"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "fixed",
+              "meaning": "cố định"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The core of her teaching philosophy is the belief that intelligence is not fixed."
+      }
+    },
+    {
+      "id": "1761813174100-34-5-51c13fa4",
+      "targetLexeme": "cognitive capabilities",
+      "sourceContext": "...we can be the authors of our own cognitive capabilities.",
+      "phase1Inference": {
+        "contextualGuessVI": "Năng lực nhận thức"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkɒɡnətɪv ˌkeɪpəˈbɪlətiz/",
+        "sentiment": "neutral",
+        "definitionEN": "The mental abilities and skills related to thinking, reasoning, remembering, and problem-solving.",
+        "translationVI": "Năng lực nhận thức",
+        "relatedCollocates": [
+          "mental abilities",
+          "intellectual skills"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "capability",
+              "meaning": "năng lực"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Playing chess can help to improve one's cognitive capabilities."
+      }
+    },
+    {
+      "id": "1761813174100-34-6-305112ea",
+      "targetLexeme": "quantify cognitive ability",
+      "sourceContext": "...was one of many 19th-century scientists who held that earlier view and sought to quantify cognitive ability.",
+      "phase1Inference": {
+        "contextualGuessVI": "Định lượng khả năng nhận thức"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkwɒntɪfaɪ ˈkɒɡnətɪv əˈbɪləti/",
+        "sentiment": "neutral",
+        "definitionEN": "To measure and express the mental capacity for thought and reasoning as a quantity.",
+        "translationVI": "Định lượng khả năng nhận thức",
+        "relatedCollocates": [
+          "measure intelligence",
+          "assess ability"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "quantify",
+              "meaning": "định lượng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Intelligence tests are designed to quantify cognitive ability."
+      }
+    },
+    {
+      "id": "1761813174100-34-7-658914bb",
+      "targetLexeme": "progressive thinkers",
+      "sourceContext": "Then, in the early 20th century, progressive thinkers such as John Dewey argued that every child’s intelligence could be developed, given the right environment.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các nhà tư tưởng tiến bộ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/prəˈɡresɪv ˈθɪŋkəz/",
+        "sentiment": "positive",
+        "definitionEN": "People who favor or advocate for social reform or new, liberal ideas.",
+        "translationVI": "Các nhà tư tưởng tiến bộ",
+        "relatedCollocates": [
+          "reformers",
+          "innovators"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "thinker",
+              "meaning": "nhà tư tưởng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Progressive thinkers of the era called for major reforms in education and public health."
+      }
+    },
+    {
+      "id": "1761813174100-34-8-52ac38e1",
+      "targetLexeme": "inherent ability is destiny",
+      "sourceContext": "Instead, educators such as John Dewey revolted against the notion that inherent ability is destiny.",
+      "phase1Inference": {
+        "contextualGuessVI": "Năng lực bẩm sinh là định mệnh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈherənt əˈbɪləti ɪz ˈdestəni/",
+        "sentiment": "negative",
+        "definitionEN": "The idea that one's natural, inborn talent predetermines one's future.",
+        "translationVI": "Năng lực bẩm sinh là định mệnh",
+        "relatedCollocates": [
+          "predestination",
+          "innate talent"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "inherent",
+              "meaning": "vốn có, bẩm sinh"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He rejected the fatalistic idea that inherent ability is destiny."
+      }
+    },
+    {
+      "id": "1761813174100-34-9-41f723c7",
+      "targetLexeme": "coaxing students away from",
+      "sourceContext": "A major focus of the growth mindset in schools is coaxing students away from seeing failure as an indication of their ability...",
+      "phase1Inference": {
+        "contextualGuessVI": "Dỗ dành học sinh tránh xa việc..."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkəʊksɪŋ ˈstjuːdənts əˈweɪ frəm/",
+        "sentiment": "positive",
+        "definitionEN": "Gently persuading students to move away from a particular belief or behavior.",
+        "translationVI": "Dỗ dành học sinh tránh xa",
+        "relatedCollocates": [
+          "persuading",
+          "encouraging to avoid"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "coax",
+              "meaning": "dỗ dành, thuyết phục"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The therapist's job involved coaxing patients away from their negative thought patterns."
+      }
+    },
+    {
+      "id": "1761813174100-34-10-11294304",
+      "targetLexeme": "seeing failure as an indication of their ability",
+      "sourceContext": "...coaxing students away from seeing failure as an indication of their ability, and towards seeing it as a chance to improve that ability.",
+      "phase1Inference": {
+        "contextualGuessVI": "Coi thất bại là một dấu hiệu của năng lực"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsiːɪŋ ˈfeɪljər æz ən ˌɪndɪˈkeɪʃn əv ðeər əˈbɪləti/",
+        "sentiment": "negative",
+        "definitionEN": "Viewing a lack of success as a sign or measure of one's innate talent or skill.",
+        "translationVI": "Coi thất bại là dấu hiệu cho thấy năng lực",
+        "relatedCollocates": [
+          "equating failure with inability",
+          "fixed mindset view"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "indication",
+              "meaning": "sự biểu thị, dấu hiệu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A fixed mindset often leads to seeing failure as an indication of one's ability, rather than a lack of effort."
+      }
+    },
+    {
+      "id": "1761813174100-34-11-50d09ca3",
+      "targetLexeme": "instilled with a 'growth mindset'",
+      "sourceContext": "The second group – those who had been instilled with a ‘growth mindset’ – were subsequently far more likely to put effort into future tasks...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được thấm nhuần 'tư duy phát triển'"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈstɪld wɪð ə ɡrəʊθ ˈmaɪndset/",
+        "sentiment": "positive",
+        "definitionEN": "To have been gradually but firmly established with the belief that abilities can be developed.",
+        "translationVI": "Được thấm nhuần 'tư duy phát triển'",
+        "relatedCollocates": [
+          "imbued with",
+          "taught to believe in"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "instil",
+              "meaning": "truyền thụ, làm cho thấm nhuần"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The coach instilled his players with a growth mindset, encouraging them to learn from their mistakes."
+      }
+    },
+    {
+      "id": "1761813174100-34-12-46c6a269",
+      "targetLexeme": "subsequently",
+      "sourceContext": "...were subsequently far more likely to put effort into future tasks...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sau đó"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsʌbsɪkwəntli/",
+        "sentiment": "neutral",
+        "definitionEN": "After a particular thing has happened; afterwards.",
+        "translationVI": "Sau đó, rồi thì",
+        "relatedCollocates": [
+          "afterwards",
+          "later",
+          "following that"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "subsequently",
+              "meaning": "sau đó"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He was badly injured in the crash and subsequently died."
+      }
+    },
+    {
+      "id": "1761813174100-34-13-00d5aa90",
+      "targetLexeme": "risk their sense of worth",
+      "sourceContext": "Meanwhile, the former took on only those tasks that would not risk their sense of worth.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mạo hiểm cảm giác về giá trị bản thân"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪsk ðeə sens əv wɜːθ/",
+        "sentiment": "negative",
+        "definitionEN": "To endanger their feeling of self-esteem or self-value.",
+        "translationVI": "Mạo hiểm cảm giác về giá trị bản thân",
+        "relatedCollocates": [
+          "jeopardize self-esteem",
+          "threaten one's ego"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "sense of worth",
+              "meaning": "giá trị bản thân"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "People with a fixed mindset avoid challenges because they don't want to risk their sense of worth."
+      }
+    },
+    {
+      "id": "1761813174100-34-14-28cd6b97",
+      "targetLexeme": "due to innate ability",
+      "sourceContext": "This group had inferred that success or failure is due to innate ability...",
+      "phase1Inference": {
+        "contextualGuessVI": "Do năng lực bẩm sinh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/djuː tuː ɪˈneɪt əˈbɪləti/",
+        "sentiment": "neutral",
+        "definitionEN": "Because of a natural, inborn talent or skill.",
+        "translationVI": "Do năng lực bẩm sinh",
+        "relatedCollocates": [
+          "because of inherent talent",
+          "as a result of natural skill"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "innate",
+              "meaning": "bẩm sinh"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "They believed their success was due to innate ability, not hard work."
+      }
+    },
+    {
+      "id": "1761813174100-34-15-5675c3d2",
+      "targetLexeme": "emphasised that change was possible",
+      "sourceContext": "...while praising effort emphasised that change was possible.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhấn mạnh rằng sự thay đổi là có thể"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈemfəsaɪzd ðæt tʃeɪndʒ wəz ˈpɒsəbl/",
+        "sentiment": "positive",
+        "definitionEN": "To give special importance or prominence to the idea that improvement and development can occur.",
+        "translationVI": "Nhấn mạnh rằng sự thay đổi là có thể",
+        "relatedCollocates": [
+          "highlighted the possibility of change",
+          "stressed that improvement is achievable"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "emphasise",
+              "meaning": "nhấn mạnh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The therapist emphasised that change was possible with dedication and the right strategies."
+      }
+    },
+    {
+      "id": "1761813174100-34-16-04c6234d",
+      "targetLexeme": "greatest impediments",
+      "sourceContext": "One of the greatest impediments to successfully implementing a growth mindset, however, is the education system itself...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những trở ngại lớn nhất"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɡreɪtɪst ɪmˈpedɪmənts/",
+        "sentiment": "negative",
+        "definitionEN": "The biggest obstacles or things that delay or prevent progress.",
+        "translationVI": "Những trở ngại lớn nhất",
+        "relatedCollocates": [
+          "major obstacles",
+          "biggest hurdles"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "impediment",
+              "meaning": "trở ngại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A lack of funding is one of the greatest impediments to scientific research."
+      }
+    },
+    {
+      "id": "1761813174100-34-17-30635d15",
+      "targetLexeme": "obsessed with performance",
+      "sourceContext": "...the school climate is obsessed with performance in the form of constant testing, analysing and ranking of students...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị ám ảnh bởi thành tích"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əbˈsest wɪð pəˈfɔːməns/",
+        "sentiment": "negative",
+        "definitionEN": "To be overly and unhealthily preoccupied with results and achievement.",
+        "translationVI": "Bị ám ảnh bởi thành tích",
+        "relatedCollocates": [
+          "fixated on results",
+          "preoccupied with achievement"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "obsess",
+              "meaning": "ám ảnh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Modern sporting culture has become obsessed with performance statistics."
+      }
+    },
+    {
+      "id": "1761813174100-34-18-1e7c61b7",
+      "targetLexeme": "cognitive dissonance",
+      "sourceContext": "Nor is it unusual for schools to create a certain cognitive dissonance, when they applaud the benefits of a growth mindset but then hand out fixed target grades based on performance.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bất hòa nhận thức"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkɒɡnətɪv ˈdɪsənəns/",
+        "sentiment": "negative",
+        "definitionEN": "The state of having inconsistent thoughts, beliefs, or attitudes, especially as relating to behavioral decisions and attitude change.",
+        "translationVI": "Bất hòa nhận thức",
+        "relatedCollocates": [
+          "mental conflict",
+          "contradictory beliefs"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "dissonance",
+              "meaning": "sự không hòa hợp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Smokers often experience cognitive dissonance, knowing that smoking is harmful but continuing to do it."
+      }
+    },
+    {
+      "id": "1761813174100-34-19-4c977e14",
+      "targetLexeme": "applaud the benefits of",
+      "sourceContext": "...when they applaud the benefits of a growth mindset but then hand out fixed target grades...",
+      "phase1Inference": {
+        "contextualGuessVI": "Hoan nghênh những lợi ích của"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈplɔːd ðə ˈbenɪfɪts əv/",
+        "sentiment": "positive",
+        "definitionEN": "To show strong approval of the advantages of something.",
+        "translationVI": "Hoan nghênh những lợi ích của",
+        "relatedCollocates": [
+          "praise the advantages of",
+          "commend the merits of"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "applaud",
+              "meaning": "hoan nghênh, vỗ tay"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Health experts applaud the benefits of a balanced diet and regular exercise."
+      }
+    },
+    {
+      "id": "1761813174100-34-20-0da5787d",
+      "targetLexeme": "received harsh criticism",
+      "sourceContext": "Aside from the implementation problem, the original growth mindset research has also received harsh criticism.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhận phải chỉ trích gay gắt"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈsiːvd hɑːʃ ˈkrɪtɪsɪzəm/",
+        "sentiment": "negative",
+        "definitionEN": "To be the subject of severe and strong disapproval.",
+        "translationVI": "Nhận chỉ trích gay gắt",
+        "relatedCollocates": [
+          "faced strong opposition",
+          "was heavily criticized"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "criticism",
+              "meaning": "sự chỉ trích"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government's new policy has received harsh criticism from the opposition."
+      }
+    },
+    {
+      "id": "1761813174100-34-21-2ade7153",
+      "targetLexeme": "degrees of freedom",
+      "sourceContext": "The statistician Andrew Gelman claims that ‘their research designs have enough degrees of freedom that they could take their data to support just about any theory at all’.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mức độ tự do (thống kê)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈɡriːz əv ˈfriːdəm/",
+        "sentiment": "neutral",
+        "definitionEN": "In statistics, the number of values in the final calculation of a statistic that are free to vary.",
+        "translationVI": "Bậc tự do",
+        "relatedCollocates": [
+          "statistical analysis",
+          "research methodology"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "degree",
+              "meaning": "mức độ, bậc"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In a chi-squared test, the degrees of freedom are calculated based on the number of categories."
+      }
+    },
+    {
+      "id": "1761813174100-34-22-36783be0",
+      "targetLexeme": "replicating Dweck's work",
+      "sourceContext": "Professor of Psychology Timothy Bates, who has been trying to replicate Dweck’s work, is finding that the results are repeatedly null.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tái tạo lại công trình của Dweck"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈreplɪkeɪtɪŋ dweks wɜːk/",
+        "sentiment": "neutral",
+        "definitionEN": "Attempting to reproduce the experiments and results of Dweck's research to verify its findings.",
+        "translationVI": "Tái tạo lại công trình của Dweck",
+        "relatedCollocates": [
+          "reproducing results",
+          "replication study"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "replicate",
+              "meaning": "tái tạo, sao chép"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Several labs have failed when attempting to replicate the controversial study's findings."
+      }
+    },
+    {
+      "id": "1761813174100-34-23-60b15265",
+      "targetLexeme": "the results are repeatedly null",
+      "sourceContext": "...is finding that the results are repeatedly null.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các kết quả liên tục là vô hiệu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə rɪˈzʌlts ə rɪˈpiːtɪdli nʌl/",
+        "sentiment": "negative",
+        "definitionEN": "The findings consistently show no effect or relationship.",
+        "translationVI": "Các kết quả liên tục là vô hiệu",
+        "relatedCollocates": [
+          "no significant effect",
+          "inconclusive results"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "null",
+              "meaning": "vô hiệu, không có giá trị"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite their hypothesis, the results of the experiment were repeatedly null."
+      }
+    },
+    {
+      "id": "1761813174100-34-24-3198d313",
+      "targetLexeme": "cope any better with failure",
+      "sourceContext": "He notes that: ‘People with a growth mindset don’t cope any better with failure...’",
+      "phase1Inference": {
+        "contextualGuessVI": "Đối phó tốt hơn với thất bại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kəʊp ˈeni ˈbetə wɪð ˈfeɪljə/",
+        "sentiment": "neutral",
+        "definitionEN": "To deal more effectively with the experience of not succeeding.",
+        "translationVI": "Đối phó tốt hơn với thất bại",
+        "relatedCollocates": [
+          "handle failure better",
+          "manage setbacks more effectively"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "cope with",
+              "meaning": "đối phó với"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Resilience training is designed to help people cope better with failure and stress."
+      }
+    },
+    {
+      "id": "1761813174100-34-25-0e6e86d1",
+      "targetLexeme": "intervention study",
+      "sourceContext": "...Kids with the growth mindset aren’t getting better grades, either before or after our intervention study.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Nghiên cứu can thiệp"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌɪntəˈvenʃn ˈstʌdi/",
+        "sentiment": "neutral",
+        "definitionEN": "A type of research in which investigators assign participants to receive a particular intervention, such as a new teaching method or therapy, to evaluate its effects.",
+        "translationVI": "Nghiên cứu can thiệp",
+        "relatedCollocates": [
+          "clinical trial",
+          "experimental study"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "intervention",
+              "meaning": "sự can thiệp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The intervention study showed that the new drug was effective in lowering blood pressure."
+      }
+    },
+    {
+      "id": "1761813174100-34-26-64c3fabd",
+      "targetLexeme": "deserves great credit for",
+      "sourceContext": "Much of this criticism is not lost on Dweck, and she deserves great credit for responding to it and adapting her work accordingly.",
+      "phase1Inference": {
+        "contextualGuessVI": "Xứng đáng được ghi nhận công lao lớn vì"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈzɜːvz ɡreɪt ˈkredɪt fə/",
+        "sentiment": "positive",
+        "definitionEN": "Should be praised or acknowledged for a significant achievement or positive action.",
+        "translationVI": "Xứng đáng được ghi nhận công lao lớn vì",
+        "relatedCollocates": [
+          "should be commended for",
+          "merits praise for"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "credit",
+              "meaning": "sự ghi nhận, công lao"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She deserves great credit for her tireless work in the community."
+      }
+    },
+    {
+      "id": "1761813174100-34-27-020fc096",
+      "targetLexeme": "misunderstood and misapplied",
+      "sourceContext": "In fact, she argues that her work has been misunderstood and misapplied in a range of ways.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị hiểu lầm và áp dụng sai"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌmɪsʌndəˈstʊd ənd ˌmɪsəˈplaɪd/",
+        "sentiment": "negative",
+        "definitionEN": "To be interpreted incorrectly and used in the wrong way.",
+        "translationVI": "Bị hiểu lầm và áp dụng sai",
+        "relatedCollocates": [
+          "misinterpreted",
+          "misused"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "misunderstand",
+              "meaning": "hiểu lầm"
+            },
+            {
+              "form": "misapply",
+              "meaning": "áp dụng sai"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The scientific theory was often misunderstood and misapplied by the general public."
+      }
+    },
+    {
+      "id": "1761813174100-34-28-7864fee0",
+      "targetLexeme": "being misappropriated",
+      "sourceContext": "She has also expressed concerns that her theories are being misappropriated in schools by being conflated with the self-esteem movement...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị chiếm dụng sai mục đích"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbiːɪŋ ˌmɪsəˈprəʊprieɪtɪd/",
+        "sentiment": "negative",
+        "definitionEN": "Being taken and used for a purpose for which it was not intended; used dishonestly or unfairly.",
+        "translationVI": "Bị chiếm dụng sai mục đích",
+        "relatedCollocates": [
+          "misused",
+          "improperly used"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "misappropriate",
+              "meaning": "chiếm dụng, biển thủ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The artist felt his work was being misappropriated for commercial purposes without his consent."
+      }
+    },
+    {
+      "id": "1761813174100-34-29-71cf887a",
+      "targetLexeme": "being conflated with",
+      "sourceContext": "...by being conflated with the self-esteem movement...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị đánh đồng với"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbiːɪŋ kənˈfleɪtɪd wɪð/",
+        "sentiment": "negative",
+        "definitionEN": "Being combined or confused with something else, so that the individual elements are difficult to distinguish.",
+        "translationVI": "Bị đánh đồng với",
+        "relatedCollocates": [
+          "confused with",
+          "equated with",
+          "merged with"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "conflate",
+              "meaning": "kết hợp, đánh đồng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Correlation is often wrongly conflated with causation."
+      }
+    },
+    {
+      "id": "1761813174100-34-30-1b3890fe",
+      "targetLexeme": "self-esteem movement",
+      "sourceContext": "...by being conflated with the self-esteem movement...",
+      "phase1Inference": {
+        "contextualGuessVI": "Phong trào tự tôn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/self-ɪˈstiːm ˈmuːvmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "A social and psychological movement focused on the importance of having confidence in one's own worth or abilities.",
+        "translationVI": "Phong trào tự tôn",
+        "relatedCollocates": [
+          "self-worth",
+          "positive psychology"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "self-esteem",
+              "meaning": "lòng tự trọng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The self-esteem movement of the 1980s was criticized for promoting praise without effort."
+      }
+    },
+    {
+      "id": "1761813174100-34-31-5a05cf74",
+      "targetLexeme": "a vehicle for",
+      "sourceContext": "‘For me the growth mindset is a tool for learning and improvement. It’s not just a vehicle for making children feel good.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Một phương tiện để"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈviːəkl fə/",
+        "sentiment": "neutral",
+        "definitionEN": "A means of expressing, achieving, or conveying something.",
+        "translationVI": "Một phương tiện để",
+        "relatedCollocates": [
+          "a means of",
+          "a medium for"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "vehicle",
+              "meaning": "phương tiện, xe cộ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Art can be a powerful vehicle for social commentary."
+      }
+    },
+    {
+      "id": "1761813174100-34-32-5e9a9f86",
+      "targetLexeme": "failure to translate",
+      "sourceContext": "But there is another factor at work here. The failure to translate the growth mindset into the classroom might reflect a misunderstanding of the nature of teaching and learning itself.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thất bại trong việc chuyển đổi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfeɪljə tuː trænsˈleɪt/",
+        "sentiment": "negative",
+        "definitionEN": "The inability to successfully apply or adapt an idea from one context to another.",
+        "translationVI": "Thất bại trong việc chuyển đổi",
+        "relatedCollocates": [
+          "inability to apply",
+          "difficulty in implementing"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "failure",
+              "meaning": "sự thất bại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The failure to translate research findings into clinical practice is a common problem in medicine."
+      }
+    },
+    {
+      "id": "1761813174100-34-33-3830641b",
+      "targetLexeme": "in a subtle way",
+      "sourceContext": "Growth mindset supporters David Yeager and Gregory Walton claim that interventions should be delivered in a subtle way to maximise their effectiveness.",
+      "phase1Inference": {
+        "contextualGuessVI": "Theo một cách tinh tế"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn ə ˈsʌtl weɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "In a manner that is not obvious or direct, often being clever or indirect.",
+        "translationVI": "Theo một cách tinh tế",
+        "relatedCollocates": [
+          "indirectly",
+          "discreetly"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "subtle",
+              "meaning": "tinh tế, khó thấy"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She managed to convey her disapproval in a very subtle way."
+      }
+    },
+    {
+      "id": "1761813174100-34-34-12c978c4",
+      "targetLexeme": "maximise their effectiveness",
+      "sourceContext": "...interventions should be delivered in a subtle way to maximise their effectiveness.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tối đa hóa hiệu quả của chúng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmæksɪmaɪz ðeər ɪˈfektɪvnəs/",
+        "sentiment": "positive",
+        "definitionEN": "To make their ability to produce the desired result as great as possible.",
+        "translationVI": "Tối đa hóa hiệu quả của chúng",
+        "relatedCollocates": [
+          "optimize the impact",
+          "enhance the efficacy"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "maximise",
+              "meaning": "tối đa hóa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "To maximise the effectiveness of the medicine, you should take it with food."
+      }
+    },
+    {
+      "id": "1761813174100-34-35-28701d6e",
+      "targetLexeme": "undo its intended effects",
+      "sourceContext": "They say that if adolescents perceive a teacher’s intervention as conveying that they are in need of help, this could undo its intended effects.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vô hiệu hóa các tác động dự định của nó"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ʌnˈduː ɪts ɪnˈtendɪd ɪˈfekts/",
+        "sentiment": "negative",
+        "definitionEN": "To cancel out or reverse the results that were planned or aimed for.",
+        "translationVI": "Vô hiệu hóa các tác động dự định của nó",
+        "relatedCollocates": [
+          "negate the impact",
+          "counteract the effects"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "undo",
+              "meaning": "hủy bỏ, tháo gỡ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "One careless comment can undo all the good work you've done."
+      }
+    },
+    {
+      "id": "1761813174100-34-36-71ee180b",
+      "targetLexeme": "innate beliefs",
+      "sourceContext": "A lot of what drives students is their innate beliefs and how they perceive themselves.",
+      "phase1Inference": {
+        "contextualGuessVI": "Niềm tin bẩm sinh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪˈneɪt bɪˈliːfs/",
+        "sentiment": "neutral",
+        "definitionEN": "Deeply held, natural convictions or assumptions that a person has.",
+        "translationVI": "Niềm tin bẩm sinh",
+        "relatedCollocates": [
+          "inborn assumptions",
+          "core beliefs"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "belief",
+              "meaning": "niềm tin"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Our innate beliefs about the world are shaped by our early experiences."
+      }
+    },
+    {
+      "id": "1761813174100-34-37-5ddecb8b",
+      "targetLexeme": "perceive themselves",
+      "sourceContext": "...and how they perceive themselves.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhận thức về bản thân"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pəˈsiːv ðəmˈselvz/",
+        "sentiment": "neutral",
+        "definitionEN": "To see or think of oneself in a particular way.",
+        "translationVI": "Nhận thức về bản thân",
+        "relatedCollocates": [
+          "see themselves",
+          "view themselves"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "perceive",
+              "meaning": "nhận thức"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It's interesting how different people perceive themselves in social situations."
+      }
+    },
+    {
+      "id": "1761813174100-34-38-09ebe1e8",
+      "targetLexeme": "strong correlation between",
+      "sourceContext": "There is a strong correlation between self-perception and achievement...",
+      "phase1Inference": {
+        "contextualGuessVI": "Mối tương quan mạnh mẽ giữa"
+      },
+      "phase2Annotation": {
+        "phonetic": "/strɒŋ ˌkɒrəˈleɪʃn bɪˈtwiːn/",
+        "sentiment": "neutral",
+        "definitionEN": "A close or significant mutual relationship or connection between two or more things.",
+        "translationVI": "Mối tương quan mạnh mẽ giữa",
+        "relatedCollocates": [
+          "significant link",
+          "strong connection"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "correlation",
+              "meaning": "sự tương quan"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Studies have shown a strong correlation between smoking and lung cancer."
+      }
+    },
+    {
+      "id": "1761813174100-34-39-5fc2a614",
+      "targetLexeme": "self-perception",
+      "sourceContext": "There is a strong correlation between self-perception and achievement...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự tự nhận thức"
+      },
+      "phase2Annotation": {
+        "phonetic": "/self-pəˈsepʃn/",
+        "sentiment": "neutral",
+        "definitionEN": "A person's own view or understanding of themselves.",
+        "translationVI": "Sự tự nhận thức",
+        "relatedCollocates": [
+          "self-image",
+          "self-concept"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "perception",
+              "meaning": "sự nhận thức"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A positive self-perception is crucial for mental well-being."
+      }
+    },
+    {
+      "id": "1761813174100-34-40-17dd768b",
+      "targetLexeme": "stronger than the other way round",
+      "sourceContext": "...but there is evidence to suggest that the actual effect of achievement on self-perception is stronger than the other way round.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mạnh hơn so với chiều ngược lại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈstrɒŋɡə ðæn ði ˈʌðə weɪ raʊnd/",
+        "sentiment": "neutral",
+        "definitionEN": "Having a greater effect or influence in one direction of a relationship than in the opposite direction.",
+        "translationVI": "Mạnh hơn so với chiều ngược lại",
+        "relatedCollocates": [
+          "a more significant impact",
+          "a greater influence"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "strong",
+              "meaning": "mạnh"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He argues that society's influence on the individual is stronger than the other way round."
+      }
+    },
+    {
+      "id": "1761813174100-34-41-5074c3df",
+      "targetLexeme": "a genuine achievement",
+      "sourceContext": "To stand up in a classroom and successfully deliver a good speech is a genuine achievement...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một thành tựu thực sự"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈdʒenjuɪn əˈtʃiːvmənt/",
+        "sentiment": "positive",
+        "definitionEN": "A real and authentic accomplishment, achieved through skill or effort.",
+        "translationVI": "Một thành tựu thực sự",
+        "relatedCollocates": [
+          "a real accomplishment",
+          "a true success"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "genuine",
+              "meaning": "thật, chính cống"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Finishing the marathon was a genuine achievement for him."
+      }
+    },
+    {
+      "id": "1761813174100-34-42-02389a71",
+      "targetLexeme": "powerfully motivating",
+      "sourceContext": "...and that is likely to be more powerfully motivating than vague notions of ‘motivation’ itself.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tạo động lực mạnh mẽ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpaʊəfəli ˈməʊtɪveɪtɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "Having a very strong effect in making someone enthusiastic about doing something.",
+        "translationVI": "Tạo động lực mạnh mẽ",
+        "relatedCollocates": [
+          "highly inspiring",
+          "very encouraging"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "motivate",
+              "meaning": "thúc đẩy, tạo động lực"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The coach's speech was powerfully motivating for the entire team."
+      }
+    },
+    {
+      "id": "1761813174100-34-43-19ffd901",
+      "targetLexeme": "vague notions",
+      "sourceContext": "...than vague notions of ‘motivation’ itself.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những khái niệm mơ hồ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/veɪɡ ˈnəʊʃənz/",
+        "sentiment": "negative",
+        "definitionEN": "Ideas or beliefs that are not clearly expressed, understood, or defined.",
+        "translationVI": "Những khái niệm mơ hồ",
+        "relatedCollocates": [
+          "unclear ideas",
+          "imprecise concepts"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "vague",
+              "meaning": "mơ hồ"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He only had some vague notions about what he wanted to do after college."
+      }
+    },
+    {
+      "id": "1761813174100-34-44-590c2623",
+      "targetLexeme": "growth mindset interventions",
+      "sourceContext": "Recent evidence would suggest that growth mindset interventions are not the elixir of student learning that its proponents claim it to be.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các can thiệp tư duy phát triển"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɡrəʊθ ˈmaɪndset ˌɪntəˈvenʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Specific actions or programs designed to cultivate the belief that abilities can be developed.",
+        "translationVI": "Các can thiệp tư duy phát triển",
+        "relatedCollocates": [
+          "mindset programs",
+          "educational interventions"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "intervention",
+              "meaning": "sự can thiệp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The school implemented several growth mindset interventions to improve student resilience."
+      }
+    },
+    {
+      "id": "1761813174100-34-45-7d209100",
+      "targetLexeme": "the elixir of student learning",
+      "sourceContext": "...are not the elixir of student learning that its proponents claim it to be.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thần dược cho việc học của học sinh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ði ɪˈlɪksər əv ˈstjuːdənt ˈlɜːnɪŋ/",
+        "sentiment": "negative",
+        "definitionEN": "A magical or medicinal potion that is supposed to be a cure-all or solve all problems related to student learning.",
+        "translationVI": "Thần dược cho việc học của học sinh",
+        "relatedCollocates": [
+          "magic bullet",
+          "panacea",
+          "cure-all"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "elixir",
+              "meaning": "thuốc tiên, thần dược"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There is no single elixir of student learning; it requires a combination of effective teaching and hard work."
+      }
+    },
+    {
+      "id": "1761813174100-34-46-1b4a9570",
+      "targetLexeme": "its proponents",
+      "sourceContext": "...that its proponents claim it to be.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những người ủng hộ nó"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪts prəˈpəʊnənts/",
+        "sentiment": "neutral",
+        "definitionEN": "People who advocate for or support a theory, proposal, or project.",
+        "translationVI": "Những người ủng hộ nó",
+        "relatedCollocates": [
+          "advocates",
+          "supporters"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "proponent",
+              "meaning": "người đề xướng, người ủng hộ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He is one of the leading proponents of the new environmental policy."
+      }
+    },
+    {
+      "id": "1761813174100-34-47-6c7d8661",
+      "targetLexeme": "a viable construct",
+      "sourceContext": "The growth mindset appears to be a viable construct in the lab, which, when administered in the classroom via targeted interventions, doesn’t seem to work.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một cấu trúc khả thi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈvaɪəbl ˈkɒnstrʌkt/",
+        "sentiment": "positive",
+        "definitionEN": "A concept or idea that is capable of working successfully; feasible.",
+        "translationVI": "Một cấu trúc khả thi",
+        "relatedCollocates": [
+          "a feasible concept",
+          "a workable idea"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "viable",
+              "meaning": "khả thi"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The business plan was judged to be a viable construct by the investors."
+      }
+    },
+    {
+      "id": "1761813174100-34-48-705248b7",
+      "targetLexeme": "administered in the classroom",
+      "sourceContext": "...which, when administered in the classroom via targeted interventions, doesn’t seem to work.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được thực hiện trong lớp học"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ədˈmɪnɪstəd ɪn ðə ˈklɑːsruːm/",
+        "sentiment": "neutral",
+        "definitionEN": "To be managed, applied, or given out in a school class setting.",
+        "translationVI": "Được thực hiện trong lớp học",
+        "relatedCollocates": [
+          "implemented in class",
+          "applied in school"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "administer",
+              "meaning": "quản lý, thi hành"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new curriculum will be administered in all public schools starting next year."
+      }
+    },
+    {
+      "id": "1761813174100-34-49-3bb95b8d",
+      "targetLexeme": "targeted interventions",
+      "sourceContext": "...via targeted interventions, doesn’t seem to work.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các can thiệp có mục tiêu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtɑːɡɪtɪd ˌɪntəˈvenʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Specific actions aimed at a particular group of people or a particular problem.",
+        "translationVI": "Các can thiệp có mục tiêu",
+        "relatedCollocates": [
+          "focused actions",
+          "specific programs"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "targeted",
+              "meaning": "có mục tiêu"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The school provides targeted interventions for students who are struggling with reading."
+      }
+    },
+    {
+      "id": "1761813174100-34-50-3bd118ca",
+      "targetLexeme": "aspiration to change",
+      "sourceContext": "Paradoxically, however, that aspiration to change is a good attribute for students.",
+      "phase1Inference": {
+        "contextualGuessVI": "Khát vọng thay đổi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌæspəˈreɪʃn tuː tʃeɪndʒ/",
+        "sentiment": "positive",
+        "definitionEN": "A strong hope or ambition of achieving personal development or transformation.",
+        "translationVI": "Khát vọng thay đổi",
+        "relatedCollocates": [
+          "desire for improvement",
+          "ambition to grow"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "aspiration",
+              "meaning": "khát vọng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Her aspiration to change her community for the better is truly inspiring."
+      }
+    },
+    {
+      "id": "1761813174100-34-51-6d991a75",
+      "targetLexeme": "a good attribute",
+      "sourceContext": "...that aspiration to change is a good attribute for students.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một thuộc tính tốt"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ɡʊd ˈætrɪbjuːt/",
+        "sentiment": "positive",
+        "definitionEN": "A positive quality or feature regarded as a characteristic or inherent part of someone.",
+        "translationVI": "Một thuộc tính tốt",
+        "relatedCollocates": [
+          "a positive quality",
+          "a desirable characteristic"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "attribute",
+              "meaning": "thuộc tính, đặc tính"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Patience is a good attribute for a teacher to have."
+      }
+    },
+    {
+      "id": "1761813174100-34-52-5ff4a218",
+      "targetLexeme": "Paradoxically",
+      "sourceContext": "Paradoxically, however, that aspiration to change is a good attribute for students.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nghịch lý thay"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌpærəˈdɒksɪkli/",
+        "sentiment": "neutral",
+        "definitionEN": "In a way that is seemingly absurd or self-contradictory.",
+        "translationVI": "Nghịch lý thay",
+        "relatedCollocates": [
+          "ironically",
+          "contradictorily"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "paradox",
+              "meaning": "nghịch lý"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Paradoxically, the more he tried to relax, the more stressed he became."
+      }
+    },
+    {
+      "id": "1761813174100-34-53-69ac3ce6",
+      "targetLexeme": "not well served by",
+      "sourceContext": "Paradoxically, however, that aspiration is not well served by direct interventions that try to instil it.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không được phục vụ tốt bởi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/nɒt wel sɜːvd baɪ/",
+        "sentiment": "negative",
+        "definitionEN": "Not helped or benefited effectively by something.",
+        "translationVI": "Không được phục vụ tốt bởi",
+        "relatedCollocates": [
+          "not helped by",
+          "hindered by"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "serve",
+              "meaning": "phục vụ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The community felt that their interests were not well served by the new development plan."
+      }
+    },
+    {
+      "id": "1761813174100-34-54-66110646",
+      "targetLexeme": "try to instil it",
+      "sourceContext": "...by direct interventions that try to instil it.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cố gắng truyền thụ nó"
+      },
+      "phase2Annotation": {
+        "phonetic": "/traɪ tuː ɪnˈstɪl ɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "To attempt to gradually but firmly establish an idea or attitude in a person's mind.",
+        "translationVI": "Cố gắng truyền thụ nó",
+        "relatedCollocates": [
+          "attempt to impart",
+          "try to inculcate"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "instil",
+              "meaning": "truyền thụ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Parents try to instil good values in their children from a young age."
+      }
+    },
+    {
+      "id": "1761813174100-34-55-2ddc5d92",
+      "targetLexeme": "a deluded notion",
+      "sourceContext": "Motivational posters and talks are often a waste of time, and might well give students a deluded notion of what success actually means.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một khái niệm sai lầm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə dɪˈluːdɪd ˈnəʊʃən/",
+        "sentiment": "negative",
+        "definitionEN": "A mistaken or misleading idea or belief based on deception.",
+        "translationVI": "Một khái niệm sai lầm",
+        "relatedCollocates": [
+          "a mistaken belief",
+          "a false idea"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "deluded",
+              "meaning": "ảo tưởng, sai lầm"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He has a deluded notion that he can become a famous actor without any training."
+      }
+    },
+    {
+      "id": "1761813174100-34-56-2a1d6cd9",
+      "targetLexeme": "Teaching concrete skills",
+      "sourceContext": "Teaching concrete skills such as how to write an effective introduction to an essay then praising students’ effort in getting there is probably a far better way of improving confidence...",
+      "phase1Inference": {
+        "contextualGuessVI": "Dạy các kỹ năng cụ thể"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtiːtʃɪŋ ˈkɒŋkriːt skɪlz/",
+        "sentiment": "positive",
+        "definitionEN": "Instructing in specific, tangible, and practical abilities.",
+        "translationVI": "Dạy các kỹ năng cụ thể",
+        "relatedCollocates": [
+          "practical skills",
+          "specific knowledge"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "concrete",
+              "meaning": "cụ thể"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The vocational course focuses on teaching concrete skills for the workplace."
+      }
+    },
+    {
+      "id": "1761813174100-34-57-3f147f93",
+      "targetLexeme": "a far better way of",
+      "sourceContext": "...is probably a far better way of improving confidence than telling them how unique they are...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một cách tốt hơn nhiều để"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə fɑː ˈbetə weɪ əv/",
+        "sentiment": "positive",
+        "definitionEN": "A much more effective method for doing something.",
+        "translationVI": "Một cách tốt hơn nhiều để",
+        "relatedCollocates": [
+          "a much better method",
+          "a superior approach"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "better",
+              "meaning": "tốt hơn"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Regular practice is a far better way of learning a new language than just reading books."
+      }
+    },
+    {
+      "id": "1761813174100-34-58-748ab421",
+      "targetLexeme": "how capable they are of",
+      "sourceContext": "...or indeed how capable they are of changing their own brains.",
+      "phase1Inference": {
+        "contextualGuessVI": "Họ có khả năng như thế nào trong việc"
+      },
+      "phase2Annotation": {
+        "phonetic": "/haʊ ˈkeɪpəbl ðeɪ ə əv/",
+        "sentiment": "positive",
+        "definitionEN": "The extent of their ability to do something.",
+        "translationVI": "Họ có khả năng như thế nào trong việc",
+        "relatedCollocates": [
+          "their ability to",
+          "their capacity for"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "capable",
+              "meaning": "có khả năng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The project showed the students how capable they are of independent research."
+      }
+    },
+    {
+      "id": "1761813174100-34-59-0463b4f8",
+      "targetLexeme": "works best as a philosophy",
+      "sourceContext": "Perhaps growth mindset works best as a philosophy and not an intervention.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hoạt động tốt nhất như một triết lý"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɜːks best æz ə fəˈlɒsəfi/",
+        "sentiment": "positive",
+        "definitionEN": "Functions most effectively as a guiding principle or set of beliefs rather than a specific action.",
+        "translationVI": "Hoạt động tốt nhất như một triết lý",
+        "relatedCollocates": [
+          "functions as a principle",
+          "is best as a belief system"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "philosophy",
+              "meaning": "triết lý"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The principle of 'less is more' works best as a philosophy for minimalist design."
+      }
+    },
+    {
+      "id": "1761813174100-34-60-2a8bc6ea",
+      "targetLexeme": "held that earlier view",
+      "sourceContext": "Psychologist Alfred Binet, the developer of the first intelligence tests, was one of many 19th-century scientists who held that earlier view...",
+      "phase1Inference": {
+        "contextualGuessVI": "Giữ quan điểm trước đó"
+      },
+      "phase2Annotation": {
+        "phonetic": "/held ðæt ˈɜːliə vjuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To have maintained or believed in that previous opinion or perspective.",
+        "translationVI": "Giữ quan điểm trước đó",
+        "relatedCollocates": [
+          "believed in",
+          "maintained the opinion"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "hold",
+              "meaning": "giữ, nắm giữ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "For centuries, many scientists held the view that the Earth was the center of the universe."
+      }
+    },
+    {
+      "id": "1761813174100-34-61-06a32bf3",
+      "targetLexeme": "revolted against the notion",
+      "sourceContext": "Instead, educators such as John Dewey revolted against the notion that inherent ability is destiny.",
+      "phase1Inference": {
+        "contextualGuessVI": "Phản đối quan niệm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈvəʊltɪd əˈɡenst ðə ˈnəʊʃən/",
+        "sentiment": "positive",
+        "definitionEN": "To strongly oppose and reject an idea or belief.",
+        "translationVI": "Nổi dậy chống lại quan niệm",
+        "relatedCollocates": [
+          "rejected the idea",
+          "opposed the concept"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "revolt",
+              "meaning": "nổi dậy, chống đối"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The younger generation revolted against the traditional values of their parents."
+      }
+    },
+    {
+      "id": "1761813174100-34-62-6d65145d",
+      "targetLexeme": "relatively new",
+      "sourceContext": "‘Growth mindset theory’ is a relatively new – and extremely popular – version of this idea.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tương đối mới"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈrelətɪvli njuː/",
+        "sentiment": "neutral",
+        "definitionEN": "New in comparison to other, older things.",
+        "translationVI": "Tương đối mới",
+        "relatedCollocates": [
+          "fairly recent",
+          "comparatively new"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "relatively",
+              "meaning": "tương đối"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The field of artificial intelligence is still relatively new."
+      }
+    },
+    {
+      "id": "1761813174100-34-63-44505091",
+      "targetLexeme": "praised for their effort",
+      "sourceContext": "All were told that they had achieved a high score on a test but the first group were praised for their intelligence in achieving this, while the others were praised for their effort.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được khen ngợi vì nỗ lực của họ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/preɪzd fə ðeər ˈefət/",
+        "sentiment": "positive",
+        "definitionEN": "To be commended or given approval for the hard work and determination they showed.",
+        "translationVI": "Được khen ngợi vì sự nỗ lực",
+        "relatedCollocates": [
+          "commended for hard work",
+          "applauded for dedication"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "praise",
+              "meaning": "khen ngợi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Even though they didn't win, the team was praised for their effort and sportsmanship."
+      }
+    },
+    {
+      "id": "1761813174100-34-64-7604d51c",
+      "targetLexeme": "fear of failure",
+      "sourceContext": "...and this ‘fixed mindset’ had led them to fear of failure and lack of effort.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nỗi sợ thất bại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fɪər əv ˈfeɪljə/",
+        "sentiment": "negative",
+        "definitionEN": "An unpleasant emotion caused by the belief that one might not succeed.",
+        "translationVI": "Nỗi sợ thất bại",
+        "relatedCollocates": [
+          "anxiety about failing",
+          "dread of failure"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "fear",
+              "meaning": "nỗi sợ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His fear of failure prevented him from trying new things."
+      }
+    },
+    {
+      "id": "1761813174100-34-65-69d72a26",
+      "targetLexeme": "school climate",
+      "sourceContext": "...in many parts of the world, the school climate is obsessed with performance...",
+      "phase1Inference": {
+        "contextualGuessVI": "Môi trường học đường"
+      },
+      "phase2Annotation": {
+        "phonetic": "/skuːl ˈklaɪmət/",
+        "sentiment": "neutral",
+        "definitionEN": "The quality and character of school life, including norms, goals, values, and relationships.",
+        "translationVI": "Môi trường học đường",
+        "relatedCollocates": [
+          "learning environment",
+          "school culture"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "climate",
+              "meaning": "khí hậu, không khí"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A positive school climate is essential for student well-being and academic success."
+      }
+    },
+    {
+      "id": "1761813174100-34-66-49796151",
+      "targetLexeme": "fixed target grades",
+      "sourceContext": "...but then hand out fixed target grades based on performance.",
+      "phase1Inference": {
+        "contextualGuessVI": "Điểm mục tiêu cố định"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fɪkst ˈtɑːɡɪt ɡreɪdz/",
+        "sentiment": "negative",
+        "definitionEN": "Predetermined, unchangeable academic goals or scores that students are expected to achieve.",
+        "translationVI": "Điểm mục tiêu cố định",
+        "relatedCollocates": [
+          "set targets",
+          "performance goals"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "grade",
+              "meaning": "điểm số"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The use of fixed target grades can discourage students who are struggling."
+      }
+    },
+    {
+      "id": "1761813174100-34-67-37920613",
+      "targetLexeme": "implementation problem",
+      "sourceContext": "Aside from the implementation problem, the original growth mindset research has also received harsh criticism.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vấn đề thực thi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌɪmplɪmenˈteɪʃn ˈprɒbləm/",
+        "sentiment": "negative",
+        "definitionEN": "A difficulty related to the process of putting a decision or plan into effect.",
+        "translationVI": "Vấn đề thực thi",
+        "relatedCollocates": [
+          "execution issue",
+          "application difficulty"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "implementation",
+              "meaning": "sự thực thi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The policy was good in theory, but it faced a major implementation problem."
+      }
+    },
+    {
+      "id": "1761813174100-34-68-07b35fe4",
+      "targetLexeme": "adapting her work accordingly",
+      "sourceContext": "...she deserves great credit for responding to it and adapting her work accordingly.",
+      "phase1Inference": {
+        "contextualGuessVI": "Điều chỉnh công việc của cô ấy cho phù hợp"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈdæptɪŋ hə wɜːk əˈkɔːdɪŋli/",
+        "sentiment": "positive",
+        "definitionEN": "Modifying her research and theories in a way that is appropriate to the new information or criticism.",
+        "translationVI": "Điều chỉnh công việc của cô ấy cho phù hợp",
+        "relatedCollocates": [
+          "modifying appropriately",
+          "adjusting in response"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "adapt",
+              "meaning": "thích nghi, điều chỉnh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After receiving feedback, the author is adapting her work accordingly."
+      }
+    },
+    {
+      "id": "1761813174100-34-69-5df15cd6",
+      "targetLexeme": "expressed concerns",
+      "sourceContext": "She has also expressed concerns that her theories are being misappropriated in schools...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bày tỏ mối quan ngại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˈsprest kənˈsɜːnz/",
+        "sentiment": "negative",
+        "definitionEN": "To have stated worries or anxieties about a situation.",
+        "translationVI": "Bày tỏ mối quan ngại",
+        "relatedCollocates": [
+          "voiced worries",
+          "raised concerns"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "concern",
+              "meaning": "mối quan ngại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Parents have expressed concerns about the safety of the new playground."
+      }
+    },
+    {
+      "id": "1761813174100-34-70-05bae86c",
+      "targetLexeme": "another factor at work here",
+      "sourceContext": "But there is another factor at work here.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một yếu tố khác đang hoạt động ở đây"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈnʌðə ˈfæktər ət wɜːk hɪə/",
+        "sentiment": "neutral",
+        "definitionEN": "An additional element or circumstance that is having an effect on the situation.",
+        "translationVI": "Một yếu tố khác đang tác động",
+        "relatedCollocates": [
+          "another element in play",
+          "an additional influence"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "factor",
+              "meaning": "yếu tố"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "While the economy is improving, there is another factor at work here: rising inflation."
+      }
+    },
+    {
+      "id": "1761813174100-34-71-11e22d75",
+      "targetLexeme": "nature of teaching and learning",
+      "sourceContext": "...a misunderstanding of the nature of teaching and learning itself.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bản chất của việc dạy và học"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈneɪtʃər əv ˈtiːtʃɪŋ ənd ˈlɜːnɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "The fundamental qualities or essential character of the process of education.",
+        "translationVI": "Bản chất của việc dạy và học",
+        "relatedCollocates": [
+          "essence of education",
+          "fundamentals of pedagogy"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "nature",
+              "meaning": "bản chất, tự nhiên"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Good teachers have a deep understanding of the nature of teaching and learning."
+      }
+    },
+    {
+      "id": "1761813174100-34-72-4f526121",
+      "targetLexeme": "perceive a teacher’s intervention",
+      "sourceContext": "They say that if adolescents perceive a teacher’s intervention as conveying that they are in need of help...",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhận thấy sự can thiệp của giáo viên"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pəˈsiːv ə ˈtiːtʃəz ˌɪntəˈvenʃn/",
+        "sentiment": "neutral",
+        "definitionEN": "To interpret or regard a teacher's action to influence a situation in a particular way.",
+        "translationVI": "Nhận thấy sự can thiệp của giáo viên",
+        "relatedCollocates": [
+          "interpret a teacher's action",
+          "view a teacher's involvement"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "perceive",
+              "meaning": "nhận thức"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "How students perceive a teacher's intervention can greatly affect its outcome."
+      }
+    },
+    {
+      "id": "1761813174100-34-73-3622cce6",
+      "targetLexeme": "what drives students",
+      "sourceContext": "A lot of what drives students is their innate beliefs and how they perceive themselves.",
+      "phase1Inference": {
+        "contextualGuessVI": "Điều thúc đẩy học sinh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɒt draɪvz ˈstjuːdənts/",
+        "sentiment": "neutral",
+        "definitionEN": "The factors that motivate or compel students to act or behave in a certain way.",
+        "translationVI": "Điều thúc đẩy học sinh",
+        "relatedCollocates": [
+          "what motivates students",
+          "student motivation"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "drive",
+              "meaning": "thúc đẩy, lái xe"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Understanding what drives students is key to effective teaching."
+      }
+    },
+    {
+      "id": "1761813174100-34-74-218a4407",
+      "targetLexeme": "Recent evidence",
+      "sourceContext": "Recent evidence would suggest that growth mindset interventions are not the elixir of student learning...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bằng chứng gần đây"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈriːsnt ˈevɪdəns/",
+        "sentiment": "neutral",
+        "definitionEN": "Information or findings from the recent past that indicate whether a belief is true or valid.",
+        "translationVI": "Bằng chứng gần đây",
+        "relatedCollocates": [
+          "new findings",
+          "the latest research"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "evidence",
+              "meaning": "bằng chứng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Recent evidence suggests a link between air pollution and cognitive decline."
+      }
+    },
+    {
+      "id": "1761813174100-34-75-6e0df2a1",
+      "targetLexeme": "a waste of time",
+      "sourceContext": "Motivational posters and talks are often a waste of time...",
+      "phase1Inference": {
+        "contextualGuessVI": "Lãng phí thời gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə weɪst əv taɪm/",
+        "sentiment": "negative",
+        "definitionEN": "A bad use of time; an activity that produces no valuable result.",
+        "translationVI": "Lãng phí thời gian",
+        "relatedCollocates": [
+          "pointless",
+          "unproductive"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "waste",
+              "meaning": "sự lãng phí"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He felt that arguing with his boss was a complete waste of time."
+      }
+    },
+    {
+      "id": "1761813174100-34-76-4f799c54",
+      "targetLexeme": "might well give",
+      "sourceContext": "...and might well give students a deluded notion of what success actually means.",
+      "phase1Inference": {
+        "contextualGuessVI": "Rất có thể sẽ mang lại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/maɪt wel ɡɪv/",
+        "sentiment": "neutral",
+        "definitionEN": "Used to say that something is likely to happen or be true.",
+        "translationVI": "Rất có thể sẽ mang lại",
+        "relatedCollocates": [
+          "could very well",
+          "it's likely that"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "give",
+              "meaning": "cho, đưa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "If you don't study for the exam, you might well fail."
+      }
+    },
+    {
+      "id": "1761813174100-34-77-32ac76ba",
+      "targetLexeme": "improving confidence",
+      "sourceContext": "...is probably a far better way of improving confidence than telling them how unique they are...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cải thiện sự tự tin"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪmˈpruːvɪŋ ˈkɒnfɪdəns/",
+        "sentiment": "positive",
+        "definitionEN": "Increasing the feeling or belief that one can rely on oneself and has the ability to succeed.",
+        "translationVI": "Cải thiện sự tự tin",
+        "relatedCollocates": [
+          "boosting self-esteem",
+          "building confidence"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "confidence",
+              "meaning": "sự tự tin"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Public speaking classes are great for improving confidence."
+      }
+    },
+    {
+      "id": "1761813174100-34-78-5a87cc3b",
+      "targetLexeme": "or indeed",
+      "sourceContext": "...than telling them how unique they are, or indeed how capable they are of changing their own brains.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hoặc thậm chí là"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɔːr ɪnˈdiːd/",
+        "sentiment": "neutral",
+        "definitionEN": "Used to add emphasis to a statement or to introduce a more extreme point.",
+        "translationVI": "Hoặc quả thực là",
+        "relatedCollocates": [
+          "or even",
+          "in fact"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "indeed",
+              "meaning": "thực vậy, quả thực"
+            }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It was a very good performance, or indeed, the best I have ever seen."
+      }
+    },
+    {
+      "id": "1761813174100-34-79-71d1f657",
+      "targetLexeme": "not an intervention",
+      "sourceContext": "Perhaps growth mindset works best as a philosophy and not an intervention.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không phải là một sự can thiệp"
+      },
+      "phase2Annotation": {
+        "phonetic": "/nɒt ən ˌɪntəˈvenʃn/",
+        "sentiment": "neutral",
+        "definitionEN": "Not a specific action taken to improve a situation, but rather a general belief system.",
+        "translationVI": "Không phải là một sự can thiệp",
+        "relatedCollocates": [
+          "not a specific action",
+          "not a program"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "intervention",
+              "meaning": "sự can thiệp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He sees healthy eating as a way of life, not an intervention for a specific problem."
+      }
+    },
+    {
+      "id": "1761813174100-34-80-5ebf44f2",
+      "targetLexeme": "extremely popular",
+      "sourceContext": "‘Growth mindset theory’ is a relatively new – and extremely popular – version of this idea.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cực kỳ phổ biến"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˈstriːmli ˈpɒpjələ/",
+        "sentiment": "positive",
+        "definitionEN": "Very well-liked, admired, or supported by many people.",
+        "translationVI": "Cực kỳ phổ biến",
+        "relatedCollocates": [
+          "very popular",
+          "widely admired"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "popular",
+              "meaning": "phổ biến"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new video game became extremely popular among teenagers."
+      }
+    },
+    {
+      "id": "1761813174100-34-81-1296e184",
+      "targetLexeme": "in one key experiment",
+      "sourceContext": "In one key experiment, Dweck divided a group of 10- to 12-year-olds into two groups.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong một thí nghiệm quan trọng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn wʌn kiː ɪkˈsperɪmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "In a single, crucial scientific test or procedure.",
+        "translationVI": "Trong một thí nghiệm quan trọng",
+        "relatedCollocates": [
+          "in a pivotal study",
+          "in a major experiment"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "key",
+              "meaning": "chủ chốt, quan trọng"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In one key experiment, the researchers discovered a new particle."
+      }
+    },
+    {
+      "id": "1761813174100-34-82-1830a376",
+      "targetLexeme": "perform worse",
+      "sourceContext": "Praising ability actually made the students perform worse, while praising effort emphasised that change was possible.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thể hiện kém hơn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pəˈfɔːm wɜːs/",
+        "sentiment": "negative",
+        "definitionEN": "To carry out a task or function less well or with a lower level of success.",
+        "translationVI": "Thể hiện kém hơn",
+        "relatedCollocates": [
+          "do worse",
+          "underperform"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "perform",
+              "meaning": "thể hiện, thực hiện"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Athletes often perform worse under extreme pressure."
+      }
+    },
+    {
+      "id": "1761813174100-34-83-7986c4a8",
+      "targetLexeme": "constant testing",
+      "sourceContext": "...the school climate is obsessed with performance in the form of constant testing, analysing and ranking of students...",
+      "phase1Inference": {
+        "contextualGuessVI": "Kiểm tra liên tục"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkɒnstənt ˈtestɪŋ/",
+        "sentiment": "negative",
+        "definitionEN": "The practice of frequently giving students examinations to measure their knowledge.",
+        "translationVI": "Kiểm tra liên tục",
+        "relatedCollocates": [
+          "frequent examinations",
+          "continuous assessment"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "constant",
+              "meaning": "liên tục"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many educators argue that constant testing creates anxiety and hinders deep learning."
+      }
+    },
+    {
+      "id": "1761813174100-34-84-39f8d90b",
+      "targetLexeme": "is not lost on",
+      "sourceContext": "Much of this criticism is not lost on Dweck, and she deserves great credit for responding to it...",
+      "phase1Inference": {
+        "contextualGuessVI": "Không bị bỏ qua bởi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪz nɒt lɒst ɒn/",
+        "sentiment": "neutral",
+        "definitionEN": "Is noticed or understood by someone.",
+        "translationVI": "Được (ai đó) nhận thấy/hiểu rõ",
+        "relatedCollocates": [
+          "is understood by",
+          "does not escape the notice of"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "lose",
+              "meaning": "mất, thua"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The irony of the situation was not lost on him."
+      }
+    },
+    {
+      "id": "1761813174100-34-85-35634233",
+      "targetLexeme": "sought to",
+      "sourceContext": "...was one of many 19th-century scientists who held that earlier view and sought to quantify cognitive ability.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tìm cách, cố gắng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/sɔːt tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "A formal way of saying 'tried to' or 'attempted to'.",
+        "translationVI": "Tìm cách, cố gắng",
+        "relatedCollocates": [
+          "attempted to",
+          "tried to",
+          "aimed to"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "seek",
+              "meaning": "tìm kiếm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The committee sought to find a compromise that would be acceptable to all parties."
+      }
+    },
+    {
+      "id": "1761813174100-34-86-36b4de94",
+      "targetLexeme": "given the right environment",
+      "sourceContext": "...every child’s intelligence could be developed, given the right environment.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nếu được đặt trong môi trường phù hợp"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɡɪvn ðə raɪt ɪnˈvaɪrənmənt/",
+        "sentiment": "positive",
+        "definitionEN": "If the conditions and surroundings are suitable or appropriate.",
+        "translationVI": "Nếu có môi trường phù hợp",
+        "relatedCollocates": [
+          "under the right conditions",
+          "with the proper support"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "give",
+              "meaning": "cho"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Almost any plant will thrive, given the right environment of soil and sunlight."
+      }
+    },
+    {
+      "id": "1761813174100-34-87-091d5eda",
+      "targetLexeme": "believed their way to the top",
+      "sourceContext": "...great sporting heroes who simply believed their way to the top.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tin tưởng vào con đường dẫn đến đỉnh cao"
+      },
+      "phase2Annotation": {
+        "phonetic": "/bɪˈliːvd ðeə weɪ tuː ðə tɒp/",
+        "sentiment": "positive",
+        "definitionEN": "An idiomatic expression meaning they achieved success primarily through self-belief and a positive mindset.",
+        "translationVI": "Dùng niềm tin để vươn tới đỉnh cao",
+        "relatedCollocates": [
+          "achieved through belief",
+          "willed themselves to success"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "believe",
+              "meaning": "tin tưởng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The entrepreneur's story is one of a person who simply believed their way to the top of the industry."
+      }
+    },
+    {
+      "id": "1761813174100-34-88-34cc598e",
+      "targetLexeme": "educationalist",
+      "sourceContext": "As educationalist Jeff Howard noted several decades ago: ‘Smart is not something that you just are, smart is something that you can get.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhà giáo dục học"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌedʒuˈkeɪʃənəlɪst/",
+        "sentiment": "neutral",
+        "definitionEN": "A specialist in the theory and practice of education.",
+        "translationVI": "Nhà sư phạm, nhà giáo dục học",
+        "relatedCollocates": [
+          "pedagogue",
+          "education expert"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "education",
+              "meaning": "giáo dục"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The renowned educationalist gave a lecture on modern teaching methods."
+      }
+    },
+    {
+      "id": "1761813174100-34-89-2fc7a96d",
+      "targetLexeme": "inferred that",
+      "sourceContext": "This group had inferred that success or failure is due to innate ability...",
+      "phase1Inference": {
+        "contextualGuessVI": "Suy ra rằng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈfɜːd ðæt/",
+        "sentiment": "neutral",
+        "definitionEN": "To form an opinion or guess that something is true because of the information that you have.",
+        "translationVI": "Suy ra rằng",
+        "relatedCollocates": [
+          "deduced that",
+          "concluded that"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "inference",
+              "meaning": "sự suy luận"
+            }
+          ],
+          "verb": [
+            {
+              "form": "infer",
+              "meaning": "suy ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "From his silence, she inferred that he was not happy with the decision."
+      }
+    },
+    {
+      "id": "1761813174100-34-90-276beaea",
+      "targetLexeme": "lack of effort",
+      "sourceContext": "...and this ‘fixed mindset’ had led them to fear of failure and lack of effort.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thiếu nỗ lực"
+      },
+      "phase2Annotation": {
+        "phonetic": "/læk əv ˈefət/",
+        "sentiment": "negative",
+        "definitionEN": "An absence of the physical or mental energy needed to do something.",
+        "translationVI": "Thiếu nỗ lực",
+        "relatedCollocates": [
+          "insufficient effort",
+          "not trying hard enough"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "lack",
+              "meaning": "sự thiếu hụt"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The project failed not due to a lack of talent, but a clear lack of effort."
+      }
+    },
+    {
+      "id": "1761813174100-34-91-1ba47d27",
+      "targetLexeme": "a key characteristic",
+      "sourceContext": "...constant testing, analysing and ranking of students – a key characteristic of the fixed mindset.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một đặc điểm chính"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə kiː ˌkærəktəˈrɪstɪk/",
+        "sentiment": "neutral",
+        "definitionEN": "A very important or fundamental feature or quality of something.",
+        "translationVI": "Một đặc điểm chính",
+        "relatedCollocates": [
+          "a crucial feature",
+          "a defining trait"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "characteristic",
+              "meaning": "đặc điểm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Adaptability is a key characteristic for success in a fast-changing industry."
+      }
+    },
+    {
+      "id": "1761813174100-34-92-1aa5cc35",
+      "targetLexeme": "Nor is it unusual for",
+      "sourceContext": "Nor is it unusual for schools to create a certain cognitive dissonance...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cũng không có gì lạ khi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/nɔːr ɪz ɪt ʌnˈjuːʒuəl fə/",
+        "sentiment": "neutral",
+        "definitionEN": "A formal way of saying 'It is also common for...' or 'It's not strange that...'.",
+        "translationVI": "Cũng không có gì lạ khi",
+        "relatedCollocates": [
+          "it is also common for",
+          "it is not uncommon that"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "unusual",
+              "meaning": "bất thường"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Nor is it unusual for new businesses to face financial challenges in their first year."
+      }
+    },
+    {
+      "id": "1761813174100-34-93-529fcced",
+      "targetLexeme": "research designs",
+      "sourceContext": "The statistician Andrew Gelman claims that ‘their research designs have enough degrees of freedom...’",
+      "phase1Inference": {
+        "contextualGuessVI": "Thiết kế nghiên cứu"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈsɜːtʃ dɪˈzaɪnz/",
+        "sentiment": "neutral",
+        "definitionEN": "The overall strategy or plan for a piece of research, from the research questions to the methods of data collection and analysis.",
+        "translationVI": "Thiết kế nghiên cứu",
+        "relatedCollocates": [
+          "study methodology",
+          "experimental design"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "design",
+              "meaning": "thiết kế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Flaws in the research designs can lead to invalid conclusions."
+      }
+    },
+    {
+      "id": "1761813174100-34-94-652ab685",
+      "targetLexeme": "support just about any theory",
+      "sourceContext": "...they could take their data to support just about any theory at all’.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hỗ trợ bất kỳ lý thuyết nào"
+      },
+      "phase2Annotation": {
+        "phonetic": "/səˈpɔːt dʒəst əˈbaʊt ˈeni ˈθɪəri/",
+        "sentiment": "negative",
+        "definitionEN": "A critical phrase suggesting that the evidence is so flexible or ambiguous it could be used to argue for almost any conclusion.",
+        "translationVI": "Hỗ trợ gần như bất kỳ lý thuyết nào",
+        "relatedCollocates": [
+          "prove anything",
+          "fit any narrative"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "support",
+              "meaning": "ủng hộ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The politician's vague statements could be interpreted to support just about any position."
+      }
+    },
+    {
+      "id": "1761813174100-34-95-4f95b49c",
+      "targetLexeme": "in a range of ways",
+      "sourceContext": "In fact, she argues that her work has been misunderstood and misapplied in a range of ways.",
+      "phase1Inference": {
+        "contextualGuessVI": "Theo nhiều cách"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn ə reɪndʒ əv weɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "In many different manners or methods.",
+        "translationVI": "Theo nhiều cách",
+        "relatedCollocates": [
+          "in various ways",
+          "in a number of manners"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "range",
+              "meaning": "phạm vi, loạt"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The problem can be approached in a range of ways."
+      }
+    },
+    {
+      "id": "1761813174100-34-96-4d3c1d72",
+      "targetLexeme": "a tool for learning",
+      "sourceContext": "‘For me the growth mindset is a tool for learning and improvement.’",
+      "phase1Inference": {
+        "contextualGuessVI": "Một công cụ để học hỏi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə tuːl fə ˈlɜːnɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "A means or instrument used to facilitate the acquisition of knowledge or skills.",
+        "translationVI": "Một công cụ để học hỏi",
+        "relatedCollocates": [
+          "a means for improvement",
+          "an instrument for growth"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "tool",
+              "meaning": "công cụ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Feedback should be viewed as a valuable tool for learning, not as criticism."
+      }
+    },
+    {
+      "id": "1761813174100-34-97-0d967868",
+      "targetLexeme": "reflect a misunderstanding",
+      "sourceContext": "The failure to translate the growth mindset into the classroom might reflect a misunderstanding of the nature of teaching and learning itself.",
+      "phase1Inference": {
+        "contextualGuessVI": "Phản ánh sự hiểu lầm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈflekt ə ˌmɪsʌndəˈstændɪŋ/",
+        "sentiment": "negative",
+        "definitionEN": "To show or be a sign of an incorrect interpretation or grasp of something.",
+        "translationVI": "Phản ánh sự hiểu lầm",
+        "relatedCollocates": [
+          "indicate a misconception",
+          "show a lack of understanding"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "reflect",
+              "meaning": "phản ánh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The student's poor essay may reflect a misunderstanding of the core concepts."
+      }
+    },
+    {
+      "id": "1761813174100-34-98-3c9c0cb9",
+      "targetLexeme": "adolescents",
+      "sourceContext": "They say that if adolescents perceive a teacher’s intervention as conveying that they are in need of help...",
+      "phase1Inference": {
+        "contextualGuessVI": "Thanh thiếu niên"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌædəˈlesnts/",
+        "sentiment": "neutral",
+        "definitionEN": "Young people who are in the process of developing from a child into an adult (typically between the ages of 13 and 19).",
+        "translationVI": "Thanh thiếu niên",
+        "relatedCollocates": [
+          "teenagers",
+          "youths"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "adolescence",
+              "meaning": "tuổi vị thành niên"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is often challenging for adolescents to navigate the pressures of school and social life."
+      }
+    },
+    {
+      "id": "1761813174100-34-99-5821827d",
+      "targetLexeme": "conveying that",
+      "sourceContext": "...as conveying that they are in need of help...",
+      "phase1Inference": {
+        "contextualGuessVI": "Truyền đạt rằng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kənˈveɪɪŋ ðæt/",
+        "sentiment": "neutral",
+        "definitionEN": "Communicating or making an idea or feeling known.",
+        "translationVI": "Truyền đạt rằng",
+        "relatedCollocates": [
+          "communicating that",
+          "implying that"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "convey",
+              "meaning": "truyền đạt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His tone of voice was conveying that he was not pleased with the results."
+      }
+    },
+    {
+      "id": "1761813174100-34-100-00a20546",
+      "targetLexeme": "actual effect",
+      "sourceContext": "...the actual effect of achievement on self-perception is stronger than the other way round.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tác động thực tế"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈæktʃuəl ɪˈfekt/",
+        "sentiment": "neutral",
+        "definitionEN": "The real result or influence of something, as opposed to what is supposed or perceived.",
+        "translationVI": "Tác động thực tế",
+        "relatedCollocates": [
+          "real impact",
+          "true consequence"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "actual",
+              "meaning": "thực tế"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "While the advertisement looked impressive, the actual effect of the product was disappointing."
+      }
+    },
+    {
+      "id": "1761813174100-34-101-17cfd044",
+      "targetLexeme": "faith in the capacity to change",
+      "sourceContext": "To stand up in a classroom and successfully deliver a good speech is a genuine achievement, and that is likely to be more powerfully motivating than vague notions of ‘motivation’ itself. Recent evidence would suggest that growth mindset interventions are not the elixir of student learning that its proponents claim it to be. The growth mindset appears to be a viable construct in the lab, which, when administered in the classroom via targeted interventions, doesn’t seem to work. It is hard to dispute that having faith in the capacity to change is a good attribute for students.",
+      "phase1Inference": {
+        "contextualGuessVI": "Niềm tin vào khả năng thay đổi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/feɪθ ɪn ðə kəˈpæsəti tuː tʃeɪndʒ/",
+        "sentiment": "positive",
+        "definitionEN": "A strong belief in the ability to develop and improve oneself.",
+        "translationVI": "Niềm tin vào khả năng thay đổi",
+        "relatedCollocates": [
+          "belief in the ability to grow",
+          "confidence in self-improvement"
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "faith",
+              "meaning": "niềm tin"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A therapist's role is to help clients restore their faith in the capacity to change."
+      }
+    },
+    {
+      "id": "1761813174100-34-102-16384e63",
+      "targetLexeme": "direct interventions",
+      "sourceContext": "Paradoxically, however, that aspiration is not well served by direct interventions that try to instil it.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các can thiệp trực tiếp"
+      },
+      "phase2Annotation": {
+        "phonetic": "/daɪˈrekt ˌɪntəˈvenʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Actions that are straightforward and explicit in their aim to influence a situation.",
+        "translationVI": "Các can thiệp trực tiếp",
+        "relatedCollocates": [
+          "explicit actions",
+          "overt interventions"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "direct",
+              "meaning": "trực tiếp"
+            }
+          ],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Sometimes, subtle encouragement is more effective than direct interventions."
+      }
+    },
+    {
+      "id": "1761813174100-34-103-4c1a4376",
+      "targetLexeme": "praising students' effort",
+      "sourceContext": "Teaching concrete skills such as how to write an effective introduction to an essay then praising students’ effort in getting there is probably a far better way...",
+      "phase1Inference": {
+        "contextualGuessVI": "Khen ngợi nỗ lực của học sinh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpreɪzɪŋ ˈstjuːdənts ˈefət/",
+        "sentiment": "positive",
+        "definitionEN": "Commending students for their hard work and determination, rather than for their innate talent.",
+        "translationVI": "Khen ngợi nỗ lực của học sinh",
+        "relatedCollocates": [
+          "applauding hard work",
+          "commending diligence"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "praise",
+              "meaning": "khen ngợi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The teacher made a point of praising students' effort, which encouraged a more resilient classroom culture."
+      }
+    },
+    {
+      "id": "1761813174100-34-104-734cdc80",
+      "targetLexeme": "changing their own brains",
+      "sourceContext": "...or indeed how capable they are of changing their own brains.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thay đổi bộ não của chính họ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtʃeɪndʒɪŋ ðeər əʊn breɪnz/",
+        "sentiment": "positive",
+        "definitionEN": "A metaphorical way of referring to neuroplasticity; the ability of the brain to form and reorganize synaptic connections, especially in response to learning or experience.",
+        "translationVI": "Thay đổi bộ não của chính họ",
+        "relatedCollocates": [
+          "neuroplasticity",
+          "developing one's mind"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "change",
+              "meaning": "thay đổi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The concept of lifelong learning is based on the idea that we are capable of changing our own brains."
+      }
+    }
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.100Z",
+    "version": "2.0",
+    "originalCount": 105,
+    "migratedCount": 105
+  }
+}
