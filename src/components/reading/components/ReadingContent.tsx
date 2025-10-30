@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import { LexicalItem } from "@/components/lexical-item";
+import { Play, Pause, RotateCcw, Volume2, Redo } from "lucide-react";
 
 interface ReadingContentProps {
   // Content data
@@ -30,6 +31,16 @@ interface ReadingContentProps {
   // Functions
   processParagraph: (paragraph: string, paragraphIndex: number) => React.ReactNode[];
   onParagraphClick?: (paragraphIndex: number) => void;
+
+  // Per-paragraph controls
+  onParagraphPlay?: (paragraphIndex: number) => void;
+  onParagraphRepeat?: (paragraphIndex: number) => void;
+  onParagraphPause?: (paragraphIndex: number) => void;
+  currentSpeakingParagraph?: number;
+  isPlaying?: boolean;
+  isPaused?: boolean;
+  repeatMode?: boolean;
+  speechSupported?: boolean;
 }
 
 export function ReadingContent({
@@ -47,6 +58,15 @@ export function ReadingContent({
   showAnimations,
   processParagraph,
   onParagraphClick,
+  // Per-paragraph controls
+  onParagraphPlay,
+  onParagraphRepeat,
+  onParagraphPause,
+  currentSpeakingParagraph,
+  isPlaying,
+  isPaused,
+  repeatMode,
+  speechSupported,
 }: ReadingContentProps) {
   const themeClasses = {
     light: "bg-white text-gray-900",
@@ -109,39 +129,143 @@ export function ReadingContent({
               columnClasses[columnCount as keyof typeof columnClasses]
             )}
           >
-            {paragraphs.map((paragraph, index) => (
-              <motion.div
-                key={index}
-                initial={showAnimations ? { opacity: 0, y: 20 } : false}
-                animate={{ opacity: 1, y: 0 }}
-                transition={showAnimations ? { delay: index * 0.1 } : undefined}
-                className={cn(
-                  "mb-8 relative group",
-                  dimOthers && currentParagraph !== index && "dim-paragraph cursor-pointer hover:opacity-60",
-                  dimOthers && currentParagraph === index && "current-focus-paragraph",
-                  currentParagraph === index &&
-                    "ring-2 ring-primary/20 rounded-lg p-2",
-                  dimOthers && "transition-opacity duration-200"
-                )}
-                onClick={() => dimOthers && onParagraphClick?.(index)}
-              >
-                {/* Bookmark indicator */}
-                {bookmarks.includes(index) && (
-                  <div className="absolute -left-8 top-0 text-yellow-500">
-                    📖
-                  </div>
-                )}
+            {paragraphs.map((paragraph, index) => {
+              const isCurrentlySpeaking = currentSpeakingParagraph === index && currentSpeakingParagraph !== -1;
+              const showRepeatButton = speechSupported && (repeatMode || isCurrentlySpeaking);
 
-                {/* Current paragraph indicator */}
-                {currentParagraph === index && (
-                  <div className="absolute -left-6 top-1 w-2 h-2 bg-primary rounded-full current-paragraph"></div>
-                )}
+              return (
+                <motion.div
+                  key={index}
+                  initial={showAnimations ? { opacity: 0, y: 20 } : false}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={showAnimations ? { delay: index * 0.1 } : undefined}
+                  className={cn(
+                    "mb-8 relative group",
+                    dimOthers && currentParagraph !== index && "dim-paragraph cursor-pointer hover:opacity-60",
+                    dimOthers && currentParagraph === index && "current-focus-paragraph",
+                    currentParagraph === index &&
+                      "ring-2 ring-primary/20 rounded-lg p-2",
+                    dimOthers && "transition-opacity duration-200"
+                  )}
+                  onClick={() => dimOthers && onParagraphClick?.(index)}
+                >
+                  {/* Per-paragraph controls */}
+                  {speechSupported && (
+                    <div className="absolute -right-12 top-0 flex flex-col gap-1 opacity-0 group-hover:opacity-100 transition-opacity duration-200">
+                      {/* Play button - Only show when not speaking */}
+                      {!isCurrentlySpeaking && (
+                        <motion.button
+                          whileHover={{ scale: 1.1 }}
+                          whileTap={{ scale: 0.9 }}
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            onParagraphPlay?.(index);
+                          }}
+                          className="p-1.5 rounded-full bg-green-500 text-white hover:bg-green-600 transition-colors shadow-md"
+                          title="Play this paragraph"
+                        >
+                          <Play size={14} />
+                        </motion.button>
+                      )}
 
-                <p className="break-inside-avoid">
-                  {processParagraph(paragraph, index)}
-                </p>
-              </motion.div>
-            ))}
+                      {/* Pause/Resume button - Only show when this paragraph is speaking */}
+                      {isCurrentlySpeaking && (
+                        <motion.button
+                          initial={{ opacity: 0, scale: 0.8 }}
+                          animate={{ opacity: 1, scale: 1 }}
+                          whileHover={{ scale: 1.1 }}
+                          whileTap={{ scale: 0.9 }}
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            onParagraphPause?.(index);
+                          }}
+                          className="p-1.5 rounded-full bg-yellow-500 text-white hover:bg-yellow-600 transition-colors shadow-md"
+                          title={isPaused ? "Resume this paragraph" : "Pause this paragraph"}
+                        >
+                          {isPaused ? <Play size={14} /> : <Pause size={14} />}
+                        </motion.button>
+                      )}
+
+                      {/* Repeat button - Show when repeat mode is active or paragraph is speaking */}
+                      {showRepeatButton && (
+                        <motion.button
+                          initial={{ opacity: 0, scale: 0.8 }}
+                          animate={{ opacity: 1, scale: 1 }}
+                          exit={{ opacity: 0, scale: 0.8 }}
+                          whileHover={{ scale: 1.1 }}
+                          whileTap={{ scale: 0.9 }}
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            onParagraphRepeat?.(index);
+                          }}
+                          className={cn(
+                            "p-1.5 rounded-full transition-colors shadow-md",
+                            repeatMode
+                              ? "bg-blue-600 text-white hover:bg-blue-700"
+                              : "bg-gray-400 text-white hover:bg-gray-500"
+                          )}
+                          title={repeatMode ? "Turn off repeat mode" : "Turn on repeat mode"}
+                        >
+                          <div className="relative w-[14px] h-[14px]">
+                            {/* Circular arrow icon with number 1 */}
+                            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-full h-full">
+                              {/* Circular arrow path */}
+                              <path
+                                d="M12 2v6m0 0l-3-3m3 3l3-3M2 12a10 10 0 0010 10m0 0a10 10 0 01-7.07-2.93M22 12a10 10 0 00-10-10m0 0a10 10 0 017.07 2.93"
+                                stroke="currentColor"
+                                strokeWidth="2"
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                              />
+                              {/* Number 1 in center */}
+                              <text
+                                x="12"
+                                y="16"
+                                textAnchor="middle"
+                                fontSize="10"
+                                fontWeight="bold"
+                                fill="currentColor"
+                              >
+                                1
+                              </text>
+                            </svg>
+                          </div>
+                        </motion.button>
+                      )}
+                    </div>
+                  )}
+
+                  {/* Bookmark indicator */}
+                  {bookmarks.includes(index) && (
+                    <div className="absolute -left-8 top-0 text-yellow-500">
+                      📖
+                    </div>
+                  )}
+
+                  {/* Current paragraph indicator */}
+                  {currentParagraph === index && (
+                    <div className="absolute -left-6 top-1 w-2 h-2 bg-primary rounded-full current-paragraph"></div>
+                  )}
+
+    
+                  <p className="break-inside-avoid">
+                    {processParagraph(paragraph, index)}
+                  </p>
+
+                  {/* Overlay for dimmed paragraphs to prevent interaction */}
+                  {dimOthers && currentParagraph !== index && (
+                    <div
+                      className="absolute inset-0 z-10 cursor-pointer"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        onParagraphClick?.(index);
+                      }}
+                      aria-label="Dimmed paragraph - click to focus"
+                    />
+                  )}
+                </motion.div>
+              );
+            })}
           </div>
         )}
       </div>
