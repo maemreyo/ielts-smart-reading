@@ -67,6 +67,15 @@ interface MobileToolbarProps {
   setColumnCount: (count: number) => void;
   lineSpacing: string;
   setLineSpacing: (spacing: string) => void;
+
+  // Timer controls
+  timerEnabled: boolean;
+  setTimerEnabled: (enabled: boolean) => void;
+  timerDuration: number;
+  setTimerDuration: (duration: number) => void;
+  timerRemaining: number;
+  timerActive: boolean;
+  formatTimer: (seconds: number) => string;
 }
 
 export function MobileToolbar({
@@ -108,6 +117,14 @@ export function MobileToolbar({
   setColumnCount,
   lineSpacing,
   setLineSpacing,
+// Timer controls
+  timerEnabled,
+  setTimerEnabled,
+  timerDuration,
+  setTimerDuration,
+  timerRemaining,
+  timerActive,
+  formatTimer,
 }: MobileToolbarProps) {
 
   return (
@@ -228,6 +245,14 @@ export function MobileToolbar({
             setColumnCount={setColumnCount}
             lineSpacing={lineSpacing}
             setLineSpacing={setLineSpacing}
+            // Timer controls
+            timerEnabled={timerEnabled}
+            setTimerEnabled={setTimerEnabled}
+            timerDuration={timerDuration}
+            setTimerDuration={setTimerDuration}
+            timerRemaining={timerRemaining}
+            timerActive={timerActive}
+            formatTimer={formatTimer}
           />
         </DropdownMenuContent>
       </DropdownMenu>

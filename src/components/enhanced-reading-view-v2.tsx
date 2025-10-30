@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState, useMemo } from "react";
+import { useEffect, useState, useMemo, useRef } from "react";
 import { ReadingToolbar } from "./reading/components/ReadingToolbar";
 import { ReadingContent } from "./reading/components/ReadingContent";
 import { ShortcutsModal } from "./reading/components/ShortcutsModal";
@@ -45,12 +45,81 @@ export function EnhancedReadingViewV2({
     updateSettings,
   } = useSpeech({ rate: speechRate });
 
+  // Timer functionality
+  const [timerEnabled, setTimerEnabled] = useState(false);
+  const [timerDuration, setTimerDuration] = useState(10); // Default 10 minutes
+  const [timerRemaining, setTimerRemaining] = useState(0);
+  const [timerActive, setTimerActive] = useState(false);
+  const timerIntervalRef = useRef<NodeJS.Timeout | null>(null);
+
   // Update speech rate when it changes
   useEffect(() => {
     if (speechSupported) {
       updateSettings({ rate: speechRate });
     }
   }, [speechRate, speechSupported, updateSettings]);
+
+  // Timer control functions
+  const startTimer = () => {
+    if (!timerEnabled || timerDuration <= 0) return;
+
+    setTimerRemaining(timerDuration * 60); // Convert minutes to seconds
+    setTimerActive(true);
+  };
+
+  const stopTimer = () => {
+    setTimerActive(false);
+    setTimerRemaining(0);
+    if (timerIntervalRef.current) {
+      clearInterval(timerIntervalRef.current);
+      timerIntervalRef.current = null;
+    }
+  };
+
+  // Timer countdown effect
+  useEffect(() => {
+    if (timerActive && timerRemaining > 0) {
+      timerIntervalRef.current = setInterval(() => {
+        setTimerRemaining((prev) => {
+          if (prev <= 1) {
+            // Timer finished
+            setTimerActive(false);
+            if (isSpeaking) {
+              handleStopSpeech();
+            }
+            return 0;
+          }
+          return prev - 1;
+        });
+      }, 1000);
+    } else {
+      if (timerIntervalRef.current) {
+        clearInterval(timerIntervalRef.current);
+        timerIntervalRef.current = null;
+      }
+    }
+
+    return () => {
+      if (timerIntervalRef.current) {
+        clearInterval(timerIntervalRef.current);
+        timerIntervalRef.current = null;
+      }
+    };
+  }, [timerActive, timerRemaining, isSpeaking]);
+
+  // Auto-start timer when speech starts
+  useEffect(() => {
+    if (isSpeaking && timerEnabled && !timerActive) {
+      startTimer();
+    }
+  }, [isSpeaking, timerEnabled, timerActive]);
+
+  // Format timer display
+  const formatTimer = (seconds: number) => {
+    const mins = Math.floor(seconds / 60);
+    const secs = seconds % 60;
+    return `${mins}:${secs.toString().padStart(2, '0')}`;
+  };
 
   // Speech reading state
   const [speechMode, setSpeechMode] = useState(false);
@@ -157,6 +226,7 @@ export function EnhancedReadingViewV2({
   const handleStopSpeech = () => {
     stop();
     setSpeechMode(false);
+    stopTimer(); // Also stop the timer
     // Restore dim state when stopped
     if (wasDimmedBeforeSpeech) {
       readingState.setDimOthers(false);
@@ -316,6 +386,14 @@ export function EnhancedReadingViewV2({
         onPauseSpeech={handlePauseSpeech}
         onResumeSpeech={handleResumeSpeech}
         onStopSpeech={handleStopSpeech}
+        // Timer controls
+        timerEnabled={timerEnabled}
+        setTimerEnabled={setTimerEnabled}
+        timerDuration={timerDuration}
+        setTimerDuration={setTimerDuration}
+        timerRemaining={timerRemaining}
+        timerActive={timerActive}
+        formatTimer={formatTimer}
       />
 
       {/* Main Reading Content */}

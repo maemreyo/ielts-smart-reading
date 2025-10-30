@@ -18,6 +18,7 @@ import {
   Turtle,
   Rabbit,
   Gauge,
+  Clock,
 } from "lucide-react";
 
 interface DesktopToolbarProps {
@@ -32,6 +33,15 @@ interface DesktopToolbarProps {
   resetReading: () => void;
   speechRate: number;
   setSpeechRate: (rate: number) => void;
+
+  // Timer controls
+  timerEnabled: boolean;
+  setTimerEnabled: (enabled: boolean) => void;
+  timerDuration: number;
+  setTimerDuration: (duration: number) => void;
+  timerRemaining: number;
+  timerActive: boolean;
+  formatTimer: (seconds: number) => string;
 
   // Speech controls
   speechSupported: boolean;
@@ -80,6 +90,14 @@ export function DesktopToolbar({
   resetReading,
   speechRate,
   setSpeechRate,
+  // Timer controls
+  timerEnabled,
+  setTimerEnabled,
+  timerDuration,
+  setTimerDuration,
+  timerRemaining,
+  timerActive,
+  formatTimer,
   // Speech controls
   speechSupported,
   isSpeaking,
@@ -220,6 +238,22 @@ export function DesktopToolbar({
           </div>
         </motion.button>
       </div>
+
+      {/* Timer Display */}
+      {timerEnabled && (
+        <div className="flex items-center gap-2">
+          <Clock size={16} className="text-muted-foreground" />
+          <span className={cn(
+            "text-sm font-mono min-w-[3rem]",
+            timerActive && timerRemaining <= 60 && "text-red-500"
+          )}>
+            {formatTimer(timerRemaining)}
+          </span>
+          {timerActive && (
+            <div className="w-2 h-2 bg-red-500 rounded-full animate-pulse"></div>
+          )}
+        </div>
+      )}
 
       <div className="h-5 w-px bg-border"></div>
 

@@ -54,6 +54,15 @@ interface ReadingToolbarProps {
 
   // Shortcuts
   toggleShortcuts: () => void;
+
+  // Timer controls
+  timerEnabled: boolean;
+  setTimerEnabled: (enabled: boolean) => void;
+  timerDuration: number;
+  setTimerDuration: (duration: number) => void;
+  timerRemaining: number;
+  timerActive: boolean;
+  formatTimer: (seconds: number) => string;
 }
 
 export function ReadingToolbar({
@@ -95,6 +104,14 @@ export function ReadingToolbar({
   lineSpacing,
   setLineSpacing,
   toggleShortcuts,
+  // Timer controls
+  timerEnabled,
+  setTimerEnabled,
+  timerDuration,
+  setTimerDuration,
+  timerRemaining,
+  timerActive,
+  formatTimer,
 }: ReadingToolbarProps) {
   return (
     <motion.div
@@ -144,6 +161,14 @@ export function ReadingToolbar({
           setColumnCount={setColumnCount}
           lineSpacing={lineSpacing}
           setLineSpacing={setLineSpacing}
+          // Timer controls
+          timerEnabled={timerEnabled}
+          setTimerEnabled={setTimerEnabled}
+          timerDuration={timerDuration}
+          setTimerDuration={setTimerDuration}
+          timerRemaining={timerRemaining}
+          timerActive={timerActive}
+          formatTimer={formatTimer}
         />
 
         {/* Desktop Full View */}
@@ -156,6 +181,14 @@ export function ReadingToolbar({
           resetReading={resetReading}
           speechRate={speechRate}
           setSpeechRate={setSpeechRate}
+          // Timer controls
+          timerEnabled={timerEnabled}
+          setTimerEnabled={setTimerEnabled}
+          timerDuration={timerDuration}
+          setTimerDuration={setTimerDuration}
+          timerRemaining={timerRemaining}
+          timerActive={timerActive}
+          formatTimer={formatTimer}
           // Speech props
           speechSupported={speechSupported}
           isSpeaking={isSpeaking}
@@ -202,6 +235,11 @@ export function ReadingToolbar({
             setHideTranslations={setHideTranslations}
             guessMode={guessMode}
             setGuessMode={setGuessMode}
+            // Timer controls
+            timerEnabled={timerEnabled}
+            setTimerEnabled={setTimerEnabled}
+            timerDuration={timerDuration}
+            setTimerDuration={setTimerDuration}
           />
         </div>
       </div>

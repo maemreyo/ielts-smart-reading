@@ -28,7 +28,8 @@ import {
   Brain,
   Sun,
   Moon,
-  BookOpen
+  BookOpen,
+  Clock
 } from "lucide-react";
 
 interface SettingsDropdownProps {
@@ -54,6 +55,12 @@ interface SettingsDropdownProps {
   setHideTranslations: (hide: boolean) => void;
   guessMode: boolean;
   setGuessMode: (guess: boolean) => void;
+
+  // Timer controls
+  timerEnabled: boolean;
+  setTimerEnabled: (enabled: boolean) => void;
+  timerDuration: number;
+  setTimerDuration: (duration: number) => void;
 }
 
 const fontFamilies = [
@@ -66,6 +73,14 @@ const lineSpacings = [
   { name: "Tight", class: "leading-tight", icon: <AlignLeft size={16} /> },
   { name: "Normal", class: "leading-normal", icon: <AlignCenter size={16} /> },
   { name: "Relaxed", class: "leading-relaxed", icon: <AlignJustify size={16} /> }
+];
+
+// Timer presets
+const timerPresets = [
+  { name: "5 min", value: 5 },
+  { name: "10 min", value: 10 },
+  { name: "15 min", value: 15 },
+  { name: "30 min", value: 30 }
 ];
 
 export function SettingsDropdown({
@@ -91,6 +106,11 @@ export function SettingsDropdown({
   setHideTranslations,
   guessMode,
   setGuessMode,
+  // Timer controls
+  timerEnabled,
+  setTimerEnabled,
+  timerDuration,
+  setTimerDuration,
 }: SettingsDropdownProps) {
 
   // Theme options
@@ -343,6 +363,69 @@ export function SettingsDropdown({
             checked={showAnimations}
             onCheckedChange={setShowAnimations}
           />
+        </div>
+
+        <DropdownMenuSeparator />
+
+        {/* Timer Settings */}
+        <div className="space-y-3">
+          <label className="text-sm font-medium">Reading Timer</label>
+          <div className="space-y-2">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-2">
+                <Clock size={16} />
+                <span className="text-sm">Enable Timer</span>
+              </div>
+              <button
+                onClick={() => setTimerEnabled(!timerEnabled)}
+                className={cn(
+                  "px-2 py-1 text-xs rounded-md transition-colors",
+                  timerEnabled
+                    ? "bg-primary text-primary-foreground"
+                    : "bg-muted hover:bg-muted/80"
+                )}
+              >
+                {timerEnabled ? "On" : "Off"}
+              </button>
+            </div>
+
+            {timerEnabled && (
+              <>
+                <div className="space-y-2">
+                  <div className="flex items-center justify-between">
+                    <label className="text-xs text-muted-foreground">Duration</label>
+                    <span className="text-xs text-muted-foreground">{timerDuration} min</span>
+                  </div>
+                  <Slider
+                    value={[timerDuration]}
+                    onValueChange={([value]) => setTimerDuration(value)}
+                    max={30}
+                    min={5}
+                    step={5}
+                    className="w-full"
+                  />
+                </div>
+
+                <div className="grid grid-cols-4 gap-1">
+                  {timerPresets.map((preset) => (
+                    <button
+                      key={preset.value}
+                      onClick={() => setTimerDuration(preset.value)}
+                      className={cn(
+                        "px-2 py-1 text-xs rounded-md transition-colors",
+                        timerDuration === preset.value
+                          ? "bg-primary text-primary-foreground"
+                          : "bg-muted hover:bg-muted/80"
+                      )}
+                      title={preset.name}
+                    >
+                      {preset.name}
+                    </button>
+                  ))}
+                </div>
+              </>
+            )}
+          </div>
         </div>
       </DropdownMenuContent>
     </DropdownMenu>

@@ -26,7 +26,8 @@ import {
   Brain,
   Turtle,
   Rabbit,
-  Gauge
+  Gauge,
+  Clock
 } from "lucide-react";
 
 interface MobileSettingsContentProps {
@@ -56,6 +57,15 @@ interface MobileSettingsContentProps {
   setColumnCount: (count: number) => void;
   lineSpacing: string;
   setLineSpacing: (spacing: string) => void;
+
+  // Timer controls
+  timerEnabled: boolean;
+  setTimerEnabled: (enabled: boolean) => void;
+  timerDuration: number;
+  setTimerDuration: (duration: number) => void;
+  timerRemaining: number;
+  timerActive: boolean;
+  formatTimer: (seconds: number) => string;
 }
 
 const sentimentFilters = [
@@ -98,6 +108,14 @@ const themes = [
   { name: "Dark", value: "dark", icon: <Moon size={16} /> }
 ];
 
+// Timer presets for mobile
+const timerPresetsMobile = [
+  { name: "5 min", value: 5 },
+  { name: "10 min", value: 10 },
+  { name: "15 min", value: 15 },
+  { name: "30 min", value: 30 }
+];
+
 export function MobileSettingsContent({
   speechRate,
   setSpeechRate,
@@ -125,6 +143,14 @@ export function MobileSettingsContent({
   setColumnCount,
   lineSpacing,
   setLineSpacing,
+// Timer controls
+  timerEnabled,
+  setTimerEnabled,
+  timerDuration,
+  setTimerDuration,
+  timerRemaining,
+  timerActive,
+  formatTimer,
 }: MobileSettingsContentProps) {
   // Get current speech rate preset info for mobile
   const currentSpeechRatePresetMobile = speechRatePresetsMobile.find(p => p.rate === speechRate) || speechRatePresetsMobile[0];
@@ -418,6 +444,85 @@ export function MobileSettingsContent({
           checked={showAnimations}
           onCheckedChange={setShowAnimations}
         />
+      </div>
+
+      <div className="border-t pt-4" />
+
+      {/* Timer Settings */}
+      <div className="space-y-3">
+        <label className="text-sm font-medium">Reading Timer</label>
+        <div className="space-y-2">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <Clock size={16} />
+              <span className="text-sm">Enable Timer</span>
+            </div>
+            <button
+              onClick={() => setTimerEnabled(!timerEnabled)}
+              className={cn(
+                "px-2 py-1 text-xs rounded-md transition-colors",
+                timerEnabled
+                  ? "bg-primary text-primary-foreground"
+                  : "bg-muted hover:bg-muted/80"
+              )}
+            >
+              {timerEnabled ? "On" : "Off"}
+            </button>
+          </div>
+
+          {/* Timer Display */}
+          {timerEnabled && (
+            <>
+              {timerActive && (
+                <div className="text-center p-2 bg-muted rounded-md">
+                  <div className="text-sm font-medium">Time Remaining</div>
+                  <div className={cn(
+                    "text-lg font-mono",
+                    timerRemaining <= 60 && "text-red-500"
+                  )}>
+                    {formatTimer(timerRemaining)}
+                  </div>
+                  {timerRemaining <= 60 && (
+                    <div className="text-xs text-red-500">Finishing soon...</div>
+                  )}
+                </div>
+              )}
+
+              <div className="space-y-2">
+                <div className="flex items-center justify-between">
+                  <label className="text-xs text-muted-foreground">Duration</label>
+                  <span className="text-xs text-muted-foreground">{timerDuration} min</span>
+                </div>
+                <Slider
+                  value={[timerDuration]}
+                  onValueChange={([value]) => setTimerDuration(value)}
+                  max={30}
+                  min={5}
+                  step={5}
+                  className="w-full"
+                />
+              </div>
+
+              <div className="grid grid-cols-4 gap-2">
+                {timerPresetsMobile.map((preset) => (
+                  <button
+                    key={preset.value}
+                    onClick={() => setTimerDuration(preset.value)}
+                    className={cn(
+                      "px-2 py-1 text-xs rounded-md transition-colors",
+                      timerDuration === preset.value
+                        ? "bg-primary text-primary-foreground"
+                        : "bg-muted hover:bg-muted/80"
+                    )}
+                    title={preset.name}
+                  >
+                    {preset.name}
+                  </button>
+                ))}
+              </div>
+            </>
+          )}
+        </div>
       </div>
     </div>
   );
