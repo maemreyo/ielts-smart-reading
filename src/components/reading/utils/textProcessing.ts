@@ -6,9 +6,9 @@ export type { LexicalItem, LegacyLexicalItem };
 export { isLegacyLexicalItem, isNewLexicalItem };
 
 // Cache the LexicalItem component to prevent re-imports
-const LexicalItemComponent = React.lazy(() => 
-  import("@/components/lexical-item").then(module => ({ 
-    default: module.LexicalItem 
+const LexicalItemComponent = React.lazy(() =>
+  import("@/components/lexical-item-v2").then(module => ({
+    default: module.LexicalItem
   }))
 );
 

@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
-import { LexicalItem } from "@/components/lexical-item";
+import { LexicalItem } from "@/components/lexical-item-v2";
 import { Play, Pause, RotateCcw, Volume2, Redo, Repeat1 } from "lucide-react";
 
 interface ReadingContentProps {

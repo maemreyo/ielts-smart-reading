@@ -24,7 +24,7 @@ import {
 } from "lucide-react";
 import { ReadingProgressBar } from "./reading-progress-bar";
 import useLocalStorage from "@/hooks/use-local-storage";
-import { LexicalItem } from "./lexical-item";
+import { LexicalItem } from "./lexical-item-v2";
 import { useHotkeys } from "react-hotkeys-hook";
 import { useToggle, useLocalStorage as useLocalStorageToggle } from "react-use";
 import {
