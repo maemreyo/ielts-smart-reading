@@ -22,7 +22,8 @@ import {
     Sparkles,
     CheckCircle2,
     Lightbulb,
-    Pencil
+    Pencil,
+    X
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { PhoneticZoom } from "./phonetic-zoom";
@@ -145,14 +146,14 @@ export function LexicalItem({
                 <DialogContent
                     size="4xl"
                     className={cn(
-                        "max-h-[90vh] overflow-hidden p-0",
+                        "max-h-[95vh] sm:max-h-[85vh] overflow-hidden p-0",
                         themeClasses.bg,
                         themeClasses.text
                     )}
                 >
                     {/* Enhanced Header with Definitions */}
                     <DialogHeader className={cn(
-                        "px-8 pt-6 pb-4 pr-16 border-b",
+                        "px-3 sm:px-8 pt-3 sm:pt-6 pb-2 sm:pb-4 pr-16 sm:pr-16 border-b",
                         themeClasses.headerBg,
                         themeClasses.border
                     )}>
@@ -160,10 +161,21 @@ export function LexicalItem({
                             {/* Title Row with Definitions */}
                             <div className="space-y-2">
                                 {/* Main Title with Word and Audio */}
-                                <div className="flex items-start justify-between gap-4">
-                                    <div className="flex-1 min-w-0">
-                                        <DialogTitle className="text-4xl font-bold mb-1 flex items-center gap-3 flex-wrap">
-                                            {targetLexeme}
+                                <div className="flex flex-col gap-2">
+                                    {/* Title alone */}
+                                    <DialogTitle className="text-3xl sm:text-4xl font-bold break-words text-left">
+                                        {targetLexeme}
+                                    </DialogTitle>
+
+                                    {/* Phonetic, Register and Audio on same line on mobile */}
+                                    <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4">
+                                        {phonetic && (
+                                            <PhoneticZoom
+                                                text={phonetic}
+                                                className={cn("text-sm italic text-left", themeClasses.muted)}
+                                            />
+                                        )}
+                                        <div className="flex items-center gap-2">
                                             {register && (
                                                 <span className={cn(
                                                     "text-xs px-2.5 py-1 rounded-full border font-normal",
@@ -176,37 +188,31 @@ export function LexicalItem({
                                                     📝 {register}
                                                 </span>
                                             )}
-                                        </DialogTitle>
-                                        {phonetic && (
-                                            <PhoneticZoom
-                                                text={phonetic}
-                                                className={cn("text-sm italic", themeClasses.muted)}
-                                            />
-                                        )}
+                                            <Button
+                                                size="sm"
+                                                variant="outline"
+                                                onClick={() => speakText(targetLexeme)}
+                                                disabled={isSpeaking}
+                                                className="hover:bg-amber-100 dark:hover:bg-amber-900/30 flex-shrink-0"
+                                            >
+                                                <Volume2 className={cn("h-4 w-4", isSpeaking && "animate-pulse")} />
+                                            </Button>
+                                        </div>
                                     </div>
-                                    <Button
-                                        size="sm"
-                                        variant="outline"
-                                        onClick={() => speakText(targetLexeme)}
-                                        disabled={isSpeaking}
-                                        className="hover:bg-amber-100 dark:hover:bg-amber-900/30 flex-shrink-0"
-                                    >
-                                        <Volume2 className={cn("h-4 w-4", isSpeaking && "animate-pulse")} />
-                                    </Button>
                                 </div>
 
                                 {/* Definitions Right Next to Word */}
                                 <div className="flex flex-col sm:flex-row gap-4 pl-1">
-                                    <div className="flex items-start gap-2 flex-1">
-                                        <BookText className="h-4 w-4 text-blue-600 dark:text-blue-400 mt-0.5 flex-shrink-0" />
+                                    <div className="flex items-center gap-2 flex-1">
+                                        <BookText className="hidden sm:block h-4 w-4 text-blue-600 dark:text-blue-400 mt-0.5 flex-shrink-0" />
                                         <div className="flex-1">
-                                            <p className="text-sm leading-relaxed text-blue-700 dark:text-blue-300 font-medium">{definitionEN}</p>
+                                            <p className="text-sm leading-relaxed text-blue-700 dark:text-blue-300 font-medium text-left">{definitionEN}</p>
                                         </div>
                                     </div>
-                                    <div className="flex items-start gap-2 flex-1">
-                                        <Eye className="h-4 w-4 text-orange-600 dark:text-orange-400 mt-0.5 flex-shrink-0" />
+                                    <div className="flex items-center gap-2 flex-1">
+                                        <Eye className="hidden sm:block h-4 w-4 text-orange-600 dark:text-orange-400 mt-0.5 flex-shrink-0" />
                                         <div className="flex-1">
-                                            <p className="text-sm font-semibold text-orange-700 dark:text-orange-400">{formattedTranslation}</p>
+                                            <p className="text-sm font-semibold text-orange-700 dark:text-orange-400 text-left">{formattedTranslation}</p>
                                         </div>
                                     </div>
                                 </div>
@@ -215,10 +221,10 @@ export function LexicalItem({
                     </DialogHeader>
 
                     {/* Main Content */}
-                    <div className="overflow-y-auto max-h-[calc(90vh-220px)] px-5 py-4">
+                    <div className="overflow-y-auto max-h-[calc(95vh-160px)] sm:max-h-[calc(85vh-180px)] px-3 sm:px-5 py-3 sm:py-4">
                         {guessMode ? (
                             /* Guess Mode Content */
-                            <div className="space-y-6">
+                            <div className="space-y-4 sm:space-y-6">
                                 {/* Progress Stepper */}
                                 <div className="flex items-center justify-between mb-2">
                                     {[
@@ -275,7 +281,7 @@ export function LexicalItem({
                                                 ? "bg-blue-50 border-blue-300"
                                                 : "bg-slate-800 border-slate-600"
                                     )}>
-                                        <div className="flex items-center gap-2 mb-3">
+                                        <div className="flex items-center gap-2 mb-2 md:mb-3">
                                             <Brain className="h-6 w-6 text-blue-600 dark:text-blue-400" />
                                             <h3 className="font-bold text-lg">What's your guess?</h3>
                                         </div>
@@ -301,14 +307,14 @@ export function LexicalItem({
                                 {revealLevel > 0 && (
                                     <div className="space-y-4">
                                         <div className={cn(
-                                            "rounded-xl p-4 border",
+                                            "rounded-xl p-2 sm:p-4 border",
                                             theme === "sepia"
                                                 ? "bg-amber-100 border-amber-300"
                                                 : theme === "light"
                                                     ? "bg-blue-50 border-blue-200"
                                                     : "bg-slate-800 border-slate-700"
                                         )}>
-                                            <div className="flex items-center gap-2 mb-3">
+                                            <div className="flex items-center gap-2 mb-2 md:mb-3">
                                                 <Brain className="h-5 w-5 text-blue-600 dark:text-blue-400" />
                                                 <h4 className="font-semibold">Your Guess</h4>
                                             </div>
@@ -319,14 +325,14 @@ export function LexicalItem({
 
                                         {phase1Inference?.contextualGuessVI && (
                                             <div className={cn(
-                                                "rounded-xl p-4 border",
+                                                "rounded-xl p-2 sm:p-4 border",
                                                 theme === "sepia"
                                                     ? "bg-yellow-50 border-yellow-300"
                                                     : theme === "light"
                                                         ? "bg-yellow-50 border-yellow-200"
                                                         : "bg-yellow-900/20 border-yellow-800"
                                             )}>
-                                                <div className="flex items-center gap-2 mb-3">
+                                                <div className="flex items-center gap-2 mb-2 md:mb-3">
                                                     <Lightbulb className="h-5 w-5 text-yellow-600 dark:text-yellow-400" />
                                                     <h4 className="font-semibold text-yellow-900 dark:text-yellow-300">Suggested Guess</h4>
                                                 </div>
@@ -362,18 +368,18 @@ export function LexicalItem({
                             </div>
                         ) : (
                             /* Normal Mode Content */
-                            <div className="space-y-4">
+                            <div className="space-y-3 sm:space-y-4">
                                 {/* Word Forms - Linear Layout */}
-                                {wordForms && (
+                                {wordForms && wordForms.length > 0 && (
                                     <div className={cn(
-                                        "rounded-xl p-4 border",
+                                        "rounded-xl p-2 sm:p-4 border",
                                         theme === "sepia"
                                             ? "bg-purple-50 border-purple-200"
                                             : theme === "light"
                                                 ? "bg-purple-50 border-purple-200"
                                                 : "bg-purple-950/30 border-purple-800"
                                     )}>
-                                        <div className="flex items-center gap-2 mb-3">
+                                        <div className="flex items-center gap-2 mb-2 md:mb-3">
                                             <Wand2 className="h-5 w-5 text-purple-600 dark:text-purple-400" />
                                             <h3 className="font-semibold text-purple-900 dark:text-purple-300">Word Family</h3>
                                         </div>
@@ -408,17 +414,17 @@ export function LexicalItem({
 
                                 {/* Collocations and Contrasting Phrases - 2 Columns Symmetrical */}
                                 {(relatedCollocates.length > 0 || contrastingCollocates.length > 0) && (
-                                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                    <div className="grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-4">
                                         {/* Left: Collocations (Blue theme) */}
                                         <div className={cn(
-                                            "rounded-xl p-4 border",
+                                            "rounded-xl p-2 sm:p-4 border",
                                             theme === "sepia"
                                                 ? "bg-blue-50 border-blue-200"
                                                 : theme === "light"
                                                     ? "bg-blue-50 border-blue-200"
                                                     : "bg-blue-950/30 border-blue-800"
                                         )}>
-                                            <div className="flex items-center gap-2 mb-3">
+                                            <div className="flex items-center gap-2 mb-2 md:mb-3">
                                                 <Spline className="h-5 w-5 text-blue-600 dark:text-blue-400" />
                                                 <h3 className="font-semibold text-blue-900 dark:text-blue-300">
                                                     Collocations
@@ -449,14 +455,14 @@ export function LexicalItem({
 
                                         {/* Right: Contrasting Phrases (Rose theme) */}
                                         <div className={cn(
-                                            "rounded-xl p-4 border",
+                                            "rounded-xl p-2 sm:p-4 border",
                                             theme === "sepia"
                                                 ? "bg-rose-50 border-rose-200"
                                                 : theme === "light"
                                                     ? "bg-rose-50 border-rose-200"
                                                     : "bg-rose-950/30 border-rose-800"
                                         )}>
-                                            <div className="flex items-center gap-2 mb-3">
+                                            <div className="flex items-center gap-2 mb-2 md:mb-3">
                                                 <FlipHorizontal className="h-5 w-5 text-rose-600 dark:text-rose-400" />
                                                 <h3 className="font-semibold text-rose-900 dark:text-rose-300">
                                                     Contrasting Phrases
@@ -492,14 +498,14 @@ export function LexicalItem({
                                     {/* Usage Notes */}
                                     {usageNotes && (
                                         <div className={cn(
-                                            "rounded-xl p-4 border",
+                                            "rounded-xl p-2 sm:p-4 border",
                                             theme === "sepia"
                                                 ? "bg-emerald-50 border-emerald-200"
                                                 : theme === "light"
                                                     ? "bg-emerald-50 border-emerald-200"
                                                     : "bg-emerald-950/30 border-emerald-800"
                                         )}>
-                                            <div className="flex items-center gap-2 mb-3">
+                                            <div className="flex items-center gap-2 mb-2 md:mb-3">
                                                 <Lightbulb className="h-5 w-5 text-emerald-600 dark:text-emerald-400" />
                                                 <h3 className="font-semibold text-emerald-900 dark:text-emerald-300">Usage Notes</h3>
                                             </div>
@@ -512,14 +518,14 @@ export function LexicalItem({
                                     {/* Connotation */}
                                     {connotation && (
                                         <div className={cn(
-                                            "rounded-xl p-4 border",
+                                            "rounded-xl p-2 sm:p-4 border",
                                             theme === "sepia"
                                                 ? "bg-indigo-50 border-indigo-200"
                                                 : theme === "light"
                                                     ? "bg-indigo-50 border-indigo-200"
                                                     : "bg-indigo-950/30 border-indigo-800"
                                         )}>
-                                            <div className="flex items-center gap-2 mb-3">
+                                            <div className="flex items-center gap-2 mb-2 md:mb-3">
                                                 <Sparkles className="h-5 w-5 text-indigo-600 dark:text-indigo-400" />
                                                 <h3 className="font-semibold text-indigo-900 dark:text-indigo-300">Connotation</h3>
                                             </div>
@@ -530,14 +536,14 @@ export function LexicalItem({
                                     {/* Practice Examples */}
                                     {phase3Production && (
                                         <div className={cn(
-                                            "rounded-xl p-4 border",
+                                            "rounded-xl p-2 sm:p-4 border",
                                             theme === "sepia"
                                                 ? "bg-purple-50 border-purple-200"
                                                 : theme === "light"
                                                     ? "bg-purple-50 border-purple-200"
                                                     : "bg-purple-950/30 border-purple-800"
                                         )}>
-                                            <div className="flex items-center gap-2 mb-3">
+                                            <div className="flex items-center gap-2 mb-2 md:mb-3">
                                                 <Pencil className="h-5 w-5 text-purple-600 dark:text-purple-400" />
                                                 <h3 className="font-semibold text-purple-900 dark:text-purple-300">
                                                     Example
@@ -556,6 +562,18 @@ export function LexicalItem({
                                 </div>
                             </div>
                         )}
+
+                        {/* Mobile Close Button */}
+                        <div className="sm:hidden flex justify-center py-4 border-t mt-4">
+                            <Button
+                                onClick={() => setOpen(false)}
+                                variant="outline"
+                                className="w-full max-w-xs py-3 text-base font-medium border-2 hover:bg-gray-50 dark:hover:bg-gray-800"
+                            >
+                                <X className="h-4 w-4 mr-2" />
+                                Close
+                            </Button>
+                        </div>
                     </div>
                 </DialogContent>
             </Dialog>
