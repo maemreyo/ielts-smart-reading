@@ -412,7 +412,7 @@ export function LexicalItem({
                             /* Normal Mode Content */
                             <div className="space-y-3 sm:space-y-4">
                                 {/* Word Family - Linear Layout */}
-                                {(wordForms && hasWordForms(wordForms)) || phase1Inference?.contextualGuessVI && (
+                                {(wordForms && hasWordForms(wordForms)) || phase1Inference?.contextualGuessVI ? (
                                     <div className={cn(
                                         "rounded-xl p-2 sm:p-4 border",
                                         theme === "sepia"
