@@ -65,13 +65,17 @@ export function LexicalItem({
         return data;
     };
 
-    const normalizeCollocates = (collocates?: CollocateObject[] | string[] | string): string[] => {
+    const normalizeCollocates = (collocates?: CollocateObject[] | string[] | string): CollocateObject[] => {
         if (!collocates) return [];
-        if (typeof collocates === 'string') return [collocates];
+        if (typeof collocates === 'string') return [{ form: collocates, meaning: '' }];
         if (isCollocateArray(collocates)) {
-            return collocates.map(c => c.form);
+            return collocates;
         }
-        return collocates as string[];
+        // Handle string array by converting to objects
+        if (Array.isArray(collocates) && collocates.length > 0 && typeof collocates[0] === 'string') {
+            return (collocates as string[]).map(form => ({ form, meaning: '' }));
+        }
+        return [];
     };
 
     const normalizeUsageNotes = (notes?: UsageNoteObject[] | string): UsageNoteObject[] => {
@@ -87,7 +91,12 @@ export function LexicalItem({
         if (!connotation) return [];
         if (typeof connotation === 'string') return [{ noteEN: connotation, noteVI: '' }];
         if (isConnotationArray(connotation)) {
-            return connotation;
+            return connotation.map(c => ({
+                noteEN: c.noteEN || c.connotationEN || '',
+                noteVI: c.noteVI || c.connotationVI || '',
+                connotationEN: c.connotationEN,
+                connotationVI: c.connotationVI
+            }));
         }
         return [];
     };
@@ -468,16 +477,23 @@ export function LexicalItem({
                                             <div className="space-y-3">
                                                 {relatedCollocates.length > 0 ? (
                                                     relatedCollocates.map((collocate, idx) => (
-                                                        <div key={idx} className="flex items-center justify-between">
-                                                            <span className="text-sm text-blue-900 dark:text-blue-200 font-medium">
-                                                                {collocate}
-                                                            </span>
-                                                            <button
-                                                                onClick={() => speakText(collocate)}
-                                                                className="group p-1.5 bg-blue-100 dark:bg-blue-800/50 hover:bg-blue-200 dark:hover:bg-blue-700 rounded-lg transition-all"
-                                                            >
-                                                                <Volume2 className="h-3 w-3 text-blue-700 dark:text-blue-300" />
-                                                            </button>
+                                                        <div key={idx} className="space-y-1">
+                                                            <div className="flex items-center justify-between">
+                                                                <span className="text-sm text-blue-900 dark:text-blue-200 font-medium">
+                                                                    {collocate.form}
+                                                                </span>
+                                                                <button
+                                                                    onClick={() => speakText(collocate.form)}
+                                                                    className="group p-1.5 bg-blue-100 dark:bg-blue-800/50 hover:bg-blue-200 dark:hover:bg-blue-700 rounded-lg transition-all"
+                                                                >
+                                                                    <Volume2 className="h-3 w-3 text-blue-700 dark:text-blue-300" />
+                                                                </button>
+                                                            </div>
+                                                            {collocate.meaning && (
+                                                                <p className="text-xs text-blue-700 dark:text-blue-300 italic ml-8">
+                                                                    ({collocate.meaning})
+                                                                </p>
+                                                            )}
                                                         </div>
                                                     ))
                                                 ) : (
@@ -509,16 +525,23 @@ export function LexicalItem({
                                             <div className="space-y-3">
                                                 {contrastingCollocates.length > 0 ? (
                                                     contrastingCollocates.map((collocate, idx) => (
-                                                        <div key={idx} className="flex items-center justify-between">
-                                                            <span className="text-sm text-rose-900 dark:text-rose-200 font-medium">
-                                                                {collocate}
-                                                            </span>
-                                                            <button
-                                                                onClick={() => speakText(collocate)}
-                                                                className="group p-1.5 bg-rose-100 dark:bg-rose-800/50 hover:bg-rose-200 dark:hover:bg-rose-700 rounded-lg transition-all"
-                                                            >
-                                                                <Volume2 className="h-3 w-3 text-rose-700 dark:text-rose-300" />
-                                                            </button>
+                                                        <div key={idx} className="space-y-1">
+                                                            <div className="flex items-center justify-between">
+                                                                <span className="text-sm text-rose-900 dark:text-rose-200 font-medium">
+                                                                    {collocate.form}
+                                                                </span>
+                                                                <button
+                                                                    onClick={() => speakText(collocate.form)}
+                                                                    className="group p-1.5 bg-rose-100 dark:bg-rose-800/50 hover:bg-rose-200 dark:hover:bg-rose-700 rounded-lg transition-all"
+                                                                >
+                                                                    <Volume2 className="h-3 w-3 text-rose-700 dark:text-rose-300" />
+                                                                </button>
+                                                            </div>
+                                                            {collocate.meaning && (
+                                                                <p className="text-xs text-rose-700 dark:text-rose-300 italic ml-8">
+                                                                    ({collocate.meaning})
+                                                                </p>
+                                                            )}
                                                         </div>
                                                     ))
                                                 ) : (

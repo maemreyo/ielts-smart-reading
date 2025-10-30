@@ -22,8 +22,10 @@ export interface UsageNoteObject {
 }
 
 export interface ConnotationObject {
-  noteEN: string;
-  noteVI: string;
+  noteEN?: string;
+  noteVI?: string;
+  connotationEN?: string;
+  connotationVI?: string;
 }
 
 export interface Phase1Inference {
@@ -101,7 +103,8 @@ export function isUsageNoteArray(notes: any): notes is UsageNoteObject[] {
 
 export function isConnotationArray(connotations: any): connotations is ConnotationObject[] {
   return Array.isArray(connotations) && connotations.length > 0 &&
-         typeof connotations[0] === 'object' && 'noteEN' in connotations[0];
+         typeof connotations[0] === 'object' &&
+         ('noteEN' in connotations[0] || 'connotationEN' in connotations[0]);
 }
 
 // Migration function type
