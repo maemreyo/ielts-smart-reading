@@ -140,7 +140,7 @@ export function ReadingToolbar({
       initial={{ y: -100 }}
       animate={{ y: toolbarVisible ? 0 : -100 }}
       transition={{ duration: 0.3, ease: "easeInOut" }}
-      className="p-3 bg-background/95 backdrop-blur-md sticky top-0 z-40 border-b shadow-sm"
+      className="p-3 bg-background/95 backdrop-blur-md sticky top-0 z-30 border-b shadow-sm"
     >
       <div className="flex items-center justify-center gap-2 md:gap-3 flex-wrap">
         {/* Mobile Compact View */}

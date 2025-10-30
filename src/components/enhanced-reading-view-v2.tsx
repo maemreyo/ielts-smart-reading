@@ -1,6 +1,9 @@
 "use client";
 
 import { useEffect, useState, useRef, useCallback } from "react";
+import { Button } from "@/components/ui/button";
+import { ArrowLeft, BookOpen } from "lucide-react";
+import Link from "next/link";
 import { ReadingToolbar } from "./reading/components/ReadingToolbar";
 import { ReadingContent } from "./reading/components/ReadingContent";
 import { ShortcutsModal } from "./reading/components/ShortcutsModal";
@@ -270,6 +273,27 @@ export function EnhancedReadingViewV2({
           onComplete={handleCompleteLearning}
         />
       )}
+
+      {/* Back to Reading Header */}
+      <div className="border-b border-border bg-card/50 sticky top-0 z-40 bg-white">
+        <div className="max-w-7xl mx-auto px-4 py-3">
+          <div className="flex items-center gap-4">
+            <Link href="/reading">
+              <Button variant="ghost" size="sm" className="flex items-center gap-2">
+                <ArrowLeft className="w-4 h-4" />
+                Back to Reading
+              </Button>
+            </Link>
+
+            <div className="flex items-center gap-2">
+              <BookOpen className="w-5 h-5 text-primary" />
+              <h1 className="text-lg font-semibold">
+                {title || `Cambridge Reading - Passage`}
+              </h1>
+            </div>
+          </div>
+        </div>
+      </div>
 
       {/* Toolbar */}
       <ReadingToolbar
