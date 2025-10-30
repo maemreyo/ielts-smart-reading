@@ -59,6 +59,8 @@ export function SelfLearningView({
     exportAsText,
     exportAsCSV,
     exportAsJSON,
+    exportAsBatches,
+    createBatches,
     copyToClipboard,
     downloadFile
   } = useExportFunctions(highlightedRanges);
@@ -171,6 +173,8 @@ export function SelfLearningView({
           exportAsText={exportAsText}
           exportAsCSV={exportAsCSV}
           exportAsJSON={exportAsJSON}
+          exportAsBatches={exportAsBatches}
+          createBatches={createBatches}
           book={book}
           test={test}
           passage={passage}

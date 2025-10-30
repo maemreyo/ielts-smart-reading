@@ -3,7 +3,7 @@
 import React from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { Highlighter, Copy, Download } from "lucide-react";
+import { Highlighter, Copy, Download, Package, CheckSquare } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { HighlightedRange } from "../types";
 
@@ -17,6 +17,8 @@ interface VocabularySidebarProps {
   exportAsText: () => string;
   exportAsCSV: () => string;
   exportAsJSON: () => string;
+  exportAsBatches: (batchSize: number, includeOriginal: boolean) => any;
+  createBatches: (batchSize: number) => any;
   book: string;
   test: string;
   passage: string;
@@ -33,6 +35,8 @@ export const VocabularySidebar = React.forwardRef<HTMLDivElement, VocabularySide
     exportAsText,
     exportAsCSV,
     exportAsJSON,
+    exportAsBatches,
+    createBatches,
     book,
     test,
     passage
@@ -40,6 +44,11 @@ export const VocabularySidebar = React.forwardRef<HTMLDivElement, VocabularySide
   ref
 ) => {
   const hasHighlights = highlightedRanges.length > 0;
+
+  // State for batch export options
+  const [batchSize, setBatchSize] = React.useState(25);
+  const [includeOriginal, setIncludeOriginal] = React.useState(true);
+  const [showBatchOptions, setShowBatchOptions] = React.useState(false);
 
   return (
     <div ref={ref} className={cn(
@@ -154,6 +163,86 @@ export const VocabularySidebar = React.forwardRef<HTMLDivElement, VocabularySide
                         .json
                       </Button>
                     </div>
+                  </div>
+
+                  {/* Batch Export Section */}
+                  <div className="space-y-2">
+                    <div className="flex items-center justify-between">
+                      <div className="text-xs font-medium text-muted-foreground">Batch Export (25-30 items)</div>
+                      <Button
+                        size="sm"
+                        variant="ghost"
+                        onClick={() => setShowBatchOptions(!showBatchOptions)}
+                        className="h-6 px-2 text-xs"
+                      >
+                        <Package className="w-3 h-3" />
+                      </Button>
+                    </div>
+
+                    {showBatchOptions && (
+                      <motion.div
+                        initial={{ opacity: 0, height: 0 }}
+                        animate={{ opacity: 1, height: 'auto' }}
+                        exit={{ opacity: 0, height: 0 }}
+                        className="space-y-2 p-3 bg-muted/30 rounded-lg border border-border/50"
+                      >
+                        {/* Batch Size Options */}
+                        <div className="space-y-1">
+                          <label className="text-xs font-medium">Items per batch:</label>
+                          <select
+                            value={batchSize}
+                            onChange={(e) => setBatchSize(Number(e.target.value))}
+                            className="w-full text-xs p-1 border border-border rounded bg-background"
+                          >
+                            <option value={20}>20 items</option>
+                            <option value={25}>25 items (recommended)</option>
+                            <option value={30}>30 items</option>
+                          </select>
+                        </div>
+
+                        {/* Include Original File */}
+                        <div className="flex items-center gap-2">
+                          <input
+                            type="checkbox"
+                            id="includeOriginal"
+                            checked={includeOriginal}
+                            onChange={(e) => setIncludeOriginal(e.target.checked)}
+                            className="w-3 h-3 rounded"
+                          />
+                          <label htmlFor="includeOriginal" className="text-xs">
+                            Include master file
+                          </label>
+                        </div>
+
+                        {/* Batch Preview */}
+                        <div className="text-xs text-muted-foreground">
+                          {(() => {
+                            const batches = createBatches(batchSize);
+                            return `Will create ${batches.length} batch${batches.length > 1 ? 'es' : ''} (~${batchSize} items each)`;
+                          })()}
+                        </div>
+
+                        {/* Export Batches Button */}
+                        <Button
+                          size="sm"
+                          onClick={() => {
+                            const batchResult = exportAsBatches(batchSize, includeOriginal);
+
+                            // Download all files
+                            batchResult.files.forEach(file => {
+                              onDownloadFile(file.content, file.filename, 'application/json');
+                            });
+
+                            // Show success message
+                            alert(`Exported ${batchResult.files.length} files successfully!\n\nFiles created:\n${batchResult.files.map(f => `• ${f.filename}`).join('\n')}\n\nNext steps:\n1. Upload batch files to AI Studio for enrichment\n2. Run merge script to combine processed files\n3. Script: node scripts/merge-vocabulary-batches.js <batch-dir> <output-file>`);
+                          }}
+                          className="w-full flex items-center gap-1 text-xs"
+                        >
+                          <Package className="w-3 h-3" />
+                          Export All Batches
+                        </Button>
+                      </motion.div>
+                    )}
                   </div>
                 </div>
 
