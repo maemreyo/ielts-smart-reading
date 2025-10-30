@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { motion } from "framer-motion";
 import {
     Dialog,
     DialogContent,
@@ -12,8 +13,6 @@ import {
 import { Button } from "@/components/ui/button";
 import {
     BookText,
-    FlipHorizontal,
-    Spline,
     Wand2,
     Brain,
     Eye,
@@ -23,8 +22,7 @@ import {
     CheckCircle2,
     Lightbulb,
     Pencil,
-    X,
-    Globe
+    X
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { PhoneticZoom } from "./phonetic-zoom";
@@ -59,10 +57,11 @@ export function LexicalItem({
         return isLegacyLexicalItem(item) ? String(item.id) : item.id;
     };
 
-    const normalizeArray = (data?: string[] | string): string[] => {
-        if (!data) return [];
-        if (typeof data === 'string') return [data];
-        return data;
+    const hasWordForms = (wordForms?: any): boolean => {
+        if (!wordForms) return false;
+        return Object.values(wordForms).some(forms =>
+            Array.isArray(forms) && forms.length > 0
+        );
     };
 
     const normalizeCollocates = (collocates?: CollocateObject[] | string[] | string): CollocateObject[] => {
@@ -409,7 +408,7 @@ export function LexicalItem({
                             /* Normal Mode Content */
                             <div className="space-y-3 sm:space-y-4">
                                 {/* Word Forms - Linear Layout */}
-                                {wordForms && (
+                                {wordForms && hasWordForms(wordForms) && (
                                     <div className={cn(
                                         "rounded-xl p-2 sm:p-4 border",
                                         theme === "sepia"
@@ -451,103 +450,84 @@ export function LexicalItem({
                                     </div>
                                 )}
 
-                                {/* Collocations and Contrasting Phrases - 2 Columns Symmetrical */}
+                                {/* Collocations - Horizontal Row Layout */}
                                 {(relatedCollocates.length > 0 || contrastingCollocates.length > 0) && (
-                                    <div className="grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-4">
-                                        {/* Left: Collocations (Blue theme) */}
-                                        <div className={cn(
-                                            "rounded-xl p-2 sm:p-4 border",
-                                            theme === "sepia"
-                                                ? "bg-blue-50 border-blue-200"
-                                                : theme === "light"
-                                                    ? "bg-blue-50 border-blue-200"
-                                                    : "bg-blue-950/30 border-blue-800"
-                                        )}>
-                                            <div className="flex items-center gap-2 mb-2 md:mb-3">
-                                                <Spline className="h-5 w-5 text-blue-600 dark:text-blue-400" />
-                                                <h3 className="font-semibold text-blue-900 dark:text-blue-300">
-                                                    Related Collocations
-                                                </h3>
-                                                {relatedCollocates.length > 0 && (
-                                                    <span className="text-xs bg-blue-200 dark:bg-blue-800 text-blue-800 dark:text-blue-200 px-2 py-0.5 rounded-full">
-                                                        {relatedCollocates.length}
-                                                    </span>
-                                                )}
-                                            </div>
-                                            <div className="space-y-3">
-                                                {relatedCollocates.length > 0 ? (
-                                                    relatedCollocates.map((collocate, idx) => (
-                                                        <div key={idx} className="space-y-1">
-                                                            <div className="flex items-center justify-between">
-                                                                <span className="text-sm text-blue-900 dark:text-blue-200 font-medium">
-                                                                    {collocate.form}
-                                                                </span>
-                                                                <button
-                                                                    onClick={() => speakText(collocate.form)}
-                                                                    className="group p-1.5 bg-blue-100 dark:bg-blue-800/50 hover:bg-blue-200 dark:hover:bg-blue-700 rounded-lg transition-all"
-                                                                >
-                                                                    <Volume2 className="h-3 w-3 text-blue-700 dark:text-blue-300" />
-                                                                </button>
+                                    <div className={cn(
+                                        "rounded-xl p-2 sm:p-4 border",
+                                        theme === "sepia"
+                                            ? "bg-sky-50 border-sky-200"
+                                            : theme === "light"
+                                                ? "bg-sky-50 border-sky-200"
+                                                : "bg-sky-950/30 border-sky-800"
+                                    )}>
+                                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                            {/* Related Collocations */}
+                                            {relatedCollocates.length > 0 && (
+                                                <div className="space-y-2">
+                                                    <div className="flex items-center gap-2">
+                                                        <span className="text-sm font-bold text-sky-700 dark:text-sky-400 uppercase">
+                                                            Related Collocations
+                                                        </span>
+                                                        <div className="h-px bg-sky-300 dark:bg-sky-600 flex-1"></div>
+                                                    </div>
+                                                    <div className="space-y-2">
+                                                        {relatedCollocates.map((collocate, idx) => (
+                                                            <div key={idx} className="space-y-1">
+                                                                <div className="flex items-center justify-between">
+                                                                    <span className="text-sm text-sky-900 dark:text-sky-200 font-medium">
+                                                                        {collocate.form}
+                                                                    </span>
+                                                                    <button
+                                                                        onClick={() => speakText(collocate.form)}
+                                                                        className="group p-1.5 bg-sky-100 dark:bg-sky-800/50 hover:bg-sky-200 dark:hover:bg-sky-700 rounded-lg transition-all"
+                                                                    >
+                                                                        <Volume2 className="h-3 w-3 text-sky-700 dark:text-sky-300" />
+                                                                    </button>
+                                                                </div>
+                                                                {collocate.meaning && (
+                                                                    <p className="text-xs text-sky-700 dark:text-sky-300 italic ml-16">
+                                                                        {collocate.meaning}
+                                                                    </p>
+                                                                )}
                                                             </div>
-                                                            {collocate.meaning && (
-                                                                <p className="text-xs text-blue-700 dark:text-blue-300 italic ml-8">
-                                                                    ({collocate.meaning})
-                                                                </p>
-                                                            )}
-                                                        </div>
-                                                    ))
-                                                ) : (
-                                                    <p className="text-sm text-blue-700 dark:text-blue-300 italic">No related collocations available</p>
-                                                )}
-                                            </div>
-                                        </div>
+                                                        ))}
+                                                    </div>
+                                                </div>
+                                            )}
 
-                                        {/* Right: Contrasting Phrases (Rose theme) */}
-                                        <div className={cn(
-                                            "rounded-xl p-2 sm:p-4 border",
-                                            theme === "sepia"
-                                                ? "bg-rose-50 border-rose-200"
-                                                : theme === "light"
-                                                    ? "bg-rose-50 border-rose-200"
-                                                    : "bg-rose-950/30 border-rose-800"
-                                        )}>
-                                            <div className="flex items-center gap-2 mb-2 md:mb-3">
-                                                <FlipHorizontal className="h-5 w-5 text-rose-600 dark:text-rose-400" />
-                                                <h3 className="font-semibold text-rose-900 dark:text-rose-300">
-                                                    Contrasting Collocations
-                                                </h3>
-                                                {contrastingCollocates.length > 0 && (
-                                                    <span className="text-xs bg-rose-200 dark:bg-rose-800 text-rose-800 dark:text-rose-200 px-2 py-0.5 rounded-full">
-                                                        {contrastingCollocates.length}
-                                                    </span>
-                                                )}
-                                            </div>
-                                            <div className="space-y-3">
-                                                {contrastingCollocates.length > 0 ? (
-                                                    contrastingCollocates.map((collocate, idx) => (
-                                                        <div key={idx} className="space-y-1">
-                                                            <div className="flex items-center justify-between">
-                                                                <span className="text-sm text-rose-900 dark:text-rose-200 font-medium">
-                                                                    {collocate.form}
-                                                                </span>
-                                                                <button
-                                                                    onClick={() => speakText(collocate.form)}
-                                                                    className="group p-1.5 bg-rose-100 dark:bg-rose-800/50 hover:bg-rose-200 dark:hover:bg-rose-700 rounded-lg transition-all"
-                                                                >
-                                                                    <Volume2 className="h-3 w-3 text-rose-700 dark:text-rose-300" />
-                                                                </button>
+                                            {/* Contrasting Collocations */}
+                                            {contrastingCollocates.length > 0 && (
+                                                <div className="space-y-2">
+                                                    <div className="flex items-center gap-2">
+                                                        <span className="text-sm font-bold text-sky-700 dark:text-sky-400 uppercase">
+                                                            Contrasting Collocations
+                                                        </span>
+                                                        <div className="h-px bg-sky-300 dark:bg-sky-600 flex-1"></div>
+                                                    </div>
+                                                    <div className="space-y-2">
+                                                        {contrastingCollocates.map((collocate, idx) => (
+                                                            <div key={idx} className="space-y-1">
+                                                                <div className="flex items-center justify-between">
+                                                                    <span className="text-sm text-sky-900 dark:text-sky-200 font-medium">
+                                                                        {collocate.form}
+                                                                    </span>
+                                                                    <button
+                                                                        onClick={() => speakText(collocate.form)}
+                                                                        className="group p-1.5 bg-sky-100 dark:bg-sky-800/50 hover:bg-sky-200 dark:hover:bg-sky-700 rounded-lg transition-all"
+                                                                    >
+                                                                        <Volume2 className="h-3 w-3 text-sky-700 dark:text-sky-300" />
+                                                                    </button>
+                                                                </div>
+                                                                {collocate.meaning && (
+                                                                    <p className="text-xs text-sky-700 dark:text-sky-300 italic ml-16">
+                                                                        {collocate.meaning}
+                                                                    </p>
+                                                                )}
                                                             </div>
-                                                            {collocate.meaning && (
-                                                                <p className="text-xs text-rose-700 dark:text-rose-300 italic ml-8">
-                                                                    ({collocate.meaning})
-                                                                </p>
-                                                            )}
-                                                        </div>
-                                                    ))
-                                                ) : (
-                                                    <p className="text-sm text-rose-700 dark:text-rose-300 italic">No contrasting collocations available</p>
-                                                )}
-                                            </div>
+                                                        ))}
+                                                    </div>
+                                                </div>
+                                            )}
                                         </div>
                                     </div>
                                 )}
@@ -576,30 +556,33 @@ export function LexicalItem({
                                                         )}
                                                     </h3>
                                                 </div>
-                                                <div className="flex items-center gap-1">
-                                                    <button
-                                                        onClick={() => setUsageNotesLanguage('en')}
-                                                        className={cn(
-                                                            "px-2 py-1 text-xs font-medium rounded transition-colors",
-                                                            usageNotesLanguage === 'en'
-                                                                ? "bg-emerald-600 text-white"
-                                                                : "bg-emerald-200 text-emerald-700 hover:bg-emerald-300"
-                                                        )}
-                                                    >
+                                                <motion.button
+                                                    whileHover={{ scale: 1.05 }}
+                                                    whileTap={{ scale: 0.95 }}
+                                                    onClick={() => setUsageNotesLanguage(usageNotesLanguage === 'en' ? 'vi' : 'en')}
+                                                    className={cn(
+                                                        "flex flex-col rounded-lg transition-colors h-8 w-8 items-center justify-center text-xs font-medium",
+                                                        "bg-emerald-100 text-emerald-700 hover:bg-emerald-200 border border-emerald-300"
+                                                    )}
+                                                    title={usageNotesLanguage === 'en' ? "Switch to Tiếng Việt" : "Switch to English"}
+                                                >
+                                                    <span className={cn(
+                                                        "transition-all duration-200",
+                                                        usageNotesLanguage === 'en' ? "font-bold text-emerald-900" : "text-emerald-600"
+                                                    )}>
                                                         EN
-                                                    </button>
-                                                    <button
-                                                        onClick={() => setUsageNotesLanguage('vi')}
-                                                        className={cn(
-                                                            "px-2 py-1 text-xs font-medium rounded transition-colors",
-                                                            usageNotesLanguage === 'vi'
-                                                                ? "bg-emerald-600 text-white"
-                                                                : "bg-emerald-200 text-emerald-700 hover:bg-emerald-300"
-                                                        )}
-                                                    >
+                                                    </span>
+                                                    <div className={cn(
+                                                        "w-full h-0.5 rounded-full transition-all duration-200",
+                                                        usageNotesLanguage === 'en' ? "bg-emerald-600" : "bg-emerald-300"
+                                                    )}></div>
+                                                    <span className={cn(
+                                                        "transition-all duration-200",
+                                                        usageNotesLanguage === 'vi' ? "font-bold text-emerald-900" : "text-emerald-600"
+                                                    )}>
                                                         VI
-                                                    </button>
-                                                </div>
+                                                    </span>
+                                                </motion.button>
                                             </div>
                                             <div className="space-y-2">
                                                 {usageNotes.map((note, idx) => (
@@ -626,30 +609,33 @@ export function LexicalItem({
                                                     <Sparkles className="h-5 w-5 text-indigo-600 dark:text-indigo-400" />
                                                     <h3 className="font-semibold text-indigo-900 dark:text-indigo-300">Connotation</h3>
                                                 </div>
-                                                <div className="flex items-center gap-1">
-                                                    <button
-                                                        onClick={() => setConnotationLanguage('en')}
-                                                        className={cn(
-                                                            "px-2 py-1 text-xs font-medium rounded transition-colors",
-                                                            connotationLanguage === 'en'
-                                                                ? "bg-indigo-600 text-white"
-                                                                : "bg-indigo-200 text-indigo-700 hover:bg-indigo-300"
-                                                        )}
-                                                    >
+                                                <motion.button
+                                                    whileHover={{ scale: 1.05 }}
+                                                    whileTap={{ scale: 0.95 }}
+                                                    onClick={() => setConnotationLanguage(connotationLanguage === 'en' ? 'vi' : 'en')}
+                                                    className={cn(
+                                                        "flex flex-col rounded-lg transition-colors h-8 w-8 items-center justify-center text-xs font-medium",
+                                                        "bg-indigo-100 text-indigo-700 hover:bg-indigo-200 border border-indigo-300"
+                                                    )}
+                                                    title={connotationLanguage === 'en' ? "Switch to Tiếng Việt" : "Switch to English"}
+                                                >
+                                                    <span className={cn(
+                                                        "transition-all duration-200",
+                                                        connotationLanguage === 'en' ? "font-bold text-indigo-900" : "text-indigo-600"
+                                                    )}>
                                                         EN
-                                                    </button>
-                                                    <button
-                                                        onClick={() => setConnotationLanguage('vi')}
-                                                        className={cn(
-                                                            "px-2 py-1 text-xs font-medium rounded transition-colors",
-                                                            connotationLanguage === 'vi'
-                                                                ? "bg-indigo-600 text-white"
-                                                                : "bg-indigo-200 text-indigo-700 hover:bg-indigo-300"
-                                                        )}
-                                                    >
+                                                    </span>
+                                                    <div className={cn(
+                                                        "w-full h-0.5 rounded-full transition-all duration-200",
+                                                        connotationLanguage === 'en' ? "bg-indigo-600" : "bg-indigo-300"
+                                                    )}></div>
+                                                    <span className={cn(
+                                                        "transition-all duration-200",
+                                                        connotationLanguage === 'vi' ? "font-bold text-indigo-900" : "text-indigo-600"
+                                                    )}>
                                                         VI
-                                                    </button>
-                                                </div>
+                                                    </span>
+                                                </motion.button>
                                             </div>
                                             {connotation.map((note, index) => (
                                                 <p key={index} className="text-sm leading-relaxed text-indigo-900 dark:text-indigo-200">
