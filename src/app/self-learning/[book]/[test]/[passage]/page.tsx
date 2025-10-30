@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { readFile, readdir, stat } from 'fs/promises';
 import { join } from 'path';
-import { SelfLearningView } from '@/components/SelfLearningView';
+import { SelfLearningView } from '@/components/self-learning-view';
 
 // Force dynamic rendering for development
 export const dynamic = 'force-dynamic';

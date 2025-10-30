@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { readFile } from 'fs/promises';
 import { join } from 'path';
-import { PassageViewClient } from '@/components/PassageViewClient';
+import { PassageViewClient } from '@/components/passage-view-client';
 
 // Force dynamic rendering for development
 export const dynamic = 'force-dynamic';
