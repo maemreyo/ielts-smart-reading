@@ -1,25 +1,9 @@
 import React from "react";
+import { LexicalItem, LegacyLexicalItem, isLegacyLexicalItem, isNewLexicalItem } from "@/types/lexical";
 
-export interface LexicalItem {
-  id: number;
-  targetLexeme: string;
-  sourceContext: string;
-  phase1Inference?: {
-    contextualGuessVI?: string;
-  };
-  phase2Annotation: {
-    phonetic?: string;
-    sentiment?: "positive" | "negative" | "neutral";
-    definitionEN: string;
-    translationVI: string;
-    relatedCollocates?: string[];
-    wordForms?: any;
-  };
-  phase3Production?: {
-    taskType: string;
-    content: string;
-  };
-}
+// Re-export for backward compatibility
+export type { LexicalItem, LegacyLexicalItem };
+export { isLegacyLexicalItem, isNewLexicalItem };
 
 // Cache the LexicalItem component to prevent re-imports
 const LexicalItemComponent = React.lazy(() => 

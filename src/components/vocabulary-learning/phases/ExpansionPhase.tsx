@@ -77,7 +77,10 @@ export function ExpansionPhase({
           {expandedMeaning && lexicalItem.phase2Annotation?.relatedCollocates && (
             <div className="mt-10 p-8 bg-gradient-to-br from-emerald-100 to-cyan-100 rounded-2xl animate-knowledge-panel border-4 border-emerald-300 shadow-2xl">
               <div className="flex flex-wrap gap-4 justify-center">
-                {lexicalItem.phase2Annotation.relatedCollocates.map((collocation, index) => (
+                {(Array.isArray(lexicalItem.phase2Annotation.relatedCollocates)
+                  ? lexicalItem.phase2Annotation.relatedCollocates
+                  : [lexicalItem.phase2Annotation.relatedCollocates]
+                ).map((collocation, index) => (
                   <Badge
                     key={index}
                     variant="outline"

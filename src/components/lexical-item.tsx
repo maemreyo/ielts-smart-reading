@@ -10,15 +10,15 @@ import { cn } from "@/lib/utils";
 import { PhoneticZoom } from "./phonetic-zoom";
 import { useGuessStore } from "./reading/hooks/useGuessStore";
 import { useSpeech } from "@/hooks/use-speech";
-import { type LexicalItem } from "./reading/utils/textProcessing";
+import { type LexicalItem, type LegacyLexicalItem, isLegacyLexicalItem, isNewLexicalItem } from "./reading/utils/textProcessing";
 
 interface LexicalItemProps {
-  item: LexicalItem;
+  item: LexicalItem | LegacyLexicalItem;
   children: React.ReactNode;
   hideTranslation?: boolean;
   guessMode?: boolean;
   theme?: string;
-  onLearnVocabulary?: (item: LexicalItem) => void;
+  onLearnVocabulary?: (item: LexicalItem | LegacyLexicalItem) => void;
 }
 
 export function LexicalItem({ item, children, hideTranslation = false, guessMode = false, theme = "light", onLearnVocabulary }: LexicalItemProps) {
@@ -27,20 +27,42 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
 
   // Use the new speech hook
   const { isSpeaking, speak } = useSpeech({ rate: 0.8 });
-  
+
+  // Helper function to normalize item ID to string
+  const getItemId = (item: LexicalItem | LegacyLexicalItem): string => {
+    return isLegacyLexicalItem(item) ? String(item.id) : item.id;
+  };
+
+  // Helper function to normalize relatedCollocates
+  const normalizeRelatedCollocates = (collocates?: string[] | string): string[] => {
+    if (!collocates) return [];
+    if (typeof collocates === 'string') return [collocates];
+    return collocates;
+  };
+
   const {
     targetLexeme,
     phase1Inference,
-    phase2Annotation: {
-      phonetic,
-      sentiment,
-      definitionEN,
-      translationVI,
-      relatedCollocates,
-      wordForms,
-    },
+    phase2Annotation,
     phase3Production,
   } = item;
+
+  // Extract known fields
+  const phonetic = (phase2Annotation as any).phonetic;
+  const sentiment = (phase2Annotation as any).sentiment;
+  const definitionEN = (phase2Annotation as any).definitionEN;
+  const translationVI = (phase2Annotation as any).translationVI;
+  const relatedCollocates = (phase2Annotation as any).relatedCollocates;
+  const wordForms = (phase2Annotation as any).wordForms;
+
+  // New fields - these may not exist in legacy items
+  const register = (phase2Annotation as any).register;
+  const connotation = (phase2Annotation as any).connotation;
+  const usageNotes = (phase2Annotation as any).usageNotes;
+  const contrastingCollocates = (phase2Annotation as any).contrastingCollocates;
+
+  const normalizedRelatedCollocates = normalizeRelatedCollocates(relatedCollocates);
+  const itemId = getItemId(item);
 
   const formattedTranslation =
     translationVI.charAt(0).toLowerCase() + translationVI.slice(1);
@@ -123,9 +145,9 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
                 </label>
                 <input
                   type="text"
-                  value={getGuess(String(item.id))}
+                  value={getGuess(itemId)}
                   onChange={(e) => {
-                    setGuess(String(item.id), e.target.value);
+                    setGuess(itemId, e.target.value);
                   }}
                   placeholder="What do you think it means?"
                   className="w-full p-2 border border-gray-300 rounded-md dark:bg-gray-800 dark:text-white dark:border-gray-600"
@@ -138,7 +160,7 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
                    <div className="flex items-center gap-2 mb-2">
                      <span className="text-sm font-medium text-blue-700 dark:text-blue-400">🤔 Your Guess:</span>
                    </div>
-                   <p className="text-sm text-blue-800 dark:text-blue-300">{getGuess(String(item.id)) || "(You didn't enter a guess)"}</p>
+                   <p className="text-sm text-blue-800 dark:text-blue-300">{getGuess(itemId) || "(You didn't enter a guess)"}</p>
                 </div>
                 {phase1Inference?.contextualGuessVI && (
                   <div className="mb-4 p-3 bg-yellow-50 dark:bg-yellow-950/30 rounded-lg">
@@ -256,18 +278,18 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
               </div>
             )}
 
-            {relatedCollocates && relatedCollocates.length > 0 && (
+            {normalizedRelatedCollocates && normalizedRelatedCollocates.length > 0 && (
               <div className="flex items-start space-x-3">
                 <Spline className="h-5 w-5 text-blue-500 mt-1 flex-shrink-0" />
                 <div className="flex-1 min-w-0">
                   <div className="flex items-center gap-2 mb-2">
                     <h5 className="font-semibold text-blue-600 dark:text-blue-400">Collocates</h5>
                     <span className="text-xs bg-blue-100 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400 px-2 py-1 rounded-full">
-                      {relatedCollocates.length}
+                      {normalizedRelatedCollocates.length}
                     </span>
                   </div>
                   <div className="flex flex-wrap gap-2 mt-2">
-                    {relatedCollocates.map((collocate, index) => (
+                    {normalizedRelatedCollocates.map((collocate, index) => (
                       <div
                         key={index}
                         className="group relative"
@@ -345,6 +367,79 @@ export function LexicalItem({ item, children, hideTranslation = false, guessMode
                       </tbody>
                     </table>
                   </div>
+                </div>
+              </div>
+            )}
+
+            {/* Register - Show when available */}
+            {register && (
+              <div className="flex items-start space-x-3">
+                <Target className="h-5 w-5 text-amber-500 mt-1 flex-shrink-0" />
+                <div className="flex-1">
+                  <h5 className="font-semibold text-amber-600 dark:text-amber-400">Register</h5>
+                  <span className="inline-flex items-center gap-1 px-2 py-1 bg-amber-50 dark:bg-amber-900/20 text-amber-700 dark:text-amber-300 border border-amber-200 dark:border-amber-700/50 rounded-lg text-sm font-medium capitalize">
+                    {register}
+                  </span>
+                </div>
+              </div>
+            )}
+
+            {/* Connotation - Show when available */}
+            {connotation && (
+              <div className="flex items-start space-x-3">
+                <Wand2 className="h-5 w-5 text-indigo-500 mt-1 flex-shrink-0" />
+                <div className="flex-1">
+                  <h5 className="font-semibold text-indigo-600 dark:text-indigo-400">Connotation</h5>
+                  <p className="text-sm text-indigo-700 dark:text-indigo-300 mt-1">{connotation}</p>
+                </div>
+              </div>
+            )}
+
+            {/* Usage Notes - Show when available */}
+            {usageNotes && (
+              <div className="flex items-start space-x-3">
+                <Brain className="h-5 w-5 text-emerald-500 mt-1 flex-shrink-0" />
+                <div className="flex-1">
+                  <h5 className="font-semibold text-emerald-600 dark:text-emerald-400">Usage Notes</h5>
+                  <p className="text-sm text-emerald-700 dark:text-emerald-300 mt-1">{usageNotes}</p>
+                </div>
+              </div>
+            )}
+
+            {/* Contrasting Collocates - Show when available */}
+            {contrastingCollocates && contrastingCollocates.length > 0 && (
+              <div className="flex items-start space-x-3">
+                <FlipHorizontal className="h-5 w-5 text-rose-500 mt-1 flex-shrink-0" />
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-center gap-2 mb-2">
+                    <h5 className="font-semibold text-rose-600 dark:text-rose-400">Contrasting Phrases</h5>
+                    <span className="text-xs bg-rose-100 dark:bg-rose-900/30 text-rose-600 dark:text-rose-400 px-2 py-1 rounded-full">
+                      {contrastingCollocates.length}
+                    </span>
+                  </div>
+                  <div className="flex flex-wrap gap-2 mt-2">
+                    {contrastingCollocates.map((collocate, index) => (
+                      <div
+                        key={index}
+                        className="group relative"
+                      >
+                        <span
+                          className={cn(
+                            "inline-flex items-center gap-1 px-3 py-2 bg-gradient-to-r from-rose-50 to-pink-50 dark:from-rose-900/20 dark:to-pink-900/20 text-rose-700 dark:text-rose-300 border border-rose-200 dark:border-rose-700/50 rounded-lg text-sm font-medium cursor-pointer transition-all duration-200 hover:from-rose-100 hover:to-pink-100 hover:border-rose-300 hover:shadow-md hover:scale-105",
+                            "max-w-[150px] md:max-w-none"
+                          )}
+                          onClick={() => speakText(collocate)}
+                          title={`Click to pronounce: ${collocate}`}
+                        >
+                          <span className="truncate">{collocate}</span>
+                          <Volume2 className="h-3 w-3 opacity-0 group-hover:opacity-100 transition-opacity duration-200 flex-shrink-0" />
+                        </span>
+                      </div>
+                    ))}
+                  </div>
+                  <p className="text-xs text-muted-foreground mt-2 italic">
+                    💡 Click any contrasting phrase to hear its pronunciation
+                  </p>
                 </div>
               </div>
             )}
