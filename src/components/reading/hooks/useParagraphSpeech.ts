@@ -67,14 +67,20 @@ export function useParagraphSpeech({
   // Function to get a random voice
   const getRandomVoice = useCallback((): SpeechSynthesisVoice | null => {
     let availableVoices: SpeechSynthesisVoice[];
+    const allowedVoices = ["Daniel", "Karen", "Rishi", "Tessa", "Moira"];
 
     if (voiceRotationFavoritesOnly && favoriteVoices.length > 0) {
       // Use only favorite voices
       const allEnglishVoices = speechInstance.getVoicesByLanguage('en');
-      availableVoices = allEnglishVoices.filter(voice => favoriteVoices.includes(voice.name));
+      availableVoices = allEnglishVoices.filter(voice =>
+        favoriteVoices.includes(voice.name) && allowedVoices.some(allowedName => voice.name.includes(allowedName))
+      );
     } else {
-      // Use all English voices
-      availableVoices = speechInstance.getVoicesByLanguage('en');
+      // Use all English voices limited to allowed voices
+      const allEnglishVoices = speechInstance.getVoicesByLanguage('en');
+      availableVoices = allEnglishVoices.filter(voice =>
+        allowedVoices.some(allowedName => voice.name.includes(allowedName))
+      );
     }
 
     if (availableVoices.length === 0) return null;

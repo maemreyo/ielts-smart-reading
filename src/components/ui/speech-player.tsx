@@ -48,10 +48,19 @@ export function SpeechPlayer({
     updateSettings,
   } = speech;
 
-  // Get language voices for display
+  // Get language voices for display and filter English voices
+  const allowedVoices = ["Daniel", "Karen", "Rishi", "Tessa", "Moira"];
   const languageVoices = defaultLanguage === 'auto'
     ? voices
-    : getVoicesByLanguage(defaultLanguage === 'en' ? 'en' : 'vi');
+    : (() => {
+        const langVoices = getVoicesByLanguage(defaultLanguage === 'en' ? 'en' : 'vi');
+        if (defaultLanguage === 'en') {
+          return langVoices.filter(voice =>
+            allowedVoices.some(allowedName => voice.name.includes(allowedName))
+          );
+        }
+        return langVoices;
+      })();
 
   const handleWordHighlight = (index: number, word: string) => {
     if (autoHighlight) {

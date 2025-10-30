@@ -28,9 +28,12 @@ export function VoiceSelection({
   onToggleFavorite,
   className,
 }: VoiceSelectionProps) {
-  // Filter for English voices only
+  // Filter for English voices only and limit to specific voices
+  const allowedVoices = ["Daniel", "Karen", "Rishi", "Tessa", "Moira"];
   const englishVoices = React.useMemo(() => {
-    return voices.filter(voice => voice.lang.startsWith('en'));
+    return voices.filter(voice =>
+      voice.lang.startsWith('en') && allowedVoices.some(allowedName => voice.name.includes(allowedName))
+    );
   }, [voices]);
 
   // Separate favorites and non-favorites

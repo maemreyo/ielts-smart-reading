@@ -53,10 +53,13 @@ export function SpeechControls({
     updateSettings,
   } = speech;
 
-  // Filter voices by language
+  // Filter voices by language and limit to specific voices
+  const allowedVoices = ["Daniel", "Karen", "Rishi", "Tessa", "Moira"];
   const availableVoices = useMemo(() => {
     if (defaultLanguage === 'en') {
-      return voices.filter(v => v.lang.startsWith('en'));
+      return voices.filter(v =>
+        v.lang.startsWith('en') && allowedVoices.some(allowedName => v.name.includes(allowedName))
+      );
     } else if (defaultLanguage === 'vi') {
       return voices.filter(v => v.lang.startsWith('vi'));
     }
