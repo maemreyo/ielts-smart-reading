@@ -145,7 +145,7 @@ export function DesktopToolbar({
   }, [setSpeechRate]);
 
   return (
-    <div className="hidden md:flex items-center gap-3 flex-wrap">
+    <div className="hidden md:flex items-center gap-3 flex-wrap max-h-[48px]">
 
       {/* Reading Controls */}
       <div className="flex items-center gap-1 h-[48px]">
@@ -254,7 +254,7 @@ export function DesktopToolbar({
 
       {/* Timer Display */}
       {timerEnabled && (
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 h-[40px]">
           <Clock size={16} className="text-muted-foreground" />
           <span className={cn(
             "text-sm font-mono min-w-[3rem]",
