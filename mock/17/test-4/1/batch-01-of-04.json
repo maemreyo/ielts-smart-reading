@@ -10,59 +10,116 @@
     {
       "id": "1761843568333",
       "targetLexeme": "relations between agriculture and conservation",
-      "sourceContext": "How Madagascar's bats are helping to save the rainforestThere are few places in the world where relations between...",
+      "sourceContext": "How Madagascar's bats are helping to save the rainforest. There are few places in the world where relations between agriculture and conservation are more strained than in Madagascar.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Dựa vào ngữ cảnh 'agriculture' (nông nghiệp) và 'conservation' (bảo tồn) và từ 'strained' (căng thẳng), có thể đoán đây là 'mối quan hệ giữa nông nghiệp và bảo tồn'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/rɪˈleɪʃənz bɪˈtwiːn ˈægrɪkʌlʧər ænd ˌkɒnsəˈveɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "The connection and interaction between the practice of farming and the protection of the natural environment.",
+        "translationVI": "mối quan hệ giữa nông nghiệp và bảo tồn",
+        "relatedCollocates": [
+          {
+            "form": "the link between farming and environmentalism",
+            "meaning": "mối liên kết giữa canh tác và chủ nghĩa môi trường"
+          },
+          {
+            "form": "the intersection of agriculture and ecology",
+            "meaning": "giao điểm của nông nghiệp và sinh thái học"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Often implies a conflict or tension, as one (agriculture) can negatively impact the other (conservation).",
+            "connotationVI": "Thường ngụ ý một sự xung đột hoặc căng thẳng, vì một bên (nông nghiệp) có thể tác động tiêu cực đến bên kia (bảo tồn)."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "harmony between agriculture and conservation",
+            "meaning": "sự hài hòa giữa nông nghiệp và bảo tồn"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Finding a balance in the relations between agriculture and conservation is crucial for sustainable development."
       }
     },
     {
       "id": "1761843572144",
       "targetLexeme": "more strained",
-      "sourceContext": "How Madagascar's bats are helping to save the rainforestThere are few places in the world where relations between...",
+      "sourceContext": "There are few places in the world where relations between agriculture and conservation are more strained than in Madagascar.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Mối quan hệ trở nên 'căng thẳng hơn'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/mɔː streɪnd/",
+        "sentiment": "negative",
+        "definitionEN": "More tense, difficult, or showing signs of pressure and unease.",
+        "translationVI": "căng thẳng hơn",
+        "relatedCollocates": [
+          {
+            "form": "more tense",
+            "meaning": "căng thẳng hơn"
+          },
+          {
+            "form": "more difficult",
+            "meaning": "khó khăn hơn"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
+          "noun": [
+            {
+              "form": "strain",
+              "meaning": "sự căng thẳng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "strain",
+              "meaning": "làm căng thẳng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "strained",
+              "meaning": "căng thẳng"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Implies conflict, lack of harmony, and potential for breakdown.",
+            "connotationVI": "Ngụ ý sự xung đột, thiếu hòa hợp, và khả năng đổ vỡ."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "more harmonious",
+            "meaning": "hài hòa hơn"
+          },
+          {
+            "form": "more relaxed",
+            "meaning": "thoải mái hơn"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "After the argument, the atmosphere in the room became even more strained."
       }
     },
     {
@@ -70,28 +127,57 @@
       "targetLexeme": "being converted to",
       "sourceContext": "Madagascar's forests are being converted to agricultural land at a rate of one percent every year.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Rừng 'đang được chuyển đổi thành' đất nông nghiệp."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈbiːɪŋ kənˈvɜːtɪd tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "Being changed from one form, use, or purpose to another.",
+        "translationVI": "đang được chuyển đổi thành",
+        "relatedCollocates": [
+          {
+            "form": "being transformed into",
+            "meaning": "đang được biến đổi thành"
+          },
+          {
+            "form": "being turned into",
+            "meaning": "đang bị biến thành"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "conversion",
+              "meaning": "sự chuyển đổi"
+            }
+          ],
+          "verb": [
+            {
+              "form": "convert",
+              "meaning": "chuyển đổi"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Indicates a fundamental change of state or function. In this context, it implies loss of the original form (forest).",
+            "connotationVI": "Chỉ ra một sự thay đổi cơ bản về trạng thái hoặc chức năng. Trong ngữ cảnh này, nó ngụ ý sự mất đi của dạng ban đầu (rừng)."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "being preserved as",
+            "meaning": "đang được bảo tồn như"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The old warehouse is being converted to luxury apartments."
       }
     },
     {
@@ -99,28 +185,46 @@
       "targetLexeme": "agricultural land",
       "sourceContext": "Madagascar's forests are being converted to agricultural land at a rate of one percent every year.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Đất dùng cho nông nghiệp, tức là 'đất nông nghiệp'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌægrɪˈkʌlʧərəl lænd/",
+        "sentiment": "neutral",
+        "definitionEN": "Land used for farming, including the cultivation of crops and the raising of livestock.",
+        "translationVI": "đất nông nghiệp",
+        "relatedCollocates": [
+          {
+            "form": "farmland",
+            "meaning": "đất nông nghiệp"
+          },
+          {
+            "form": "cropland",
+            "meaning": "đất trồng trọt"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "forest land",
+            "meaning": "đất rừng"
+          },
+          {
+            "form": "urban area",
+            "meaning": "khu vực đô thị"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government has policies to prevent the loss of valuable agricultural land to urban sprawl."
       }
     },
     {
@@ -128,28 +232,38 @@
       "targetLexeme": "at a rate of one percent every year",
       "sourceContext": "Madagascar's forests are being converted to agricultural land at a rate of one percent every year.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Mô tả tốc độ chuyển đổi, tức là 'với tốc độ một phần trăm mỗi năm'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/æt ə reɪt əv wʌn pəˈsɛnt ˈɛvri jɪə/",
+        "sentiment": "neutral",
+        "definitionEN": "A measurement of the speed at which something happens, specified as one percent annually.",
+        "translationVI": "với tốc độ một phần trăm mỗi năm",
+        "relatedCollocates": [
+          {
+            "form": "at an annual rate of 1%",
+            "meaning": "với tỷ lệ hàng năm là 1%"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Statistical, precise, indicates a steady change over time.",
+            "connotationVI": "Mang tính thống kê, chính xác, chỉ ra một sự thay đổi đều đặn theo thời gian."
+          }
+        ],
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The population is growing at a rate of two percent every year."
       }
     },
     {
@@ -157,28 +271,51 @@
       "targetLexeme": "Much of",
       "sourceContext": "Much of this destruction is fuelled by the cultivation of the country's main staple crop: rice.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Chỉ một phần lớn, tức là 'phần lớn'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/mʌʧ ɒv/",
+        "sentiment": "neutral",
+        "definitionEN": "A large part or amount of something.",
+        "translationVI": "phần lớn",
+        "relatedCollocates": [
+          {
+            "form": "a large part of",
+            "meaning": "một phần lớn của"
+          },
+          {
+            "form": "the majority of",
+            "meaning": "phần lớn, đa số"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "usageNotes": [
+          {
+            "noteEN": "Used with uncountable nouns (e.g., destruction, information, time). For countable nouns, 'many of' is used.",
+            "noteVI": "Được sử dụng với danh từ không đếm được (ví dụ: sự phá hủy, thông tin, thời gian). Đối với danh từ đếm được, người ta dùng 'many of'."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "little of",
+            "meaning": "rất ít"
+          },
+          {
+            "form": "a small part of",
+            "meaning": "một phần nhỏ của"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Much of what he said was true, but he exaggerated some details."
       }
     },
     {
@@ -186,28 +323,66 @@
       "targetLexeme": "destruction",
       "sourceContext": "Much of this destruction is fuelled by the cultivation of the country's main staple crop: rice.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Hành động phá hủy, làm hỏng, tức là 'sự phá hủy'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/dɪsˈtrʌkʃən/",
+        "sentiment": "negative",
+        "definitionEN": "The action or process of causing so much damage to something that it no longer exists or cannot be repaired.",
+        "translationVI": "sự phá hủy",
+        "relatedCollocates": [
+          {
+            "form": "devastation",
+            "meaning": "sự tàn phá"
+          },
+          {
+            "form": "ruin",
+            "meaning": "sự hủy hoại"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
+          "noun": [
+            {
+              "form": "destruction",
+              "meaning": "sự phá hủy"
+            }
+          ],
+          "verb": [
+            {
+              "form": "destroy",
+              "meaning": "phá hủy"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "destructive",
+              "meaning": "có tính phá hoại"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Complete and often violent damage.",
+            "connotationVI": "Sự thiệt hại hoàn toàn và thường mang tính bạo lực."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "construction",
+            "meaning": "sự xây dựng"
+          },
+          {
+            "form": "conservation",
+            "meaning": "sự bảo tồn"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The hurricane left a trail of destruction in its wake."
       }
     },
     {
@@ -215,28 +390,61 @@
       "targetLexeme": "is fuelled by",
       "sourceContext": "Much of this destruction is fuelled by the cultivation of the country's main staple crop: rice.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Sự phá hủy 'được thúc đẩy bởi' việc trồng lúa."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ɪz ˈfjuːəld baɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "To be made stronger, more intense, or caused by something.",
+        "translationVI": "được thúc đẩy bởi, bị gây ra bởi",
+        "relatedCollocates": [
+          {
+            "form": "is driven by",
+            "meaning": "được thúc đẩy bởi"
+          },
+          {
+            "form": "is caused by",
+            "meaning": "bị gây ra bởi"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "fuel",
+              "meaning": "nhiên liệu, chất đốt"
+            }
+          ],
+          "verb": [
+            {
+              "form": "fuel",
+              "meaning": "tiếp nhiên liệu, thúc đẩy"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Suggests that something is the primary cause or energy source for a continuing process.",
+            "connotationVI": "Gợi ý rằng một cái gì đó là nguyên nhân chính hoặc nguồn năng lượng cho một quá trình đang tiếp diễn."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "is hindered by",
+            "meaning": "bị cản trở bởi"
+          },
+          {
+            "form": "is reduced by",
+            "meaning": "bị giảm bớt bởi"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The debate is fuelled by misinformation spread on social media."
       }
     },
     {
@@ -244,173 +452,291 @@
       "targetLexeme": "staple crop",
       "sourceContext": "Much of this destruction is fuelled by the cultivation of the country's main staple crop: rice.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Lúa là 'cây trồng chủ lực' hoặc 'cây lương thực chính'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈsteɪpl krɒp/",
+        "sentiment": "neutral",
+        "definitionEN": "A crop that is eaten routinely and in such quantities that it constitutes a dominant portion of a standard diet.",
+        "translationVI": "cây lương thực chính",
+        "relatedCollocates": [
+          {
+            "form": "staple food",
+            "meaning": "lương thực chính"
+          },
+          {
+            "form": "primary crop",
+            "meaning": "cây trồng chính"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Fundamental, essential for a population's diet.",
+            "connotationVI": "Cơ bản, thiết yếu cho chế độ ăn của một dân tộc."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "cash crop",
+            "meaning": "cây công nghiệp (trồng để bán)"
+          },
+          {
+            "form": "luxury food",
+            "meaning": "thực phẩm xa xỉ"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "In many Asian countries, rice is the staple crop that feeds millions of people."
       }
     },
     {
       "id": "1761843646291",
       "targetLexeme": "insect pests",
-      "sourceContext": "And a key reason for this destruction is that insect pests are destroying vast quantities of what is...",
+      "sourceContext": "And a key reason for this destruction is that insect pests are destroying vast quantities of what is grown...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Những con côn trùng gây hại, tức là 'sâu bệnh' hoặc 'côn trùng gây hại'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈɪnsɛkt pɛsts/",
+        "sentiment": "negative",
+        "definitionEN": "Insects that are harmful to crops, animals, or humans.",
+        "translationVI": "côn trùng gây hại, sâu bệnh",
+        "relatedCollocates": [
+          {
+            "form": "vermin",
+            "meaning": "sâu bọ, vật hại"
+          },
+          {
+            "form": "harmful insects",
+            "meaning": "côn trùng có hại"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Destructive, unwanted, a problem for agriculture.",
+            "connotationVI": "Phá hoại, không mong muốn, là một vấn đề cho nông nghiệp."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "beneficial insects",
+            "meaning": "côn trùng có ích"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Farmers often use pesticides to protect their crops from insect pests."
       }
     },
     {
       "id": "1761843649683",
       "targetLexeme": "vast quantities",
-      "sourceContext": "And a key reason for this destruction is that insect pests are destroying vast quantities of what is...",
+      "sourceContext": "And a key reason for this destruction is that insect pests are destroying vast quantities of what is grown...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Phá hủy một lượng rất lớn, tức là 'số lượng/khối lượng khổng lồ'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/vɑːst ˈkwɒntətiz/",
+        "sentiment": "neutral",
+        "definitionEN": "Extremely large amounts or numbers.",
+        "translationVI": "số lượng/khối lượng khổng lồ",
+        "relatedCollocates": [
+          {
+            "form": "huge amounts",
+            "meaning": "lượng khổng lồ"
+          },
+          {
+            "form": "enormous quantities",
+            "meaning": "số lượng cực lớn"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Emphasizes a very large scale.",
+            "connotationVI": "Nhấn mạnh một quy mô rất lớn."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "small quantities",
+            "meaning": "số lượng nhỏ"
+          },
+          {
+            "form": "tiny amounts",
+            "meaning": "lượng rất nhỏ"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The factory produces vast quantities of plastic bottles every day."
       }
     },
     {
       "id": "1761843653857",
       "targetLexeme": "local subsistence farmers",
-      "sourceContext": "And a key reason for this destruction is that insect pests are destroying vast quantities of what is...",
+      "sourceContext": "...destroying vast quantities of what is grown by local subsistence farmers, leading them to clear more forest...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Những người nông dân ở địa phương chỉ trồng trọt đủ ăn, tức là 'nông dân tự cung tự cấp tại địa phương'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈləʊkəl səbˈsɪstəns ˈfɑːməz/",
+        "sentiment": "neutral",
+        "definitionEN": "Farmers in a specific area who grow food crops primarily to feed themselves and their families, with little or no surplus for trade.",
+        "translationVI": "nông dân tự cung tự cấp tại địa phương",
+        "relatedCollocates": [
+          {
+            "form": "small-scale farmers",
+            "meaning": "nông dân quy mô nhỏ"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Non-commercial farming, often associated with poverty and a direct reliance on the land for survival.",
+            "connotationVI": "Nông nghiệp phi thương mại, thường gắn liền với đói nghèo và sự phụ thuộc trực tiếp vào đất đai để sinh tồn."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "commercial farmers",
+            "meaning": "nông dân thương mại"
+          },
+          {
+            "form": "agribusiness corporations",
+            "meaning": "các tập đoàn kinh doanh nông nghiệp"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Development projects aim to help local subsistence farmers improve their crop yields."
       }
     },
     {
       "id": "1761843663756",
       "targetLexeme": "leading ... to",
-      "sourceContext": "And a key reason for this destruction is that insect pests are destroying vast quantities of what is...",
+      "sourceContext": "...destroying vast quantities of what is grown by local subsistence farmers, leading them to clear more forest...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Hành động phá hoại này 'dẫn họ đến việc' phải phá thêm rừng."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈliːdɪŋ ... tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "Causing someone to do something or causing something to happen as a result.",
+        "translationVI": "dẫn (ai đó) đến việc (làm gì)",
+        "relatedCollocates": [
+          {
+            "form": "causing ... to",
+            "meaning": "khiến ... phải"
+          },
+          {
+            "form": "prompting ... to",
+            "meaning": "thúc đẩy ... làm"
+          }
+        ],
         "wordForms": {
           "noun": [],
-          "verb": [],
+          "verb": [
+            {
+              "form": "lead to",
+              "meaning": "dẫn đến"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Indicates a cause-and-effect relationship.",
+            "connotationVI": "Chỉ ra một mối quan hệ nhân quả."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "preventing ... from",
+            "meaning": "ngăn cản ... khỏi việc"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "His poor performance in the exam is leading his parents to reconsider his study habits."
       }
     },
     {
       "id": "1761843675220",
       "targetLexeme": "paddy fields",
-      "sourceContext": "And a key reason for this destruction is that insect pests are destroying vast quantities of what is...",
+      "sourceContext": "...leading them to clear more forest to create new paddy fields.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Nơi trồng lúa, tức là 'đồng lúa', 'ruộng lúa'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈpædi fiːldz/",
+        "sentiment": "neutral",
+        "definitionEN": "A flooded field of arable land used for growing semiaquatic crops, most notably rice.",
+        "translationVI": "đồng lúa, ruộng lúa",
+        "relatedCollocates": [
+          {
+            "form": "rice paddies",
+            "meaning": "ruộng lúa"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Associated with Asian agriculture and landscapes.",
+            "connotationVI": "Gắn liền với nông nghiệp và cảnh quan châu Á."
+          }
+        ],
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The terraced paddy fields climbing the mountainside were a breathtaking sight."
       }
     },
     {
@@ -418,28 +744,63 @@
       "targetLexeme": "devastating habitat",
       "sourceContext": "The result is devastating habitat and biodiversity loss on the island, but not all species are suffering.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Kết quả là sự mất mát môi trường sống và đa dạng sinh học một cách 'tàn khốc'. 'Devastating' ở đây là tính từ bổ nghĩa cho 'habitat loss' (ẩn)."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈdɛvəsteɪtɪŋ ˈhæbɪtæt/",
+        "sentiment": "negative",
+        "definitionEN": "Causing severe and widespread destruction or damage to the natural home of an organism.",
+        "translationVI": "tàn phá môi trường sống",
+        "relatedCollocates": [
+          {
+            "form": "destroying habitats",
+            "meaning": "phá hủy môi trường sống"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
+          "noun": [
+            {
+              "form": "devastation",
+              "meaning": "sự tàn phá"
+            }
+          ],
+          "verb": [
+            {
+              "form": "devastate",
+              "meaning": "tàn phá"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "devastating",
+              "meaning": "có sức tàn phá"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Extreme, catastrophic, causing great harm.",
+            "connotationVI": "Cực đoan, thảm khốc, gây ra tác hại lớn."
+          }
+        ],
+        "usageNotes": [
+          {
+            "noteEN": "In the source, 'devastating' is an adjective modifying 'habitat and biodiversity loss'. The lexeme here is interpreted as the action.",
+            "noteVI": "Trong câu gốc, 'devastating' là một tính từ bổ nghĩa cho 'habitat and biodiversity loss'. Từ khóa ở đây được hiểu là hành động."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "restoring habitat",
+            "meaning": "phục hồi môi trường sống"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Wildfires are devastating habitat for countless animals."
       }
     },
     {
@@ -447,28 +808,52 @@
       "targetLexeme": "biodiversity",
       "sourceContext": "The result is devastating habitat and biodiversity loss on the island, but not all species are suffering.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Sự đa dạng của các loài sinh vật, tức là 'đa dạng sinh học'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+        "sentiment": "positive",
+        "definitionEN": "The variety of plant and animal life in the world or in a particular habitat, a high level of which is usually considered to be important and desirable.",
+        "translationVI": "đa dạng sinh học",
+        "relatedCollocates": [
+          {
+            "form": "biological diversity",
+            "meaning": "đa dạng sinh học"
+          },
+          {
+            "form": "ecosystem health",
+            "meaning": "sức khỏe hệ sinh thái"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
-          "adjective": [],
+          "adjective": [
+            {
+              "form": "biodiverse",
+              "meaning": "đa dạng sinh học"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Ecological richness and stability. Its loss is a major environmental concern.",
+            "connotationVI": "Sự phong phú và ổn định sinh thái. Sự mất mát của nó là một mối quan tâm lớn về môi trường."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "monoculture",
+            "meaning": "độc canh"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The Amazon rainforest is famous for its incredible biodiversity."
       }
     },
     {
@@ -476,28 +861,56 @@
       "targetLexeme": "are suffering",
       "sourceContext": "The result is devastating habitat and biodiversity loss on the island, but not all species are suffering.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Không phải tất cả các loài đều 'đang phải chịu đựng' hoặc 'bị ảnh hưởng xấu'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ɑː ˈsʌfərɪŋ/",
+        "sentiment": "negative",
+        "definitionEN": "Are experiencing or being subjected to something bad or unpleasant, such as pain, distress, or disadvantage.",
+        "translationVI": "đang phải chịu đựng, đang bị ảnh hưởng xấu",
+        "relatedCollocates": [
+          {
+            "form": "are struggling",
+            "meaning": "đang vật lộn"
+          },
+          {
+            "form": "are being harmed",
+            "meaning": "đang bị tổn hại"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "suffering",
+              "meaning": "sự đau khổ, sự chịu đựng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "suffer",
+              "meaning": "chịu đựng"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "are thriving",
+            "meaning": "đang phát triển mạnh"
+          },
+          {
+            "form": "are flourishing",
+            "meaning": "đang hưng thịnh"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many small businesses are suffering due to the economic downturn."
       }
     },
     {
@@ -505,28 +918,48 @@
       "targetLexeme": "insectivorous bats",
       "sourceContext": "In fact, some of the island's insectivorous bats are currently thriving and this has important implications for farmers...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Loài dơi ăn côn trùng, tức là 'dơi ăn côn trùng'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ɪnˌsɛkˈtɪvərəs bæts/",
+        "sentiment": "neutral",
+        "definitionEN": "Bats that feed on insects.",
+        "translationVI": "dơi ăn côn trùng",
+        "relatedCollocates": [
+          {
+            "form": "insect-eating bats",
+            "meaning": "dơi ăn côn trùng"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "insectivore",
+              "meaning": "động vật ăn côn trùng"
+            }
+          ],
           "verb": [],
-          "adjective": [],
+          "adjective": [
+            {
+              "form": "insectivorous",
+              "meaning": "ăn côn trùng"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
+        "register": "scientific",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "frugivorous bats (fruit-eating)",
+            "meaning": "dơi ăn quả"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Insectivorous bats play a crucial role in controlling mosquito populations."
       }
     },
     {
@@ -534,28 +967,56 @@
       "targetLexeme": "currently thriving",
       "sourceContext": "In fact, some of the island's insectivorous bats are currently thriving and this has important implications for farmers...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Hiện tại đang phát triển rất tốt, tức là 'hiện đang phát triển mạnh'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈkʌrəntli ˈθraɪvɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "Growing or developing well and vigorously at the present time.",
+        "translationVI": "hiện đang phát triển mạnh",
+        "relatedCollocates": [
+          {
+            "form": "flourishing at the moment",
+            "meaning": "đang hưng thịnh vào lúc này"
+          },
+          {
+            "form": "prospering now",
+            "meaning": "hiện đang thịnh vượng"
+          }
+        ],
         "wordForms": {
           "noun": [],
-          "verb": [],
+          "verb": [
+            {
+              "form": "thrive",
+              "meaning": "phát triển mạnh"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Success, health, and vigorous growth.",
+            "connotationVI": "Sự thành công, sức khỏe, và sự tăng trưởng mạnh mẽ."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "currently struggling",
+            "meaning": "hiện đang vật lộn"
+          },
+          {
+            "form": "currently dwindling",
+            "meaning": "hiện đang suy giảm"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Thanks to the new investment, the small startup is currently thriving."
       }
     },
     {
@@ -563,57 +1024,110 @@
       "targetLexeme": "important implications",
       "sourceContext": "In fact, some of the island's insectivorous bats are currently thriving and this has important implications for farmers...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Điều này có 'những hệ quả quan trọng' hoặc 'những hàm ý quan trọng' đối với nông dân."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ɪmˈpɔːtənt ˌɪmplɪˈkeɪʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Significant conclusions that can be drawn from something, or significant effects or consequences that may happen in the future.",
+        "translationVI": "những hệ quả/hàm ý quan trọng",
+        "relatedCollocates": [
+          {
+            "form": "significant consequences",
+            "meaning": "những hậu quả đáng kể"
+          },
+          {
+            "form": "major ramifications",
+            "meaning": "những phân nhánh chính"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "implication",
+              "meaning": "hàm ý, hệ quả"
+            }
+          ],
+          "verb": [
+            {
+              "form": "imply",
+              "meaning": "ngụ ý"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Suggests far-reaching effects that may not be immediately obvious.",
+            "connotationVI": "Gợi ý những ảnh hưởng sâu rộng có thể không rõ ràng ngay lập tức."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "minor consequences",
+            "meaning": "những hậu quả nhỏ"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The discovery of water on Mars has important implications for the future of space exploration."
       }
     },
     {
       "id": "1761843733248",
       "targetLexeme": "zoologist",
-      "sourceContext": "In fact, some of the island's insectivorous bats are currently thriving and this has important implications for farmers...",
+      "sourceContext": "Ricardo Rocha, a zoologist at the University of Cambridge, is one of the authors of the study.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một nhà khoa học nghiên cứu về động vật, tức là 'nhà động vật học'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/zuːˈɒləʤɪst/",
+        "sentiment": "neutral",
+        "definitionEN": "An expert in or student of the behavior, physiology, classification, and distribution of animals.",
+        "translationVI": "nhà động vật học",
+        "relatedCollocates": [
+          {
+            "form": "biologist",
+            "meaning": "nhà sinh vật học"
+          },
+          {
+            "form": "animal scientist",
+            "meaning": "nhà khoa học động vật"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "zoology",
+              "meaning": "động vật học"
+            }
+          ],
           "verb": [],
-          "adjective": [],
+          "adjective": [
+            {
+              "form": "zoological",
+              "meaning": "thuộc về động vật học"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Scientific, academic.",
+            "connotationVI": "Khoa học, học thuật."
+          }
+        ],
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The zoologist spent years in the jungle studying primate behavior."
       }
     },
     {
@@ -621,28 +1135,66 @@
       "targetLexeme": "passionate about",
       "sourceContext": "He's passionate about conservation, and bats.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Anh ấy rất yêu thích, có cảm xúc mạnh mẽ về, tức là 'đam mê'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈpæʃənət əˈbaʊt/",
+        "sentiment": "positive",
+        "definitionEN": "Having, showing, or caused by strong feelings or beliefs.",
+        "translationVI": "đam mê, say mê (về)",
+        "relatedCollocates": [
+          {
+            "form": "enthusiastic about",
+            "meaning": "hăng hái về"
+          },
+          {
+            "form": "dedicated to",
+            "meaning": "tận tụy với"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "passion",
+              "meaning": "niềm đam mê"
+            }
+          ],
           "verb": [],
-          "adjective": [],
-          "adverb": []
+          "adjective": [
+            {
+              "form": "passionate",
+              "meaning": "đam mê"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "passionately",
+              "meaning": "một cách say mê"
+            }
+          ]
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Strong emotion, deep interest, and commitment.",
+            "connotationVI": "Cảm xúc mạnh mẽ, sự quan tâm sâu sắc, và sự cam kết."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "indifferent to",
+            "meaning": "thờ ơ với"
+          },
+          {
+            "form": "apathetic about",
+            "meaning": "lãnh đạm về"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "She is passionate about advocating for animal rights."
       }
     },
     {
@@ -650,28 +1202,47 @@
       "targetLexeme": "More specifically",
       "sourceContext": "More specifically, he's interested in how bats are responding to human activity and deforestation in particular.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Dùng để làm rõ hơn ý trước, tức là 'cụ thể hơn'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/mɔː spəˈsɪfɪkəli/",
+        "sentiment": "neutral",
+        "definitionEN": "Used to add more exact information to a general statement.",
+        "translationVI": "cụ thể hơn",
+        "relatedCollocates": [
+          {
+            "form": "to be more precise",
+            "meaning": "để chính xác hơn"
+          },
+          {
+            "form": "in particular",
+            "meaning": "cụ thể là"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "A discourse marker used to narrow down a topic or provide greater detail.",
+            "connotationVI": "Một dấu hiệu diễn ngôn được sử dụng để thu hẹp một chủ đề hoặc cung cấp chi tiết hơn."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "more generally",
+            "meaning": "nói chung hơn"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "I enjoy outdoor activities. More specifically, I love hiking and kayaking."
       }
     },
     {
@@ -679,28 +1250,52 @@
       "targetLexeme": "are responding to",
       "sourceContext": "More specifically, he's interested in how bats are responding to human activity and deforestation in particular.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Cách loài dơi 'đang phản ứng với' hoạt động của con người."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ɑː rɪsˈpɒndɪŋ tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "Are reacting to something that has been done or has happened; adapting or changing in reaction to a stimulus.",
+        "translationVI": "đang phản ứng với/trước",
+        "relatedCollocates": [
+          {
+            "form": "are reacting to",
+            "meaning": "đang phản ứng với"
+          },
+          {
+            "form": "are adapting to",
+            "meaning": "đang thích nghi với"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "response",
+              "meaning": "sự phản hồi, phản ứng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "respond",
+              "meaning": "phản hồi, phản ứng"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "are ignoring",
+            "meaning": "đang phớt lờ"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "We need to see how the plants are responding to the new fertilizer."
       }
     },
     {
@@ -708,173 +1303,288 @@
       "targetLexeme": "in particular",
       "sourceContext": "More specifically, he's interested in how bats are responding to human activity and deforestation in particular.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Nhấn mạnh vào một ví dụ cụ thể, tức là 'đặc biệt là', 'cụ thể là'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ɪn pəˈtɪkjʊlə/",
+        "sentiment": "neutral",
+        "definitionEN": "Especially or particularly.",
+        "translationVI": "đặc biệt là, cụ thể là",
+        "relatedCollocates": [
+          {
+            "form": "particularly",
+            "meaning": "một cách đặc biệt"
+          },
+          {
+            "form": "especially",
+            "meaning": "đặc biệt là"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Used to single out one thing from a group for special mention.",
+            "connotationVI": "Được sử dụng để chỉ ra một thứ trong một nhóm để đề cập đặc biệt."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "in general",
+            "meaning": "nhìn chung"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "I like all kinds of music, but I enjoy classical music in particular."
       }
     },
     {
       "id": "1761843771786",
       "targetLexeme": "rice farmers",
-      "sourceContext": "Rocha's new study shows that several species of bats are giving Madagascar's rice farmers a vital pest control...",
+      "sourceContext": "Rocha's new study shows that several species of bats are giving Madagascar's rice farmers a vital pest control service...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Những người nông dân trồng lúa, tức là 'nông dân trồng lúa'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/raɪs ˈfɑːməz/",
+        "sentiment": "neutral",
+        "definitionEN": "Farmers who cultivate rice.",
+        "translationVI": "nông dân trồng lúa",
+        "relatedCollocates": [
+          {
+            "form": "paddy farmers",
+            "meaning": "nông dân trồng lúa nước"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new irrigation system has greatly benefited the local rice farmers."
       }
     },
     {
       "id": "1761843781132",
       "targetLexeme": "a vital pest control service",
-      "sourceContext": "Rocha's new study shows that several species of bats are giving Madagascar's rice farmers a vital pest control...",
+      "sourceContext": "Rocha's new study shows that several species of bats are giving Madagascar's rice farmers a vital pest control service...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một dịch vụ kiểm soát sâu bệnh rất quan trọng, tức là 'một dịch vụ kiểm soát sâu bệnh thiết yếu'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ə ˈvaɪtl pɛst kənˈtrəʊl ˈsɜːvɪs/",
+        "sentiment": "positive",
+        "definitionEN": "An extremely important and necessary service that manages or regulates species defined as pests.",
+        "translationVI": "một dịch vụ kiểm soát sâu bệnh thiết yếu",
+        "relatedCollocates": [
+          {
+            "form": "an essential pest management service",
+            "meaning": "một dịch vụ quản lý sâu bệnh cần thiết"
+          },
+          {
+            "form": "a crucial ecological service",
+            "meaning": "một dịch vụ sinh thái cốt yếu"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Crucial, necessary for success or survival, beneficial.",
+            "connotationVI": "Cốt yếu, cần thiết cho sự thành công hoặc sinh tồn, có lợi."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "a minor service",
+            "meaning": "một dịch vụ nhỏ"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Bees provide a vital pollination service for many of the crops we eat."
       }
     },
     {
       "id": "1761843784546",
       "targetLexeme": "feasting on",
-      "sourceContext": "Rocha's new study shows that several species of bats are giving Madagascar's rice farmers a vital pest control...",
+      "sourceContext": "...a vital pest control service by feasting on the plagues of insects that threaten the crops.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Bằng cách 'ăn' một lượng lớn côn trùng, tức là 'ăn ngấu nghiến', 'chén sạch'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈfiːstɪŋ ɒn/",
+        "sentiment": "neutral",
+        "definitionEN": "Eating large quantities of something with great enjoyment.",
+        "translationVI": "ăn ngấu nghiến, chén (cái gì đó)",
+        "relatedCollocates": [
+          {
+            "form": "gorging on",
+            "meaning": "nhồi nhét"
+          },
+          {
+            "form": "devouring",
+            "meaning": "ăn tươi nuốt sống, ngấu nghiến"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "feast",
+              "meaning": "bữa tiệc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "feast",
+              "meaning": "dự tiệc, ăn uống no nê"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Implies abundance of food and great enjoyment or voracity in eating.",
+            "connotationVI": "Ngụ ý sự dồi dào của thức ăn và sự thích thú hoặc tham ăn."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "nibbling on",
+            "meaning": "nhấm nháp"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The lions were feasting on the carcass of a wildebeest."
       }
     },
     {
       "id": "1761843788250",
       "targetLexeme": "plagues of insects",
-      "sourceContext": "Rocha's new study shows that several species of bats are giving Madagascar's rice farmers a vital pest control...",
+      "sourceContext": "...by feasting on the plagues of insects that threaten the crops.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một lượng lớn côn trùng gây hại, như một dịch bệnh, tức là 'dịch côn trùng'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/pleɪgz əv ˈɪnsɛkts/",
+        "sentiment": "negative",
+        "definitionEN": "A large number of insects appearing suddenly and causing a lot of damage.",
+        "translationVI": "dịch côn trùng, bầy đàn côn trùng (gây hại)",
+        "relatedCollocates": [
+          {
+            "form": "swarms of insects",
+            "meaning": "bầy côn trùng"
+          },
+          {
+            "form": "insect infestations",
+            "meaning": "sự phá hoại của côn trùng"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "plague",
+              "meaning": "bệnh dịch, tai họa"
+            }
+          ],
+          "verb": [
+            {
+              "form": "plague",
+              "meaning": "gây bệnh dịch, làm phiền"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Destructive, overwhelming, unwanted, like a disease.",
+            "connotationVI": "Phá hoại, áp đảo, không mong muốn, giống như một dịch bệnh."
+          }
+        ],
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The farmers lost their entire harvest due to plagues of locusts."
       }
     },
     {
       "id": "1761843794768",
       "targetLexeme": "ease the financial pressure on",
-      "sourceContext": "And this, he believes, can ease the financial pressure on farmers to turn forest into fields.Bats comprise roughly...",
+      "sourceContext": "And this, he believes, can ease the financial pressure on farmers to turn forest into fields.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Làm giảm bớt gánh nặng về tiền bạc, tức là 'giảm bớt áp lực tài chính cho'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/iːz ðə faɪˈnænʃəl ˈprɛʃər ɒn/",
+        "sentiment": "positive",
+        "definitionEN": "To reduce the burden of financial difficulties or stress on someone.",
+        "translationVI": "giảm bớt áp lực tài chính cho/lên",
+        "relatedCollocates": [
+          {
+            "form": "alleviate the financial burden on",
+            "meaning": "làm giảm bớt gánh nặng tài chính cho"
+          },
+          {
+            "form": "lessen the economic strain on",
+            "meaning": "làm giảm bớt căng thẳng kinh tế cho"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Relief, help, support, making a difficult situation better.",
+            "connotationVI": "Sự cứu trợ, giúp đỡ, hỗ trợ, làm cho một tình huống khó khăn trở nên tốt hơn."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "increase the financial pressure on",
+            "meaning": "gia tăng áp lực tài chính lên"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government's new subsidy program is designed to ease the financial pressure on low-income families."
       }
     }
   ]

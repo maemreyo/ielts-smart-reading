@@ -10,233 +10,410 @@
     {
       "id": "1761844080271",
       "targetLexeme": "leaving no doubt that",
-      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.The recordings revealed...",
+      "sourceContext": "The recordings revealed 17 species of bat, leaving no doubt that the animals were preferentially foraging in the man-made ecosystems.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Cụm từ này có nghĩa là 'không còn nghi ngờ gì nữa', dùng để khẳng định một cách chắc chắn kết quả được tiết lộ từ 'The recordings'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈliːvɪŋ nəʊ daʊt ðæt/",
+        "sentiment": "positive",
+        "definitionEN": "Making something completely certain or clear; providing conclusive proof.",
+        "translationVI": "Không còn nghi ngờ gì nữa rằng, cho thấy rõ ràng rằng",
+        "relatedCollocates": [
+          {
+            "form": "making it clear that",
+            "meaning": "làm rõ rằng"
+          },
+          {
+            "form": "proving conclusively that",
+            "meaning": "chứng minh một cách thuyết phục rằng"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Certainty, conclusiveness, finality.",
+            "connotationVI": "Sự chắc chắn, tính kết luận, sự cuối cùng."
+          }
+        ],
+        "usageNotes": [
+          {
+            "noteEN": "This phrase is often used to introduce a strong conclusion based on evidence that has just been presented.",
+            "noteVI": "Cụm từ này thường được dùng để giới thiệu một kết luận đanh thép dựa trên bằng chứng vừa được trình bày."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "suggesting that",
+            "meaning": "gợi ý rằng"
+          },
+          {
+            "form": "raising questions about whether",
+            "meaning": "dấy lên câu hỏi về việc liệu"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The discovery of the weapon at his home was leaving no doubt that he was involved in the crime."
       }
     },
     {
       "id": "1761844086278",
       "targetLexeme": "preferentially foraging",
-      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.The recordings revealed...",
+      "sourceContext": "The recordings revealed 17 species of bat, leaving no doubt that the animals were preferentially foraging in the man-made ecosystems.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "'Foraging' là kiếm ăn, 'preferentially' là một cách ưu tiên. Cụm từ này có nghĩa là những con vật này ưu tiên kiếm ăn ở một khu vực nào đó."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌprefəˈrenʃəli ˈfɒrɪdʒɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "Searching for food in a way that shows a preference for a particular place or type of food over others.",
+        "translationVI": "Kiếm ăn một cách ưu tiên",
+        "relatedCollocates": [
+          {
+            "form": "selectively feeding",
+            "meaning": "ăn uống có chọn lọc"
+          },
+          {
+            "form": "favoring... for food",
+            "meaning": "ưa thích... làm thức ăn"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Scientific, behavioral ecology, selective.",
+            "connotationVI": "Khoa học, sinh thái học hành vi, có chọn lọc."
+          }
+        ],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "randomly foraging",
+            "meaning": "kiếm ăn ngẫu nhiên"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Bees are known for preferentially foraging on flowers that offer the highest concentration of nectar."
       }
     },
     {
       "id": "1761844092788",
       "targetLexeme": "man-made ecosystems",
-      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.The recordings revealed...",
+      "sourceContext": "The recordings revealed 17 species of bat, leaving no doubt that the animals were preferentially foraging in the man-made ecosystems.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "'Man-made' là do con người tạo ra, 'ecosystems' là hệ sinh thái. Vậy đây là các hệ sinh thái nhân tạo."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌmænˈmeɪd ˈiːkəʊˌsɪstəmz/",
+        "sentiment": "neutral",
+        "definitionEN": "An ecosystem that has been created and is maintained by human activity, such as a farm, a city park, or a plantation.",
+        "translationVI": "Hệ sinh thái nhân tạo",
+        "relatedCollocates": [
+          {
+            "form": "artificial habitats",
+            "meaning": "môi trường sống nhân tạo"
+          },
+          {
+            "form": "agricultural landscapes",
+            "meaning": "cảnh quan nông nghiệp"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "neutral",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "natural ecosystems",
+            "meaning": "hệ sinh thái tự nhiên"
+          },
+          {
+            "form": "virgin forests",
+            "meaning": "rừng nguyên sinh"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Rice paddies are a type of man-made ecosystem that can support a surprising diversity of wildlife."
       }
     },
     {
       "id": "1761844098546",
       "targetLexeme": "bats favour",
-      "sourceContext": "The researchers suggest that the bats favour these fields because lack of water and nutrient run-off make these...",
+      "sourceContext": "The researchers suggest that the bats favour these fields because lack of water and nutrient run-off make these plants more susceptible to pest infestations.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "'Favour' có nghĩa là ưa thích, ưu ái. Cụm từ này có nghĩa là loài dơi ưa thích những cánh đồng này."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/bæts ˈfeɪvə(r)/",
+        "sentiment": "neutral",
+        "definitionEN": "Bats prefer or choose something (in this case, fields) over other options.",
+        "translationVI": "Dơi ưa thích",
+        "relatedCollocates": [
+          {
+            "form": "bats prefer",
+            "meaning": "dơi thích hơn"
+          },
+          {
+            "form": "bats are drawn to",
+            "meaning": "dơi bị thu hút đến"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "neutral",
+        "connotation": [],
+        "usageNotes": [
+          {
+            "noteEN": "'Favour' (UK) and 'favor' (US) are different spellings of the same word.",
+            "noteVI": "'Favour' (Anh-Anh) và 'favor' (Anh-Mỹ) là hai cách viết khác nhau của cùng một từ."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "bats avoid",
+            "meaning": "dơi né tránh"
+          },
+          {
+            "form": "bats dislike",
+            "meaning": "dơi không thích"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The study indicates that bats favour areas near rivers where insect populations are high."
       }
     },
     {
       "id": "1761844103802",
       "targetLexeme": "lack of water",
-      "sourceContext": "The researchers suggest that the bats favour these fields because lack of water and nutrient run-off make these...",
+      "sourceContext": "The researchers suggest that the bats favour these fields because lack of water and nutrient run-off make these plants more susceptible to pest infestations.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Sự thiếu nước."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/læk əv ˈwɔːtə(r)/",
+        "sentiment": "negative",
+        "definitionEN": "A situation in which there is not enough water.",
+        "translationVI": "Sự thiếu nước",
+        "relatedCollocates": [
+          {
+            "form": "water scarcity",
+            "meaning": "sự khan hiếm nước"
+          },
+          {
+            "form": "drought",
+            "meaning": "hạn hán"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Hardship, stress (for plants/animals), scarcity.",
+            "connotationVI": "Sự khó khăn, sự căng thẳng (đối với cây cối/động vật), sự khan hiếm."
+          }
+        ],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "abundance of water",
+            "meaning": "sự dồi dào nước"
+          },
+          {
+            "form": "water surplus",
+            "meaning": "sự thừa nước"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The lack of water in the desert makes it a challenging environment for most plants to survive."
       }
     },
     {
       "id": "1761844107021",
       "targetLexeme": "nutrient run-off",
-      "sourceContext": "The researchers suggest that the bats favour these fields because lack of water and nutrient run-off make these...",
+      "sourceContext": "The researchers suggest that the bats favour these fields because lack of water and nutrient run-off make these plants more susceptible to pest infestations.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "'Nutrient' là chất dinh dưỡng, 'run-off' là dòng chảy. Đây có thể là sự rửa trôi chất dinh dưỡng."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈnjuːtriənt ˈrʌnɒf/",
+        "sentiment": "negative",
+        "definitionEN": "The flow of water from land, usually from rain, that contains nutrients from fertilizers and other sources, which can pollute water bodies.",
+        "translationVI": "Dòng chảy dinh dưỡng (sự rửa trôi chất dinh dưỡng)",
+        "relatedCollocates": [
+          {
+            "form": "fertilizer runoff",
+            "meaning": "dòng chảy phân bón"
+          },
+          {
+            "form": "water pollution",
+            "meaning": "ô nhiễm nước"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Pollution, environmental damage, agriculture.",
+            "connotationVI": "Ô nhiễm, thiệt hại môi trường, nông nghiệp."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Excessive nutrient run-off from farms is a major cause of algal blooms in the nearby lake."
       }
     },
     {
       "id": "1761844115699",
       "targetLexeme": "more susceptible",
-      "sourceContext": "The researchers suggest that the bats favour these fields because lack of water and nutrient run-off make these...",
+      "sourceContext": "The researchers suggest that the bats favour these fields because lack of water and nutrient run-off make these plants more susceptible to pest infestations.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Dễ bị ảnh hưởng hơn, dễ bị tổn thương hơn."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/mɔː(r) səˈseptəbl/",
+        "sentiment": "negative",
+        "definitionEN": "More likely to be influenced or harmed by a particular thing.",
+        "translationVI": "Dễ bị ảnh hưởng hơn, dễ bị mắc phải hơn",
+        "relatedCollocates": [
+          {
+            "form": "more vulnerable to",
+            "meaning": "dễ bị tổn thương hơn bởi"
+          },
+          {
+            "form": "more prone to",
+            "meaning": "dễ có khuynh hướng bị"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "susceptibility",
+              "meaning": "tính dễ bị ảnh hưởng, tính nhạy cảm"
+            }
+          ],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Weakness, vulnerability.",
+            "connotationVI": "Sự yếu đuối, tính dễ bị tổn thương."
+          }
+        ],
+        "usageNotes": [
+          {
+            "noteEN": "Commonly followed by the preposition 'to'.",
+            "noteVI": "Thường đi sau bởi giới từ 'to'."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "more resistant to",
+            "meaning": "kháng cự tốt hơn với"
+          },
+          {
+            "form": "less prone to",
+            "meaning": "ít có khuynh hướng bị"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Plants under stress from drought are often more susceptible to disease."
       }
     },
     {
       "id": "1761844119864",
       "targetLexeme": "pest infestations",
-      "sourceContext": "The researchers suggest that the bats favour these fields because lack of water and nutrient run-off make these...",
+      "sourceContext": "The researchers suggest that the bats favour these fields because lack of water and nutrient run-off make these plants more susceptible to pest infestations.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "'Pest' là sâu bệnh, 'infestation' là sự phá hoại, xâm nhập. Đây là sự phá hoại của sâu bệnh."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/pest ˌɪnfeˈsteɪʃnz/",
+        "sentiment": "negative",
+        "definitionEN": "The presence of a large number of insects or animals that cause damage or disease.",
+        "translationVI": "Sự phá hoại của sâu bệnh",
+        "relatedCollocates": [
+          {
+            "form": "pest outbreaks",
+            "meaning": "sự bùng phát sâu bệnh"
+          },
+          {
+            "form": "plagues",
+            "meaning": "dịch bệnh (sâu bọ)"
+          }
+        ],
         "wordForms": {
           "noun": [],
-          "verb": [],
+          "verb": [
+            {
+              "form": "infest",
+              "meaning": "phá hoại, tràn vào"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Damage, destruction, agriculture.",
+            "connotationVI": "Thiệt hại, sự phá hủy, nông nghiệp."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The farmer had to use pesticides to control the severe pest infestations in his cornfield."
       }
     },
     {
@@ -244,28 +421,42 @@
       "targetLexeme": "fed on",
       "sourceContext": "DNA analysis showed that all six species of bat had fed on economically important insect pests.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Đây là thì quá khứ của 'feed on', có nghĩa là đã ăn (một loại thức ăn nào đó)."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/fed ɒn/",
+        "sentiment": "neutral",
+        "definitionEN": "(Past tense of feed on) To have eaten a particular type of food as the main part of one's diet.",
+        "translationVI": "Đã ăn (cái gì)",
+        "relatedCollocates": [
+          {
+            "form": "preyed on",
+            "meaning": "đã săn mồi"
+          },
+          {
+            "form": "consumed",
+            "meaning": "đã tiêu thụ"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Diet, consumption, ecology.",
+            "connotationVI": "Chế độ ăn, sự tiêu thụ, sinh thái học."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ancient tribe primarily fed on fish from the river and wild berries from the forest."
       }
     },
     {
@@ -273,245 +464,346 @@
       "targetLexeme": "economically important insect pests",
       "sourceContext": "DNA analysis showed that all six species of bat had fed on economically important insect pests.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Các loài sâu bệnh gây hại quan trọng về mặt kinh tế, tức là chúng gây thiệt hại lớn cho nông nghiệp."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌiːkəˈnɒmɪkli ɪmˈpɔːtnt ˈɪnsekt pests/",
+        "sentiment": "negative",
+        "definitionEN": "Insects that cause significant financial damage to crops, livestock, or other valuable resources.",
+        "translationVI": "Các loài sâu bệnh gây hại quan trọng về mặt kinh tế",
+        "relatedCollocates": [
+          {
+            "form": "major agricultural pests",
+            "meaning": "các loài sâu bệnh nông nghiệp chính"
+          },
+          {
+            "form": "crop-damaging insects",
+            "meaning": "côn trùng gây hại mùa màng"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Agriculture, economic loss, pest control.",
+            "connotationVI": "Nông nghiệp, tổn thất kinh tế, kiểm soát sâu bệnh."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government has invested in research to find new ways to control economically important insect pests."
       }
     },
     {
       "id": "1761844160356",
       "targetLexeme": "benefits most from",
-      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that...",
+      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that other crops also gained.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Hưởng lợi nhiều nhất từ. Trong câu này, ngành trồng lúa là ngành được hưởng lợi nhiều nhất từ loài dơi."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈbenɪfɪts məʊst frəm/",
+        "sentiment": "positive",
+        "definitionEN": "Receives the greatest advantage or positive result from something.",
+        "translationVI": "Hưởng lợi nhiều nhất từ",
+        "relatedCollocates": [
+          {
+            "form": "gains the most from",
+            "meaning": "thu được nhiều nhất từ"
+          },
+          {
+            "form": "profits most from",
+            "meaning": "sinh lời nhiều nhất từ"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "neutral",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "suffers most from",
+            "meaning": "chịu thiệt hại nhiều nhất từ"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Of all the students, she benefits most from the new online learning platform."
       }
     },
     {
       "id": "1761844183850",
       "targetLexeme": "found indications that",
-      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that...",
+      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that the bats also ate other pests.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Tìm thấy những dấu hiệu cho thấy rằng. 'Indications' là dấu hiệu, gợi ý."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/faʊnd ˌɪndɪˈkeɪʃnz ðæt/",
+        "sentiment": "neutral",
+        "definitionEN": "Discovered signs or pieces of information that suggest something is true or exists.",
+        "translationVI": "Tìm thấy dấu hiệu cho thấy rằng",
+        "relatedCollocates": [
+          {
+            "form": "found evidence that",
+            "meaning": "tìm thấy bằng chứng rằng"
+          },
+          {
+            "form": "discovered signs that",
+            "meaning": "phát hiện ra những dấu hiệu rằng"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Suggestive, not conclusive, preliminary finding.",
+            "connotationVI": "Gợi ý, không kết luận, phát hiện sơ bộ."
+          }
+        ],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "found conclusive proof that",
+            "meaning": "tìm thấy bằng chứng thuyết phục rằng"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The detectives found indications that the suspect was not acting alone."
       }
     },
     {
       "id": "1761844189059",
       "targetLexeme": "black twig borer",
-      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that...",
+      "sourceContext": "...the scientists also found indications that the bats also ate the black twig borer, which infests coffee plants...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Đây là tên một loài côn trùng gây hại, có thể là 'mọt cành đen', vì nó 'infests coffee plants' (phá hoại cây cà phê)."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/blæk twɪɡ ˈbɔːrə(r)/",
+        "sentiment": "negative",
+        "definitionEN": "A type of small beetle that bores into the twigs of various plants, including coffee, causing significant damage.",
+        "translationVI": "Mọt cành đen",
+        "relatedCollocates": [
+          {
+            "form": "coffee pest",
+            "meaning": "sâu bệnh hại cà phê"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Pest, agriculture, destructive.",
+            "connotationVI": "Sâu bệnh, nông nghiệp, có tính phá hoại."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The coffee farmer is worried about the recent outbreak of the black twig borer."
       }
     },
     {
       "id": "1761844197302",
       "targetLexeme": "infests coffee plants",
-      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that...",
+      "sourceContext": "...the black twig borer, which infests coffee plants...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "'Infest' là phá hoại, xâm nhập với số lượng lớn. Cụm từ này có nghĩa là phá hoại cây cà phê."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ɪnˈfests ˈkɒfi plɑːnts/",
+        "sentiment": "negative",
+        "definitionEN": "(Of insects or animals) to be present in large numbers in a place, causing damage or disease to coffee plants.",
+        "translationVI": "Phá hoại cây cà phê",
+        "relatedCollocates": [
+          {
+            "form": "damages coffee plants",
+            "meaning": "làm hại cây cà phê"
+          },
+          {
+            "form": "attacks coffee plants",
+            "meaning": "tấn công cây cà phê"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Destructive, widespread, problematic.",
+            "connotationVI": "Có tính phá hoại, lan rộng, có vấn đề."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "A new type of fungus that infests coffee plants is threatening the entire region's harvest."
       }
     },
     {
       "id": "1761844200130",
       "targetLexeme": "sugarcane cicada",
-      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that...",
+      "sourceContext": "...the sugarcane cicada, the macadamia nut-borer and the sober tabby...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một loài côn trùng gây hại cho mía, có thể là 've sầu mía'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈʃʊɡəkeɪn sɪˈkɑːdə/",
+        "sentiment": "negative",
+        "definitionEN": "A type of cicada that is known to be a pest to sugarcane crops.",
+        "translationVI": "Ve sầu mía",
+        "relatedCollocates": [
+          {
+            "form": "sugarcane pest",
+            "meaning": "sâu bệnh hại mía"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Pest, agriculture.",
+            "connotationVI": "Sâu bệnh, nông nghiệp."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Farmers are searching for natural predators to control the sugarcane cicada population."
       }
     },
     {
       "id": "1761844205036",
       "targetLexeme": "macadamia nut-borer",
-      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that...",
+      "sourceContext": "...the sugarcane cicada, the macadamia nut-borer and the sober tabby...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một loài côn trùng đục hạt mắc ca, 'sâu đục hạt mắc ca'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌmækəˈdeɪmiə nʌt ˈbɔːrə(r)/",
+        "sentiment": "negative",
+        "definitionEN": "An insect pest whose larvae bore into and damage macadamia nuts.",
+        "translationVI": "Sâu đục hạt mắc ca",
+        "relatedCollocates": [
+          {
+            "form": "macadamia pest",
+            "meaning": "sâu bệnh hại mắc ca"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Pest, agriculture, destructive.",
+            "connotationVI": "Sâu bệnh, nông nghiệp, có tính phá hoại."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The macadamia nut-borer can ruin an entire harvest if not managed effectively."
       }
     },
     {
       "id": "1761844208418",
       "targetLexeme": "sober tabby",
-      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that...",
+      "sourceContext": "...the sugarcane cicada, the macadamia nut-borer and the sober tabby, a pest of citrus fruits.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Đây là tên một loài côn trùng, là 'sâu bệnh hại cây có múi'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈsəʊbə(r) ˈtæbi/",
+        "sentiment": "negative",
+        "definitionEN": "A type of moth whose larvae are pests for citrus fruits.",
+        "translationVI": "Bướm đêm sober tabby (một loài sâu hại cây có múi)",
+        "relatedCollocates": [
+          {
+            "form": "citrus pest",
+            "meaning": "sâu bệnh hại cây có múi"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Pest, agriculture.",
+            "connotationVI": "Sâu bệnh, nông nghiệp."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The sober tabby moth lays its eggs on the leaves of orange and lemon trees."
       }
     },
     {
       "id": "1761844212686",
       "targetLexeme": "a pest of citrus fruits",
-      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that...",
+      "sourceContext": "...the sober tabby, a pest of citrus fruits.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một loài sâu bệnh hại các loại cây có múi (cam, chanh...)."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
+        "phonetic": "/ə pest əv ˈsɪtrəs fruːts/",
+        "sentiment": "negative",
+        "definitionEN": "An insect or animal that damages fruits like oranges, lemons, and grapefruits.",
+        "translationVI": "Một loài sâu bệnh hại cây có múi",
         "relatedCollocates": [],
         "wordForms": {
           "noun": [],
@@ -519,318 +811,510 @@
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The Mediterranean fruit fly is a notorious pest of citrus fruits, causing millions in damages annually."
       }
     },
     {
       "id": "1761844218669",
       "targetLexeme": "effectiveness",
-      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that...",
+      "sourceContext": "The effectiveness of bats as pest controllers has been proven in the USA and Mexico, but not in Madagascar.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Sự hiệu quả, tính hiệu quả."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ɪˈfektɪvnəs/",
+        "sentiment": "positive",
+        "definitionEN": "The degree to which something is successful in producing a desired result; success.",
+        "translationVI": "Sự hiệu quả, tính hiệu quả",
+        "relatedCollocates": [
+          {
+            "form": "efficacy",
+            "meaning": "hiệu lực, tính hiệu quả (thường trong y học)"
+          },
+          {
+            "form": "efficiency",
+            "meaning": "hiệu suất (làm việc tốt mà không lãng phí)"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "effectiveness",
+              "meaning": "sự hiệu quả"
+            }
+          ],
           "verb": [],
-          "adjective": [],
-          "adverb": []
+          "adjective": [
+            {
+              "form": "effective",
+              "meaning": "hiệu quả"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "effectively",
+              "meaning": "một cách hiệu quả"
+            }
+          ]
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "neutral",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "ineffectiveness",
+            "meaning": "sự không hiệu quả"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company is currently evaluating the effectiveness of its new advertising campaign."
       }
     },
     {
       "id": "1761844225184",
       "targetLexeme": "pest controller",
-      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that...",
+      "sourceContext": "The effectiveness of bats as pest controllers has been proven in the USA and Mexico, but not in Madagascar.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Tác nhân kiểm soát sâu bệnh. Trong trường hợp này, dơi đóng vai trò là một 'pest controller' tự nhiên."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/pest kənˈtrəʊlə(r)/",
+        "sentiment": "positive",
+        "definitionEN": "An organism or agent that helps to control the population of pests, often naturally.",
+        "translationVI": "Tác nhân kiểm soát sâu bệnh, thiên địch",
+        "relatedCollocates": [
+          {
+            "form": "natural predator",
+            "meaning": "thiên địch tự nhiên"
+          },
+          {
+            "form": "biological control agent",
+            "meaning": "tác nhân kiểm soát sinh học"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Beneficial, ecological balance, agriculture.",
+            "connotationVI": "Có lợi, cân bằng sinh thái, nông nghiệp."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Ladybugs are a fantastic natural pest controller for gardens because they eat aphids."
       }
     },
     {
       "id": "1761844230231",
       "targetLexeme": "been proven in",
-      "sourceContext": "While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that...",
+      "sourceContext": "The effectiveness of bats as pest controllers has been proven in the USA and Mexico, but not in Madagascar.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Đã được chứng minh ở/tại. Cấu trúc bị động này nhấn mạnh rằng sự hiệu quả đã được xác thực ở những nơi đó."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/bɪn ˈpruːvn ɪn/",
+        "sentiment": "positive",
+        "definitionEN": "To have been demonstrated to be true or effective in a particular place or context.",
+        "translationVI": "Đã được chứng minh ở/trong",
+        "relatedCollocates": [
+          {
+            "form": "been demonstrated in",
+            "meaning": "đã được chứng tỏ trong"
+          },
+          {
+            "form": "been established in",
+            "meaning": "đã được thiết lập ở"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Validated, confirmed, factual.",
+            "connotationVI": "Đã được xác thực, đã được xác nhận, thực tế."
+          }
+        ],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "been disproven in",
+            "meaning": "đã bị bác bỏ ở"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The success of this teaching method has been proven in several schools across the country."
       }
     },
     {
       "id": "1761844242014",
       "targetLexeme": "the stakes",
-      "sourceContext": "‘But our study is the first to show this happening in Madagascar, where the stakes for both farmers...",
+      "sourceContext": "‘But our study is the first to show this happening in Madagascar, where the stakes for both farmers and conservationists are so high.’",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "'The stakes are high' có nghĩa là mức độ rủi ro hoặc tầm quan trọng rất cao, có nhiều thứ để mất hoặc được."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ðə steɪks/",
+        "sentiment": "neutral",
+        "definitionEN": "The level of risk or the importance of the outcome in a situation; what can be gained or lost.",
+        "translationVI": "Mức độ rủi ro, mức độ được-mất, tầm quan trọng",
+        "relatedCollocates": [
+          {
+            "form": "the risks",
+            "meaning": "các rủi ro"
+          },
+          {
+            "form": "what is at risk",
+            "meaning": "những gì đang bị đe dọa"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Risk, importance, high-pressure.",
+            "connotationVI": "Rủi ro, tầm quan trọng, áp lực cao."
+          }
+        ],
+        "usageNotes": [
+          {
+            "noteEN": "Often used with adjectives like 'high' or 'low' (e.g., 'the stakes are high').",
+            "noteVI": "Thường được sử dụng với các tính từ như 'high' hoặc 'low' (ví dụ: 'the stakes are high')."
+          }
+        ],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "In the final round of the competition, the stakes were incredibly high for all participants."
       }
     },
     {
       "id": "1761844254572",
       "targetLexeme": "a further reason",
-      "sourceContext": "‘But our study is the first to show this happening in Madagascar, where the stakes for both farmers...",
+      "sourceContext": "This is a further reason for the island’s bats to be protected.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một lý do nữa, một lý do thêm vào."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ə ˈfɜːðə(r) ˈriːzn/",
+        "sentiment": "neutral",
+        "definitionEN": "An additional reason; one more reason.",
+        "translationVI": "Một lý do nữa, một lý do thêm vào",
+        "relatedCollocates": [
+          {
+            "form": "an additional reason",
+            "meaning": "một lý do bổ sung"
+          },
+          {
+            "form": "another reason",
+            "meaning": "một lý do khác"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Additive, building an argument.",
+            "connotationVI": "Bổ sung, xây dựng lập luận."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "He was late for the meeting, which was a further reason for his boss to be annoyed."
       }
     },
     {
       "id": "1761844262073",
       "targetLexeme": "associated with",
-      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats...",
+      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats also prey on mosquitoes...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Gắn liền với, liên quan đến. Trong câu này, loài vật này thường bị gắn với việc lan truyền bệnh tật."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/əˈsəʊʃieɪtɪd wɪð/",
+        "sentiment": "neutral",
+        "definitionEN": "Connected with something else in people's minds; having a link to something.",
+        "translationVI": "Gắn liền với, liên quan đến",
+        "relatedCollocates": [
+          {
+            "form": "linked to",
+            "meaning": "liên kết với"
+          },
+          {
+            "form": "connected with",
+            "meaning": "kết nối với"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "association",
+              "meaning": "sự liên kết, hiệp hội"
+            }
+          ],
+          "verb": [
+            {
+              "form": "associate",
+              "meaning": "liên kết"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "neutral",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "disassociated from",
+            "meaning": "tách rời khỏi"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The smell of freshly baked bread is often associated with happy childhood memories."
       }
     },
     {
       "id": "1761844264262",
       "targetLexeme": "spreading disease",
-      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats...",
+      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats also prey on mosquitoes...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Lan truyền bệnh tật."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈspredɪŋ dɪˈziːz/",
+        "sentiment": "negative",
+        "definitionEN": "Transmitting illnesses from one person or organism to another.",
+        "translationVI": "Lan truyền bệnh tật",
+        "relatedCollocates": [
+          {
+            "form": "transmitting illness",
+            "meaning": "truyền bệnh"
+          },
+          {
+            "form": "disease transmission",
+            "meaning": "sự lây truyền bệnh"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Harmful, public health risk.",
+            "connotationVI": "Có hại, rủi ro sức khỏe cộng đồng."
+          }
+        ],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "preventing disease",
+            "meaning": "phòng ngừa bệnh tật"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Health organizations emphasize the importance of handwashing in preventing the spread of disease."
       }
     },
     {
       "id": "1761844269183",
       "targetLexeme": "evidence",
-      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats...",
+      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats also prey on mosquitoes...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Bằng chứng, chứng cứ."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈevɪdəns/",
+        "sentiment": "neutral",
+        "definitionEN": "The available body of facts or information indicating whether a belief or proposition is true or valid.",
+        "translationVI": "Bằng chứng, chứng cứ",
+        "relatedCollocates": [
+          {
+            "form": "proof",
+            "meaning": "bằng chứng (thường mang tính kết luận hơn)"
+          },
+          {
+            "form": "indication",
+            "meaning": "dấu hiệu"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "evidence",
+              "meaning": "bằng chứng"
+            }
+          ],
           "verb": [],
-          "adjective": [],
+          "adjective": [
+            {
+              "form": "evident",
+              "meaning": "hiển nhiên, rõ ràng"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Factual, scientific, legal.",
+            "connotationVI": "Thực tế, khoa học, pháp lý."
+          }
+        ],
+        "usageNotes": [
+          {
+            "noteEN": "'Evidence' is an uncountable noun. You cannot say 'an evidence' or 'evidences'. Use 'a piece of evidence' instead.",
+            "noteVI": "'Evidence' là danh từ không đếm được. Bạn không thể nói 'an evidence' hay 'evidences'. Hãy dùng 'a piece of evidence' thay thế."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "speculation",
+            "meaning": "sự suy đoán"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The police are still looking for evidence to solve the case."
       }
     },
     {
       "id": "1761844277087",
       "targetLexeme": "carriers of malaria",
-      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats...",
+      "sourceContext": "...Malagasy bats also prey on the mosquitoes that are carriers of malaria, Rift Valley fever virus and elephantiasis...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Những vật chủ mang mầm bệnh sốt rét. 'Carriers' là người/vật mang mầm bệnh."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈkæriəz əv məˈleəriə/",
+        "sentiment": "negative",
+        "definitionEN": "Organisms that carry and can transmit the parasite that causes malaria, without necessarily showing symptoms themselves.",
+        "translationVI": "Vật chủ mang mầm bệnh sốt rét",
+        "relatedCollocates": [
+          {
+            "form": "malaria vectors",
+            "meaning": "véc-tơ truyền bệnh sốt rét"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Disease, public health, vector.",
+            "connotationVI": "Bệnh tật, sức khỏe cộng đồng, véc-tơ."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Certain species of mosquitoes are known carriers of malaria."
       }
     },
     {
       "id": "1761844279929",
       "targetLexeme": "mosquitoes",
-      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats...",
+      "sourceContext": "...Malagasy bats also prey on the mosquitoes that are carriers of malaria...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Con muỗi."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
+        "phonetic": "/məˈskiːtəʊz/",
+        "sentiment": "negative",
+        "definitionEN": "A slender long-legged fly with aquatic larvae. The bite of the bloodsucking female can transmit a number of serious diseases.",
+        "translationVI": "Con muỗi",
         "relatedCollocates": [],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "mosquito",
+              "meaning": "con muỗi (số ít)"
+            }
+          ],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Annoying, disease-carrying, pest.",
+            "connotationVI": "Phiền phức, mang mầm bệnh, sâu bệnh."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "It's important to use repellent to protect yourself from mosquitoes in tropical areas."
       }
     },
     {
       "id": "1761844282435",
       "targetLexeme": "fever virus",
-      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats...",
+      "sourceContext": "...carriers of malaria, Rift Valley fever virus and elephantiasis...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Vi-rút gây sốt. 'Rift Valley fever virus' là một loại vi-rút gây sốt cụ thể."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
+        "phonetic": "/ˈfiːvə(r) ˈvaɪrəs/",
+        "sentiment": "negative",
+        "definitionEN": "A virus that causes a disease characterized by a high body temperature (fever).",
+        "translationVI": "Vi-rút gây sốt",
         "relatedCollocates": [],
         "wordForms": {
           "noun": [],
@@ -838,43 +1322,58 @@
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Disease, illness, medical.",
+            "connotationVI": "Bệnh tật, ốm đau, y tế."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The patient was diagnosed with a tropical fever virus after returning from his trip."
       }
     },
     {
       "id": "1761844285246",
       "targetLexeme": "elephantiasis",
-      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats...",
+      "sourceContext": "...carriers of malaria, Rift Valley fever virus and elephantiasis, a disease that causes swelling of the limbs.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Tên một căn bệnh gây sưng phù chân tay, có thể là 'bệnh chân voi'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌelɪfənˈtaɪəsɪs/",
+        "sentiment": "negative",
+        "definitionEN": "A condition in which a limb or other part of the body becomes grossly enlarged due to obstruction of the lymphatic vessels, typically by parasitic worms transmitted by mosquitoes.",
+        "translationVI": "Bệnh chân voi (bệnh phù chân voi)",
+        "relatedCollocates": [
+          {
+            "form": "lymphatic filariasis",
+            "meaning": "bệnh giun chỉ bạch huyết (tên khoa học)"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
-        "usageNotes": null,
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Disease, tropical medicine, severe swelling.",
+            "connotationVI": "Bệnh tật, y học nhiệt đới, sưng phù nghiêm trọng."
+          }
+        ],
+        "usageNotes": [],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Elephantiasis is a debilitating disease that can be prevented by controlling mosquito populations."
       }
     }
   ]

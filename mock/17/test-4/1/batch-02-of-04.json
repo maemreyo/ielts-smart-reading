@@ -10,247 +10,426 @@
     {
       "id": "1761843802880",
       "targetLexeme": "comprise roughly",
-      "sourceContext": "And this, he believes, can ease the financial pressure on farmers to turn forest into fields.Bats comprise roughly...",
+      "sourceContext": "Bats comprise roughly one-fifth of all mammal species.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Bao gồm khoảng, chiếm khoảng."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/kəmˈpraɪz ˈrʌf.li/",
+        "sentiment": "neutral",
+        "definitionEN": "To consist of or be made up of, approximately; to make up a certain proportion of a whole.",
+        "translationVI": "bao gồm khoảng, chiếm khoảng",
+        "relatedCollocates": [
+          {
+            "form": "make up approximately",
+            "meaning": "chiếm khoảng"
+          },
+          {
+            "form": "consist of about",
+            "meaning": "bao gồm khoảng"
+          }
+        ],
         "wordForms": {
           "noun": [],
-          "verb": [],
+          "verb": [
+            {
+              "form": "comprise",
+              "meaning": "bao gồm"
+            }
+          ],
           "adjective": [],
-          "adverb": []
+          "adverb": [
+            {
+              "form": "roughly",
+              "meaning": "khoảng, xấp xỉ"
+            }
+          ]
         },
-        "register": "",
-        "connotation": null,
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Often used in scientific or academic contexts to describe the composition of a group.",
+            "connotationVI": "Thường được sử dụng trong các bối cảnh khoa học hoặc học thuật để mô tả thành phần của một nhóm."
+          }
+        ],
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Immigrants and their children comprise roughly a quarter of the country's population."
       }
     },
     {
       "id": "1761843806743",
       "targetLexeme": "one-fifth of all mammal species",
-      "sourceContext": "And this, he believes, can ease the financial pressure on farmers to turn forest into fields.Bats comprise roughly...",
+      "sourceContext": "Bats comprise roughly one-fifth of all mammal species.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một phần năm (1/5) tổng số các loài động vật có vú."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/wʌn fɪfθ əv ɔːl ˈmæm.əl ˈspiː.ʃiːz/",
+        "sentiment": "neutral",
+        "definitionEN": "Twenty percent of the total number of types of mammals.",
+        "translationVI": "một phần năm tổng số loài động vật có vú",
+        "relatedCollocates": [
+          {
+            "form": "a fifth of",
+            "meaning": "một phần năm của"
+          },
+          {
+            "form": "20 percent of",
+            "meaning": "20 phần trăm của"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
-        "usageNotes": null,
+        "usageNotes": [
+          {
+            "noteEN": "Used to express a significant proportion of a larger group.",
+            "noteVI": "Dùng để diễn tả một tỷ lệ đáng kể của một nhóm lớn hơn."
+          }
+        ],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The Amazon rainforest is home to about one-fifth of all bird species in the world."
       }
     },
     {
       "id": "1761843814017",
       "targetLexeme": "thirty-six recorded bat species",
-      "sourceContext": "And this, he believes, can ease the financial pressure on farmers to turn forest into fields.Bats comprise roughly...",
+      "sourceContext": "Of the thirty-six recorded bat species that are native to Madagascar, a surprising number are tolerant of habitat modification.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Ba mươi sáu loài dơi đã được ghi nhận."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈθɜː.ti sɪks rɪˈkɔː.dɪd bæt ˈspiː.ʃiːz/",
+        "sentiment": "neutral",
+        "definitionEN": "A total of 36 distinct types of bats that have been officially identified and documented by scientists.",
+        "translationVI": "ba mươi sáu loài dơi được ghi nhận",
+        "relatedCollocates": [
+          {
+            "form": "documented species",
+            "meaning": "các loài được ghi nhận"
+          },
+          {
+            "form": "identified types",
+            "meaning": "các loại được xác định"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The reserve is home to over two hundred recorded bird species, making it a paradise for birdwatchers."
       }
     },
     {
       "id": "1761843824915",
       "targetLexeme": "are native to",
-      "sourceContext": "And this, he believes, can ease the financial pressure on farmers to turn forest into fields.Bats comprise roughly...",
+      "sourceContext": "Of the thirty-six recorded bat species that are native to Madagascar, a surprising number are tolerant of habitat modification.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Là loài bản địa của, có nguồn gốc từ."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ɑːr ˈneɪ.tɪv tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To originate from or be indigenous to a particular place.",
+        "translationVI": "là loài bản địa của",
+        "relatedCollocates": [
+          {
+            "form": "are indigenous to",
+            "meaning": "là loài bản địa của"
+          },
+          {
+            "form": "originate from",
+            "meaning": "bắt nguồn từ"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "native",
+              "meaning": "người bản địa"
+            }
+          ],
           "verb": [],
-          "adjective": [],
+          "adjective": [
+            {
+              "form": "native",
+              "meaning": "bản địa"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "are introduced to",
+            "meaning": "được du nhập vào"
+          },
+          {
+            "form": "are foreign to",
+            "meaning": "là loài ngoại lai"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Kangaroos and koalas are native to Australia and cannot be found in the wild anywhere else."
       }
     },
     {
       "id": "1761843841805",
       "targetLexeme": "Co-leading",
-      "sourceContext": "And this, he believes, can ease the financial pressure on farmers to turn forest into fields.Bats comprise roughly...",
+      "sourceContext": "Co-leading the study was Dr Ricardo Rocha from the University of Cambridge's Department of Zoology.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Đồng lãnh đạo, đồng chủ trì."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌkoʊˈliː.dɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "Leading a project, group, or study together with one or more other people.",
+        "translationVI": "đồng chủ trì, đồng lãnh đạo",
+        "relatedCollocates": [
+          {
+            "form": "jointly leading",
+            "meaning": "cùng nhau lãnh đạo"
+          },
+          {
+            "form": "collaborating on",
+            "meaning": "hợp tác trong"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "co-leader",
+              "meaning": "đồng lãnh đạo"
+            }
+          ],
+          "verb": [
+            {
+              "form": "co-lead",
+              "meaning": "đồng lãnh đạo"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "formal",
         "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "usageNotes": [
+          {
+            "noteEN": "Often used at the beginning of a sentence to introduce one of the leaders of a project.",
+            "noteVI": "Thường được dùng ở đầu câu để giới thiệu một trong những người lãnh đạo của một dự án."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "solely leading",
+            "meaning": "đơn độc lãnh đạo"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Co-leading the expedition, the two scientists shared responsibility for the team's safety and research goals."
       }
     },
     {
       "id": "1761843850393",
       "targetLexeme": "indigenous bats",
-      "sourceContext": "And this, he believes, can ease the financial pressure on farmers to turn forest into fields.Bats comprise roughly...",
+      "sourceContext": "He and his team are investigating how the island's indigenous bats are responding to habitat modification.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Các loài dơi bản địa."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ɪnˈdɪdʒ.ə.nəs bæts/",
+        "sentiment": "neutral",
+        "definitionEN": "Bats that naturally exist in a particular region, rather than having been introduced from elsewhere.",
+        "translationVI": "dơi bản địa",
+        "relatedCollocates": [
+          {
+            "form": "native bats",
+            "meaning": "dơi bản địa"
+          },
+          {
+            "form": "local species",
+            "meaning": "loài địa phương"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
-          "adjective": [],
+          "adjective": [
+            {
+              "form": "indigenous",
+              "meaning": "bản địa"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
+        "register": "formal",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "invasive species",
+            "meaning": "loài xâm lấn"
+          },
+          {
+            "form": "non-native bats",
+            "meaning": "dơi không phải bản địa"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Conservation efforts are focused on protecting the habitat of the island's indigenous bats."
       }
     },
     {
       "id": "1761843855882",
       "targetLexeme": "habitat modification",
-      "sourceContext": "And this, he believes, can ease the financial pressure on farmers to turn forest into fields.Bats comprise roughly...",
+      "sourceContext": "He and his team are investigating how the island's indigenous bats are responding to habitat modification.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Sự thay đổi, biến đổi môi trường sống."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈhæb.ɪ.tæt ˌmɒd.ɪ.fɪˈkeɪ.ʃən/",
+        "sentiment": "negative",
+        "definitionEN": "The alteration or change of the natural environment where an organism or species lives.",
+        "translationVI": "sự biến đổi môi trường sống",
+        "relatedCollocates": [
+          {
+            "form": "habitat loss",
+            "meaning": "mất môi trường sống"
+          },
+          {
+            "form": "environmental change",
+            "meaning": "thay đổi môi trường"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "modification",
+              "meaning": "sự thay đổi"
+            }
+          ],
+          "verb": [
+            {
+              "form": "modify",
+              "meaning": "thay đổi"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Often implies changes caused by human activity, such as deforestation or urbanization.",
+            "connotationVI": "Thường ngụ ý những thay đổi do hoạt động của con người gây ra, chẳng hạn như phá rừng hoặc đô thị hóa."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "habitat preservation",
+            "meaning": "bảo tồn môi trường sống"
+          },
+          {
+            "form": "habitat restoration",
+            "meaning": "phục hồi môi trường sống"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Urban sprawl is a major cause of habitat modification, forcing many wildlife species to relocate or adapt."
       }
     },
     {
       "id": "1761843864664",
       "targetLexeme": "insects swarming",
-      "sourceContext": "And this, he believes, can ease the financial pressure on farmers to turn forest into fields.Bats comprise roughly...",
+      "sourceContext": "Many bats are attracted to the insects swarming above the rice fields.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Côn trùng bay thành đàn, tụ tập lại."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈɪn.sekts ˈswɔː.mɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "A large group of insects moving together in a dense, active mass.",
+        "translationVI": "côn trùng bay theo đàn",
+        "relatedCollocates": [
+          {
+            "form": "insects gathering",
+            "meaning": "côn trùng tụ tập"
+          },
+          {
+            "form": "a cloud of insects",
+            "meaning": "một đám mây côn trùng"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "swarm",
+              "meaning": "bầy, đàn"
+            }
+          ],
+          "verb": [
+            {
+              "form": "swarm",
+              "meaning": "tụ tập thành đàn"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "As dusk fell, we could see thousands of insects swarming around the streetlights."
       }
     },
     {
       "id": "1761843872930",
       "targetLexeme": "mouse-eared bat",
-      "sourceContext": "They include the Malagasy mouse-eared bat, Major's long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters' wrinkle-lipped bat.'These...",
+      "sourceContext": "They include the Malagasy mouse-eared bat, Major's long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters' wrinkle-lipped bat.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một loài dơi có tai giống tai chuột."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
+        "phonetic": "/ˈmaʊs.ɪəd bæt/",
+        "sentiment": "neutral",
+        "definitionEN": "A type of bat belonging to the genus Myotis, characterized by its relatively small, mouse-like ears.",
+        "translationVI": "dơi tai chuột",
         "relatedCollocates": [],
         "wordForms": {
           "noun": [],
@@ -258,28 +437,33 @@
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
-        "usageNotes": null,
+        "usageNotes": [
+          {
+            "noteEN": "This is a common name for a large group of bat species.",
+            "noteVI": "Đây là tên gọi chung cho một nhóm lớn các loài dơi."
+          }
+        ],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The researcher carefully held the small mouse-eared bat to measure its wingspan."
       }
     },
     {
       "id": "1761843876290",
       "targetLexeme": "long-fingered bat",
-      "sourceContext": "They include the Malagasy mouse-eared bat, Major's long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters' wrinkle-lipped bat.'These...",
+      "sourceContext": "They include the Malagasy mouse-eared bat, Major's long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters' wrinkle-lipped bat.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một loài dơi có ngón tay dài."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
+        "phonetic": "/ˈlɒŋˌfɪŋ.ɡəd bæt/",
+        "sentiment": "neutral",
+        "definitionEN": "A type of bat, particularly of the genus Miniopterus, known for having a very long third finger in its wing structure.",
+        "translationVI": "dơi ngón tay dài",
         "relatedCollocates": [],
         "wordForms": {
           "noun": [],
@@ -287,28 +471,28 @@
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The long-fingered bat is adapted for fast flight in open spaces."
       }
     },
     {
       "id": "1761843880146",
       "targetLexeme": "white-bellied free-tailed bat",
-      "sourceContext": "They include the Malagasy mouse-eared bat, Major's long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters' wrinkle-lipped bat.'These...",
+      "sourceContext": "They include the Malagasy mouse-eared bat, Major's long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters' wrinkle-lipped bat.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một loài dơi có bụng trắng và đuôi rời."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
+        "phonetic": "/ˌwaɪt.bel.id ˌfriː.teɪld bæt/",
+        "sentiment": "neutral",
+        "definitionEN": "A species of bat characterized by its white underside and a tail that extends noticeably beyond the edge of the tail membrane.",
+        "translationVI": "dơi đuôi rời bụng trắng",
         "relatedCollocates": [],
         "wordForms": {
           "noun": [],
@@ -316,28 +500,28 @@
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The white-bellied free-tailed bat often roosts in large colonies inside caves."
       }
     },
     {
       "id": "1761843883032",
       "targetLexeme": "wrinkle-lipped bat",
-      "sourceContext": "They include the Malagasy mouse-eared bat, Major's long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters' wrinkle-lipped bat.'These...",
+      "sourceContext": "They include the Malagasy mouse-eared bat, Major's long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters' wrinkle-lipped bat.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một loài dơi có môi nhăn."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
+        "phonetic": "/ˈrɪŋ.kəl.lɪpt bæt/",
+        "sentiment": "neutral",
+        "definitionEN": "A type of bat, often from the family Molossidae, known for the distinctive wrinkles or folds on its upper lip.",
+        "translationVI": "dơi môi nhăn",
         "relatedCollocates": [],
         "wordForms": {
           "noun": [],
@@ -345,536 +529,837 @@
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The call of the wrinkle-lipped bat is a high-frequency sound used for echolocation."
       }
     },
     {
       "id": "1761843888491",
       "targetLexeme": "a valuable free service",
-      "sourceContext": "They include the Malagasy mouse-eared bat, Major's long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters' wrinkle-lipped bat.'These...",
+      "sourceContext": "'These bats are providing a valuable free service to rice farmers as biological pest suppressors,' said Dr Rocha.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một dịch vụ miễn phí nhưng rất có giá trị."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ə ˈvæl.ju.ə.bəl friː ˈsɜː.vɪs/",
+        "sentiment": "positive",
+        "definitionEN": "An important and useful benefit or assistance that is provided without any cost.",
+        "translationVI": "một dịch vụ miễn phí có giá trị",
+        "relatedCollocates": [
+          {
+            "form": "a significant benefit",
+            "meaning": "một lợi ích đáng kể"
+          },
+          {
+            "form": "an important contribution",
+            "meaning": "một sự đóng góp quan trọng"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Highlights the economic and practical importance of a natural process.",
+            "connotationVI": "Nhấn mạnh tầm quan trọng về kinh tế và thực tiễn của một quá trình tự nhiên."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "a costly burden",
+            "meaning": "một gánh nặng tốn kém"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Bees provide a valuable free service to agriculture by pollinating crops."
       }
     },
     {
       "id": "1761843895362",
       "targetLexeme": "biological pest suppressors",
-      "sourceContext": "They include the Malagasy mouse-eared bat, Major's long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters' wrinkle-lipped bat.'These...",
+      "sourceContext": "'These bats are providing a valuable free service to rice farmers as biological pest suppressors,' said Dr Rocha.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Những tác nhân sinh học giúp kiềm chế, đàn áp sâu bệnh."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌbaɪ.əˈlɒdʒ.ɪ.kəl pest səˈpres.əz/",
+        "sentiment": "positive",
+        "definitionEN": "Living organisms that naturally control the population of harmful insects or other pests.",
+        "translationVI": "tác nhân sinh học kiềm chế dịch hại",
+        "relatedCollocates": [
+          {
+            "form": "natural predators",
+            "meaning": "thiên địch tự nhiên"
+          },
+          {
+            "form": "pest control agents",
+            "meaning": "tác nhân kiểm soát dịch hại"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "A scientific term for a form of natural pest control.",
+            "connotationVI": "Một thuật ngữ khoa học cho một hình thức kiểm soát dịch hại tự nhiên."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "chemical pesticides",
+            "meaning": "thuốc trừ sâu hóa học"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Ladybugs are well-known biological pest suppressors because they eat aphids."
       }
     },
     {
       "id": "1761843900710",
       "targetLexeme": "preying on",
-      "sourceContext": "‘We found that six species of bat are preying on rice pests, including the paddy swarming caterpillar and...",
+      "sourceContext": "‘We found that six species of bat are preying on rice pests, including the paddy swarming caterpillar and the grass webworm.’",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Săn mồi, ăn thịt."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈpreɪ.ɪŋ ɒn/",
+        "sentiment": "neutral",
+        "definitionEN": "Hunting and killing another animal for food.",
+        "translationVI": "săn mồi",
+        "relatedCollocates": [
+          {
+            "form": "feeding on",
+            "meaning": "ăn (cái gì đó)"
+          },
+          {
+            "form": "hunting",
+            "meaning": "săn bắt"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "prey",
+              "meaning": "con mồi"
+            }
+          ],
+          "verb": [
+            {
+              "form": "prey on",
+              "meaning": "săn mồi"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
-        "usageNotes": null,
+        "usageNotes": [
+          {
+            "noteEN": "This phrasal verb describes the action of a predator towards its prey.",
+            "noteVI": "Cụm động từ này mô tả hành động của kẻ săn mồi đối với con mồi."
+          }
+        ],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Owls are nocturnal hunters, preying on mice and other small rodents at night."
       }
     },
     {
       "id": "1761843903009",
       "targetLexeme": "rice pests",
-      "sourceContext": "‘We found that six species of bat are preying on rice pests, including the paddy swarming caterpillar and...",
+      "sourceContext": "‘We found that six species of bat are preying on rice pests, including the paddy swarming caterpillar and the grass webworm.’",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Sâu bệnh hại lúa."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/raɪs pests/",
+        "sentiment": "negative",
+        "definitionEN": "Insects or other animals that are harmful to rice crops.",
+        "translationVI": "sâu bệnh hại lúa",
+        "relatedCollocates": [
+          {
+            "form": "crop pests",
+            "meaning": "sâu bệnh hại cây trồng"
+          },
+          {
+            "form": "agricultural pests",
+            "meaning": "sâu bệnh nông nghiệp"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "beneficial insects",
+            "meaning": "côn trùng có ích"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Farmers are constantly looking for more effective ways to control rice pests without harming the environment."
       }
     },
     {
       "id": "1761843905809",
       "targetLexeme": "paddy swarming caterpillar",
-      "sourceContext": "‘We found that six species of bat are preying on rice pests, including the paddy swarming caterpillar and...",
+      "sourceContext": "‘We found that six species of bat are preying on rice pests, including the paddy swarming caterpillar and the grass webworm.’",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một loại sâu bướm hại lúa, có thể là sâu keo."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈpæd.i ˈswɔː.mɪŋ ˈkæt.ə.pɪl.ər/",
+        "sentiment": "negative",
+        "definitionEN": "A species of caterpillar (Spodoptera mauritia) known to form large, damaging swarms in rice paddies.",
+        "translationVI": "sâu keo hại lúa",
+        "relatedCollocates": [
+          {
+            "form": "armyworm",
+            "meaning": "sâu keo"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "An infestation of the paddy swarming caterpillar can destroy an entire rice crop in a matter of days."
       }
     },
     {
       "id": "1761843908236",
       "targetLexeme": "grass webworm",
-      "sourceContext": "‘We found that six species of bat are preying on rice pests, including the paddy swarming caterpillar and...",
+      "sourceContext": "‘We found that six species of bat are preying on rice pests, including the paddy swarming caterpillar and the grass webworm.’",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một loại sâu hại cỏ, có thể là sâu cuốn lá."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ɡrɑːs ˈweb.wɜːm/",
+        "sentiment": "negative",
+        "definitionEN": "A type of moth larva that feeds on grasses, creating web-like tunnels, and can be a pest in lawns and crops like rice.",
+        "translationVI": "sâu cuốn lá cỏ",
+        "relatedCollocates": [
+          {
+            "form": "sod webworm",
+            "meaning": "sâu đục thân cỏ"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The presence of brown patches on the lawn was a sign of a grass webworm infestation."
       }
     },
     {
       "id": "1761843921907",
       "targetLexeme": "puts ... farmers under",
-      "sourceContext": "The damage which these insects cause puts the island's farmers under huge financial pressure and that encourages deforestation.'The...",
+      "sourceContext": "The damage which these insects cause puts the island's farmers under huge financial pressure and that encourages deforestation.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Đặt người nông dân vào tình thế, khiến họ phải chịu."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/pʊts ˈfɑː.məz ˈʌn.dər/",
+        "sentiment": "negative",
+        "definitionEN": "To cause someone (farmers) to experience a difficult or stressful situation.",
+        "translationVI": "đặt... vào tình thế/gây ra... cho",
+        "relatedCollocates": [
+          {
+            "form": "subjects ... to",
+            "meaning": "khiến... phải chịu"
+          },
+          {
+            "form": "places ... under",
+            "meaning": "đặt... vào tình thế"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "usageNotes": [
+          {
+            "noteEN": "A phrasal construction used to describe the cause of a negative condition like 'pressure', 'stress', or 'strain'.",
+            "noteVI": "Một cấu trúc cụm từ được dùng để mô tả nguyên nhân của một tình trạng tiêu cực như 'pressure' (áp lực), 'stress' (căng thẳng), hoặc 'strain' (gánh nặng)."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "relieves ... from",
+            "meaning": "giải tỏa... khỏi"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The prolonged drought puts farmers under immense strain as they struggle to save their crops."
       }
     },
     {
       "id": "1761843926174",
       "targetLexeme": "huge financial pressure",
-      "sourceContext": "The damage which these insects cause puts the island's farmers under huge financial pressure and that encourages deforestation.'The...",
+      "sourceContext": "The damage which these insects cause puts the island's farmers under huge financial pressure and that encourages deforestation.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Áp lực tài chính khổng lồ."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/hjuːdʒ faɪˈnæn.ʃəl ˈpreʃ.ər/",
+        "sentiment": "negative",
+        "definitionEN": "A very strong and stressful demand on one's money, resources, or ability to meet financial obligations.",
+        "translationVI": "áp lực tài chính khổng lồ",
+        "relatedCollocates": [
+          {
+            "form": "immense economic strain",
+            "meaning": "gánh nặng kinh tế to lớn"
+          },
+          {
+            "form": "severe financial hardship",
+            "meaning": "khó khăn tài chính nghiêm trọng"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "financial stability",
+            "meaning": "sự ổn định tài chính"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The rising cost of living has put many families under huge financial pressure."
       }
     },
     {
       "id": "1761843958147",
       "targetLexeme": "state-of-the-art ultrasonic recorder",
-      "sourceContext": "The damage which these insects cause puts the island's farmers under huge financial pressure and that encourages deforestation.'The...",
+      "sourceContext": "The team used a state-of-the-art ultrasonic recorder to record the bats' echolocation sequences.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Máy ghi âm siêu âm hiện đại, tối tân nhất."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌsteɪt.əv.ði.ˈɑːt ˌʌl.trəˈsɒn.ɪk rɪˈkɔː.dər/",
+        "sentiment": "positive",
+        "definitionEN": "The most modern and technologically advanced device available for recording sounds at frequencies above the range of human hearing (ultrasound).",
+        "translationVI": "máy ghi âm siêu âm tối tân",
+        "relatedCollocates": [
+          {
+            "form": "cutting-edge equipment",
+            "meaning": "thiết bị tiên tiến"
+          },
+          {
+            "form": "advanced technology",
+            "meaning": "công nghệ tiên tiến"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
-          "adjective": [],
+          "adjective": [
+            {
+              "form": "state-of-the-art",
+              "meaning": "hiện đại, tối tân"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "outdated device",
+            "meaning": "thiết bị lỗi thời"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The biology lab was equipped with a state-of-the-art ultrasonic recorder to study dolphin communication."
       }
     },
     {
       "id": "1761843970972",
       "targetLexeme": "echolocation sequences",
-      "sourceContext": "The damage which these insects cause puts the island's farmers under huge financial pressure and that encourages deforestation.'The...",
+      "sourceContext": "The team used a state-of-the-art ultrasonic recorder to record the bats' echolocation sequences.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Các chuỗi, dãy âm thanh định vị bằng tiếng vang."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌek.əʊ.ləʊˈkeɪ.ʃən ˈsiː.kwən.sɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "The series of high-frequency sound pulses emitted by animals like bats to navigate and locate objects by interpreting the returning echoes.",
+        "translationVI": "chuỗi định vị bằng tiếng vang",
+        "relatedCollocates": [
+          {
+            "form": "sonar signals",
+            "meaning": "tín hiệu sonar"
+          },
+          {
+            "form": "ultrasonic calls",
+            "meaning": "tiếng kêu siêu âm"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "echolocation",
+              "meaning": "sự định vị bằng tiếng vang"
+            }
+          ],
+          "verb": [
+            {
+              "form": "echolocate",
+              "meaning": "định vị bằng tiếng vang"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "formal",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Scientists analyze the complex echolocation sequences to understand how bats perceive their environment in complete darkness."
       }
     },
     {
       "id": "1761843983915",
       "targetLexeme": "DNA barcoding techniques",
-      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.The recordings revealed...",
+      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Các kỹ thuật nhận dạng loài bằng mã vạch DNA."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌdiː.enˈeɪ ˈbɑː.kəʊ.dɪŋ tekˈniːks/",
+        "sentiment": "neutral",
+        "definitionEN": "A modern method of species identification that uses a short, standardized section of DNA from an organism's genome.",
+        "translationVI": "kỹ thuật mã vạch DNA",
+        "relatedCollocates": [
+          {
+            "form": "genetic analysis",
+            "meaning": "phân tích di truyền"
+          },
+          {
+            "form": "molecular identification",
+            "meaning": "nhận dạng phân tử"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "A precise, scientific method.",
+            "connotationVI": "Một phương pháp khoa học, chính xác."
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "visual identification",
+            "meaning": "nhận dạng bằng mắt thường"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Researchers used DNA barcoding techniques to identify the various insect species present in the ecosystem."
       }
     },
     {
       "id": "1761843990470",
       "targetLexeme": "droppings",
-      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.The recordings revealed...",
+      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Phân (của động vật)."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈdrɒp.ɪŋz/",
+        "sentiment": "neutral",
+        "definitionEN": "The solid waste (feces) produced by animals, especially birds, bats, or small mammals.",
+        "translationVI": "phân (động vật)",
+        "relatedCollocates": [
+          {
+            "form": "feces",
+            "meaning": "phân (thuật ngữ khoa học)"
+          },
+          {
+            "form": "guano",
+            "meaning": "phân dơi, phân chim biển"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
-        "usageNotes": null,
+        "usageNotes": [
+          {
+            "noteEN": "Always used in the plural form when referring to animal waste.",
+            "noteVI": "Luôn được dùng ở dạng số nhiều khi nói về chất thải của động vật."
+          }
+        ],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "By analyzing the bear's droppings, scientists can determine its diet."
       }
     },
     {
       "id": "1761844002802",
       "targetLexeme": "revealed that",
-      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.The recordings revealed...",
+      "sourceContext": "The recordings revealed that bat activity over the rice fields was much higher than in the continuous forest.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Tiết lộ rằng, cho thấy rằng."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/rɪˈviːld ðæt/",
+        "sentiment": "neutral",
+        "definitionEN": "To make known or show something that was previously secret or not known.",
+        "translationVI": "tiết lộ rằng, cho thấy rằng",
+        "relatedCollocates": [
+          {
+            "form": "showed that",
+            "meaning": "cho thấy rằng"
+          },
+          {
+            "form": "indicated that",
+            "meaning": "chỉ ra rằng"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "revelation",
+              "meaning": "sự tiết lộ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "reveal",
+              "meaning": "tiết lộ"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "usageNotes": [
+          {
+            "noteEN": "Commonly used to present the findings of a study, investigation, or experiment.",
+            "noteVI": "Thường được dùng để trình bày kết quả của một nghiên cứu, cuộc điều tra hoặc thí nghiệm."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "concealed that",
+            "meaning": "che giấu rằng"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The investigation revealed that the company had been ignoring safety regulations for years."
       }
     },
     {
       "id": "1761844055068",
       "targetLexeme": "rice fields",
-      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.The recordings revealed...",
+      "sourceContext": "The recordings revealed that bat activity over the rice fields was much higher than in the continuous forest.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Những cánh đồng lúa."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/raɪs fiːldz/",
+        "sentiment": "neutral",
+        "definitionEN": "Fields of land where rice is cultivated.",
+        "translationVI": "cánh đồng lúa",
+        "relatedCollocates": [
+          {
+            "form": "paddy fields",
+            "meaning": "ruộng lúa nước"
+          },
+          {
+            "form": "farmland",
+            "meaning": "đất nông nghiệp"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The landscape was a beautiful patchwork of green rice fields and small villages."
       }
     },
     {
       "id": "1761844061116",
       "targetLexeme": "much higher than",
-      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.The recordings revealed...",
+      "sourceContext": "The recordings revealed that bat activity over the rice fields was much higher than in the continuous forest.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Cao hơn nhiều so với."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/mʌtʃ ˈhaɪ.ər ðæn/",
+        "sentiment": "neutral",
+        "definitionEN": "Significantly greater in amount, level, or intensity when compared to something else.",
+        "translationVI": "cao hơn nhiều so với",
+        "relatedCollocates": [
+          {
+            "form": "significantly greater than",
+            "meaning": "lớn hơn đáng kể so với"
+          },
+          {
+            "form": "considerably more than",
+            "meaning": "nhiều hơn đáng kể so với"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
-        "usageNotes": null,
-        "contrastingCollocates": []
+        "usageNotes": [
+          {
+            "noteEN": "A common structure for making a strong comparison.",
+            "noteVI": "Một cấu trúc phổ biến để thực hiện một sự so sánh mạnh mẽ."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "much lower than",
+            "meaning": "thấp hơn nhiều so với"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The cost of living in the city is much higher than in the countryside."
       }
     },
     {
       "id": "1761844064032",
       "targetLexeme": "continuous forest",
-      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.The recordings revealed...",
+      "sourceContext": "The recordings revealed that bat activity over the rice fields was much higher than in the continuous forest.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Khu rừng liền mạch, không bị chia cắt."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/kənˈtɪn.ju.əs ˈfɒr.ɪst/",
+        "sentiment": "neutral",
+        "definitionEN": "A large, unbroken area of forest that has not been fragmented by roads, fields, or other human development.",
+        "translationVI": "rừng liền mạch",
+        "relatedCollocates": [
+          {
+            "form": "unbroken forest",
+            "meaning": "rừng không bị chia cắt"
+          },
+          {
+            "form": "large forest tract",
+            "meaning": "vùng rừng rộng lớn"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "formal",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "fragmented forest",
+            "meaning": "rừng bị phân mảnh"
+          },
+          {
+            "form": "forest patch",
+            "meaning": "mảng rừng"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Large predators like tigers require a vast continuous forest to roam and hunt."
       }
     },
     {
       "id": "1761844070617",
       "targetLexeme": "flat ground",
-      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.The recordings revealed...",
+      "sourceContext": "In Madagascar, rice is cultivated on flat ground or on terraces built on the sides of hills.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Mặt đất bằng phẳng."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/flæt ɡraʊnd/",
+        "sentiment": "neutral",
+        "definitionEN": "Land that is level, without significant slopes or hills.",
+        "translationVI": "mặt đất bằng phẳng",
+        "relatedCollocates": [
+          {
+            "form": "level terrain",
+            "meaning": "địa hình bằng phẳng"
+          },
+          {
+            "form": "a plain",
+            "meaning": "đồng bằng"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "hilly terrain",
+            "meaning": "địa hình đồi núi"
+          },
+          {
+            "form": "sloping ground",
+            "meaning": "mặt đất dốc"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "It's much easier to build a house on flat ground than on a steep slope."
       }
     },
     {
       "id": "1761844075245",
       "targetLexeme": "the sides of hills",
-      "sourceContext": "They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites.The recordings revealed...",
+      "sourceContext": "In Madagascar, rice is cultivated on flat ground or on terraces built on the sides of hills.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Sườn đồi, bên hông của những ngọn đồi."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ðə saɪdz əv hɪlz/",
+        "sentiment": "neutral",
+        "definitionEN": "The sloping surfaces of hills.",
+        "translationVI": "sườn đồi",
+        "relatedCollocates": [
+          {
+            "form": "hillsides",
+            "meaning": "sườn đồi"
+          },
+          {
+            "form": "slopes",
+            "meaning": "dốc"
+          }
+        ],
         "wordForms": {
           "noun": [],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "the top of hills",
+            "meaning": "đỉnh đồi"
+          },
+          {
+            "form": "the foot of hills",
+            "meaning": "chân đồi"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Vineyards are often planted on the sides of hills to ensure good drainage and sun exposure."
       }
     }
   ]

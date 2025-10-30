@@ -10,117 +10,181 @@
     {
       "id": "1761844287790",
       "targetLexeme": "blackflies",
-      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats...",
+      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats prey on insects that transmit diseases to humans, such as blackflies, which cause river blindness.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một loại côn trùng, ruồi đen, là vật trung gian truyền bệnh cho người, cụ thể là bệnh 'river blindness'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈblækflaɪz/",
+        "sentiment": "negative",
+        "definitionEN": "A type of small, biting fly that breeds in flowing water, known for being a pest and a vector for diseases like onchocerciasis (river blindness).",
+        "translationVI": "Ruồi đen.",
+        "relatedCollocates": [
+          {
+            "form": "biting insects",
+            "meaning": "côn trùng cắn/đốt"
+          },
+          {
+            "form": "disease vector",
+            "meaning": "vật trung gian truyền bệnh"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "blackfly",
+              "meaning": "ruồi đen (số ít)"
+            },
+            {
+              "form": "blackflies",
+              "meaning": "ruồi đen (số nhiều)"
+            }
+          ],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "beneficial insects",
+            "meaning": "côn trùng có ích"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Campers near the river were warned about the swarms of blackflies that appear at dusk."
       }
     },
     {
       "id": "1761844292376",
       "targetLexeme": "river blindness",
-      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats...",
+      "sourceContext": "Malagasy bats prey on insects that transmit diseases to humans, such as blackflies, which cause river blindness.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một căn bệnh do ruồi đen gây ra, có thể liên quan đến việc bị mù."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
-        "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
-          "adverb": []
-        },
-        "register": "",
+        "phonetic": "/ˈrɪvər ˈblaɪndnəs/",
+        "sentiment": "negative",
+        "definitionEN": "A parasitic disease, also known as onchocerciasis, transmitted by the bites of infected blackflies, which can cause severe skin disease and permanent blindness.",
+        "translationVI": "Bệnh mù lòa ven sông (bệnh giun chỉ Onchocerca).",
+        "relatedCollocates": [
+          {
+            "form": "onchocerciasis",
+            "meaning": "tên khoa học của bệnh mù lòa ven sông"
+          },
+          {
+            "form": "parasitic disease",
+            "meaning": "bệnh ký sinh trùng"
+          }
+        ],
+        "wordForms": {},
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Global health initiatives have made significant progress in controlling the spread of river blindness in Africa."
       }
     },
     {
       "id": "1761844296044",
       "targetLexeme": "points out that",
-      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats...",
+      "sourceContext": "Rocha points out that the relationship is complicated.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Dùng để nhấn mạnh, đưa ra một thông tin quan trọng. Có nghĩa là 'chỉ ra rằng', 'lưu ý rằng'."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
-        "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
-          "adverb": []
-        },
-        "register": "",
+        "phonetic": "/pɔɪnts aʊt ðæt/",
+        "sentiment": "neutral",
+        "definitionEN": "To draw attention to a particular fact or piece of information.",
+        "translationVI": "Chỉ ra rằng, lưu ý rằng.",
+        "relatedCollocates": [
+          {
+            "form": "highlights that",
+            "meaning": "nhấn mạnh rằng"
+          },
+          {
+            "form": "notes that",
+            "meaning": "ghi nhận rằng"
+          }
+        ],
+        "wordForms": {},
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The report points out that while profits are up, employee satisfaction has decreased."
       }
     },
     {
       "id": "1761844299228",
       "targetLexeme": "complicated",
-      "sourceContext": "While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats...",
+      "sourceContext": "Rocha points out that the relationship is complicated.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Mối quan hệ này 'phức tạp', không đơn giản."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈkɒmplɪkeɪtɪd/",
+        "sentiment": "neutral",
+        "definitionEN": "Consisting of many interconnecting parts or elements; intricate.",
+        "translationVI": "Phức tạp, rắc rối.",
+        "relatedCollocates": [
+          {
+            "form": "complex",
+            "meaning": "phức tạp"
+          },
+          {
+            "form": "intricate",
+            "meaning": "phức tạp, tinh vi"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
+          "noun": [
+            {
+              "form": "complication",
+              "meaning": "sự phức tạp, sự rắc rối"
+            }
+          ],
+          "verb": [
+            {
+              "form": "complicate",
+              "meaning": "làm phức tạp hóa"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "complicated",
+              "meaning": "phức tạp"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "simple",
+            "meaning": "đơn giản"
+          },
+          {
+            "form": "straightforward",
+            "meaning": "thẳng thắn, dễ hiểu"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The legal procedures for international adoption can be very complicated."
       }
     },
     {
@@ -128,28 +192,61 @@
       "targetLexeme": "a crucial source",
       "sourceContext": "When food is scarce, bats become a crucial source of protein for local people.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một nguồn cung cấp quan trọng, thiết yếu."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ə ˈkruːʃəl sɔːrs/",
+        "sentiment": "positive",
+        "definitionEN": "An extremely important or necessary origin or supply of something.",
+        "translationVI": "Một nguồn quan trọng/thiết yếu.",
+        "relatedCollocates": [
+          {
+            "form": "a vital source",
+            "meaning": "một nguồn sống còn"
+          },
+          {
+            "form": "an essential source",
+            "meaning": "một nguồn thiết yếu"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "source",
+              "meaning": "nguồn"
+            }
+          ],
           "verb": [],
-          "adjective": [],
-          "adverb": []
+          "adjective": [
+            {
+              "form": "crucial",
+              "meaning": "quan trọng, cốt yếu"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "crucially",
+              "meaning": "một cách quan trọng"
+            }
+          ]
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "a minor source",
+            "meaning": "một nguồn nhỏ, không đáng kể"
+          },
+          {
+            "form": "an insignificant source",
+            "meaning": "một nguồn không quan trọng"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "For many developing countries, tourism is a crucial source of foreign income."
       }
     },
     {
@@ -157,28 +254,47 @@
       "targetLexeme": "roost in",
       "sourceContext": "And as well as roosting in trees, the bats sometimes roost in buildings, but are not welcomed there...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Hành động của loài dơi, có nghĩa là trú ngụ, làm tổ hoặc đậu ở một nơi nào đó để nghỉ ngơi."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ruːst ɪn/",
+        "sentiment": "neutral",
+        "definitionEN": "(Of a bird or bat) to settle or congregate for rest or sleep in a particular place.",
+        "translationVI": "Đậu, trú ngụ (ở).",
+        "relatedCollocates": [
+          {
+            "form": "nest in",
+            "meaning": "làm tổ ở"
+          },
+          {
+            "form": "perch on",
+            "meaning": "đậu trên"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "roost",
+              "meaning": "chỗ đậu, chỗ ngủ (của chim, dơi)"
+            }
+          ],
+          "verb": [
+            {
+              "form": "roost",
+              "meaning": "đậu, trú ngụ"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Chickens will automatically return to roost in their coop at night."
       }
     },
     {
@@ -186,28 +302,56 @@
       "targetLexeme": "sacred caves",
       "sourceContext": "At the same time, however, they are associated with sacred caves and the ancestors, so they can be...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Những hang động được coi là thiêng liêng, có ý nghĩa tôn giáo hoặc tâm linh."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈseɪkrɪd keɪvz/",
+        "sentiment": "neutral",
+        "definitionEN": "Caves that are considered holy or worthy of religious veneration.",
+        "translationVI": "Hang động thiêng liêng.",
+        "relatedCollocates": [
+          {
+            "form": "holy sites",
+            "meaning": "thánh địa"
+          },
+          {
+            "form": "shrines",
+            "meaning": "miếu thờ, điện thờ"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "cave",
+              "meaning": "hang động"
+            },
+            {
+              "form": "sacredness",
+              "meaning": "sự thiêng liêng"
+            }
+          ],
           "verb": [],
-          "adjective": [],
+          "adjective": [
+            {
+              "form": "sacred",
+              "meaning": "thiêng liêng"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Spiritual, revered, culturally important",
+            "connotationVI": "Tâm linh, được tôn kính, quan trọng về mặt văn hóa"
+          }
+        ],
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Ancient paintings were discovered inside the sacred caves where the tribe's ancestors once lived."
       }
     },
     {
@@ -215,57 +359,118 @@
       "targetLexeme": "the ancestors",
       "sourceContext": "At the same time, however, they are associated with sacred caves and the ancestors, so they can be...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Tổ tiên, những người đi trước trong dòng họ."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ði ˈænsɛstərz/",
+        "sentiment": "neutral",
+        "definitionEN": "A person, typically one more remote than a grandparent, from whom one is descended.",
+        "translationVI": "Tổ tiên.",
+        "relatedCollocates": [
+          {
+            "form": "forebears",
+            "meaning": "tổ tiên"
+          },
+          {
+            "form": "forefathers",
+            "meaning": "tổ tiên (thường là nam)"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "ancestor",
+              "meaning": "tổ tiên"
+            },
+            {
+              "form": "ancestry",
+              "meaning": "dòng dõi, tổ tiên"
+            }
+          ],
           "verb": [],
-          "adjective": [],
+          "adjective": [
+            {
+              "form": "ancestral",
+              "meaning": "thuộc về tổ tiên"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "descendants",
+            "meaning": "con cháu, hậu duệ"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is a tradition in our family to tell stories of the ancestors during the new year."
       }
     },
     {
       "id": "1761844356106",
       "targetLexeme": "very significant in",
-      "sourceContext": "At the same time, however, they are associated with sacred caves and the ancestors, so they can be...",
+      "sourceContext": "At the same time, however, they are associated with sacred caves and the ancestors, so they can be very significant in the local culture.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Rất quan trọng, có ý nghĩa lớn trong một lĩnh vực nào đó (ở đây là văn hóa địa phương)."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈvɛri sɪɡˈnɪfɪkənt ɪn/",
+        "sentiment": "positive",
+        "definitionEN": "Being extremely important or having a major effect within a particular context or field.",
+        "translationVI": "Rất quan trọng/có ý nghĩa trong...",
+        "relatedCollocates": [
+          {
+            "form": "highly important in",
+            "meaning": "rất quan trọng trong"
+          },
+          {
+            "form": "pivotal in",
+            "meaning": "then chốt trong"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "significance",
+              "meaning": "tầm quan trọng, ý nghĩa"
+            }
+          ],
           "verb": [],
-          "adjective": [],
-          "adverb": []
+          "adjective": [
+            {
+              "form": "significant",
+              "meaning": "quan trọng, đáng kể"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "significantly",
+              "meaning": "một cách đáng kể"
+            }
+          ]
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "insignificant in",
+            "meaning": "không quan trọng trong"
+          },
+          {
+            "form": "unimportant in",
+            "meaning": "không quan trọng trong"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The invention of the printing press was very significant in the spread of knowledge."
       }
     },
     {
@@ -273,289 +478,523 @@
       "targetLexeme": "potential problem",
       "sourceContext": "And one potential problem is that while these bats are benefiting from farming, at the same time deforestation...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một vấn đề có khả năng xảy ra, một rủi ro tiềm ẩn."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/pəˈtɛnʃəl ˈprɒbləm/",
+        "sentiment": "negative",
+        "definitionEN": "A possible issue or difficulty that may arise in the future.",
+        "translationVI": "Vấn đề tiềm tàng.",
+        "relatedCollocates": [
+          {
+            "form": "potential risk",
+            "meaning": "rủi ro tiềm tàng"
+          },
+          {
+            "form": "possible issue",
+            "meaning": "vấn đề có thể xảy ra"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "potential",
+              "meaning": "tiềm năng"
+            },
+            {
+              "form": "problem",
+              "meaning": "vấn đề"
+            }
+          ],
           "verb": [],
-          "adjective": [],
-          "adverb": []
+          "adjective": [
+            {
+              "form": "potential",
+              "meaning": "tiềm tàng"
+            },
+            {
+              "form": "problematic",
+              "meaning": "có vấn đề"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "potentially",
+              "meaning": "có khả năng"
+            }
+          ]
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "A potential problem with the plan is the high initial cost."
       }
     },
     {
       "id": "1761844368040",
       "targetLexeme": "deforestation",
-      "sourceContext": "And one potential problem is that while these bats are benefiting from farming, at the same time deforestation...",
+      "sourceContext": "And one potential problem is that while these bats are benefiting from farming, at the same time deforestation is threatening the bats' natural habitat...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Hành động phá rừng, chặt cây trên diện rộng."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/diːˌfɒrɪˈsteɪʃən/",
+        "sentiment": "negative",
+        "definitionEN": "The action of clearing a wide area of trees.",
+        "translationVI": "Nạn phá rừng.",
+        "relatedCollocates": [
+          {
+            "form": "logging",
+            "meaning": "khai thác gỗ"
+          },
+          {
+            "form": "habitat loss",
+            "meaning": "mất môi trường sống"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "deforestation",
+              "meaning": "nạn phá rừng"
+            },
+            {
+              "form": "forest",
+              "meaning": "rừng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "deforest",
+              "meaning": "phá rừng"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "reforestation",
+            "meaning": "tái trồng rừng"
+          },
+          {
+            "form": "afforestation",
+            "meaning": "trồng rừng"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Deforestation in the Amazon rainforest has severe consequences for global climate."
       }
     },
     {
       "id": "1761844373789",
       "targetLexeme": "long-term effects",
-      "sourceContext": "And one potential problem is that while these bats are benefiting from farming, at the same time deforestation...",
+      "sourceContext": "And one potential problem is that while these bats are benefiting from farming, at the same time deforestation is threatening the bats' natural habitat, and we don't know what the long-term effects of that will be.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Những hậu quả, tác động sẽ xảy ra trong tương lai xa."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
-        "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
-          "adverb": []
-        },
-        "register": "",
+        "phonetic": "/ˈlɒŋ tɜːrm ɪˈfɛkts/",
+        "sentiment": "neutral",
+        "definitionEN": "The results or consequences of an action or situation that become apparent after a long period of time.",
+        "translationVI": "Tác động/ảnh hưởng lâu dài.",
+        "relatedCollocates": [
+          {
+            "form": "lasting consequences",
+            "meaning": "hậu quả lâu dài"
+          },
+          {
+            "form": "long-run impact",
+            "meaning": "tác động về lâu dài"
+          }
+        ],
+        "wordForms": {},
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "short-term effects",
+            "meaning": "tác động ngắn hạn"
+          },
+          {
+            "form": "immediate results",
+            "meaning": "kết quả tức thì"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Scientists are studying the long-term effects of plastic pollution on marine life."
       }
     },
     {
       "id": "1761844391884",
       "targetLexeme": "promote",
-      "sourceContext": "Rocha says, ‘With the right help, we hope that farmers can promote this mutually beneficial relationship by installing...",
+      "sourceContext": "Rocha says, ‘With the right help, we hope that farmers can promote this mutually beneficial relationship by installing bat houses...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Thúc đẩy, khuyến khích, làm cho một cái gì đó phát triển."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/prəˈməʊt/",
+        "sentiment": "positive",
+        "definitionEN": "To support or actively encourage a cause, venture, or aim; to further the progress of something.",
+        "translationVI": "Thúc đẩy, quảng bá.",
+        "relatedCollocates": [
+          {
+            "form": "encourage",
+            "meaning": "khuyến khích"
+          },
+          {
+            "form": "foster",
+            "meaning": "nuôi dưỡng, thúc đẩy"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "promotion",
+              "meaning": "sự thúc đẩy, sự thăng chức"
+            }
+          ],
+          "verb": [
+            {
+              "form": "promote",
+              "meaning": "thúc đẩy"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "hinder",
+            "meaning": "cản trở"
+          },
+          {
+            "form": "obstruct",
+            "meaning": "gây tắc nghẽn, cản trở"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new campaign aims to promote healthy eating habits among children."
       }
     },
     {
       "id": "1761844396625",
       "targetLexeme": "mutually beneficial relationship",
-      "sourceContext": "Rocha says, ‘With the right help, we hope that farmers can promote this mutually beneficial relationship by installing...",
+      "sourceContext": "Rocha says, ‘With the right help, we hope that farmers can promote this mutually beneficial relationship by installing bat houses...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một mối quan hệ mà cả hai bên đều có lợi."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
-        "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
-          "adverb": []
-        },
-        "register": "",
+        "phonetic": "/ˈmjuːtʃuəli ˌbɛnɪˈfɪʃəl rɪˈleɪʃənʃɪp/",
+        "sentiment": "positive",
+        "definitionEN": "A connection between two or more parties in which all parties gain advantages or benefits.",
+        "translationVI": "Mối quan hệ đôi bên cùng có lợi.",
+        "relatedCollocates": [
+          {
+            "form": "symbiotic relationship",
+            "meaning": "mối quan hệ cộng sinh"
+          },
+          {
+            "form": "win-win situation",
+            "meaning": "tình huống đôi bên cùng thắng"
+          }
+        ],
+        "wordForms": {},
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "parasitic relationship",
+            "meaning": "mối quan hệ ký sinh"
+          },
+          {
+            "form": "one-sided relationship",
+            "meaning": "mối quan hệ một chiều"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The partnership between the beekeeper and the farmer is a mutually beneficial relationship, as the bees pollinate the crops and produce honey."
       }
     },
     {
       "id": "1761844406350",
       "targetLexeme": "colleagues",
-      "sourceContext": "Rocha says, ‘With the right help, we hope that farmers can promote this mutually beneficial relationship by installing...",
+      "sourceContext": "Rocha and his colleagues are now working with the farmers on a project...",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Những người làm việc cùng, đồng nghiệp."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈkɒliːɡz/",
+        "sentiment": "neutral",
+        "definitionEN": "People with whom one works, especially in a profession or business.",
+        "translationVI": "Đồng nghiệp.",
+        "relatedCollocates": [
+          {
+            "form": "coworkers",
+            "meaning": "đồng nghiệp"
+          },
+          {
+            "form": "associates",
+            "meaning": "cộng sự"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "colleague",
+              "meaning": "đồng nghiệp"
+            }
+          ],
           "verb": [],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "She is highly respected by all of her colleagues at the law firm."
       }
     },
     {
       "id": "1761844411167",
       "targetLexeme": "maximising bat populations",
-      "sourceContext": "Rocha says, ‘With the right help, we hope that farmers can promote this mutually beneficial relationship by installing...",
+      "sourceContext": "Rocha and his colleagues are now working with the farmers on a project that involves maximising bat populations.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Làm tăng số lượng quần thể dơi lên mức cao nhất có thể."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈmæksɪmaɪzɪŋ bæt ˌpɒpjuˈleɪʃənz/",
+        "sentiment": "positive",
+        "definitionEN": "The action of increasing the number of bats in an area to the greatest possible extent.",
+        "translationVI": "Tối đa hóa quần thể dơi.",
+        "relatedCollocates": [
+          {
+            "form": "boosting bat numbers",
+            "meaning": "tăng số lượng dơi"
+          },
+          {
+            "form": "enhancing bat habitats",
+            "meaning": "cải thiện môi trường sống của dơi"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "maximisation",
+              "meaning": "sự tối đa hóa"
+            },
+            {
+              "form": "population",
+              "meaning": "quần thể"
+            }
+          ],
+          "verb": [
+            {
+              "form": "maximise",
+              "meaning": "tối đa hóa"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Conservation-focused, proactive",
+            "connotationVI": "Tập trung vào bảo tồn, chủ động"
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "culling bat populations",
+            "meaning": "tiêu hủy quần thể dơi"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The conservation project focuses on maximising bat populations to control agricultural pests naturally."
       }
     },
     {
       "id": "1761844417969",
       "targetLexeme": "boost",
-      "sourceContext": "Rocha says, ‘With the right help, we hope that farmers can promote this mutually beneficial relationship by installing...",
+      "sourceContext": "...installing bat houses to boost crop yields and provide a sustainable livelihood for the local people.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Tăng cường, thúc đẩy, làm tăng lên."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/buːst/",
+        "sentiment": "positive",
+        "definitionEN": "To help or encourage something to increase or improve.",
+        "translationVI": "Tăng cường, thúc đẩy.",
+        "relatedCollocates": [
+          {
+            "form": "increase",
+            "meaning": "tăng"
+          },
+          {
+            "form": "enhance",
+            "meaning": "nâng cao"
+          },
+          {
+            "form": "improve",
+            "meaning": "cải thiện"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "boost",
+              "meaning": "sự thúc đẩy, sự tăng cường"
+            }
+          ],
+          "verb": [
+            {
+              "form": "boost",
+              "meaning": "thúc đẩy, tăng cường"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "reduce",
+            "meaning": "giảm"
+          },
+          {
+            "form": "decrease",
+            "meaning": "giảm"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The good news about the economy helped to boost consumer confidence."
       }
     },
     {
       "id": "1761844420946",
       "targetLexeme": "crop yields",
-      "sourceContext": "Rocha says, ‘With the right help, we hope that farmers can promote this mutually beneficial relationship by installing...",
+      "sourceContext": "...installing bat houses to boost crop yields and provide a sustainable livelihood for the local people.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Sản lượng thu hoạch được từ cây trồng."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
-        "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
-          "adverb": []
-        },
-        "register": "",
+        "phonetic": "/krɒp jiːldz/",
+        "sentiment": "neutral",
+        "definitionEN": "The amount of a crop that is harvested per unit of land area.",
+        "translationVI": "Năng suất cây trồng.",
+        "relatedCollocates": [
+          {
+            "form": "harvest",
+            "meaning": "vụ thu hoạch"
+          },
+          {
+            "form": "agricultural output",
+            "meaning": "sản lượng nông nghiệp"
+          }
+        ],
+        "wordForms": {},
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new irrigation system has significantly improved crop yields."
       }
     },
     {
       "id": "1761844425232",
       "targetLexeme": "sustainable livelihood",
-      "sourceContext": "Rocha says, ‘With the right help, we hope that farmers can promote this mutually beneficial relationship by installing...",
+      "sourceContext": "...installing bat houses to boost crop yields and provide a sustainable livelihood for the local people.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Cách kiếm sống có thể duy trì lâu dài mà không gây hại cho môi trường hoặc cạn kiệt tài nguyên."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/səˈsteɪnəbəl ˈlaɪvlihʊd/",
+        "sentiment": "positive",
+        "definitionEN": "A means of securing the necessities of life (food, water, shelter, etc.) that can be maintained over the long term without depleting natural resources.",
+        "translationVI": "Sinh kế bền vững.",
+        "relatedCollocates": [
+          {
+            "form": "long-term employment",
+            "meaning": "việc làm lâu dài"
+          },
+          {
+            "form": "stable income",
+            "meaning": "thu nhập ổn định"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
-          "adverb": []
+          "noun": [
+            {
+              "form": "livelihood",
+              "meaning": "sinh kế"
+            },
+            {
+              "form": "sustainability",
+              "meaning": "sự bền vững"
+            }
+          ],
+          "verb": [
+            {
+              "form": "sustain",
+              "meaning": "duy trì"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "sustainable",
+              "meaning": "bền vững"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "sustainably",
+              "meaning": "một cách bền vững"
+            }
+          ]
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The charity helps local artisans develop a sustainable livelihood by selling their crafts online."
       }
     },
     {
@@ -563,28 +1002,66 @@
       "targetLexeme": "quantify",
       "sourceContext": "The team is now calling for further research to quantify this contribution.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Đo lường, xác định số lượng cụ thể của một cái gì đó."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈkwɒntɪfaɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "To express or measure the quantity of something.",
+        "translationVI": "Định lượng, lượng hóa.",
+        "relatedCollocates": [
+          {
+            "form": "measure",
+            "meaning": "đo lường"
+          },
+          {
+            "form": "calculate",
+            "meaning": "tính toán"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
+          "noun": [
+            {
+              "form": "quantity",
+              "meaning": "số lượng"
+            },
+            {
+              "form": "quantification",
+              "meaning": "sự định lượng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "quantify",
+              "meaning": "định lượng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "quantifiable",
+              "meaning": "có thể định lượng"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
-        "connotation": null,
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Scientific, objective, data-driven",
+            "connotationVI": "Khoa học, khách quan, dựa trên dữ liệu"
+          }
+        ],
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "qualify",
+            "meaning": "định tính"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is difficult to quantify the emotional impact of losing a pet."
       }
     },
     {
@@ -592,28 +1069,51 @@
       "targetLexeme": "contribution",
       "sourceContext": "The team is now calling for further research to quantify this contribution.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Sự đóng góp, phần tham gia vào một kết quả chung."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
+        "sentiment": "positive",
+        "definitionEN": "A part played by a person or thing in bringing about a result or helping something to advance.",
+        "translationVI": "Sự đóng góp.",
+        "relatedCollocates": [
+          {
+            "form": "impact",
+            "meaning": "tác động"
+          },
+          {
+            "form": "role",
+            "meaning": "vai trò"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
+          "noun": [
+            {
+              "form": "contribution",
+              "meaning": "sự đóng góp"
+            },
+            {
+              "form": "contributor",
+              "meaning": "người đóng góp"
+            }
+          ],
+          "verb": [
+            {
+              "form": "contribute",
+              "meaning": "đóng góp"
+            }
+          ],
           "adjective": [],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Her contribution to the project was invaluable."
       }
     },
     {
@@ -621,28 +1121,61 @@
       "targetLexeme": "optimistic",
       "sourceContext": "'I'm very optimistic,' says Rocha.",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Cảm thấy lạc quan, tin tưởng vào một kết quả tốt đẹp trong tương lai."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˌɒptɪˈmɪstɪk/",
+        "sentiment": "positive",
+        "definitionEN": "Hopeful and confident about the future.",
+        "translationVI": "Lạc quan.",
+        "relatedCollocates": [
+          {
+            "form": "hopeful",
+            "meaning": "đầy hy vọng"
+          },
+          {
+            "form": "positive",
+            "meaning": "tích cực"
+          }
+        ],
         "wordForms": {
-          "noun": [],
+          "noun": [
+            {
+              "form": "optimism",
+              "meaning": "sự lạc quan"
+            },
+            {
+              "form": "optimist",
+              "meaning": "người lạc quan"
+            }
+          ],
           "verb": [],
-          "adjective": [],
-          "adverb": []
+          "adjective": [
+            {
+              "form": "optimistic",
+              "meaning": "lạc quan"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "optimistically",
+              "meaning": "một cách lạc quan"
+            }
+          ]
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "pessimistic",
+            "meaning": "bi quan"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite the initial setbacks, the team remains optimistic about their chances of winning."
       }
     },
     {
@@ -650,28 +1183,37 @@
       "targetLexeme": "give nature a hand",
       "sourceContext": "‘If we give nature a hand, we can speed up the process of regeneration.'",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Một cách nói hình ảnh, có nghĩa là giúp đỡ, hỗ trợ các quá trình tự nhiên."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
-        "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
-          "adverb": []
-        },
-        "register": "",
+        "phonetic": "/ɡɪv ˈneɪtʃər ə hænd/",
+        "sentiment": "positive",
+        "definitionEN": "(Idiomatic) To help or assist natural processes to occur or succeed.",
+        "translationVI": "Trợ giúp tự nhiên, hỗ trợ thiên nhiên.",
+        "relatedCollocates": [
+          {
+            "form": "assist nature",
+            "meaning": "hỗ trợ tự nhiên"
+          },
+          {
+            "form": "help the environment",
+            "meaning": "giúp đỡ môi trường"
+          }
+        ],
+        "wordForms": {},
+        "register": "informal",
         "connotation": null,
-        "usageNotes": null,
+        "usageNotes": [
+          {
+            "noteEN": "This is an idiomatic expression. 'To give someone a hand' means to help someone.",
+            "noteVI": "Đây là một thành ngữ. 'To give someone a hand' có nghĩa là giúp đỡ ai đó."
+          }
+        ],
         "contrastingCollocates": []
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "By planting native flowers in our garden, we can give nature a hand and support local pollinators."
       }
     },
     {
@@ -679,28 +1221,37 @@
       "targetLexeme": "speed up",
       "sourceContext": "‘If we give nature a hand, we can speed up the process of regeneration.'",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Làm cho một quá trình diễn ra nhanh hơn, tăng tốc."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
-        "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
-          "adverb": []
-        },
-        "register": "",
+        "phonetic": "/spiːd ʌp/",
+        "sentiment": "neutral",
+        "definitionEN": "To move or happen more quickly, or to make something move or happen more quickly.",
+        "translationVI": "Tăng tốc, đẩy nhanh.",
+        "relatedCollocates": [
+          {
+            "form": "accelerate",
+            "meaning": "tăng tốc"
+          },
+          {
+            "form": "expedite",
+            "meaning": "xúc tiến"
+          }
+        ],
+        "wordForms": {},
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "slow down",
+            "meaning": "làm chậm lại"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new software update is designed to speed up the computer's performance."
       }
     },
     {
@@ -708,28 +1259,61 @@
       "targetLexeme": "process of regeneration",
       "sourceContext": "‘If we give nature a hand, we can speed up the process of regeneration.'",
       "phase1Inference": {
-        "contextualGuessVI": ""
+        "contextualGuessVI": "Quá trình tái tạo, phục hồi lại trạng thái ban đầu."
       },
       "phase2Annotation": {
-        "phonetic": "",
-        "sentiment": "",
-        "definitionEN": "",
-        "translationVI": "",
-        "relatedCollocates": [],
+        "phonetic": "/ˈprəʊsɛs əv rɪˌdʒɛnəˈreɪʃən/",
+        "sentiment": "positive",
+        "definitionEN": "The action or process of regenerating or being regenerated; renewal or restoration.",
+        "translationVI": "Quá trình tái sinh, quá trình phục hồi.",
+        "relatedCollocates": [
+          {
+            "form": "recovery process",
+            "meaning": "quá trình phục hồi"
+          },
+          {
+            "form": "restoration process",
+            "meaning": "quá trình khôi phục"
+          }
+        ],
         "wordForms": {
-          "noun": [],
-          "verb": [],
-          "adjective": [],
+          "noun": [
+            {
+              "form": "process",
+              "meaning": "quá trình"
+            },
+            {
+              "form": "regeneration",
+              "meaning": "sự tái sinh"
+            }
+          ],
+          "verb": [
+            {
+              "form": "regenerate",
+              "meaning": "tái sinh, tái tạo"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "regenerative",
+              "meaning": "có tính tái sinh"
+            }
+          ],
           "adverb": []
         },
-        "register": "",
+        "register": "neutral",
         "connotation": null,
         "usageNotes": null,
-        "contrastingCollocates": []
+        "contrastingCollocates": [
+          {
+            "form": "process of degradation",
+            "meaning": "quá trình suy thoái"
+          }
+        ]
       },
       "phase3Production": {
-        "taskType": "",
-        "content": ""
+        "taskType": "SENTENCE_CREATION",
+        "content": "After the wildfire, the forest began the slow process of regeneration."
       }
     }
   ]
