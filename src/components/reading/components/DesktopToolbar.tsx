@@ -218,7 +218,7 @@ export function DesktopToolbar({
       <div className="h-5 w-px bg-border"></div>
 
       {/* Speech Rate Control */}
-      <div className="flex items-center gap-2 min-w-[120px]">
+      <div className="flex items-center gap-2 min-w-[120px] h-[40px]">
         {/* <span className="text-xs">Rate</span> */}
         <Slider
           value={speechRateValue}
@@ -232,13 +232,13 @@ export function DesktopToolbar({
       </div>
 
       {/* Speech Rate Presets - Stacked Layout */}
-      <div className="flex items-center gap-1">
+      <div className="flex items-center gap-1 h-[40px]">
         <motion.button
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95, rotate: 180 }}
           onClick={cycleSpeechRatePreset}
           className={cn(
-            "p-2 rounded-lg transition-colors",
+            "p-2 rounded-lg transition-colors h-[40px] w-[40px] flex items-center justify-center",
             speechRate === currentSpeechRatePreset.rate
               ? "bg-primary text-primary-foreground"
               : "bg-muted hover:bg-muted/80"
@@ -271,13 +271,13 @@ export function DesktopToolbar({
       <div className="h-5 w-px bg-border"></div>
 
       {/* Sentiment Filter - Single Cycling Button */}
-      <div className="flex items-center gap-1">
+      <div className="flex items-center gap-1 h-[40px]">
         <motion.button
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95, rotate: 180 }}
           onClick={cycleSentimentFilter}
           className={cn(
-            "p-2 rounded-lg transition-colors",
+            "p-2 rounded-lg transition-colors h-[40px] w-[40px] flex items-center justify-center",
             sentimentFilter === null
               ? "bg-primary text-primary-foreground"
               : currentSentiment.colorClass + " text-white"
@@ -291,13 +291,13 @@ export function DesktopToolbar({
       <div className="h-5 w-px bg-border"></div>
 
       {/* Essential Control - Only Dim Others */}
-      <div className="flex items-center gap-1">
+      <div className="flex items-center gap-1 h-[40px]">
         <motion.button
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
           onClick={() => setDimOthers(!dimOthers)}
           className={cn(
-            "p-2 rounded-lg transition-colors",
+            "p-2 rounded-lg transition-colors h-[40px] w-[40px] flex items-center justify-center",
             dimOthers
               ? "bg-primary text-primary-foreground"
               : "hover:bg-muted"

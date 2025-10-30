@@ -1,0 +1,53 @@
+{
+    "id": "Định danh duy nhất (unique ID) cho mỗi item, dùng để quản lý dữ liệu (tìm kiếm, sửa, xóa).",
+    "targetLexeme": "Từ khóa hoặc 'lexical chunk' (cụm từ) cốt lõi mà bạn muốn học.",
+    "sourceContext": "Ngữ cảnh gốc (câu hoặc đoạn văn) nơi bạn tìm thấy từ này. Giúp cung cấp bối cảnh ban đầu.",
+    "phase1Inference": {
+        "contextualGuessVI": "Nơi bạn tự mình suy đoán nghĩa của 'targetLexeme' dựa vào 'sourceContext'. Đây là bước 'ép' não bộ tư duy."
+    },
+    "phase2Annotation": {
+        "phonetic": "Phiên âm (IPA) để đảm bảo phát âm chuẩn xác, bao gồm cả trọng âm và nối âm.",
+        "sentiment": "Sắc thái cơ bản của từ (positive, negative, neutral).",
+        "definitionEN": "Định nghĩa bằng tiếng Anh (English-English). Cực kỳ quan trọng để xây dựng tư duy bằng tiếng Anh.",
+        "translationVI": "Định nghĩa bằng tiếng Việt. Dùng để 'chốt' lại nghĩa và đảm bảo bạn hiểu đúng 100%.",
+        "relatedCollocates": "Danh sách các cụm từ liên quan, đồng nghĩa, hoặc thường đi chung (collocations) để mở rộng vốn từ.",
+        "wordForms": {
+            "noun": [
+                {
+                    "form": "dạng danh từ 1",
+                    "meaning": "nghĩa của dạng danh từ 1"
+                },
+                {
+                    "form": "dạng danh từ 2",
+                    "meaning": "nghĩa của dạng danh từ 2"
+                }
+            ],
+            "verb": [
+                {
+                    "form": "dạng động từ",
+                    "meaning": "nghĩa của dạng động từ"
+                }
+            ],
+            "adjective": [
+                {
+                    "form": "dạng tính từ",
+                    "meaning": "nghĩa của dạng tính từ"
+                }
+            ],
+            "adverb": [
+                {
+                    "form": "dạng trạng từ",
+                    "meaning": "nghĩa của dạng trạng từ"
+                }
+            ]
+        },
+        "register": "Văn phong sử dụng (ví dụ: 'formal' - trang trọng, 'informal' - thân mật, 'neutral' - trung tính). Giúp bạn biết dùng từ đúng hoàn cảnh.",
+        "connotation": "Hàm ý, sắc thái sâu hơn (ví dụ: 'academic' - học thuật, 'dismissive' - có ý xem nhẹ). Đây là bản nâng cấp của 'sentiment'.",
+        "usageNotes": "Ghi chú đặc biệt về cách dùng, các lỗi sai phổ biến, hoặc các cấu trúc/giới từ bắt buộc đi kèm (ví dụ: 'resemblance TO', không phải 'WITH').",
+        "contrastingCollocates": "Các cụm từ tương phản hoặc trái nghĩa. Giúp hiểu rõ ranh giới ý nghĩa của từ."
+    },
+    "phase3Production": {
+        "taskType": "Loại bài tập bạn sẽ làm để củng cố (ví dụ: 'SENTENCE_CREATION', 'PARAPHRASE', 'TRANSLATE_VI_EN').",
+        "content": "Nơi bạn thực hiện bài tập đó (ví dụ: viết câu của chính bạn) để chứng minh bạn đã 'sở hữu' từ vựng."
+    }
+}
