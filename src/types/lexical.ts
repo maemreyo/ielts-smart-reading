@@ -21,7 +21,7 @@ export interface Phase2Annotation {
   translationVI: string;
   relatedCollocates?: string[] | string;
   wordForms?: WordForms;
-  register?: "formal" | "informal" | "neutral";
+  register?: "formal" | "informal" | "neutral" | "";
   connotation?: string;
   usageNotes?: string;
   contrastingCollocates?: string[];

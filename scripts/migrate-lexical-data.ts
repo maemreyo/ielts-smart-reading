@@ -73,11 +73,11 @@ function migrateLexicalItem(
       translationVI: legacyItem.phase2Annotation.translationVI,
       relatedCollocates: legacyItem.phase2Annotation.relatedCollocates || [],
       wordForms: transformWordForms(legacyItem.phase2Annotation.wordForms),
-      // New fields - empty for now since they don't exist in legacy data
-      register: undefined,
-      connotation: undefined,
-      usageNotes: undefined,
-      contrastingCollocates: undefined
+      // New fields - use explicit falsy values so they appear in JSON
+      register: "",
+      connotation: null,
+      usageNotes: null,
+      contrastingCollocates: []
     },
     phase3Production: legacyItem.phase3Production
   };
