@@ -14,12 +14,6 @@ import {
     DialogTrigger,
 } from "@/components/ui/dialog";
 import {
-    Tabs,
-    TabsContent,
-    TabsList,
-    TabsTrigger,
-} from "@/components/ui/tabs";
-import {
     Settings,
     PanelLeft,
     Columns,
@@ -36,12 +30,11 @@ import {
     Moon,
     BookOpen,
     Clock,
-    Palette, // Mới: cho tab Hiển thị
-    Volume2, // Mới: cho tab Âm thanh
+    Palette,
+    Volume2,
 } from "lucide-react";
 import { VoiceSelection } from "./VoiceSelection";
 
-// Props interface không thay đổi, vì tất cả state vẫn được truyền từ bên ngoài
 interface SettingsDialogProps {
     fontFamily: string;
     setFontFamily: (font: string) => void;
@@ -73,7 +66,6 @@ interface SettingsDialogProps {
     onVoiceChange: (voiceName: string) => void;
 }
 
-// Các hằng số (không thay đổi)
 const fontFamilies = [
     { name: "Serif", class: "font-serif" },
     { name: "Sans", class: "font-sans" },
@@ -93,28 +85,54 @@ const timerPresets = [
     { name: "30 min", value: 30 }
 ];
 
-// Component con để chuẩn hóa các dòng cài đặt có nút gạt (Switch)
-const SettingsSwitch = ({
+const SectionHeader = ({ icon, title }: { icon: React.ReactNode; title: string }) => (
+    <div className="flex items-center gap-2 mb-4 pb-2 border-b">
+        {icon}
+        <h3 className="font-semibold text-sm">{title}</h3>
+    </div>
+);
+
+const QuickToggle = ({
     icon,
     label,
     checked,
     onCheckedChange,
+    variant = "default"
 }: {
     icon: React.ReactNode;
     label: string;
     checked: boolean;
     onCheckedChange: (checked: boolean) => void;
+    variant?: "default" | "compact";
 }) => (
-    <div className="flex items-center justify-between p-3 bg-muted rounded-lg">
-        <div className="flex items-center gap-3">
+    <button
+        onClick={() => onCheckedChange(!checked)}
+        className={cn(
+            "flex items-center gap-2 p-2.5 rounded-lg transition-all border",
+            variant === "compact" ? "justify-start" : "justify-between",
+            checked
+                ? "bg-primary/10 border-primary/30 text-primary"
+                : "bg-muted/50 border-transparent hover:bg-muted"
+        )}
+    >
+        <div className="flex items-center gap-2">
             {icon}
             <span className="text-sm font-medium">{label}</span>
         </div>
-        <Switch checked={checked} onCheckedChange={onCheckedChange} />
-    </div>
+        {variant === "default" && (
+            <div className={cn(
+                "w-9 h-5 rounded-full transition-colors relative",
+                checked ? "bg-primary" : "bg-muted-foreground/30"
+            )}>
+                <div className={cn(
+                    "absolute top-0.5 w-4 h-4 bg-white rounded-full transition-transform",
+                    checked ? "translate-x-[18px]" : "translate-x-0.5"
+                )} />
+            </div>
+        )}
+    </button>
 );
 
-// Tên component được đổi thành SettingsDialog
 export function SettingsDialog({
     fontFamily,
     setFontFamily,
@@ -146,14 +164,12 @@ export function SettingsDialog({
     onVoiceChange,
 }: SettingsDialogProps) {
 
-    // Theme options (không thay đổi)
     const themes = [
         { name: "Light", value: "light", icon: <Sun size={16} /> },
         { name: "Sepia", value: "sepia", icon: <BookOpen size={16} /> },
         { name: "Dark", value: "dark", icon: <Moon size={16} /> }
     ];
 
-    // Memoize (không thay đổi)
     const fontSizeValue = useMemo(() => [fontSize], [fontSize]);
     const timerDurationValue = useMemo(() => [timerDuration], [timerDuration]);
 
@@ -166,9 +182,7 @@ export function SettingsDialog({
     }, [setTimerDuration]);
 
     return (
-        // Sử dụng Dialog thay vì DropdownMenu
         <Dialog>
-            {/* Nút trigger vẫn giữ nguyên */}
             <DialogTrigger asChild>
                 <motion.button
                     whileHover={{ scale: 1.05 }}
@@ -180,252 +194,227 @@ export function SettingsDialog({
                 </motion.button>
             </DialogTrigger>
 
-            {/* Nội dung Dialog, rộng hơn và không bị giới hạn chiều cao như trước */}
-            <DialogContent className="max-w-3xl max-h-[90vh] overflow-y-auto">
-                <DialogHeader>
-                    <DialogTitle>Settings</DialogTitle>
+            <DialogContent className="max-w-8xl max-h-[85vh] overflow-y-auto p-0">
+                <DialogHeader className="px-6 pt-6 pb-4 border-b sticky top-0 bg-background z-10">
+                    <DialogTitle className="flex items-center gap-2">
+                        <Settings size={20} />
+                        Reading Settings
+                    </DialogTitle>
                     <DialogDescription>
-                        Tùy chỉnh trải nghiệm đọc của bạn.
+                        Customize your reading experience
                     </DialogDescription>
                 </DialogHeader>
 
-                {/* Sử dụng Tabs để tổ chức cài đặt */}
-                <Tabs defaultValue="display" className="w-full pt-4">
-                    <TabsList className="grid w-full grid-cols-4">
-                        <TabsTrigger value="display">
-                            <Palette size={16} className="mr-2" />
-                            Hiển thị
-                        </TabsTrigger>
-                        <TabsTrigger value="reading">
-                            <BookOpen size={16} className="mr-2" />
-                            Đọc
-                        </TabsTrigger>
-                        <TabsTrigger value="audio">
-                            <Volume2 size={16} className="mr-2" />
-                            Âm thanh
-                        </TabsTrigger>
-                        <TabsTrigger value="tools">
-                            <Clock size={16} className="mr-2" />
-                            Công cụ
-                        </TabsTrigger>
-                    </TabsList>
-
-                    {/* Tab 1: Cài đặt Hiển thị */}
-                    <TabsContent value="display" className="mt-6">
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                            {/* Cột 1: Font & Spacing */}
-                            <div className="space-y-6">
-                                {/* Font Family */}
-                                <div className="space-y-3">
-                                    <label className="text-sm font-medium">Font Family</label>
-                                    <div className="flex gap-2">
-                                        {fontFamilies.map((font) => (
-                                            <button
-                                                key={font.name}
-                                                onClick={() => setFontFamily(font.class)}
-                                                className={cn(
-                                                    "px-4 py-2 text-sm rounded-md transition-colors w-full",
-                                                    fontFamily === font.class
-                                                        ? "bg-primary text-primary-foreground"
-                                                        : "bg-muted hover:bg-muted/80"
-                                                )}
-                                            >
-                                                {font.name}
-                                            </button>
-                                        ))}
-                                    </div>
-                                </div>
-
-                                {/* Font Size */}
-                                <div className="space-y-3">
-                                    <div className="flex items-center justify-between">
-                                        <label className="text-sm font-medium">Font Size</label>
-                                        <span className="text-sm text-muted-foreground">
-                                            {fontSize}px
-                                        </span>
-                                    </div>
-                                    <Slider
-                                        value={fontSizeValue}
-                                        onValueChange={handleFontSizeChange}
-                                        max={40}
-                                        min={16}
-                                        step={2}
-                                        className="w-full"
-                                    />
-                                </div>
-
-                                {/* Line Spacing */}
-                                <div className="space-y-3">
-                                    <label className="text-sm font-medium">Line Spacing</label>
-                                    <div className="flex gap-2">
-                                        {lineSpacings.map((spacing) => (
-                                            <button
-                                                key={spacing.name}
-                                                onClick={() => setLineSpacing(spacing.class)}
-                                                className={cn(
-                                                    "p-3 rounded-md transition-colors flex-1 justify-center flex",
-                                                    lineSpacing === spacing.class
-                                                        ? "bg-primary text-primary-foreground"
-                                                        : "bg-muted hover:bg-muted/80"
-                                                )}
-                                                title={spacing.name}
-                                            >
-                                                {React.cloneElement(spacing.icon, { size: 18 })}
-                                            </button>
-                                        ))}
-                                    </div>
-                                </div>
-                            </div>
-
-                            {/* Cột 2: Layout & Theme */}
-                            <div className="space-y-6">
-                                {/* Columns */}
-                                <div className="space-y-3">
-                                    <label className="text-sm font-medium">Columns</label>
-                                    <div className="flex gap-2">
-                                        <button
-                                            onClick={() => setColumnCount(1)}
-                                            className={cn(
-                                                "p-3 rounded-md transition-colors flex-1 justify-center flex",
-                                                columnCount === 1
-                                                    ? "bg-primary text-primary-foreground"
-                                                    : "bg-muted hover:bg-muted/80"
-                                            )}
-                                            title="1 Column"
-                                        >
-                                            <PanelLeft size={18} />
-                                        </button>
-                                        <button
-                                            onClick={() => setColumnCount(2)}
-                                            className={cn(
-                                                "p-3 rounded-md transition-colors flex-1 justify-center flex",
-                                                columnCount === 2
-                                                    ? "bg-primary text-primary-foreground"
-                                                    : "bg-muted hover:bg-muted/80"
-                                            )}
-                                            title="2 Columns"
-                                        >
-                                            <Columns size={18} />
-                                        </button>
-                                        <button
-                                            onClick={() => setColumnCount(3)}
-                                            className={cn(
-                                                "p-3 rounded-md transition-colors flex-1 justify-center flex",
-                                                columnCount === 3
-                                                    ? "bg-primary text-primary-foreground"
-                                                    : "bg-muted hover:bg-muted/80"
-                                            )}
-                                            title="3 Columns"
-                                        >
-                                            <Grid size={18} />
-                                        </button>
-                                    </div>
-                                </div>
-
-                                {/* Theme */}
-                                <div className="space-y-3">
-                                    <label className="text-sm font-medium">Theme</label>
-                                    <div className="grid grid-cols-3 gap-2">
-                                        {themes.map((t) => (
-                                            <button
-                                                key={t.value}
-                                                onClick={() => setTheme(t.value)}
-                                                className={cn(
-                                                    "px-3 py-2 text-sm rounded-md transition-colors flex items-center justify-center gap-2",
-                                                    theme === t.value
-                                                        ? "bg-primary text-primary-foreground"
-                                                        : "bg-muted hover:bg-muted/80"
-                                                )}
-                                                title={t.name}
-                                            >
-                                                {React.cloneElement(t.icon, { size: 14 })}
-                                                {t.name}
-                                            </button>
-                                        ))}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </TabsContent>
-
-                    {/* Tab 2: Cài đặt Đọc */}
-                    <TabsContent value="reading" className="mt-6">
-                        <div className="max-w-md mx-auto space-y-4">
-                            <SettingsSwitch
-                                icon={<Eye size={16} />}
-                                label="Dim Other Paragraphs"
-                                checked={dimOthers}
-                                onCheckedChange={setDimOthers}
-                            />
-                            <SettingsSwitch
+                <div className="p-6 space-y-8">
+                    <section>
+                        <SectionHeader icon={<Focus size={16} />} title="Reading Modes" />
+                        <div className="grid grid-cols-2 gap-3">
+                            <QuickToggle
                                 icon={<Focus size={16} />}
                                 label="Focus Mode"
                                 checked={focusMode}
                                 onCheckedChange={setFocusMode}
                             />
-                            <SettingsSwitch
-                                icon={<Globe size={16} />}
-                                label="Hide Translations"
-                                checked={hideTranslations}
-                                onCheckedChange={setHideTranslations}
+                            <QuickToggle
+                                icon={<Eye size={16} />}
+                                label="Dim Others"
+                                checked={dimOthers}
+                                onCheckedChange={setDimOthers}
                             />
-                            <SettingsSwitch
+                            <QuickToggle
                                 icon={<Brain size={16} />}
                                 label="Guess Mode"
                                 checked={guessMode}
                                 onCheckedChange={setGuessMode}
                             />
-                            <SettingsSwitch
-                                icon={<motion.div />} // Biểu tượng cho animations
-                                label="Show Animations"
-                                checked={showAnimations}
-                                onCheckedChange={setShowAnimations}
+                            <QuickToggle
+                                icon={<Globe size={16} />}
+                                label="Hide Translations"
+                                checked={hideTranslations}
+                                onCheckedChange={setHideTranslations}
                             />
+                        </div>
+                    </section>
 
-                            {/* Keyboard Shortcuts */}
-                            <div className="flex items-center justify-between p-3 bg-muted rounded-lg">
-                                <div className="flex items-center gap-3">
-                                    <Keyboard size={16} />
-                                    <span className="text-sm font-medium">Keyboard Shortcuts</span>
+                    <section className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                        <div className="space-y-4">
+                            <SectionHeader icon={<Palette size={16} />} title="Typography" />
+                            
+                            <div className="space-y-2">
+                                <div className="flex items-center justify-between">
+                                    <label className="text-sm font-medium">Text Size</label>
+                                    <span className="text-sm font-mono text-muted-foreground bg-muted px-2 py-0.5 rounded">
+                                        {fontSize}px
+                                    </span>
                                 </div>
-                                <button
-                                    onClick={toggleShortcuts}
-                                    className="px-3 py-1 text-xs bg-background hover:bg-background/80 rounded-md transition-colors border shadow-sm"
-                                >
-                                    Show (Shift + ?)
-                                </button>
+                                <Slider
+                                    value={fontSizeValue}
+                                    onValueChange={handleFontSizeChange}
+                                    max={40}
+                                    min={16}
+                                    step={2}
+                                    className="w-full"
+                                />
+                            </div>
+
+                            <div className="space-y-2">
+                                <label className="text-sm font-medium">Font</label>
+                                <div className="grid grid-cols-3 gap-2">
+                                    {fontFamilies.map((font) => (
+                                        <button
+                                            key={font.name}
+                                            onClick={() => setFontFamily(font.class)}
+                                            className={cn(
+                                                "px-3 py-2 text-sm rounded-lg transition-all",
+                                                fontFamily === font.class
+                                                    ? "bg-primary text-primary-foreground shadow-sm"
+                                                    : "bg-muted hover:bg-muted/80"
+                                            )}
+                                        >
+                                            {font.name}
+                                        </button>
+                                    ))}
+                                </div>
+                            </div>
+
+                            <div className="space-y-2">
+                                <label className="text-sm font-medium">Line Spacing</label>
+                                <div className="grid grid-cols-3 gap-2">
+                                    {lineSpacings.map((spacing) => (
+                                        <button
+                                            key={spacing.name}
+                                            onClick={() => setLineSpacing(spacing.class)}
+                                            className={cn(
+                                                "p-2 rounded-lg transition-all flex items-center justify-center gap-2",
+                                                lineSpacing === spacing.class
+                                                    ? "bg-primary text-primary-foreground shadow-sm"
+                                                    : "bg-muted hover:bg-muted/80"
+                                            )}
+                                            title={spacing.name}
+                                        >
+                                            {spacing.icon}
+                                            <span className="text-xs">{spacing.name}</span>
+                                        </button>
+                                    ))}
+                                </div>
                             </div>
                         </div>
-                    </TabsContent>
 
-                    {/* Tab 3: Cài đặt Âm thanh */}
-                    <TabsContent value="audio" className="mt-6">
-                        <div className="max-w-md mx-auto">
+                        <div className="space-y-4">
+                            <SectionHeader icon={<Columns size={16} />} title="Layout & Theme" />
+                            
+                            <div className="space-y-2">
+                                <label className="text-sm font-medium">Color Theme</label>
+                                <div className="grid grid-cols-3 gap-2">
+                                    {themes.map((t) => (
+                                        <button
+                                            key={t.value}
+                                            onClick={() => setTheme(t.value)}
+                                            className={cn(
+                                                "px-3 py-2.5 rounded-lg transition-all flex items-center justify-center gap-2",
+                                                theme === t.value
+                                                    ? "bg-primary text-primary-foreground shadow-sm ring-2 ring-primary/20"
+                                                    : "bg-muted hover:bg-muted/80"
+                                            )}
+                                        >
+                                            {t.icon}
+                                            <span className="text-xs font-medium">{t.name}</span>
+                                        </button>
+                                    ))}
+                                </div>
+                            </div>
+
+                            <div className="space-y-2">
+                                <label className="text-sm font-medium">Columns</label>
+                                <div className="grid grid-cols-3 gap-2">
+                                    <button
+                                        onClick={() => setColumnCount(1)}
+                                        className={cn(
+                                            "p-2.5 rounded-lg transition-all flex items-center justify-center gap-2",
+                                            columnCount === 1
+                                                ? "bg-primary text-primary-foreground shadow-sm"
+                                                : "bg-muted hover:bg-muted/80"
+                                        )}
+                                    >
+                                        <PanelLeft size={16} />
+                                        <span className="text-xs">Single</span>
+                                    </button>
+                                    <button
+                                        onClick={() => setColumnCount(2)}
+                                        className={cn(
+                                            "p-2.5 rounded-lg transition-all flex items-center justify-center gap-2",
+                                            columnCount === 2
+                                                ? "bg-primary text-primary-foreground shadow-sm"
+                                                : "bg-muted hover:bg-muted/80"
+                                        )}
+                                    >
+                                        <Columns size={16} />
+                                        <span className="text-xs">Double</span>
+                                    </button>
+                                    <button
+                                        onClick={() => setColumnCount(3)}
+                                        className={cn(
+                                            "p-2.5 rounded-lg transition-all flex items-center justify-center gap-2",
+                                            columnCount === 3
+                                                ? "bg-primary text-primary-foreground shadow-sm"
+                                                : "bg-muted hover:bg-muted/80"
+                                        )}
+                                    >
+                                        <Grid size={16} />
+                                        <span className="text-xs">Triple</span>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <div className="pt-2">
+                                <QuickToggle
+                                    icon={<motion.div
+                                        animate={{ rotate: showAnimations ? 360 : 0 }}
+                                        transition={{ duration: 0.5 }}
+                                    >
+                                        ✨
+                                    </motion.div>}
+                                    label="Animations"
+                                    checked={showAnimations}
+                                    onCheckedChange={setShowAnimations}
+                                />
+                            </div>
+                        </div>
+                    </section>
+
+                    <section className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                        <div className="space-y-4">
+                            <SectionHeader icon={<Volume2 size={16} />} title="Text-to-Speech" />
                             <VoiceSelection
                                 voices={voices}
                                 currentVoice={currentVoice}
                                 onVoiceChange={onVoiceChange}
                             />
                         </div>
-                    </TabsContent>
 
-                    {/* Tab 4: Cài đặt Công cụ (Timer) */}
-                    <TabsContent value="tools" className="mt-6">
-                        <div className="max-w-md mx-auto space-y-4">
-                            <SettingsSwitch
+                        <div className="space-y-4">
+                            <SectionHeader icon={<Clock size={16} />} title="Reading Timer" />
+                            
+                            <QuickToggle
                                 icon={<Clock size={16} />}
                                 label="Enable Timer"
                                 checked={timerEnabled}
                                 onCheckedChange={setTimerEnabled}
                             />
 
-                            {/* Cài đặt timer chi tiết (chỉ hiện khi bật) */}
                             {timerEnabled && (
-                                <div className="pl-8 space-y-4 pt-4 border-l-2 ml-4">
-                                    <div className="space-y-3">
+                                <motion.div
+                                    initial={{ opacity: 0, height: 0 }}
+                                    animate={{ opacity: 1, height: "auto" }}
+                                    exit={{ opacity: 0, height: 0 }}
+                                    className="space-y-3 pl-4 border-l-2 border-primary/30"
+                                >
+                                    <div className="space-y-2">
                                         <div className="flex items-center justify-between">
                                             <label className="text-sm font-medium">Duration</label>
-                                            <span className="text-sm text-muted-foreground">{timerDuration} min</span>
+                                            <span className="text-sm font-mono text-muted-foreground bg-muted px-2 py-0.5 rounded">
+                                                {timerDuration} min
+                                            </span>
                                         </div>
                                         <Slider
                                             value={timerDurationValue}
@@ -443,22 +432,37 @@ export function SettingsDialog({
                                                 key={preset.value}
                                                 onClick={() => setTimerDuration(preset.value)}
                                                 className={cn(
-                                                    "px-2 py-1 text-xs rounded-md transition-colors",
+                                                    "px-2 py-1.5 text-xs rounded-md transition-all font-medium",
                                                     timerDuration === preset.value
-                                                        ? "bg-primary text-primary-foreground"
+                                                        ? "bg-primary text-primary-foreground shadow-sm"
                                                         : "bg-muted hover:bg-muted/80"
                                                 )}
-                                                title={preset.name}
                                             >
                                                 {preset.name}
                                             </button>
                                         ))}
                                     </div>
-                                </div>
+                                </motion.div>
                             )}
                         </div>
-                    </TabsContent>
-                </Tabs>
+                    </section>
+
+                    <section>
+                        <SectionHeader icon={<Keyboard size={16} />} title="Shortcuts" />
+                        <button
+                            onClick={toggleShortcuts}
+                            className="w-full p-3 bg-muted hover:bg-muted/80 rounded-lg transition-colors flex items-center justify-between group"
+                        >
+                            <div className="flex items-center gap-3">
+                                <Keyboard size={16} />
+                                <span className="text-sm font-medium">View Keyboard Shortcuts</span>
+                            </div>
+                            <kbd className="px-2 py-1 text-xs bg-background border rounded font-mono shadow-sm">
+                                Shift + ?
+                            </kbd>
+                        </button>
+                    </section>
+                </div>
             </DialogContent>
         </Dialog>
     );
