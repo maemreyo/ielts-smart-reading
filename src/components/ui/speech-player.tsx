@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from './card';
 import { SpeechControls } from './speech-controls';
 import { SpeechHighlightedText } from './speech-highlighted-text';
-import { useSpeech } from '@/hooks/useSpeech';
+import { useSpeech } from '@/hooks/use-speech';
 import { cn } from '@/lib/utils';
 
 interface SpeechPlayerProps {

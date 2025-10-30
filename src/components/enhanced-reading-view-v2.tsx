@@ -10,7 +10,7 @@ import { useReadingState } from "./reading/hooks/useReadingState";
 import { useAutoScroll } from "./reading/hooks/useAutoScroll";
 import { useKeyboardShortcuts } from "./reading/hooks/useKeyboardShortcuts";
 import { useToolbarAutoHide } from "./reading/hooks/useToolbarAutoHide";
-import { useSpeech } from "@/hooks/useSpeech";
+import { useSpeech } from "@/hooks/use-speech";
 import { useParagraphSpeech } from "./reading/hooks/useParagraphSpeech";
 import { useReadingTimer } from "./reading/hooks/useReadingTimer";
 import { useSpeechConfirmationDialog } from "./reading/hooks/useSpeechConfirmationDialog";

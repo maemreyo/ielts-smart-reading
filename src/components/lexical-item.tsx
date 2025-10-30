@@ -9,7 +9,7 @@ import { BookText, FlipHorizontal, Spline, Wand2, Brain, Eye, ArrowRight, Zap, T
 import { cn } from "@/lib/utils";
 import { PhoneticZoom } from "./phonetic-zoom";
 import { useGuessStore } from "./reading/hooks/useGuessStore";
-import { useSpeech } from "@/hooks/useSpeech";
+import { useSpeech } from "@/hooks/use-speech";
 import { type LexicalItem } from "./reading/utils/textProcessing";
 
 interface LexicalItemProps {

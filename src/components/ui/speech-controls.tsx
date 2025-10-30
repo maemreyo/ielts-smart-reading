@@ -4,7 +4,7 @@ import React, { useState, useMemo } from 'react';
 import { Button } from './button';
 import { Volume2, VolumeX, Play, Pause, Square, Settings, Clock } from 'lucide-react';
 import { cn } from '@/lib/utils';
-import { useSpeech, type UseSpeechReturn } from '@/hooks/useSpeech';
+import { useSpeech, type UseSpeechReturn } from '@/hooks/use-speech';
 
 interface SpeechControlsProps {
   text: string;
