@@ -4,7 +4,7 @@
   "totalItems": 68,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174020-3-0-58c57166",
       "targetLexeme": "geoglyphs (n)",
       "sourceContext": "The cutting of huge figures or ‘geoglyphs’ into the earth of English hillsides...",
       "phase1Inference": {
@@ -21,7 +21,15 @@
           "carve (geoglyphs)"
         ],
         "wordForms": {
-          "noun": [{ "form": "geoglyph", "meaning": "hình vẽ trên đất" }]
+          "noun": [
+            {
+              "form": "geoglyph",
+              "meaning": "hình vẽ trên đất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -30,7 +38,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174020-3-1-3fae6706",
       "targetLexeme": "hillsides (n)",
       "sourceContext": "...into the earth of English hillsides has taken place for more than 3,000 years.",
       "phase1Inference": {
@@ -41,9 +49,20 @@
         "sentiment": "neutral",
         "definitionEN": "The sloping side of a hill",
         "translationVI": "Sườn đồi",
-        "relatedCollocates": ["steep (hillside)", "on a (hillside)"],
+        "relatedCollocates": [
+          "steep (hillside)",
+          "on a (hillside)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "hillside", "meaning": "sườn đồi" }]
+          "noun": [
+            {
+              "form": "hillside",
+              "meaning": "sườn đồi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -52,7 +71,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174020-3-2-4db48bb6",
       "targetLexeme": "hill figures",
       "sourceContext": "There are 56 hill figures scattered around England...",
       "phase1Inference": {
@@ -69,7 +88,15 @@
           "carved into"
         ],
         "wordForms": {
-          "noun": [{ "form": "hill figure", "meaning": "hình vẽ trên đồi" }]
+          "noun": [
+            {
+              "form": "hill figure",
+              "meaning": "hình vẽ trên đồi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -78,7 +105,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174020-3-3-1adc83be",
       "targetLexeme": "scattered around",
       "sourceContext": "...hill figures scattered around England...",
       "phase1Inference": {
@@ -89,9 +116,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be found in different places across an area",
         "translationVI": "Nằm rải rác xung quanh",
-        "relatedCollocates": ["spread across", "dotted around"],
+        "relatedCollocates": [
+          "spread across",
+          "dotted around"
+        ],
         "wordForms": {
-          "verb": [{ "form": "scatter", "meaning": "rải rác" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "scatter",
+              "meaning": "rải rác"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -100,7 +138,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174020-3-4-0dee9afe",
       "targetLexeme": "chalk downlands",
       "sourceContext": "...on the chalk downlands of the country’s southern counties.",
       "phase1Inference": {
@@ -117,7 +155,15 @@
           "southern (counties)"
         ],
         "wordForms": {
-          "noun": [{ "form": "downland", "meaning": "vùng đồi" }]
+          "noun": [
+            {
+              "form": "downland",
+              "meaning": "vùng đồi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -126,7 +172,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174020-3-5-0a9ac724",
       "targetLexeme": "regimental badges",
       "sourceContext": "The figures include giants, horses, crosses and regimental badges.",
       "phase1Inference": {
@@ -137,12 +183,24 @@
         "sentiment": "neutral",
         "definitionEN": "The official emblems or symbols of an army regiment",
         "translationVI": "Huy hiệu trung đoàn",
-        "relatedCollocates": ["military (badge)", "regiment (n)"],
+        "relatedCollocates": [
+          "military (badge)",
+          "regiment (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "regiment", "meaning": "trung đoàn" },
-            { "form": "badge", "meaning": "huy hiệu" }
-          ]
+            {
+              "form": "regiment",
+              "meaning": "trung đoàn"
+            },
+            {
+              "form": "badge",
+              "meaning": "huy hiệu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -151,7 +209,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174020-3-6-28cc1683",
       "targetLexeme": "date within the last 300 years",
       "sourceContext": "Although the majority of these geoglyphs date within the last 300 years or so...",
       "phase1Inference": {
@@ -162,10 +220,25 @@
         "sentiment": "neutral",
         "definitionEN": "To have originated in the period covering the most recent 300 years",
         "translationVI": "Có niên đại trong vòng 300 năm qua",
-        "relatedCollocates": ["date from", "date back to"],
+        "relatedCollocates": [
+          "date from",
+          "date back to"
+        ],
         "wordForms": {
-          "noun": [{ "form": "date", "meaning": "niên đại" }],
-          "verb": [{ "form": "date", "meaning": "có niên đại" }]
+          "noun": [
+            {
+              "form": "date",
+              "meaning": "niên đại"
+            }
+          ],
+          "verb": [
+            {
+              "form": "date",
+              "meaning": "có niên đại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -174,7 +247,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174020-3-7-273d0339",
       "targetLexeme": "mysterious (adj)",
       "sourceContext": "The most famous of these figures is perhaps also the most mysterious – the Uffington White Horse...",
       "phase1Inference": {
@@ -190,8 +263,20 @@
           "a mysterious (disappearance)"
         ],
         "wordForms": {
-          "noun": [{ "form": "mystery", "meaning": "điều bí ẩn" }],
-          "adjective": [{ "form": "mysterious", "meaning": "bí ẩn" }]
+          "noun": [
+            {
+              "form": "mystery",
+              "meaning": "điều bí ẩn"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "mysterious",
+              "meaning": "bí ẩn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -200,7 +285,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174020-3-8-234c4d22",
       "targetLexeme": "re-dated (v)",
       "sourceContext": "The White Horse has recently been re-dated and shown to be even older...",
       "phase1Inference": {
@@ -211,9 +296,20 @@
         "sentiment": "neutral",
         "definitionEN": "To have its age or date of origin determined again, often with new evidence or methods",
         "translationVI": "Được xác định lại niên đại",
-        "relatedCollocates": ["re-examine", "re-evaluate"],
+        "relatedCollocates": [
+          "re-examine",
+          "re-evaluate"
+        ],
         "wordForms": {
-          "verb": [{ "form": "re-date", "meaning": "xác định lại niên đại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "re-date",
+              "meaning": "xác định lại niên đại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -222,7 +318,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174020-3-9-60983f76",
       "targetLexeme": "previously assigned... date",
       "sourceContext": "...older than its previously assigned ancient pre-Roman Iron Age* date.",
       "phase1Inference": {
@@ -233,9 +329,20 @@
         "sentiment": "neutral",
         "definitionEN": "The historical period that was attributed to it in the past",
         "translationVI": "Niên đại được gán trước đây",
-        "relatedCollocates": ["assign (a date)", "previously (thought)"],
+        "relatedCollocates": [
+          "assign (a date)",
+          "previously (thought)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "assign", "meaning": "gán, chỉ định" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "assign",
+              "meaning": "gán, chỉ định"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -244,7 +351,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174020-3-10-6cfd203b",
       "targetLexeme": "controversial (adj)",
       "sourceContext": "More controversial is the date of the enigmatic Long Man of Wilmington in Sussex.",
       "phase1Inference": {
@@ -260,8 +367,20 @@
           "highly (controversial)"
         ],
         "wordForms": {
-          "noun": [{ "form": "controversy", "meaning": "cuộc tranh cãi" }],
-          "adjective": [{ "form": "controversial", "meaning": "gây tranh cãi" }]
+          "noun": [
+            {
+              "form": "controversy",
+              "meaning": "cuộc tranh cãi"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "controversial",
+              "meaning": "gây tranh cãi"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -270,7 +389,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174020-3-11-09c37434",
       "targetLexeme": "enigmatic (adj)",
       "sourceContext": "...the date of the enigmatic Long Man of Wilmington in Sussex.",
       "phase1Inference": {
@@ -281,10 +400,25 @@
         "sentiment": "neutral",
         "definitionEN": "Difficult to interpret or understand; mysterious",
         "translationVI": "Bí ẩn, khó hiểu",
-        "relatedCollocates": ["mysterious (synonym)", "puzzling (adj)"],
+        "relatedCollocates": [
+          "mysterious (synonym)",
+          "puzzling (adj)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "enigma", "meaning": "điều bí ẩn" }],
-          "adjective": [{ "form": "enigmatic", "meaning": "bí ẩn" }]
+          "noun": [
+            {
+              "form": "enigma",
+              "meaning": "điều bí ẩn"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "enigmatic",
+              "meaning": "bí ẩn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -293,7 +427,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174020-3-12-2159d9ee",
       "targetLexeme": "prehistoric (adj)",
       "sourceContext": "While many historians are convinced the figure is prehistoric, others believe...",
       "phase1Inference": {
@@ -304,10 +438,25 @@
         "sentiment": "neutral",
         "definitionEN": "Relating to the period before written records",
         "translationVI": "Thuộc thời tiền sử",
-        "relatedCollocates": ["prehistoric (times)", "prehistoric (art)"],
+        "relatedCollocates": [
+          "prehistoric (times)",
+          "prehistoric (art)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "prehistory", "meaning": "tiền sử" }],
-          "adjective": [{ "form": "prehistoric", "meaning": "thuộc tiền sử" }]
+          "noun": [
+            {
+              "form": "prehistory",
+              "meaning": "tiền sử"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "prehistoric",
+              "meaning": "thuộc tiền sử"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -316,7 +465,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174020-3-13-4ba4eb23",
       "targetLexeme": "overlying grass",
       "sourceContext": "...was simply to remove the overlying grass to reveal the gleaming white chalk below.",
       "phase1Inference": {
@@ -327,9 +476,20 @@
         "sentiment": "neutral",
         "definitionEN": "The layer of grass that covers the surface of the ground",
         "translationVI": "Lớp cỏ phủ bên trên",
-        "relatedCollocates": ["overlying (layer)", "remove (the grass)"],
+        "relatedCollocates": [
+          "overlying (layer)",
+          "remove (the grass)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "overlie", "meaning": "phủ lên trên" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "overlie",
+              "meaning": "phủ lên trên"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -338,7 +498,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174020-3-14-54b7223f",
       "targetLexeme": "gleaming white chalk",
       "sourceContext": "...to reveal the gleaming white chalk below.",
       "phase1Inference": {
@@ -355,7 +515,15 @@
           "reveal (the chalk)"
         ],
         "wordForms": {
-          "verb": [{ "form": "gleam", "meaning": "tỏa sáng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "gleam",
+              "meaning": "tỏa sáng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -364,7 +532,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174020-3-15-7c495985",
       "targetLexeme": "regularly cleaned or scoured",
       "sourceContext": "...unless it was regularly cleaned or scoured by a fairly large team of people.",
       "phase1Inference": {
@@ -375,9 +543,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be cleaned or rubbed hard to remove dirt on a frequent basis",
         "translationVI": "Được dọn dẹp hoặc cọ rửa thường xuyên",
-        "relatedCollocates": ["regularly (maintained)", "scour (v)"],
+        "relatedCollocates": [
+          "regularly (maintained)",
+          "scour (v)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "scour", "meaning": "cọ rửa" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "scour",
+              "meaning": "cọ rửa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -386,7 +565,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174020-3-16-37789f74",
       "targetLexeme": "traditions... faded",
       "sourceContext": "...when the traditions associated with the figures faded, people no longer bothered...",
       "phase1Inference": {
@@ -397,9 +576,20 @@
         "sentiment": "negative",
         "definitionEN": "When customs or beliefs gradually disappeared or became less strong",
         "translationVI": "Các truyền thống đã phai nhạt",
-        "relatedCollocates": ["fade away", "disappear gradually"],
+        "relatedCollocates": [
+          "fade away",
+          "disappear gradually"
+        ],
         "wordForms": {
-          "verb": [{ "form": "fade", "meaning": "phai nhạt" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "fade",
+              "meaning": "phai nhạt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -408,7 +598,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174020-3-17-04762ba5",
       "targetLexeme": "no longer bothered",
       "sourceContext": "...people no longer bothered or remembered to clear away the grass...",
       "phase1Inference": {
@@ -419,9 +609,20 @@
         "sentiment": "negative",
         "definitionEN": "To stop making the effort to do something",
         "translationVI": "Không còn bận tâm",
-        "relatedCollocates": ["couldn't be bothered", "stop caring"],
+        "relatedCollocates": [
+          "couldn't be bothered",
+          "stop caring"
+        ],
         "wordForms": {
-          "verb": [{ "form": "bother", "meaning": "bận tâm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "bother",
+              "meaning": "bận tâm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -430,7 +631,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174020-3-18-0e5b7fcf",
       "targetLexeme": "expose the chalk outline",
       "sourceContext": "...to clear away the grass to expose the chalk outline.",
       "phase1Inference": {
@@ -441,10 +642,26 @@
         "sentiment": "neutral",
         "definitionEN": "To make the shape or boundary made of chalk visible by removing what is covering it",
         "translationVI": "Làm lộ ra đường viền đá phấn",
-        "relatedCollocates": ["expose (v)", "reveal (synonym)", "outline (n)"],
+        "relatedCollocates": [
+          "expose (v)",
+          "reveal (synonym)",
+          "outline (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "exposure", "meaning": "sự phơi bày" }],
-          "verb": [{ "form": "expose", "meaning": "làm lộ ra" }]
+          "noun": [
+            {
+              "form": "exposure",
+              "meaning": "sự phơi bày"
+            }
+          ],
+          "verb": [
+            {
+              "form": "expose",
+              "meaning": "làm lộ ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -453,7 +670,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174020-3-19-04c08a9b",
       "targetLexeme": "testament to the strength",
       "sourceContext": "...is a testament to the strength and continuity of local customs and beliefs...",
       "phase1Inference": {
@@ -464,9 +681,21 @@
         "sentiment": "positive",
         "definitionEN": "Serving as clear proof or evidence of the power and endurance of something",
         "translationVI": "Minh chứng cho sức mạnh",
-        "relatedCollocates": ["a testament to", "proof of", "evidence of"],
+        "relatedCollocates": [
+          "a testament to",
+          "proof of",
+          "evidence of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "testament", "meaning": "minh chứng" }]
+          "noun": [
+            {
+              "form": "testament",
+              "meaning": "minh chứng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -475,7 +704,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174020-3-20-5ca70d90",
       "targetLexeme": "continuity of local customs",
       "sourceContext": "...the strength and continuity of local customs and beliefs...",
       "phase1Inference": {
@@ -486,9 +715,21 @@
         "sentiment": "positive",
         "definitionEN": "The fact that local traditions have continued to exist over a long period of time without being changed or stopped",
         "translationVI": "Sự liên tục của các phong tục địa phương",
-        "relatedCollocates": ["continuity (n)", "custom (n)", "tradition (n)"],
+        "relatedCollocates": [
+          "continuity (n)",
+          "custom (n)",
+          "tradition (n)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "continue", "meaning": "tiếp tục" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "continue",
+              "meaning": "tiếp tục"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -497,7 +738,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174020-3-21-5429eb64",
       "targetLexeme": "stretch back over millennia",
       "sourceContext": "...which, in one case at least, must stretch back over millennia.",
       "phase1Inference": {
@@ -508,9 +749,20 @@
         "sentiment": "neutral",
         "definitionEN": "To have a history or duration that extends for thousands of years into the past",
         "translationVI": "Kéo dài hơn hàng thiên niên kỷ",
-        "relatedCollocates": ["stretch back (in time)", "millennium (n)"],
+        "relatedCollocates": [
+          "stretch back (in time)",
+          "millennium (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "millennium", "meaning": "thiên niên kỷ" }]
+          "noun": [
+            {
+              "form": "millennium",
+              "meaning": "thiên niên kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -519,7 +771,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174020-3-22-302be338",
       "targetLexeme": "stylised representation",
       "sourceContext": "The Uffington White Horse is a unique, stylised representation of a horse...",
       "phase1Inference": {
@@ -530,9 +782,20 @@
         "sentiment": "neutral",
         "definitionEN": "A depiction of something in a non-realistic, simplified, or conventional artistic style",
         "translationVI": "Sự thể hiện cách điệu",
-        "relatedCollocates": ["stylised (adj)", "abstract (representation)"],
+        "relatedCollocates": [
+          "stylised (adj)",
+          "abstract (representation)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "stylise", "meaning": "cách điệu hóa" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "stylise",
+              "meaning": "cách điệu hóa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -541,7 +804,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174020-3-23-4ecd55cd",
       "targetLexeme": "disjointed legs",
       "sourceContext": "...consisting of a long, sleek back, thin disjointed legs, a streaming tail...",
       "phase1Inference": {
@@ -552,9 +815,20 @@
         "sentiment": "neutral",
         "definitionEN": "Legs that appear to be disconnected or not joined together smoothly",
         "translationVI": "Đôi chân rời rạc",
-        "relatedCollocates": ["disconnected (adj)", "fragmented (adj)"],
+        "relatedCollocates": [
+          "disconnected (adj)",
+          "fragmented (adj)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "disjointed", "meaning": "rời rạc" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "disjointed",
+              "meaning": "rời rạc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -563,7 +837,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174020-3-24-10a9825d",
       "targetLexeme": "beaked head",
       "sourceContext": "...and a bird-like beaked head.",
       "phase1Inference": {
@@ -574,9 +848,20 @@
         "sentiment": "neutral",
         "definitionEN": "A head that has a hard, projecting mouth part, similar to that of a bird",
         "translationVI": "Đầu có mỏ",
-        "relatedCollocates": ["bird-like", "beak (n)"],
+        "relatedCollocates": [
+          "bird-like",
+          "beak (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "beak", "meaning": "mỏ chim" }]
+          "noun": [
+            {
+              "form": "beak",
+              "meaning": "mỏ chim"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -585,7 +870,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174020-3-25-0caa471d",
       "targetLexeme": "elegant creature",
       "sourceContext": "The elegant creature almost melts into the landscape.",
       "phase1Inference": {
@@ -596,10 +881,25 @@
         "sentiment": "positive",
         "definitionEN": "A graceful and stylishly beautiful animal or being",
         "translationVI": "Sinh vật thanh lịch",
-        "relatedCollocates": ["graceful (creature)", "elegant (design)"],
+        "relatedCollocates": [
+          "graceful (creature)",
+          "elegant (design)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "elegance", "meaning": "sự thanh lịch" }],
-          "adjective": [{ "form": "elegant", "meaning": "thanh lịch" }]
+          "noun": [
+            {
+              "form": "elegance",
+              "meaning": "sự thanh lịch"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "elegant",
+              "meaning": "thanh lịch"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -608,7 +908,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174020-3-26-347863b4",
       "targetLexeme": "melts into the landscape",
       "sourceContext": "The elegant creature almost melts into the landscape.",
       "phase1Inference": {
@@ -619,9 +919,20 @@
         "sentiment": "neutral",
         "definitionEN": "To blend with the surroundings so well that it is hard to see separately",
         "translationVI": "Hòa vào cảnh quan",
-        "relatedCollocates": ["blend into", "merge with"],
+        "relatedCollocates": [
+          "blend into",
+          "merge with"
+        ],
         "wordForms": {
-          "verb": [{ "form": "melt", "meaning": "tan chảy" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "melt",
+              "meaning": "tan chảy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -630,7 +941,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174020-3-27-74891c28",
       "targetLexeme": "burial mounds",
       "sourceContext": "...surrounded by Bronze Age burial mounds.",
       "phase1Inference": {
@@ -641,9 +952,21 @@
         "sentiment": "neutral",
         "definitionEN": "Hills or piles of earth built over a grave or graves",
         "translationVI": "Các gò mộ",
-        "relatedCollocates": ["Bronze Age", "cemetery (n)", "well-preserved"],
+        "relatedCollocates": [
+          "Bronze Age",
+          "cemetery (n)",
+          "well-preserved"
+        ],
         "wordForms": {
-          "noun": [{ "form": "mound", "meaning": "gò, đống" }]
+          "noun": [
+            {
+              "form": "mound",
+              "meaning": "gò, đống"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -652,7 +975,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174020-3-28-3a5c7123",
       "targetLexeme": "from close quarters",
       "sourceContext": "...to make it extremely difficult to see from close quarters...",
       "phase1Inference": {
@@ -663,8 +986,16 @@
         "sentiment": "neutral",
         "definitionEN": "From a short distance away",
         "translationVI": "Từ cự ly gần",
-        "relatedCollocates": ["at close range", "up close"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "at close range",
+          "up close"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -672,7 +1003,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174020-3-29-340bcb32",
       "targetLexeme": "best appreciated from the air",
       "sourceContext": "...many geoglyphs is best appreciated from the air.",
       "phase1Inference": {
@@ -683,11 +1014,20 @@
         "sentiment": "positive",
         "definitionEN": "To be understood or enjoyed most fully when seen from above",
         "translationVI": "Được thưởng ngoạn tốt nhất từ trên không",
-        "relatedCollocates": ["appreciate (v)", "viewed from above"],
+        "relatedCollocates": [
+          "appreciate (v)",
+          "viewed from above"
+        ],
         "wordForms": {
+          "noun": [],
           "verb": [
-            { "form": "appreciate", "meaning": "đánh giá cao, thưởng thức" }
-          ]
+            {
+              "form": "appreciate",
+              "meaning": "đánh giá cao, thưởng thức"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -696,7 +1036,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174020-3-30-3adc601e",
       "targetLexeme": "adequate impression",
       "sourceContext": "...an adequate impression may be gained.",
       "phase1Inference": {
@@ -707,10 +1047,25 @@
         "sentiment": "neutral",
         "definitionEN": "A satisfactory or acceptable idea, feeling, or opinion about what something is like",
         "translationVI": "Ấn tượng đầy đủ",
-        "relatedCollocates": ["gain an (impression)", "a clear (impression)"],
+        "relatedCollocates": [
+          "gain an (impression)",
+          "a clear (impression)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "impression", "meaning": "ấn tượng" }],
-          "adjective": [{ "form": "adequate", "meaning": "đầy đủ" }]
+          "noun": [
+            {
+              "form": "impression",
+              "meaning": "ấn tượng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "adequate",
+              "meaning": "đầy đủ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -719,7 +1074,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174020-3-31-1f52383d",
       "targetLexeme": "earliest evidence",
       "sourceContext": "The earliest evidence of a horse at Uffington is from the 1070s CE...",
       "phase1Inference": {
@@ -735,7 +1090,15 @@
           "archaeological (evidence)"
         ],
         "wordForms": {
-          "noun": [{ "form": "evidence", "meaning": "bằng chứng" }]
+          "noun": [
+            {
+              "form": "evidence",
+              "meaning": "bằng chứng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -744,7 +1107,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174020-3-32-2b747a15",
       "targetLexeme": "first reference to the horse",
       "sourceContext": "...and the first reference to the horse itself is soon after, in 1190 CE.",
       "phase1Inference": {
@@ -755,9 +1118,20 @@
         "sentiment": "neutral",
         "definitionEN": "The first time it is mentioned in writing",
         "translationVI": "Sự đề cập đầu tiên đến con ngựa",
-        "relatedCollocates": ["make (a reference)", "historical (reference)"],
+        "relatedCollocates": [
+          "make (a reference)",
+          "historical (reference)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "reference", "meaning": "sự đề cập" }]
+          "noun": [
+            {
+              "form": "reference",
+              "meaning": "sự đề cập"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -766,7 +1140,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174020-3-33-29f8899a",
       "targetLexeme": "date back much further",
       "sourceContext": "However, the carving is believed to date back much further than that.",
       "phase1Inference": {
@@ -777,9 +1151,20 @@
         "sentiment": "neutral",
         "definitionEN": "To have existed since a time long before a particular point in the past",
         "translationVI": "Có niên đại xa hơn nhiều",
-        "relatedCollocates": ["date back to", "go back further"],
+        "relatedCollocates": [
+          "date back to",
+          "go back further"
+        ],
         "wordForms": {
-          "verb": [{ "form": "date back", "meaning": "có niên đại từ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "date back",
+              "meaning": "có niên đại từ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -788,7 +1173,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174020-3-34-34b39bdf",
       "targetLexeme": "stylised depictions of horses",
       "sourceContext": "Due to the similarity of the Uffington White Horse to the stylised depictions of horses on 1st century BCE coins...",
       "phase1Inference": {
@@ -799,10 +1184,25 @@
         "sentiment": "neutral",
         "definitionEN": "Artistic representations of horses in a non-realistic or conventional style",
         "translationVI": "Các miêu tả cách điệu về ngựa",
-        "relatedCollocates": ["depiction (n)", "stylised (art)"],
+        "relatedCollocates": [
+          "depiction (n)",
+          "stylised (art)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "depiction", "meaning": "sự miêu tả" }],
-          "verb": [{ "form": "depict", "meaning": "miêu tả" }]
+          "noun": [
+            {
+              "form": "depiction",
+              "meaning": "sự miêu tả"
+            }
+          ],
+          "verb": [
+            {
+              "form": "depict",
+              "meaning": "miêu tả"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -811,7 +1211,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174020-3-35-3db06046",
       "targetLexeme": "Optically Stimulated Luminescence (OSL) testing",
       "sourceContext": "However, in 1995 Optically Stimulated Luminescence (OSL) testing was carried out...",
       "phase1Inference": {
@@ -822,8 +1222,16 @@
         "sentiment": "neutral",
         "definitionEN": "A dating method used to determine how long ago minerals were last exposed to sunlight or sufficient heating",
         "translationVI": "Xét nghiệm phát quang kích thích quang học",
-        "relatedCollocates": ["dating method", "archaeological (testing)"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "dating method",
+          "archaeological (testing)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -831,7 +1239,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174020-3-36-7227bf47",
       "targetLexeme": "carried out by",
       "sourceContext": "...testing was carried out by the Oxford Archaeological Unit on soil...",
       "phase1Inference": {
@@ -847,7 +1255,15 @@
           "performed by (synonym)"
         ],
         "wordForms": {
-          "verb": [{ "form": "carry out", "meaning": "thực hiện" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "carry out",
+              "meaning": "thực hiện"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -856,7 +1272,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174020-3-37-50d4f471",
       "targetLexeme": "lower layers",
       "sourceContext": "...on soil from two of the lower layers of the horse’s body...",
       "phase1Inference": {
@@ -867,9 +1283,20 @@
         "sentiment": "neutral",
         "definitionEN": "The strata or levels that are underneath others",
         "translationVI": "Các lớp dưới",
-        "relatedCollocates": ["upper layers (antonym)", "layers of (soil)"],
+        "relatedCollocates": [
+          "upper layers (antonym)",
+          "layers of (soil)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "layer", "meaning": "lớp" }]
+          "noun": [
+            {
+              "form": "layer",
+              "meaning": "lớp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -878,7 +1305,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174020-3-38-2adf06be",
       "targetLexeme": "date for the horse's construction",
       "sourceContext": "The result was a date for the horse’s construction somewhere between 1400 and 600 BCE...",
       "phase1Inference": {
@@ -889,9 +1316,20 @@
         "sentiment": "neutral",
         "definitionEN": "The historical time period when the horse figure was created",
         "translationVI": "Niên đại xây dựng của con ngựa",
-        "relatedCollocates": ["construction (date)", "date of origin"],
+        "relatedCollocates": [
+          "construction (date)",
+          "date of origin"
+        ],
         "wordForms": {
-          "noun": [{ "form": "construction", "meaning": "sự xây dựng" }]
+          "noun": [
+            {
+              "form": "construction",
+              "meaning": "sự xây dựng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -900,7 +1338,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174020-3-39-69948946",
       "targetLexeme": "tie the carving... in with",
       "sourceContext": "The latter end of this date range would tie the carving of the horse in with occupation of the nearby Uffington hillfort...",
       "phase1Inference": {
@@ -911,9 +1349,20 @@
         "sentiment": "neutral",
         "definitionEN": "To connect or associate the creation of the carving with another event or period",
         "translationVI": "Gắn/liên kết việc chạm khắc với",
-        "relatedCollocates": ["link (with)", "associate (with)"],
+        "relatedCollocates": [
+          "link (with)",
+          "associate (with)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "tie in with", "meaning": "gắn với" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "tie in with",
+              "meaning": "gắn với"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -922,7 +1371,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174020-3-40-00134657",
       "targetLexeme": "inhabitants of the hillfort",
       "sourceContext": "...indicating that it may represent a tribal emblem marking the land of the inhabitants of the hillfort.",
       "phase1Inference": {
@@ -933,9 +1382,20 @@
         "sentiment": "neutral",
         "definitionEN": "The people who lived in the fortified settlement on the hill",
         "translationVI": "Cư dân của pháo đài trên đồi",
-        "relatedCollocates": ["inhabit (v)", "residents (synonym)"],
+        "relatedCollocates": [
+          "inhabit (v)",
+          "residents (synonym)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "inhabitant", "meaning": "cư dân" }]
+          "noun": [
+            {
+              "form": "inhabitant",
+              "meaning": "cư dân"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -944,7 +1404,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174020-3-41-2e726851",
       "targetLexeme": "tribal emblem",
       "sourceContext": "...it may represent a tribal emblem marking the land...",
       "phase1Inference": {
@@ -955,9 +1415,21 @@
         "sentiment": "neutral",
         "definitionEN": "A symbol or design that represents a particular tribe or social group",
         "translationVI": "Biểu tượng bộ lạc",
-        "relatedCollocates": ["emblem (n)", "symbol (synonym)", "tribe (n)"],
+        "relatedCollocates": [
+          "emblem (n)",
+          "symbol (synonym)",
+          "tribe (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "emblem", "meaning": "biểu tượng" }]
+          "noun": [
+            {
+              "form": "emblem",
+              "meaning": "biểu tượng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -966,7 +1438,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174020-3-42-5da03529",
       "targetLexeme": "Iron Age ritual",
       "sourceContext": "Alternatively, the carving may have been carried out during a Bronze or Iron Age ritual.",
       "phase1Inference": {
@@ -977,9 +1449,21 @@
         "sentiment": "neutral",
         "definitionEN": "A religious or solemn ceremony from the historical period characterized by the use of iron tools",
         "translationVI": "Nghi lễ thời Đồ Sắt",
-        "relatedCollocates": ["ritual (n)", "ceremony (synonym)", "Bronze Age"],
+        "relatedCollocates": [
+          "ritual (n)",
+          "ceremony (synonym)",
+          "Bronze Age"
+        ],
         "wordForms": {
-          "noun": [{ "form": "ritual", "meaning": "nghi lễ" }]
+          "noun": [
+            {
+              "form": "ritual",
+              "meaning": "nghi lễ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -988,7 +1472,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174020-3-43-65d799c0",
       "targetLexeme": "protector of horses",
       "sourceContext": "...the Celtic*** horse goddess Epona, who was worshipped as a protector of horses...",
       "phase1Inference": {
@@ -999,9 +1483,20 @@
         "sentiment": "positive",
         "definitionEN": "A deity or figure who is believed to guard and keep horses safe",
         "translationVI": "Vị thần bảo hộ loài ngựa",
-        "relatedCollocates": ["protect (v)", "guardian (synonym)"],
+        "relatedCollocates": [
+          "protect (v)",
+          "guardian (synonym)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "protector", "meaning": "người bảo vệ" }]
+          "noun": [
+            {
+              "form": "protector",
+              "meaning": "người bảo vệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1010,7 +1505,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174020-3-44-762038ed",
       "targetLexeme": "associations with fertility",
       "sourceContext": "...and for her associations with fertility.",
       "phase1Inference": {
@@ -1021,9 +1516,20 @@
         "sentiment": "neutral",
         "definitionEN": "The connections or links that something has with the ability to produce young or new growth",
         "translationVI": "Sự liên quan đến khả năng sinh sản",
-        "relatedCollocates": ["association (with)", "fertility (goddess)"],
+        "relatedCollocates": [
+          "association (with)",
+          "fertility (goddess)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "fertility", "meaning": "sự sinh sản" }]
+          "noun": [
+            {
+              "form": "fertility",
+              "meaning": "sự sinh sản"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1032,7 +1538,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174020-3-45-4c0b6715",
       "targetLexeme": "cult of Epona",
       "sourceContext": "However, the cult of Epona was not imported from Gaul (France) until around the first century CE.",
       "phase1Inference": {
@@ -1043,9 +1549,20 @@
         "sentiment": "neutral",
         "definitionEN": "A system of religious veneration and devotion directed towards the particular figure of Epona",
         "translationVI": "Sự sùng bái Epona",
-        "relatedCollocates": ["worship (n)", "religious (cult)"],
+        "relatedCollocates": [
+          "worship (n)",
+          "religious (cult)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "cult", "meaning": "sự thờ cúng" }]
+          "noun": [
+            {
+              "form": "cult",
+              "meaning": "sự thờ cúng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1054,7 +1571,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174020-3-46-55fdc5f9",
       "targetLexeme": "at least six centuries after",
       "sourceContext": "This date is at least six centuries after the Uffington Horse was probably carved.",
       "phase1Inference": {
@@ -1070,7 +1587,15 @@
           "centuries (later)"
         ],
         "wordForms": {
-          "noun": [{ "form": "century", "meaning": "thế kỷ" }]
+          "noun": [
+            {
+              "form": "century",
+              "meaning": "thế kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1079,7 +1604,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174020-3-47-776f871a",
       "targetLexeme": "economic significance",
       "sourceContext": "Nevertheless, the horse had great ritual and economic significance during the Bronze and Iron Ages...",
       "phase1Inference": {
@@ -1090,9 +1615,20 @@
         "sentiment": "positive",
         "definitionEN": "The importance of something in relation to trade, wealth, and the economy",
         "translationVI": "Tầm quan trọng về kinh tế",
-        "relatedCollocates": ["economic (importance)", "ritual (significance)"],
+        "relatedCollocates": [
+          "economic (importance)",
+          "ritual (significance)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "significance", "meaning": "tầm quan trọng" }]
+          "noun": [
+            {
+              "form": "significance",
+              "meaning": "tầm quan trọng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1101,7 +1637,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174020-3-48-52975942",
       "targetLexeme": "as attested by",
       "sourceContext": "...as attested by its depictions on jewellery and other metal objects.",
       "phase1Inference": {
@@ -1112,9 +1648,20 @@
         "sentiment": "neutral",
         "definitionEN": "As shown or proven by evidence from something",
         "translationVI": "Như được chứng thực bởi",
-        "relatedCollocates": ["as evidenced by", "attest (v)"],
+        "relatedCollocates": [
+          "as evidenced by",
+          "attest (v)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "attest", "meaning": "chứng thực" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "attest",
+              "meaning": "chứng thực"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1123,7 +1670,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174020-3-49-0ce6e141",
       "targetLexeme": "native mythology",
       "sourceContext": "It is possible that the carving represents a goddess in native mythology, such as Rhiannon...",
       "phase1Inference": {
@@ -1134,9 +1681,20 @@
         "sentiment": "neutral",
         "definitionEN": "The traditional stories and beliefs of the original people of a particular country or region",
         "translationVI": "Thần thoại bản địa",
-        "relatedCollocates": ["local (mythology)", "myth (n)"],
+        "relatedCollocates": [
+          "local (mythology)",
+          "myth (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "mythology", "meaning": "thần thoại" }]
+          "noun": [
+            {
+              "form": "mythology",
+              "meaning": "thần thoại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1145,7 +1703,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174020-3-50-522d94b2",
       "targetLexeme": "disappear easily",
       "sourceContext": "The fact that geoglyphs can disappear easily, along with their associated rituals and meaning...",
       "phase1Inference": {
@@ -1156,10 +1714,25 @@
         "sentiment": "negative",
         "definitionEN": "To vanish or cease to be visible without difficulty",
         "translationVI": "Biến mất dễ dàng",
-        "relatedCollocates": ["vanish (quickly)", "fade (easily)"],
+        "relatedCollocates": [
+          "vanish (quickly)",
+          "fade (easily)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "disappearance", "meaning": "sự biến mất" }],
-          "verb": [{ "form": "disappear", "meaning": "biến mất" }]
+          "noun": [
+            {
+              "form": "disappearance",
+              "meaning": "sự biến mất"
+            }
+          ],
+          "verb": [
+            {
+              "form": "disappear",
+              "meaning": "biến mất"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1168,7 +1741,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174020-3-51-1e8851a5",
       "targetLexeme": "associated rituals",
       "sourceContext": "...along with their associated rituals and meaning...",
       "phase1Inference": {
@@ -1179,9 +1752,20 @@
         "sentiment": "neutral",
         "definitionEN": "The ceremonies or series of actions that are connected with something",
         "translationVI": "Các nghi lễ liên quan",
-        "relatedCollocates": ["rituals and (meaning)", "associated (with)"],
+        "relatedCollocates": [
+          "rituals and (meaning)",
+          "associated (with)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "associate", "meaning": "liên kết" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "associate",
+              "meaning": "liên kết"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1190,7 +1774,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174020-3-52-08a405fa",
       "targetLexeme": "never intended to be",
       "sourceContext": "...indicates that they were never intended to be anything more than temporary gestures.",
       "phase1Inference": {
@@ -1201,10 +1785,25 @@
         "sentiment": "neutral",
         "definitionEN": "To have never had the purpose or plan of being something",
         "translationVI": "Chưa bao giờ có ý định là",
-        "relatedCollocates": ["not meant to be", "original (intention)"],
+        "relatedCollocates": [
+          "not meant to be",
+          "original (intention)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "intention", "meaning": "ý định" }],
-          "verb": [{ "form": "intend", "meaning": "dự định" }]
+          "noun": [
+            {
+              "form": "intention",
+              "meaning": "ý định"
+            }
+          ],
+          "verb": [
+            {
+              "form": "intend",
+              "meaning": "dự định"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1213,7 +1812,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174020-3-53-5253f788",
       "targetLexeme": "temporary gestures",
       "sourceContext": "...anything more than temporary gestures.",
       "phase1Inference": {
@@ -1230,7 +1829,15 @@
           "gesture (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "gesture", "meaning": "cử chỉ" }]
+          "noun": [
+            {
+              "form": "gesture",
+              "meaning": "cử chỉ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1239,7 +1846,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174020-3-54-6e870256",
       "targetLexeme": "lessen their importance",
       "sourceContext": "But this does not lessen their importance.",
       "phase1Inference": {
@@ -1255,7 +1862,15 @@
           "reduce (the importance)"
         ],
         "wordForms": {
-          "verb": [{ "form": "lessen", "meaning": "làm giảm bớt" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "lessen",
+              "meaning": "làm giảm bớt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1264,7 +1879,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174020-3-55-5c27db1d",
       "targetLexeme": "a fascinating glimpse into",
       "sourceContext": "These giant carvings are a fascinating glimpse into the minds of their creators...",
       "phase1Inference": {
@@ -1275,9 +1890,20 @@
         "sentiment": "positive",
         "definitionEN": "A brief but interesting insight into something",
         "translationVI": "Một cái nhìn thoáng qua đầy hấp dẫn về",
-        "relatedCollocates": ["a rare (glimpse)", "a glimpse (of/into)"],
+        "relatedCollocates": [
+          "a rare (glimpse)",
+          "a glimpse (of/into)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "glimpse", "meaning": "cái nhìn thoáng qua" }]
+          "noun": [
+            {
+              "form": "glimpse",
+              "meaning": "cái nhìn thoáng qua"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1286,7 +1912,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174020-3-56-0b955eae",
       "targetLexeme": "the minds of their creators",
       "sourceContext": "...a fascinating glimpse into the minds of their creators...",
       "phase1Inference": {
@@ -1297,9 +1923,20 @@
         "sentiment": "neutral",
         "definitionEN": "The thoughts, intentions, and beliefs of the people who made them",
         "translationVI": "Tâm trí của những người tạo ra chúng",
-        "relatedCollocates": ["creator (n)", "mind (n)"],
+        "relatedCollocates": [
+          "creator (n)",
+          "mind (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "creator", "meaning": "người sáng tạo" }]
+          "noun": [
+            {
+              "form": "creator",
+              "meaning": "người sáng tạo"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1308,7 +1945,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174020-3-57-15ac36b7",
       "targetLexeme": "viewed the landscape",
       "sourceContext": "...and how they viewed the landscape in which they lived.",
       "phase1Inference": {
@@ -1319,10 +1956,25 @@
         "sentiment": "neutral",
         "definitionEN": "How they saw or thought about the natural environment around them",
         "translationVI": "Nhìn nhận cảnh quan",
-        "relatedCollocates": ["perceived (the landscape)", "view (as)"],
+        "relatedCollocates": [
+          "perceived (the landscape)",
+          "view (as)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "view", "meaning": "cách nhìn" }],
-          "verb": [{ "form": "view", "meaning": "xem, nhìn nhận" }]
+          "noun": [
+            {
+              "form": "view",
+              "meaning": "cách nhìn"
+            }
+          ],
+          "verb": [
+            {
+              "form": "view",
+              "meaning": "xem, nhìn nhận"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1331,7 +1983,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174020-3-58-5f7911ce",
       "targetLexeme": "Iron Age",
       "sourceContext": "*Iron Age: a period (in Britain 800 BCE – 43 CE) that is characterised by the use of iron tools",
       "phase1Inference": {
@@ -1342,8 +1994,17 @@
         "sentiment": "neutral",
         "definitionEN": "The period following the Bronze Age, characterized by the use of iron tools and weapons",
         "translationVI": "Thời kỳ Đồ Sắt",
-        "relatedCollocates": ["Bronze Age", "Stone Age", "iron tools"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "Bronze Age",
+          "Stone Age",
+          "iron tools"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1351,7 +2012,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174020-3-59-57140ebf",
       "targetLexeme": "characterised by",
       "sourceContext": "...that is characterised by the use of iron tools",
       "phase1Inference": {
@@ -1362,10 +2023,25 @@
         "sentiment": "neutral",
         "definitionEN": "To be a typical or noticeable feature of something or someone",
         "translationVI": "Được đặc trưng bởi",
-        "relatedCollocates": ["defined by", "marked by"],
+        "relatedCollocates": [
+          "defined by",
+          "marked by"
+        ],
         "wordForms": {
-          "noun": [{ "form": "characteristic", "meaning": "đặc điểm" }],
-          "verb": [{ "form": "characterise", "meaning": "đặc trưng hóa" }]
+          "noun": [
+            {
+              "form": "characteristic",
+              "meaning": "đặc điểm"
+            }
+          ],
+          "verb": [
+            {
+              "form": "characterise",
+              "meaning": "đặc trưng hóa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1374,7 +2050,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174020-3-60-1c1b20f0",
       "targetLexeme": "Bronze Age",
       "sourceContext": "**Bronze Age: a period (in Britain c. 2,500 BCE – 800 BCE) that is characterised by the development of bronze tools",
       "phase1Inference": {
@@ -1385,8 +2061,17 @@
         "sentiment": "neutral",
         "definitionEN": "The period following the Stone Age, characterized by the use of bronze tools and weapons",
         "translationVI": "Thời kỳ Đồ Đồng",
-        "relatedCollocates": ["Iron Age", "Stone Age", "bronze tools"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "Iron Age",
+          "Stone Age",
+          "bronze tools"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1394,7 +2079,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174020-3-61-34e59a61",
       "targetLexeme": "Neolithic",
       "sourceContext": "***Neolithic: a period (in Britain c. 4,000 BCE – c. 2,500 BCE) that is significant for the spread of agricultural practices...",
       "phase1Inference": {
@@ -1405,8 +2090,16 @@
         "sentiment": "neutral",
         "definitionEN": "The later part of the Stone Age, when ground or polished stone weapons and implements prevailed",
         "translationVI": "Thời kỳ Đồ Đá Mới",
-        "relatedCollocates": ["Stone Age", "agricultural practices"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "Stone Age",
+          "agricultural practices"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1414,7 +2107,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174020-3-62-00981913",
       "targetLexeme": "spread of agricultural practices",
       "sourceContext": "...significant for the spread of agricultural practices, and the use of stone tools",
       "phase1Inference": {
@@ -1430,7 +2123,15 @@
           "agricultural (revolution)"
         ],
         "wordForms": {
-          "noun": [{ "form": "spread", "meaning": "sự lan rộng" }]
+          "noun": [
+            {
+              "form": "spread",
+              "meaning": "sự lan rộng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1439,7 +2140,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174020-3-63-43e54c2c",
       "targetLexeme": "Celtic",
       "sourceContext": "****Celtic: an ancient people who migrated from Europe to Britain before the Romans",
       "phase1Inference": {
@@ -1450,9 +2151,20 @@
         "sentiment": "neutral",
         "definitionEN": "Relating to the Celts or their languages, which constitute a branch of the Indo-European family",
         "translationVI": "(Thuộc) người Celt",
-        "relatedCollocates": ["Celtic (goddess)", "Celtic (languages)"],
+        "relatedCollocates": [
+          "Celtic (goddess)",
+          "Celtic (languages)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "Celt", "meaning": "người Celt" }]
+          "noun": [
+            {
+              "form": "Celt",
+              "meaning": "người Celt"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1461,7 +2173,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174020-3-64-1df0aa82",
       "targetLexeme": "migrated from Europe",
       "sourceContext": "...who migrated from Europe to Britain before the Romans",
       "phase1Inference": {
@@ -1472,10 +2184,25 @@
         "sentiment": "neutral",
         "definitionEN": "To have moved from one region (Europe) to settle in another (Britain)",
         "translationVI": "Di cư từ châu Âu",
-        "relatedCollocates": ["migrate (to)", "migration (n)"],
+        "relatedCollocates": [
+          "migrate (to)",
+          "migration (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "migration", "meaning": "sự di cư" }],
-          "verb": [{ "form": "migrate", "meaning": "di cư" }]
+          "noun": [
+            {
+              "form": "migration",
+              "meaning": "sự di cư"
+            }
+          ],
+          "verb": [
+            {
+              "form": "migrate",
+              "meaning": "di cư"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1484,7 +2211,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174020-3-65-036cb48c",
       "targetLexeme": "long, sleek back",
       "sourceContext": "...consisting of a long, sleek back...",
       "phase1Inference": {
@@ -1495,9 +2222,20 @@
         "sentiment": "positive",
         "definitionEN": "A back that is extended in length and is smooth and elegant in shape",
         "translationVI": "Lưng dài và thon mượt",
-        "relatedCollocates": ["sleek (design)", "sleek (hair)"],
+        "relatedCollocates": [
+          "sleek (design)",
+          "sleek (hair)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "sleek", "meaning": "thon, mượt" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "sleek",
+              "meaning": "thon, mượt"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1506,7 +2244,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "1761813174020-3-66-209fbd00",
       "targetLexeme": "streaming tail",
       "sourceContext": "...a streaming tail, and a bird-like beaked head.",
       "phase1Inference": {
@@ -1517,9 +2255,20 @@
         "sentiment": "neutral",
         "definitionEN": "A tail that flows or extends outwards in a long, continuous line, as if moved by wind",
         "translationVI": "Đuôi dài bay phất phới",
-        "relatedCollocates": ["flowing (tail)", "stream (v)"],
+        "relatedCollocates": [
+          "flowing (tail)",
+          "stream (v)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "stream", "meaning": "chảy, bay" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "stream",
+              "meaning": "chảy, bay"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1528,7 +2277,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "1761813174020-3-67-495e8709",
       "targetLexeme": "well-preserved",
       "sourceContext": "...which consists of more than 30 well-preserved burial mounds.",
       "phase1Inference": {
@@ -1539,10 +2288,25 @@
         "sentiment": "positive",
         "definitionEN": "Kept in good condition over a long period of time",
         "translationVI": "Được bảo tồn tốt",
-        "relatedCollocates": ["in good condition", "preserve (v)"],
+        "relatedCollocates": [
+          "in good condition",
+          "preserve (v)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "preservation", "meaning": "sự bảo tồn" }],
-          "verb": [{ "form": "preserve", "meaning": "bảo tồn" }]
+          "noun": [
+            {
+              "form": "preservation",
+              "meaning": "sự bảo tồn"
+            }
+          ],
+          "verb": [
+            {
+              "form": "preserve",
+              "meaning": "bảo tồn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1550,5 +2314,11 @@
         "content": "The museum contains many well-preserved artifacts from the Roman era."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.020Z",
+    "version": "2.0",
+    "originalCount": 68,
+    "migratedCount": 68
+  }
 }

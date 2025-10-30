@@ -1,10 +1,10 @@
 {
   "logTitle": "IELTS Reading Log: Green roofs",
   "sourceId": "Reading Passage (Image)",
-  "totalItems": 85,
+  "totalItems": 110,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174098-33-0-54c187d3",
       "targetLexeme": "lush foliage",
       "sourceContext": "Rooftops covered with grass, vegetable gardens and lush foliage are now a common sight in many cities around the world.",
       "phase1Inference": {
@@ -15,9 +15,20 @@
         "sentiment": "positive",
         "definitionEN": "A mass of leaves that are growing luxuriantly, thickly, and healthily.",
         "translationVI": "Tán lá sum suê",
-        "relatedCollocates": ["dense foliage", "green canopy"],
+        "relatedCollocates": [
+          "dense foliage",
+          "green canopy"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "lush", "meaning": "tươi tốt, sum suê" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "lush",
+              "meaning": "tươi tốt, sum suê"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -26,7 +37,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174098-33-1-26a152a3",
       "targetLexeme": "common sight",
       "sourceContext": "Rooftops covered with grass, vegetable gardens and lush foliage are now a common sight in many cities around the world.",
       "phase1Inference": {
@@ -37,9 +48,20 @@
         "sentiment": "neutral",
         "definitionEN": "Something that is seen frequently.",
         "translationVI": "Cảnh tượng phổ biến",
-        "relatedCollocates": ["frequently seen", "a familiar view"],
+        "relatedCollocates": [
+          "frequently seen",
+          "a familiar view"
+        ],
         "wordForms": {
-          "noun": [{ "form": "sight", "meaning": "cảnh tượng" }]
+          "noun": [
+            {
+              "form": "sight",
+              "meaning": "cảnh tượng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -48,7 +70,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174098-33-2-73d7fb36",
       "targetLexeme": "city authorities",
       "sourceContext": "More and more private companies and city authorities are investing in green roofs, drawn to their wide-ranging benefits.",
       "phase1Inference": {
@@ -59,11 +81,20 @@
         "sentiment": "neutral",
         "definitionEN": "The governing bodies or officials of a city.",
         "translationVI": "Chính quyền thành phố",
-        "relatedCollocates": ["municipal government", "local authorities"],
+        "relatedCollocates": [
+          "municipal government",
+          "local authorities"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "authority", "meaning": "nhà chức trách, chính quyền" }
-          ]
+            {
+              "form": "authority",
+              "meaning": "nhà chức trách, chính quyền"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -72,7 +103,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174098-33-3-7a83100e",
       "targetLexeme": "drawn to their wide-ranging benefits",
       "sourceContext": "More and more private companies and city authorities are investing in green roofs, drawn to their wide-ranging benefits.",
       "phase1Inference": {
@@ -88,7 +119,15 @@
           "appealed by the broad benefits"
         ],
         "wordForms": {
-          "adjective": [{ "form": "wide-ranging", "meaning": "phạm vi rộng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "wide-ranging",
+              "meaning": "phạm vi rộng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -97,7 +136,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174098-33-4-3e71d576",
       "targetLexeme": "mitigating the risk of floods",
       "sourceContext": "Among the benefits are saving on energy costs, mitigating the risk of floods, making habitats for urban wildlife, tackling air pollution and even growing food.",
       "phase1Inference": {
@@ -108,9 +147,20 @@
         "sentiment": "positive",
         "definitionEN": "To make the danger of floods less severe, serious, or painful.",
         "translationVI": "Giảm thiểu nguy cơ lũ lụt",
-        "relatedCollocates": ["reducing the risk", "alleviating the danger"],
+        "relatedCollocates": [
+          "reducing the risk",
+          "alleviating the danger"
+        ],
         "wordForms": {
-          "verb": [{ "form": "mitigate", "meaning": "giảm thiểu" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "mitigate",
+              "meaning": "giảm thiểu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -119,7 +169,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174098-33-5-18f7f690",
       "targetLexeme": "habitats for urban wildlife",
       "sourceContext": "...making habitats for urban wildlife, tackling air pollution and even growing food.",
       "phase1Inference": {
@@ -130,9 +180,20 @@
         "sentiment": "positive",
         "definitionEN": "Natural homes or environments for wild animals that live in cities.",
         "translationVI": "Môi trường sống cho động vật hoang dã đô thị",
-        "relatedCollocates": ["urban ecosystems", "wildlife corridors"],
+        "relatedCollocates": [
+          "urban ecosystems",
+          "wildlife corridors"
+        ],
         "wordForms": {
-          "noun": [{ "form": "wildlife", "meaning": "động vật hoang dã" }]
+          "noun": [
+            {
+              "form": "wildlife",
+              "meaning": "động vật hoang dã"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -141,7 +202,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174098-33-6-56b3558f",
       "targetLexeme": "tackling air pollution",
       "sourceContext": "...making habitats for urban wildlife, tackling air pollution and even growing food.",
       "phase1Inference": {
@@ -157,7 +218,15 @@
           "addressing air quality issues"
         ],
         "wordForms": {
-          "verb": [{ "form": "tackle", "meaning": "giải quyết" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "tackle",
+              "meaning": "giải quyết"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -166,7 +235,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174098-33-7-6094de7c",
       "targetLexeme": "radical urban designs",
       "sourceContext": "These increasingly radical urban designs can help cities adapt to the monumental problems they face...",
       "phase1Inference": {
@@ -182,7 +251,15 @@
           "groundbreaking designs"
         ],
         "wordForms": {
-          "adjective": [{ "form": "radical", "meaning": "cấp tiến, triệt để" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "radical",
+              "meaning": "cấp tiến, triệt để"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -191,7 +268,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174098-33-8-7cb9557e",
       "targetLexeme": "monumental problems",
       "sourceContext": "...adapt to the monumental problems they face, such as access to resources and a lack of green space due to development.",
       "phase1Inference": {
@@ -202,9 +279,20 @@
         "sentiment": "negative",
         "definitionEN": "Very big, serious, or important problems.",
         "translationVI": "Những vấn đề to lớn",
-        "relatedCollocates": ["huge challenges", "massive issues"],
+        "relatedCollocates": [
+          "huge challenges",
+          "massive issues"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "monumental", "meaning": "to lớn, vĩ đại" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "monumental",
+              "meaning": "to lớn, vĩ đại"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -213,7 +301,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174098-33-9-5597f476",
       "targetLexeme": "lack of green space",
       "sourceContext": "...and a lack of green space due to development.",
       "phase1Inference": {
@@ -224,9 +312,20 @@
         "sentiment": "negative",
         "definitionEN": "A shortage of land with grass, trees, or other vegetation in an urban area.",
         "translationVI": "Sự thiếu hụt không gian xanh",
-        "relatedCollocates": ["shortage of parks", "absence of vegetation"],
+        "relatedCollocates": [
+          "shortage of parks",
+          "absence of vegetation"
+        ],
         "wordForms": {
-          "noun": [{ "form": "lack", "meaning": "sự thiếu hụt" }]
+          "noun": [
+            {
+              "form": "lack",
+              "meaning": "sự thiếu hụt"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -235,7 +334,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174098-33-10-2e7782ec",
       "targetLexeme": "ensuring their success",
       "sourceContext": "But the involvement of city authorities, businesses and other institutions is crucial to ensuring their success...",
       "phase1Inference": {
@@ -251,7 +350,15 @@
           "making sure they succeed"
         ],
         "wordForms": {
-          "verb": [{ "form": "ensure", "meaning": "đảm bảo" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "ensure",
+              "meaning": "đảm bảo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -260,7 +367,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174098-33-11-1c0b8cbd",
       "targetLexeme": "forward-thinking policies",
       "sourceContext": "London is home to much of the UK’s green roof market, mainly due to forward-thinking policies such as the London Plan...",
       "phase1Inference": {
@@ -271,11 +378,20 @@
         "sentiment": "positive",
         "definitionEN": "Policies that plan for and consider the future in a creative and innovative way.",
         "translationVI": "Các chính sách có tầm nhìn xa",
-        "relatedCollocates": ["progressive policies", "visionary strategies"],
+        "relatedCollocates": [
+          "progressive policies",
+          "visionary strategies"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "forward-thinking", "meaning": "có tầm nhìn xa" }
-          ]
+            {
+              "form": "forward-thinking",
+              "meaning": "có tầm nhìn xa"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -284,7 +400,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174098-33-12-653c47ee",
       "targetLexeme": "paved the way to",
       "sourceContext": "...the London Plan, which has paved the way to more than doubling the area of green roofs in the capital.",
       "phase1Inference": {
@@ -300,7 +416,15 @@
           "created the opportunity for"
         ],
         "wordForms": {
-          "verb": [{ "form": "pave", "meaning": "lát đường" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "pave",
+              "meaning": "lát đường"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -309,7 +433,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174098-33-13-119738dd",
       "targetLexeme": "integrate with ‘living walls’",
       "sourceContext": "Ongoing research is showcasing how green roofs in cities can integrate with ‘living walls’...",
       "phase1Inference": {
@@ -320,9 +444,20 @@
         "sentiment": "positive",
         "definitionEN": "To combine with vertical gardens or walls that are covered with vegetation.",
         "translationVI": "Tích hợp với 'tường sống'",
-        "relatedCollocates": ["combine with vertical gardens", "green facades"],
+        "relatedCollocates": [
+          "combine with vertical gardens",
+          "green facades"
+        ],
         "wordForms": {
-          "noun": [{ "form": "living wall", "meaning": "tường cây xanh" }]
+          "noun": [
+            {
+              "form": "living wall",
+              "meaning": "tường cây xanh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -331,7 +466,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174098-33-14-6facfc42",
       "targetLexeme": "growing medium",
       "sourceContext": "...environmentally friendly walls which are partially or completely covered with greenery, including a growing medium, such as soil or water.",
       "phase1Inference": {
@@ -342,9 +477,21 @@
         "sentiment": "neutral",
         "definitionEN": "The material in which plants are grown, such as soil, compost, or a hydroponic solution.",
         "translationVI": "Môi trường trồng trọt",
-        "relatedCollocates": ["substrate", "potting mix", "soil"],
+        "relatedCollocates": [
+          "substrate",
+          "potting mix",
+          "soil"
+        ],
         "wordForms": {
-          "noun": [{ "form": "medium", "meaning": "môi trường, phương tiện" }]
+          "noun": [
+            {
+              "form": "medium",
+              "meaning": "môi trường, phương tiện"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -353,7 +500,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174098-33-15-422d21f0",
       "targetLexeme": "drainage systems",
       "sourceContext": "Research also indicates that green roofs can be integrated with drainage systems on the ground, such as street trees...",
       "phase1Inference": {
@@ -364,9 +511,20 @@
         "sentiment": "neutral",
         "definitionEN": "The system of pipes, drains, and channels used for carrying away water or waste liquids.",
         "translationVI": "Hệ thống thoát nước",
-        "relatedCollocates": ["sewerage system", "water management"],
+        "relatedCollocates": [
+          "sewerage system",
+          "water management"
+        ],
         "wordForms": {
-          "noun": [{ "form": "drainage", "meaning": "sự thoát nước" }]
+          "noun": [
+            {
+              "form": "drainage",
+              "meaning": "sự thoát nước"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -375,7 +533,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174098-33-16-2db56ff3",
       "targetLexeme": "built environment",
       "sourceContext": "...so that the water is managed better and the built environment is made more sustainable.",
       "phase1Inference": {
@@ -386,9 +544,20 @@
         "sentiment": "neutral",
         "definitionEN": "The man-made surroundings that provide the setting for human activity, ranging in scale from buildings to cities and beyond.",
         "translationVI": "Môi trường xây dựng",
-        "relatedCollocates": ["urban landscape", "man-made structures"],
+        "relatedCollocates": [
+          "urban landscape",
+          "man-made structures"
+        ],
         "wordForms": {
-          "noun": [{ "form": "environment", "meaning": "môi trường" }]
+          "noun": [
+            {
+              "form": "environment",
+              "meaning": "môi trường"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -397,7 +566,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174098-33-17-5186e5e6",
       "targetLexeme": "social value",
       "sourceContext": "There is also evidence to demonstrate the social value of green roofs.",
       "phase1Inference": {
@@ -408,9 +577,20 @@
         "sentiment": "positive",
         "definitionEN": "The benefits to society from a project or activity, including improvements in well-being, health, and community cohesion.",
         "translationVI": "Giá trị xã hội",
-        "relatedCollocates": ["community benefit", "societal worth"],
+        "relatedCollocates": [
+          "community benefit",
+          "societal worth"
+        ],
         "wordForms": {
-          "noun": [{ "form": "value", "meaning": "giá trị" }]
+          "noun": [
+            {
+              "form": "value",
+              "meaning": "giá trị"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -419,7 +599,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174098-33-18-35b075ee",
       "targetLexeme": "prescribing time spent outdoors",
       "sourceContext": "Doctors are increasingly prescribing time spent outdoors for patients dealing with anxiety and depression.",
       "phase1Inference": {
@@ -430,9 +610,20 @@
         "sentiment": "positive",
         "definitionEN": "To advise and authorize a period of time in natural environments as a course of medical treatment.",
         "translationVI": "Kê đơn thời gian ở ngoài trời",
-        "relatedCollocates": ["nature prescriptions", "green prescriptions"],
+        "relatedCollocates": [
+          "nature prescriptions",
+          "green prescriptions"
+        ],
         "wordForms": {
-          "verb": [{ "form": "prescribe", "meaning": "kê đơn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "prescribe",
+              "meaning": "kê đơn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -441,7 +632,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174098-33-19-362fbc99",
       "targetLexeme": "dementia sufferers",
       "sourceContext": "And research has found that access to even the most basic green spaces can provide a better quality of life for dementia sufferers and help people avoid obesity.",
       "phase1Inference": {
@@ -452,9 +643,20 @@
         "sentiment": "negative",
         "definitionEN": "People who are afflicted with dementia, a chronic or persistent disorder of the mental processes caused by brain disease or injury.",
         "translationVI": "Những người mắc chứng mất trí nhớ",
-        "relatedCollocates": ["Alzheimer's patients", "people with dementia"],
+        "relatedCollocates": [
+          "Alzheimer's patients",
+          "people with dementia"
+        ],
         "wordForms": {
-          "noun": [{ "form": "sufferer", "meaning": "người chịu đựng" }]
+          "noun": [
+            {
+              "form": "sufferer",
+              "meaning": "người chịu đựng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -463,7 +665,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174098-33-20-7747dfda",
       "targetLexeme": "become mainstream",
       "sourceContext": "In North America, green roofs have become mainstream, with a wide array of expansive, accessible and food-producing roofs installed in buildings.",
       "phase1Inference": {
@@ -474,9 +676,20 @@
         "sentiment": "positive",
         "definitionEN": "To become conventional or widely accepted.",
         "translationVI": "Trở nên phổ biến",
-        "relatedCollocates": ["become commonplace", "widely adopted"],
+        "relatedCollocates": [
+          "become commonplace",
+          "widely adopted"
+        ],
         "wordForms": {
-          "noun": [{ "form": "mainstream", "meaning": "xu hướng chủ đạo" }]
+          "noun": [
+            {
+              "form": "mainstream",
+              "meaning": "xu hướng chủ đạo"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -485,7 +698,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174098-33-21-003620be",
       "targetLexeme": "wide array of",
       "sourceContext": "...with a wide array of expansive, accessible and food-producing roofs installed in buildings.",
       "phase1Inference": {
@@ -496,9 +709,20 @@
         "sentiment": "neutral",
         "definitionEN": "A large and impressive range or number of different things.",
         "translationVI": "Một loạt",
-        "relatedCollocates": ["a broad range of", "a wide variety of"],
+        "relatedCollocates": [
+          "a broad range of",
+          "a wide variety of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "array", "meaning": "dãy, loạt" }]
+          "noun": [
+            {
+              "form": "array",
+              "meaning": "dãy, loạt"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -507,7 +731,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174098-33-22-011f0b6f",
       "targetLexeme": "pushed the movement forward",
       "sourceContext": "Again, city leaders and authorities have helped push the movement forward...",
       "phase1Inference": {
@@ -518,9 +742,20 @@
         "sentiment": "positive",
         "definitionEN": "To have helped a group of people with a particular set of aims or ideas to make progress.",
         "translationVI": "Thúc đẩy phong trào tiến lên",
-        "relatedCollocates": ["advanced the cause", "promoted the movement"],
+        "relatedCollocates": [
+          "advanced the cause",
+          "promoted the movement"
+        ],
         "wordForms": {
-          "verb": [{ "form": "push forward", "meaning": "thúc đẩy" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "push forward",
+              "meaning": "thúc đẩy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -529,7 +764,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174098-33-23-6fbc5160",
       "targetLexeme": "dating from the 1990s",
       "sourceContext": "Toronto, Canada, has policies dating from the 1990s, encouraging the development of urban farms on rooftops.",
       "phase1Inference": {
@@ -540,9 +775,20 @@
         "sentiment": "neutral",
         "definitionEN": "Originating in or existing since the period between 1990 and 1999.",
         "translationVI": "Có từ những năm 1990",
-        "relatedCollocates": ["originating in", "from the era of"],
+        "relatedCollocates": [
+          "originating in",
+          "from the era of"
+        ],
         "wordForms": {
-          "verb": [{ "form": "date from", "meaning": "có từ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "date from",
+              "meaning": "có từ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -551,7 +797,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174098-33-24-199cf212",
       "targetLexeme": "distribute it right across the rooftop",
       "sourceContext": "Being able to keep enough water at roof height and distribute it right across the rooftop is crucial to maintaining the plants on any green roof...",
       "phase1Inference": {
@@ -567,7 +813,15 @@
           "disperse across the surface"
         ],
         "wordForms": {
-          "verb": [{ "form": "distribute", "meaning": "phân phối" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "distribute",
+              "meaning": "phân phối"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -576,7 +830,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174098-33-25-7cf925f7",
       "targetLexeme": "crucial to maintaining",
       "sourceContext": "...is crucial to maintaining the plants on any green roof...",
       "phase1Inference": {
@@ -587,9 +841,20 @@
         "sentiment": "positive",
         "definitionEN": "Extremely important for the process of keeping something in good condition.",
         "translationVI": "Quan trọng để duy trì",
-        "relatedCollocates": ["essential for preserving", "vital to keeping"],
+        "relatedCollocates": [
+          "essential for preserving",
+          "vital to keeping"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "crucial", "meaning": "quan trọng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "crucial",
+              "meaning": "quan trọng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -598,7 +863,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174098-33-26-4cc4f534",
       "targetLexeme": "‘edible roofs’",
       "sourceContext": "...especially on ‘edible roofs’ where fruit and vegetables are farmed.",
       "phase1Inference": {
@@ -609,9 +874,20 @@
         "sentiment": "positive",
         "definitionEN": "Rooftops that are used for growing food that is suitable or safe to eat.",
         "translationVI": "Mái nhà 'ăn được' (mái nhà trồng rau)",
-        "relatedCollocates": ["food-producing roofs", "rooftop farms"],
+        "relatedCollocates": [
+          "food-producing roofs",
+          "rooftop farms"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "edible", "meaning": "có thể ăn được" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "edible",
+              "meaning": "có thể ăn được"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -620,7 +896,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174098-33-27-17812a4f",
       "targetLexeme": "hold greater weight",
       "sourceContext": "And it’s much easier to do this in newer buildings, which can typically hold greater weight, than to retro-fit old ones.",
       "phase1Inference": {
@@ -636,7 +912,15 @@
           "have a higher load-bearing capacity"
         ],
         "wordForms": {
-          "verb": [{ "form": "hold", "meaning": "giữ, chịu đựng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "hold",
+              "meaning": "giữ, chịu đựng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -645,7 +929,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174098-33-28-1290e81b",
       "targetLexeme": "retro-fit old ones",
       "sourceContext": "...than to retro-fit old ones.",
       "phase1Inference": {
@@ -656,9 +940,20 @@
         "sentiment": "neutral",
         "definitionEN": "To add a component or accessory to something that it did not have when manufactured.",
         "translationVI": "Trang bị thêm cho những cái cũ",
-        "relatedCollocates": ["upgrade existing ones", "modernize"],
+        "relatedCollocates": [
+          "upgrade existing ones",
+          "modernize"
+        ],
         "wordForms": {
-          "verb": [{ "form": "retrofit", "meaning": "trang bị thêm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "retrofit",
+              "meaning": "trang bị thêm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -667,7 +962,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174098-33-29-4a5d4f32",
       "targetLexeme": "become the norm",
       "sourceContext": "For green roofs to become the norm for new developments, there needs to be support from public authorities and private investors.",
       "phase1Inference": {
@@ -678,9 +973,20 @@
         "sentiment": "positive",
         "definitionEN": "To become the usual, typical, or standard thing.",
         "translationVI": "Trở thành tiêu chuẩn",
-        "relatedCollocates": ["become standard practice", "become commonplace"],
+        "relatedCollocates": [
+          "become standard practice",
+          "become commonplace"
+        ],
         "wordForms": {
-          "noun": [{ "form": "norm", "meaning": "tiêu chuẩn, quy tắc" }]
+          "noun": [
+            {
+              "form": "norm",
+              "meaning": "tiêu chuẩn, quy tắc"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -689,7 +995,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174098-33-30-327f0b57",
       "targetLexeme": "public authorities",
       "sourceContext": "...there needs to be support from public authorities and private investors.",
       "phase1Inference": {
@@ -700,9 +1006,20 @@
         "sentiment": "neutral",
         "definitionEN": "Organizations that are controlled by the government and deal with a particular public service.",
         "translationVI": "Các cơ quan công quyền",
-        "relatedCollocates": ["government bodies", "city authorities"],
+        "relatedCollocates": [
+          "government bodies",
+          "city authorities"
+        ],
         "wordForms": {
-          "noun": [{ "form": "authority", "meaning": "cơ quan chức năng" }]
+          "noun": [
+            {
+              "form": "authority",
+              "meaning": "cơ quan chức năng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -711,7 +1028,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174098-33-31-10bb33c2",
       "targetLexeme": "private investors",
       "sourceContext": "...there needs to be support from public authorities and private investors.",
       "phase1Inference": {
@@ -722,9 +1039,20 @@
         "sentiment": "neutral",
         "definitionEN": "Individuals or firms who invest their own money into a project or business, rather than a government or public institution.",
         "translationVI": "Các nhà đầu tư tư nhân",
-        "relatedCollocates": ["angel investors", "venture capitalists"],
+        "relatedCollocates": [
+          "angel investors",
+          "venture capitalists"
+        ],
         "wordForms": {
-          "noun": [{ "form": "investor", "meaning": "nhà đầu tư" }]
+          "noun": [
+            {
+              "form": "investor",
+              "meaning": "nhà đầu tư"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -733,7 +1061,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174098-33-32-0d5d728f",
       "targetLexeme": "acquire new skills",
       "sourceContext": "Those responsible for maintaining buildings may have to acquire new skills, such as landscaping...",
       "phase1Inference": {
@@ -749,7 +1077,15 @@
           "develop new competencies"
         ],
         "wordForms": {
-          "verb": [{ "form": "acquire", "meaning": "đạt được, thu được" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "acquire",
+              "meaning": "đạt được, thu được"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -758,7 +1094,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174098-33-33-5793dc1e",
       "targetLexeme": "health and safety requirements",
       "sourceContext": "...meeting health and safety requirements and perhaps allowing access for the public...",
       "phase1Inference": {
@@ -769,9 +1105,20 @@
         "sentiment": "neutral",
         "definitionEN": "The rules and procedures intended to prevent accident or injury in workplaces or public environments.",
         "translationVI": "Các yêu cầu về sức khỏe và an toàn",
-        "relatedCollocates": ["safety regulations", "health codes"],
+        "relatedCollocates": [
+          "safety regulations",
+          "health codes"
+        ],
         "wordForms": {
-          "noun": [{ "form": "requirement", "meaning": "yêu cầu" }]
+          "noun": [
+            {
+              "form": "requirement",
+              "meaning": "yêu cầu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -780,7 +1127,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174098-33-34-25755543",
       "targetLexeme": "planning restrictions",
       "sourceContext": "...as well as planning restrictions and disruption from regular activities in and around the buildings during installation.",
       "phase1Inference": {
@@ -791,9 +1138,20 @@
         "sentiment": "negative",
         "definitionEN": "Rules and regulations that limit how land can be used and what can be built on it.",
         "translationVI": "Các hạn chế về quy hoạch",
-        "relatedCollocates": ["zoning laws", "building regulations"],
+        "relatedCollocates": [
+          "zoning laws",
+          "building regulations"
+        ],
         "wordForms": {
-          "noun": [{ "form": "restriction", "meaning": "sự hạn chế" }]
+          "noun": [
+            {
+              "form": "restriction",
+              "meaning": "sự hạn chế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -802,7 +1160,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174098-33-35-3a5e0e72",
       "targetLexeme": "disruption from regular activities",
       "sourceContext": "...as well as planning restrictions and disruption from regular activities in and around the buildings during installation.",
       "phase1Inference": {
@@ -813,9 +1171,20 @@
         "sentiment": "negative",
         "definitionEN": "The interruption of normal operations or routines.",
         "translationVI": "Sự gián đoạn các hoạt động thường lệ",
-        "relatedCollocates": ["interruption of normal business", "disturbance"],
+        "relatedCollocates": [
+          "interruption of normal business",
+          "disturbance"
+        ],
         "wordForms": {
-          "noun": [{ "form": "disruption", "meaning": "sự gián đoạn" }]
+          "noun": [
+            {
+              "form": "disruption",
+              "meaning": "sự gián đoạn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -824,7 +1193,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174098-33-36-46639974",
       "targetLexeme": "economic arguments",
       "sourceContext": "To convince investors and developers that installing green roofs is worthwhile, economic arguments are still the most important.",
       "phase1Inference": {
@@ -840,7 +1209,15 @@
           "cost-benefit analysis"
         ],
         "wordForms": {
-          "noun": [{ "form": "argument", "meaning": "lập luận" }]
+          "noun": [
+            {
+              "form": "argument",
+              "meaning": "lập luận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -849,7 +1226,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174098-33-37-1f30fd48",
       "targetLexeme": "natural capital",
       "sourceContext": "The term ‘natural capital’ has been developed to explain the economic value of nature...",
       "phase1Inference": {
@@ -860,9 +1237,20 @@
         "sentiment": "positive",
         "definitionEN": "The world's stocks of natural assets which include geology, soil, air, water and all living things.",
         "translationVI": "Vốn tự nhiên",
-        "relatedCollocates": ["natural resources", "ecosystem services"],
+        "relatedCollocates": [
+          "natural resources",
+          "ecosystem services"
+        ],
         "wordForms": {
-          "noun": [{ "form": "capital", "meaning": "vốn" }]
+          "noun": [
+            {
+              "form": "capital",
+              "meaning": "vốn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -871,7 +1259,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174098-33-38-3f24dc24",
       "targetLexeme": "economic value of nature",
       "sourceContext": "The term ‘natural capital’ has been developed to explain the economic value of nature...",
       "phase1Inference": {
@@ -887,7 +1275,15 @@
           "natural capital"
         ],
         "wordForms": {
-          "noun": [{ "form": "value", "meaning": "giá trị" }]
+          "noun": [
+            {
+              "form": "value",
+              "meaning": "giá trị"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -896,7 +1292,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174098-33-39-32ed3cf4",
       "targetLexeme": "natural solutions",
       "sourceContext": "...measuring the money saved by installing natural solutions to protect against flood damage...",
       "phase1Inference": {
@@ -907,9 +1303,20 @@
         "sentiment": "positive",
         "definitionEN": "Approaches to societal challenges that are inspired and supported by nature; also known as nature-based solutions.",
         "translationVI": "Các giải pháp tự nhiên",
-        "relatedCollocates": ["nature-based solutions", "green infrastructure"],
+        "relatedCollocates": [
+          "nature-based solutions",
+          "green infrastructure"
+        ],
         "wordForms": {
-          "noun": [{ "form": "solution", "meaning": "giải pháp" }]
+          "noun": [
+            {
+              "form": "solution",
+              "meaning": "giải pháp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -918,7 +1325,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174098-33-40-24c99e1c",
       "targetLexeme": "official standards",
       "sourceContext": "As the expertise about green roofs grows, official standards have been developed to ensure that they are designed, constructed and maintained properly, and function well.",
       "phase1Inference": {
@@ -929,9 +1336,21 @@
         "sentiment": "neutral",
         "definitionEN": "Authoritative or government-approved rules for ensuring quality.",
         "translationVI": "Các tiêu chuẩn chính thức",
-        "relatedCollocates": ["regulations", "codes", "benchmarks"],
+        "relatedCollocates": [
+          "regulations",
+          "codes",
+          "benchmarks"
+        ],
         "wordForms": {
-          "noun": [{ "form": "standard", "meaning": "tiêu chuẩn" }]
+          "noun": [
+            {
+              "form": "standard",
+              "meaning": "tiêu chuẩn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -940,7 +1359,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174098-33-41-18f81a55",
       "targetLexeme": "underpinning",
       "sourceContext": "Improvements in the science and technology underpinning green roof development have also led to new variations in the concept.",
       "phase1Inference": {
@@ -951,9 +1370,20 @@
         "sentiment": "neutral",
         "definitionEN": "Giving support, basis, or foundation to something.",
         "translationVI": "Làm nền tảng cho",
-        "relatedCollocates": ["supporting", "forming the basis of"],
+        "relatedCollocates": [
+          "supporting",
+          "forming the basis of"
+        ],
         "wordForms": {
-          "verb": [{ "form": "underpin", "meaning": "làm nền tảng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "underpin",
+              "meaning": "làm nền tảng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -962,7 +1392,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174098-33-42-15941ffc",
       "targetLexeme": "variations in the concept",
       "sourceContext": "Improvements in the science and technology... have also led to new variations in the concept.",
       "phase1Inference": {
@@ -973,9 +1403,20 @@
         "sentiment": "neutral",
         "definitionEN": "Different or distinct forms or versions of the original idea.",
         "translationVI": "Những biến thể trong khái niệm",
-        "relatedCollocates": ["different versions", "adaptations of the idea"],
+        "relatedCollocates": [
+          "different versions",
+          "adaptations of the idea"
+        ],
         "wordForms": {
-          "noun": [{ "form": "variation", "meaning": "sự biến đổi" }]
+          "noun": [
+            {
+              "form": "variation",
+              "meaning": "sự biến đổi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -984,7 +1425,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174098-33-43-5f8aab2e",
       "targetLexeme": "‘blue roofs’",
       "sourceContext": "For example, ‘blue roofs’ enable buildings to hold water over longer periods of time, rather than draining it away quickly – crucial in times of heavier rainfall.",
       "phase1Inference": {
@@ -995,9 +1436,20 @@
         "sentiment": "positive",
         "definitionEN": "A roof designed to store water, typically rainwater, for a period of time to manage stormwater runoff.",
         "translationVI": "Mái nhà 'xanh lam' (mái nhà trữ nước)",
-        "relatedCollocates": ["stormwater management", "water retention"],
+        "relatedCollocates": [
+          "stormwater management",
+          "water retention"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "blue", "meaning": "màu xanh lam" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "blue",
+              "meaning": "màu xanh lam"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1006,7 +1458,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174098-33-44-6c9ccd26",
       "targetLexeme": "heavier rainfall",
       "sourceContext": "...crucial in times of heavier rainfall.",
       "phase1Inference": {
@@ -1017,9 +1469,20 @@
         "sentiment": "negative",
         "definitionEN": "A greater than average amount of rain falling in an area in a particular period.",
         "translationVI": "Lượng mưa lớn hơn",
-        "relatedCollocates": ["intense downpours", "increased precipitation"],
+        "relatedCollocates": [
+          "intense downpours",
+          "increased precipitation"
+        ],
         "wordForms": {
-          "noun": [{ "form": "rainfall", "meaning": "lượng mưa" }]
+          "noun": [
+            {
+              "form": "rainfall",
+              "meaning": "lượng mưa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1028,7 +1491,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174098-33-45-5c8d1a14",
       "targetLexeme": "‘brown roofs’",
       "sourceContext": "There are also combinations of green roofs with solar panels, and ‘brown roofs’ which are wilder in nature and maximise biodiversity.",
       "phase1Inference": {
@@ -1039,9 +1502,20 @@
         "sentiment": "positive",
         "definitionEN": "A type of green roof that is designed to be a habitat for wildlife, often using locally sourced materials like rubble, soil, and gravel, and left to self-colonise with plants.",
         "translationVI": "Mái nhà 'nâu' (mái nhà sinh thái)",
-        "relatedCollocates": ["biodiverse roofs", "habitat roofs"],
+        "relatedCollocates": [
+          "biodiverse roofs",
+          "habitat roofs"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "brown", "meaning": "màu nâu" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "brown",
+              "meaning": "màu nâu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1050,7 +1524,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174098-33-46-6a6dc7d0",
       "targetLexeme": "maximise biodiversity",
       "sourceContext": "...‘brown roofs’ which are wilder in nature and maximise biodiversity.",
       "phase1Inference": {
@@ -1066,7 +1540,15 @@
           "promote species richness"
         ],
         "wordForms": {
-          "verb": [{ "form": "maximise", "meaning": "tối đa hóa" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "maximise",
+              "meaning": "tối đa hóa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1075,7 +1557,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174098-33-47-2b5fcdfc",
       "targetLexeme": "vibrant and sustainable local food economy",
       "sourceContext": "If the trend continues, it could create new jobs and a more vibrant and sustainable local food economy – alongside many other benefits.",
       "phase1Inference": {
@@ -1086,9 +1568,20 @@
         "sentiment": "positive",
         "definitionEN": "A local system of food production, distribution, and consumption that is full of energy, successful, and able to continue over a long period.",
         "translationVI": "Nền kinh tế thực phẩm địa phương sôi động và bền vững",
-        "relatedCollocates": ["local food system", "sustainable agriculture"],
+        "relatedCollocates": [
+          "local food system",
+          "sustainable agriculture"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "vibrant", "meaning": "sôi động" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "vibrant",
+              "meaning": "sôi động"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1097,7 +1590,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174098-33-48-07405a3b",
       "targetLexeme": "barriers to overcome",
       "sourceContext": "There are still barriers to overcome, but the evidence so far indicates that green roofs have the potential to transform cities...",
       "phase1Inference": {
@@ -1108,9 +1601,20 @@
         "sentiment": "negative",
         "definitionEN": "Obstacles or difficulties that need to be dealt with successfully in order to achieve something.",
         "translationVI": "Những rào cản cần vượt qua",
-        "relatedCollocates": ["obstacles to surmount", "challenges to face"],
+        "relatedCollocates": [
+          "obstacles to surmount",
+          "challenges to face"
+        ],
         "wordForms": {
-          "verb": [{ "form": "overcome", "meaning": "vượt qua" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "overcome",
+              "meaning": "vượt qua"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1119,7 +1623,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174098-33-49-5e2cd9ce",
       "targetLexeme": "evidence so far indicates",
       "sourceContext": "...but the evidence so far indicates that green roofs have the potential to transform cities...",
       "phase1Inference": {
@@ -1135,7 +1639,15 @@
           "what we know now points to"
         ],
         "wordForms": {
-          "verb": [{ "form": "indicate", "meaning": "chỉ ra" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "indicate",
+              "meaning": "chỉ ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1144,7 +1656,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174098-33-50-2daa417c",
       "targetLexeme": "function sustainably",
       "sourceContext": "...and help them function sustainably long into the future.",
       "phase1Inference": {
@@ -1160,7 +1672,15 @@
           "work in a sustainable manner"
         ],
         "wordForms": {
-          "adverb": [{ "form": "sustainably", "meaning": "một cách bền vững" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "sustainably",
+              "meaning": "một cách bền vững"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1169,7 +1689,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174098-33-51-2cd031bc",
       "targetLexeme": "replicated elsewhere",
       "sourceContext": "The success stories need to be studied and replicated elsewhere, to make green, blue and food-producing roofs the norm in cities around the world.",
       "phase1Inference": {
@@ -1185,7 +1705,15 @@
           "copied in different contexts"
         ],
         "wordForms": {
-          "verb": [{ "form": "replicate", "meaning": "tái tạo, nhân rộng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "replicate",
+              "meaning": "tái tạo, nhân rộng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1194,7 +1722,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174098-33-52-0b6b2e09",
       "targetLexeme": "vegetable gardens",
       "sourceContext": "Rooftops covered with grass, vegetable gardens and lush foliage are now a common sight...",
       "phase1Inference": {
@@ -1205,9 +1733,20 @@
         "sentiment": "positive",
         "definitionEN": "A plot of land, or part of a garden, where vegetables are grown.",
         "translationVI": "Vườn rau",
-        "relatedCollocates": ["kitchen gardens", "allotments"],
+        "relatedCollocates": [
+          "kitchen gardens",
+          "allotments"
+        ],
         "wordForms": {
-          "noun": [{ "form": "garden", "meaning": "khu vườn" }]
+          "noun": [
+            {
+              "form": "garden",
+              "meaning": "khu vườn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1216,7 +1755,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174098-33-53-33e1c9c3",
       "targetLexeme": "private companies",
       "sourceContext": "More and more private companies and city authorities are investing in green roofs...",
       "phase1Inference": {
@@ -1227,9 +1766,20 @@
         "sentiment": "neutral",
         "definitionEN": "Businesses that are owned by individuals or non-governmental organizations, not by the state.",
         "translationVI": "Các công ty tư nhân",
-        "relatedCollocates": ["the private sector", "businesses"],
+        "relatedCollocates": [
+          "the private sector",
+          "businesses"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "private", "meaning": "tư nhân" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "private",
+              "meaning": "tư nhân"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1238,7 +1788,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174098-33-54-2b092226",
       "targetLexeme": "energy costs",
       "sourceContext": "Among the benefits are saving on energy costs...",
       "phase1Inference": {
@@ -1249,9 +1799,20 @@
         "sentiment": "negative",
         "definitionEN": "The amount of money spent on power, such as electricity and gas.",
         "translationVI": "Chi phí năng lượng",
-        "relatedCollocates": ["utility bills", "power expenses"],
+        "relatedCollocates": [
+          "utility bills",
+          "power expenses"
+        ],
         "wordForms": {
-          "noun": [{ "form": "cost", "meaning": "chi phí" }]
+          "noun": [
+            {
+              "form": "cost",
+              "meaning": "chi phí"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1260,7 +1821,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174098-33-55-435d8413",
       "targetLexeme": "growing food",
       "sourceContext": "...tackling air pollution and even growing food.",
       "phase1Inference": {
@@ -1271,9 +1832,20 @@
         "sentiment": "positive",
         "definitionEN": "The cultivation of plants for consumption.",
         "translationVI": "Trồng thực phẩm",
-        "relatedCollocates": ["urban farming", "agriculture"],
+        "relatedCollocates": [
+          "urban farming",
+          "agriculture"
+        ],
         "wordForms": {
-          "verb": [{ "form": "grow", "meaning": "trồng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "grow",
+              "meaning": "trồng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1282,7 +1854,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174098-33-56-0ac17125",
       "targetLexeme": "spreading the practice",
       "sourceContext": "The UK is relatively new to developing green roofs, and local governments and institutions are playing a major role in spreading the practice.",
       "phase1Inference": {
@@ -1298,7 +1870,15 @@
           "popularizing the technique"
         ],
         "wordForms": {
-          "verb": [{ "form": "spread", "meaning": "lan truyền" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "spread",
+              "meaning": "lan truyền"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1307,7 +1887,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174098-33-57-3bc09142",
       "targetLexeme": "doubling the area",
       "sourceContext": "...which has paved the way to more than doubling the area of green roofs in the capital.",
       "phase1Inference": {
@@ -1318,9 +1898,20 @@
         "sentiment": "positive",
         "definitionEN": "To make the size of a surface twice as large.",
         "translationVI": "Gấp đôi diện tích",
-        "relatedCollocates": ["increasing twofold", "making twice as large"],
+        "relatedCollocates": [
+          "increasing twofold",
+          "making twice as large"
+        ],
         "wordForms": {
-          "verb": [{ "form": "double", "meaning": "gấp đôi" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "double",
+              "meaning": "gấp đôi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1329,7 +1920,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174098-33-58-3c04f3f3",
       "targetLexeme": "anxiety and depression",
       "sourceContext": "Doctors are increasingly prescribing time spent outdoors for patients dealing with anxiety and depression.",
       "phase1Inference": {
@@ -1340,12 +1931,24 @@
         "sentiment": "negative",
         "definitionEN": "Common mental health disorders characterized by feelings of worry, nervousness, and persistent sadness.",
         "translationVI": "Lo âu và trầm cảm",
-        "relatedCollocates": ["mental health issues", "stress"],
+        "relatedCollocates": [
+          "mental health issues",
+          "stress"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "anxiety", "meaning": "sự lo âu" },
-            { "form": "depression", "meaning": "sự trầm cảm" }
-          ]
+            {
+              "form": "anxiety",
+              "meaning": "sự lo âu"
+            },
+            {
+              "form": "depression",
+              "meaning": "sự trầm cảm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1354,7 +1957,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174098-33-59-36517912",
       "targetLexeme": "avoid obesity",
       "sourceContext": "...and help people avoid obesity.",
       "phase1Inference": {
@@ -1370,7 +1973,15 @@
           "maintain a healthy weight"
         ],
         "wordForms": {
-          "noun": [{ "form": "obesity", "meaning": "bệnh béo phì" }]
+          "noun": [
+            {
+              "form": "obesity",
+              "meaning": "bệnh béo phì"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1379,7 +1990,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174098-33-60-273c84ab",
       "targetLexeme": "urban farms",
       "sourceContext": "...encouraging the development of urban farms on rooftops.",
       "phase1Inference": {
@@ -1390,9 +2001,20 @@
         "sentiment": "positive",
         "definitionEN": "Farms located in or around a city, which can be on rooftops, in vertical structures, or on vacant lots.",
         "translationVI": "Các trang trại đô thị",
-        "relatedCollocates": ["city farming", "rooftop gardens"],
+        "relatedCollocates": [
+          "city farming",
+          "rooftop gardens"
+        ],
         "wordForms": {
-          "noun": [{ "form": "farm", "meaning": "trang trại" }]
+          "noun": [
+            {
+              "form": "farm",
+              "meaning": "trang trại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1401,7 +2023,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174098-33-61-4508f821",
       "targetLexeme": "greater variety of plants",
       "sourceContext": "Having a stronger roof also makes it easier to grow a greater variety of plants, since the soil can be deeper.",
       "phase1Inference": {
@@ -1412,9 +2034,20 @@
         "sentiment": "positive",
         "definitionEN": "A wider selection of different types of plants.",
         "translationVI": "Nhiều loại cây hơn",
-        "relatedCollocates": ["a wider range of flora", "more plant species"],
+        "relatedCollocates": [
+          "a wider range of flora",
+          "more plant species"
+        ],
         "wordForms": {
-          "noun": [{ "form": "variety", "meaning": "sự đa dạng" }]
+          "noun": [
+            {
+              "form": "variety",
+              "meaning": "sự đa dạng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1423,7 +2056,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174098-33-62-15c5151e",
       "targetLexeme": "landscaping",
       "sourceContext": "Those responsible for maintaining buildings may have to acquire new skills, such as landscaping...",
       "phase1Inference": {
@@ -1434,9 +2067,20 @@
         "sentiment": "neutral",
         "definitionEN": "The process of making a yard or other piece of land more attractive by altering the existing design, adding ornamental features, and planting trees and shrubs.",
         "translationVI": "Làm vườn, tạo cảnh quan",
-        "relatedCollocates": ["gardening", "horticulture"],
+        "relatedCollocates": [
+          "gardening",
+          "horticulture"
+        ],
         "wordForms": {
-          "noun": [{ "form": "landscape", "meaning": "phong cảnh" }]
+          "noun": [
+            {
+              "form": "landscape",
+              "meaning": "phong cảnh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1445,7 +2089,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174098-33-63-075c2aa4",
       "targetLexeme": "volunteers",
       "sourceContext": "...and in some cases, volunteers may be needed to help out.",
       "phase1Inference": {
@@ -1456,9 +2100,20 @@
         "sentiment": "positive",
         "definitionEN": "People who freely offer to take part in an enterprise or undertake a task.",
         "translationVI": "Các tình nguyện viên",
-        "relatedCollocates": ["unpaid helpers", "community members"],
+        "relatedCollocates": [
+          "unpaid helpers",
+          "community members"
+        ],
         "wordForms": {
-          "verb": [{ "form": "volunteer", "meaning": "tình nguyện" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "volunteer",
+              "meaning": "tình nguyện"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1467,7 +2122,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174098-33-64-77a4f388",
       "targetLexeme": "help out",
       "sourceContext": "...volunteers may be needed to help out.",
       "phase1Inference": {
@@ -1478,9 +2133,20 @@
         "sentiment": "positive",
         "definitionEN": "To assist someone, especially by doing a share of the work.",
         "translationVI": "Giúp đỡ",
-        "relatedCollocates": ["assist", "lend a hand"],
+        "relatedCollocates": [
+          "assist",
+          "lend a hand"
+        ],
         "wordForms": {
-          "verb": [{ "form": "help", "meaning": "giúp đỡ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "help",
+              "meaning": "giúp đỡ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1489,7 +2155,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174098-33-65-3f45b2fc",
       "targetLexeme": "allow access for the public",
       "sourceContext": "...and perhaps allowing access for the public...",
       "phase1Inference": {
@@ -1500,9 +2166,20 @@
         "sentiment": "positive",
         "definitionEN": "To permit the general population to enter or use a space.",
         "translationVI": "Cho phép công chúng tiếp cận",
-        "relatedCollocates": ["open to the public", "public access"],
+        "relatedCollocates": [
+          "open to the public",
+          "public access"
+        ],
         "wordForms": {
-          "noun": [{ "form": "access", "meaning": "sự tiếp cận" }]
+          "noun": [
+            {
+              "form": "access",
+              "meaning": "sự tiếp cận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1511,7 +2188,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "1761813174098-33-66-47d9a11f",
       "targetLexeme": "installation",
       "sourceContext": "...disruption from regular activities in and around the buildings during installation.",
       "phase1Inference": {
@@ -1522,9 +2199,20 @@
         "sentiment": "neutral",
         "definitionEN": "The action or process of installing someone or something, or of being installed.",
         "translationVI": "Sự lắp đặt",
-        "relatedCollocates": ["setup", "fitting"],
+        "relatedCollocates": [
+          "setup",
+          "fitting"
+        ],
         "wordForms": {
-          "verb": [{ "form": "install", "meaning": "lắp đặt" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "install",
+              "meaning": "lắp đặt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1533,7 +2221,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "1761813174098-33-67-6114dfaf",
       "targetLexeme": "science and technology",
       "sourceContext": "Improvements in the science and technology underpinning green roof development have also led to new variations in the concept.",
       "phase1Inference": {
@@ -1544,12 +2232,24 @@
         "sentiment": "neutral",
         "definitionEN": "The systematic study of the structure and behavior of the physical and natural world, and the application of this knowledge for practical purposes.",
         "translationVI": "Khoa học và công nghệ",
-        "relatedCollocates": ["R&D (research and development)", "innovation"],
+        "relatedCollocates": [
+          "R&D (research and development)",
+          "innovation"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "science", "meaning": "khoa học" },
-            { "form": "technology", "meaning": "công nghệ" }
-          ]
+            {
+              "form": "science",
+              "meaning": "khoa học"
+            },
+            {
+              "form": "technology",
+              "meaning": "công nghệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1558,7 +2258,7 @@
       }
     },
     {
-      "id": 69,
+      "id": "1761813174098-33-68-437b55bb",
       "targetLexeme": "solar panels",
       "sourceContext": "There are also combinations of green roofs with solar panels...",
       "phase1Inference": {
@@ -1569,9 +2269,20 @@
         "sentiment": "positive",
         "definitionEN": "Panels designed to absorb the sun's rays as a source of energy for generating electricity or heating.",
         "translationVI": "Các tấm pin mặt trời",
-        "relatedCollocates": ["photovoltaic panels", "renewable energy"],
+        "relatedCollocates": [
+          "photovoltaic panels",
+          "renewable energy"
+        ],
         "wordForms": {
-          "noun": [{ "form": "panel", "meaning": "tấm, bảng" }]
+          "noun": [
+            {
+              "form": "panel",
+              "meaning": "tấm, bảng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1580,7 +2291,7 @@
       }
     },
     {
-      "id": 70,
+      "id": "1761813174098-33-69-32998512",
       "targetLexeme": "if the trend continues",
       "sourceContext": "If the trend continues, it could create new jobs and a more vibrant and sustainable local food economy...",
       "phase1Inference": {
@@ -1596,7 +2307,15 @@
           "should this trend go on"
         ],
         "wordForms": {
-          "verb": [{ "form": "continue", "meaning": "tiếp tục" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "continue",
+              "meaning": "tiếp tục"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1605,7 +2324,7 @@
       }
     },
     {
-      "id": 71,
+      "id": "1761813174098-33-70-3dffdb63",
       "targetLexeme": "create new jobs",
       "sourceContext": "If the trend continues, it could create new jobs...",
       "phase1Inference": {
@@ -1616,9 +2335,20 @@
         "sentiment": "positive",
         "definitionEN": "To bring new employment opportunities into existence.",
         "translationVI": "Tạo ra công việc mới",
-        "relatedCollocates": ["job creation", "generate employment"],
+        "relatedCollocates": [
+          "job creation",
+          "generate employment"
+        ],
         "wordForms": {
-          "verb": [{ "form": "create", "meaning": "tạo ra" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "create",
+              "meaning": "tạo ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1627,7 +2357,7 @@
       }
     },
     {
-      "id": 72,
+      "id": "1761813174098-33-71-1b6464a4",
       "targetLexeme": "alongside",
       "sourceContext": "...a more vibrant and sustainable local food economy – alongside many other benefits.",
       "phase1Inference": {
@@ -1638,9 +2368,15 @@
         "sentiment": "neutral",
         "definitionEN": "Together with or at the same time as.",
         "translationVI": "Bên cạnh",
-        "relatedCollocates": ["in addition to", "together with"],
+        "relatedCollocates": [
+          "in addition to",
+          "together with"
+        ],
         "wordForms": {
-          "preposition": [{ "form": "alongside", "meaning": "bên cạnh" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1649,7 +2385,7 @@
       }
     },
     {
-      "id": 73,
+      "id": "1761813174098-33-72-72487d93",
       "targetLexeme": "potential to transform cities",
       "sourceContext": "...the evidence so far indicates that green roofs have the potential to transform cities...",
       "phase1Inference": {
@@ -1665,7 +2401,15 @@
           "capacity for urban change"
         ],
         "wordForms": {
-          "verb": [{ "form": "transform", "meaning": "biến đổi" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "transform",
+              "meaning": "biến đổi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1674,7 +2418,7 @@
       }
     },
     {
-      "id": 74,
+      "id": "1761813174098-33-73-4c5c7f22",
       "targetLexeme": "long into the future",
       "sourceContext": "...and help them function sustainably long into the future.",
       "phase1Inference": {
@@ -1685,9 +2429,20 @@
         "sentiment": "neutral",
         "definitionEN": "For a very long time from now.",
         "translationVI": "Mãi về sau",
-        "relatedCollocates": ["far into the future", "for many years to come"],
+        "relatedCollocates": [
+          "far into the future",
+          "for many years to come"
+        ],
         "wordForms": {
-          "noun": [{ "form": "future", "meaning": "tương lai" }]
+          "noun": [
+            {
+              "form": "future",
+              "meaning": "tương lai"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1696,7 +2451,7 @@
       }
     },
     {
-      "id": 75,
+      "id": "1761813174098-33-74-6bfdf8c1",
       "targetLexeme": "success stories",
       "sourceContext": "The success stories need to be studied and replicated elsewhere...",
       "phase1Inference": {
@@ -1707,9 +2462,20 @@
         "sentiment": "positive",
         "definitionEN": "Accounts or reports of people or projects that have achieved success.",
         "translationVI": "Những câu chuyện thành công",
-        "relatedCollocates": ["case studies of success", "successful examples"],
+        "relatedCollocates": [
+          "case studies of success",
+          "successful examples"
+        ],
         "wordForms": {
-          "noun": [{ "form": "story", "meaning": "câu chuyện" }]
+          "noun": [
+            {
+              "form": "story",
+              "meaning": "câu chuyện"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1718,7 +2484,7 @@
       }
     },
     {
-      "id": 76,
+      "id": "1761813174098-33-75-58de9515",
       "targetLexeme": "food-producing roofs",
       "sourceContext": "...to make green, blue and food-producing roofs the norm in cities around the world.",
       "phase1Inference": {
@@ -1729,11 +2495,20 @@
         "sentiment": "positive",
         "definitionEN": "Rooftops that are used for agriculture or farming.",
         "translationVI": "Mái nhà sản xuất thực phẩm",
-        "relatedCollocates": ["edible roofs", "rooftop farms"],
+        "relatedCollocates": [
+          "edible roofs",
+          "rooftop farms"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "food-producing", "meaning": "sản xuất thực phẩm" }
-          ]
+            {
+              "form": "food-producing",
+              "meaning": "sản xuất thực phẩm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1742,7 +2517,7 @@
       }
     },
     {
-      "id": 77,
+      "id": "1761813174098-33-76-0d9dd916",
       "targetLexeme": "investing in",
       "sourceContext": "More and more private companies and city authorities are investing in green roofs...",
       "phase1Inference": {
@@ -1753,9 +2528,20 @@
         "sentiment": "positive",
         "definitionEN": "To put money into something to make a profit or achieve a result.",
         "translationVI": "Đầu tư vào",
-        "relatedCollocates": ["funding", "putting money into"],
+        "relatedCollocates": [
+          "funding",
+          "putting money into"
+        ],
         "wordForms": {
-          "verb": [{ "form": "invest", "meaning": "đầu tư" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "invest",
+              "meaning": "đầu tư"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1764,7 +2550,7 @@
       }
     },
     {
-      "id": 78,
+      "id": "1761813174098-33-77-37a6912e",
       "targetLexeme": "institutions",
       "sourceContext": "But the involvement of city authorities, businesses and other institutions is crucial to ensuring their success...",
       "phase1Inference": {
@@ -1775,9 +2561,20 @@
         "sentiment": "neutral",
         "definitionEN": "Large important organizations such as a university, church, or bank.",
         "translationVI": "Các tổ chức",
-        "relatedCollocates": ["organizations", "establishments"],
+        "relatedCollocates": [
+          "organizations",
+          "establishments"
+        ],
         "wordForms": {
-          "noun": [{ "form": "institution", "meaning": "tổ chức" }]
+          "noun": [
+            {
+              "form": "institution",
+              "meaning": "tổ chức"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1786,7 +2583,7 @@
       }
     },
     {
-      "id": 79,
+      "id": "1761813174098-33-78-08f1f045",
       "targetLexeme": "in the capital",
       "sourceContext": "...doubling the area of green roofs in the capital.",
       "phase1Inference": {
@@ -1797,9 +2594,20 @@
         "sentiment": "neutral",
         "definitionEN": "In the most important city or town of a country or region, usually its seat of government and administrative centre.",
         "translationVI": "Ở thủ đô",
-        "relatedCollocates": ["in the main city", "in the seat of government"],
+        "relatedCollocates": [
+          "in the main city",
+          "in the seat of government"
+        ],
         "wordForms": {
-          "noun": [{ "form": "capital", "meaning": "thủ đô" }]
+          "noun": [
+            {
+              "form": "capital",
+              "meaning": "thủ đô"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1808,7 +2616,7 @@
       }
     },
     {
-      "id": 80,
+      "id": "1761813174098-33-79-5ced980d",
       "targetLexeme": "showcasing",
       "sourceContext": "Ongoing research is showcasing how green roofs in cities can integrate with ‘living walls’...",
       "phase1Inference": {
@@ -1819,9 +2627,20 @@
         "sentiment": "positive",
         "definitionEN": "Exhibiting or demonstrating something to its best advantage.",
         "translationVI": "Trưng bày, thể hiện",
-        "relatedCollocates": ["demonstrating", "highlighting"],
+        "relatedCollocates": [
+          "demonstrating",
+          "highlighting"
+        ],
         "wordForms": {
-          "verb": [{ "form": "showcase", "meaning": "trưng bày" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "showcase",
+              "meaning": "trưng bày"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1830,7 +2649,7 @@
       }
     },
     {
-      "id": 81,
+      "id": "1761813174098-33-80-103bebdb",
       "targetLexeme": "basic green spaces",
       "sourceContext": "And research has found that access to even the most basic green spaces can provide a better quality of life...",
       "phase1Inference": {
@@ -1841,9 +2660,20 @@
         "sentiment": "positive",
         "definitionEN": "Simple, fundamental areas of land with grass, trees, or other vegetation, such as a small park or lawn.",
         "translationVI": "Không gian xanh cơ bản",
-        "relatedCollocates": ["simple parks", "fundamental green areas"],
+        "relatedCollocates": [
+          "simple parks",
+          "fundamental green areas"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "basic", "meaning": "cơ bản" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "basic",
+              "meaning": "cơ bản"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1852,7 +2682,7 @@
       }
     },
     {
-      "id": 82,
+      "id": "1761813174098-33-81-0f0c5129",
       "targetLexeme": "quality of life",
       "sourceContext": "...can provide a better quality of life for dementia sufferers...",
       "phase1Inference": {
@@ -1863,9 +2693,20 @@
         "sentiment": "positive",
         "definitionEN": "The standard of health, comfort, and happiness experienced by an individual or group.",
         "translationVI": "Chất lượng cuộc sống",
-        "relatedCollocates": ["well-being", "standard of living"],
+        "relatedCollocates": [
+          "well-being",
+          "standard of living"
+        ],
         "wordForms": {
-          "noun": [{ "form": "quality", "meaning": "chất lượng" }]
+          "noun": [
+            {
+              "form": "quality",
+              "meaning": "chất lượng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1874,7 +2715,7 @@
       }
     },
     {
-      "id": 83,
+      "id": "1761813174098-33-82-2cac4899",
       "targetLexeme": "expansive",
       "sourceContext": "...with a wide array of expansive, accessible and food-producing roofs installed in buildings.",
       "phase1Inference": {
@@ -1885,9 +2726,21 @@
         "sentiment": "neutral",
         "definitionEN": "Covering a wide area in terms of space or scope; extensive.",
         "translationVI": "Rộng lớn",
-        "relatedCollocates": ["large-scale", "extensive", "spacious"],
+        "relatedCollocates": [
+          "large-scale",
+          "extensive",
+          "spacious"
+        ],
         "wordForms": {
-          "verb": [{ "form": "expand", "meaning": "mở rộng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "expand",
+              "meaning": "mở rộng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1896,7 +2749,7 @@
       }
     },
     {
-      "id": 84,
+      "id": "1761813174098-33-83-1c033693",
       "targetLexeme": "accessible",
       "sourceContext": "...expansive, accessible and food-producing roofs installed in buildings.",
       "phase1Inference": {
@@ -1907,9 +2760,20 @@
         "sentiment": "positive",
         "definitionEN": "Able to be reached or entered.",
         "translationVI": "Có thể tiếp cận",
-        "relatedCollocates": ["easy to reach", "approachable"],
+        "relatedCollocates": [
+          "easy to reach",
+          "approachable"
+        ],
         "wordForms": {
-          "noun": [{ "form": "access", "meaning": "sự tiếp cận" }]
+          "noun": [
+            {
+              "form": "access",
+              "meaning": "sự tiếp cận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1918,7 +2782,7 @@
       }
     },
     {
-      "id": 85,
+      "id": "1761813174098-33-84-60d5c69a",
       "targetLexeme": "deeper",
       "sourceContext": "Having a stronger roof also makes it easier to grow a greater variety of plants, since the soil can be deeper.",
       "phase1Inference": {
@@ -1929,9 +2793,20 @@
         "sentiment": "neutral",
         "definitionEN": "Extending further down from the top or surface.",
         "translationVI": "Sâu hơn",
-        "relatedCollocates": ["greater depth", "more profound"],
+        "relatedCollocates": [
+          "greater depth",
+          "more profound"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "deep", "meaning": "sâu" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "deep",
+              "meaning": "sâu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1940,7 +2815,7 @@
       }
     },
     {
-      "id": 86,
+      "id": "1761813174098-33-85-1ba77880",
       "targetLexeme": "adapt to",
       "sourceContext": "These increasingly radical urban designs can help cities adapt to the monumental problems they face...",
       "phase1Inference": {
@@ -1951,9 +2826,20 @@
         "sentiment": "positive",
         "definitionEN": "To become adjusted to new conditions.",
         "translationVI": "Thích nghi với",
-        "relatedCollocates": ["adjust to", "acclimatize to"],
+        "relatedCollocates": [
+          "adjust to",
+          "acclimatize to"
+        ],
         "wordForms": {
-          "verb": [{ "form": "adapt", "meaning": "thích nghi" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "adapt",
+              "meaning": "thích nghi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1962,7 +2848,7 @@
       }
     },
     {
-      "id": 87,
+      "id": "1761813174098-33-86-78bddb4f",
       "targetLexeme": "involvement of",
       "sourceContext": "But the involvement of city authorities, businesses and other institutions is crucial to ensuring their success...",
       "phase1Inference": {
@@ -1973,9 +2859,20 @@
         "sentiment": "neutral",
         "definitionEN": "The fact or condition of being involved with or participating in something.",
         "translationVI": "Sự tham gia của",
-        "relatedCollocates": ["participation of", "engagement of"],
+        "relatedCollocates": [
+          "participation of",
+          "engagement of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "involvement", "meaning": "sự tham gia" }]
+          "noun": [
+            {
+              "form": "involvement",
+              "meaning": "sự tham gia"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1984,7 +2881,7 @@
       }
     },
     {
-      "id": 88,
+      "id": "1761813174098-33-87-6181292d",
       "targetLexeme": "variety of rooftop spaces",
       "sourceContext": "...as is research investigating different options to suit the variety of rooftop spaces found in cities.",
       "phase1Inference": {
@@ -2000,7 +2897,15 @@
           "range of rooftop areas"
         ],
         "wordForms": {
-          "noun": [{ "form": "variety", "meaning": "sự đa dạng" }]
+          "noun": [
+            {
+              "form": "variety",
+              "meaning": "sự đa dạng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2009,7 +2914,7 @@
       }
     },
     {
-      "id": 89,
+      "id": "1761813174098-33-88-7b74038d",
       "targetLexeme": "playing a major role in",
       "sourceContext": "...local governments and institutions are playing a major role in spreading the practice.",
       "phase1Inference": {
@@ -2025,7 +2930,15 @@
           "having a significant part in"
         ],
         "wordForms": {
-          "noun": [{ "form": "role", "meaning": "vai trò" }]
+          "noun": [
+            {
+              "form": "role",
+              "meaning": "vai trò"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2034,7 +2947,7 @@
       }
     },
     {
-      "id": 90,
+      "id": "1761813174098-33-89-2c43fb5e",
       "targetLexeme": "ongoing research",
       "sourceContext": "Ongoing research is showcasing how green roofs in cities can integrate with ‘living walls’...",
       "phase1Inference": {
@@ -2045,9 +2958,20 @@
         "sentiment": "neutral",
         "definitionEN": "Research that is still in process; continuing.",
         "translationVI": "Nghiên cứu đang diễn ra",
-        "relatedCollocates": ["current studies", "continuing investigation"],
+        "relatedCollocates": [
+          "current studies",
+          "continuing investigation"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "ongoing", "meaning": "đang diễn ra" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "ongoing",
+              "meaning": "đang diễn ra"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2056,7 +2980,7 @@
       }
     },
     {
-      "id": 91,
+      "id": "1761813174098-33-90-220ac4d9",
       "targetLexeme": "partially or completely covered",
       "sourceContext": "...environmentally friendly walls which are partially or completely covered with greenery...",
       "phase1Inference": {
@@ -2072,9 +2996,18 @@
           "total or partial coverage"
         ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
           "adverb": [
-            { "form": "partially", "meaning": "một phần" },
-            { "form": "completely", "meaning": "hoàn toàn" }
+            {
+              "form": "partially",
+              "meaning": "một phần"
+            },
+            {
+              "form": "completely",
+              "meaning": "hoàn toàn"
+            }
           ]
         }
       },
@@ -2084,7 +3017,7 @@
       }
     },
     {
-      "id": 92,
+      "id": "1761813174098-33-91-42d48b2a",
       "targetLexeme": "demonstrate",
       "sourceContext": "There is also evidence to demonstrate the social value of green roofs.",
       "phase1Inference": {
@@ -2095,9 +3028,21 @@
         "sentiment": "neutral",
         "definitionEN": "To show something clearly by giving proof or evidence.",
         "translationVI": "Chứng minh",
-        "relatedCollocates": ["show", "prove", "illustrate"],
+        "relatedCollocates": [
+          "show",
+          "prove",
+          "illustrate"
+        ],
         "wordForms": {
-          "noun": [{ "form": "demonstration", "meaning": "sự chứng minh" }]
+          "noun": [
+            {
+              "form": "demonstration",
+              "meaning": "sự chứng minh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2106,7 +3051,7 @@
       }
     },
     {
-      "id": 93,
+      "id": "1761813174098-33-92-40d3ef9a",
       "targetLexeme": "newly built",
       "sourceContext": "...a policy requiring new buildings to have green roofs.",
       "phase1Inference": {
@@ -2117,9 +3062,20 @@
         "sentiment": "neutral",
         "definitionEN": "Having been constructed recently.",
         "translationVI": "Mới được xây dựng",
-        "relatedCollocates": ["recently constructed", "new construction"],
+        "relatedCollocates": [
+          "recently constructed",
+          "new construction"
+        ],
         "wordForms": {
-          "verb": [{ "form": "build", "meaning": "xây dựng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "build",
+              "meaning": "xây dựng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2128,7 +3084,7 @@
       }
     },
     {
-      "id": 94,
+      "id": "1761813174098-33-93-05cf3206",
       "targetLexeme": "newer buildings",
       "sourceContext": "These countries also benefit from having newer buildings than in many parts of the world...",
       "phase1Inference": {
@@ -2144,7 +3100,15 @@
           "older buildings (antonym)"
         ],
         "wordForms": {
-          "adjective": [{ "form": "new", "meaning": "mới" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "new",
+              "meaning": "mới"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2153,7 +3117,7 @@
       }
     },
     {
-      "id": 95,
+      "id": "1761813174098-33-94-5d0b370f",
       "targetLexeme": "at roof height",
       "sourceContext": "Being able to keep enough water at roof height and distribute it right across the rooftop is crucial...",
       "phase1Inference": {
@@ -2164,9 +3128,20 @@
         "sentiment": "neutral",
         "definitionEN": "At the level of the top of a building.",
         "translationVI": "Ở độ cao của mái nhà",
-        "relatedCollocates": ["on the rooftop", "at an elevated level"],
+        "relatedCollocates": [
+          "on the rooftop",
+          "at an elevated level"
+        ],
         "wordForms": {
-          "noun": [{ "form": "height", "meaning": "chiều cao" }]
+          "noun": [
+            {
+              "form": "height",
+              "meaning": "chiều cao"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2175,7 +3150,7 @@
       }
     },
     {
-      "id": 96,
+      "id": "1761813174098-33-95-6efabbac",
       "targetLexeme": "new developments",
       "sourceContext": "For green roofs to become the norm for new developments, there needs to be support...",
       "phase1Inference": {
@@ -2186,11 +3161,20 @@
         "sentiment": "neutral",
         "definitionEN": "Newly built areas of housing or commercial buildings.",
         "translationVI": "Các công trình xây dựng mới",
-        "relatedCollocates": ["new construction projects", "new buildings"],
+        "relatedCollocates": [
+          "new construction projects",
+          "new buildings"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "development", "meaning": "sự phát triển, công trình" }
-          ]
+            {
+              "form": "development",
+              "meaning": "sự phát triển, công trình"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2199,7 +3183,7 @@
       }
     },
     {
-      "id": 97,
+      "id": "1761813174098-33-96-4b7433be",
       "targetLexeme": "responsible for maintaining",
       "sourceContext": "Those responsible for maintaining buildings may have to acquire new skills...",
       "phase1Inference": {
@@ -2210,11 +3194,20 @@
         "sentiment": "neutral",
         "definitionEN": "Having the duty of keeping something in good condition.",
         "translationVI": "Chịu trách nhiệm bảo trì",
-        "relatedCollocates": ["in charge of upkeep", "tasked with maintenance"],
+        "relatedCollocates": [
+          "in charge of upkeep",
+          "tasked with maintenance"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "responsible", "meaning": "chịu trách nhiệm" }
-          ]
+            {
+              "form": "responsible",
+              "meaning": "chịu trách nhiệm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2223,7 +3216,7 @@
       }
     },
     {
-      "id": 98,
+      "id": "1761813174098-33-97-721c8369",
       "targetLexeme": "drainage paths",
       "sourceContext": "Other considerations include installing drainage paths...",
       "phase1Inference": {
@@ -2234,9 +3227,20 @@
         "sentiment": "neutral",
         "definitionEN": "Channels or routes designed for water to flow away.",
         "translationVI": "Lối thoát nước",
-        "relatedCollocates": ["drainage channels", "water runoff routes"],
+        "relatedCollocates": [
+          "drainage channels",
+          "water runoff routes"
+        ],
         "wordForms": {
-          "noun": [{ "form": "path", "meaning": "lối đi" }]
+          "noun": [
+            {
+              "form": "path",
+              "meaning": "lối đi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2245,7 +3249,7 @@
       }
     },
     {
-      "id": 99,
+      "id": "1761813174098-33-98-0994e9a9",
       "targetLexeme": "convince investors and developers",
       "sourceContext": "To convince investors and developers that installing green roofs is worthwhile, economic arguments are still the most important.",
       "phase1Inference": {
@@ -2256,9 +3260,20 @@
         "sentiment": "neutral",
         "definitionEN": "To persuade people who put money into a business and people who build new structures to believe something.",
         "translationVI": "Thuyết phục các nhà đầu tư và nhà phát triển",
-        "relatedCollocates": ["persuade stakeholders", "win over funders"],
+        "relatedCollocates": [
+          "persuade stakeholders",
+          "win over funders"
+        ],
         "wordForms": {
-          "verb": [{ "form": "convince", "meaning": "thuyết phục" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "convince",
+              "meaning": "thuyết phục"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2267,7 +3282,7 @@
       }
     },
     {
-      "id": 100,
+      "id": "1761813174098-33-99-60255032",
       "targetLexeme": "worthwhile",
       "sourceContext": "To convince investors and developers that installing green roofs is worthwhile...",
       "phase1Inference": {
@@ -2278,9 +3293,21 @@
         "sentiment": "positive",
         "definitionEN": "Worth the time, money, or effort spent; of value or importance.",
         "translationVI": "Đáng giá",
-        "relatedCollocates": ["beneficial", "valuable", "a good investment"],
+        "relatedCollocates": [
+          "beneficial",
+          "valuable",
+          "a good investment"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "worthwhile", "meaning": "đáng giá" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "worthwhile",
+              "meaning": "đáng giá"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2289,7 +3316,7 @@
       }
     },
     {
-      "id": 101,
+      "id": "1761813174098-33-100-498f4ae1",
       "targetLexeme": "money saved",
       "sourceContext": "...measuring the money saved by installing natural solutions...",
       "phase1Inference": {
@@ -2300,9 +3327,20 @@
         "sentiment": "positive",
         "definitionEN": "The amount of money that is not spent and is kept for future use.",
         "translationVI": "Tiền tiết kiệm được",
-        "relatedCollocates": ["cost savings", "financial benefits"],
+        "relatedCollocates": [
+          "cost savings",
+          "financial benefits"
+        ],
         "wordForms": {
-          "verb": [{ "form": "save", "meaning": "tiết kiệm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "save",
+              "meaning": "tiết kiệm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2311,7 +3349,7 @@
       }
     },
     {
-      "id": 102,
+      "id": "1761813174098-33-101-7a4a5395",
       "targetLexeme": "protect against flood damage",
       "sourceContext": "...natural solutions to protect against flood damage...",
       "phase1Inference": {
@@ -2327,7 +3365,15 @@
           "prevent flood damage"
         ],
         "wordForms": {
-          "noun": [{ "form": "damage", "meaning": "thiệt hại" }]
+          "noun": [
+            {
+              "form": "damage",
+              "meaning": "thiệt hại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2336,7 +3382,7 @@
       }
     },
     {
-      "id": 103,
+      "id": "1761813174098-33-102-1e7dd8ed",
       "targetLexeme": "expertise... grows",
       "sourceContext": "As the expertise about green roofs grows, official standards have been developed...",
       "phase1Inference": {
@@ -2347,9 +3393,20 @@
         "sentiment": "positive",
         "definitionEN": "When expert skill or knowledge in a particular field increases.",
         "translationVI": "Chuyên môn... tăng lên",
-        "relatedCollocates": ["knowledge increases", "understanding develops"],
+        "relatedCollocates": [
+          "knowledge increases",
+          "understanding develops"
+        ],
         "wordForms": {
-          "noun": [{ "form": "expertise", "meaning": "chuyên môn" }]
+          "noun": [
+            {
+              "form": "expertise",
+              "meaning": "chuyên môn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2358,7 +3415,7 @@
       }
     },
     {
-      "id": 104,
+      "id": "1761813174098-33-103-1c4b638c",
       "targetLexeme": "maintained properly",
       "sourceContext": "...to ensure that they are designed, constructed and maintained properly, and function well.",
       "phase1Inference": {
@@ -2369,9 +3426,20 @@
         "sentiment": "positive",
         "definitionEN": "To be kept in good condition through correct and regular care.",
         "translationVI": "Được bảo trì đúng cách",
-        "relatedCollocates": ["correctly looked after", "properly cared for"],
+        "relatedCollocates": [
+          "correctly looked after",
+          "properly cared for"
+        ],
         "wordForms": {
-          "verb": [{ "form": "maintain", "meaning": "bảo trì" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "maintain",
+              "meaning": "bảo trì"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2380,7 +3448,7 @@
       }
     },
     {
-      "id": 105,
+      "id": "1761813174098-33-104-0032d094",
       "targetLexeme": "hold water over longer periods of time",
       "sourceContext": "For example, ‘blue roofs’ enable buildings to hold water over longer periods of time...",
       "phase1Inference": {
@@ -2391,9 +3459,20 @@
         "sentiment": "positive",
         "definitionEN": "To retain or store water for an extended duration.",
         "translationVI": "Giữ nước trong thời gian dài hơn",
-        "relatedCollocates": ["water retention", "store water"],
+        "relatedCollocates": [
+          "water retention",
+          "store water"
+        ],
         "wordForms": {
-          "verb": [{ "form": "hold", "meaning": "giữ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "hold",
+              "meaning": "giữ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2402,7 +3481,7 @@
       }
     },
     {
-      "id": 106,
+      "id": "1761813174098-33-105-650e24fa",
       "targetLexeme": "draining it away quickly",
       "sourceContext": "...rather than draining it away quickly...",
       "phase1Inference": {
@@ -2413,9 +3492,20 @@
         "sentiment": "neutral",
         "definitionEN": "To remove a liquid rapidly by causing it to flow away from something.",
         "translationVI": "Thoát nước đi nhanh chóng",
-        "relatedCollocates": ["rapid runoff", "quick drainage"],
+        "relatedCollocates": [
+          "rapid runoff",
+          "quick drainage"
+        ],
         "wordForms": {
-          "verb": [{ "form": "drain", "meaning": "thoát nước" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "drain",
+              "meaning": "thoát nước"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2424,7 +3514,7 @@
       }
     },
     {
-      "id": 107,
+      "id": "1761813174098-33-106-2eee366d",
       "targetLexeme": "wilder in nature",
       "sourceContext": "...and ‘brown roofs’ which are wilder in nature and maximise biodiversity.",
       "phase1Inference": {
@@ -2435,9 +3525,20 @@
         "sentiment": "positive",
         "definitionEN": "Having a character that is more like a natural, uncultivated environment.",
         "translationVI": "Hoang dã hơn về bản chất",
-        "relatedCollocates": ["more natural", "less cultivated"],
+        "relatedCollocates": [
+          "more natural",
+          "less cultivated"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "wild", "meaning": "hoang dã" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "wild",
+              "meaning": "hoang dã"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2446,7 +3547,7 @@
       }
     },
     {
-      "id": 108,
+      "id": "1761813174098-33-107-209730d3",
       "targetLexeme": "if the trend continues",
       "sourceContext": "If the trend continues, it could create new jobs and a more vibrant and sustainable local food economy...",
       "phase1Inference": {
@@ -2462,7 +3563,15 @@
           "should this trend go on"
         ],
         "wordForms": {
-          "verb": [{ "form": "continue", "meaning": "tiếp tục" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "continue",
+              "meaning": "tiếp tục"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2471,7 +3580,7 @@
       }
     },
     {
-      "id": 109,
+      "id": "1761813174098-33-108-32c1d781",
       "targetLexeme": "other benefits",
       "sourceContext": "...alongside many other benefits.",
       "phase1Inference": {
@@ -2487,7 +3596,15 @@
           "further positive outcomes"
         ],
         "wordForms": {
-          "noun": [{ "form": "benefit", "meaning": "lợi ích" }]
+          "noun": [
+            {
+              "form": "benefit",
+              "meaning": "lợi ích"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2496,7 +3613,7 @@
       }
     },
     {
-      "id": 110,
+      "id": "1761813174098-33-109-35dcd2bc",
       "targetLexeme": "blue and food-producing roofs",
       "sourceContext": "...to make green, blue and food-producing roofs the norm in cities around the world.",
       "phase1Inference": {
@@ -2507,11 +3624,20 @@
         "sentiment": "positive",
         "definitionEN": "Roofs designed to retain water (blue) and roofs used for growing food.",
         "translationVI": "Mái nhà xanh lam và mái nhà sản xuất thực phẩm",
-        "relatedCollocates": ["sustainable roofs", "functional roofs"],
+        "relatedCollocates": [
+          "sustainable roofs",
+          "functional roofs"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "food-producing", "meaning": "sản xuất thực phẩm" }
-          ]
+            {
+              "form": "food-producing",
+              "meaning": "sản xuất thực phẩm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2519,5 +3645,11 @@
         "content": "The future of urban architecture may see a combination of green, blue, and food-producing roofs becoming standard."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.098Z",
+    "version": "2.0",
+    "originalCount": 110,
+    "migratedCount": 110
+  }
 }

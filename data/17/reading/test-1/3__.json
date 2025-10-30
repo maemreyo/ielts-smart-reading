@@ -4,7 +4,7 @@
   "totalItems": 84,
   "lexicalItems": [
     {
-      "id": 135,
+      "id": "1761813174051-14-0-25599cb6",
       "targetLexeme": "the hunt for (sb/sth)",
       "sourceContext": "...Anna Keay reviews Charles Spencer's book about the hunt for King Charles II...",
       "phase1Inference": {
@@ -15,15 +15,30 @@
         "sentiment": "negative",
         "definitionEN": "A major search or pursuit, often organized, to find and capture someone or something",
         "translationVI": "Cuộc săn lùng (ai đó/cái gì đó)",
-        "relatedCollocates": ["a manhunt", "the search for", "in hunt of"],
+        "relatedCollocates": [
+          "a manhunt",
+          "the search for",
+          "in hunt of"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "hunt", "meaning": "cuộc săn lùng" },
-            { "form": "hunter", "meaning": "thợ săn" }
+            {
+              "form": "hunt",
+              "meaning": "cuộc săn lùng"
+            },
+            {
+              "form": "hunter",
+              "meaning": "thợ săn"
+            }
           ],
-          "verb": [{ "form": "hunt", "meaning": "săn lùng" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "hunt",
+              "meaning": "săn lùng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -32,7 +47,7 @@
       }
     },
     {
-      "id": 136,
+      "id": "1761813174051-14-1-787e502f",
       "targetLexeme": "resounding defeat",
       "sourceContext": "...after his resounding defeat at the Battle of Worcester in September 1651.",
       "phase1Inference": {
@@ -49,10 +64,25 @@
           "suffer a defeat"
         ],
         "wordForms": {
-          "noun": [{ "form": "defeat", "meaning": "sự thất bại" }],
-          "verb": [{ "form": "defeat", "meaning": "đánh bại" }],
-          "adjective": [{ "form": "resounding", "meaning": "vang dội" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "defeat",
+              "meaning": "sự thất bại"
+            }
+          ],
+          "verb": [
+            {
+              "form": "defeat",
+              "meaning": "đánh bại"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "resounding",
+              "meaning": "vang dội"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -61,7 +91,7 @@
       }
     },
     {
-      "id": 137,
+      "id": "1761813174051-14-2-079b42f5",
       "targetLexeme": "sacrificed one of the principles",
       "sourceContext": "...the young Charles II sacrificed one of the very principles his father had died for...",
       "phase1Inference": {
@@ -79,12 +109,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "sacrifice", "meaning": "sự hy sinh" },
-            { "form": "principle", "meaning": "nguyên tắc" }
+            {
+              "form": "sacrifice",
+              "meaning": "sự hy sinh"
+            },
+            {
+              "form": "principle",
+              "meaning": "nguyên tắc"
+            }
           ],
-          "verb": [{ "form": "sacrifice", "meaning": "hy sinh" }],
-          "adjective": [{ "form": "principled", "meaning": "có nguyên tắc" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "sacrifice",
+              "meaning": "hy sinh"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "principled",
+              "meaning": "có nguyên tắc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -93,7 +139,7 @@
       }
     },
     {
-      "id": 138,
+      "id": "1761813174051-14-3-56c176d5",
       "targetLexeme": "did a deal with",
       "sourceContext": "...and did a deal with the Scots, thereby accepting Presbyterianism...",
       "phase1Inference": {
@@ -110,13 +156,24 @@
           "a business deal"
         ],
         "wordForms": {
-          "noun": [{ "form": "deal", "meaning": "thỏa thuận" }],
-          "verb": [
-            { "form": "do a deal", "meaning": "thỏa thuận" },
-            { "form": "deal (with)", "meaning": "giải quyết" }
+          "noun": [
+            {
+              "form": "deal",
+              "meaning": "thỏa thuận"
+            }
           ],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "do a deal",
+              "meaning": "thỏa thuận"
+            },
+            {
+              "form": "deal (with)",
+              "meaning": "giải quyết"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -125,7 +182,7 @@
       }
     },
     {
-      "id": 139,
+      "id": "1761813174051-14-4-28ea3441",
       "targetLexeme": "prompted (sb) to (do sth)",
       "sourceContext": "His arrival in Edinburgh prompted the English Parliamentary army to invade Scotland...",
       "phase1Inference": {
@@ -142,11 +199,29 @@
           "prompt (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "prompt", "meaning": "lời nhắc" }],
-          "verb": [{ "form": "prompt", "meaning": "thúc đẩy" }],
-          "adjective": [{ "form": "prompt", "meaning": "nhanh chóng" }],
+          "noun": [
+            {
+              "form": "prompt",
+              "meaning": "lời nhắc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "prompt",
+              "meaning": "thúc đẩy"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "prompt",
+              "meaning": "nhanh chóng"
+            }
+          ],
           "adverb": [
-            { "form": "promptly", "meaning": "(một cách) nhanh chóng" }
+            {
+              "form": "promptly",
+              "meaning": "(một cách) nhanh chóng"
+            }
           ]
         }
       },
@@ -156,7 +231,7 @@
       }
     },
     {
-      "id": 140,
+      "id": "1761813174051-14-5-04858372",
       "targetLexeme": "a pre-emptive strike",
       "sourceContext": "...to invade Scotland in a pre-emptive strike.",
       "phase1Inference": {
@@ -173,10 +248,25 @@
           "a military strike"
         ],
         "wordForms": {
-          "noun": [{ "form": "strike", "meaning": "cuộc tấn công" }],
-          "verb": [{ "form": "strike", "meaning": "tấn công" }],
-          "adjective": [{ "form": "pre-emptive", "meaning": "phủ đầu" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "strike",
+              "meaning": "cuộc tấn công"
+            }
+          ],
+          "verb": [
+            {
+              "form": "strike",
+              "meaning": "tấn công"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "pre-emptive",
+              "meaning": "phủ đầu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -185,7 +275,7 @@
       }
     },
     {
-      "id": 141,
+      "id": "1761813174051-14-6-6423b12e",
       "targetLexeme": "comprehensively defeated",
       "sourceContext": "After being comprehensively defeated on the meadows outside the city...",
       "phase1Inference": {
@@ -203,19 +293,40 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "defeat", "meaning": "sự thất bại" },
-            { "form": "comprehension", "meaning": "sự hiểu" }
+            {
+              "form": "defeat",
+              "meaning": "sự thất bại"
+            },
+            {
+              "form": "comprehension",
+              "meaning": "sự hiểu"
+            }
           ],
           "verb": [
-            { "form": "defeat", "meaning": "đánh bại" },
-            { "form": "comprehend", "meaning": "hiểu" }
+            {
+              "form": "defeat",
+              "meaning": "đánh bại"
+            },
+            {
+              "form": "comprehend",
+              "meaning": "hiểu"
+            }
           ],
           "adjective": [
-            { "form": "defeated", "meaning": "bị đánh bại" },
-            { "form": "comprehensive", "meaning": "toàn diện" }
+            {
+              "form": "defeated",
+              "meaning": "bị đánh bại"
+            },
+            {
+              "form": "comprehensive",
+              "meaning": "toàn diện"
+            }
           ],
           "adverb": [
-            { "form": "comprehensively", "meaning": "(một cách) toàn diện" }
+            {
+              "form": "comprehensively",
+              "meaning": "(một cách) toàn diện"
+            }
           ]
         }
       },
@@ -225,7 +336,7 @@
       }
     },
     {
-      "id": 142,
+      "id": "1761813174051-14-7-27109f55",
       "targetLexeme": "the subject of a national manhunt",
       "sourceContext": "...the king found himself the subject of a national manhunt...",
       "phase1Inference": {
@@ -243,12 +354,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "subject", "meaning": "đối tượng, chủ đề" },
-            { "form": "manhunt", "meaning": "cuộc truy lùng" }
+            {
+              "form": "subject",
+              "meaning": "đối tượng, chủ đề"
+            },
+            {
+              "form": "manhunt",
+              "meaning": "cuộc truy lùng"
+            }
           ],
-          "verb": null,
-          "adjective": [{ "form": "national", "meaning": "thuộc quốc gia" }],
-          "adverb": [{ "form": "nationally", "meaning": "trên toàn quốc" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "national",
+              "meaning": "thuộc quốc gia"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "nationally",
+              "meaning": "trên toàn quốc"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -257,7 +384,7 @@
       }
     },
     {
-      "id": 143,
+      "id": "1761813174051-14-8-114ecd19",
       "targetLexeme": "a huge sum offered",
       "sourceContext": "...with a huge sum offered for his capture.",
       "phase1Inference": {
@@ -275,16 +402,36 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "sum", "meaning": "số tiền" },
-            { "form": "offer", "meaning": "lời đề nghị" },
-            { "form": "capture", "meaning": "sự bắt giữ" }
+            {
+              "form": "sum",
+              "meaning": "số tiền"
+            },
+            {
+              "form": "offer",
+              "meaning": "lời đề nghị"
+            },
+            {
+              "form": "capture",
+              "meaning": "sự bắt giữ"
+            }
           ],
           "verb": [
-            { "form": "offer", "meaning": "đề nghị" },
-            { "form": "capture", "meaning": "bắt giữ" }
+            {
+              "form": "offer",
+              "meaning": "đề nghị"
+            },
+            {
+              "form": "capture",
+              "meaning": "bắt giữ"
+            }
           ],
-          "adjective": [{ "form": "huge", "meaning": "to lớn" }],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "huge",
+              "meaning": "to lớn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -293,7 +440,7 @@
       }
     },
     {
-      "id": 144,
+      "id": "1761813174051-14-9-64510887",
       "targetLexeme": "close escapes",
       "sourceContext": "...through a series of heart-poundingly close escapes...",
       "phase1Inference": {
@@ -310,13 +457,34 @@
           "heart-pounding (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "escape", "meaning": "cuộc trốn thoát" }],
-          "verb": [{ "form": "escape", "meaning": "trốn thoát" }],
-          "adjective": [
-            { "form": "close", "meaning": "sát sao" },
-            { "form": "heart-pounding", "meaning": "gây thót tim" }
+          "noun": [
+            {
+              "form": "escape",
+              "meaning": "cuộc trốn thoát"
+            }
           ],
-          "adverb": [{ "form": "closely", "meaning": "sát sao" }]
+          "verb": [
+            {
+              "form": "escape",
+              "meaning": "trốn thoát"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "close",
+              "meaning": "sát sao"
+            },
+            {
+              "form": "heart-pounding",
+              "meaning": "gây thót tim"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "closely",
+              "meaning": "sát sao"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -325,7 +493,7 @@
       }
     },
     {
-      "id": 145,
+      "id": "1761813174051-14-10-6c565b55",
       "targetLexeme": "evade (sb/sth)",
       "sourceContext": "...to evade the Parliamentarians before seeking refuge in France.",
       "phase1Inference": {
@@ -342,10 +510,25 @@
           "evade a question"
         ],
         "wordForms": {
-          "noun": [{ "form": "evasion", "meaning": "sự lẩn trốn" }],
-          "verb": [{ "form": "evade", "meaning": "lẩn trốn" }],
-          "adjective": [{ "form": "evasive", "meaning": "lảng tránh" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "evasion",
+              "meaning": "sự lẩn trốn"
+            }
+          ],
+          "verb": [
+            {
+              "form": "evade",
+              "meaning": "lẩn trốn"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "evasive",
+              "meaning": "lảng tránh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -354,7 +537,7 @@
       }
     },
     {
-      "id": 146,
+      "id": "1761813174051-14-11-750184c9",
       "targetLexeme": "seeking refuge in (a place)",
       "sourceContext": "...before seeking refuge in France.",
       "phase1Inference": {
@@ -365,15 +548,30 @@
         "sentiment": "neutral",
         "definitionEN": "To look for a safe place, especially to escape from danger or persecution",
         "translationVI": "Tìm nơi ẩn náu/nơi tị nạn ở (một nơi)",
-        "relatedCollocates": ["take refuge", "a refugee (n)", "seek asylum"],
+        "relatedCollocates": [
+          "take refuge",
+          "a refugee (n)",
+          "seek asylum"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "refuge", "meaning": "nơi ẩn náu" },
-            { "form": "refugee", "meaning": "người tị nạn" }
+            {
+              "form": "refuge",
+              "meaning": "nơi ẩn náu"
+            },
+            {
+              "form": "refugee",
+              "meaning": "người tị nạn"
+            }
           ],
-          "verb": [{ "form": "seek (past: sought)", "meaning": "tìm kiếm" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "seek (past: sought)",
+              "meaning": "tìm kiếm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -382,7 +580,7 @@
       }
     },
     {
-      "id": 147,
+      "id": "1761813174051-14-12-43840250",
       "targetLexeme": "penniless and defeated",
       "sourceContext": "For the next nine years, the penniless and defeated Charles wandered around Europe...",
       "phase1Inference": {
@@ -400,15 +598,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "penny", "meaning": "đồng xu" },
-            { "form": "defeat", "meaning": "sự thất bại" }
+            {
+              "form": "penny",
+              "meaning": "đồng xu"
+            },
+            {
+              "form": "defeat",
+              "meaning": "sự thất bại"
+            }
           ],
-          "verb": [{ "form": "defeat", "meaning": "đánh bại" }],
+          "verb": [
+            {
+              "form": "defeat",
+              "meaning": "đánh bại"
+            }
+          ],
           "adjective": [
-            { "form": "penniless", "meaning": "không tiền" },
-            { "form": "defeated", "meaning": "thất bại" }
+            {
+              "form": "penniless",
+              "meaning": "không tiền"
+            },
+            {
+              "form": "defeated",
+              "meaning": "thất bại"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -417,7 +632,7 @@
       }
     },
     {
-      "id": 148,
+      "id": "1761813174051-14-13-37c26412",
       "targetLexeme": "restoration as king",
       "sourceContext": "Years later, after his restoration as king, Charles II requested a meeting...",
       "phase1Inference": {
@@ -433,10 +648,25 @@
           "restore (sb) to power"
         ],
         "wordForms": {
-          "noun": [{ "form": "restoration", "meaning": "sự phục hồi" }],
-          "verb": [{ "form": "restore", "meaning": "phục hồi" }],
-          "adjective": [{ "form": "restored", "meaning": "được phục hồi" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "restoration",
+              "meaning": "sự phục hồi"
+            }
+          ],
+          "verb": [
+            {
+              "form": "restore",
+              "meaning": "phục hồi"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "restored",
+              "meaning": "được phục hồi"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -445,7 +675,7 @@
       }
     },
     {
-      "id": 149,
+      "id": "1761813174051-14-14-64b329ab",
       "targetLexeme": "diarist (n)",
       "sourceContext": "...with the writer and diarist Samuel Pepys.",
       "phase1Inference": {
@@ -456,15 +686,24 @@
         "sentiment": "neutral",
         "definitionEN": "A person who writes a regular record of their thoughts, feelings, and experiences",
         "translationVI": "Người viết nhật ký",
-        "relatedCollocates": ["write a diary", "a famous diarist"],
+        "relatedCollocates": [
+          "write a diary",
+          "a famous diarist"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "diary", "meaning": "nhật ký" },
-            { "form": "diarist", "meaning": "người viết nhật ký" }
+            {
+              "form": "diary",
+              "meaning": "nhật ký"
+            },
+            {
+              "form": "diarist",
+              "meaning": "người viết nhật ký"
+            }
           ],
-          "verb": null,
-          "adjective": null,
-          "adverb": null
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -473,7 +712,7 @@
       }
     },
     {
-      "id": 150,
+      "id": "1761813174051-14-15-64dc473a",
       "targetLexeme": "commit (sth) to paper",
       "sourceContext": "His intention when asking Pepys to commit his story to paper was to ensure...",
       "phase1Inference": {
@@ -489,10 +728,20 @@
           "write (sth) down"
         ],
         "wordForms": {
-          "noun": [{ "form": "commitment", "meaning": "sự cam kết" }],
-          "verb": [{ "form": "commit", "meaning": "giao phó, viết ra" }],
-          "adjective": null,
-          "adverb": null
+          "noun": [
+            {
+              "form": "commitment",
+              "meaning": "sự cam kết"
+            }
+          ],
+          "verb": [
+            {
+              "form": "commit",
+              "meaning": "giao phó, viết ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -501,7 +750,7 @@
       }
     },
     {
-      "id": 151,
+      "id": "1761813174051-14-16-5cca2b63",
       "targetLexeme": "extraordinary episode",
       "sourceContext": "...this most extraordinary episode was never forgotten.",
       "phase1Inference": {
@@ -518,14 +767,28 @@
           "a brief episode"
         ],
         "wordForms": {
-          "noun": [{ "form": "episode", "meaning": "hồi, tập" }],
-          "verb": null,
+          "noun": [
+            {
+              "form": "episode",
+              "meaning": "hồi, tập"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "extraordinary", "meaning": "phi thường" },
-            { "form": "ordinary", "meaning": "bình thường" }
+            {
+              "form": "extraordinary",
+              "meaning": "phi thường"
+            },
+            {
+              "form": "ordinary",
+              "meaning": "bình thường"
+            }
           ],
           "adverb": [
-            { "form": "extraordinarily", "meaning": "(một cách) phi thường" }
+            {
+              "form": "extraordinarily",
+              "meaning": "(một cách) phi thường"
+            }
           ]
         }
       },
@@ -535,7 +798,7 @@
       }
     },
     {
-      "id": 152,
+      "id": "1761813174051-14-17-788f4325",
       "targetLexeme": "personal recollections",
       "sourceContext": "...the king related in great detail his personal recollections of the six weeks...",
       "phase1Inference": {
@@ -552,10 +815,30 @@
           "personal memories"
         ],
         "wordForms": {
-          "noun": [{ "form": "recollection", "meaning": "hồi ức" }],
-          "verb": [{ "form": "recollect", "meaning": "hồi tưởng" }],
-          "adjective": [{ "form": "personal", "meaning": "cá nhân" }],
-          "adverb": [{ "form": "personally", "meaning": "cá nhân tôi" }]
+          "noun": [
+            {
+              "form": "recollection",
+              "meaning": "hồi ức"
+            }
+          ],
+          "verb": [
+            {
+              "form": "recollect",
+              "meaning": "hồi tưởng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "personal",
+              "meaning": "cá nhân"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "personally",
+              "meaning": "cá nhân tôi"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -564,7 +847,7 @@
       }
     },
     {
-      "id": 153,
+      "id": "1761813174051-14-18-502091ad",
       "targetLexeme": "fugitive (n)",
       "sourceContext": "...the six weeks he had spent as a fugitive.",
       "phase1Inference": {
@@ -575,14 +858,25 @@
         "sentiment": "negative",
         "definitionEN": "A person who is running away or hiding, especially from the police or in a time of war",
         "translationVI": "Kẻ chạy trốn, người tị nạn",
-        "relatedCollocates": ["a fugitive from justice", "on the run"],
+        "relatedCollocates": [
+          "a fugitive from justice",
+          "on the run"
+        ],
         "wordForms": {
-          "noun": [{ "form": "fugitive", "meaning": "kẻ chạy trốn" }],
-          "verb": null,
-          "adjective": [
-            { "form": "fugitive", "meaning": "chạy trốn, thoáng qua" }
+          "noun": [
+            {
+              "form": "fugitive",
+              "meaning": "kẻ chạy trốn"
+            }
           ],
-          "adverb": null
+          "verb": [],
+          "adjective": [
+            {
+              "form": "fugitive",
+              "meaning": "chạy trốn, thoáng qua"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -591,7 +885,7 @@
       }
     },
     {
-      "id": 154,
+      "id": "1761813174051-14-19-5bcef807",
       "targetLexeme": "commenced his story",
       "sourceContext": "...Charles commenced his story: 'After the battle...'",
       "phase1Inference": {
@@ -608,10 +902,20 @@
           "begin/start (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "commencement", "meaning": "sự bắt đầu" }],
-          "verb": [{ "form": "commence", "meaning": "bắt đầu" }],
-          "adjective": null,
-          "adverb": null
+          "noun": [
+            {
+              "form": "commencement",
+              "meaning": "sự bắt đầu"
+            }
+          ],
+          "verb": [
+            {
+              "form": "commence",
+              "meaning": "bắt đầu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -620,7 +924,7 @@
       }
     },
     {
-      "id": 155,
+      "id": "1761813174051-14-20-149fe05c",
       "targetLexeme": "beyond hope of recovery",
       "sourceContext": "...the battle was so absolutely lost as to be beyond hope of recovery...",
       "phase1Inference": {
@@ -638,18 +942,36 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "hope", "meaning": "hy vọng" },
-            { "form": "recovery", "meaning": "sự phục hồi" }
+            {
+              "form": "hope",
+              "meaning": "hy vọng"
+            },
+            {
+              "form": "recovery",
+              "meaning": "sự phục hồi"
+            }
           ],
           "verb": [
-            { "form": "hope", "meaning": "hy vọng" },
-            { "form": "recover", "meaning": "phục hồi" }
+            {
+              "form": "hope",
+              "meaning": "hy vọng"
+            },
+            {
+              "form": "recover",
+              "meaning": "phục hồi"
+            }
           ],
           "adjective": [
-            { "form": "hopeful", "meaning": "đầy hy vọng" },
-            { "form": "hopeless", "meaning": "vô vọng" }
+            {
+              "form": "hopeful",
+              "meaning": "đầy hy vọng"
+            },
+            {
+              "form": "hopeless",
+              "meaning": "vô vọng"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -658,7 +980,7 @@
       }
     },
     {
-      "id": 156,
+      "id": "1761813174051-14-21-2e1dad0c",
       "targetLexeme": "day-by-day retelling",
       "sourceContext": "The day-by-day retelling of the fugitives' doings provides delicious details...",
       "phase1Inference": {
@@ -675,10 +997,25 @@
           "retell a story"
         ],
         "wordForms": {
-          "noun": [{ "form": "retelling", "meaning": "sự kể lại" }],
-          "verb": [{ "form": "retell", "meaning": "kể lại" }],
-          "adjective": [{ "form": "day-by-day", "meaning": "từng ngày" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "retelling",
+              "meaning": "sự kể lại"
+            }
+          ],
+          "verb": [
+            {
+              "form": "retell",
+              "meaning": "kể lại"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "day-by-day",
+              "meaning": "từng ngày"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -687,7 +1024,7 @@
       }
     },
     {
-      "id": 157,
+      "id": "1761813174051-14-22-7e37515b",
       "targetLexeme": "scoured the floor below",
       "sourceContext": "...as the Parliamentary soldiers scoured the floor below.",
       "phase1Inference": {
@@ -704,10 +1041,25 @@
           "search thoroughly"
         ],
         "wordForms": {
-          "noun": [{ "form": "floor", "meaning": "sàn nhà" }],
-          "verb": [{ "form": "scour", "meaning": "lùng sục, cọ rửa" }],
-          "adjective": null,
-          "adverb": [{ "form": "below", "meaning": "bên dưới" }]
+          "noun": [
+            {
+              "form": "floor",
+              "meaning": "sàn nhà"
+            }
+          ],
+          "verb": [
+            {
+              "form": "scour",
+              "meaning": "lùng sục, cọ rửa"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "below",
+              "meaning": "bên dưới"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -716,7 +1068,7 @@
       }
     },
     {
-      "id": 158,
+      "id": "1761813174051-14-23-36dbd6d8",
       "targetLexeme": "preposterous refusal",
       "sourceContext": "...such as the preposterous refusal of Charles's friend...to adopt disguise...",
       "phase1Inference": {
@@ -733,11 +1085,29 @@
           "absurd (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "refusal", "meaning": "sự từ chối" }],
-          "verb": [{ "form": "refuse", "meaning": "từ chối" }],
-          "adjective": [{ "form": "preposterous", "meaning": "vô lý" }],
+          "noun": [
+            {
+              "form": "refusal",
+              "meaning": "sự từ chối"
+            }
+          ],
+          "verb": [
+            {
+              "form": "refuse",
+              "meaning": "từ chối"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "preposterous",
+              "meaning": "vô lý"
+            }
+          ],
           "adverb": [
-            { "form": "preposterously", "meaning": "(một cách) vô lý" }
+            {
+              "form": "preposterously",
+              "meaning": "(một cách) vô lý"
+            }
           ]
         }
       },
@@ -747,7 +1117,7 @@
       }
     },
     {
-      "id": 159,
+      "id": "1761813174051-14-24-56c9f7a7",
       "targetLexeme": "adopt disguise",
       "sourceContext": "...refusal...to adopt disguise on the grounds that it was beneath his dignity...",
       "phase1Inference": {
@@ -764,13 +1134,29 @@
           "adopt a policy"
         ],
         "wordForms": {
-          "noun": [{ "form": "disguise", "meaning": "sự cải trang" }],
-          "verb": [
-            { "form": "adopt", "meaning": "nhận, dùng" },
-            { "form": "disguise", "meaning": "cải trang" }
+          "noun": [
+            {
+              "form": "disguise",
+              "meaning": "sự cải trang"
+            }
           ],
-          "adjective": [{ "form": "disguised", "meaning": "được cải trang" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "adopt",
+              "meaning": "nhận, dùng"
+            },
+            {
+              "form": "disguise",
+              "meaning": "cải trang"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "disguised",
+              "meaning": "được cải trang"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -779,7 +1165,7 @@
       }
     },
     {
-      "id": 160,
+      "id": "1761813174051-14-25-22538a02",
       "targetLexeme": "on the grounds that",
       "sourceContext": "...to adopt disguise on the grounds that it was beneath his dignity...",
       "phase1Inference": {
@@ -796,10 +1182,15 @@
           "justified on the grounds that"
         ],
         "wordForms": {
-          "noun": [{ "form": "ground(s)", "meaning": "lý do, cơ sở" }],
-          "verb": null,
-          "adjective": null,
-          "adverb": null
+          "noun": [
+            {
+              "form": "ground(s)",
+              "meaning": "lý do, cơ sở"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -808,7 +1199,7 @@
       }
     },
     {
-      "id": 161,
+      "id": "1761813174051-14-26-12500a64",
       "targetLexeme": "beneath his dignity",
       "sourceContext": "...it was beneath his dignity...",
       "phase1Inference": {
@@ -825,10 +1216,25 @@
           "lose one's dignity"
         ],
         "wordForms": {
-          "noun": [{ "form": "dignity", "meaning": "phẩm giá" }],
-          "verb": null,
-          "adjective": [{ "form": "dignified", "meaning": "có phẩm giá" }],
-          "adverb": [{ "form": "beneath", "meaning": "bên dưới" }]
+          "noun": [
+            {
+              "form": "dignity",
+              "meaning": "phẩm giá"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "dignified",
+              "meaning": "có phẩm giá"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "beneath",
+              "meaning": "bên dưới"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -837,7 +1243,7 @@
       }
     },
     {
-      "id": 162,
+      "id": "1761813174051-14-27-744cdecb",
       "targetLexeme": "emotional tension",
       "sourceContext": "...and the emotional tension when the secret of the king's presence was... revealed...",
       "phase1Inference": {
@@ -855,16 +1261,31 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "tension", "meaning": "sự căng thẳng" },
-            { "form": "emotion", "meaning": "cảm xúc" }
+            {
+              "form": "tension",
+              "meaning": "sự căng thẳng"
+            },
+            {
+              "form": "emotion",
+              "meaning": "cảm xúc"
+            }
           ],
-          "verb": null,
+          "verb": [],
           "adjective": [
-            { "form": "tense", "meaning": "căng thẳng" },
-            { "form": "emotional", "meaning": "thuộc cảm xúc" }
+            {
+              "form": "tense",
+              "meaning": "căng thẳng"
+            },
+            {
+              "form": "emotional",
+              "meaning": "thuộc cảm xúc"
+            }
           ],
           "adverb": [
-            { "form": "emotionally", "meaning": "(một cách) đầy cảm xúc" }
+            {
+              "form": "emotionally",
+              "meaning": "(một cách) đầy cảm xúc"
+            }
           ]
         }
       },
@@ -874,7 +1295,7 @@
       }
     },
     {
-      "id": 163,
+      "id": "1761813174051-14-28-7a6eede2",
       "targetLexeme": "cautiously revealed",
       "sourceContext": "...the secret of the king's presence was cautiously revealed to his supporters.",
       "phase1Inference": {
@@ -892,13 +1313,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "revelation", "meaning": "sự tiết lộ" },
-            { "form": "caution", "meaning": "sự cẩn trọng" }
+            {
+              "form": "revelation",
+              "meaning": "sự tiết lộ"
+            },
+            {
+              "form": "caution",
+              "meaning": "sự cẩn trọng"
+            }
           ],
-          "verb": [{ "form": "reveal", "meaning": "tiết lộ" }],
-          "adjective": [{ "form": "cautious", "meaning": "cẩn trọng" }],
+          "verb": [
+            {
+              "form": "reveal",
+              "meaning": "tiết lộ"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "cautious",
+              "meaning": "cẩn trọng"
+            }
+          ],
           "adverb": [
-            { "form": "cautiously", "meaning": "(một cách) cẩn trọng" }
+            {
+              "form": "cautiously",
+              "meaning": "(một cách) cẩn trọng"
+            }
           ]
         }
       },
@@ -908,7 +1348,7 @@
       }
     },
     {
-      "id": 164,
+      "id": "1761813174051-14-29-396c7210",
       "targetLexeme": "uncomfortable truth",
       "sourceContext": "Charles's adventures... hide the uncomfortable truth that...",
       "phase1Inference": {
@@ -925,14 +1365,28 @@
           "face the truth"
         ],
         "wordForms": {
-          "noun": [{ "form": "truth", "meaning": "sự thật" }],
-          "verb": null,
+          "noun": [
+            {
+              "form": "truth",
+              "meaning": "sự thật"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "uncomfortable", "meaning": "khó chịu" },
-            { "form": "true", "meaning": "đúng" }
+            {
+              "form": "uncomfortable",
+              "meaning": "khó chịu"
+            },
+            {
+              "form": "true",
+              "meaning": "đúng"
+            }
           ],
           "adverb": [
-            { "form": "uncomfortably", "meaning": "(một cách) khó chịu" }
+            {
+              "form": "uncomfortably",
+              "meaning": "(một cách) khó chịu"
+            }
           ]
         }
       },
@@ -942,7 +1396,7 @@
       }
     },
     {
-      "id": 165,
+      "id": "1761813174051-14-30-1b0c8eb9",
       "targetLexeme": "appalled by (sth)",
       "sourceContext": "...almost everyone in England had been appalled by the execution of his father...",
       "phase1Inference": {
@@ -953,16 +1407,34 @@
         "sentiment": "negative",
         "definitionEN": "To be greatly shocked, horrified, or disgusted by something",
         "translationVI": "Bị kinh hoàng/sốc bởi",
-        "relatedCollocates": ["deeply appalled", "shocked by", "horrified by"],
+        "relatedCollocates": [
+          "deeply appalled",
+          "shocked by",
+          "horrified by"
+        ],
         "wordForms": {
-          "noun": null,
-          "verb": [{ "form": "appal", "meaning": "làm kinh hoàng" }],
+          "noun": [],
+          "verb": [
+            {
+              "form": "appal",
+              "meaning": "làm kinh hoàng"
+            }
+          ],
           "adjective": [
-            { "form": "appalled", "meaning": "bị sốc" },
-            { "form": "appalling", "meaning": "kinh khủng" }
+            {
+              "form": "appalled",
+              "meaning": "bị sốc"
+            },
+            {
+              "form": "appalling",
+              "meaning": "kinh khủng"
+            }
           ],
           "adverb": [
-            { "form": "appallingly", "meaning": "(một cách) kinh khủng" }
+            {
+              "form": "appallingly",
+              "meaning": "(một cách) kinh khủng"
+            }
           ]
         }
       },
@@ -972,7 +1444,7 @@
       }
     },
     {
-      "id": 166,
+      "id": "1761813174051-14-31-154fdf9d",
       "targetLexeme": "firmly bolted their doors",
       "sourceContext": "...had instead firmly bolted their doors.",
       "phase1Inference": {
@@ -983,12 +1455,36 @@
         "sentiment": "negative",
         "definitionEN": "To securely lock one's doors, often out of fear or refusal to allow entry",
         "translationVI": "Cài then cửa chắc chắn",
-        "relatedCollocates": ["lock and bolt", "bolted (adj)", "firmly (adv)"],
+        "relatedCollocates": [
+          "lock and bolt",
+          "bolted (adj)",
+          "firmly (adv)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "bolt", "meaning": "cái then cửa" }],
-          "verb": [{ "form": "bolt", "meaning": "cài then, chạy vụt" }],
-          "adjective": [{ "form": "firm", "meaning": "chắc chắn" }],
-          "adverb": [{ "form": "firmly", "meaning": "(một cách) chắc chắn" }]
+          "noun": [
+            {
+              "form": "bolt",
+              "meaning": "cái then cửa"
+            }
+          ],
+          "verb": [
+            {
+              "form": "bolt",
+              "meaning": "cài then, chạy vụt"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "firm",
+              "meaning": "chắc chắn"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "firmly",
+              "meaning": "(một cách) chắc chắn"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -997,7 +1493,7 @@
       }
     },
     {
-      "id": 167,
+      "id": "1761813174051-14-32-156f8898",
       "targetLexeme": "a foreign invasion force",
       "sourceContext": "...what looked like a foreign invasion force...",
       "phase1Inference": {
@@ -1008,18 +1504,38 @@
         "sentiment": "negative",
         "definitionEN": "An army from another country that enters a country by force in order to take control",
         "translationVI": "Một lực lượng xâm lược nước ngoài",
-        "relatedCollocates": ["an invading force", "repel an invasion"],
+        "relatedCollocates": [
+          "an invading force",
+          "repel an invasion"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "invasion", "meaning": "sự xâm lược" },
-            { "form": "force", "meaning": "lực lượng" }
+            {
+              "form": "invasion",
+              "meaning": "sự xâm lược"
+            },
+            {
+              "form": "force",
+              "meaning": "lực lượng"
+            }
           ],
-          "verb": [{ "form": "invade", "meaning": "xâm lược" }],
+          "verb": [
+            {
+              "form": "invade",
+              "meaning": "xâm lược"
+            }
+          ],
           "adjective": [
-            { "form": "foreign", "meaning": "nước ngoài" },
-            { "form": "invading", "meaning": "đang xâm lược" }
+            {
+              "form": "foreign",
+              "meaning": "nước ngoài"
+            },
+            {
+              "form": "invading",
+              "meaning": "đang xâm lược"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1028,7 +1544,7 @@
       }
     },
     {
-      "id": 168,
+      "id": "1761813174051-14-33-0672d6a1",
       "targetLexeme": "a decade of civil war",
       "sourceContext": "...after almost a decade of civil war, people were desperate...",
       "phase1Inference": {
@@ -1046,12 +1562,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "decade", "meaning": "thập kỷ" },
-            { "form": "war", "meaning": "chiến tranh" }
+            {
+              "form": "decade",
+              "meaning": "thập kỷ"
+            },
+            {
+              "form": "war",
+              "meaning": "chiến tranh"
+            }
           ],
-          "verb": null,
-          "adjective": [{ "form": "civil", "meaning": "dân sự" }],
-          "adverb": null
+          "verb": [],
+          "adjective": [
+            {
+              "form": "civil",
+              "meaning": "dân sự"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1060,7 +1587,7 @@
       }
     },
     {
-      "id": 169,
+      "id": "1761813174051-14-34-4519c42f",
       "targetLexeme": "desperate to avoid (sth)",
       "sourceContext": "...people were desperate to avoid it beginning again.",
       "phase1Inference": {
@@ -1077,11 +1604,29 @@
           "avoid (doing sth)"
         ],
         "wordForms": {
-          "noun": [{ "form": "desperation", "meaning": "sự tuyệt vọng" }],
-          "verb": [{ "form": "avoid", "meaning": "né tránh" }],
-          "adjective": [{ "form": "desperate", "meaning": "tuyệt vọng" }],
+          "noun": [
+            {
+              "form": "desperation",
+              "meaning": "sự tuyệt vọng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "avoid",
+              "meaning": "né tránh"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "desperate",
+              "meaning": "tuyệt vọng"
+            }
+          ],
           "adverb": [
-            { "form": "desperately", "meaning": "(một cách) tuyệt vọng" }
+            {
+              "form": "desperately",
+              "meaning": "(một cách) tuyệt vọng"
+            }
           ]
         }
       },
@@ -1091,7 +1636,7 @@
       }
     },
     {
-      "id": 170,
+      "id": "1761813174051-14-35-0158275a",
       "targetLexeme": "causing eye-rolling among",
       "sourceContext": "...causing eye-rolling among courtiers...",
       "phase1Inference": {
@@ -1109,15 +1654,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "eye-rolling", "meaning": "sự đảo mắt" },
-            { "form": "courtier", "meaning": "cận thần" }
+            {
+              "form": "eye-rolling",
+              "meaning": "sự đảo mắt"
+            },
+            {
+              "form": "courtier",
+              "meaning": "cận thần"
+            }
           ],
           "verb": [
-            { "form": "cause", "meaning": "gây ra" },
-            { "form": "roll (one's) eyes", "meaning": "đảo mắt" }
+            {
+              "form": "cause",
+              "meaning": "gây ra"
+            },
+            {
+              "form": "roll (one's) eyes",
+              "meaning": "đảo mắt"
+            }
           ],
-          "adjective": null,
-          "adverb": null
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1126,7 +1683,7 @@
       }
     },
     {
-      "id": 171,
+      "id": "1761813174051-14-36-5c2db4fb",
       "targetLexeme": "set in train a series of initiatives",
       "sourceContext": "...he set in train a series of initiatives to memorialise it.",
       "phase1Inference": {
@@ -1144,16 +1701,31 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "train", "meaning": "tàu, chuỗi" },
-            { "form": "series", "meaning": "loạt" },
-            { "form": "initiative", "meaning": "sáng kiến" }
+            {
+              "form": "train",
+              "meaning": "tàu, chuỗi"
+            },
+            {
+              "form": "series",
+              "meaning": "loạt"
+            },
+            {
+              "form": "initiative",
+              "meaning": "sáng kiến"
+            }
           ],
           "verb": [
-            { "form": "set in train", "meaning": "khởi động" },
-            { "form": "initiate", "meaning": "khởi xướng" }
+            {
+              "form": "set in train",
+              "meaning": "khởi động"
+            },
+            {
+              "form": "initiate",
+              "meaning": "khởi xướng"
+            }
           ],
-          "adjective": null,
-          "adverb": null
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1162,7 +1734,7 @@
       }
     },
     {
-      "id": 172,
+      "id": "1761813174051-14-37-6d2b4ab1",
       "targetLexeme": "memorialise (v)",
       "sourceContext": "...a series of initiatives to memorialise it.",
       "phase1Inference": {
@@ -1173,14 +1745,30 @@
         "sentiment": "positive",
         "definitionEN": "To create something to preserve the memory of a person or event",
         "translationVI": "Tưởng niệm, kỷ niệm",
-        "relatedCollocates": ["commemorate (synonym)", "in memory of"],
+        "relatedCollocates": [
+          "commemorate (synonym)",
+          "in memory of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "memorial", "meaning": "đài tưởng niệm" }],
-          "verb": [{ "form": "memorialise", "meaning": "tưởng niệm" }],
-          "adjective": [
-            { "form": "memorial", "meaning": "(thuộc) tưởng niệm" }
+          "noun": [
+            {
+              "form": "memorial",
+              "meaning": "đài tưởng niệm"
+            }
           ],
-          "adverb": null
+          "verb": [
+            {
+              "form": "memorialise",
+              "meaning": "tưởng niệm"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "memorial",
+              "meaning": "(thuộc) tưởng niệm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1189,7 +1777,7 @@
       }
     },
     {
-      "id": 173,
+      "id": "1761813174051-14-38-7981816c",
       "targetLexeme": "order of chivalry",
       "sourceContext": "There was to be a new order of chivalry, the Knights of the Royal Oak.",
       "phase1Inference": {
@@ -1207,14 +1795,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "order", "meaning": "dòng, trật tự" },
-            { "form": "chivalry", "meaning": "tinh thần thượng võ" }
+            {
+              "form": "order",
+              "meaning": "dòng, trật tự"
+            },
+            {
+              "form": "chivalry",
+              "meaning": "tinh thần thượng võ"
+            }
           ],
-          "verb": null,
+          "verb": [],
           "adjective": [
-            { "form": "chivalrous", "meaning": "ga lăng, thượng võ" }
+            {
+              "form": "chivalrous",
+              "meaning": "ga lăng, thượng võ"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1223,7 +1820,7 @@
       }
     },
     {
-      "id": 174,
+      "id": "1761813174051-14-39-69ce4a95",
       "targetLexeme": "depicting the episode",
       "sourceContext": "A series of enormous oil paintings depicting the episode were produced...",
       "phase1Inference": {
@@ -1241,12 +1838,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "depiction", "meaning": "sự khắc họa" },
-            { "form": "episode", "meaning": "hồi, giai đoạn" }
+            {
+              "form": "depiction",
+              "meaning": "sự khắc họa"
+            },
+            {
+              "form": "episode",
+              "meaning": "hồi, giai đoạn"
+            }
           ],
-          "verb": [{ "form": "depict", "meaning": "khắc họa" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "depict",
+              "meaning": "khắc họa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1255,7 +1863,7 @@
       }
     },
     {
-      "id": 175,
+      "id": "1761813174051-14-40-0db27c98",
       "targetLexeme": "on the run",
       "sourceContext": "...six similarly enormous paintings of the king on the run.",
       "phase1Inference": {
@@ -1272,10 +1880,20 @@
           "forced to go on the run"
         ],
         "wordForms": {
-          "noun": [{ "form": "run", "meaning": "sự chạy" }],
-          "verb": [{ "form": "run", "meaning": "chạy" }],
-          "adjective": null,
-          "adverb": null
+          "noun": [
+            {
+              "form": "run",
+              "meaning": "sự chạy"
+            }
+          ],
+          "verb": [
+            {
+              "form": "run",
+              "meaning": "chạy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1284,7 +1902,7 @@
       }
     },
     {
-      "id": 176,
+      "id": "1761813174051-14-41-1ba0b377",
       "targetLexeme": "commissioned the artist",
       "sourceContext": "In 1660, Charles II commissioned the artist John Michael Wright to paint...",
       "phase1Inference": {
@@ -1295,15 +1913,34 @@
         "sentiment": "neutral",
         "definitionEN": "To formally choose and pay an artist to create a specific piece of art",
         "translationVI": "Ủy thác/đặt hàng người nghệ sĩ",
-        "relatedCollocates": ["commission a painting", "a private commission"],
+        "relatedCollocates": [
+          "commission a painting",
+          "a private commission"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "commission", "meaning": "sự ủy thác" },
-            { "form": "artist", "meaning": "nghệ sĩ" }
+            {
+              "form": "commission",
+              "meaning": "sự ủy thác"
+            },
+            {
+              "form": "artist",
+              "meaning": "nghệ sĩ"
+            }
           ],
-          "verb": [{ "form": "commission", "meaning": "ủy thác" }],
-          "adjective": [{ "form": "artistic", "meaning": "thuộc nghệ thuật" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "commission",
+              "meaning": "ủy thác"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "artistic",
+              "meaning": "thuộc nghệ thuật"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1312,7 +1949,7 @@
       }
     },
     {
-      "id": 177,
+      "id": "1761813174051-14-42-4c2244d9",
       "targetLexeme": "pulling off such an escape",
       "sourceContext": "...or indeed pulling off such an escape in the first place.",
       "phase1Inference": {
@@ -1329,13 +1966,24 @@
           "manage to escape"
         ],
         "wordForms": {
-          "noun": [{ "form": "escape", "meaning": "cuộc trốn thoát" }],
-          "verb": [
-            { "form": "pull off", "meaning": "thực hiện thành công" },
-            { "form": "escape", "meaning": "trốn thoát" }
+          "noun": [
+            {
+              "form": "escape",
+              "meaning": "cuộc trốn thoát"
+            }
           ],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "pull off",
+              "meaning": "thực hiện thành công"
+            },
+            {
+              "form": "escape",
+              "meaning": "trốn thoát"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1344,7 +1992,7 @@
       }
     },
     {
-      "id": 178,
+      "id": "1761813174051-14-43-50ae40d1",
       "targetLexeme": "pacey, readable prose",
       "sourceContext": "His pacey, readable prose steers deftly clear of...",
       "phase1Inference": {
@@ -1362,15 +2010,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "prose", "meaning": "văn xuôi" },
-            { "form": "pace", "meaning": "nhịp độ" }
+            {
+              "form": "prose",
+              "meaning": "văn xuôi"
+            },
+            {
+              "form": "pace",
+              "meaning": "nhịp độ"
+            }
           ],
-          "verb": null,
+          "verb": [],
           "adjective": [
-            { "form": "pacey", "meaning": "nhanh" },
-            { "form": "readable", "meaning": "dễ đọc" }
+            {
+              "form": "pacey",
+              "meaning": "nhanh"
+            },
+            {
+              "form": "readable",
+              "meaning": "dễ đọc"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1379,7 +2039,7 @@
       }
     },
     {
-      "id": 179,
+      "id": "1761813174051-14-44-0e03c92f",
       "targetLexeme": "steers deftly clear of",
       "sourceContext": "His pacey, readable prose steers deftly clear of modern idioms...",
       "phase1Inference": {
@@ -1396,10 +2056,25 @@
           "skilfully avoid"
         ],
         "wordForms": {
-          "noun": null,
-          "verb": [{ "form": "steer", "meaning": "lái, hướng" }],
-          "adjective": [{ "form": "deft", "meaning": "khéo léo" }],
-          "adverb": [{ "form": "deftly", "meaning": "(một cách) khéo léo" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "steer",
+              "meaning": "lái, hướng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "deft",
+              "meaning": "khéo léo"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "deftly",
+              "meaning": "(một cách) khéo léo"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1408,7 +2083,7 @@
       }
     },
     {
-      "id": 180,
+      "id": "1761813174051-14-45-65eb3190",
       "targetLexeme": "elegantly brings to life",
       "sourceContext": "...and elegantly brings to life the details of the great tale.",
       "phase1Inference": {
@@ -1426,12 +2101,33 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "elegance", "meaning": "sự trang nhã" },
-            { "form": "life", "meaning": "sự sống" }
+            {
+              "form": "elegance",
+              "meaning": "sự trang nhã"
+            },
+            {
+              "form": "life",
+              "meaning": "sự sống"
+            }
           ],
-          "verb": [{ "form": "bring to life", "meaning": "làm sống động" }],
-          "adjective": [{ "form": "elegant", "meaning": "trang nhã" }],
-          "adverb": [{ "form": "elegantly", "meaning": "(một cách) trang nhã" }]
+          "verb": [
+            {
+              "form": "bring to life",
+              "meaning": "làm sống động"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "elegant",
+              "meaning": "trang nhã"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "elegantly",
+              "meaning": "(một cách) trang nhã"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1440,7 +2136,7 @@
       }
     },
     {
-      "id": 181,
+      "id": "1761813174051-14-46-38531418",
       "targetLexeme": "even-handed sympathy for",
       "sourceContext": "He has even-handed sympathy for both the fugitive king and...",
       "phase1Inference": {
@@ -1457,13 +2153,29 @@
           "impartial (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "sympathy", "meaning": "sự đồng cảm" }],
-          "verb": [{ "form": "sympathise", "meaning": "đồng cảm" }],
-          "adjective": [
-            { "form": "even-handed", "meaning": "công bằng" },
-            { "form": "sympathetic", "meaning": "thông cảm" }
+          "noun": [
+            {
+              "form": "sympathy",
+              "meaning": "sự đồng cảm"
+            }
           ],
-          "adverb": null
+          "verb": [
+            {
+              "form": "sympathise",
+              "meaning": "đồng cảm"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "even-handed",
+              "meaning": "công bằng"
+            },
+            {
+              "form": "sympathetic",
+              "meaning": "thông cảm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1472,7 +2184,7 @@
       }
     },
     {
-      "id": 182,
+      "id": "1761813174051-14-47-2bbf590e",
       "targetLexeme": "fierce republican regime",
       "sourceContext": "...and the fierce republican regime that hunted him.",
       "phase1Inference": {
@@ -1490,15 +2202,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "regime", "meaning": "chế độ" },
-            { "form": "republic", "meaning": "nước cộng hòa" }
+            {
+              "form": "regime",
+              "meaning": "chế độ"
+            },
+            {
+              "form": "republic",
+              "meaning": "nước cộng hòa"
+            }
           ],
-          "verb": null,
+          "verb": [],
           "adjective": [
-            { "form": "fierce", "meaning": "mãnh liệt" },
-            { "form": "republican", "meaning": "(thuộc) cộng hòa" }
+            {
+              "form": "fierce",
+              "meaning": "mãnh liệt"
+            },
+            {
+              "form": "republican",
+              "meaning": "(thuộc) cộng hòa"
+            }
           ],
-          "adverb": [{ "form": "fiercely", "meaning": "(một cách) mãnh liệt" }]
+          "adverb": [
+            {
+              "form": "fiercely",
+              "meaning": "(một cách) mãnh liệt"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1507,7 +2236,7 @@
       }
     },
     {
-      "id": 183,
+      "id": "1761813174051-14-48-2c0d041a",
       "targetLexeme": "succeeds in his desire",
       "sourceContext": "...and he succeeds in his desire to explore far more...",
       "phase1Inference": {
@@ -1525,19 +2254,40 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "success", "meaning": "sự thành công" },
-            { "form": "desire", "meaning": "mong muốn" }
+            {
+              "form": "success",
+              "meaning": "sự thành công"
+            },
+            {
+              "form": "desire",
+              "meaning": "mong muốn"
+            }
           ],
           "verb": [
-            { "form": "succeed", "meaning": "thành công" },
-            { "form": "desire", "meaning": "mong muốn" }
+            {
+              "form": "succeed",
+              "meaning": "thành công"
+            },
+            {
+              "form": "desire",
+              "meaning": "mong muốn"
+            }
           ],
           "adjective": [
-            { "form": "successful", "meaning": "thành công" },
-            { "form": "desirable", "meaning": "đáng ao ước" }
+            {
+              "form": "successful",
+              "meaning": "thành công"
+            },
+            {
+              "form": "desirable",
+              "meaning": "đáng ao ước"
+            }
           ],
           "adverb": [
-            { "form": "successfully", "meaning": "(một cách) thành công" }
+            {
+              "form": "successfully",
+              "meaning": "(một cách) thành công"
+            }
           ]
         }
       },
@@ -1547,7 +2297,7 @@
       }
     },
     {
-      "id": 184,
+      "id": "1761813174051-14-49-7f403c6b",
       "targetLexeme": "reason alone",
       "sourceContext": "...which for some will be reason alone to read...",
       "phase1Inference": {
@@ -1558,12 +2308,36 @@
         "sentiment": "neutral",
         "definitionEN": "The single, sufficient reason, without needing any others",
         "translationVI": "Chỉ riêng lý do đó (cũng đủ)",
-        "relatedCollocates": ["the sole reason", "let alone", "reason enough"],
+        "relatedCollocates": [
+          "the sole reason",
+          "let alone",
+          "reason enough"
+        ],
         "wordForms": {
-          "noun": [{ "form": "reason", "meaning": "lý do" }],
-          "verb": [{ "form": "reason", "meaning": "lý luận" }],
-          "adjective": [{ "form": "alone", "meaning": "một mình" }],
-          "adverb": [{ "form": "alone", "meaning": "chỉ" }]
+          "noun": [
+            {
+              "form": "reason",
+              "meaning": "lý do"
+            }
+          ],
+          "verb": [
+            {
+              "form": "reason",
+              "meaning": "lý luận"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "alone",
+              "meaning": "một mình"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "alone",
+              "meaning": "chỉ"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1572,7 +2346,7 @@
       }
     },
     {
-      "id": 185,
+      "id": "1761813174051-14-50-5f4dc751",
       "targetLexeme": "tantalising question",
       "sourceContext": "The tantalising question left, in the end, is that of what it all meant.",
       "phase1Inference": {
@@ -1589,14 +2363,33 @@
           "an intriguing question"
         ],
         "wordForms": {
-          "noun": [{ "form": "question", "meaning": "câu hỏi" }],
-          "verb": [
-            { "form": "tantalise", "meaning": "trêu ngươi" },
-            { "form": "question", "meaning": "hỏi" }
+          "noun": [
+            {
+              "form": "question",
+              "meaning": "câu hỏi"
+            }
           ],
-          "adjective": [{ "form": "tantalising", "meaning": "gây tò mò" }],
+          "verb": [
+            {
+              "form": "tantalise",
+              "meaning": "trêu ngươi"
+            },
+            {
+              "form": "question",
+              "meaning": "hỏi"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "tantalising",
+              "meaning": "gây tò mò"
+            }
+          ],
           "adverb": [
-            { "form": "tantalisingly", "meaning": "(một cách) trêu ngươi" }
+            {
+              "form": "tantalisingly",
+              "meaning": "(một cách) trêu ngươi"
+            }
           ]
         }
       },
@@ -1606,7 +2399,7 @@
       }
     },
     {
-      "id": 186,
+      "id": "1761813174051-14-51-01e3ac61",
       "targetLexeme": "assume disguises",
       "sourceContext": "Did the need to assume disguises, to survive on wit...",
       "phase1Inference": {
@@ -1617,18 +2410,33 @@
         "sentiment": "neutral",
         "definitionEN": "To put on clothes/change appearance to hide one's identity (synonym for 'adopt disguise')",
         "translationVI": "Hóa trang, cải trang",
-        "relatedCollocates": ["assume (a role)", "wear a disguise"],
+        "relatedCollocates": [
+          "assume (a role)",
+          "wear a disguise"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "disguise", "meaning": "sự cải trang" },
-            { "form": "assumption", "meaning": "giả định" }
+            {
+              "form": "disguise",
+              "meaning": "sự cải trang"
+            },
+            {
+              "form": "assumption",
+              "meaning": "giả định"
+            }
           ],
           "verb": [
-            { "form": "assume", "meaning": "cho là, đảm nhận" },
-            { "form": "disguise", "meaning": "cải trang" }
+            {
+              "form": "assume",
+              "meaning": "cho là, đảm nhận"
+            },
+            {
+              "form": "disguise",
+              "meaning": "cải trang"
+            }
           ],
-          "adjective": null,
-          "adverb": null
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1637,7 +2445,7 @@
       }
     },
     {
-      "id": 187,
+      "id": "1761813174051-14-52-5a6cdc97",
       "targetLexeme": "survive on wit and charm",
       "sourceContext": "...to survive on wit and charm alone...",
       "phase1Inference": {
@@ -1655,19 +2463,40 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "wit", "meaning": "sự lanh lợi" },
-            { "form": "charm", "meaning": "sự quyến rũ" },
-            { "form": "survival", "meaning": "sự sống sót" }
+            {
+              "form": "wit",
+              "meaning": "sự lanh lợi"
+            },
+            {
+              "form": "charm",
+              "meaning": "sự quyến rũ"
+            },
+            {
+              "form": "survival",
+              "meaning": "sự sống sót"
+            }
           ],
           "verb": [
-            { "form": "survive", "meaning": "sống sót" },
-            { "form": "charm", "meaning": "quyến rũ" }
+            {
+              "form": "survive",
+              "meaning": "sống sót"
+            },
+            {
+              "form": "charm",
+              "meaning": "quyến rũ"
+            }
           ],
           "adjective": [
-            { "form": "witty", "meaning": "dí dỏm" },
-            { "form": "charming", "meaning": "quyến rũ" }
+            {
+              "form": "witty",
+              "meaning": "dí dỏm"
+            },
+            {
+              "form": "charming",
+              "meaning": "quyến rũ"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1676,7 +2505,7 @@
       }
     },
     {
-      "id": 188,
+      "id": "1761813174051-14-53-27ca7b04",
       "targetLexeme": "trickery and subterfuge",
       "sourceContext": "...to use trickery and subterfuge to escape...",
       "phase1Inference": {
@@ -1687,16 +2516,38 @@
         "sentiment": "negative",
         "definitionEN": "The use of dishonest methods, deceit, or clever tricks to achieve something",
         "translationVI": "Sự lừa lọc và mưu mẹo",
-        "relatedCollocates": ["use trickery", "a clever subterfuge"],
+        "relatedCollocates": [
+          "use trickery",
+          "a clever subterfuge"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "trickery", "meaning": "sự lừa lọc" },
-            { "form": "subterfuge", "meaning": "mưu mẹo" },
-            { "form": "trick", "meaning": "mẹo" }
+            {
+              "form": "trickery",
+              "meaning": "sự lừa lọc"
+            },
+            {
+              "form": "subterfuge",
+              "meaning": "mưu mẹo"
+            },
+            {
+              "form": "trick",
+              "meaning": "mẹo"
+            }
           ],
-          "verb": [{ "form": "trick", "meaning": "lừa" }],
-          "adjective": [{ "form": "tricky", "meaning": "khó, lắt léo" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "trick",
+              "meaning": "lừa"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "tricky",
+              "meaning": "khó, lắt léo"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1705,7 +2556,7 @@
       }
     },
     {
-      "id": 189,
+      "id": "1761813174051-14-54-23a9b97a",
       "targetLexeme": "escape from tight corners",
       "sourceContext": "...to escape from tight corners help form him?",
       "phase1Inference": {
@@ -1723,12 +2574,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "corner", "meaning": "góc" },
-            { "form": "escape", "meaning": "cuộc trốn thoát" }
+            {
+              "form": "corner",
+              "meaning": "góc"
+            },
+            {
+              "form": "escape",
+              "meaning": "cuộc trốn thoát"
+            }
           ],
-          "verb": [{ "form": "escape", "meaning": "trốn thoát" }],
-          "adjective": [{ "form": "tight", "meaning": "chật" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "escape",
+              "meaning": "trốn thoát"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "tight",
+              "meaning": "chật"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1737,7 +2604,7 @@
       }
     },
     {
-      "id": 190,
+      "id": "1761813174051-14-55-55a6e71b",
       "targetLexeme": "doesn't quite hit the mark",
       "sourceContext": "This is the one area where the book doesn't quite hit the mark.",
       "phase1Inference": {
@@ -1754,10 +2621,25 @@
           "miss the mark"
         ],
         "wordForms": {
-          "noun": [{ "form": "mark", "meaning": "dấu, đích" }],
-          "verb": [{ "form": "hit", "meaning": "đánh, trúng" }],
-          "adjective": null,
-          "adverb": [{ "form": "quite", "meaning": "khá, hoàn toàn" }]
+          "noun": [
+            {
+              "form": "mark",
+              "meaning": "dấu, đích"
+            }
+          ],
+          "verb": [
+            {
+              "form": "hit",
+              "meaning": "đánh, trúng"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "quite",
+              "meaning": "khá, hoàn toàn"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1766,7 +2648,7 @@
       }
     },
     {
-      "id": 191,
+      "id": "1761813174051-14-56-2c855b31",
       "targetLexeme": "ineffective, pleasure-loving monarch",
       "sourceContext": "...his depiction...as an ineffective, pleasure-loving monarch...",
       "phase1Inference": {
@@ -1784,17 +2666,35 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "monarch", "meaning": "vua" },
-            { "form": "monarchy", "meaning": "chế độ quân chủ" },
-            { "form": "pleasure", "meaning": "niềm vui" }
+            {
+              "form": "monarch",
+              "meaning": "vua"
+            },
+            {
+              "form": "monarchy",
+              "meaning": "chế độ quân chủ"
+            },
+            {
+              "form": "pleasure",
+              "meaning": "niềm vui"
+            }
           ],
-          "verb": null,
+          "verb": [],
           "adjective": [
-            { "form": "ineffective", "meaning": "không hiệu quả" },
-            { "form": "effective", "meaning": "hiệu quả" },
-            { "form": "pleasure-loving", "meaning": "ham vui" }
+            {
+              "form": "ineffective",
+              "meaning": "không hiệu quả"
+            },
+            {
+              "form": "effective",
+              "meaning": "hiệu quả"
+            },
+            {
+              "form": "pleasure-loving",
+              "meaning": "ham vui"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1803,7 +2703,7 @@
       }
     },
     {
-      "id": 192,
+      "id": "1761813174051-14-57-031ad836",
       "targetLexeme": "doesn't do justice to",
       "sourceContext": "...doesn't do justice to the man (neither is it accurate)...",
       "phase1Inference": {
@@ -1820,13 +2720,29 @@
           "not accurate"
         ],
         "wordForms": {
-          "noun": [{ "form": "justice", "meaning": "sự công bằng" }],
-          "verb": [{ "form": "do justice", "meaning": "phản ánh đúng" }],
-          "adjective": [
-            { "form": "just", "meaning": "công bằng" },
-            { "form": "unjust", "meaning": "bất công" }
+          "noun": [
+            {
+              "form": "justice",
+              "meaning": "sự công bằng"
+            }
           ],
-          "adverb": null
+          "verb": [
+            {
+              "form": "do justice",
+              "meaning": "phản ánh đúng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "just",
+              "meaning": "công bằng"
+            },
+            {
+              "form": "unjust",
+              "meaning": "bất công"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1835,7 +2751,7 @@
       }
     },
     {
-      "id": 193,
+      "id": "1761813174051-14-58-794487c5",
       "targetLexeme": "one niggle aside",
       "sourceContext": "But this one niggle aside, To Catch a King is an excellent read...",
       "phase1Inference": {
@@ -1852,10 +2768,30 @@
           "a minor issue"
         ],
         "wordForms": {
-          "noun": [{ "form": "niggle", "meaning": "sự lấn cấn nhỏ" }],
-          "verb": [{ "form": "niggle", "meaning": "lấn cấn" }],
-          "adjective": [{ "form": "niggling", "meaning": "vụn vặt" }],
-          "adverb": [{ "form": "aside", "meaning": "sang một bên" }]
+          "noun": [
+            {
+              "form": "niggle",
+              "meaning": "sự lấn cấn nhỏ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "niggle",
+              "meaning": "lấn cấn"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "niggling",
+              "meaning": "vụn vặt"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "aside",
+              "meaning": "sang một bên"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1864,7 +2800,7 @@
       }
     },
     {
-      "id": 194,
+      "id": "1761813174051-14-59-45be8f03",
       "targetLexeme": "have a treat in store",
       "sourceContext": "...and those who come to it... will find they have a treat in store.",
       "phase1Inference": {
@@ -1882,15 +2818,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "treat", "meaning": "điều thú vị" },
-            { "form": "store", "meaning": "cửa hàng, kho" }
+            {
+              "form": "treat",
+              "meaning": "điều thú vị"
+            },
+            {
+              "form": "store",
+              "meaning": "cửa hàng, kho"
+            }
           ],
           "verb": [
-            { "form": "treat", "meaning": "đối xử" },
-            { "form": "store", "meaning": "lưu trữ" }
+            {
+              "form": "treat",
+              "meaning": "đối xử"
+            },
+            {
+              "form": "store",
+              "meaning": "lưu trữ"
+            }
           ],
-          "adjective": null,
-          "adverb": null
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1899,7 +2847,7 @@
       }
     },
     {
-      "id": 195,
+      "id": "1761813174051-14-60-662a711f",
       "targetLexeme": "military innovation",
       "sourceContext": "Complete the summary... A: military innovation",
       "phase1Inference": {
@@ -1917,15 +2865,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "innovation", "meaning": "sự đổi mới" },
-            { "form": "innovator", "meaning": "người đổi mới" }
+            {
+              "form": "innovation",
+              "meaning": "sự đổi mới"
+            },
+            {
+              "form": "innovator",
+              "meaning": "người đổi mới"
+            }
           ],
-          "verb": [{ "form": "innovate", "meaning": "đổi mới" }],
+          "verb": [
+            {
+              "form": "innovate",
+              "meaning": "đổi mới"
+            }
+          ],
           "adjective": [
-            { "form": "innovative", "meaning": "mang tính đổi mới" },
-            { "form": "military", "meaning": "thuộc quân sự" }
+            {
+              "form": "innovative",
+              "meaning": "mang tính đổi mới"
+            },
+            {
+              "form": "military",
+              "meaning": "thuộc quân sự"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1934,7 +2899,7 @@
       }
     },
     {
-      "id": 196,
+      "id": "1761813174051-14-61-0fdd14f9",
       "targetLexeme": "large reward",
       "sourceContext": "Complete the summary... B: large reward",
       "phase1Inference": {
@@ -1951,10 +2916,25 @@
           "a huge sum (paraphrase)"
         ],
         "wordForms": {
-          "noun": [{ "form": "reward", "meaning": "phần thưởng" }],
-          "verb": [{ "form": "reward", "meaning": "thưởng" }],
-          "adjective": [{ "form": "rewarding", "meaning": "đáng giá" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "reward",
+              "meaning": "phần thưởng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "reward",
+              "meaning": "thưởng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "rewarding",
+              "meaning": "đáng giá"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1963,7 +2943,7 @@
       }
     },
     {
-      "id": 197,
+      "id": "1761813174051-14-62-1988c47f",
       "targetLexeme": "widespread conspiracy",
       "sourceContext": "Complete the summary... C: widespread conspiracy",
       "phase1Inference": {
@@ -1981,12 +2961,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "conspiracy", "meaning": "âm mưu" },
-            { "form": "conspirator", "meaning": "kẻ âm mưu" }
+            {
+              "form": "conspiracy",
+              "meaning": "âm mưu"
+            },
+            {
+              "form": "conspirator",
+              "meaning": "kẻ âm mưu"
+            }
           ],
-          "verb": [{ "form": "conspire", "meaning": "âm mưu" }],
-          "adjective": [{ "form": "widespread", "meaning": "lan rộng" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "conspire",
+              "meaning": "âm mưu"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "widespread",
+              "meaning": "lan rộng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1995,7 +2991,7 @@
       }
     },
     {
-      "id": 198,
+      "id": "1761813174051-14-63-35b6cdad",
       "targetLexeme": "decisive victory",
       "sourceContext": "Complete the summary... F: decisive victory",
       "phase1Inference": {
@@ -2013,16 +3009,36 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "victory", "meaning": "chiến thắng" },
-            { "form": "decision", "meaning": "quyết định" }
+            {
+              "form": "victory",
+              "meaning": "chiến thắng"
+            },
+            {
+              "form": "decision",
+              "meaning": "quyết định"
+            }
           ],
-          "verb": [{ "form": "decide", "meaning": "quyết định" }],
+          "verb": [
+            {
+              "form": "decide",
+              "meaning": "quyết định"
+            }
+          ],
           "adjective": [
-            { "form": "decisive", "meaning": "quyết định" },
-            { "form": "victorious", "meaning": "chiến thắng" }
+            {
+              "form": "decisive",
+              "meaning": "quyết định"
+            },
+            {
+              "form": "victorious",
+              "meaning": "chiến thắng"
+            }
           ],
           "adverb": [
-            { "form": "decisively", "meaning": "(một cách) quyết đoán" }
+            {
+              "form": "decisively",
+              "meaning": "(một cách) quyết đoán"
+            }
           ]
         }
       },
@@ -2032,7 +3048,7 @@
       }
     },
     {
-      "id": 199,
+      "id": "1761813174051-14-64-6e17d4ff",
       "targetLexeme": "political debate",
       "sourceContext": "Complete the summary... G: political debate",
       "phase1Inference": {
@@ -2050,13 +3066,37 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "debate", "meaning": "cuộc tranh luận" },
-            { "form": "politics", "meaning": "chính trị" },
-            { "form": "politician", "meaning": "chính trị gia" }
+            {
+              "form": "debate",
+              "meaning": "cuộc tranh luận"
+            },
+            {
+              "form": "politics",
+              "meaning": "chính trị"
+            },
+            {
+              "form": "politician",
+              "meaning": "chính trị gia"
+            }
           ],
-          "verb": [{ "form": "debate", "meaning": "tranh luận" }],
-          "adjective": [{ "form": "political", "meaning": "thuộc chính trị" }],
-          "adverb": [{ "form": "politically", "meaning": "về mặt chính trị" }]
+          "verb": [
+            {
+              "form": "debate",
+              "meaning": "tranh luận"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "political",
+              "meaning": "thuộc chính trị"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "politically",
+              "meaning": "về mặt chính trị"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2065,7 +3105,7 @@
       }
     },
     {
-      "id": 200,
+      "id": "1761813174051-14-65-6cf11777",
       "targetLexeme": "strategic alliance",
       "sourceContext": "Complete the summary... H: strategic alliance",
       "phase1Inference": {
@@ -2083,13 +3123,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "alliance", "meaning": "liên minh" },
-            { "form": "strategy", "meaning": "chiến lược" }
+            {
+              "form": "alliance",
+              "meaning": "liên minh"
+            },
+            {
+              "form": "strategy",
+              "meaning": "chiến lược"
+            }
           ],
-          "verb": [{ "form": "ally (with)", "meaning": "liên minh" }],
-          "adjective": [{ "form": "strategic", "meaning": "chiến lược" }],
+          "verb": [
+            {
+              "form": "ally (with)",
+              "meaning": "liên minh"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "strategic",
+              "meaning": "chiến lược"
+            }
+          ],
           "adverb": [
-            { "form": "strategically", "meaning": "(một cách) chiến lược" }
+            {
+              "form": "strategically",
+              "meaning": "(một cách) chiến lược"
+            }
           ]
         }
       },
@@ -2099,7 +3158,7 @@
       }
     },
     {
-      "id": 201,
+      "id": "1761813174051-14-66-6859b3dd",
       "targetLexeme": "popular solution",
       "sourceContext": "Complete the summary... I: popular solution",
       "phase1Inference": {
@@ -2117,15 +3176,37 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "solution", "meaning": "giải pháp" },
-            { "form": "popularity", "meaning": "sự phổ biến" }
+            {
+              "form": "solution",
+              "meaning": "giải pháp"
+            },
+            {
+              "form": "popularity",
+              "meaning": "sự phổ biến"
+            }
           ],
-          "verb": [{ "form": "solve", "meaning": "giải quyết" }],
+          "verb": [
+            {
+              "form": "solve",
+              "meaning": "giải quyết"
+            }
+          ],
           "adjective": [
-            { "form": "popular", "meaning": "phổ biến" },
-            { "form": "unpopular", "meaning": "không phổ biến" }
+            {
+              "form": "popular",
+              "meaning": "phổ biến"
+            },
+            {
+              "form": "unpopular",
+              "meaning": "không phổ biến"
+            }
           ],
-          "adverb": [{ "form": "popularly", "meaning": "(một cách) phổ biến" }]
+          "adverb": [
+            {
+              "form": "popularly",
+              "meaning": "(một cách) phổ biến"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2134,7 +3215,7 @@
       }
     },
     {
-      "id": 202,
+      "id": "1761813174051-14-67-47aa8aed",
       "targetLexeme": "religious conviction",
       "sourceContext": "Complete the summary... J: religious conviction",
       "phase1Inference": {
@@ -2152,15 +3233,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "conviction", "meaning": "sự tin tưởng" },
-            { "form": "religion", "meaning": "tôn giáo" }
+            {
+              "form": "conviction",
+              "meaning": "sự tin tưởng"
+            },
+            {
+              "form": "religion",
+              "meaning": "tôn giáo"
+            }
           ],
-          "verb": null,
+          "verb": [],
           "adjective": [
-            { "form": "religious", "meaning": "thuộc tôn giáo" },
-            { "form": "convinced", "meaning": "bị thuyết phục" }
+            {
+              "form": "religious",
+              "meaning": "thuộc tôn giáo"
+            },
+            {
+              "form": "convinced",
+              "meaning": "bị thuyết phục"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2169,7 +3262,7 @@
       }
     },
     {
-      "id": 203,
+      "id": "1761813174051-14-68-2928dda8",
       "targetLexeme": "considered (sb) to be trustworthy",
       "sourceContext": "Questions 32-35... Charles chose Pepys for the task because he considered him to be trustworthy.",
       "phase1Inference": {
@@ -2187,15 +3280,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "trust", "meaning": "sự tin tưởng" },
-            { "form": "trustworthiness", "meaning": "sự đáng tin" }
+            {
+              "form": "trust",
+              "meaning": "sự tin tưởng"
+            },
+            {
+              "form": "trustworthiness",
+              "meaning": "sự đáng tin"
+            }
           ],
           "verb": [
-            { "form": "trust", "meaning": "tin tưởng" },
-            { "form": "consider", "meaning": "cân nhắc, coi là" }
+            {
+              "form": "trust",
+              "meaning": "tin tưởng"
+            },
+            {
+              "form": "consider",
+              "meaning": "cân nhắc, coi là"
+            }
           ],
-          "adjective": [{ "form": "trustworthy", "meaning": "đáng tin cậy" }],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "trustworthy",
+              "meaning": "đáng tin cậy"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2204,7 +3314,7 @@
       }
     },
     {
-      "id": 204,
+      "id": "1761813174051-14-69-275a6f08",
       "targetLexeme": "lacked sufficient detail",
       "sourceContext": "Questions 32-35... Charles's personal recollection of the escape lacked sufficient detail.",
       "phase1Inference": {
@@ -2222,15 +3332,37 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "lack", "meaning": "sự thiếu hụt" },
-            { "form": "detail", "meaning": "chi tiết" }
+            {
+              "form": "lack",
+              "meaning": "sự thiếu hụt"
+            },
+            {
+              "form": "detail",
+              "meaning": "chi tiết"
+            }
           ],
-          "verb": [{ "form": "lack", "meaning": "thiếu" }],
+          "verb": [
+            {
+              "form": "lack",
+              "meaning": "thiếu"
+            }
+          ],
           "adjective": [
-            { "form": "sufficient", "meaning": "đủ" },
-            { "form": "insufficient", "meaning": "không đủ" }
+            {
+              "form": "sufficient",
+              "meaning": "đủ"
+            },
+            {
+              "form": "insufficient",
+              "meaning": "không đủ"
+            }
           ],
-          "adverb": [{ "form": "sufficiently", "meaning": "(một cách) đầy đủ" }]
+          "adverb": [
+            {
+              "form": "sufficiently",
+              "meaning": "(một cách) đầy đủ"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2239,7 +3371,7 @@
       }
     },
     {
-      "id": 205,
+      "id": "1761813174051-14-70-131e7240",
       "targetLexeme": "reviewer's main purpose",
       "sourceContext": "Questions 36-40... What is the reviewer's main purpose in the first paragraph?",
       "phase1Inference": {
@@ -2257,16 +3389,41 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "purpose", "meaning": "mục đích" },
-            { "form": "review", "meaning": "bài đánh giá" },
-            { "form": "reviewer", "meaning": "người đánh giá" }
+            {
+              "form": "purpose",
+              "meaning": "mục đích"
+            },
+            {
+              "form": "review",
+              "meaning": "bài đánh giá"
+            },
+            {
+              "form": "reviewer",
+              "meaning": "người đánh giá"
+            }
           ],
-          "verb": [{ "form": "review", "meaning": "đánh giá" }],
+          "verb": [
+            {
+              "form": "review",
+              "meaning": "đánh giá"
+            }
+          ],
           "adjective": [
-            { "form": "main", "meaning": "chính" },
-            { "form": "purposeful", "meaning": "có mục đích" }
+            {
+              "form": "main",
+              "meaning": "chính"
+            },
+            {
+              "form": "purposeful",
+              "meaning": "có mục đích"
+            }
           ],
-          "adverb": [{ "form": "mainly", "meaning": "chủ yếu" }]
+          "adverb": [
+            {
+              "form": "mainly",
+              "meaning": "chủ yếu"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2275,7 +3432,7 @@
       }
     },
     {
-      "id": 206,
+      "id": "1761813174051-14-71-4fc823e0",
       "targetLexeme": "give an account of",
       "sourceContext": "...to give an account of the circumstances leading to Charles II's escape.",
       "phase1Inference": {
@@ -2293,17 +3450,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "account", "meaning": "lời kể" },
-            { "form": "circumstance", "meaning": "tình huống" }
+            {
+              "form": "account",
+              "meaning": "lời kể"
+            },
+            {
+              "form": "circumstance",
+              "meaning": "tình huống"
+            }
           ],
           "verb": [
-            { "form": "account (for)", "meaning": "giải thích cho" },
-            { "form": "give (an account)", "meaning": "kể lại" }
+            {
+              "form": "account (for)",
+              "meaning": "giải thích cho"
+            },
+            {
+              "form": "give (an account)",
+              "meaning": "kể lại"
+            }
           ],
           "adjective": [
-            { "form": "circumstantial", "meaning": "thuộc tình huống" }
+            {
+              "form": "circumstantial",
+              "meaning": "thuộc tình huống"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2312,7 +3484,7 @@
       }
     },
     {
-      "id": 207,
+      "id": "1761813174051-14-72-3562c3bb",
       "targetLexeme": "political views",
       "sourceContext": "...to provide details of the Parliamentarians' political views.",
       "phase1Inference": {
@@ -2330,12 +3502,33 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "view", "meaning": "quan điểm" },
-            { "form": "politics", "meaning": "chính trị" }
+            {
+              "form": "view",
+              "meaning": "quan điểm"
+            },
+            {
+              "form": "politics",
+              "meaning": "chính trị"
+            }
           ],
-          "verb": [{ "form": "view", "meaning": "xem, coi" }],
-          "adjective": [{ "form": "political", "meaning": "thuộc chính trị" }],
-          "adverb": [{ "form": "politically", "meaning": "về mặt chính trị" }]
+          "verb": [
+            {
+              "form": "view",
+              "meaning": "xem, coi"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "political",
+              "meaning": "thuộc chính trị"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "politically",
+              "meaning": "về mặt chính trị"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2344,7 +3537,7 @@
       }
     },
     {
-      "id": 208,
+      "id": "1761813174051-14-73-75c22abb",
       "targetLexeme": "fugitives' behaviour",
       "sourceContext": "...examples of the fugitives' behaviour in the third paragraph?",
       "phase1Inference": {
@@ -2362,12 +3555,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "behaviour", "meaning": "hành vi" },
-            { "form": "fugitive", "meaning": "người chạy trốn" }
+            {
+              "form": "behaviour",
+              "meaning": "hành vi"
+            },
+            {
+              "form": "fugitive",
+              "meaning": "người chạy trốn"
+            }
           ],
-          "verb": [{ "form": "behave", "meaning": "cư xử" }],
-          "adjective": [{ "form": "behavioural", "meaning": "thuộc hành vi" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "behave",
+              "meaning": "cư xử"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "behavioural",
+              "meaning": "thuộc hành vi"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2376,7 +3585,7 @@
       }
     },
     {
-      "id": 209,
+      "id": "1761813174051-14-74-6468a6b6",
       "targetLexeme": "badly prepared",
       "sourceContext": "...that Charles's supporters were badly prepared.",
       "phase1Inference": {
@@ -2393,13 +3602,34 @@
           "well-prepared (antonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "preparation", "meaning": "sự chuẩn bị" }],
-          "verb": [{ "form": "prepare", "meaning": "chuẩn bị" }],
-          "adjective": [
-            { "form": "prepared", "meaning": "sẵn sàng" },
-            { "form": "unprepared", "meaning": "không chuẩn bị" }
+          "noun": [
+            {
+              "form": "preparation",
+              "meaning": "sự chuẩn bị"
+            }
           ],
-          "adverb": [{ "form": "badly", "meaning": "tồi, tệ" }]
+          "verb": [
+            {
+              "form": "prepare",
+              "meaning": "chuẩn bị"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "prepared",
+              "meaning": "sẵn sàng"
+            },
+            {
+              "form": "unprepared",
+              "meaning": "không chuẩn bị"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "badly",
+              "meaning": "tồi, tệ"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2408,7 +3638,7 @@
       }
     },
     {
-      "id": 210,
+      "id": "1761813174051-14-75-0af3b9b4",
       "targetLexeme": "misunderstood the motives",
       "sourceContext": "He misunderstood the motives of his opponents.",
       "phase1Inference": {
@@ -2426,15 +3656,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "motive", "meaning": "động cơ" },
-            { "form": "misunderstanding", "meaning": "sự hiểu lầm" }
+            {
+              "form": "motive",
+              "meaning": "động cơ"
+            },
+            {
+              "form": "misunderstanding",
+              "meaning": "sự hiểu lầm"
+            }
           ],
           "verb": [
-            { "form": "misunderstand", "meaning": "hiểu lầm" },
-            { "form": "understand", "meaning": "hiểu" }
+            {
+              "form": "misunderstand",
+              "meaning": "hiểu lầm"
+            },
+            {
+              "form": "understand",
+              "meaning": "hiểu"
+            }
           ],
-          "adjective": [{ "form": "motivated", "meaning": "có động lực" }],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "motivated",
+              "meaning": "có động lực"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2443,7 +3690,7 @@
       }
     },
     {
-      "id": 211,
+      "id": "1761813174051-14-76-28bb1243",
       "targetLexeme": "restore people's faith in",
       "sourceContext": "He aimed to restore people's faith in the monarchy.",
       "phase1Inference": {
@@ -2454,16 +3701,39 @@
         "sentiment": "positive",
         "definitionEN": "To bring back a feeling of trust and confidence in an institution, person, or idea",
         "translationVI": "Khôi phục niềm tin của người dân vào",
-        "relatedCollocates": ["lose faith in", "have faith in", "restore (v)"],
+        "relatedCollocates": [
+          "lose faith in",
+          "have faith in",
+          "restore (v)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "faith", "meaning": "niềm tin" },
-            { "form": "restoration", "meaning": "sự khôi phục" },
-            { "form": "monarchy", "meaning": "chế độ quân chủ" }
+            {
+              "form": "faith",
+              "meaning": "niềm tin"
+            },
+            {
+              "form": "restoration",
+              "meaning": "sự khôi phục"
+            },
+            {
+              "form": "monarchy",
+              "meaning": "chế độ quân chủ"
+            }
           ],
-          "verb": [{ "form": "restore", "meaning": "khôi phục" }],
-          "adjective": [{ "form": "faithful", "meaning": "trung thành" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "restore",
+              "meaning": "khôi phục"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "faithful",
+              "meaning": "trung thành"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2472,7 +3742,7 @@
       }
     },
     {
-      "id": 212,
+      "id": "1761813174051-14-77-13a87fb1",
       "targetLexeme": "driven by a desire",
       "sourceContext": "He was driven by a desire to be popular.",
       "phase1Inference": {
@@ -2489,16 +3759,33 @@
           "driven (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "desire", "meaning": "mong muốn" }],
+          "noun": [
+            {
+              "form": "desire",
+              "meaning": "mong muốn"
+            }
+          ],
           "verb": [
-            { "form": "drive", "meaning": "thúc đẩy" },
-            { "form": "desire", "meaning": "mong muốn" }
+            {
+              "form": "drive",
+              "meaning": "thúc đẩy"
+            },
+            {
+              "form": "desire",
+              "meaning": "mong muốn"
+            }
           ],
           "adjective": [
-            { "form": "driven", "meaning": "có động lực" },
-            { "form": "desirable", "meaning": "đáng ao ước" }
+            {
+              "form": "driven",
+              "meaning": "có động lực"
+            },
+            {
+              "form": "desirable",
+              "meaning": "đáng ao ước"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2507,7 +3794,7 @@
       }
     },
     {
-      "id": 213,
+      "id": "1761813174051-14-78-1dbc1e22",
       "targetLexeme": "unbiased approach",
       "sourceContext": "He takes an unbiased approach to the subject matter.",
       "phase1Inference": {
@@ -2525,15 +3812,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "approach", "meaning": "cách tiếp cận" },
-            { "form": "bias", "meaning": "thành kiến" }
+            {
+              "form": "approach",
+              "meaning": "cách tiếp cận"
+            },
+            {
+              "form": "bias",
+              "meaning": "thành kiến"
+            }
           ],
-          "verb": [{ "form": "approach", "meaning": "tiếp cận" }],
+          "verb": [
+            {
+              "form": "approach",
+              "meaning": "tiếp cận"
+            }
+          ],
           "adjective": [
-            { "form": "unbiased", "meaning": "không thiên vị" },
-            { "form": "biased", "meaning": "thiên vị" }
+            {
+              "form": "unbiased",
+              "meaning": "không thiên vị"
+            },
+            {
+              "form": "biased",
+              "meaning": "thiên vị"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2542,7 +3846,7 @@
       }
     },
     {
-      "id": 214,
+      "id": "1761813174051-14-79-5a1be467",
       "targetLexeme": "language suitable for",
       "sourceContext": "...language that is suitable for a twenty-first-century audience.",
       "phase1Inference": {
@@ -2560,12 +3864,33 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "language", "meaning": "ngôn ngữ" },
-            { "form": "suitability", "meaning": "sự phù hợp" }
+            {
+              "form": "language",
+              "meaning": "ngôn ngữ"
+            },
+            {
+              "form": "suitability",
+              "meaning": "sự phù hợp"
+            }
           ],
-          "verb": [{ "form": "suit", "meaning": "phù hợp" }],
-          "adjective": [{ "form": "suitable", "meaning": "phù hợp" }],
-          "adverb": [{ "form": "suitably", "meaning": "(một cách) phù hợp" }]
+          "verb": [
+            {
+              "form": "suit",
+              "meaning": "phù hợp"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "suitable",
+              "meaning": "phù hợp"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "suitably",
+              "meaning": "(một cách) phù hợp"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2574,7 +3899,7 @@
       }
     },
     {
-      "id": 215,
+      "id": "1761813174051-14-80-620c8555",
       "targetLexeme": "overlooks the impact",
       "sourceContext": "it overlooks the impact of events on ordinary people.",
       "phase1Inference": {
@@ -2591,13 +3916,24 @@
           "ignore the effect"
         ],
         "wordForms": {
-          "noun": [{ "form": "impact", "meaning": "sự ảnh hưởng" }],
-          "verb": [
-            { "form": "overlook", "meaning": "bỏ qua" },
-            { "form": "impact", "meaning": "ảnh hưởng" }
+          "noun": [
+            {
+              "form": "impact",
+              "meaning": "sự ảnh hưởng"
+            }
           ],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "overlook",
+              "meaning": "bỏ qua"
+            },
+            {
+              "form": "impact",
+              "meaning": "ảnh hưởng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2606,7 +3942,7 @@
       }
     },
     {
-      "id": 216,
+      "id": "1761813174051-14-81-67acc05b",
       "targetLexeme": "lacks an analysis of",
       "sourceContext": "it lacks an analysis of prevalent views on monarchy.",
       "phase1Inference": {
@@ -2624,19 +3960,40 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "lack", "meaning": "sự thiếu hụt" },
-            { "form": "analysis", "meaning": "sự phân tích" },
-            { "form": "analyst", "meaning": "nhà phân tích" }
+            {
+              "form": "lack",
+              "meaning": "sự thiếu hụt"
+            },
+            {
+              "form": "analysis",
+              "meaning": "sự phân tích"
+            },
+            {
+              "form": "analyst",
+              "meaning": "nhà phân tích"
+            }
           ],
           "verb": [
-            { "form": "lack", "meaning": "thiếu" },
-            { "form": "analyse", "meaning": "phân tích" }
+            {
+              "form": "lack",
+              "meaning": "thiếu"
+            },
+            {
+              "form": "analyse",
+              "meaning": "phân tích"
+            }
           ],
           "adjective": [
-            { "form": "prevalent", "meaning": "thịnh hành" },
-            { "form": "analytical", "meaning": "thuộc phân tích" }
+            {
+              "form": "prevalent",
+              "meaning": "thịnh hành"
+            },
+            {
+              "form": "analytical",
+              "meaning": "thuộc phân tích"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2645,7 +4002,7 @@
       }
     },
     {
-      "id": 217,
+      "id": "1761813174051-14-82-70a7e11e",
       "targetLexeme": "omits any references to",
       "sourceContext": "it omits any references to the deceit practised by Charles II...",
       "phase1Inference": {
@@ -2663,17 +4020,40 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "omission", "meaning": "sự bỏ sót" },
-            { "form": "reference", "meaning": "sự đề cập" },
-            { "form": "deceit", "meaning": "sự lừa dối" }
+            {
+              "form": "omission",
+              "meaning": "sự bỏ sót"
+            },
+            {
+              "form": "reference",
+              "meaning": "sự đề cập"
+            },
+            {
+              "form": "deceit",
+              "meaning": "sự lừa dối"
+            }
           ],
           "verb": [
-            { "form": "omit", "meaning": "bỏ qua" },
-            { "form": "refer (to)", "meaning": "đề cập" },
-            { "form": "deceive", "meaning": "lừa dối" }
+            {
+              "form": "omit",
+              "meaning": "bỏ qua"
+            },
+            {
+              "form": "refer (to)",
+              "meaning": "đề cập"
+            },
+            {
+              "form": "deceive",
+              "meaning": "lừa dối"
+            }
           ],
-          "adjective": [{ "form": "deceitful", "meaning": "dối trá" }],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "deceitful",
+              "meaning": "dối trá"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2682,7 +4062,7 @@
       }
     },
     {
-      "id": 218,
+      "id": "1761813174051-14-83-4ae7809c",
       "targetLexeme": "lasting influence on him",
       "sourceContext": "...Charles II's experiences had a lasting influence on him.",
       "phase1Inference": {
@@ -2699,16 +4079,33 @@
           "influence (v)"
         ],
         "wordForms": {
-          "noun": [{ "form": "influence", "meaning": "sự ảnh hưởng" }],
+          "noun": [
+            {
+              "form": "influence",
+              "meaning": "sự ảnh hưởng"
+            }
+          ],
           "verb": [
-            { "form": "last", "meaning": "kéo dài" },
-            { "form": "influence", "meaning": "ảnh hưởng" }
+            {
+              "form": "last",
+              "meaning": "kéo dài"
+            },
+            {
+              "form": "influence",
+              "meaning": "ảnh hưởng"
+            }
           ],
           "adjective": [
-            { "form": "lasting", "meaning": "lâu dài" },
-            { "form": "influential", "meaning": "có ảnh hưởng" }
+            {
+              "form": "lasting",
+              "meaning": "lâu dài"
+            },
+            {
+              "form": "influential",
+              "meaning": "có ảnh hưởng"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2716,5 +4113,11 @@
         "content": "His time spent travelling the world had a lasting influence on his writing."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.051Z",
+    "version": "2.0",
+    "originalCount": 84,
+    "migratedCount": 84
+  }
 }

@@ -4,7 +4,7 @@
   "totalItems": 75,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174037-9-0-530fa878",
       "targetLexeme": "adopted the construction techniques",
       "sourceContext": "The Romans, who once controlled areas of Europe, North Africa and Asia Minor, adopted the construction techniques of other civilizations to build tunnels in their territories.",
       "phase1Inference": {
@@ -15,10 +15,25 @@
         "sentiment": "neutral",
         "definitionEN": "To start to use the building methods of other cultures",
         "translationVI": "Áp dụng các kỹ thuật xây dựng",
-        "relatedCollocates": ["adopt a method", "construction techniques"],
+        "relatedCollocates": [
+          "adopt a method",
+          "construction techniques"
+        ],
         "wordForms": {
-          "verb": [{ "form": "adopt", "meaning": "áp dụng" }],
-          "noun": [{ "form": "adoption", "meaning": "sự áp dụng" }]
+          "noun": [
+            {
+              "form": "adoption",
+              "meaning": "sự áp dụng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "adopt",
+              "meaning": "áp dụng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -27,7 +42,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174037-9-1-0d2eccbf",
       "targetLexeme": "civilizations (n)",
       "sourceContext": "...adopted the construction techniques of other civilizations...",
       "phase1Inference": {
@@ -38,9 +53,20 @@
         "sentiment": "neutral",
         "definitionEN": "The society, culture, and way of life of a particular area",
         "translationVI": "Các nền văn minh",
-        "relatedCollocates": ["ancient civilizations", "modern civilization"],
+        "relatedCollocates": [
+          "ancient civilizations",
+          "modern civilization"
+        ],
         "wordForms": {
-          "noun": [{ "form": "civilization", "meaning": "nền văn minh" }]
+          "noun": [
+            {
+              "form": "civilization",
+              "meaning": "nền văn minh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -49,7 +75,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174037-9-2-7ecc98ed",
       "targetLexeme": "reliable supply of water",
       "sourceContext": "...to build tunnels that provided a reliable supply of water to human settlements in dry areas.",
       "phase1Inference": {
@@ -60,9 +86,20 @@
         "sentiment": "positive",
         "definitionEN": "A dependable and consistent source of water",
         "translationVI": "Nguồn cung cấp nước đáng tin cậy",
-        "relatedCollocates": ["a steady supply", "a reliable source"],
+        "relatedCollocates": [
+          "a steady supply",
+          "a reliable source"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "reliable", "meaning": "đáng tin cậy" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "reliable",
+              "meaning": "đáng tin cậy"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -71,7 +108,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174037-9-3-37047384",
       "targetLexeme": "human settlements",
       "sourceContext": "...a reliable supply of water to human settlements in dry areas.",
       "phase1Inference": {
@@ -82,9 +119,20 @@
         "sentiment": "neutral",
         "definitionEN": "Places where people have come to live and build their homes",
         "translationVI": "Các khu định cư của con người",
-        "relatedCollocates": ["early settlements", "permanent settlements"],
+        "relatedCollocates": [
+          "early settlements",
+          "permanent settlements"
+        ],
         "wordForms": {
-          "noun": [{ "form": "settlement", "meaning": "khu định cư" }]
+          "noun": [
+            {
+              "form": "settlement",
+              "meaning": "khu định cư"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -93,7 +141,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174037-9-4-02e15877",
       "targetLexeme": "first millennium BCE",
       "sourceContext": "In the early first millennium BCE, they introduced the qanat method of tunnel construction...",
       "phase1Inference": {
@@ -104,9 +152,20 @@
         "sentiment": "neutral",
         "definitionEN": "The period of time from the year 1000 BC to 1 BC",
         "translationVI": "Thiên niên kỷ thứ nhất trước Công nguyên",
-        "relatedCollocates": ["BCE (Before Common Era)", "ancient history"],
+        "relatedCollocates": [
+          "BCE (Before Common Era)",
+          "ancient history"
+        ],
         "wordForms": {
-          "noun": [{ "form": "millennium", "meaning": "thiên niên kỷ" }]
+          "noun": [
+            {
+              "form": "millennium",
+              "meaning": "thiên niên kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -115,7 +174,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174037-9-5-62212b70",
       "targetLexeme": "kept to its route",
       "sourceContext": "...to ensure that the tunnel kept to its route...",
       "phase1Inference": {
@@ -126,9 +185,20 @@
         "sentiment": "neutral",
         "definitionEN": "To stay on the intended path or course",
         "translationVI": "Giữ đúng tuyến đường",
-        "relatedCollocates": ["stay on course", "follow the route"],
+        "relatedCollocates": [
+          "stay on course",
+          "follow the route"
+        ],
         "wordForms": {
-          "verb": [{ "form": "keep to", "meaning": "giữ đúng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "keep to",
+              "meaning": "giữ đúng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -137,7 +207,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174037-9-6-602311f7",
       "targetLexeme": "digging vertical shafts",
       "sourceContext": "...and then digging vertical shafts down into the ground at regular intervals.",
       "phase1Inference": {
@@ -148,9 +218,20 @@
         "sentiment": "neutral",
         "definitionEN": "Excavating deep, narrow passages that go straight down into the earth",
         "translationVI": "Đào các giếng thẳng đứng",
-        "relatedCollocates": ["mine shaft", "vertical (adj)"],
+        "relatedCollocates": [
+          "mine shaft",
+          "vertical (adj)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "shaft", "meaning": "giếng, hầm" }]
+          "noun": [
+            {
+              "form": "shaft",
+              "meaning": "giếng, hầm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -159,7 +240,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174037-9-7-0961997d",
       "targetLexeme": "at regular intervals",
       "sourceContext": "...digging vertical shafts down into the ground at regular intervals.",
       "phase1Inference": {
@@ -170,11 +251,20 @@
         "sentiment": "neutral",
         "definitionEN": "Repeated with the same amount of time or space between each one",
         "translationVI": "Cách những khoảng đều đặn",
-        "relatedCollocates": ["periodically", "evenly spaced"],
+        "relatedCollocates": [
+          "periodically",
+          "evenly spaced"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "interval", "meaning": "khoảng thời gian/không gian" }
-          ]
+            {
+              "form": "interval",
+              "meaning": "khoảng thời gian/không gian"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -183,7 +273,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174037-9-8-6eed0e6b",
       "targetLexeme": "excavated soil",
       "sourceContext": "The excavated soil was taken up to the surface using the shafts...",
       "phase1Inference": {
@@ -194,9 +284,20 @@
         "sentiment": "neutral",
         "definitionEN": "Earth and rock that has been removed from the ground by digging",
         "translationVI": "Đất đào lên",
-        "relatedCollocates": ["excavate (v)", "earth removal"],
+        "relatedCollocates": [
+          "excavate (v)",
+          "earth removal"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "excavated", "meaning": "được khai quật" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "excavated",
+              "meaning": "được khai quật"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -205,7 +306,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174037-9-9-1203336e",
       "targetLexeme": "provided ventilation",
       "sourceContext": "...which also provided ventilation during the work.",
       "phase1Inference": {
@@ -216,9 +317,20 @@
         "sentiment": "positive",
         "definitionEN": "Supplied a means for fresh air to enter and move around a space",
         "translationVI": "Cung cấp sự thông gió",
-        "relatedCollocates": ["ventilation system", "provide (air)"],
+        "relatedCollocates": [
+          "ventilation system",
+          "provide (air)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "ventilation", "meaning": "sự thông gió" }]
+          "noun": [
+            {
+              "form": "ventilation",
+              "meaning": "sự thông gió"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -227,7 +339,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174037-9-10-2acec183",
       "targetLexeme": "passed on their knowledge",
       "sourceContext": "They later passed on their knowledge to the Romans...",
       "phase1Inference": {
@@ -238,9 +350,20 @@
         "sentiment": "positive",
         "definitionEN": "To give one's skills or information to a younger generation or another group",
         "translationVI": "Truyền lại kiến thức",
-        "relatedCollocates": ["pass down (knowledge)", "share (knowledge)"],
+        "relatedCollocates": [
+          "pass down (knowledge)",
+          "share (knowledge)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "pass on", "meaning": "truyền lại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "pass on",
+              "meaning": "truyền lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -249,7 +372,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174037-9-11-2d70931a",
       "targetLexeme": "equipped with handholds and footholds",
       "sourceContext": "The shafts were equipped with handholds and footholds to help those climbing in and out of them...",
       "phase1Inference": {
@@ -260,12 +383,24 @@
         "sentiment": "neutral",
         "definitionEN": "Fitted with places to put one's hands and feet to make climbing easier",
         "translationVI": "Được trang bị chỗ bám tay và chỗ đặt chân",
-        "relatedCollocates": ["climbing holds", "provide (a grip)"],
+        "relatedCollocates": [
+          "climbing holds",
+          "provide (a grip)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "handhold", "meaning": "chỗ bám tay" },
-            { "form": "foothold", "meaning": "chỗ đặt chân" }
-          ]
+            {
+              "form": "handhold",
+              "meaning": "chỗ bám tay"
+            },
+            {
+              "form": "foothold",
+              "meaning": "chỗ đặt chân"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -274,7 +409,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174037-9-12-5ebb311d",
       "targetLexeme": "hung a plumb line",
       "sourceContext": "...Romans hung a plumb line from a rod placed across the top of each shaft...",
       "phase1Inference": {
@@ -285,9 +420,20 @@
         "sentiment": "neutral",
         "definitionEN": "To suspend a cord with a weight at the bottom to determine verticality",
         "translationVI": "Treo một dây dọi",
-        "relatedCollocates": ["plumb bob", "vertical alignment"],
+        "relatedCollocates": [
+          "plumb bob",
+          "vertical alignment"
+        ],
         "wordForms": {
-          "noun": [{ "form": "plumb line", "meaning": "dây dọi" }]
+          "noun": [
+            {
+              "form": "plumb line",
+              "meaning": "dây dọi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -296,7 +442,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174037-9-13-40ec0478",
       "targetLexeme": "determine the slope of the tunnel",
       "sourceContext": "...and to determine the slope of the tunnel.",
       "phase1Inference": {
@@ -312,7 +458,15 @@
           "measure the (gradient)"
         ],
         "wordForms": {
-          "verb": [{ "form": "determine", "meaning": "xác định" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "determine",
+              "meaning": "xác định"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -321,7 +475,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174037-9-14-17613f85",
       "targetLexeme": "drain the lake",
       "sourceContext": "The 5.6-kilometer-long Claudius tunnel, built in 41 CE to drain the Fucine Lake in central Italy...",
       "phase1Inference": {
@@ -332,9 +486,20 @@
         "sentiment": "neutral",
         "definitionEN": "To remove the water from a lake, typically by channeling it away",
         "translationVI": "Tháo nước hồ",
-        "relatedCollocates": ["drainage (system)", "reclaim land"],
+        "relatedCollocates": [
+          "drainage (system)",
+          "reclaim land"
+        ],
         "wordForms": {
-          "verb": [{ "form": "drain", "meaning": "tháo nước" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "drain",
+              "meaning": "tháo nước"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -343,7 +508,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174037-9-15-458ac9a5",
       "targetLexeme": "counter-excavation method",
       "sourceContext": "...a second method of tunnel construction appeared called the counter-excavation method, in which the tunnel was constructed from both ends.",
       "phase1Inference": {
@@ -354,9 +519,20 @@
         "sentiment": "neutral",
         "definitionEN": "A technique where a tunnel is built by digging from both opposite ends towards the middle",
         "translationVI": "Phương pháp đào đối hướng",
-        "relatedCollocates": ["excavation", "from both ends"],
+        "relatedCollocates": [
+          "excavation",
+          "from both ends"
+        ],
         "wordForms": {
-          "noun": [{ "form": "method", "meaning": "phương pháp" }]
+          "noun": [
+            {
+              "form": "method",
+              "meaning": "phương pháp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -365,7 +541,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174037-9-16-5ac5159b",
       "targetLexeme": "not a practical alternative",
       "sourceContext": "...when the qanat method was not a practical alternative.",
       "phase1Inference": {
@@ -376,9 +552,20 @@
         "sentiment": "negative",
         "definitionEN": "Not a feasible or sensible option",
         "translationVI": "Không phải là một giải pháp thay thế khả thi",
-        "relatedCollocates": ["not a viable option", "impractical"],
+        "relatedCollocates": [
+          "not a viable option",
+          "impractical"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "practical", "meaning": "thực tế" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "practical",
+              "meaning": "thực tế"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -387,7 +574,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174037-9-17-77ed621f",
       "targetLexeme": "advanced knowledge of surveying",
       "sourceContext": "This method required greater planning and advanced knowledge of surveying, mathematics and geometry...",
       "phase1Inference": {
@@ -398,9 +585,20 @@
         "sentiment": "positive",
         "definitionEN": "A high level of understanding of the science of measuring land and distances",
         "translationVI": "Kiến thức trắc địa nâng cao",
-        "relatedCollocates": ["surveying (equipment)", "land surveyor"],
+        "relatedCollocates": [
+          "surveying (equipment)",
+          "land surveyor"
+        ],
         "wordForms": {
-          "noun": [{ "form": "surveying", "meaning": "ngành trắc địa" }]
+          "noun": [
+            {
+              "form": "surveying",
+              "meaning": "ngành trắc địa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -409,7 +607,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174037-9-18-6fa3c0b6",
       "targetLexeme": "meet correctly",
       "sourceContext": "...as both ends of a tunnel had to meet correctly at the center of the mountain.",
       "phase1Inference": {
@@ -420,9 +618,20 @@
         "sentiment": "positive",
         "definitionEN": "To join together at the right point with precision",
         "translationVI": "Gặp nhau một cách chính xác",
-        "relatedCollocates": ["align perfectly", "join up"],
+        "relatedCollocates": [
+          "align perfectly",
+          "join up"
+        ],
         "wordForms": {
-          "verb": [{ "form": "meet", "meaning": "gặp nhau" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "meet",
+              "meaning": "gặp nhau"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -431,7 +640,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174037-9-19-569fab58",
       "targetLexeme": "encountered geological problems",
       "sourceContext": "Adjustments to the direction of the tunnel also had to be made whenever builders encountered geological problems...",
       "phase1Inference": {
@@ -442,9 +651,20 @@
         "sentiment": "negative",
         "definitionEN": "To face or experience difficulties related to the earth's physical structure and substance",
         "translationVI": "Gặp phải các vấn đề địa chất",
-        "relatedCollocates": ["face (problems)", "geological (survey)"],
+        "relatedCollocates": [
+          "face (problems)",
+          "geological (survey)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "encounter", "meaning": "gặp phải" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "encounter",
+              "meaning": "gặp phải"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -453,7 +673,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174037-9-20-0cf8e544",
       "targetLexeme": "deviated from its set path",
       "sourceContext": "...or when it deviated from its set path.",
       "phase1Inference": {
@@ -464,9 +684,20 @@
         "sentiment": "negative",
         "definitionEN": "To depart or stray from the established or intended course",
         "translationVI": "Lệch khỏi lộ trình đã định",
-        "relatedCollocates": ["stray from the path", "deviation (n)"],
+        "relatedCollocates": [
+          "stray from the path",
+          "deviation (n)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "deviate", "meaning": "lệch hướng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "deviate",
+              "meaning": "lệch hướng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -475,7 +706,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174037-9-21-0d13f03a",
       "targetLexeme": "constantly checked",
       "sourceContext": "They constantly checked the tunnel’s advancing direction...",
       "phase1Inference": {
@@ -486,9 +717,20 @@
         "sentiment": "neutral",
         "definitionEN": "To monitor or examine something continuously or very frequently",
         "translationVI": "Kiểm tra liên tục",
-        "relatedCollocates": ["regularly (checked)", "monitor (constantly)"],
+        "relatedCollocates": [
+          "regularly (checked)",
+          "monitor (constantly)"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "constantly", "meaning": "liên tục" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "constantly",
+              "meaning": "liên tục"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -497,7 +739,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174037-9-22-63ef00de",
       "targetLexeme": "advancing direction",
       "sourceContext": "...checked the tunnel’s advancing direction, for example, by looking back at the light that penetrated through the tunnel mouth...",
       "phase1Inference": {
@@ -508,9 +750,20 @@
         "sentiment": "neutral",
         "definitionEN": "The direction in which something is moving forward",
         "translationVI": "Hướng tiến tới",
-        "relatedCollocates": ["direction of travel", "forward (movement)"],
+        "relatedCollocates": [
+          "direction of travel",
+          "forward (movement)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "advance", "meaning": "tiến lên" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "advance",
+              "meaning": "tiến lên"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -519,7 +772,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174037-9-23-0eef968d",
       "targetLexeme": "penetrated through",
       "sourceContext": "...the light that penetrated through the tunnel mouth...",
       "phase1Inference": {
@@ -530,9 +783,20 @@
         "sentiment": "neutral",
         "definitionEN": "To pass into or through something",
         "translationVI": "Xuyên qua",
-        "relatedCollocates": ["pass through", "shine through"],
+        "relatedCollocates": [
+          "pass through",
+          "shine through"
+        ],
         "wordForms": {
-          "verb": [{ "form": "penetrate", "meaning": "xuyên qua" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "penetrate",
+              "meaning": "xuyên qua"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -541,7 +805,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174037-9-24-3e6e82a2",
       "targetLexeme": "made corrections",
       "sourceContext": "...and made corrections whenever necessary.",
       "phase1Inference": {
@@ -552,9 +816,20 @@
         "sentiment": "positive",
         "definitionEN": "To make changes to something in order to make it accurate or right",
         "translationVI": "Thực hiện các điều chỉnh",
-        "relatedCollocates": ["make adjustments", "correct (errors)"],
+        "relatedCollocates": [
+          "make adjustments",
+          "correct (errors)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "correct", "meaning": "sửa chữa" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "correct",
+              "meaning": "sửa chữa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -563,7 +838,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174037-9-25-42c6e527",
       "targetLexeme": "Large deviations",
       "sourceContext": "Large deviations could happen, and they could result in one end of the tunnel not being usable.",
       "phase1Inference": {
@@ -574,9 +849,20 @@
         "sentiment": "negative",
         "definitionEN": "Significant departures from an established course or standard",
         "translationVI": "Những sai lệch lớn",
-        "relatedCollocates": ["major (deviations)", "slight (deviations)"],
+        "relatedCollocates": [
+          "major (deviations)",
+          "slight (deviations)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "deviation", "meaning": "sự sai lệch" }]
+          "noun": [
+            {
+              "form": "deviation",
+              "meaning": "sự sai lệch"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -585,7 +871,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174037-9-26-1c2cde6a",
       "targetLexeme": "An inscription",
       "sourceContext": "An inscription written on the side of a 428-meter tunnel, built by the Romans...",
       "phase1Inference": {
@@ -596,9 +882,20 @@
         "sentiment": "neutral",
         "definitionEN": "Words inscribed, as on a monument or in a book",
         "translationVI": "Một dòng chữ khắc",
-        "relatedCollocates": ["engraving", "carved text"],
+        "relatedCollocates": [
+          "engraving",
+          "carved text"
+        ],
         "wordForms": {
-          "verb": [{ "form": "inscribe", "meaning": "khắc" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "inscribe",
+              "meaning": "khắc"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -607,7 +904,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174037-9-27-31371fdc",
       "targetLexeme": "aqueduct system",
       "sourceContext": "...as part of the Saldae aqueduct system in modern-day Algeria...",
       "phase1Inference": {
@@ -618,9 +915,20 @@
         "sentiment": "neutral",
         "definitionEN": "A network of artificial channels for conveying water, typically in the form of a bridge across a valley or other gap",
         "translationVI": "Hệ thống cống dẫn nước",
-        "relatedCollocates": ["Roman aqueduct", "water supply"],
+        "relatedCollocates": [
+          "Roman aqueduct",
+          "water supply"
+        ],
         "wordForms": {
-          "noun": [{ "form": "aqueduct", "meaning": "cống dẫn nước" }]
+          "noun": [
+            {
+              "form": "aqueduct",
+              "meaning": "cống dẫn nước"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -629,7 +937,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174037-9-28-64d303e5",
       "targetLexeme": "missed each other",
       "sourceContext": "...describes how the two teams of builders missed each other in the mountain...",
       "phase1Inference": {
@@ -640,9 +948,20 @@
         "sentiment": "negative",
         "definitionEN": "To fail to meet or connect at the intended point",
         "translationVI": "Lệch nhau",
-        "relatedCollocates": ["failed to meet", "pass by each other"],
+        "relatedCollocates": [
+          "failed to meet",
+          "pass by each other"
+        ],
         "wordForms": {
-          "verb": [{ "form": "miss", "meaning": "bỏ lỡ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "miss",
+              "meaning": "bỏ lỡ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -651,7 +970,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174037-9-29-12baf33a",
       "targetLexeme": "lateral link",
       "sourceContext": "...and how the later construction of a lateral link between both corridors corrected the initial error.",
       "phase1Inference": {
@@ -662,9 +981,20 @@
         "sentiment": "positive",
         "definitionEN": "A connecting passage that runs sideways",
         "translationVI": "Đường nối ngang",
-        "relatedCollocates": ["side passage", "connecting corridor"],
+        "relatedCollocates": [
+          "side passage",
+          "connecting corridor"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "lateral", "meaning": "ở bên" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "lateral",
+              "meaning": "ở bên"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -673,7 +1003,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174037-9-30-2683a511",
       "targetLexeme": "corrected the initial error",
       "sourceContext": "...corrected the initial error.",
       "phase1Inference": {
@@ -684,9 +1014,20 @@
         "sentiment": "positive",
         "definitionEN": "To fix the first mistake that was made",
         "translationVI": "Đã sửa lỗi ban đầu",
-        "relatedCollocates": ["fix the (error)", "initial (mistake)"],
+        "relatedCollocates": [
+          "fix the (error)",
+          "initial (mistake)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "correction", "meaning": "sự sửa chữa" }]
+          "noun": [
+            {
+              "form": "correction",
+              "meaning": "sự sửa chữa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -695,7 +1036,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174037-9-31-43e49e07",
       "targetLexeme": "mineral extraction",
       "sourceContext": "Remarkably, a modern road still uses this tunnel today. Tunnels were also built for mineral extraction.",
       "phase1Inference": {
@@ -706,9 +1047,20 @@
         "sentiment": "neutral",
         "definitionEN": "The process of removing valuable minerals from the earth",
         "translationVI": "Khai thác khoáng sản",
-        "relatedCollocates": ["mining", "ore extraction"],
+        "relatedCollocates": [
+          "mining",
+          "ore extraction"
+        ],
         "wordForms": {
-          "noun": [{ "form": "extraction", "meaning": "sự khai thác" }]
+          "noun": [
+            {
+              "form": "extraction",
+              "meaning": "sự khai thác"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -717,7 +1069,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174037-9-32-36a31855",
       "targetLexeme": "locate a mineral vein",
       "sourceContext": "Miners would locate a mineral vein and then pursue it with shafts and tunnels underground.",
       "phase1Inference": {
@@ -728,9 +1080,20 @@
         "sentiment": "neutral",
         "definitionEN": "To find the location of a long, narrow deposit of a mineral in rock",
         "translationVI": "Xác định vị trí một vỉa khoáng sản",
-        "relatedCollocates": ["a vein of (gold)", "prospecting"],
+        "relatedCollocates": [
+          "a vein of (gold)",
+          "prospecting"
+        ],
         "wordForms": {
-          "noun": [{ "form": "vein", "meaning": "vỉa, mạch" }]
+          "noun": [
+            {
+              "form": "vein",
+              "meaning": "vỉa, mạch"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -739,7 +1102,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174037-9-33-029ca165",
       "targetLexeme": "sole purpose",
       "sourceContext": "When the sole purpose of a tunnel was mineral extraction, construction required less planning...",
       "phase1Inference": {
@@ -750,9 +1113,20 @@
         "sentiment": "neutral",
         "definitionEN": "The one and only reason for something",
         "translationVI": "Mục đích duy nhất",
-        "relatedCollocates": ["the only (purpose)", "the main (goal)"],
+        "relatedCollocates": [
+          "the only (purpose)",
+          "the main (goal)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "sole", "meaning": "duy nhất" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "sole",
+              "meaning": "duy nhất"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -761,7 +1135,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174037-9-34-0149b8ed",
       "targetLexeme": "carefully planned and carried out",
       "sourceContext": "Roman tunnel projects were carefully planned and carried out.",
       "phase1Inference": {
@@ -772,9 +1146,20 @@
         "sentiment": "positive",
         "definitionEN": "To be meticulously organized and executed",
         "translationVI": "Được lên kế hoạch và thực hiện cẩn thận",
-        "relatedCollocates": ["well-planned", "carefully executed"],
+        "relatedCollocates": [
+          "well-planned",
+          "carefully executed"
+        ],
         "wordForms": {
-          "verb": [{ "form": "carry out", "meaning": "thực hiện" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "carry out",
+              "meaning": "thực hiện"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -783,7 +1168,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174037-9-35-6b9387d8",
       "targetLexeme": "straightforward (adj)",
       "sourceContext": "The qanat construction method was usually faster than the counter-excavation method as it was more straightforward.",
       "phase1Inference": {
@@ -794,9 +1179,20 @@
         "sentiment": "positive",
         "definitionEN": "Uncomplicated and easy to do or understand",
         "translationVI": "Đơn giản, thẳng thắn",
-        "relatedCollocates": ["simple", "easy to understand"],
+        "relatedCollocates": [
+          "simple",
+          "easy to understand"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "straightforward", "meaning": "thẳng thắn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "straightforward",
+              "meaning": "thẳng thắn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -805,7 +1201,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174037-9-36-7f43c3d3",
       "targetLexeme": "employed a technique",
       "sourceContext": "When the rock was hard, the Romans employed a technique called fire quenching...",
       "phase1Inference": {
@@ -816,9 +1212,20 @@
         "sentiment": "neutral",
         "definitionEN": "To make use of a particular method or skill",
         "translationVI": "Sử dụng một kỹ thuật",
-        "relatedCollocates": ["use a (technique)", "apply a (method)"],
+        "relatedCollocates": [
+          "use a (technique)",
+          "apply a (method)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "employ", "meaning": "sử dụng, thuê" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "employ",
+              "meaning": "sử dụng, thuê"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -827,7 +1234,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174037-9-37-4ed75f06",
       "targetLexeme": "fire quenching",
       "sourceContext": "...a technique called fire quenching which consisted of heating the rock with fire, and then suddenly cooling it with cold water so that it would crack.",
       "phase1Inference": {
@@ -838,9 +1245,21 @@
         "sentiment": "neutral",
         "definitionEN": "A method of breaking rock by heating it with fire and then rapidly cooling it with water to cause it to fracture",
         "translationVI": "Làm nguội bằng lửa (để phá đá)",
-        "relatedCollocates": ["heating", "cooling", "crack"],
+        "relatedCollocates": [
+          "heating",
+          "cooling",
+          "crack"
+        ],
         "wordForms": {
-          "verb": [{ "form": "quench", "meaning": "làm nguội, dập tắt" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "quench",
+              "meaning": "làm nguội, dập tắt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -849,7 +1268,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174037-9-38-297491c3",
       "targetLexeme": "progress through hard rock",
       "sourceContext": "Progress through hard rock could be very slow, and it was not uncommon for tunnels to take years, if not decades, to be built.",
       "phase1Inference": {
@@ -860,9 +1279,20 @@
         "sentiment": "negative",
         "definitionEN": "Forward movement or advancement through solid, difficult-to-break rock",
         "translationVI": "Sự tiến triển qua đá cứng",
-        "relatedCollocates": ["slow (progress)", "make (progress)"],
+        "relatedCollocates": [
+          "slow (progress)",
+          "make (progress)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "progress", "meaning": "sự tiến bộ" }]
+          "noun": [
+            {
+              "form": "progress",
+              "meaning": "sự tiến bộ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -871,7 +1301,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174037-9-39-602d35cd",
       "targetLexeme": "not uncommon",
       "sourceContext": "...it was not uncommon for tunnels to take years, if not decades, to be built.",
       "phase1Inference": {
@@ -882,9 +1312,20 @@
         "sentiment": "neutral",
         "definitionEN": "Fairly common; happening often",
         "translationVI": "Không phải là hiếm",
-        "relatedCollocates": ["quite common", "fairly frequent"],
+        "relatedCollocates": [
+          "quite common",
+          "fairly frequent"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "uncommon", "meaning": "không phổ biến" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "uncommon",
+              "meaning": "không phổ biến"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -893,7 +1334,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174037-9-40-2a71bb74",
       "targetLexeme": "if not decades",
       "sourceContext": "...to take years, if not decades, to be built.",
       "phase1Inference": {
@@ -904,9 +1345,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to suggest that the actual number or amount may be even larger or more extreme than the one just mentioned",
         "translationVI": "Nếu không muốn nói là hàng thập kỷ",
-        "relatedCollocates": ["if not more", "possibly even"],
+        "relatedCollocates": [
+          "if not more",
+          "possibly even"
+        ],
         "wordForms": {
-          "noun": [{ "form": "decade", "meaning": "thập kỷ" }]
+          "noun": [
+            {
+              "form": "decade",
+              "meaning": "thập kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -915,7 +1367,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174037-9-41-231e5ecf",
       "targetLexeme": "construction marks",
       "sourceContext": "Construction marks left on a Roman tunnel in Bologna show that the rate of advance through solid rock was 30 centimeters per day.",
       "phase1Inference": {
@@ -926,9 +1378,20 @@
         "sentiment": "neutral",
         "definitionEN": "Scratches, lines, or other signs left on a structure during the process of building it",
         "translationVI": "Các dấu vết xây dựng",
-        "relatedCollocates": ["tool marks", "evidence of construction"],
+        "relatedCollocates": [
+          "tool marks",
+          "evidence of construction"
+        ],
         "wordForms": {
-          "noun": [{ "form": "mark", "meaning": "dấu vết" }]
+          "noun": [
+            {
+              "form": "mark",
+              "meaning": "dấu vết"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -937,7 +1400,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174037-9-42-36cccdc4",
       "targetLexeme": "rate of advance",
       "sourceContext": "...the rate of advance through solid rock was 30 centimeters per day.",
       "phase1Inference": {
@@ -948,9 +1411,20 @@
         "sentiment": "neutral",
         "definitionEN": "The speed at which progress is made",
         "translationVI": "Tốc độ tiến triển",
-        "relatedCollocates": ["speed of progress", "rate of construction"],
+        "relatedCollocates": [
+          "speed of progress",
+          "rate of construction"
+        ],
         "wordForms": {
-          "noun": [{ "form": "rate", "meaning": "tốc độ" }]
+          "noun": [
+            {
+              "form": "rate",
+              "meaning": "tốc độ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -959,7 +1433,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174037-9-43-7d1f769d",
       "targetLexeme": "in contrast",
       "sourceContext": "In contrast, the rate of advance of the Claudius tunnel can be calculated at 1.4 meters per day.",
       "phase1Inference": {
@@ -970,9 +1444,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to show that something is different from what has just been said",
         "translationVI": "Trái lại",
-        "relatedCollocates": ["by contrast", "on the other hand"],
+        "relatedCollocates": [
+          "by contrast",
+          "on the other hand"
+        ],
         "wordForms": {
-          "noun": [{ "form": "contrast", "meaning": "sự tương phản" }]
+          "noun": [
+            {
+              "form": "contrast",
+              "meaning": "sự tương phản"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -981,7 +1466,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174038-9-44-6386bbef",
       "targetLexeme": "patrons who ordered construction",
       "sourceContext": "Most tunnels had inscriptions showing the names of patrons who ordered construction...",
       "phase1Inference": {
@@ -992,9 +1477,20 @@
         "sentiment": "neutral",
         "definitionEN": "Wealthy or influential people who commissioned and paid for the building project",
         "translationVI": "Những người bảo trợ đã ra lệnh xây dựng",
-        "relatedCollocates": ["commissioned by", "funded by"],
+        "relatedCollocates": [
+          "commissioned by",
+          "funded by"
+        ],
         "wordForms": {
-          "noun": [{ "form": "patron", "meaning": "người bảo trợ" }]
+          "noun": [
+            {
+              "form": "patron",
+              "meaning": "người bảo trợ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1003,7 +1499,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174038-9-45-538deec7",
       "targetLexeme": "divert the floodwater",
       "sourceContext": "...built to divert the floodwater threatening the harbor of the ancient city...",
       "phase1Inference": {
@@ -1014,9 +1510,20 @@
         "sentiment": "positive",
         "definitionEN": "To cause floodwater to change course or turn from its original direction",
         "translationVI": "Chuyển hướng dòng nước lũ",
-        "relatedCollocates": ["divert a river", "channel water"],
+        "relatedCollocates": [
+          "divert a river",
+          "channel water"
+        ],
         "wordForms": {
-          "verb": [{ "form": "divert", "meaning": "chuyển hướng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "divert",
+              "meaning": "chuyển hướng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1025,7 +1532,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174038-9-46-0ad2cbe7",
       "targetLexeme": "threatening the harbor",
       "sourceContext": "...divert the floodwater threatening the harbor of the ancient city...",
       "phase1Inference": {
@@ -1036,9 +1543,20 @@
         "sentiment": "negative",
         "definitionEN": "Posing a danger to the port",
         "translationVI": "Đe dọa bến cảng",
-        "relatedCollocates": ["posing a threat to", "endangering"],
+        "relatedCollocates": [
+          "posing a threat to",
+          "endangering"
+        ],
         "wordForms": {
-          "verb": [{ "form": "threaten", "meaning": "đe dọa" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "threaten",
+              "meaning": "đe dọa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1047,7 +1565,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174038-9-47-50af37cf",
       "targetLexeme": "still visible today",
       "sourceContext": "...had inscriptions on the entrance, still visible today, that also indicate that the tunnel was started in 69 CE and was completed in 81 CE.",
       "phase1Inference": {
@@ -1058,9 +1576,20 @@
         "sentiment": "neutral",
         "definitionEN": "Can still be seen in the present time",
         "translationVI": "Vẫn còn nhìn thấy ngày nay",
-        "relatedCollocates": ["still exist", "can still be seen"],
+        "relatedCollocates": [
+          "still exist",
+          "can still be seen"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "visible", "meaning": "có thể nhìn thấy" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "visible",
+              "meaning": "có thể nhìn thấy"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1069,7 +1598,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174038-9-48-6d5bed49",
       "targetLexeme": "was completed in",
       "sourceContext": "...the tunnel was started in 69 CE and was completed in 81 CE.",
       "phase1Inference": {
@@ -1080,9 +1609,20 @@
         "sentiment": "neutral",
         "definitionEN": "Was finished in a particular year",
         "translationVI": "Được hoàn thành vào",
-        "relatedCollocates": ["was finished in", "construction ended in"],
+        "relatedCollocates": [
+          "was finished in",
+          "construction ended in"
+        ],
         "wordForms": {
-          "verb": [{ "form": "complete", "meaning": "hoàn thành" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "complete",
+              "meaning": "hoàn thành"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1091,7 +1631,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174038-9-49-78429379",
       "targetLexeme": "personal experience",
       "sourceContext": "...relying on estimation, inherited techniques and personal experience.",
       "phase1Inference": {
@@ -1102,9 +1642,20 @@
         "sentiment": "neutral",
         "definitionEN": "Knowledge or skill that you get from doing, seeing, or feeling things yourself",
         "translationVI": "Kinh nghiệm cá nhân",
-        "relatedCollocates": ["first-hand experience", "based on experience"],
+        "relatedCollocates": [
+          "first-hand experience",
+          "based on experience"
+        ],
         "wordForms": {
-          "noun": [{ "form": "experience", "meaning": "kinh nghiệm" }]
+          "noun": [
+            {
+              "form": "experience",
+              "meaning": "kinh nghiệm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1113,7 +1664,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174038-9-50-40cc6563",
       "targetLexeme": "descriptions and representations",
       "sourceContext": "...give descriptions and representations of ancient Roman ships...",
       "phase1Inference": {
@@ -1124,12 +1675,24 @@
         "sentiment": "neutral",
         "definitionEN": "Written accounts and pictures or models of something",
         "translationVI": "Các mô tả và hình ảnh đại diện",
-        "relatedCollocates": ["depictions", "illustrations"],
+        "relatedCollocates": [
+          "depictions",
+          "illustrations"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "description", "meaning": "sự mô tả" },
-            { "form": "representation", "meaning": "sự đại diện" }
-          ]
+            {
+              "form": "description",
+              "meaning": "sự mô tả"
+            },
+            {
+              "form": "representation",
+              "meaning": "sự đại diện"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1138,7 +1701,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174038-9-51-68aa96fc",
       "targetLexeme": "sails and rigging",
       "sourceContext": "...including the sails and rigging.",
       "phase1Inference": {
@@ -1149,12 +1712,24 @@
         "sentiment": "neutral",
         "definitionEN": "The sails and the system of ropes, cables, or chains employed to support a ship's masts and control its sails",
         "translationVI": "Buồm và dây chằng",
-        "relatedCollocates": ["mast", "ship"],
+        "relatedCollocates": [
+          "mast",
+          "ship"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "sail", "meaning": "cánh buồm" },
-            { "form": "rigging", "meaning": "dây chằng" }
-          ]
+            {
+              "form": "sail",
+              "meaning": "cánh buồm"
+            },
+            {
+              "form": "rigging",
+              "meaning": "dây chằng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1163,7 +1738,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174038-9-52-5f347b47",
       "targetLexeme": "first centuries of the current era",
       "sourceContext": "Then in the first centuries of the current era, Mediterranean shipbuilders shifted to another shipbuilding method...",
       "phase1Inference": {
@@ -1174,9 +1749,20 @@
         "sentiment": "neutral",
         "definitionEN": "The period from approximately 1 CE to 300 CE",
         "translationVI": "Những thế kỷ đầu Công nguyên",
-        "relatedCollocates": ["CE (Common Era)", "early AD"],
+        "relatedCollocates": [
+          "CE (Common Era)",
+          "early AD"
+        ],
         "wordForms": {
-          "noun": [{ "form": "century", "meaning": "thế kỷ" }]
+          "noun": [
+            {
+              "form": "century",
+              "meaning": "thế kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1185,7 +1771,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174038-9-53-455a87c8",
       "targetLexeme": "still in use today",
       "sourceContext": "...another shipbuilding method, still in use today...",
       "phase1Inference": {
@@ -1196,9 +1782,20 @@
         "sentiment": "neutral",
         "definitionEN": "Continuing to be used in the present time",
         "translationVI": "Vẫn còn được sử dụng ngày nay",
-        "relatedCollocates": ["still used", "remains in use"],
+        "relatedCollocates": [
+          "still used",
+          "remains in use"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "in use", "meaning": "đang được sử dụng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "in use",
+              "meaning": "đang được sử dụng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1207,7 +1804,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174038-9-54-3c641d95",
       "targetLexeme": "components of the ship",
       "sourceContext": "...and then proceeding with the hull and the other components of the ship.",
       "phase1Inference": {
@@ -1218,9 +1815,20 @@
         "sentiment": "neutral",
         "definitionEN": "The different parts that make up a ship",
         "translationVI": "Các bộ phận của con tàu",
-        "relatedCollocates": ["parts of the ship", "ship's structure"],
+        "relatedCollocates": [
+          "parts of the ship",
+          "ship's structure"
+        ],
         "wordForms": {
-          "noun": [{ "form": "component", "meaning": "thành phần" }]
+          "noun": [
+            {
+              "form": "component",
+              "meaning": "thành phần"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1229,7 +1837,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174038-9-55-550ba4a0",
       "targetLexeme": "merchant ships",
       "sourceContext": "The ancient Romans built large merchant ships and warships...",
       "phase1Inference": {
@@ -1240,9 +1848,20 @@
         "sentiment": "neutral",
         "definitionEN": "Ships used for trade and transporting goods",
         "translationVI": "Tàu buôn",
-        "relatedCollocates": ["cargo ships", "warships (antonym)"],
+        "relatedCollocates": [
+          "cargo ships",
+          "warships (antonym)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "merchant", "meaning": "nhà buôn" }]
+          "noun": [
+            {
+              "form": "merchant",
+              "meaning": "nhà buôn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1251,7 +1870,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174038-9-56-6397baec",
       "targetLexeme": "human power",
       "sourceContext": "Warships used both wind (sails) and human power (oarsmen)...",
       "phase1Inference": {
@@ -1262,9 +1881,21 @@
         "sentiment": "neutral",
         "definitionEN": "Physical strength provided by people, especially for propulsion",
         "translationVI": "Sức người",
-        "relatedCollocates": ["manpower", "wind power", "oarsmen"],
+        "relatedCollocates": [
+          "manpower",
+          "wind power",
+          "oarsmen"
+        ],
         "wordForms": {
-          "noun": [{ "form": "power", "meaning": "sức mạnh" }]
+          "noun": [
+            {
+              "form": "power",
+              "meaning": "sức mạnh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1273,7 +1904,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174038-9-57-7644248b",
       "targetLexeme": "dominant (adj)",
       "sourceContext": "The ‘trireme’ was the dominant warship from the 7th to 4th century BCE.",
       "phase1Inference": {
@@ -1284,9 +1915,20 @@
         "sentiment": "neutral",
         "definitionEN": "Most important, powerful, or influential",
         "translationVI": "Thống trị, chủ đạo",
-        "relatedCollocates": ["a dominant force", "the main type"],
+        "relatedCollocates": [
+          "a dominant force",
+          "the main type"
+        ],
         "wordForms": {
-          "verb": [{ "form": "dominate", "meaning": "thống trị" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "dominate",
+              "meaning": "thống trị"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1295,7 +1937,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174038-9-58-0d13b3ca",
       "targetLexeme": "double planking",
       "sourceContext": "They had a wider hull, double planking and a solid interior for added stability.",
       "phase1Inference": {
@@ -1306,9 +1948,20 @@
         "sentiment": "neutral",
         "definitionEN": "A method of constructing a ship's hull with two layers of planks",
         "translationVI": "Ván kép",
-        "relatedCollocates": ["hull construction", "plank (n)"],
+        "relatedCollocates": [
+          "hull construction",
+          "plank (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "planking", "meaning": "sự lót ván" }]
+          "noun": [
+            {
+              "form": "planking",
+              "meaning": "sự lót ván"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1317,7 +1970,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174038-9-59-6bbc0d8d",
       "targetLexeme": "solid interior",
       "sourceContext": "They had a wider hull, double planking and a solid interior for added stability.",
       "phase1Inference": {
@@ -1333,7 +1986,15 @@
           "internal structure"
         ],
         "wordForms": {
-          "noun": [{ "form": "interior", "meaning": "bên trong" }]
+          "noun": [
+            {
+              "form": "interior",
+              "meaning": "bên trong"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1342,7 +2003,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174038-9-60-7f1d1c05",
       "targetLexeme": "keep time with",
       "sourceContext": "To assist them, music would be played on an instrument, and oars would then keep time with this.",
       "phase1Inference": {
@@ -1353,9 +2014,20 @@
         "sentiment": "neutral",
         "definitionEN": "To maintain the same rhythm or tempo as something else",
         "translationVI": "Giữ nhịp với",
-        "relatedCollocates": ["in time with", "keep the beat"],
+        "relatedCollocates": [
+          "in time with",
+          "keep the beat"
+        ],
         "wordForms": {
-          "verb": [{ "form": "keep time", "meaning": "giữ nhịp" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "keep time",
+              "meaning": "giữ nhịp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1364,7 +2036,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174038-9-61-1099c196",
       "targetLexeme": "agricultural products",
       "sourceContext": "...and agricultural products (e.g. grain from Egypt’s Nile valley).",
       "phase1Inference": {
@@ -1375,9 +2047,21 @@
         "sentiment": "neutral",
         "definitionEN": "Goods produced by farming, such as crops and livestock",
         "translationVI": "Các sản phẩm nông nghiệp",
-        "relatedCollocates": ["farm produce", "crops", "grain"],
+        "relatedCollocates": [
+          "farm produce",
+          "crops",
+          "grain"
+        ],
         "wordForms": {
-          "noun": [{ "form": "product", "meaning": "sản phẩm" }]
+          "noun": [
+            {
+              "form": "product",
+              "meaning": "sản phẩm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1386,7 +2070,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174038-9-62-1b55ea26",
       "targetLexeme": "Goods from all over the world",
       "sourceContext": "Goods from all over the world would come to the city...",
       "phase1Inference": {
@@ -1397,9 +2081,20 @@
         "sentiment": "neutral",
         "definitionEN": "Products and merchandise from many different countries",
         "translationVI": "Hàng hóa từ khắp nơi trên thế giới",
-        "relatedCollocates": ["international goods", "imports"],
+        "relatedCollocates": [
+          "international goods",
+          "imports"
+        ],
         "wordForms": {
-          "noun": [{ "form": "good", "meaning": "hàng hóa" }]
+          "noun": [
+            {
+              "form": "good",
+              "meaning": "hàng hóa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1408,7 +2103,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174038-9-63-3f8c588b",
       "targetLexeme": "mouth of the Tiber River",
       "sourceContext": "...the gigantic port of Ostia situated at the mouth of the Tiber River.",
       "phase1Inference": {
@@ -1419,9 +2114,20 @@
         "sentiment": "neutral",
         "definitionEN": "The place where a river enters the sea",
         "translationVI": "Cửa sông Tiber",
-        "relatedCollocates": ["river delta", "estuary"],
+        "relatedCollocates": [
+          "river delta",
+          "estuary"
+        ],
         "wordForms": {
-          "noun": [{ "form": "mouth", "meaning": "cửa sông" }]
+          "noun": [
+            {
+              "form": "mouth",
+              "meaning": "cửa sông"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1430,7 +2136,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174038-9-64-3de53165",
       "targetLexeme": "sailing routes",
       "sourceContext": "The time of travel along the many sailing routes could vary widely.",
       "phase1Inference": {
@@ -1441,9 +2147,20 @@
         "sentiment": "neutral",
         "definitionEN": "The paths that ships regularly take across the sea",
         "translationVI": "Các tuyến đường hàng hải",
-        "relatedCollocates": ["shipping lanes", "trade routes"],
+        "relatedCollocates": [
+          "shipping lanes",
+          "trade routes"
+        ],
         "wordForms": {
-          "noun": [{ "form": "route", "meaning": "tuyến đường" }]
+          "noun": [
+            {
+              "form": "route",
+              "meaning": "tuyến đường"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1452,7 +2169,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174038-9-65-50d60795",
       "targetLexeme": "local knowledge",
       "sourceContext": "...but on experience, local knowledge and observation of natural phenomena.",
       "phase1Inference": {
@@ -1463,9 +2180,20 @@
         "sentiment": "neutral",
         "definitionEN": "Knowledge that is held and used by people in a particular community or area",
         "translationVI": "Kiến thức địa phương",
-        "relatedCollocates": ["traditional knowledge", "indigenous knowledge"],
+        "relatedCollocates": [
+          "traditional knowledge",
+          "indigenous knowledge"
+        ],
         "wordForms": {
-          "noun": [{ "form": "knowledge", "meaning": "kiến thức" }]
+          "noun": [
+            {
+              "form": "knowledge",
+              "meaning": "kiến thức"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1474,7 +2202,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "1761813174038-9-66-476fd928",
       "targetLexeme": "mainland (n)",
       "sourceContext": "...seamen in the Mediterranean often had the mainland or islands in sight...",
       "phase1Inference": {
@@ -1485,9 +2213,20 @@
         "sentiment": "neutral",
         "definitionEN": "A large continuous extent of land that includes the greater part of a country or continent, not including islands",
         "translationVI": "Đất liền",
-        "relatedCollocates": ["island", "coast"],
+        "relatedCollocates": [
+          "island",
+          "coast"
+        ],
         "wordForms": {
-          "noun": [{ "form": "mainland", "meaning": "đất liền" }]
+          "noun": [
+            {
+              "form": "mainland",
+              "meaning": "đất liền"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1496,7 +2235,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "1761813174038-9-67-0d3766a8",
       "targetLexeme": "pierce (v)",
       "sourceContext": "...which was used to pierce the timber hulls...",
       "phase1Inference": {
@@ -1507,9 +2246,20 @@
         "sentiment": "negative",
         "definitionEN": "To go into or through something, making a hole in it with a sharp point",
         "translationVI": "Đâm thủng",
-        "relatedCollocates": ["penetrate", "puncture"],
+        "relatedCollocates": [
+          "penetrate",
+          "puncture"
+        ],
         "wordForms": {
-          "verb": [{ "form": "pierce", "meaning": "đâm thủng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "pierce",
+              "meaning": "đâm thủng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1518,7 +2268,7 @@
       }
     },
     {
-      "id": 69,
+      "id": "1761813174038-9-68-67cdfcf8",
       "targetLexeme": "oars (n)",
       "sourceContext": "...or break the oars of enemy vessels.",
       "phase1Inference": {
@@ -1529,9 +2279,21 @@
         "sentiment": "neutral",
         "definitionEN": "A pole with a flat blade at one end, used for rowing a boat",
         "translationVI": "Mái chèo",
-        "relatedCollocates": ["rower", "oarsman", "paddle"],
+        "relatedCollocates": [
+          "rower",
+          "oarsman",
+          "paddle"
+        ],
         "wordForms": {
-          "noun": [{ "form": "oar", "meaning": "mái chèo" }]
+          "noun": [
+            {
+              "form": "oar",
+              "meaning": "mái chèo"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1540,7 +2302,7 @@
       }
     },
     {
-      "id": 70,
+      "id": "1761813174038-9-69-2d68cc0b",
       "targetLexeme": "eventually (adv)",
       "sourceContext": "Eventually, Rome’s navy became the largest and most powerful in the Mediterranean...",
       "phase1Inference": {
@@ -1551,9 +2313,20 @@
         "sentiment": "neutral",
         "definitionEN": "In the end, especially after a long delay, dispute, or series of problems",
         "translationVI": "Cuối cùng, rốt cuộc",
-        "relatedCollocates": ["in the end", "finally"],
+        "relatedCollocates": [
+          "in the end",
+          "finally"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "eventually", "meaning": "cuối cùng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "eventually",
+              "meaning": "cuối cùng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1562,7 +2335,7 @@
       }
     },
     {
-      "id": 71,
+      "id": "1761813174038-9-70-51ca093b",
       "targetLexeme": "deep underwater",
       "sourceContext": "Their V-shaped hull was deep underwater...",
       "phase1Inference": {
@@ -1573,9 +2346,20 @@
         "sentiment": "neutral",
         "definitionEN": "Far below the surface of the water",
         "translationVI": "Sâu dưới nước",
-        "relatedCollocates": ["submerged", "deep sea"],
+        "relatedCollocates": [
+          "submerged",
+          "deep sea"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "underwater", "meaning": "dưới nước" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "underwater",
+              "meaning": "dưới nước"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1584,7 +2368,7 @@
       }
     },
     {
-      "id": 72,
+      "id": "1761813174038-9-71-670e67de",
       "targetLexeme": "sail too close to the coast",
       "sourceContext": "...meaning that they could not sail too close to the coast.",
       "phase1Inference": {
@@ -1595,9 +2379,20 @@
         "sentiment": "negative",
         "definitionEN": "To navigate a boat very near to the land beside the sea",
         "translationVI": "Đi thuyền quá gần bờ",
-        "relatedCollocates": ["near the shore", "shallow water"],
+        "relatedCollocates": [
+          "near the shore",
+          "shallow water"
+        ],
         "wordForms": {
-          "verb": [{ "form": "sail", "meaning": "đi thuyền" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "sail",
+              "meaning": "đi thuyền"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1606,7 +2401,7 @@
       }
     },
     {
-      "id": 73,
+      "id": "1761813174038-9-72-0519c6e2",
       "targetLexeme": "triangular sail",
       "sourceContext": "...and a small triangular sail at the bow.",
       "phase1Inference": {
@@ -1617,9 +2412,20 @@
         "sentiment": "neutral",
         "definitionEN": "A sail shaped like a triangle",
         "translationVI": "Cánh buồm hình tam giác",
-        "relatedCollocates": ["square sail", "lateen sail"],
+        "relatedCollocates": [
+          "square sail",
+          "lateen sail"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "triangular", "meaning": "hình tam giác" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "triangular",
+              "meaning": "hình tam giác"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1628,7 +2434,7 @@
       }
     },
     {
-      "id": 74,
+      "id": "1761813174038-9-73-1e2b62ff",
       "targetLexeme": "to assist them",
       "sourceContext": "To assist them, music would be played on an instrument...",
       "phase1Inference": {
@@ -1639,9 +2445,20 @@
         "sentiment": "positive",
         "definitionEN": "In order to help them",
         "translationVI": "Để hỗ trợ họ",
-        "relatedCollocates": ["to help them", "in order to aid"],
+        "relatedCollocates": [
+          "to help them",
+          "in order to aid"
+        ],
         "wordForms": {
-          "verb": [{ "form": "assist", "meaning": "hỗ trợ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "assist",
+              "meaning": "hỗ trợ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1650,7 +2467,7 @@
       }
     },
     {
-      "id": 75,
+      "id": "1761813174038-9-74-7802973a",
       "targetLexeme": "weather conditions",
       "sourceContext": "When weather conditions were not good...",
       "phase1Inference": {
@@ -1661,9 +2478,20 @@
         "sentiment": "neutral",
         "definitionEN": "The state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc",
         "translationVI": "Điều kiện thời tiết",
-        "relatedCollocates": ["bad weather", "weather forecast"],
+        "relatedCollocates": [
+          "bad weather",
+          "weather forecast"
+        ],
         "wordForms": {
-          "noun": [{ "form": "condition", "meaning": "điều kiện" }]
+          "noun": [
+            {
+              "form": "condition",
+              "meaning": "điều kiện"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1671,5 +2499,11 @@
         "content": "The flight was cancelled due to poor weather conditions."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.038Z",
+    "version": "2.0",
+    "originalCount": 75,
+    "migratedCount": 75
+  }
 }

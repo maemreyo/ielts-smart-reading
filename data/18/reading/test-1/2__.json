@@ -1,10 +1,10 @@
 {
   "logTitle": "IELTS Reading Log: Forest management in Pennsylvania, USA",
   "sourceId": "Reading Passage (Image)",
-  "totalItems": 85,
+  "totalItems": 125,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174078-25-0-1d9ed918",
       "targetLexeme": "forest management",
       "sourceContext": "Forest management in Pennsylvania, USA",
       "phase1Inference": {
@@ -20,7 +20,15 @@
           "forest (conservation)"
         ],
         "wordForms": {
-          "noun": [{ "form": "management", "meaning": "sự quản lý" }]
+          "noun": [
+            {
+              "form": "management",
+              "meaning": "sự quản lý"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -29,7 +37,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174078-25-1-63f7c560",
       "targetLexeme": "low-quality wood",
       "sourceContext": "How managing low-quality wood (also known as low-use wood) for bioenergy can encourage sustainable forest management",
       "phase1Inference": {
@@ -40,9 +48,20 @@
         "sentiment": "neutral",
         "definitionEN": "Timber that is not suitable for high-value products like furniture or construction due to its size, shape, species, or condition.",
         "translationVI": "Gỗ chất lượng thấp",
-        "relatedCollocates": ["low-use wood", "high-quality timber"],
+        "relatedCollocates": [
+          "low-use wood",
+          "high-quality timber"
+        ],
         "wordForms": {
-          "noun": [{ "form": "wood", "meaning": "gỗ" }]
+          "noun": [
+            {
+              "form": "wood",
+              "meaning": "gỗ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -51,7 +70,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174078-25-2-0aa3fced",
       "targetLexeme": "bioenergy",
       "sourceContext": "...for bioenergy can encourage sustainable forest management",
       "phase1Inference": {
@@ -62,9 +81,20 @@
         "sentiment": "positive",
         "definitionEN": "Renewable energy produced from organic matter, such as wood, agricultural crops, or waste.",
         "translationVI": "Năng lượng sinh học",
-        "relatedCollocates": ["renewable (energy)", "biomass (fuel)"],
+        "relatedCollocates": [
+          "renewable (energy)",
+          "biomass (fuel)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "bioenergy", "meaning": "năng lượng sinh học" }]
+          "noun": [
+            {
+              "form": "bioenergy",
+              "meaning": "năng lượng sinh học"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -73,7 +103,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174078-25-3-3756d41a",
       "targetLexeme": "sustainable forest management",
       "sourceContext": "...can encourage sustainable forest management",
       "phase1Inference": {
@@ -84,9 +114,20 @@
         "sentiment": "positive",
         "definitionEN": "The management of forests in a way that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
         "translationVI": "Quản lý rừng bền vững",
-        "relatedCollocates": ["conservation", "ecological balance"],
+        "relatedCollocates": [
+          "conservation",
+          "ecological balance"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "sustainable", "meaning": "bền vững" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "sustainable",
+              "meaning": "bền vững"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -95,7 +136,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174078-25-4-2d72edf2",
       "targetLexeme": "management goals",
       "sourceContext": "...and depends on the management goals for a given forest.",
       "phase1Inference": {
@@ -106,9 +147,20 @@
         "sentiment": "neutral",
         "definitionEN": "The specific objectives that a landowner or manager aims to achieve for a particular area of forest.",
         "translationVI": "Các mục tiêu quản lý",
-        "relatedCollocates": ["objectives", "landowner's (goals)"],
+        "relatedCollocates": [
+          "objectives",
+          "landowner's (goals)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "goal", "meaning": "mục tiêu" }]
+          "noun": [
+            {
+              "form": "goal",
+              "meaning": "mục tiêu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -117,7 +169,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174078-25-5-37592062",
       "targetLexeme": "wildlife habitat",
       "sourceContext": "...but for a landowner more interested in wildlife habitat, the real value of that stem (or trunk) may be the food it provides to animals.",
       "phase1Inference": {
@@ -128,9 +180,20 @@
         "sentiment": "positive",
         "definitionEN": "The natural home or environment of an animal, plant, or other organism.",
         "translationVI": "Môi trường sống của động vật hoang dã",
-        "relatedCollocates": ["natural (habitat)", "ecosystem"],
+        "relatedCollocates": [
+          "natural (habitat)",
+          "ecosystem"
+        ],
         "wordForms": {
-          "noun": [{ "form": "habitat", "meaning": "môi trường sống" }]
+          "noun": [
+            {
+              "form": "habitat",
+              "meaning": "môi trường sống"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -139,7 +202,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174078-25-6-33ca32a1",
       "targetLexeme": "black knot disease",
       "sourceContext": "Likewise, if the tree suffers from black knot disease, its value for timber decreases...",
       "phase1Inference": {
@@ -150,9 +213,20 @@
         "sentiment": "negative",
         "definitionEN": "A common fungal disease that affects certain trees, characterized by hard, black swellings on the branches.",
         "translationVI": "Bệnh mấu đen",
-        "relatedCollocates": ["fungal (disease)", "tree (pathogen)"],
+        "relatedCollocates": [
+          "fungal (disease)",
+          "tree (pathogen)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "disease", "meaning": "bệnh tật" }]
+          "noun": [
+            {
+              "form": "disease",
+              "meaning": "bệnh tật"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -161,7 +235,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174078-25-7-12938246",
       "targetLexeme": "solely interested in",
       "sourceContext": "In the past, Pennsylvania landowners were solely interested in the value of their trees as high-quality timber.",
       "phase1Inference": {
@@ -172,9 +246,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be interested only in one particular thing and nothing else.",
         "translationVI": "Chỉ quan tâm đến",
-        "relatedCollocates": ["only interested in", "exclusively focused on"],
+        "relatedCollocates": [
+          "only interested in",
+          "exclusively focused on"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "solely", "meaning": "duy nhất, chỉ" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "solely",
+              "meaning": "duy nhất, chỉ"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -183,7 +268,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174078-25-8-05aecbda",
       "targetLexeme": "high-quality timber",
       "sourceContext": "...the value of their trees as high-quality timber.",
       "phase1Inference": {
@@ -194,9 +279,20 @@
         "sentiment": "positive",
         "definitionEN": "Wood that is highly valued for its strength, appearance, and suitability for fine furniture, flooring, or construction.",
         "translationVI": "Gỗ chất lượng cao",
-        "relatedCollocates": ["premium (wood)", "low-quality timber"],
+        "relatedCollocates": [
+          "premium (wood)",
+          "low-quality timber"
+        ],
         "wordForms": {
-          "noun": [{ "form": "timber", "meaning": "gỗ xây dựng" }]
+          "noun": [
+            {
+              "form": "timber",
+              "meaning": "gỗ xây dựng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -205,7 +301,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174078-25-9-794f1ea9",
       "targetLexeme": "poorly formed trees",
       "sourceContext": "...and leave behind poorly formed trees that were not as well suited to the site where they grew.",
       "phase1Inference": {
@@ -216,11 +312,20 @@
         "sentiment": "negative",
         "definitionEN": "Trees that have grown in a crooked, stunted, or otherwise undesirable shape.",
         "translationVI": "Cây có hình dáng xấu",
-        "relatedCollocates": ["misshapen (trees)", "well-formed (trees)"],
+        "relatedCollocates": [
+          "misshapen (trees)",
+          "well-formed (trees)"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "poorly formed", "meaning": "có hình dạng xấu" }
-          ]
+            {
+              "form": "poorly formed",
+              "meaning": "có hình dạng xấu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -229,7 +334,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174078-25-10-5e2e037e",
       "targetLexeme": "high-grading",
       "sourceContext": "This practice, called ‘high-grading’, has left a legacy of ‘low-use wood’ in the forests.",
       "phase1Inference": {
@@ -240,9 +345,20 @@
         "sentiment": "negative",
         "definitionEN": "A type of logging in which only the best, most valuable trees are removed, often leaving a forest of lower quality and less genetic diversity.",
         "translationVI": "Khai thác chọn lọc cây tốt",
-        "relatedCollocates": ["selective logging", "clear-cutting"],
+        "relatedCollocates": [
+          "selective logging",
+          "clear-cutting"
+        ],
         "wordForms": {
-          "verb": [{ "form": "high-grade", "meaning": "khai thác cây tốt" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "high-grade",
+              "meaning": "khai thác cây tốt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -251,7 +367,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174078-25-11-0e3944d3",
       "targetLexeme": "left a legacy of",
       "sourceContext": "This practice... has left a legacy of ‘low-use wood’ in the forests.",
       "phase1Inference": {
@@ -262,9 +378,20 @@
         "sentiment": "neutral",
         "definitionEN": "To have created a situation that continues to exist for a long time after it began.",
         "translationVI": "Để lại di sản/hệ quả là",
-        "relatedCollocates": ["resulted in", "bequeathed"],
+        "relatedCollocates": [
+          "resulted in",
+          "bequeathed"
+        ],
         "wordForms": {
-          "noun": [{ "form": "legacy", "meaning": "di sản" }]
+          "noun": [
+            {
+              "form": "legacy",
+              "meaning": "di sản"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -273,7 +400,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174078-25-12-5d99d442",
       "targetLexeme": "abundant in",
       "sourceContext": "These trees have lower economic value for traditional timber markets, compete for growth with higher-value trees, shade out desirable regeneration and decrease the health of a stand* leaving it more vulnerable to poor weather and disease.",
       "phase1Inference": {
@@ -284,9 +411,20 @@
         "sentiment": "neutral",
         "definitionEN": "Existing or available in large quantities; plentiful.",
         "translationVI": "Dồi dào, phong phú ở",
-        "relatedCollocates": ["plentiful", "rich in"],
+        "relatedCollocates": [
+          "plentiful",
+          "rich in"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "abundant", "meaning": "dồi dào" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "abundant",
+              "meaning": "dồi dào"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -295,7 +433,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174078-25-13-032d6d86",
       "targetLexeme": "shade out desirable regeneration",
       "sourceContext": "...shade out desirable regeneration and decrease the health of a stand...",
       "phase1Inference": {
@@ -306,9 +444,20 @@
         "sentiment": "negative",
         "definitionEN": "To block sunlight from reaching young, valuable trees, preventing them from growing.",
         "translationVI": "Che bóng sự tái sinh mong muốn",
-        "relatedCollocates": ["inhibit growth", "block sunlight"],
+        "relatedCollocates": [
+          "inhibit growth",
+          "block sunlight"
+        ],
         "wordForms": {
-          "noun": [{ "form": "regeneration", "meaning": "sự tái sinh" }]
+          "noun": [
+            {
+              "form": "regeneration",
+              "meaning": "sự tái sinh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -317,7 +466,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174078-25-14-5b0e3fdd",
       "targetLexeme": "health of a stand",
       "sourceContext": "...and decrease the health of a stand* leaving it more vulnerable to poor weather and disease.",
       "phase1Inference": {
@@ -328,9 +477,20 @@
         "sentiment": "neutral",
         "definitionEN": "The overall condition and vigor of a community of trees in a specific area.",
         "translationVI": "Sức khỏe của một lâm phần",
-        "relatedCollocates": ["forest health", "stand density"],
+        "relatedCollocates": [
+          "forest health",
+          "stand density"
+        ],
         "wordForms": {
-          "noun": [{ "form": "stand", "meaning": "lâm phần, khoảnh rừng" }]
+          "noun": [
+            {
+              "form": "stand",
+              "meaning": "lâm phần, khoảnh rừng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -339,7 +499,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174078-25-15-18de9f43",
       "targetLexeme": "vulnerable to",
       "sourceContext": "...leaving it more vulnerable to poor weather and disease.",
       "phase1Inference": {
@@ -350,9 +510,20 @@
         "sentiment": "negative",
         "definitionEN": "Exposed to the possibility of being attacked or harmed, either physically or emotionally.",
         "translationVI": "Dễ bị tổn thương bởi",
-        "relatedCollocates": ["susceptible to", "at risk of"],
+        "relatedCollocates": [
+          "susceptible to",
+          "at risk of"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "vulnerable", "meaning": "dễ bị tổn thương" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "vulnerable",
+              "meaning": "dễ bị tổn thương"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -361,7 +532,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174078-25-16-45b23d59",
       "targetLexeme": "wood energy markets",
       "sourceContext": "Management that specifically targets low-use wood can help landowners manage these forest health issues, and wood energy markets help promote this.",
       "phase1Inference": {
@@ -372,9 +543,20 @@
         "sentiment": "neutral",
         "definitionEN": "The sector of the economy concerned with buying and selling wood for use as a fuel source.",
         "translationVI": "Thị trường năng lượng gỗ",
-        "relatedCollocates": ["bioenergy market", "biomass industry"],
+        "relatedCollocates": [
+          "bioenergy market",
+          "biomass industry"
+        ],
         "wordForms": {
-          "noun": [{ "form": "market", "meaning": "thị trường" }]
+          "noun": [
+            {
+              "form": "market",
+              "meaning": "thị trường"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -383,7 +565,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174078-25-17-1a5d2d1d",
       "targetLexeme": "through combustion",
       "sourceContext": "Most wood used for energy in Pennsylvania is used to produce heat or electricity through combustion.",
       "phase1Inference": {
@@ -394,9 +576,20 @@
         "sentiment": "neutral",
         "definitionEN": "By the process of burning something.",
         "translationVI": "Thông qua sự đốt cháy",
-        "relatedCollocates": ["burning", "incineration"],
+        "relatedCollocates": [
+          "burning",
+          "incineration"
+        ],
         "wordForms": {
-          "noun": [{ "form": "combustion", "meaning": "sự đốt cháy" }]
+          "noun": [
+            {
+              "form": "combustion",
+              "meaning": "sự đốt cháy"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -405,7 +598,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174078-25-18-48f5369e",
       "targetLexeme": "wood boiler systems",
       "sourceContext": "Many schools and hospitals use wood boiler systems to heat and power their facilities...",
       "phase1Inference": {
@@ -416,9 +609,20 @@
         "sentiment": "neutral",
         "definitionEN": "Heating units that burn wood to produce hot water or steam for heating buildings.",
         "translationVI": "Hệ thống lò hơi đốt gỗ",
-        "relatedCollocates": ["furnace", "heating system"],
+        "relatedCollocates": [
+          "furnace",
+          "heating system"
+        ],
         "wordForms": {
-          "noun": [{ "form": "boiler", "meaning": "lò hơi" }]
+          "noun": [
+            {
+              "form": "boiler",
+              "meaning": "lò hơi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -427,7 +631,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174078-25-19-49e8fbe8",
       "targetLexeme": "incorporate wood into their coal streams",
       "sourceContext": "...and some coal plants incorporate wood into their coal streams to produce electricity.",
       "phase1Inference": {
@@ -438,9 +642,20 @@
         "sentiment": "neutral",
         "definitionEN": "To mix wood chips or biomass with coal as fuel for power generation, a practice known as co-firing.",
         "translationVI": "Kết hợp gỗ vào dòng than của họ",
-        "relatedCollocates": ["co-firing", "biomass co-firing"],
+        "relatedCollocates": [
+          "co-firing",
+          "biomass co-firing"
+        ],
         "wordForms": {
-          "verb": [{ "form": "incorporate", "meaning": "kết hợp, sát nhập" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "incorporate",
+              "meaning": "kết hợp, sát nhập"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -449,7 +664,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174078-25-20-40b8b025",
       "targetLexeme": "gasified for electrical generation",
       "sourceContext": "Wood can also be gasified for electrical generation and can even be made into liquid fuels like ethanol and gasoline for lorries and cars.",
       "phase1Inference": {
@@ -460,9 +675,20 @@
         "sentiment": "neutral",
         "definitionEN": "Converted into a gas in order to be used as a fuel to generate electricity.",
         "translationVI": "Được khí hóa để phát điện",
-        "relatedCollocates": ["gasification", "power generation"],
+        "relatedCollocates": [
+          "gasification",
+          "power generation"
+        ],
         "wordForms": {
-          "verb": [{ "form": "gasify", "meaning": "khí hóa" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "gasify",
+              "meaning": "khí hóa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -471,7 +697,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174078-25-21-43d69f70",
       "targetLexeme": "liquid fuels",
       "sourceContext": "...and can even be made into liquid fuels like ethanol and gasoline for lorries and cars.",
       "phase1Inference": {
@@ -482,9 +708,20 @@
         "sentiment": "neutral",
         "definitionEN": "Combustible substances in a liquid state, such as gasoline, diesel, or ethanol.",
         "translationVI": "Nhiên liệu lỏng",
-        "relatedCollocates": ["biofuels", "fossil fuels"],
+        "relatedCollocates": [
+          "biofuels",
+          "fossil fuels"
+        ],
         "wordForms": {
-          "noun": [{ "form": "fuel", "meaning": "nhiên liệu" }]
+          "noun": [
+            {
+              "form": "fuel",
+              "meaning": "nhiên liệu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -493,7 +730,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174078-25-22-75039a34",
       "targetLexeme": "long-term quality of a forest",
       "sourceContext": "Several tree- and plant-cutting approaches, which could greatly improve the long-term quality of a forest, focus strongly or solely on the use of wood for those markets.",
       "phase1Inference": {
@@ -504,9 +741,20 @@
         "sentiment": "positive",
         "definitionEN": "The overall health, diversity, and value of a forest over an extended period of time.",
         "translationVI": "Chất lượng lâu dài của một khu rừng",
-        "relatedCollocates": ["forest health", "sustainability"],
+        "relatedCollocates": [
+          "forest health",
+          "sustainability"
+        ],
         "wordForms": {
-          "noun": [{ "form": "quality", "meaning": "chất lượng" }]
+          "noun": [
+            {
+              "form": "quality",
+              "meaning": "chất lượng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -515,7 +763,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174078-25-23-034d1b66",
       "targetLexeme": "Timber Stand Improvement (TSI) Cut",
       "sourceContext": "One such approach is called a Timber Stand Improvement (TSI) Cut.",
       "phase1Inference": {
@@ -526,9 +774,21 @@
         "sentiment": "positive",
         "definitionEN": "A cutting method where less desirable trees are removed to improve the health, growth, and quality of the remaining, more valuable trees.",
         "translationVI": "Khai thác Cải thiện Lâm phần",
-        "relatedCollocates": ["thinning", "weeding", "forest management"],
+        "relatedCollocates": [
+          "thinning",
+          "weeding",
+          "forest management"
+        ],
         "wordForms": {
-          "noun": [{ "form": "improvement", "meaning": "sự cải thiện" }]
+          "noun": [
+            {
+              "form": "improvement",
+              "meaning": "sự cải thiện"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -537,7 +797,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174078-25-24-6bf16038",
       "targetLexeme": "highest-valued stems",
       "sourceContext": "In a TSI Cut, really poor-quality tree and plant material is cut to allow more space, light, and other resources to the highest-valued stems that remain.",
       "phase1Inference": {
@@ -548,9 +808,20 @@
         "sentiment": "positive",
         "definitionEN": "The trees in a stand that have the greatest economic or ecological worth.",
         "translationVI": "Những thân cây có giá trị cao nhất",
-        "relatedCollocates": ["prime timber", "crop trees"],
+        "relatedCollocates": [
+          "prime timber",
+          "crop trees"
+        ],
         "wordForms": {
-          "noun": [{ "form": "stem", "meaning": "thân cây" }]
+          "noun": [
+            {
+              "form": "stem",
+              "meaning": "thân cây"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -559,7 +830,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174078-25-25-3b93489c",
       "targetLexeme": "primary goal",
       "sourceContext": "Removing invasive plants might be another primary goal of a TSI Cut.",
       "phase1Inference": {
@@ -570,9 +841,20 @@
         "sentiment": "neutral",
         "definitionEN": "The main or most important objective.",
         "translationVI": "Mục tiêu chính",
-        "relatedCollocates": ["main objective", "principal aim"],
+        "relatedCollocates": [
+          "main objective",
+          "principal aim"
+        ],
         "wordForms": {
-          "noun": [{ "form": "goal", "meaning": "mục tiêu" }]
+          "noun": [
+            {
+              "form": "goal",
+              "meaning": "mục tiêu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -581,7 +863,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174078-25-26-767b95ed",
       "targetLexeme": "develop more foliage",
       "sourceContext": "The stems that are left behind might then grow in size and develop more foliage and larger crowns or tops that produce more coverage for wildlife...",
       "phase1Inference": {
@@ -592,9 +874,20 @@
         "sentiment": "positive",
         "definitionEN": "To grow a greater mass of leaves.",
         "translationVI": "Phát triển nhiều tán lá hơn",
-        "relatedCollocates": ["increase canopy", "grow leaves"],
+        "relatedCollocates": [
+          "increase canopy",
+          "grow leaves"
+        ],
         "wordForms": {
-          "noun": [{ "form": "foliage", "meaning": "tán lá" }]
+          "noun": [
+            {
+              "form": "foliage",
+              "meaning": "tán lá"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -603,7 +896,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174078-25-27-682c0efb",
       "targetLexeme": "less crowded environment",
       "sourceContext": "...they have a better chance to regenerate in a less crowded environment.",
       "phase1Inference": {
@@ -614,9 +907,20 @@
         "sentiment": "positive",
         "definitionEN": "A setting with more space and less competition between individuals.",
         "translationVI": "Một môi trường ít đông đúc hơn",
-        "relatedCollocates": ["open space", "reduced density"],
+        "relatedCollocates": [
+          "open space",
+          "reduced density"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "crowded", "meaning": "đông đúc" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "crowded",
+              "meaning": "đông đúc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -625,7 +929,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174078-25-28-3f80998c",
       "targetLexeme": "tailored to",
       "sourceContext": "TSI Cuts can be tailored to one farmer’s specific management goals for his or her land.",
       "phase1Inference": {
@@ -636,9 +940,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be adapted or customized to suit a particular need or purpose.",
         "translationVI": "Được điều chỉnh cho phù hợp với",
-        "relatedCollocates": ["customized for", "adapted to"],
+        "relatedCollocates": [
+          "customized for",
+          "adapted to"
+        ],
         "wordForms": {
-          "verb": [{ "form": "tailor", "meaning": "điều chỉnh cho phù hợp" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "tailor",
+              "meaning": "điều chỉnh cho phù hợp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -647,7 +962,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174078-25-29-68718de9",
       "targetLexeme": "yield a high amount of",
       "sourceContext": "Another approach that might yield a high amount of low-use wood is a Salvage Cut.",
       "phase1Inference": {
@@ -663,7 +978,15 @@
           "generate a large quantity of"
         ],
         "wordForms": {
-          "verb": [{ "form": "yield", "meaning": "mang lại, sản xuất" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "yield",
+              "meaning": "mang lại, sản xuất"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -672,7 +995,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174078-25-30-11858c95",
       "targetLexeme": "Salvage Cut",
       "sourceContext": "Another approach that might yield a high amount of low-use wood is a Salvage Cut.",
       "phase1Inference": {
@@ -683,9 +1006,20 @@
         "sentiment": "neutral",
         "definitionEN": "The harvesting of trees that have been damaged or killed by natural causes, such as fire, insects, disease, or wind.",
         "translationVI": "Khai thác tận thu",
-        "relatedCollocates": ["salvage logging", "post-disturbance harvesting"],
+        "relatedCollocates": [
+          "salvage logging",
+          "post-disturbance harvesting"
+        ],
         "wordForms": {
-          "noun": [{ "form": "salvage", "meaning": "sự cứu hộ, sự tận thu" }]
+          "noun": [
+            {
+              "form": "salvage",
+              "meaning": "sự cứu hộ, sự tận thu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -694,7 +1028,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174078-25-31-6bd1b06c",
       "targetLexeme": "pests and pathogens",
       "sourceContext": "With the many pests and pathogens visiting forests including hemlock woolly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth, to name just a few...",
       "phase1Inference": {
@@ -705,12 +1039,24 @@
         "sentiment": "negative",
         "definitionEN": "Harmful insects or other animals, and microorganisms such as bacteria or viruses that can cause disease.",
         "translationVI": "Sâu bệnh và mầm bệnh",
-        "relatedCollocates": ["insects and diseases", "infestation"],
+        "relatedCollocates": [
+          "insects and diseases",
+          "infestation"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "pest", "meaning": "sâu bệnh" },
-            { "form": "pathogen", "meaning": "mầm bệnh" }
-          ]
+            {
+              "form": "pest",
+              "meaning": "sâu bệnh"
+            },
+            {
+              "form": "pathogen",
+              "meaning": "mầm bệnh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -719,7 +1065,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174078-25-32-6fa6e310",
       "targetLexeme": "emerald ash borer",
       "sourceContext": "...including hemlock woolly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth, to name just a few...",
       "phase1Inference": {
@@ -730,9 +1076,20 @@
         "sentiment": "negative",
         "definitionEN": "A highly destructive invasive beetle from Asia that feeds on and kills ash trees.",
         "translationVI": "Sâu đục thân tần bì",
-        "relatedCollocates": ["invasive species", "insect pest"],
+        "relatedCollocates": [
+          "invasive species",
+          "insect pest"
+        ],
         "wordForms": {
-          "noun": [{ "form": "borer", "meaning": "sâu đục thân" }]
+          "noun": [
+            {
+              "form": "borer",
+              "meaning": "sâu đục thân"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -741,7 +1098,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174078-25-33-6774678f",
       "targetLexeme": "cutting procedures",
       "sourceContext": "...it is important to remember that those working in the forests can help ease these issues through cutting procedures.",
       "phase1Inference": {
@@ -752,9 +1109,20 @@
         "sentiment": "neutral",
         "definitionEN": "The established or official way of felling and processing trees.",
         "translationVI": "Quy trình khai thác",
-        "relatedCollocates": ["harvesting methods", "logging techniques"],
+        "relatedCollocates": [
+          "harvesting methods",
+          "logging techniques"
+        ],
         "wordForms": {
-          "noun": [{ "form": "procedure", "meaning": "quy trình, thủ tục" }]
+          "noun": [
+            {
+              "form": "procedure",
+              "meaning": "quy trình, thủ tục"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -763,7 +1131,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174078-25-34-07fc7375",
       "targetLexeme": "spread of a pest problem",
       "sourceContext": "These types of cut reduce the number of sick trees and seek to manage the future spread of a pest problem.",
       "phase1Inference": {
@@ -774,9 +1142,20 @@
         "sentiment": "negative",
         "definitionEN": "The expansion of an infestation of harmful insects or animals over a wider area.",
         "translationVI": "Sự lây lan của vấn đề sâu bệnh",
-        "relatedCollocates": ["contain an outbreak", "pest control"],
+        "relatedCollocates": [
+          "contain an outbreak",
+          "pest control"
+        ],
         "wordForms": {
-          "noun": [{ "form": "spread", "meaning": "sự lây lan" }]
+          "noun": [
+            {
+              "form": "spread",
+              "meaning": "sự lây lan"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -785,7 +1164,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174078-25-35-1b1f32b4",
       "targetLexeme": "vigorous trees",
       "sourceContext": "They leave vigorous trees that have stayed healthy enough to survive the outbreak.",
       "phase1Inference": {
@@ -796,11 +1175,20 @@
         "sentiment": "positive",
         "definitionEN": "Trees that are strong, healthy, and full of energy and growth.",
         "translationVI": "Những cây khỏe mạnh",
-        "relatedCollocates": ["healthy trees", "thriving trees"],
+        "relatedCollocates": [
+          "healthy trees",
+          "thriving trees"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "vigorous", "meaning": "mạnh mẽ, cường tráng" }
-          ]
+            {
+              "form": "vigorous",
+              "meaning": "mạnh mẽ, cường tráng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -809,7 +1197,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174078-25-36-17b5b14e",
       "targetLexeme": "survive the outbreak",
       "sourceContext": "...that have stayed healthy enough to survive the outbreak.",
       "phase1Inference": {
@@ -825,8 +1213,20 @@
           "endure the infestation"
         ],
         "wordForms": {
-          "verb": [{ "form": "survive", "meaning": "sống sót" }],
-          "noun": [{ "form": "outbreak", "meaning": "sự bùng phát" }]
+          "noun": [
+            {
+              "form": "outbreak",
+              "meaning": "sự bùng phát"
+            }
+          ],
+          "verb": [
+            {
+              "form": "survive",
+              "meaning": "sống sót"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -835,7 +1235,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174078-25-37-43d99978",
       "targetLexeme": "Shelterwood Cut",
       "sourceContext": "A Shelterwood Cut, which only takes place in a mature forest that has already been thinned several times, involves removing all the mature trees when other seedlings have become established.",
       "phase1Inference": {
@@ -846,9 +1246,20 @@
         "sentiment": "neutral",
         "definitionEN": "A logging method where mature trees are removed in a series of cuts over time to allow a new generation of seedlings to become established in the partial shade of the remaining trees.",
         "translationVI": "Khai thác rừng non",
-        "relatedCollocates": ["regeneration method", "silviculture"],
+        "relatedCollocates": [
+          "regeneration method",
+          "silviculture"
+        ],
         "wordForms": {
-          "noun": [{ "form": "shelterwood", "meaning": "rừng che phủ" }]
+          "noun": [
+            {
+              "form": "shelterwood",
+              "meaning": "rừng che phủ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -857,7 +1268,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174078-25-38-7a097f7c",
       "targetLexeme": "mature forest",
       "sourceContext": "...which only takes place in a mature forest that has already been thinned several times...",
       "phase1Inference": {
@@ -868,9 +1279,20 @@
         "sentiment": "neutral",
         "definitionEN": "A forest that has reached an advanced stage of development, with large, old trees.",
         "translationVI": "Rừng trưởng thành",
-        "relatedCollocates": ["old-growth forest", "young forest"],
+        "relatedCollocates": [
+          "old-growth forest",
+          "young forest"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "mature", "meaning": "trưởng thành" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "mature",
+              "meaning": "trưởng thành"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -879,7 +1301,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174078-25-39-26191ab8",
       "targetLexeme": "seedlings have become established",
       "sourceContext": "...involves removing all the mature trees when other seedlings have become established.",
       "phase1Inference": {
@@ -890,9 +1312,20 @@
         "sentiment": "positive",
         "definitionEN": "When young trees grown from seed have started to grow successfully and are firmly rooted.",
         "translationVI": "Cây con đã được thiết lập",
-        "relatedCollocates": ["take root", "begin to thrive"],
+        "relatedCollocates": [
+          "take root",
+          "begin to thrive"
+        ],
         "wordForms": {
-          "noun": [{ "form": "seedling", "meaning": "cây con" }]
+          "noun": [
+            {
+              "form": "seedling",
+              "meaning": "cây con"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -901,7 +1334,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174078-25-40-70704d52",
       "targetLexeme": "tree species are regenerated",
       "sourceContext": "This then allows the forester to decide which tree species are regenerated.",
       "phase1Inference": {
@@ -912,9 +1345,20 @@
         "sentiment": "neutral",
         "definitionEN": "Which types of trees are grown again or renewed in the forest.",
         "translationVI": "Loài cây nào được tái sinh",
-        "relatedCollocates": ["forest regeneration", "reforestation"],
+        "relatedCollocates": [
+          "forest regeneration",
+          "reforestation"
+        ],
         "wordForms": {
-          "verb": [{ "form": "regenerate", "meaning": "tái sinh, tái tạo" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "regenerate",
+              "meaning": "tái sinh, tái tạo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -923,7 +1367,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174078-25-41-4d127bff",
       "targetLexeme": "a two-tier forest",
       "sourceContext": "It can also be used to develop a two-tier forest so that there are two harvests and the money that comes in is spread out over a decade or more.",
       "phase1Inference": {
@@ -934,9 +1378,20 @@
         "sentiment": "neutral",
         "definitionEN": "A forest with two distinct layers of canopy, usually an upper layer of older trees and a lower layer of younger trees.",
         "translationVI": "Một khu rừng hai tầng",
-        "relatedCollocates": ["multi-layered canopy", "uneven-aged stand"],
+        "relatedCollocates": [
+          "multi-layered canopy",
+          "uneven-aged stand"
+        ],
         "wordForms": {
-          "noun": [{ "form": "tier", "meaning": "tầng, lớp" }]
+          "noun": [
+            {
+              "form": "tier",
+              "meaning": "tầng, lớp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -945,7 +1400,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174078-25-42-53565dde",
       "targetLexeme": "spread out over a decade",
       "sourceContext": "...the money that comes in is spread out over a decade or more.",
       "phase1Inference": {
@@ -956,9 +1411,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be distributed or extended over a period of ten years.",
         "translationVI": "Được dàn trải trong một thập kỷ",
-        "relatedCollocates": ["staggered over time", "distributed over"],
+        "relatedCollocates": [
+          "staggered over time",
+          "distributed over"
+        ],
         "wordForms": {
-          "verb": [{ "form": "spread out", "meaning": "dàn trải" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "spread out",
+              "meaning": "dàn trải"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -967,7 +1433,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174078-25-43-3a6a3859",
       "targetLexeme": "Thinnings",
       "sourceContext": "Thinnings and dense and dead wood removal for fire prevention also center on the production of low-use wood.",
       "phase1Inference": {
@@ -978,9 +1444,20 @@
         "sentiment": "neutral",
         "definitionEN": "The process of selectively removing trees, primarily to improve the growth rate or health of the remaining trees.",
         "translationVI": "Việc tỉa thưa",
-        "relatedCollocates": ["selective removal", "stand improvement"],
+        "relatedCollocates": [
+          "selective removal",
+          "stand improvement"
+        ],
         "wordForms": {
-          "verb": [{ "form": "thin", "meaning": "tỉa thưa" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "thin",
+              "meaning": "tỉa thưa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -989,7 +1466,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174078-25-44-32179147",
       "targetLexeme": "dead wood removal",
       "sourceContext": "Thinnings and dense and dead wood removal for fire prevention also center on the production of low-use wood.",
       "phase1Inference": {
@@ -1000,9 +1477,20 @@
         "sentiment": "neutral",
         "definitionEN": "The process of clearing out dead trees and branches from a forest.",
         "translationVI": "Việc loại bỏ gỗ chết",
-        "relatedCollocates": ["clearing underbrush", "fire hazard reduction"],
+        "relatedCollocates": [
+          "clearing underbrush",
+          "fire hazard reduction"
+        ],
         "wordForms": {
-          "noun": [{ "form": "removal", "meaning": "sự loại bỏ" }]
+          "noun": [
+            {
+              "form": "removal",
+              "meaning": "sự loại bỏ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1011,7 +1499,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174078-25-45-6dfbf2f5",
       "targetLexeme": "fire prevention",
       "sourceContext": "Thinnings and dense and dead wood removal for fire prevention also center on the production of low-use wood.",
       "phase1Inference": {
@@ -1022,9 +1510,20 @@
         "sentiment": "positive",
         "definitionEN": "The set of precautions that are taken to prevent or reduce the likelihood of a fire that may result in death, injury, or property damage.",
         "translationVI": "Phòng cháy chữa cháy",
-        "relatedCollocates": ["fire safety", "wildfire management"],
+        "relatedCollocates": [
+          "fire safety",
+          "wildfire management"
+        ],
         "wordForms": {
-          "noun": [{ "form": "prevention", "meaning": "sự phòng ngừa" }]
+          "noun": [
+            {
+              "form": "prevention",
+              "meaning": "sự phòng ngừa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1033,7 +1532,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174078-25-46-07ab0205",
       "targetLexeme": "retention of",
       "sourceContext": "However, it is important to remember that some retention of what many would classify as low-use wood is very important.",
       "phase1Inference": {
@@ -1044,10 +1543,25 @@
         "sentiment": "neutral",
         "definitionEN": "The action of continuing to have or hold something.",
         "translationVI": "Việc giữ lại",
-        "relatedCollocates": ["keeping", "preservation of"],
+        "relatedCollocates": [
+          "keeping",
+          "preservation of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "retention", "meaning": "sự giữ lại" }],
-          "verb": [{ "form": "retain", "meaning": "giữ lại" }]
+          "noun": [
+            {
+              "form": "retention",
+              "meaning": "sự giữ lại"
+            }
+          ],
+          "verb": [
+            {
+              "form": "retain",
+              "meaning": "giữ lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1056,7 +1570,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174078-25-47-04d17df4",
       "targetLexeme": "nutrients cycle back into the soil",
       "sourceContext": "The tops of trees that have been cut down should be left on the site so that their nutrients cycle back into the soil.",
       "phase1Inference": {
@@ -1067,9 +1581,20 @@
         "sentiment": "positive",
         "definitionEN": "When essential elements for growth decompose and return to the earth, enriching it.",
         "translationVI": "Chất dinh dưỡng quay vòng trở lại đất",
-        "relatedCollocates": ["nutrient cycling", "decomposition"],
+        "relatedCollocates": [
+          "nutrient cycling",
+          "decomposition"
+        ],
         "wordForms": {
-          "verb": [{ "form": "cycle", "meaning": "tuần hoàn, quay vòng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "cycle",
+              "meaning": "tuần hoàn, quay vòng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1078,7 +1603,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174078-25-48-4df41ca0",
       "targetLexeme": "trees with many cavities",
       "sourceContext": "In addition, trees with many cavities are extremely important habitats for insect predators like woodpeckers, bats and small mammals.",
       "phase1Inference": {
@@ -1089,9 +1614,21 @@
         "sentiment": "positive",
         "definitionEN": "Trees that have hollow spaces in their trunks or branches, often used by wildlife for shelter or nesting.",
         "translationVI": "Cây có nhiều hốc",
-        "relatedCollocates": ["hollow trees", "wildlife trees", "snags"],
+        "relatedCollocates": [
+          "hollow trees",
+          "wildlife trees",
+          "snags"
+        ],
         "wordForms": {
-          "noun": [{ "form": "cavity", "meaning": "cái hốc, lỗ hổng" }]
+          "noun": [
+            {
+              "form": "cavity",
+              "meaning": "cái hốc, lỗ hổng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1100,7 +1637,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174078-25-49-28fa8082",
       "targetLexeme": "insect predators",
       "sourceContext": "...extremely important habitats for insect predators like woodpeckers, bats and small mammals.",
       "phase1Inference": {
@@ -1111,9 +1648,20 @@
         "sentiment": "neutral",
         "definitionEN": "Animals that hunt and eat insects.",
         "translationVI": "Động vật ăn côn trùng",
-        "relatedCollocates": ["natural enemies", "biological control"],
+        "relatedCollocates": [
+          "natural enemies",
+          "biological control"
+        ],
         "wordForms": {
-          "noun": [{ "form": "predator", "meaning": "động vật ăn thịt" }]
+          "noun": [
+            {
+              "form": "predator",
+              "meaning": "động vật ăn thịt"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1122,7 +1670,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174078-25-50-5e2b9906",
       "targetLexeme": "control problem insects",
       "sourceContext": "They also help control problem insects and increase the health and resilience of the forest.",
       "phase1Inference": {
@@ -1133,9 +1681,20 @@
         "sentiment": "positive",
         "definitionEN": "To manage and limit the population of insects that cause damage to plants or spread disease.",
         "translationVI": "Kiểm soát côn trùng có hại",
-        "relatedCollocates": ["pest control", "manage infestations"],
+        "relatedCollocates": [
+          "pest control",
+          "manage infestations"
+        ],
         "wordForms": {
-          "verb": [{ "form": "control", "meaning": "kiểm soát" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "control",
+              "meaning": "kiểm soát"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1144,7 +1703,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174078-25-51-69049604",
       "targetLexeme": "health and resilience of the forest",
       "sourceContext": "...and increase the health and resilience of the forest.",
       "phase1Inference": {
@@ -1155,9 +1714,20 @@
         "sentiment": "positive",
         "definitionEN": "The ability of a forest ecosystem to maintain its functions and recover from disturbances like fire, disease, or logging.",
         "translationVI": "Sức khỏe và khả năng phục hồi của rừng",
-        "relatedCollocates": ["ecosystem resilience", "forest vitality"],
+        "relatedCollocates": [
+          "ecosystem resilience",
+          "forest vitality"
+        ],
         "wordForms": {
-          "noun": [{ "form": "resilience", "meaning": "khả năng phục hồi" }]
+          "noun": [
+            {
+              "form": "resilience",
+              "meaning": "khả năng phục hồi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1166,7 +1736,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174078-25-52-28718fc4",
       "targetLexeme": "rare species of trees",
       "sourceContext": "Finally, rare species of trees in a forest should also stay behind as they add to its structural diversity.",
       "phase1Inference": {
@@ -1177,9 +1747,20 @@
         "sentiment": "positive",
         "definitionEN": "Types of trees that are not common and are found in only a few places.",
         "translationVI": "Các loài cây quý hiếm",
-        "relatedCollocates": ["endangered species", "uncommon trees"],
+        "relatedCollocates": [
+          "endangered species",
+          "uncommon trees"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "rare", "meaning": "hiếm" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "rare",
+              "meaning": "hiếm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1188,7 +1769,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174078-25-53-302cebf6",
       "targetLexeme": "structural diversity",
       "sourceContext": "...as they add to its structural diversity.",
       "phase1Inference": {
@@ -1199,9 +1780,20 @@
         "sentiment": "positive",
         "definitionEN": "The variety in the physical arrangement of a forest, including the different sizes and ages of trees, and the presence of dead wood and multiple canopy layers.",
         "translationVI": "Đa dạng cấu trúc",
-        "relatedCollocates": ["biodiversity", "habitat complexity"],
+        "relatedCollocates": [
+          "biodiversity",
+          "habitat complexity"
+        ],
         "wordForms": {
-          "noun": [{ "form": "diversity", "meaning": "sự đa dạng" }]
+          "noun": [
+            {
+              "form": "diversity",
+              "meaning": "sự đa dạng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1210,7 +1802,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174078-25-54-63891d4b",
       "targetLexeme": "depends on",
       "sourceContext": "A tree’s ‘value’ depends on several factors including its species, size, form, condition, quality, function, and accessibility...",
       "phase1Inference": {
@@ -1221,9 +1813,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be determined or influenced by something else.",
         "translationVI": "Phụ thuộc vào",
-        "relatedCollocates": ["relies on", "is contingent on"],
+        "relatedCollocates": [
+          "relies on",
+          "is contingent on"
+        ],
         "wordForms": {
-          "verb": [{ "form": "depend", "meaning": "phụ thuộc" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "depend",
+              "meaning": "phụ thuộc"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1232,7 +1835,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174078-25-55-1c0a5b6d",
       "targetLexeme": "valued very differently",
       "sourceContext": "The same tree can be valued very differently by each person who looks at it.",
       "phase1Inference": {
@@ -1243,9 +1846,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be assessed or regarded with widely varying importance or worth.",
         "translationVI": "Được định giá rất khác nhau",
-        "relatedCollocates": ["perceived differently", "assessed differently"],
+        "relatedCollocates": [
+          "perceived differently",
+          "assessed differently"
+        ],
         "wordForms": {
-          "verb": [{ "form": "value", "meaning": "định giá, coi trọng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "value",
+              "meaning": "định giá, coi trọng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1254,7 +1868,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174078-25-56-52e2b2a6",
       "targetLexeme": "landowner",
       "sourceContext": "...but for a landowner more interested in wildlife habitat...",
       "phase1Inference": {
@@ -1265,9 +1879,20 @@
         "sentiment": "neutral",
         "definitionEN": "A person who owns land, especially a large amount of land.",
         "translationVI": "Chủ đất",
-        "relatedCollocates": ["property owner", "proprietor"],
+        "relatedCollocates": [
+          "property owner",
+          "proprietor"
+        ],
         "wordForms": {
-          "noun": [{ "form": "landowner", "meaning": "chủ đất" }]
+          "noun": [
+            {
+              "form": "landowner",
+              "meaning": "chủ đất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1276,7 +1901,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174078-25-57-7b384d2c",
       "targetLexeme": "the norm was to",
       "sourceContext": "The norm was to remove the stems of highest quality and leave behind poorly formed trees...",
       "phase1Inference": {
@@ -1292,7 +1917,15 @@
           "the custom was to"
         ],
         "wordForms": {
-          "noun": [{ "form": "norm", "meaning": "chuẩn mực, thông lệ" }]
+          "noun": [
+            {
+              "form": "norm",
+              "meaning": "chuẩn mực, thông lệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1301,7 +1934,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174078-25-58-30748542",
       "targetLexeme": "economic value",
       "sourceContext": "These trees have lower economic value for traditional timber markets...",
       "phase1Inference": {
@@ -1312,9 +1945,20 @@
         "sentiment": "neutral",
         "definitionEN": "The worth of a good or service as determined by the market; its monetary worth.",
         "translationVI": "Giá trị kinh tế",
-        "relatedCollocates": ["monetary value", "market value"],
+        "relatedCollocates": [
+          "monetary value",
+          "market value"
+        ],
         "wordForms": {
-          "noun": [{ "form": "value", "meaning": "giá trị" }]
+          "noun": [
+            {
+              "form": "value",
+              "meaning": "giá trị"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1323,7 +1967,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174078-25-59-3db5daa2",
       "targetLexeme": "traditional timber markets",
       "sourceContext": "...lower economic value for traditional timber markets...",
       "phase1Inference": {
@@ -1334,9 +1978,20 @@
         "sentiment": "neutral",
         "definitionEN": "The conventional markets where wood is sold for established uses like construction and furniture.",
         "translationVI": "Thị trường gỗ truyền thống",
-        "relatedCollocates": ["conventional markets", "lumber industry"],
+        "relatedCollocates": [
+          "conventional markets",
+          "lumber industry"
+        ],
         "wordForms": {
-          "noun": [{ "form": "market", "meaning": "thị trường" }]
+          "noun": [
+            {
+              "form": "market",
+              "meaning": "thị trường"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1345,7 +2000,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174078-25-60-2ac54c3e",
       "targetLexeme": "specifically targets",
       "sourceContext": "Management that specifically targets low-use wood can help landowners manage these forest health issues...",
       "phase1Inference": {
@@ -1356,9 +2011,20 @@
         "sentiment": "neutral",
         "definitionEN": "To aim at or direct efforts toward a particular, clearly defined object or group.",
         "translationVI": "Nhắm mục tiêu cụ thể",
-        "relatedCollocates": ["focuses on", "aims at"],
+        "relatedCollocates": [
+          "focuses on",
+          "aims at"
+        ],
         "wordForms": {
-          "verb": [{ "form": "target", "meaning": "nhắm mục tiêu" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "target",
+              "meaning": "nhắm mục tiêu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1367,7 +2033,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174078-25-61-577bfd3f",
       "targetLexeme": "promote this",
       "sourceContext": "...and wood energy markets help promote this.",
       "phase1Inference": {
@@ -1378,9 +2044,20 @@
         "sentiment": "positive",
         "definitionEN": "To support or actively encourage this practice or idea.",
         "translationVI": "Thúc đẩy điều này",
-        "relatedCollocates": ["encourage this", "support this"],
+        "relatedCollocates": [
+          "encourage this",
+          "support this"
+        ],
         "wordForms": {
-          "verb": [{ "form": "promote", "meaning": "thúc đẩy" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "promote",
+              "meaning": "thúc đẩy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1389,7 +2066,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174078-25-62-6dfe1321",
       "targetLexeme": "less expensive",
       "sourceContext": "Wood energy markets can accept less expensive wood material of lower quality...",
       "phase1Inference": {
@@ -1400,9 +2077,20 @@
         "sentiment": "positive",
         "definitionEN": "Costing a smaller amount of money.",
         "translationVI": "Rẻ hơn",
-        "relatedCollocates": ["cheaper", "more affordable"],
+        "relatedCollocates": [
+          "cheaper",
+          "more affordable"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "expensive", "meaning": "đắt" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "expensive",
+              "meaning": "đắt"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1411,7 +2099,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174078-25-63-598a959a",
       "targetLexeme": "power their facilities",
       "sourceContext": "Many schools and hospitals use wood boiler systems to heat and power their facilities...",
       "phase1Inference": {
@@ -1422,9 +2110,20 @@
         "sentiment": "neutral",
         "definitionEN": "To supply their buildings and equipment with electricity or other forms of energy.",
         "translationVI": "Cung cấp năng lượng cho các cơ sở",
-        "relatedCollocates": ["provide energy for", "run their operations"],
+        "relatedCollocates": [
+          "provide energy for",
+          "run their operations"
+        ],
         "wordForms": {
-          "verb": [{ "form": "power", "meaning": "cung cấp năng lượng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "power",
+              "meaning": "cung cấp năng lượng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1433,7 +2132,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174078-25-64-7b0fa3d0",
       "targetLexeme": "primarily heated with",
       "sourceContext": "...many homes are primarily heated with wood...",
       "phase1Inference": {
@@ -1444,9 +2143,20 @@
         "sentiment": "neutral",
         "definitionEN": "Warmed mainly by using a particular fuel or method.",
         "translationVI": "Được sưởi ấm chủ yếu bằng",
-        "relatedCollocates": ["mainly heated by", "mostly warmed with"],
+        "relatedCollocates": [
+          "mainly heated by",
+          "mostly warmed with"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "primarily", "meaning": "chủ yếu" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "primarily",
+              "meaning": "chủ yếu"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1455,7 +2165,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174078-25-65-732cdd19",
       "targetLexeme": "plant-cutting approaches",
       "sourceContext": "Several tree- and plant-cutting approaches, which could greatly improve the long-term quality of a forest...",
       "phase1Inference": {
@@ -1466,11 +2176,20 @@
         "sentiment": "neutral",
         "definitionEN": "Different methods or strategies for cutting trees and other vegetation.",
         "translationVI": "Các phương pháp cắt tỉa thực vật",
-        "relatedCollocates": ["harvesting techniques", "silvicultural systems"],
+        "relatedCollocates": [
+          "harvesting techniques",
+          "silvicultural systems"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "approach", "meaning": "phương pháp, cách tiếp cận" }
-          ]
+            {
+              "form": "approach",
+              "meaning": "phương pháp, cách tiếp cận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1479,7 +2198,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "1761813174078-25-66-0dc868d0",
       "targetLexeme": "focus strongly on",
       "sourceContext": "...focus strongly or solely on the use of wood for those markets.",
       "phase1Inference": {
@@ -1490,9 +2209,20 @@
         "sentiment": "neutral",
         "definitionEN": "To concentrate a great deal of attention or effort on something.",
         "translationVI": "Tập trung mạnh mẽ vào",
-        "relatedCollocates": ["concentrate heavily on", "emphasize"],
+        "relatedCollocates": [
+          "concentrate heavily on",
+          "emphasize"
+        ],
         "wordForms": {
-          "verb": [{ "form": "focus on", "meaning": "tập trung vào" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "focus on",
+              "meaning": "tập trung vào"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1501,7 +2231,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "1761813174078-25-67-61749367",
       "targetLexeme": "plant material",
       "sourceContext": "In a TSI Cut, really poor-quality tree and plant material is cut...",
       "phase1Inference": {
@@ -1512,9 +2242,20 @@
         "sentiment": "neutral",
         "definitionEN": "Matter that comes from plants, such as wood, leaves, and stems.",
         "translationVI": "Vật liệu thực vật",
-        "relatedCollocates": ["biomass", "vegetation"],
+        "relatedCollocates": [
+          "biomass",
+          "vegetation"
+        ],
         "wordForms": {
-          "noun": [{ "form": "material", "meaning": "vật liệu" }]
+          "noun": [
+            {
+              "form": "material",
+              "meaning": "vật liệu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1523,7 +2264,7 @@
       }
     },
     {
-      "id": 69,
+      "id": "1761813174078-25-68-3b7a8e79",
       "targetLexeme": "invasive plants",
       "sourceContext": "Removing invasive plants might be another primary goal of a TSI Cut.",
       "phase1Inference": {
@@ -1534,9 +2275,20 @@
         "sentiment": "negative",
         "definitionEN": "Non-native plants that spread aggressively and harm the local environment or economy.",
         "translationVI": "Thực vật xâm lấn",
-        "relatedCollocates": ["invasive species", "noxious weeds"],
+        "relatedCollocates": [
+          "invasive species",
+          "noxious weeds"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "invasive", "meaning": "xâm lấn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "invasive",
+              "meaning": "xâm lấn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1545,7 +2297,7 @@
       }
     },
     {
-      "id": 70,
+      "id": "1761813174078-25-69-1721e0ac",
       "targetLexeme": "larger crowns",
       "sourceContext": "...and develop more foliage and larger crowns or tops that produce more coverage for wildlife...",
       "phase1Inference": {
@@ -1556,9 +2308,20 @@
         "sentiment": "positive",
         "definitionEN": "The upper part of a tree, including the branches and leaves, that is bigger in size.",
         "translationVI": "Tán cây lớn hơn",
-        "relatedCollocates": ["canopy", "treetops"],
+        "relatedCollocates": [
+          "canopy",
+          "treetops"
+        ],
         "wordForms": {
-          "noun": [{ "form": "crown", "meaning": "tán cây, vương miện" }]
+          "noun": [
+            {
+              "form": "crown",
+              "meaning": "tán cây, vương miện"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1567,7 +2330,7 @@
       }
     },
     {
-      "id": 71,
+      "id": "1761813174078-25-70-63f6be1f",
       "targetLexeme": "to name just a few",
       "sourceContext": "...including hemlock woolly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth, to name just a few...",
       "phase1Inference": {
@@ -1578,9 +2341,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used after a short list of examples to show that there are many more you could have mentioned.",
         "translationVI": "Chỉ kể ra một vài",
-        "relatedCollocates": ["for example", "such as"],
+        "relatedCollocates": [
+          "for example",
+          "such as"
+        ],
         "wordForms": {
-          "verb": [{ "form": "name", "meaning": "kể tên" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "name",
+              "meaning": "kể tên"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1589,7 +2363,7 @@
       }
     },
     {
-      "id": 72,
+      "id": "1761813174078-25-71-6326c044",
       "targetLexeme": "ease these issues",
       "sourceContext": "...those working in the forests can help ease these issues through cutting procedures.",
       "phase1Inference": {
@@ -1605,7 +2379,15 @@
           "mitigate these issues"
         ],
         "wordForms": {
-          "verb": [{ "form": "ease", "meaning": "làm dịu" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "ease",
+              "meaning": "làm dịu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1614,7 +2396,7 @@
       }
     },
     {
-      "id": 73,
+      "id": "1761813174078-25-72-4b12fc81",
       "targetLexeme": "sick trees",
       "sourceContext": "These types of cut reduce the number of sick trees...",
       "phase1Inference": {
@@ -1625,9 +2407,20 @@
         "sentiment": "negative",
         "definitionEN": "Trees that are affected by disease or are in poor health.",
         "translationVI": "Cây bị bệnh",
-        "relatedCollocates": ["diseased trees", "unhealthy trees"],
+        "relatedCollocates": [
+          "diseased trees",
+          "unhealthy trees"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "sick", "meaning": "ốm, bệnh" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "sick",
+              "meaning": "ốm, bệnh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1636,7 +2429,7 @@
       }
     },
     {
-      "id": 74,
+      "id": "1761813174078-25-73-706bce41",
       "targetLexeme": "thinned several times",
       "sourceContext": "...a mature forest that has already been thinned several times...",
       "phase1Inference": {
@@ -1647,9 +2440,20 @@
         "sentiment": "neutral",
         "definitionEN": "To have had trees selectively removed on multiple occasions to reduce density.",
         "translationVI": "Được tỉa thưa nhiều lần",
-        "relatedCollocates": ["repeatedly thinned", "multiple thinnings"],
+        "relatedCollocates": [
+          "repeatedly thinned",
+          "multiple thinnings"
+        ],
         "wordForms": {
-          "verb": [{ "form": "thin", "meaning": "tỉa thưa" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "thin",
+              "meaning": "tỉa thưa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1658,7 +2462,7 @@
       }
     },
     {
-      "id": 75,
+      "id": "1761813174078-25-74-61832bb3",
       "targetLexeme": "forester",
       "sourceContext": "This then allows the forester to decide which tree species are regenerated.",
       "phase1Inference": {
@@ -1669,9 +2473,20 @@
         "sentiment": "neutral",
         "definitionEN": "A person who is trained in and manages forests.",
         "translationVI": "Người quản lý rừng, kiểm lâm",
-        "relatedCollocates": ["forest manager", "silviculturist"],
+        "relatedCollocates": [
+          "forest manager",
+          "silviculturist"
+        ],
         "wordForms": {
-          "noun": [{ "form": "forester", "meaning": "người làm nghề rừng" }]
+          "noun": [
+            {
+              "form": "forester",
+              "meaning": "người làm nghề rừng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1680,7 +2495,7 @@
       }
     },
     {
-      "id": 76,
+      "id": "1761813174078-25-75-608e77c1",
       "targetLexeme": "a similar point in their growth",
       "sourceContext": "It leaves a young forest where all trees are at a similar point in their growth.",
       "phase1Inference": {
@@ -1691,9 +2506,20 @@
         "sentiment": "neutral",
         "definitionEN": "At a comparable stage of development.",
         "translationVI": "Ở một giai đoạn phát triển tương tự",
-        "relatedCollocates": ["similar age", "same stage"],
+        "relatedCollocates": [
+          "similar age",
+          "same stage"
+        ],
         "wordForms": {
-          "noun": [{ "form": "growth", "meaning": "sự phát triển" }]
+          "noun": [
+            {
+              "form": "growth",
+              "meaning": "sự phát triển"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1702,7 +2528,7 @@
       }
     },
     {
-      "id": 77,
+      "id": "1761813174078-25-76-1fb488db",
       "targetLexeme": "two harvests",
       "sourceContext": "...so that there are two harvests and the money that comes in is spread out over a decade or more.",
       "phase1Inference": {
@@ -1713,9 +2539,20 @@
         "sentiment": "neutral",
         "definitionEN": "Two separate occasions of gathering a crop or timber.",
         "translationVI": "Hai vụ thu hoạch",
-        "relatedCollocates": ["multiple harvests", "cutting cycles"],
+        "relatedCollocates": [
+          "multiple harvests",
+          "cutting cycles"
+        ],
         "wordForms": {
-          "noun": [{ "form": "harvest", "meaning": "vụ thu hoạch" }]
+          "noun": [
+            {
+              "form": "harvest",
+              "meaning": "vụ thu hoạch"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1724,7 +2561,7 @@
       }
     },
     {
-      "id": 78,
+      "id": "1761813174078-25-77-1b37e0dc",
       "targetLexeme": "center on",
       "sourceContext": "Thinnings and dense and dead wood removal for fire prevention also center on the production of low-use wood.",
       "phase1Inference": {
@@ -1735,9 +2572,20 @@
         "sentiment": "neutral",
         "definitionEN": "To have something as the main subject of attention or interest.",
         "translationVI": "Tập trung vào",
-        "relatedCollocates": ["focus on", "revolve around"],
+        "relatedCollocates": [
+          "focus on",
+          "revolve around"
+        ],
         "wordForms": {
-          "verb": [{ "form": "center on", "meaning": "tập trung vào" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "center on",
+              "meaning": "tập trung vào"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1746,7 +2594,7 @@
       }
     },
     {
-      "id": 79,
+      "id": "1761813174078-25-78-4e289fbb",
       "targetLexeme": "classify as",
       "sourceContext": "...retention of what many would classify as low-use wood is very important.",
       "phase1Inference": {
@@ -1757,9 +2605,20 @@
         "sentiment": "neutral",
         "definitionEN": "To assign someone or something to a particular group or category.",
         "translationVI": "Phân loại là",
-        "relatedCollocates": ["categorize as", "label as"],
+        "relatedCollocates": [
+          "categorize as",
+          "label as"
+        ],
         "wordForms": {
-          "verb": [{ "form": "classify", "meaning": "phân loại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "classify",
+              "meaning": "phân loại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1768,7 +2627,7 @@
       }
     },
     {
-      "id": 80,
+      "id": "1761813174078-25-79-426b3128",
       "targetLexeme": "left on the site",
       "sourceContext": "The tops of trees that have been cut down should be left on the site so that their nutrients cycle back into the soil.",
       "phase1Inference": {
@@ -1779,9 +2638,20 @@
         "sentiment": "neutral",
         "definitionEN": "To remain in the original location and not be removed.",
         "translationVI": "Được để lại tại hiện trường",
-        "relatedCollocates": ["remain in place", "not removed"],
+        "relatedCollocates": [
+          "remain in place",
+          "not removed"
+        ],
         "wordForms": {
-          "noun": [{ "form": "site", "meaning": "địa điểm, hiện trường" }]
+          "noun": [
+            {
+              "form": "site",
+              "meaning": "địa điểm, hiện trường"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1790,7 +2660,7 @@
       }
     },
     {
-      "id": 81,
+      "id": "1761813174078-25-80-36628581",
       "targetLexeme": "in addition",
       "sourceContext": "In addition, trees with many cavities are extremely important habitats...",
       "phase1Inference": {
@@ -1801,9 +2671,21 @@
         "sentiment": "neutral",
         "definitionEN": "As an extra person, thing, or circumstance.",
         "translationVI": "Ngoài ra, thêm vào đó",
-        "relatedCollocates": ["furthermore", "moreover", "also"],
+        "relatedCollocates": [
+          "furthermore",
+          "moreover",
+          "also"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "in addition", "meaning": "ngoài ra" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "in addition",
+              "meaning": "ngoài ra"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1812,7 +2694,7 @@
       }
     },
     {
-      "id": 82,
+      "id": "1761813174078-25-81-3721921a",
       "targetLexeme": "extremely important",
       "sourceContext": "In addition, trees with many cavities are extremely important habitats...",
       "phase1Inference": {
@@ -1823,9 +2705,21 @@
         "sentiment": "positive",
         "definitionEN": "To a very great degree; very vital or significant.",
         "translationVI": "Cực kỳ quan trọng",
-        "relatedCollocates": ["critically important", "vital", "essential"],
+        "relatedCollocates": [
+          "critically important",
+          "vital",
+          "essential"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "important", "meaning": "quan trọng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "important",
+              "meaning": "quan trọng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1834,7 +2728,7 @@
       }
     },
     {
-      "id": 83,
+      "id": "1761813174078-25-82-296c39f2",
       "targetLexeme": "small mammals",
       "sourceContext": "...insect predators like woodpeckers, bats and small mammals.",
       "phase1Inference": {
@@ -1845,9 +2739,21 @@
         "sentiment": "neutral",
         "definitionEN": "Animals of a class that are distinguished by the possession of hair or fur, females that secrete milk for the nourishment of the young, and (typically) the birth of live young, which are not large in size.",
         "translationVI": "Động vật có vú nhỏ",
-        "relatedCollocates": ["rodents", "squirrels", "mice"],
+        "relatedCollocates": [
+          "rodents",
+          "squirrels",
+          "mice"
+        ],
         "wordForms": {
-          "noun": [{ "form": "mammal", "meaning": "động vật có vú" }]
+          "noun": [
+            {
+              "form": "mammal",
+              "meaning": "động vật có vú"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1856,7 +2762,7 @@
       }
     },
     {
-      "id": 84,
+      "id": "1761813174078-25-83-16ceb257",
       "targetLexeme": "for example",
       "sourceContext": "It is also important to remember that not all small trees are low-use. For example, many species like hawthorn provide food for wildlife.",
       "phase1Inference": {
@@ -1867,9 +2773,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to introduce something that is an illustration of a point you have just made.",
         "translationVI": "Ví dụ",
-        "relatedCollocates": ["for instance", "such as"],
+        "relatedCollocates": [
+          "for instance",
+          "such as"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "for example", "meaning": "ví dụ" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "for example",
+              "meaning": "ví dụ"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1878,7 +2795,7 @@
       }
     },
     {
-      "id": 85,
+      "id": "1761813174078-25-84-13d5f3de",
       "targetLexeme": "add to",
       "sourceContext": "...rare species of trees in a forest should also stay behind as they add to its structural diversity.",
       "phase1Inference": {
@@ -1889,9 +2806,20 @@
         "sentiment": "positive",
         "definitionEN": "To increase the size, number, or importance of something.",
         "translationVI": "Thêm vào, góp phần vào",
-        "relatedCollocates": ["contribute to", "increase"],
+        "relatedCollocates": [
+          "contribute to",
+          "increase"
+        ],
         "wordForms": {
-          "verb": [{ "form": "add", "meaning": "thêm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "add",
+              "meaning": "thêm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1900,7 +2828,7 @@
       }
     },
     {
-      "id": 86,
+      "id": "1761813174078-25-85-159fdf51",
       "targetLexeme": "junk trees",
       "sourceContext": "Some people even call these ‘junk trees’, and they are abundant in Pennsylvania.",
       "phase1Inference": {
@@ -1911,9 +2839,20 @@
         "sentiment": "negative",
         "definitionEN": "An informal term for trees that have little or no commercial or economic value for timber.",
         "translationVI": "Cây tạp, cây vô giá trị",
-        "relatedCollocates": ["low-value trees", "undesirable species"],
+        "relatedCollocates": [
+          "low-value trees",
+          "undesirable species"
+        ],
         "wordForms": {
-          "noun": [{ "form": "junk", "meaning": "đồ bỏ đi, rác" }]
+          "noun": [
+            {
+              "form": "junk",
+              "meaning": "đồ bỏ đi, rác"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1922,7 +2861,7 @@
       }
     },
     {
-      "id": 87,
+      "id": "1761813174078-25-86-09076d24",
       "targetLexeme": "woodpeckers",
       "sourceContext": "...habitats for insect predators like woodpeckers, bats and small mammals.",
       "phase1Inference": {
@@ -1933,9 +2872,20 @@
         "sentiment": "neutral",
         "definitionEN": "Birds that have a strong bill and a stiff tail, which they use to climb trees and peck for insects.",
         "translationVI": "Chim gõ kiến",
-        "relatedCollocates": ["birds", "insectivore"],
+        "relatedCollocates": [
+          "birds",
+          "insectivore"
+        ],
         "wordForms": {
-          "noun": [{ "form": "woodpecker", "meaning": "chim gõ kiến" }]
+          "noun": [
+            {
+              "form": "woodpecker",
+              "meaning": "chim gõ kiến"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1944,7 +2894,7 @@
       }
     },
     {
-      "id": 88,
+      "id": "1761813174078-25-87-3042dbe1",
       "targetLexeme": "accessibility",
       "sourceContext": "A tree’s ‘value’ depends on several factors including its species, size, form, condition, quality, function, and accessibility...",
       "phase1Inference": {
@@ -1955,9 +2905,20 @@
         "sentiment": "neutral",
         "definitionEN": "The quality of being easy to reach or enter, especially in the context of logging and harvesting.",
         "translationVI": "Khả năng tiếp cận",
-        "relatedCollocates": ["ease of access", "location"],
+        "relatedCollocates": [
+          "ease of access",
+          "location"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "accessible", "meaning": "có thể tiếp cận" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "accessible",
+              "meaning": "có thể tiếp cận"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1966,7 +2927,7 @@
       }
     },
     {
-      "id": 89,
+      "id": "1761813174078-25-88-45d068f0",
       "targetLexeme": "cut into logs",
       "sourceContext": "A large, straight black cherry tree has high value as timber to be cut into logs or made into furniture...",
       "phase1Inference": {
@@ -1977,9 +2938,20 @@
         "sentiment": "neutral",
         "definitionEN": "To saw a felled tree into shorter, standardized lengths for transport and milling.",
         "translationVI": "Cắt thành khúc",
-        "relatedCollocates": ["bucking", "sawing"],
+        "relatedCollocates": [
+          "bucking",
+          "sawing"
+        ],
         "wordForms": {
-          "noun": [{ "form": "log", "meaning": "khúc gỗ" }]
+          "noun": [
+            {
+              "form": "log",
+              "meaning": "khúc gỗ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1988,7 +2960,7 @@
       }
     },
     {
-      "id": 90,
+      "id": "1761813174078-25-89-535fe446",
       "targetLexeme": "made into furniture",
       "sourceContext": "...timber to be cut into logs or made into furniture...",
       "phase1Inference": {
@@ -1999,9 +2971,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be manufactured or crafted into items such as tables, chairs, and cabinets.",
         "translationVI": "Được làm thành đồ nội thất",
-        "relatedCollocates": ["crafted into", "used for cabinetry"],
+        "relatedCollocates": [
+          "crafted into",
+          "used for cabinetry"
+        ],
         "wordForms": {
-          "noun": [{ "form": "furniture", "meaning": "đồ nội thất" }]
+          "noun": [
+            {
+              "form": "furniture",
+              "meaning": "đồ nội thất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2010,7 +2993,7 @@
       }
     },
     {
-      "id": 91,
+      "id": "1761813174078-25-90-4bdb6ad5",
       "targetLexeme": "woodworker",
       "sourceContext": "...but to a woodworker interested in making bowls, it brings an opportunity for a unique and beautiful piece of art.",
       "phase1Inference": {
@@ -2021,9 +3004,21 @@
         "sentiment": "neutral",
         "definitionEN": "A person who crafts things out of wood.",
         "translationVI": "Thợ mộc",
-        "relatedCollocates": ["carpenter", "craftsman", "artisan"],
+        "relatedCollocates": [
+          "carpenter",
+          "craftsman",
+          "artisan"
+        ],
         "wordForms": {
-          "noun": [{ "form": "woodworking", "meaning": "nghề mộc" }]
+          "noun": [
+            {
+              "form": "woodworking",
+              "meaning": "nghề mộc"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2032,7 +3027,7 @@
       }
     },
     {
-      "id": 92,
+      "id": "1761813174078-25-91-59739f6f",
       "targetLexeme": "piece of art",
       "sourceContext": "...it brings an opportunity for a unique and beautiful piece of art.",
       "phase1Inference": {
@@ -2043,9 +3038,20 @@
         "sentiment": "positive",
         "definitionEN": "An object made by a skilled person, especially a painting, drawing, or sculpture, that is beautiful or expresses ideas.",
         "translationVI": "Tác phẩm nghệ thuật",
-        "relatedCollocates": ["artwork", "masterpiece"],
+        "relatedCollocates": [
+          "artwork",
+          "masterpiece"
+        ],
         "wordForms": {
-          "noun": [{ "form": "art", "meaning": "nghệ thuật" }]
+          "noun": [
+            {
+              "form": "art",
+              "meaning": "nghệ thuật"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2054,7 +3060,7 @@
       }
     },
     {
-      "id": 93,
+      "id": "1761813174078-25-92-5289b2f0",
       "targetLexeme": "well suited to the site",
       "sourceContext": "...leave behind poorly formed trees that were not as well suited to the site where they grew.",
       "phase1Inference": {
@@ -2065,9 +3071,20 @@
         "sentiment": "positive",
         "definitionEN": "To be appropriate for or adapted to the specific environmental conditions (like soil, light, moisture) of a location.",
         "translationVI": "Phù hợp tốt với địa điểm",
-        "relatedCollocates": ["adapted to the environment", "site-appropriate"],
+        "relatedCollocates": [
+          "adapted to the environment",
+          "site-appropriate"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "suited", "meaning": "phù hợp" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "suited",
+              "meaning": "phù hợp"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2076,7 +3093,7 @@
       }
     },
     {
-      "id": 94,
+      "id": "1761813174078-25-93-606437a8",
       "targetLexeme": "compete for growth",
       "sourceContext": "These trees... compete for growth with higher-value trees...",
       "phase1Inference": {
@@ -2087,9 +3104,20 @@
         "sentiment": "negative",
         "definitionEN": "To strive against other organisms for limited resources such as sunlight, water, and nutrients needed to grow.",
         "translationVI": "Cạnh tranh để phát triển",
-        "relatedCollocates": ["compete for resources", "struggle for survival"],
+        "relatedCollocates": [
+          "compete for resources",
+          "struggle for survival"
+        ],
         "wordForms": {
-          "verb": [{ "form": "compete", "meaning": "cạnh tranh" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "compete",
+              "meaning": "cạnh tranh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2098,7 +3126,7 @@
       }
     },
     {
-      "id": 95,
+      "id": "1761813174078-25-94-6c91aa3c",
       "targetLexeme": "higher-value trees",
       "sourceContext": "...compete for growth with higher-value trees...",
       "phase1Inference": {
@@ -2109,9 +3137,20 @@
         "sentiment": "positive",
         "definitionEN": "Trees that have greater economic or ecological worth compared to others in the same stand.",
         "translationVI": "Những cây có giá trị cao hơn",
-        "relatedCollocates": ["valuable species", "low-value trees"],
+        "relatedCollocates": [
+          "valuable species",
+          "low-value trees"
+        ],
         "wordForms": {
-          "noun": [{ "form": "value", "meaning": "giá trị" }]
+          "noun": [
+            {
+              "form": "value",
+              "meaning": "giá trị"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2120,7 +3159,7 @@
       }
     },
     {
-      "id": 96,
+      "id": "1761813174078-25-95-179c5326",
       "targetLexeme": "facilities",
       "sourceContext": "Many schools and hospitals use wood boiler systems to heat and power their facilities...",
       "phase1Inference": {
@@ -2131,9 +3170,21 @@
         "sentiment": "neutral",
         "definitionEN": "The buildings, equipment, and services provided for a particular purpose.",
         "translationVI": "Các cơ sở vật chất",
-        "relatedCollocates": ["buildings", "premises", "installations"],
+        "relatedCollocates": [
+          "buildings",
+          "premises",
+          "installations"
+        ],
         "wordForms": {
-          "noun": [{ "form": "facility", "meaning": "cơ sở vật chất" }]
+          "noun": [
+            {
+              "form": "facility",
+              "meaning": "cơ sở vật chất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2142,7 +3193,7 @@
       }
     },
     {
-      "id": 97,
+      "id": "1761813174078-25-96-11d5177c",
       "targetLexeme": "lorries and cars",
       "sourceContext": "...liquid fuels like ethanol and gasoline for lorries and cars.",
       "phase1Inference": {
@@ -2153,12 +3204,24 @@
         "sentiment": "neutral",
         "definitionEN": "Motor vehicles used for transporting goods (lorries/trucks) and people (cars).",
         "translationVI": "Xe tải và xe hơi",
-        "relatedCollocates": ["vehicles", "automobiles"],
+        "relatedCollocates": [
+          "vehicles",
+          "automobiles"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "lorry", "meaning": "xe tải" },
-            { "form": "car", "meaning": "xe hơi" }
-          ]
+            {
+              "form": "lorry",
+              "meaning": "xe tải"
+            },
+            {
+              "form": "car",
+              "meaning": "xe hơi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2167,7 +3230,7 @@
       }
     },
     {
-      "id": 98,
+      "id": "1761813174078-25-97-44543bda",
       "targetLexeme": "greatly improve",
       "sourceContext": "...which could greatly improve the long-term quality of a forest...",
       "phase1Inference": {
@@ -2178,9 +3241,20 @@
         "sentiment": "positive",
         "definitionEN": "To make something much better.",
         "translationVI": "Cải thiện đáng kể",
-        "relatedCollocates": ["significantly enhance", "vastly improve"],
+        "relatedCollocates": [
+          "significantly enhance",
+          "vastly improve"
+        ],
         "wordForms": {
-          "verb": [{ "form": "improve", "meaning": "cải thiện" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "improve",
+              "meaning": "cải thiện"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2189,7 +3263,7 @@
       }
     },
     {
-      "id": 99,
+      "id": "1761813174078-25-98-100fc24f",
       "targetLexeme": "focus solely on",
       "sourceContext": "...focus strongly or solely on the use of wood for those markets.",
       "phase1Inference": {
@@ -2200,9 +3274,20 @@
         "sentiment": "neutral",
         "definitionEN": "To concentrate exclusively on one thing.",
         "translationVI": "Chỉ tập trung vào",
-        "relatedCollocates": ["concentrate only on", "focus exclusively on"],
+        "relatedCollocates": [
+          "concentrate only on",
+          "focus exclusively on"
+        ],
         "wordForms": {
-          "verb": [{ "form": "focus on", "meaning": "tập trung vào" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "focus on",
+              "meaning": "tập trung vào"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2211,7 +3296,7 @@
       }
     },
     {
-      "id": 100,
+      "id": "1761813174078-25-99-3a5094e9",
       "targetLexeme": "stems that remain",
       "sourceContext": "...resources to the highest-valued stems that remain.",
       "phase1Inference": {
@@ -2222,9 +3307,20 @@
         "sentiment": "neutral",
         "definitionEN": "The trees that are left standing after a cutting or thinning operation.",
         "translationVI": "Những thân cây còn lại",
-        "relatedCollocates": ["remaining trees", "residual stand"],
+        "relatedCollocates": [
+          "remaining trees",
+          "residual stand"
+        ],
         "wordForms": {
-          "verb": [{ "form": "remain", "meaning": "còn lại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "remain",
+              "meaning": "còn lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2233,7 +3329,7 @@
       }
     },
     {
-      "id": 101,
+      "id": "1761813174078-25-100-6fec68a0",
       "targetLexeme": "grow in size",
       "sourceContext": "The stems that are left behind might then grow in size...",
       "phase1Inference": {
@@ -2244,9 +3340,20 @@
         "sentiment": "positive",
         "definitionEN": "To become larger or bigger.",
         "translationVI": "Phát triển về kích thước",
-        "relatedCollocates": ["increase in diameter", "get bigger"],
+        "relatedCollocates": [
+          "increase in diameter",
+          "get bigger"
+        ],
         "wordForms": {
-          "noun": [{ "form": "size", "meaning": "kích thước" }]
+          "noun": [
+            {
+              "form": "size",
+              "meaning": "kích thước"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2255,7 +3362,7 @@
       }
     },
     {
-      "id": 102,
+      "id": "1761813174078-25-101-7c15ae0a",
       "targetLexeme": "produce more coverage",
       "sourceContext": "...that produce more coverage for wildlife...",
       "phase1Inference": {
@@ -2266,9 +3373,20 @@
         "sentiment": "positive",
         "definitionEN": "To create a larger area of foliage or canopy that provides shelter or protection, especially for animals.",
         "translationVI": "Tạo ra nhiều độ che phủ hơn",
-        "relatedCollocates": ["provide more shelter", "increase canopy cover"],
+        "relatedCollocates": [
+          "provide more shelter",
+          "increase canopy cover"
+        ],
         "wordForms": {
-          "noun": [{ "form": "coverage", "meaning": "độ che phủ" }]
+          "noun": [
+            {
+              "form": "coverage",
+              "meaning": "độ che phủ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2277,7 +3395,7 @@
       }
     },
     {
-      "id": 103,
+      "id": "1761813174078-25-102-076c8db9",
       "targetLexeme": "better chance",
       "sourceContext": "...they have a better chance to regenerate in a less crowded environment.",
       "phase1Inference": {
@@ -2288,9 +3406,20 @@
         "sentiment": "positive",
         "definitionEN": "A greater likelihood or probability of something happening.",
         "translationVI": "Cơ hội tốt hơn",
-        "relatedCollocates": ["higher probability", "greater opportunity"],
+        "relatedCollocates": [
+          "higher probability",
+          "greater opportunity"
+        ],
         "wordForms": {
-          "noun": [{ "form": "chance", "meaning": "cơ hội" }]
+          "noun": [
+            {
+              "form": "chance",
+              "meaning": "cơ hội"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2299,7 +3428,7 @@
       }
     },
     {
-      "id": 104,
+      "id": "1761813174078-25-103-4cf9f39b",
       "targetLexeme": "his or her land",
       "sourceContext": "...one farmer’s specific management goals for his or her land.",
       "phase1Inference": {
@@ -2310,9 +3439,20 @@
         "sentiment": "neutral",
         "definitionEN": "The property belonging to an individual, regardless of gender.",
         "translationVI": "Đất đai của anh/cô ấy",
-        "relatedCollocates": ["their property", "one's own land"],
+        "relatedCollocates": [
+          "their property",
+          "one's own land"
+        ],
         "wordForms": {
-          "noun": [{ "form": "land", "meaning": "đất đai" }]
+          "noun": [
+            {
+              "form": "land",
+              "meaning": "đất đai"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2321,7 +3461,7 @@
       }
     },
     {
-      "id": 105,
+      "id": "1761813174078-25-104-48567a52",
       "targetLexeme": "hemlock woolly adelgid",
       "sourceContext": "...including hemlock woolly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth...",
       "phase1Inference": {
@@ -2332,9 +3472,20 @@
         "sentiment": "negative",
         "definitionEN": "A small, aphid-like invasive insect that attacks and kills hemlock trees by feeding on their sap.",
         "translationVI": "Rệp sáp hại cây độc cần",
-        "relatedCollocates": ["invasive pest", "insect infestation"],
+        "relatedCollocates": [
+          "invasive pest",
+          "insect infestation"
+        ],
         "wordForms": {
-          "noun": [{ "form": "adelgid", "meaning": "một loại rệp" }]
+          "noun": [
+            {
+              "form": "adelgid",
+              "meaning": "một loại rệp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2343,7 +3494,7 @@
       }
     },
     {
-      "id": 106,
+      "id": "1761813174078-25-105-66db30a1",
       "targetLexeme": "Asian longhorned beetle",
       "sourceContext": "...including hemlock woolly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth...",
       "phase1Inference": {
@@ -2354,9 +3505,20 @@
         "sentiment": "negative",
         "definitionEN": "A large, destructive wood-boring beetle native to East Asia that attacks and kills many species of hardwood trees.",
         "translationVI": "Xén tóc châu Á",
-        "relatedCollocates": ["invasive beetle", "wood-boring insect"],
+        "relatedCollocates": [
+          "invasive beetle",
+          "wood-boring insect"
+        ],
         "wordForms": {
-          "noun": [{ "form": "beetle", "meaning": "bọ cánh cứng" }]
+          "noun": [
+            {
+              "form": "beetle",
+              "meaning": "bọ cánh cứng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2365,7 +3527,7 @@
       }
     },
     {
-      "id": 107,
+      "id": "1761813174078-25-106-0fa198a3",
       "targetLexeme": "gypsy moth",
       "sourceContext": "...including hemlock woolly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth...",
       "phase1Inference": {
@@ -2376,9 +3538,20 @@
         "sentiment": "negative",
         "definitionEN": "An invasive moth whose caterpillars are major pests, defoliating and weakening a wide variety of trees.",
         "translationVI": "Bướm đêm gypsy",
-        "relatedCollocates": ["defoliator", "caterpillar pest"],
+        "relatedCollocates": [
+          "defoliator",
+          "caterpillar pest"
+        ],
         "wordForms": {
-          "noun": [{ "form": "moth", "meaning": "bướm đêm" }]
+          "noun": [
+            {
+              "form": "moth",
+              "meaning": "bướm đêm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2387,7 +3560,7 @@
       }
     },
     {
-      "id": 108,
+      "id": "1761813174078-25-107-0e9ade60",
       "targetLexeme": "reduce the number of",
       "sourceContext": "These types of cut reduce the number of sick trees...",
       "phase1Inference": {
@@ -2403,7 +3576,15 @@
           "lower the amount of"
         ],
         "wordForms": {
-          "verb": [{ "form": "reduce", "meaning": "giảm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "reduce",
+              "meaning": "giảm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2412,7 +3593,7 @@
       }
     },
     {
-      "id": 109,
+      "id": "1761813174078-25-108-717ac69a",
       "targetLexeme": "seek to manage",
       "sourceContext": "...and seek to manage the future spread of a pest problem.",
       "phase1Inference": {
@@ -2423,9 +3604,20 @@
         "sentiment": "neutral",
         "definitionEN": "To try or attempt to control or deal with something.",
         "translationVI": "Tìm cách quản lý",
-        "relatedCollocates": ["attempt to control", "try to handle"],
+        "relatedCollocates": [
+          "attempt to control",
+          "try to handle"
+        ],
         "wordForms": {
-          "verb": [{ "form": "seek", "meaning": "tìm kiếm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "seek",
+              "meaning": "tìm kiếm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2434,7 +3626,7 @@
       }
     },
     {
-      "id": 110,
+      "id": "1761813174078-25-109-673ba046",
       "targetLexeme": "takes place in",
       "sourceContext": "A Shelterwood Cut, which only takes place in a mature forest...",
       "phase1Inference": {
@@ -2445,9 +3637,20 @@
         "sentiment": "neutral",
         "definitionEN": "To happen or occur in a particular location.",
         "translationVI": "Diễn ra ở",
-        "relatedCollocates": ["occurs in", "happens at"],
+        "relatedCollocates": [
+          "occurs in",
+          "happens at"
+        ],
         "wordForms": {
-          "verb": [{ "form": "take place", "meaning": "diễn ra" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "take place",
+              "meaning": "diễn ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2456,7 +3659,7 @@
       }
     },
     {
-      "id": 111,
+      "id": "1761813174078-25-110-1cfbcf9a",
       "targetLexeme": "involves removing",
       "sourceContext": "...involves removing all the mature trees when other seedlings have become established.",
       "phase1Inference": {
@@ -2467,9 +3670,20 @@
         "sentiment": "neutral",
         "definitionEN": "To have something as a necessary part or result; to include the action of taking something away.",
         "translationVI": "Bao gồm việc loại bỏ",
-        "relatedCollocates": ["includes the removal of", "entails cutting"],
+        "relatedCollocates": [
+          "includes the removal of",
+          "entails cutting"
+        ],
         "wordForms": {
-          "verb": [{ "form": "involve", "meaning": "bao gồm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "involve",
+              "meaning": "bao gồm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2478,7 +3692,7 @@
       }
     },
     {
-      "id": 112,
+      "id": "1761813174078-25-111-14c47111",
       "targetLexeme": "young forest",
       "sourceContext": "It leaves a young forest where all trees are at a similar point in their growth.",
       "phase1Inference": {
@@ -2489,9 +3703,20 @@
         "sentiment": "neutral",
         "definitionEN": "A forest in an early stage of development, typically characterized by small, fast-growing trees.",
         "translationVI": "Rừng non",
-        "relatedCollocates": ["early successional forest", "mature forest"],
+        "relatedCollocates": [
+          "early successional forest",
+          "mature forest"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "young", "meaning": "trẻ, non" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "young",
+              "meaning": "trẻ, non"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2500,7 +3725,7 @@
       }
     },
     {
-      "id": 113,
+      "id": "1761813174078-25-112-24b9d71e",
       "targetLexeme": "money that comes in",
       "sourceContext": "...and the money that comes in is spread out over a decade or more.",
       "phase1Inference": {
@@ -2511,9 +3736,21 @@
         "sentiment": "neutral",
         "definitionEN": "The revenue or income that is received.",
         "translationVI": "Số tiền thu được",
-        "relatedCollocates": ["income", "revenue", "earnings"],
+        "relatedCollocates": [
+          "income",
+          "revenue",
+          "earnings"
+        ],
         "wordForms": {
-          "noun": [{ "form": "money", "meaning": "tiền" }]
+          "noun": [
+            {
+              "form": "money",
+              "meaning": "tiền"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2522,7 +3759,7 @@
       }
     },
     {
-      "id": 114,
+      "id": "1761813174078-25-113-418587d4",
       "targetLexeme": "dense wood",
       "sourceContext": "Thinnings and dense and dead wood removal for fire prevention...",
       "phase1Inference": {
@@ -2533,9 +3770,20 @@
         "sentiment": "neutral",
         "definitionEN": "An area of forest with trees growing very close together.",
         "translationVI": "Rừng cây rậm rạp",
-        "relatedCollocates": ["thick forest", "overcrowded stand"],
+        "relatedCollocates": [
+          "thick forest",
+          "overcrowded stand"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "dense", "meaning": "dày đặc, rậm rạp" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "dense",
+              "meaning": "dày đặc, rậm rạp"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2544,7 +3792,7 @@
       }
     },
     {
-      "id": 115,
+      "id": "1761813174078-25-114-43b11150",
       "targetLexeme": "dead wood",
       "sourceContext": "Thinnings and dense and dead wood removal for fire prevention...",
       "phase1Inference": {
@@ -2555,9 +3803,20 @@
         "sentiment": "neutral",
         "definitionEN": "Dead trees, branches, and other woody material in a forest, either standing or on the ground.",
         "translationVI": "Gỗ chết, củi khô",
-        "relatedCollocates": ["snags", "coarse woody debris"],
+        "relatedCollocates": [
+          "snags",
+          "coarse woody debris"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "dead", "meaning": "chết" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "dead",
+              "meaning": "chết"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2566,7 +3825,7 @@
       }
     },
     {
-      "id": 116,
+      "id": "1761813174078-25-115-023626f1",
       "targetLexeme": "cut down",
       "sourceContext": "The tops of trees that have been cut down should be left on the site...",
       "phase1Inference": {
@@ -2577,9 +3836,20 @@
         "sentiment": "neutral",
         "definitionEN": "To cause a tree to fall to the ground by cutting it near the base; to fell.",
         "translationVI": "Đốn hạ",
-        "relatedCollocates": ["felled", "harvested"],
+        "relatedCollocates": [
+          "felled",
+          "harvested"
+        ],
         "wordForms": {
-          "verb": [{ "form": "cut down", "meaning": "đốn hạ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "cut down",
+              "meaning": "đốn hạ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2588,7 +3858,7 @@
       }
     },
     {
-      "id": 117,
+      "id": "1761813174078-25-116-1c591a85",
       "targetLexeme": "should be left",
       "sourceContext": "The tops of trees that have been cut down should be left on the site...",
       "phase1Inference": {
@@ -2599,9 +3869,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to say that it is the right or best thing for something to remain in a place.",
         "translationVI": "Nên được để lại",
-        "relatedCollocates": ["ought to remain", "it is advisable to leave"],
+        "relatedCollocates": [
+          "ought to remain",
+          "it is advisable to leave"
+        ],
         "wordForms": {
-          "verb": [{ "form": "leave", "meaning": "để lại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "leave",
+              "meaning": "để lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2610,7 +3891,7 @@
       }
     },
     {
-      "id": 118,
+      "id": "1761813174078-25-117-3a956140",
       "targetLexeme": "bats",
       "sourceContext": "...insect predators like woodpeckers, bats and small mammals.",
       "phase1Inference": {
@@ -2621,9 +3902,20 @@
         "sentiment": "neutral",
         "definitionEN": "Flying mammals with forelimbs adapted as wings, which are active at night and feed on insects, fruit, or blood.",
         "translationVI": "Con dơi",
-        "relatedCollocates": ["mammals", "nocturnal animals"],
+        "relatedCollocates": [
+          "mammals",
+          "nocturnal animals"
+        ],
         "wordForms": {
-          "noun": [{ "form": "bat", "meaning": "con dơi" }]
+          "noun": [
+            {
+              "form": "bat",
+              "meaning": "con dơi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2632,7 +3924,7 @@
       }
     },
     {
-      "id": 119,
+      "id": "1761813174078-25-118-46d58143",
       "targetLexeme": "hawthorn",
       "sourceContext": "For example, many species like hawthorn provide food for wildlife.",
       "phase1Inference": {
@@ -2643,9 +3935,20 @@
         "sentiment": "positive",
         "definitionEN": "A thorny shrub or tree of the rose family, with white, pink, or red blossoms and small, red fruits (haws).",
         "translationVI": "Cây táo gai",
-        "relatedCollocates": ["shrub", "berry-producing tree"],
+        "relatedCollocates": [
+          "shrub",
+          "berry-producing tree"
+        ],
         "wordForms": {
-          "noun": [{ "form": "hawthorn", "meaning": "cây táo gai" }]
+          "noun": [
+            {
+              "form": "hawthorn",
+              "meaning": "cây táo gai"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2654,7 +3957,7 @@
       }
     },
     {
-      "id": 120,
+      "id": "1761813174078-25-119-6cfc9e92",
       "targetLexeme": "provide food for",
       "sourceContext": "...many species like hawthorn provide food for wildlife.",
       "phase1Inference": {
@@ -2665,9 +3968,20 @@
         "sentiment": "positive",
         "definitionEN": "To supply or make available something to eat for a person or animal.",
         "translationVI": "Cung cấp thức ăn cho",
-        "relatedCollocates": ["supply nourishment", "serve as a food source"],
+        "relatedCollocates": [
+          "supply nourishment",
+          "serve as a food source"
+        ],
         "wordForms": {
-          "verb": [{ "form": "provide", "meaning": "cung cấp" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "provide",
+              "meaning": "cung cấp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2676,7 +3990,7 @@
       }
     },
     {
-      "id": 121,
+      "id": "1761813174078-25-120-4526e823",
       "targetLexeme": "stay behind",
       "sourceContext": "Finally, rare species of trees in a forest should also stay behind as they add to its structural diversity.",
       "phase1Inference": {
@@ -2687,9 +4001,20 @@
         "sentiment": "neutral",
         "definitionEN": "To remain in a place when others leave; to be left and not removed.",
         "translationVI": "Ở lại, được giữ lại",
-        "relatedCollocates": ["remain", "be left"],
+        "relatedCollocates": [
+          "remain",
+          "be left"
+        ],
         "wordForms": {
-          "verb": [{ "form": "stay", "meaning": "ở lại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "stay",
+              "meaning": "ở lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2698,7 +4023,7 @@
       }
     },
     {
-      "id": 122,
+      "id": "1761813174078-25-121-42f0223c",
       "targetLexeme": "suffers from",
       "sourceContext": "Likewise, if the tree suffers from black knot disease, its value for timber decreases...",
       "phase1Inference": {
@@ -2709,9 +4034,20 @@
         "sentiment": "negative",
         "definitionEN": "To experience or be subjected to something bad, such as an illness or problem.",
         "translationVI": "Bị, mắc phải",
-        "relatedCollocates": ["is affected by", "is afflicted with"],
+        "relatedCollocates": [
+          "is affected by",
+          "is afflicted with"
+        ],
         "wordForms": {
-          "verb": [{ "form": "suffer", "meaning": "chịu đựng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "suffer",
+              "meaning": "chịu đựng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2720,7 +4056,7 @@
       }
     },
     {
-      "id": 123,
+      "id": "1761813174078-25-122-7e9d102e",
       "targetLexeme": "value for timber",
       "sourceContext": "...its value for timber decreases...",
       "phase1Inference": {
@@ -2731,9 +4067,20 @@
         "sentiment": "neutral",
         "definitionEN": "The economic worth of a tree when it is sold to be processed into wood products.",
         "translationVI": "Giá trị làm gỗ",
-        "relatedCollocates": ["timber value", "stumpage value"],
+        "relatedCollocates": [
+          "timber value",
+          "stumpage value"
+        ],
         "wordForms": {
-          "noun": [{ "form": "value", "meaning": "giá trị" }]
+          "noun": [
+            {
+              "form": "value",
+              "meaning": "giá trị"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2742,7 +4089,7 @@
       }
     },
     {
-      "id": 124,
+      "id": "1761813174078-25-123-7d2aaaf8",
       "targetLexeme": "leave behind",
       "sourceContext": "...and leave behind poorly formed trees that were not as well suited to the site where they grew.",
       "phase1Inference": {
@@ -2753,9 +4100,20 @@
         "sentiment": "neutral",
         "definitionEN": "To not take something or someone with you when you go; to allow something to remain.",
         "translationVI": "Bỏ lại, để lại",
-        "relatedCollocates": ["abandon", "let remain"],
+        "relatedCollocates": [
+          "abandon",
+          "let remain"
+        ],
         "wordForms": {
-          "verb": [{ "form": "leave", "meaning": "rời đi, để lại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "leave",
+              "meaning": "rời đi, để lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2764,7 +4122,7 @@
       }
     },
     {
-      "id": 125,
+      "id": "1761813174078-25-124-1fa961b6",
       "targetLexeme": "not all small trees are low-use",
       "sourceContext": "It is also important to remember that not all small trees are low-use.",
       "phase1Inference": {
@@ -2780,7 +4138,15 @@
           "value is not determined by size"
         ],
         "wordForms": {
-          "adjective": [{ "form": "low-use", "meaning": "ít công dụng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "low-use",
+              "meaning": "ít công dụng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2788,5 +4154,11 @@
         "content": "It's a mistake to clear all the understory, as not all small trees are low-use; many provide critical food for wildlife."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.078Z",
+    "version": "2.0",
+    "originalCount": 125,
+    "migratedCount": 125
+  }
 }

@@ -4,7 +4,7 @@
   "totalItems": 75,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174026-5-0-5a3c57b2",
       "targetLexeme": "revered human qualities",
       "sourceContext": "Across cultures, wisdom has been considered one of the most revered human qualities.",
       "phase1Inference": {
@@ -15,9 +15,20 @@
         "sentiment": "positive",
         "definitionEN": "Human characteristics that are deeply respected or admired",
         "translationVI": "Những phẩm chất con người được tôn kính",
-        "relatedCollocates": ["highly revered", "admired qualities"],
+        "relatedCollocates": [
+          "highly revered",
+          "admired qualities"
+        ],
         "wordForms": {
-          "verb": [{ "form": "revere", "meaning": "tôn kính" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "revere",
+              "meaning": "tôn kính"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -26,7 +37,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174026-5-1-5b2af52f",
       "targetLexeme": "few and far between",
       "sourceContext": "Although the truly wise may seem few and far between, empirical research examining wisdom suggests that...",
       "phase1Inference": {
@@ -37,8 +48,16 @@
         "sentiment": "neutral",
         "definitionEN": "An idiom meaning scarce or infrequent",
         "translationVI": "Hiếm có, không thường xuyên",
-        "relatedCollocates": ["scarce (synonym)", "rare (synonym)"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "scarce (synonym)",
+          "rare (synonym)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -46,7 +65,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174026-5-2-66975c40",
       "targetLexeme": "empirical research",
       "sourceContext": "...empirical research examining wisdom suggests that it isn’t an exceptional trait...",
       "phase1Inference": {
@@ -57,9 +76,20 @@
         "sentiment": "neutral",
         "definitionEN": "Research based on observation or experience rather than theory or pure logic",
         "translationVI": "Nghiên cứu thực nghiệm",
-        "relatedCollocates": ["empirical (evidence)", "empirical (study)"],
+        "relatedCollocates": [
+          "empirical (evidence)",
+          "empirical (study)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "empirical", "meaning": "thực nghiệm" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "empirical",
+              "meaning": "thực nghiệm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -68,7 +98,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174026-5-3-6dc3eee1",
       "targetLexeme": "exceptional trait",
       "sourceContext": "...it isn’t an exceptional trait possessed by a small handful of bearded philosophers after all...",
       "phase1Inference": {
@@ -79,9 +109,20 @@
         "sentiment": "positive",
         "definitionEN": "A personal quality that is unusually good and stands out from others",
         "translationVI": "Đặc điểm ngoại lệ/nổi bật",
-        "relatedCollocates": ["a rare (trait)", "an unusual (quality)"],
+        "relatedCollocates": [
+          "a rare (trait)",
+          "an unusual (quality)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "trait", "meaning": "nét, đặc điểm" }]
+          "noun": [
+            {
+              "form": "trait",
+              "meaning": "nét, đặc điểm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -90,7 +131,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174026-5-4-21ab4d9f",
       "targetLexeme": "given the right context",
       "sourceContext": "...most of us have the ability to make wise decisions, given the right context.",
       "phase1Inference": {
@@ -106,7 +147,15 @@
           "under the right (circumstances)"
         ],
         "wordForms": {
-          "noun": [{ "form": "context", "meaning": "bối cảnh" }]
+          "noun": [
+            {
+              "form": "context",
+              "meaning": "bối cảnh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -115,7 +164,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174026-5-5-09b78ff3",
       "targetLexeme": "shaping wisdom",
       "sourceContext": "‘It appears that experiential, situational, and cultural factors are even more powerful in shaping wisdom than previously imagined,’...",
       "phase1Inference": {
@@ -126,9 +175,20 @@
         "sentiment": "neutral",
         "definitionEN": "Influencing the development of the quality of having experience, knowledge, and good judgment",
         "translationVI": "Định hình sự khôn ngoan",
-        "relatedCollocates": ["influence (wisdom)", "develop (wisdom)"],
+        "relatedCollocates": [
+          "influence (wisdom)",
+          "develop (wisdom)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "shape", "meaning": "định hình" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "shape",
+              "meaning": "định hình"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -137,7 +197,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174026-5-6-51c097d0",
       "targetLexeme": "cumulatively suggest",
       "sourceContext": "‘Recent empirical findings from cognitive, developmental, social, and personality psychology cumulatively suggest that...’",
       "phase1Inference": {
@@ -148,9 +208,20 @@
         "sentiment": "neutral",
         "definitionEN": "To indicate or show something as a result of the combined effect of many things",
         "translationVI": "Tích lũy lại cho thấy",
-        "relatedCollocates": ["collectively (suggest)", "taken together"],
+        "relatedCollocates": [
+          "collectively (suggest)",
+          "taken together"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "cumulative", "meaning": "tích lũy" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "cumulative",
+              "meaning": "tích lũy"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -159,7 +230,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174026-5-7-75f3aa25",
       "targetLexeme": "reason wisely",
       "sourceContext": "...people’s ability to reason wisely varies dramatically across experiential and situational contexts.",
       "phase1Inference": {
@@ -170,9 +241,20 @@
         "sentiment": "positive",
         "definitionEN": "To think, understand, and form judgments logically and with good sense",
         "translationVI": "Lập luận một cách khôn ngoan",
-        "relatedCollocates": ["wise (reasoning)", "think (wisely)"],
+        "relatedCollocates": [
+          "wise (reasoning)",
+          "think (wisely)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "reasoning", "meaning": "sự lập luận" }]
+          "noun": [
+            {
+              "form": "reasoning",
+              "meaning": "sự lập luận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -181,7 +263,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174026-5-8-37b9d7c3",
       "targetLexeme": "varies dramatically",
       "sourceContext": "...ability to reason wisely varies dramatically across experiential and situational contexts.",
       "phase1Inference": {
@@ -192,9 +274,20 @@
         "sentiment": "neutral",
         "definitionEN": "To change or differ in a great and sudden way",
         "translationVI": "Thay đổi đột ngột/đáng kể",
-        "relatedCollocates": ["change (dramatically)", "vary (significantly)"],
+        "relatedCollocates": [
+          "change (dramatically)",
+          "vary (significantly)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "vary", "meaning": "thay đổi" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "vary",
+              "meaning": "thay đổi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -203,7 +296,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174026-5-9-636cad53",
       "targetLexeme": "contextual factors",
       "sourceContext": "Understanding the role of such contextual factors offers unique insights...",
       "phase1Inference": {
@@ -214,9 +307,20 @@
         "sentiment": "neutral",
         "definitionEN": "Circumstances or conditions that are related to the situation in which something happens",
         "translationVI": "Các yếu tố bối cảnh",
-        "relatedCollocates": ["situational (factors)", "external (factors)"],
+        "relatedCollocates": [
+          "situational (factors)",
+          "external (factors)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "context", "meaning": "bối cảnh" }]
+          "noun": [
+            {
+              "form": "context",
+              "meaning": "bối cảnh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -225,7 +329,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174026-5-10-38a04849",
       "targetLexeme": "unique insights into",
       "sourceContext": "...offers unique insights into understanding wisdom in daily life...",
       "phase1Inference": {
@@ -236,9 +340,20 @@
         "sentiment": "positive",
         "definitionEN": "A special and accurate understanding of something that was not clear before",
         "translationVI": "Cái nhìn sâu sắc độc đáo về",
-        "relatedCollocates": ["provide (insights)", "valuable (insights)"],
+        "relatedCollocates": [
+          "provide (insights)",
+          "valuable (insights)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "insight", "meaning": "cái nhìn sâu sắc" }]
+          "noun": [
+            {
+              "form": "insight",
+              "meaning": "cái nhìn sâu sắc"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -247,7 +362,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174026-5-11-4a005c2e",
       "targetLexeme": "possess wisdom",
       "sourceContext": "It seems that it’s not so much that some people simply possess wisdom and others lack it...",
       "phase1Inference": {
@@ -258,9 +373,20 @@
         "sentiment": "positive",
         "definitionEN": "To have or own the quality of being wise",
         "translationVI": "Sở hữu sự khôn ngoan",
-        "relatedCollocates": ["have (wisdom)", "acquire (wisdom)"],
+        "relatedCollocates": [
+          "have (wisdom)",
+          "acquire (wisdom)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "possession", "meaning": "sự sở hữu" }]
+          "noun": [
+            {
+              "form": "possession",
+              "meaning": "sự sở hữu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -269,7 +395,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174026-5-12-098211ee",
       "targetLexeme": "solely an 'inner quality'",
       "sourceContext": "‘In other words, wisdom is not solely an ‘inner quality’ but rather unfolds as a function of situations...’",
       "phase1Inference": {
@@ -280,9 +406,20 @@
         "sentiment": "neutral",
         "definitionEN": "Only or exclusively a characteristic that exists within a person's mind or character",
         "translationVI": "Chỉ đơn thuần là một 'phẩm chất bên trong'",
-        "relatedCollocates": ["purely (internal)", "not just"],
+        "relatedCollocates": [
+          "purely (internal)",
+          "not just"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "solely", "meaning": "chỉ, đơn độc" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "solely",
+              "meaning": "chỉ, đơn độc"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -291,7 +428,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174026-5-13-1f3f9099",
       "targetLexeme": "promote wisdom",
       "sourceContext": "Some situations are more likely to promote wisdom than others.",
       "phase1Inference": {
@@ -302,9 +439,20 @@
         "sentiment": "positive",
         "definitionEN": "To encourage the development or increase of wisdom",
         "translationVI": "Thúc đẩy sự khôn ngoan",
-        "relatedCollocates": ["encourage (wisdom)", "foster (wisdom)"],
+        "relatedCollocates": [
+          "encourage (wisdom)",
+          "foster (wisdom)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "promotion", "meaning": "sự thúc đẩy" }]
+          "noun": [
+            {
+              "form": "promotion",
+              "meaning": "sự thúc đẩy"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -313,7 +461,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174026-5-14-72f6b69e",
       "targetLexeme": "a framework of wise reasoning",
       "sourceContext": "...Grossmann and his colleagues have identified four key characteristics as part of a framework of wise reasoning.",
       "phase1Inference": {
@@ -324,9 +472,20 @@
         "sentiment": "neutral",
         "definitionEN": "A basic structure of ideas and principles that supports the process of thinking wisely",
         "translationVI": "Một khuôn khổ của lập luận khôn ngoan",
-        "relatedCollocates": ["a conceptual (framework)", "wise (reasoning)"],
+        "relatedCollocates": [
+          "a conceptual (framework)",
+          "wise (reasoning)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "framework", "meaning": "khung, sườn" }]
+          "noun": [
+            {
+              "form": "framework",
+              "meaning": "khung, sườn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -335,7 +494,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174026-5-15-546d1a09",
       "targetLexeme": "intellectual humility",
       "sourceContext": "One is intellectual humility or recognition of the limits of our own knowledge...",
       "phase1Inference": {
@@ -351,7 +510,15 @@
           "intellectual (arrogance) (antonym)"
         ],
         "wordForms": {
-          "adjective": [{ "form": "humble", "meaning": "khiêm tốn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "humble",
+              "meaning": "khiêm tốn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -360,7 +527,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174026-5-16-3dd559d4",
       "targetLexeme": "appreciation of perspectives",
       "sourceContext": "...another is appreciation of perspectives wider than the issue at hand.",
       "phase1Inference": {
@@ -376,7 +543,15 @@
           "different (perspectives)"
         ],
         "wordForms": {
-          "verb": [{ "form": "appreciate", "meaning": "trân trọng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "appreciate",
+              "meaning": "trân trọng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -385,7 +560,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174026-5-17-0491155b",
       "targetLexeme": "Sensitivity to the possibility of change",
       "sourceContext": "Sensitivity to the possibility of change in social relations is also key...",
       "phase1Inference": {
@@ -396,9 +571,20 @@
         "sentiment": "positive",
         "definitionEN": "The quality of being aware of and responsive to the potential for things to alter",
         "translationVI": "Sự nhạy bén với khả năng thay đổi",
-        "relatedCollocates": ["sensitive (to change)", "awareness of"],
+        "relatedCollocates": [
+          "sensitive (to change)",
+          "awareness of"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "sensitive", "meaning": "nhạy cảm" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "sensitive",
+              "meaning": "nhạy cảm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -407,7 +593,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174026-5-18-5981a65c",
       "targetLexeme": "compromise or integration",
       "sourceContext": "...along with compromise or integration of different attitudes and beliefs.",
       "phase1Inference": {
@@ -418,12 +604,24 @@
         "sentiment": "neutral",
         "definitionEN": "An agreement reached by each side making concessions, or the process of combining different things into a whole",
         "translationVI": "Thỏa hiệp hoặc hợp nhất",
-        "relatedCollocates": ["reach a (compromise)", "integration (of ideas)"],
+        "relatedCollocates": [
+          "reach a (compromise)",
+          "integration (of ideas)"
+        ],
         "wordForms": {
+          "noun": [],
           "verb": [
-            { "form": "compromise", "meaning": "thỏa hiệp" },
-            { "form": "integrate", "meaning": "hợp nhất" }
-          ]
+            {
+              "form": "compromise",
+              "meaning": "thỏa hiệp"
+            },
+            {
+              "form": "integrate",
+              "meaning": "hợp nhất"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -432,7 +630,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174026-5-19-2cdd7408",
       "targetLexeme": "third-party perspective",
       "sourceContext": "...to look at scenarios from a third-party perspective, as though giving advice to a friend.",
       "phase1Inference": {
@@ -447,7 +645,12 @@
           "an outsider's (perspective)",
           "an objective (viewpoint)"
         ],
-        "wordForms": {}
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -455,7 +658,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174026-5-20-101a5667",
       "targetLexeme": "focal features",
       "sourceContext": "Research suggests that when adopting a first-person viewpoint we focus on ‘the focal features of the environment’...",
       "phase1Inference": {
@@ -466,9 +669,20 @@
         "sentiment": "neutral",
         "definitionEN": "The central and most important aspects or characteristics",
         "translationVI": "Các đặc điểm trọng tâm",
-        "relatedCollocates": ["central (features)", "key (aspects)"],
+        "relatedCollocates": [
+          "central (features)",
+          "key (aspects)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "focal", "meaning": "trọng tâm" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "focal",
+              "meaning": "trọng tâm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -477,7 +691,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174026-5-21-18b11e9a",
       "targetLexeme": "reason more broadly",
       "sourceContext": "...and when we adopt a third-person, ‘observer’ viewpoint we reason more broadly...",
       "phase1Inference": {
@@ -493,7 +707,15 @@
           "a broader (perspective)"
         ],
         "wordForms": {
-          "adverb": [{ "form": "broadly", "meaning": "một cách rộng rãi" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "broadly",
+              "meaning": "một cách rộng rãi"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -502,7 +724,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174026-5-22-69568eb4",
       "targetLexeme": "moral ideals",
       "sourceContext": "...and focus more on interpersonal and moral ideals such as justice and impartiality.",
       "phase1Inference": {
@@ -513,9 +735,20 @@
         "sentiment": "positive",
         "definitionEN": "Principles or values relating to right and wrong that are considered perfect or worth aiming for",
         "translationVI": "Các lý tưởng đạo đức",
-        "relatedCollocates": ["moral (principles)", "high (ideals)"],
+        "relatedCollocates": [
+          "moral (principles)",
+          "high (ideals)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "ideal", "meaning": "lý tưởng" }]
+          "noun": [
+            {
+              "form": "ideal",
+              "meaning": "lý tưởng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -524,7 +757,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174026-5-23-7d019fb0",
       "targetLexeme": "impartiality (n)",
       "sourceContext": "...moral ideals such as justice and impartiality.",
       "phase1Inference": {
@@ -535,9 +768,20 @@
         "sentiment": "positive",
         "definitionEN": "The quality of not supporting any of the sides involved in an argument; fairness",
         "translationVI": "Sự công bằng, vô tư",
-        "relatedCollocates": ["fairness (synonym)", "objectivity (synonym)"],
+        "relatedCollocates": [
+          "fairness (synonym)",
+          "objectivity (synonym)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "impartial", "meaning": "công bằng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "impartial",
+              "meaning": "công bằng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -546,7 +790,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174026-5-24-3d7edccb",
       "targetLexeme": "foster cognitive processes",
       "sourceContext": "Looking at problems from this more expansive viewpoint appears to foster cognitive processes related to wise decisions.",
       "phase1Inference": {
@@ -557,9 +801,20 @@
         "sentiment": "positive",
         "definitionEN": "To encourage the development of mental processes of perception, memory, judgment, and reasoning",
         "translationVI": "Thúc đẩy các quá trình nhận thức",
-        "relatedCollocates": ["foster (development)", "cognitive (skills)"],
+        "relatedCollocates": [
+          "foster (development)",
+          "cognitive (skills)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "foster", "meaning": "thúc đẩy" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "foster",
+              "meaning": "thúc đẩy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -568,7 +823,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174026-5-25-40024d57",
       "targetLexeme": "confronted with",
       "sourceContext": "What are we to do, then, when confronted with situations like a disagreement with a spouse...",
       "phase1Inference": {
@@ -579,9 +834,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be faced with or have to deal with a difficult situation",
         "translationVI": "Đối mặt với",
-        "relatedCollocates": ["faced with (synonym)", "deal with"],
+        "relatedCollocates": [
+          "faced with (synonym)",
+          "deal with"
+        ],
         "wordForms": {
-          "noun": [{ "form": "confrontation", "meaning": "sự đối đầu" }]
+          "noun": [
+            {
+              "form": "confrontation",
+              "meaning": "sự đối đầu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -590,7 +856,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174026-5-26-509b18d8",
       "targetLexeme": "take a personal stake",
       "sourceContext": "...that require us to take a personal stake?",
       "phase1Inference": {
@@ -606,7 +872,15 @@
           "personal (involvement)"
         ],
         "wordForms": {
-          "noun": [{ "form": "stake", "meaning": "cổ phần, tiền cược" }]
+          "noun": [
+            {
+              "form": "stake",
+              "meaning": "cổ phần, tiền cược"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -615,7 +889,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174026-5-27-36615feb",
       "targetLexeme": "peak of a recent economic recession",
       "sourceContext": "For example, in one experiment that took place during the peak of a recent economic recession, graduating college seniors were asked to reflect on their job prospects.",
       "phase1Inference": {
@@ -626,9 +900,20 @@
         "sentiment": "negative",
         "definitionEN": "The worst point of a recent period of reduced economic activity",
         "translationVI": "Đỉnh điểm của một cuộc suy thoái kinh tế gần đây",
-        "relatedCollocates": ["economic (downturn)", "recession (n)"],
+        "relatedCollocates": [
+          "economic (downturn)",
+          "recession (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "recession", "meaning": "suy thoái" }]
+          "noun": [
+            {
+              "form": "recession",
+              "meaning": "suy thoái"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -637,7 +922,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174026-5-28-3ab39ab4",
       "targetLexeme": "job prospects",
       "sourceContext": "...graduating college seniors were asked to reflect on their job prospects.",
       "phase1Inference": {
@@ -648,9 +933,20 @@
         "sentiment": "neutral",
         "definitionEN": "The chances or opportunities for future success in a career",
         "translationVI": "Triển vọng nghề nghiệp",
-        "relatedCollocates": ["career (prospects)", "future (prospects)"],
+        "relatedCollocates": [
+          "career (prospects)",
+          "future (prospects)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "prospect", "meaning": "triển vọng" }]
+          "noun": [
+            {
+              "form": "prospect",
+              "meaning": "triển vọng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -659,7 +955,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174026-5-29-5f18dc55",
       "targetLexeme": "a distant observer",
       "sourceContext": "The students were instructed to imagine their career either ‘as if you were a distant observer’ or ‘before your own eyes as if you were right there’.",
       "phase1Inference": {
@@ -675,7 +971,15 @@
           "an impartial (observer)"
         ],
         "wordForms": {
-          "verb": [{ "form": "observe", "meaning": "quan sát" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "observe",
+              "meaning": "quan sát"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -684,7 +988,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174026-5-30-1bafa103",
       "targetLexeme": "control group",
       "sourceContext": "...than did participants in the control group.",
       "phase1Inference": {
@@ -695,8 +999,16 @@
         "sentiment": "neutral",
         "definitionEN": "The group in an experiment or study that does not receive treatment by the researchers and is then used as a benchmark to measure how the other tested subjects do",
         "translationVI": "Nhóm đối chứng",
-        "relatedCollocates": ["experimental (group)", "in an experiment"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "experimental (group)",
+          "in an experiment"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -704,7 +1016,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174026-5-31-47127890",
       "targetLexeme": "long-term romantic relationships",
       "sourceContext": "In another study, couples in long-term romantic relationships were instructed to visualize an unresolved relationship conflict...",
       "phase1Inference": {
@@ -715,8 +1027,16 @@
         "sentiment": "neutral",
         "definitionEN": "Romantic partnerships that have continued for a significant period of time",
         "translationVI": "Các mối quan hệ lãng mạn lâu dài",
-        "relatedCollocates": ["long-term (partner)", "romantic (couple)"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "long-term (partner)",
+          "romantic (couple)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -724,7 +1044,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174026-5-32-6fd0cab0",
       "targetLexeme": "unresolved relationship conflict",
       "sourceContext": "...to visualize an unresolved relationship conflict either through the eyes of an outsider or from their own perspective.",
       "phase1Inference": {
@@ -735,9 +1055,20 @@
         "sentiment": "negative",
         "definitionEN": "A disagreement or argument in a relationship that has not been settled or concluded",
         "translationVI": "Xung đột trong mối quan hệ chưa được giải quyết",
-        "relatedCollocates": ["unresolved (issue)", "relationship (problems)"],
+        "relatedCollocates": [
+          "unresolved (issue)",
+          "relationship (problems)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "resolve", "meaning": "giải quyết" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "resolve",
+              "meaning": "giải quyết"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -746,7 +1077,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174026-5-33-60c18fa4",
       "targetLexeme": "through the eyes of an outsider",
       "sourceContext": "...visualize an unresolved relationship conflict either through the eyes of an outsider or from their own perspective.",
       "phase1Inference": {
@@ -762,7 +1093,15 @@
           "from an objective viewpoint"
         ],
         "wordForms": {
-          "noun": [{ "form": "outsider", "meaning": "người ngoài cuộc" }]
+          "noun": [
+            {
+              "form": "outsider",
+              "meaning": "người ngoài cuộc"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -771,7 +1110,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174026-5-34-6bea7c8d",
       "targetLexeme": "significantly more likely",
       "sourceContext": "Couples in the ‘other’s eyes’ condition were significantly more likely to rely on wise reasoning...",
       "phase1Inference": {
@@ -782,9 +1121,20 @@
         "sentiment": "positive",
         "definitionEN": "Having a much greater probability or chance of happening",
         "translationVI": "Có khả năng cao hơn đáng kể",
-        "relatedCollocates": ["much more (likely)", "a higher (likelihood)"],
+        "relatedCollocates": [
+          "much more (likely)",
+          "a higher (likelihood)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "likelihood", "meaning": "khả năng" }]
+          "noun": [
+            {
+              "form": "likelihood",
+              "meaning": "khả năng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -793,7 +1143,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174026-5-35-4c0a5c75",
       "targetLexeme": "searching for a compromise",
       "sourceContext": "...recognizing others’ perspectives and searching for a compromise...",
       "phase1Inference": {
@@ -809,7 +1159,15 @@
           "reach (a compromise)"
         ],
         "wordForms": {
-          "verb": [{ "form": "compromise", "meaning": "thỏa hiệp" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "compromise",
+              "meaning": "thỏa hiệp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -818,7 +1176,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174026-5-36-0dac4043",
       "targetLexeme": "egocentric condition",
       "sourceContext": "...compared to the couples in the egocentric condition.",
       "phase1Inference": {
@@ -829,9 +1187,20 @@
         "sentiment": "negative",
         "definitionEN": "The experimental situation where participants were asked to think about things only from their own point of view",
         "translationVI": "Điều kiện vị kỷ",
-        "relatedCollocates": ["egocentric (viewpoint)", "self-centered"],
+        "relatedCollocates": [
+          "egocentric (viewpoint)",
+          "self-centered"
+        ],
         "wordForms": {
-          "noun": [{ "form": "egocentrism", "meaning": "tính vị kỷ" }]
+          "noun": [
+            {
+              "form": "egocentrism",
+              "meaning": "tính vị kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -840,7 +1209,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174026-5-37-2e5cbc87",
       "targetLexeme": "Ego-decentering",
       "sourceContext": "‘Ego-decentering promotes greater focus on others and enables a bigger picture, conceptual view of the experience...’",
       "phase1Inference": {
@@ -851,8 +1220,16 @@
         "sentiment": "positive",
         "definitionEN": "The process of moving away from a self-centered perspective to consider the views of others and the broader context",
         "translationVI": "Sự phi tâm hóa cái tôi",
-        "relatedCollocates": ["decenter (v)", "third-party perspective"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "decenter (v)",
+          "third-party perspective"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -860,7 +1237,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174026-5-38-55b55c6c",
       "targetLexeme": "enables a bigger picture",
       "sourceContext": "...enables a bigger picture, conceptual view of the experience...",
       "phase1Inference": {
@@ -871,9 +1248,20 @@
         "sentiment": "positive",
         "definitionEN": "To make it possible to see or understand the overall situation, not just the details",
         "translationVI": "Cho phép có một cái nhìn tổng thể hơn",
-        "relatedCollocates": ["see the (bigger picture)", "a broader (view)"],
+        "relatedCollocates": [
+          "see the (bigger picture)",
+          "a broader (view)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "enable", "meaning": "cho phép" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "enable",
+              "meaning": "cho phép"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -882,7 +1270,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174026-5-39-40f9f861",
       "targetLexeme": "affording recognition of",
       "sourceContext": "...affording recognition of intellectual humility and change,’ says Grossmann.",
       "phase1Inference": {
@@ -893,9 +1281,20 @@
         "sentiment": "positive",
         "definitionEN": "Providing or making it possible to acknowledge or accept something",
         "translationVI": "Mang lại sự công nhận",
-        "relatedCollocates": ["provide (recognition)", "allow for"],
+        "relatedCollocates": [
+          "provide (recognition)",
+          "allow for"
+        ],
         "wordForms": {
-          "verb": [{ "form": "afford", "meaning": "cung cấp, cho" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "afford",
+              "meaning": "cung cấp, cho"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -904,7 +1303,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174026-5-40-24bb02b7",
       "targetLexeme": "personality traits",
       "sourceContext": "We might associate wisdom with intelligence or particular personality traits...",
       "phase1Inference": {
@@ -919,7 +1318,12 @@
           "character (traits)",
           "Big Five (personality traits)"
         ],
-        "wordForms": {}
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -927,7 +1331,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174026-5-41-2b19dc1b",
       "targetLexeme": "crystallized intelligence",
       "sourceContext": "...a small positive relationship between wise thinking and crystallized intelligence...",
       "phase1Inference": {
@@ -942,7 +1346,12 @@
           "fluid intelligence (antonym)",
           "accumulated knowledge"
         ],
-        "wordForms": {}
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -950,7 +1359,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174026-5-42-64fc8808",
       "targetLexeme": "openness and agreeableness",
       "sourceContext": "...and the personality traits of openness and agreeableness.",
       "phase1Inference": {
@@ -961,8 +1370,16 @@
         "sentiment": "positive",
         "definitionEN": "The personality traits of being open to new experiences and being cooperative and compassionate towards others",
         "translationVI": "Sự cởi mở và sự dễ chịu",
-        "relatedCollocates": ["personality (traits)", "Big Five"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "personality (traits)",
+          "Big Five"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -970,7 +1387,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174026-5-43-253aab85",
       "targetLexeme": "It is remarkable how",
       "sourceContext": "‘It is remarkable how much people can vary in their wisdom from one situation to the next...’",
       "phase1Inference": {
@@ -981,9 +1398,20 @@
         "sentiment": "positive",
         "definitionEN": "It is surprising or worthy of attention how..",
         "translationVI": "Thật đáng chú ý là",
-        "relatedCollocates": ["it is surprising", "it is noteworthy"],
+        "relatedCollocates": [
+          "it is surprising",
+          "it is noteworthy"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "remarkable", "meaning": "đáng chú ý" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "remarkable",
+              "meaning": "đáng chú ý"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -992,7 +1420,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174026-5-44-07c081e2",
       "targetLexeme": "social and affective outcomes",
       "sourceContext": "...wise judgment and its social and affective outcomes as compared to the generalized ‘traits’.",
       "phase1Inference": {
@@ -1009,7 +1437,15 @@
           "emotional (outcomes)"
         ],
         "wordForms": {
-          "noun": [{ "form": "affect", "meaning": "cảm xúc" }]
+          "noun": [
+            {
+              "form": "affect",
+              "meaning": "cảm xúc"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1018,7 +1454,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174026-5-45-285421a7",
       "targetLexeme": "generalized 'traits'",
       "sourceContext": "...as compared to the generalized ‘traits’.",
       "phase1Inference": {
@@ -1034,7 +1470,15 @@
           "specific (behaviors) (antonym)"
         ],
         "wordForms": {
-          "verb": [{ "form": "generalize", "meaning": "tổng quát hóa" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "generalize",
+              "meaning": "tổng quát hóa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1043,7 +1487,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174026-5-46-3ab3a833",
       "targetLexeme": "behaves in a given situation",
       "sourceContext": "‘That is, knowing how wisely a person behaves in a given situation is more informative...’",
       "phase1Inference": {
@@ -1059,7 +1503,15 @@
           "in a particular (situation)"
         ],
         "wordForms": {
-          "noun": [{ "form": "behavior", "meaning": "hành vi" }]
+          "noun": [
+            {
+              "form": "behavior",
+              "meaning": "hành vi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1068,7 +1520,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174026-5-47-62a87fba",
       "targetLexeme": "more informative",
       "sourceContext": "...is more informative for understanding their emotions or likelihood to forgive...",
       "phase1Inference": {
@@ -1079,9 +1531,20 @@
         "sentiment": "positive",
         "definitionEN": "Providing more useful or interesting information",
         "translationVI": "Nhiều thông tin hơn",
-        "relatedCollocates": ["more useful", "more insightful"],
+        "relatedCollocates": [
+          "more useful",
+          "more insightful"
+        ],
         "wordForms": {
-          "noun": [{ "form": "information", "meaning": "thông tin" }]
+          "noun": [
+            {
+              "form": "information",
+              "meaning": "thông tin"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1090,7 +1553,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174026-5-48-3695a716",
       "targetLexeme": "likelihood to forgive",
       "sourceContext": "...likelihood to forgive [or] retaliate as compared to knowing whether the person may be wise ‘in general’.",
       "phase1Inference": {
@@ -1101,9 +1564,20 @@
         "sentiment": "positive",
         "definitionEN": "The probability that someone will stop feeling angry or resentful towards someone for an offense",
         "translationVI": "Khả năng tha thứ",
-        "relatedCollocates": ["willingness to (forgive)", "forgiveness (n)"],
+        "relatedCollocates": [
+          "willingness to (forgive)",
+          "forgiveness (n)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "forgive", "meaning": "tha thứ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "forgive",
+              "meaning": "tha thứ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1112,7 +1586,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174026-5-49-490a4760",
       "targetLexeme": "retaliate (v)",
       "sourceContext": "...likelihood to forgive [or] retaliate as compared to knowing whether the person may be wise ‘in general’.",
       "phase1Inference": {
@@ -1123,9 +1597,20 @@
         "sentiment": "negative",
         "definitionEN": "To make an attack in return for a similar attack; to take revenge",
         "translationVI": "Trả đũa",
-        "relatedCollocates": ["take revenge", "retaliation (n)"],
+        "relatedCollocates": [
+          "take revenge",
+          "retaliation (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "retaliation", "meaning": "sự trả đũa" }]
+          "noun": [
+            {
+              "form": "retaliation",
+              "meaning": "sự trả đũa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1134,7 +1619,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174026-5-50-223d45da",
       "targetLexeme": "wise 'in general'",
       "sourceContext": "...as compared to knowing whether the person may be wise ‘in general’.",
       "phase1Inference": {
@@ -1145,8 +1630,16 @@
         "sentiment": "neutral",
         "definitionEN": "Being wise as a general, stable personality trait, rather than in specific situations",
         "translationVI": "Khôn ngoan 'nói chung'",
-        "relatedCollocates": ["generally (wise)", "overall"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "generally (wise)",
+          "overall"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1154,7 +1647,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174026-5-51-038a3b6d",
       "targetLexeme": "day-to-day decisions",
       "sourceContext": "...support wisdom in our own day-to-day decisions...",
       "phase1Inference": {
@@ -1165,8 +1658,16 @@
         "sentiment": "neutral",
         "definitionEN": "Decisions that are made as part of a normal daily routine",
         "translationVI": "Các quyết định hàng ngày",
-        "relatedCollocates": ["everyday (decisions)", "daily (choices)"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "everyday (decisions)",
+          "daily (choices)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1174,7 +1675,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174026-5-52-1a83c691",
       "targetLexeme": "expansive viewpoint",
       "sourceContext": "Looking at problems from this more expansive viewpoint appears to foster cognitive processes...",
       "phase1Inference": {
@@ -1185,9 +1686,20 @@
         "sentiment": "positive",
         "definitionEN": "A broad and wide-ranging point of view",
         "translationVI": "Góc nhìn mở rộng",
-        "relatedCollocates": ["a broad (viewpoint)", "a wider (perspective)"],
+        "relatedCollocates": [
+          "a broad (viewpoint)",
+          "a wider (perspective)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "expand", "meaning": "mở rộng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "expand",
+              "meaning": "mở rộng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1196,7 +1708,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174026-5-53-09fed1f8",
       "targetLexeme": "disagreement with a spouse",
       "sourceContext": "...situations like a disagreement with a spouse or negotiating a contract at work...",
       "phase1Inference": {
@@ -1207,8 +1719,16 @@
         "sentiment": "negative",
         "definitionEN": "An argument or difference of opinion with one's husband or wife",
         "translationVI": "Sự bất đồng với vợ/chồng",
-        "relatedCollocates": ["an argument with", "a conflict with"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "an argument with",
+          "a conflict with"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1216,7 +1736,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174026-5-54-6286c9c8",
       "targetLexeme": "assigned to the 'distant observer' role",
       "sourceContext": "Participants in the group assigned to the ‘distant observer’ role displayed more wisdom-related reasoning...",
       "phase1Inference": {
@@ -1227,9 +1747,20 @@
         "sentiment": "neutral",
         "definitionEN": "Given the task of acting as a detached onlooker",
         "translationVI": "Được giao vai trò 'người quan sát từ xa'",
-        "relatedCollocates": ["assigned to (a group)", "take on (a role)"],
+        "relatedCollocates": [
+          "assigned to (a group)",
+          "take on (a role)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "assign", "meaning": "phân công" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "assign",
+              "meaning": "phân công"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1238,7 +1769,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174026-5-55-22fecd55",
       "targetLexeme": "displayed more wisdom-related reasoning",
       "sourceContext": "...displayed more wisdom-related reasoning (intellectual humility and recognition of change) than did participants in the control group.",
       "phase1Inference": {
@@ -1249,9 +1780,20 @@
         "sentiment": "positive",
         "definitionEN": "Showed a greater amount of thinking that is characteristic of wisdom",
         "translationVI": "Thể hiện nhiều hơn lý luận liên quan đến sự khôn ngoan",
-        "relatedCollocates": ["showed more", "exhibited more"],
+        "relatedCollocates": [
+          "showed more",
+          "exhibited more"
+        ],
         "wordForms": {
-          "verb": [{ "form": "display", "meaning": "thể hiện" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "display",
+              "meaning": "thể hiện"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1260,7 +1802,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174026-5-56-4e6d7515",
       "targetLexeme": "discussed the incident",
       "sourceContext": "Participants then discussed the incident with their partner for 10 minutes...",
       "phase1Inference": {
@@ -1276,7 +1818,15 @@
           "discuss (an issue)"
         ],
         "wordForms": {
-          "noun": [{ "form": "discussion", "meaning": "cuộc thảo luận" }]
+          "noun": [
+            {
+              "form": "discussion",
+              "meaning": "cuộc thảo luận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1285,7 +1835,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174026-5-57-7dd4d425",
       "targetLexeme": "conceptual view",
       "sourceContext": "...enables a bigger picture, conceptual view of the experience...",
       "phase1Inference": {
@@ -1296,9 +1846,20 @@
         "sentiment": "neutral",
         "definitionEN": "An understanding of something based on abstract ideas or principles",
         "translationVI": "Cái nhìn khái niệm",
-        "relatedCollocates": ["abstract (view)", "a theoretical (perspective)"],
+        "relatedCollocates": [
+          "abstract (view)",
+          "a theoretical (perspective)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "concept", "meaning": "khái niệm" }]
+          "noun": [
+            {
+              "form": "concept",
+              "meaning": "khái niệm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1307,7 +1868,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174026-5-58-3ec8cdb8",
       "targetLexeme": "a small positive relationship",
       "sourceContext": "...research shows only a small positive relationship between wise thinking and crystallized intelligence...",
       "phase1Inference": {
@@ -1322,7 +1883,12 @@
           "a weak (relationship)",
           "a slight (correlation)"
         ],
-        "wordForms": {}
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1330,7 +1896,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174026-5-59-1ff0de38",
       "targetLexeme": "from one situation to the next",
       "sourceContext": "...how much people can vary in their wisdom from one situation to the next...",
       "phase1Inference": {
@@ -1341,8 +1907,16 @@
         "sentiment": "neutral",
         "definitionEN": "Across different circumstances or contexts",
         "translationVI": "Từ tình huống này sang tình huống khác",
-        "relatedCollocates": ["from one case to another", "across situations"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "from one case to another",
+          "across situations"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1350,7 +1924,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174026-5-60-14106db7",
       "targetLexeme": "the truly wise",
       "sourceContext": "Although the truly wise may seem few and far between...",
       "phase1Inference": {
@@ -1361,8 +1935,16 @@
         "sentiment": "positive",
         "definitionEN": "People who genuinely possess deep understanding, experience, and good judgment",
         "translationVI": "Những người thực sự khôn ngoan",
-        "relatedCollocates": ["genuinely wise", "the wise (people)"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "genuinely wise",
+          "the wise (people)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1370,7 +1952,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174026-5-61-30e1a74e",
       "targetLexeme": "powerful in shaping",
       "sourceContext": "...factors are even more powerful in shaping wisdom than previously imagined...",
       "phase1Inference": {
@@ -1381,8 +1963,16 @@
         "sentiment": "neutral",
         "definitionEN": "Having a great effect on the development or form of something",
         "translationVI": "Có ảnh hưởng lớn trong việc định hình",
-        "relatedCollocates": ["influential in", "a powerful (influence)"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "influential in",
+          "a powerful (influence)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1390,7 +1980,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174026-5-62-527ef4e3",
       "targetLexeme": "depends on a variety of",
       "sourceContext": "...our ability to reason wisely depends on a variety of external factors.",
       "phase1Inference": {
@@ -1401,8 +1991,16 @@
         "sentiment": "neutral",
         "definitionEN": "To be controlled or determined by a range of different things",
         "translationVI": "Phụ thuộc vào nhiều",
-        "relatedCollocates": ["relies on", "is determined by"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "relies on",
+          "is determined by"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1410,7 +2008,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174026-5-63-3bc975ef",
       "targetLexeme": "unfolds as a function of",
       "sourceContext": "...wisdom... unfolds as a function of situations people happen to be in.",
       "phase1Inference": {
@@ -1421,8 +2019,16 @@
         "sentiment": "neutral",
         "definitionEN": "To develop or be revealed as a direct result of something else",
         "translationVI": "Diễn ra như một hệ quả của",
-        "relatedCollocates": ["develops as a result of", "is dependent on"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "develops as a result of",
+          "is dependent on"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1430,7 +2036,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174026-5-64-701d99a5",
       "targetLexeme": "limits of our own knowledge",
       "sourceContext": "...recognition of the limits of our own knowledge...",
       "phase1Inference": {
@@ -1445,7 +2051,12 @@
           "recognize the (limits)",
           "intellectual humility"
         ],
-        "wordForms": {}
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1453,7 +2064,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174026-5-65-57955be0",
       "targetLexeme": "the issue at hand",
       "sourceContext": "...perspectives wider than the issue at hand.",
       "phase1Inference": {
@@ -1464,8 +2075,16 @@
         "sentiment": "neutral",
         "definitionEN": "The current problem or topic being discussed",
         "translationVI": "Vấn đề trước mắt",
-        "relatedCollocates": ["the current (issue)", "the problem at hand"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "the current (issue)",
+          "the problem at hand"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1473,7 +2092,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "1761813174026-5-66-5ebe6f11",
       "targetLexeme": "different attitudes and beliefs",
       "sourceContext": "...integration of different attitudes and beliefs.",
       "phase1Inference": {
@@ -1484,8 +2103,16 @@
         "sentiment": "neutral",
         "definitionEN": "Various ways of thinking or feeling about someone or something, and different convictions that something is true",
         "translationVI": "Các thái độ và niềm tin khác nhau",
-        "relatedCollocates": ["a range of (beliefs)", "diverse (attitudes)"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "a range of (beliefs)",
+          "diverse (attitudes)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1493,7 +2120,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "1761813174026-5-67-0330223d",
       "targetLexeme": "most reliable ways",
       "sourceContext": "Grossmann and his colleagues have also found that one of the most reliable ways to support wisdom...",
       "phase1Inference": {
@@ -1508,7 +2135,12 @@
           "the most effective (ways)",
           "a reliable (method)"
         ],
-        "wordForms": {}
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1516,7 +2148,7 @@
       }
     },
     {
-      "id": 69,
+      "id": "1761813174026-5-68-75cec810",
       "targetLexeme": "one experiment that took place",
       "sourceContext": "For example, in one experiment that took place during the peak of a recent economic recession...",
       "phase1Inference": {
@@ -1527,8 +2159,16 @@
         "sentiment": "neutral",
         "definitionEN": "In a particular scientific procedure that happened or was conducted",
         "translationVI": "Một thí nghiệm đã diễn ra",
-        "relatedCollocates": ["an experiment was conducted", "take place (v)"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "an experiment was conducted",
+          "take place (v)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1536,7 +2176,7 @@
       }
     },
     {
-      "id": 70,
+      "id": "1761813174026-5-69-085a3837",
       "targetLexeme": "instructed to visualize",
       "sourceContext": "...couples in long-term romantic relationships were instructed to visualize an unresolved relationship conflict...",
       "phase1Inference": {
@@ -1552,7 +2192,15 @@
           "instructed to (do something)"
         ],
         "wordForms": {
-          "noun": [{ "form": "instruction", "meaning": "sự hướng dẫn" }]
+          "noun": [
+            {
+              "form": "instruction",
+              "meaning": "sự hướng dẫn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1561,7 +2209,7 @@
       }
     },
     {
-      "id": 71,
+      "id": "1761813174026-5-70-32391f58",
       "targetLexeme": "wrote down their thoughts",
       "sourceContext": "...after which they wrote down their thoughts about it.",
       "phase1Inference": {
@@ -1572,8 +2220,16 @@
         "sentiment": "neutral",
         "definitionEN": "To record one's ideas or opinions in writing",
         "translationVI": "Viết ra suy nghĩ của họ",
-        "relatedCollocates": ["write down", "record (thoughts)"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "write down",
+          "record (thoughts)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1581,7 +2237,7 @@
       }
     },
     {
-      "id": 72,
+      "id": "1761813174026-5-71-0ed18671",
       "targetLexeme": "wise thinking",
       "sourceContext": "...a small positive relationship between wise thinking and crystallized intelligence...",
       "phase1Inference": {
@@ -1592,8 +2248,16 @@
         "sentiment": "positive",
         "definitionEN": "The process of thought characterized by experience, knowledge, and good judgment",
         "translationVI": "Tư duy khôn ngoan",
-        "relatedCollocates": ["wise (reasoning)", "critical (thinking)"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "wise (reasoning)",
+          "critical (thinking)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1601,7 +2265,7 @@
       }
     },
     {
-      "id": 73,
+      "id": "1761813174026-5-72-2df142c4",
       "targetLexeme": "how much people can vary",
       "sourceContext": "‘It is remarkable how much people can vary in their wisdom from one situation to the next...’",
       "phase1Inference": {
@@ -1612,8 +2276,16 @@
         "sentiment": "neutral",
         "definitionEN": "The great extent to which people can differ",
         "translationVI": "Mọi người có thể khác nhau đến mức nào",
-        "relatedCollocates": ["vary (greatly)", "differ (significantly)"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "vary (greatly)",
+          "differ (significantly)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1621,7 +2293,7 @@
       }
     },
     {
-      "id": 74,
+      "id": "1761813174026-5-73-65445a9b",
       "targetLexeme": "in a given situation",
       "sourceContext": "...how wisely a person behaves in a given situation...",
       "phase1Inference": {
@@ -1636,7 +2308,12 @@
           "in a particular (situation)",
           "in a specific (context)"
         ],
-        "wordForms": {}
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -1644,7 +2321,7 @@
       }
     },
     {
-      "id": 75,
+      "id": "1761813174026-5-74-59a6e6a8",
       "targetLexeme": "across cultures",
       "sourceContext": "Across cultures, wisdom has been considered one of the most revered human qualities.",
       "phase1Inference": {
@@ -1655,13 +2332,27 @@
         "sentiment": "neutral",
         "definitionEN": "In many different societies and cultural groups",
         "translationVI": "Xuyên suốt các nền văn hóa",
-        "relatedCollocates": ["in different (cultures)", "cross-culturally"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "in different (cultures)",
+          "cross-culturally"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
         "content": "The concept of family is important across cultures, though its structure may vary."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.026Z",
+    "version": "2.0",
+    "originalCount": 75,
+    "migratedCount": 75
+  }
 }

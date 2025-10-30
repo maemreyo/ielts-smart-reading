@@ -1,10 +1,10 @@
 {
   "logTitle": "IELTS Reading Log: The case for mixed-ability classes",
   "sourceId": "Reading Passage (Image)",
-  "totalItems": 85,
+  "totalItems": 110,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174095-32-0-18b21a3a",
       "targetLexeme": "mixed-ability classes",
       "sourceContext": "The case for mixed-ability classes",
       "phase1Inference": {
@@ -15,9 +15,20 @@
         "sentiment": "neutral",
         "definitionEN": "Classes in which students have a wide range of different academic capabilities.",
         "translationVI": "Các lớp học đa trình độ",
-        "relatedCollocates": ["heterogeneous grouping", "streaming (antonym)"],
+        "relatedCollocates": [
+          "heterogeneous grouping",
+          "streaming (antonym)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "mixed-ability", "meaning": "đa trình độ" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "mixed-ability",
+              "meaning": "đa trình độ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -26,7 +37,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174095-32-1-792985ac",
       "targetLexeme": "literary demands",
       "sourceContext": "For three students, even these literary demands are beyond them.",
       "phase1Inference": {
@@ -37,9 +48,20 @@
         "sentiment": "neutral",
         "definitionEN": "The level of skill and understanding required to comprehend a piece of literature.",
         "translationVI": "Những yêu cầu về mặt văn học",
-        "relatedCollocates": ["academic requirements", "comprehension tasks"],
+        "relatedCollocates": [
+          "academic requirements",
+          "comprehension tasks"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "literary", "meaning": "thuộc về văn học" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "literary",
+              "meaning": "thuộc về văn học"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -48,7 +70,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174095-32-2-25ce23f3",
       "targetLexeme": "tentative plot summary",
       "sourceContext": "He can ask the No Fear group to identify the key characters and provide a tentative plot summary.",
       "phase1Inference": {
@@ -59,9 +81,20 @@
         "sentiment": "neutral",
         "definitionEN": "A provisional or preliminary summary of the main events of a story.",
         "translationVI": "Tóm tắt cốt truyện sơ bộ",
-        "relatedCollocates": ["provisional outline", "preliminary summary"],
+        "relatedCollocates": [
+          "provisional outline",
+          "preliminary summary"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "tentative", "meaning": "dự kiến, sơ bộ" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "tentative",
+              "meaning": "dự kiến, sơ bộ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -70,7 +103,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174095-32-3-20d9c7e1",
       "targetLexeme": "textual evidence",
       "sourceContext": "He can ask most of the class about character development, and five of them might be able to support their statements with textual evidence.",
       "phase1Inference": {
@@ -81,9 +114,20 @@
         "sentiment": "neutral",
         "definitionEN": "Evidence gathered from the original source or text that supports an argument or thesis.",
         "translationVI": "Bằng chứng trong văn bản",
-        "relatedCollocates": ["supporting details", "quotations"],
+        "relatedCollocates": [
+          "supporting details",
+          "quotations"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "textual", "meaning": "thuộc văn bản" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "textual",
+              "meaning": "thuộc văn bản"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -92,7 +136,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174095-32-4-5cd58748",
       "targetLexeme": "advocates living a life of moderation",
       "sourceContext": "Now two curious students are wondering whether Shakespeare advocates living a life of moderation or one of passionate engagement.",
       "phase1Inference": {
@@ -108,7 +152,15 @@
           "recommend temperance"
         ],
         "wordForms": {
-          "verb": [{ "form": "advocate", "meaning": "biện hộ, ủng hộ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "advocate",
+              "meaning": "biện hộ, ủng hộ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -117,7 +169,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174095-32-5-55fc64ed",
       "targetLexeme": "passionate engagement",
       "sourceContext": "...or one of passionate engagement.",
       "phase1Inference": {
@@ -133,7 +185,15 @@
           "wholehearted participation"
         ],
         "wordForms": {
-          "adjective": [{ "form": "passionate", "meaning": "đầy nhiệt huyết" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "passionate",
+              "meaning": "đầy nhiệt huyết"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -142,7 +202,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174095-32-6-51e7e77d",
       "targetLexeme": "virtue of moderation",
       "sourceContext": "...and all the students who want to discuss the virtue of moderation into another?",
       "phase1Inference": {
@@ -153,9 +213,20 @@
         "sentiment": "positive",
         "definitionEN": "The quality of being reasonable and avoiding extremes, considered as a form of moral excellence.",
         "translationVI": "Đức tính điều độ",
-        "relatedCollocates": ["the value of balance", "temperance"],
+        "relatedCollocates": [
+          "the value of balance",
+          "temperance"
+        ],
         "wordForms": {
-          "noun": [{ "form": "virtue", "meaning": "đức tính tốt" }]
+          "noun": [
+            {
+              "form": "virtue",
+              "meaning": "đức tính tốt"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -164,7 +235,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174095-32-7-3b641d50",
       "targetLexeme": "streaming or tracking",
       "sourceContext": "The practice of ‘streaming’, or ‘tracking’, involves separating students into classes depending on their diagnosed levels of attainment.",
       "phase1Inference": {
@@ -175,12 +246,24 @@
         "sentiment": "neutral",
         "definitionEN": "The educational practice of grouping students for all subjects according to their general academic ability.",
         "translationVI": "Phân luồng hoặc xếp lớp (theo trình độ)",
-        "relatedCollocates": ["ability grouping", "setting"],
+        "relatedCollocates": [
+          "ability grouping",
+          "setting"
+        ],
         "wordForms": {
+          "noun": [],
           "verb": [
-            { "form": "stream", "meaning": "phân luồng" },
-            { "form": "track", "meaning": "xếp lớp" }
-          ]
+            {
+              "form": "stream",
+              "meaning": "phân luồng"
+            },
+            {
+              "form": "track",
+              "meaning": "xếp lớp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -189,7 +272,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174095-32-8-295b48a5",
       "targetLexeme": "diagnosed levels of attainment",
       "sourceContext": "...depending on their diagnosed levels of attainment.",
       "phase1Inference": {
@@ -200,9 +283,20 @@
         "sentiment": "neutral",
         "definitionEN": "The academic standards that students have been formally assessed to have reached.",
         "translationVI": "Mức độ thành tích được chẩn đoán",
-        "relatedCollocates": ["assessed ability", "measured performance"],
+        "relatedCollocates": [
+          "assessed ability",
+          "measured performance"
+        ],
         "wordForms": {
-          "noun": [{ "form": "attainment", "meaning": "sự đạt được" }]
+          "noun": [
+            {
+              "form": "attainment",
+              "meaning": "sự đạt được"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -211,7 +305,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174095-32-9-03c3c8b3",
       "targetLexeme": "at a macro level",
       "sourceContext": "At a macro level, it requires the establishment of academically selective schools for the brightest students, and comprehensive schools for the rest.",
       "phase1Inference": {
@@ -228,7 +322,15 @@
           "at a micro level (antonym)"
         ],
         "wordForms": {
-          "adjective": [{ "form": "macro", "meaning": "vĩ mô" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "macro",
+              "meaning": "vĩ mô"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -237,7 +339,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174095-32-10-35e8366f",
       "targetLexeme": "academically selective schools",
       "sourceContext": "...it requires the establishment of academically selective schools for the brightest students...",
       "phase1Inference": {
@@ -248,9 +350,20 @@
         "sentiment": "neutral",
         "definitionEN": "Schools that admit students on the basis of some sort of selection criteria, usually academic achievement.",
         "translationVI": "Các trường chuyên",
-        "relatedCollocates": ["grammar schools", "magnet schools"],
+        "relatedCollocates": [
+          "grammar schools",
+          "magnet schools"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "selective", "meaning": "có chọn lọc" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "selective",
+              "meaning": "có chọn lọc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -259,7 +372,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174095-32-11-76c67bc6",
       "targetLexeme": "intuitively appealing",
       "sourceContext": "The practice is intuitively appealing to almost every stakeholder.",
       "phase1Inference": {
@@ -270,9 +383,20 @@
         "sentiment": "positive",
         "definitionEN": "Appealing to someone based on feelings or instincts rather than conscious reasoning.",
         "translationVI": "Hấp dẫn một cách trực giác",
-        "relatedCollocates": ["seems logical", "instinctively attractive"],
+        "relatedCollocates": [
+          "seems logical",
+          "instinctively attractive"
+        ],
         "wordForms": {
-          "verb": [{ "form": "appeal", "meaning": "hấp dẫn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "appeal",
+              "meaning": "hấp dẫn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -281,7 +405,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174095-32-12-3f73a558",
       "targetLexeme": "by way of analogy",
       "sourceContext": "I have heard the mixed-ability model attacked by way of analogy: a group hike.",
       "phase1Inference": {
@@ -292,11 +416,20 @@
         "sentiment": "neutral",
         "definitionEN": "Using a comparison between two things, typically for the purpose of explanation or clarification.",
         "translationVI": "Bằng cách ví von/so sánh tương tự",
-        "relatedCollocates": ["as an analogy", "by comparison"],
+        "relatedCollocates": [
+          "as an analogy",
+          "by comparison"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "analogy", "meaning": "phép loại suy, sự tương tự" }
-          ]
+            {
+              "form": "analogy",
+              "meaning": "phép loại suy, sự tương tự"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -305,7 +438,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174095-32-13-3ca07c9c",
       "targetLexeme": "set a brisk pace",
       "sourceContext": "The fittest in the group take the lead and set a brisk pace.",
       "phase1Inference": {
@@ -316,9 +449,20 @@
         "sentiment": "neutral",
         "definitionEN": "To establish a quick and energetic speed of movement or activity.",
         "translationVI": "Đi với nhịp độ nhanh",
-        "relatedCollocates": ["walk quickly", "maintain a fast pace"],
+        "relatedCollocates": [
+          "walk quickly",
+          "maintain a fast pace"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "brisk", "meaning": "nhanh nhẹn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "brisk",
+              "meaning": "nhanh nhẹn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -327,7 +471,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174095-32-14-1d8dff55",
       "targetLexeme": "enthusiasm wanes",
       "sourceContext": "This is frustrating, and their enthusiasm wanes.",
       "phase1Inference": {
@@ -338,9 +482,20 @@
         "sentiment": "negative",
         "definitionEN": "When a feeling of eager enjoyment, interest, or approval decreases in vigor or extent.",
         "translationVI": "Sự nhiệt tình giảm dần",
-        "relatedCollocates": ["interest fades", "excitement diminishes"],
+        "relatedCollocates": [
+          "interest fades",
+          "excitement diminishes"
+        ],
         "wordForms": {
-          "verb": [{ "form": "wane", "meaning": "suy yếu, tàn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "wane",
+              "meaning": "suy yếu, tàn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -349,7 +504,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174095-32-15-6f2d1777",
       "targetLexeme": "physically struggling",
       "sourceContext": "Meanwhile, the slowest ones are not only embarrassed but physically struggling to keep up.",
       "phase1Inference": {
@@ -365,7 +520,15 @@
           "having a hard time physically"
         ],
         "wordForms": {
-          "verb": [{ "form": "struggle", "meaning": "vật lộn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "struggle",
+              "meaning": "vật lộn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -374,7 +537,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174095-32-16-381de3fb",
       "targetLexeme": "bore students, frustrate parents and burn out teachers",
       "sourceContext": "Mixed-ability classes bore students, frustrate parents and burn out teachers.",
       "phase1Inference": {
@@ -385,9 +548,20 @@
         "sentiment": "negative",
         "definitionEN": "To cause students to lose interest, make parents feel annoyed or helpless, and cause teachers to suffer from extreme physical or mental exhaustion.",
         "translationVI": "Làm học sinh chán, phụ huynh nản lòng và giáo viên kiệt sức",
-        "relatedCollocates": ["disengage students", "exhaust educators"],
+        "relatedCollocates": [
+          "disengage students",
+          "exhaust educators"
+        ],
         "wordForms": {
-          "verb": [{ "form": "burn out", "meaning": "kiệt sức" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "burn out",
+              "meaning": "kiệt sức"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -396,7 +570,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174095-32-17-1f0d48b7",
       "targetLexeme": "stragglers",
       "sourceContext": "The brightest ones will never summit Mount Qomolangma, and the stragglers won’t enjoy the lovely stroll in the park they are perhaps more suited to.",
       "phase1Inference": {
@@ -407,9 +581,20 @@
         "sentiment": "negative",
         "definitionEN": "People in a group who move more slowly or fall behind the others.",
         "translationVI": "Những người tụt lại phía sau",
-        "relatedCollocates": ["laggards", "slowpokes"],
+        "relatedCollocates": [
+          "laggards",
+          "slowpokes"
+        ],
         "wordForms": {
-          "verb": [{ "form": "straggle", "meaning": "đi chậm, tụt hậu" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "straggle",
+              "meaning": "đi chậm, tụt hậu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -418,7 +603,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174095-32-18-6f25829a",
       "targetLexeme": "mediocrity prevails",
       "sourceContext": "Individuals suffer at the demands of the collective, mediocrity prevails.",
       "phase1Inference": {
@@ -434,7 +619,15 @@
           "lack of excellence is widespread"
         ],
         "wordForms": {
-          "noun": [{ "form": "mediocrity", "meaning": "sự tầm thường" }]
+          "noun": [
+            {
+              "form": "mediocrity",
+              "meaning": "sự tầm thường"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -443,7 +636,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174095-32-19-17d77347",
       "targetLexeme": "pedagogical paradigm",
       "sourceContext": "The current pedagogical paradigm is arguably that of constructivism, which emerged out of the work of psychologist Lev Vygotsky.",
       "phase1Inference": {
@@ -454,9 +647,20 @@
         "sentiment": "neutral",
         "definitionEN": "A typical example, pattern, or model of teaching and education.",
         "translationVI": "Mô hình sư phạm",
-        "relatedCollocates": ["educational model", "teaching philosophy"],
+        "relatedCollocates": [
+          "educational model",
+          "teaching philosophy"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "pedagogical", "meaning": "thuộc sư phạm" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "pedagogical",
+              "meaning": "thuộc sư phạm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -465,7 +669,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174095-32-20-0dbdd7f7",
       "targetLexeme": "constructivism",
       "sourceContext": "The current pedagogical paradigm is arguably that of constructivism, which emerged out of the work of psychologist Lev Vygotsky.",
       "phase1Inference": {
@@ -476,9 +680,20 @@
         "sentiment": "neutral",
         "definitionEN": "A theory of learning that suggests humans construct knowledge and meaning from their experiences.",
         "translationVI": "Thuyết kiến tạo",
-        "relatedCollocates": ["learning theory", "Vygotsky"],
+        "relatedCollocates": [
+          "learning theory",
+          "Vygotsky"
+        ],
         "wordForms": {
-          "noun": [{ "form": "constructivism", "meaning": "thuyết kiến tạo" }]
+          "noun": [
+            {
+              "form": "constructivism",
+              "meaning": "thuyết kiến tạo"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -487,7 +702,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174095-32-21-6f3961a0",
       "targetLexeme": "zone of proximal development (ZPD)",
       "sourceContext": "In the 1930s, Vygotsky emphasised the importance of targeting a student’s specific ‘zone of proximal development’ (ZPD).",
       "phase1Inference": {
@@ -498,9 +713,21 @@
         "sentiment": "neutral",
         "definitionEN": "The difference between what a learner can do without help and what they can achieve with guidance and encouragement from a skilled partner.",
         "translationVI": "Vùng phát triển gần",
-        "relatedCollocates": ["Vygotsky", "scaffolding", "learning potential"],
+        "relatedCollocates": [
+          "Vygotsky",
+          "scaffolding",
+          "learning potential"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "proximal", "meaning": "gần, gần nhất" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "proximal",
+              "meaning": "gần, gần nhất"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -509,7 +736,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174095-32-22-37d9c7c8",
       "targetLexeme": "achieve independently",
       "sourceContext": "...and so on – and what they can achieve independently.",
       "phase1Inference": {
@@ -525,7 +752,15 @@
           "work without assistance"
         ],
         "wordForms": {
-          "adverb": [{ "form": "independently", "meaning": "một cách độc lập" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "independently",
+              "meaning": "một cách độc lập"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -534,7 +769,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174095-32-23-68c4e130",
       "targetLexeme": "scaffolding",
       "sourceContext": "The purpose of teaching is to provide and then gradually remove this ‘scaffolding’ until they are autonomous.",
       "phase1Inference": {
@@ -545,9 +780,21 @@
         "sentiment": "positive",
         "definitionEN": "A teaching method that involves a teacher providing temporary support to a student who is learning a new concept or skill; this support is gradually removed as the student becomes more competent.",
         "translationVI": "Sự hỗ trợ (trong giáo dục)",
-        "relatedCollocates": ["instructional support", "ZPD", "Vygotsky"],
+        "relatedCollocates": [
+          "instructional support",
+          "ZPD",
+          "Vygotsky"
+        ],
         "wordForms": {
-          "noun": [{ "form": "scaffold", "meaning": "giàn giáo, sự hỗ trợ" }]
+          "noun": [
+            {
+              "form": "scaffold",
+              "meaning": "giàn giáo, sự hỗ trợ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -556,7 +803,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174095-32-24-14186516",
       "targetLexeme": "gradually remove",
       "sourceContext": "The purpose of teaching is to provide and then gradually remove this ‘scaffolding’ until they are autonomous.",
       "phase1Inference": {
@@ -567,9 +814,20 @@
         "sentiment": "neutral",
         "definitionEN": "To slowly take something away over a period of time.",
         "translationVI": "Dần dần loại bỏ",
-        "relatedCollocates": ["phase out", "slowly withdraw"],
+        "relatedCollocates": [
+          "phase out",
+          "slowly withdraw"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "gradually", "meaning": "dần dần" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "gradually",
+              "meaning": "dần dần"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -578,7 +836,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174095-32-25-4c745271",
       "targetLexeme": "autonomous",
       "sourceContext": "...until they are autonomous.",
       "phase1Inference": {
@@ -589,9 +847,20 @@
         "sentiment": "positive",
         "definitionEN": "Having the freedom to act independently; self-governing.",
         "translationVI": "Tự chủ",
-        "relatedCollocates": ["independent", "self-directed"],
+        "relatedCollocates": [
+          "independent",
+          "self-directed"
+        ],
         "wordForms": {
-          "noun": [{ "form": "autonomy", "meaning": "sự tự chủ" }]
+          "noun": [
+            {
+              "form": "autonomy",
+              "meaning": "sự tự chủ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -600,7 +869,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174095-32-26-64b4e487",
       "targetLexeme": "efficient and effective solution",
       "sourceContext": "If we accept this model, it follows that streaming students with similar ZPDs would be an efficient and effective solution.",
       "phase1Inference": {
@@ -611,12 +880,24 @@
         "sentiment": "positive",
         "definitionEN": "A solution that works well, produces the desired results, and does so without wasting time or resources.",
         "translationVI": "Giải pháp hiệu quả và hữu hiệu",
-        "relatedCollocates": ["optimal solution", "productive method"],
+        "relatedCollocates": [
+          "optimal solution",
+          "productive method"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "efficient", "meaning": "hiệu quả (về năng suất)" },
-            { "form": "effective", "meaning": "hiệu quả (về kết quả)" }
-          ]
+            {
+              "form": "efficient",
+              "meaning": "hiệu quả (về năng suất)"
+            },
+            {
+              "form": "effective",
+              "meaning": "hiệu quả (về kết quả)"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -625,7 +906,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174095-32-27-7de4a84e",
       "targetLexeme": "regardless of aptitude",
       "sourceContext": "And that forcing everyone on the same hike – regardless of aptitude – would be madness.",
       "phase1Inference": {
@@ -641,7 +922,15 @@
           "no matter the talent"
         ],
         "wordForms": {
-          "noun": [{ "form": "aptitude", "meaning": "năng khiếu" }]
+          "noun": [
+            {
+              "form": "aptitude",
+              "meaning": "năng khiếu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -650,7 +939,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174095-32-28-6be57f6a",
       "targetLexeme": "limited empirical evidence",
       "sourceContext": "Despite all this, there is limited empirical evidence to suggest that streaming results in better outcomes for students.",
       "phase1Inference": {
@@ -661,11 +950,20 @@
         "sentiment": "neutral",
         "definitionEN": "A small amount of evidence that is based on, concerned with, or verifiable by observation or experience rather than theory or pure logic.",
         "translationVI": "Bằng chứng thực nghiệm hạn chế",
-        "relatedCollocates": ["scant scientific proof", "little factual data"],
+        "relatedCollocates": [
+          "scant scientific proof",
+          "little factual data"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "empirical", "meaning": "thuộc về thực nghiệm" }
-          ]
+            {
+              "form": "empirical",
+              "meaning": "thuộc về thực nghiệm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -674,7 +972,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174095-32-29-21662949",
       "targetLexeme": "better outcomes",
       "sourceContext": "...streaming results in better outcomes for students.",
       "phase1Inference": {
@@ -685,9 +983,20 @@
         "sentiment": "positive",
         "definitionEN": "More favorable or desirable results or consequences.",
         "translationVI": "Kết quả tốt hơn",
-        "relatedCollocates": ["improved results", "more positive consequences"],
+        "relatedCollocates": [
+          "improved results",
+          "more positive consequences"
+        ],
         "wordForms": {
-          "noun": [{ "form": "outcome", "meaning": "kết quả" }]
+          "noun": [
+            {
+              "form": "outcome",
+              "meaning": "kết quả"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -696,7 +1005,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174095-32-30-170d81a6",
       "targetLexeme": "minimal effects on learning outcomes",
       "sourceContext": "Professor John Hattie... notes that ‘tracking has minimal effects on learning outcomes’.",
       "phase1Inference": {
@@ -712,7 +1021,15 @@
           "little effect on achievement"
         ],
         "wordForms": {
-          "adjective": [{ "form": "minimal", "meaning": "tối thiểu" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "minimal",
+              "meaning": "tối thiểu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -721,7 +1038,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174095-32-31-372e3830",
       "targetLexeme": "significantly and negatively affect",
       "sourceContext": "What is more, streaming appears to significantly – and negatively – affect those students assigned to the lowest sets.",
       "phase1Inference": {
@@ -737,7 +1054,15 @@
           "severely harm"
         ],
         "wordForms": {
-          "verb": [{ "form": "affect", "meaning": "ảnh hưởng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "affect",
+              "meaning": "ảnh hưởng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -746,7 +1071,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174095-32-32-68f2024c",
       "targetLexeme": "low socioeconomic class",
       "sourceContext": "These students tend to have much higher representation of low socioeconomic class.",
       "phase1Inference": {
@@ -757,11 +1082,20 @@
         "sentiment": "neutral",
         "definitionEN": "A social standing or class of people with low income, low educational attainment, and low-status occupations.",
         "translationVI": "Tầng lớp kinh tế xã hội thấp",
-        "relatedCollocates": ["disadvantaged backgrounds", "lower class"],
+        "relatedCollocates": [
+          "disadvantaged backgrounds",
+          "lower class"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "socioeconomic", "meaning": "thuộc kinh tế xã hội" }
-          ]
+            {
+              "form": "socioeconomic",
+              "meaning": "thuộc kinh tế xã hội"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -770,7 +1104,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174095-32-33-0163390d",
       "targetLexeme": "small benefit for",
       "sourceContext": "Less significant is the small benefit for those lucky clever students in the higher sets.",
       "phase1Inference": {
@@ -781,9 +1115,20 @@
         "sentiment": "neutral",
         "definitionEN": "A slight advantage or positive result for someone.",
         "translationVI": "Lợi ích nhỏ cho",
-        "relatedCollocates": ["minor advantage", "slight gain"],
+        "relatedCollocates": [
+          "minor advantage",
+          "slight gain"
+        ],
         "wordForms": {
-          "noun": [{ "form": "benefit", "meaning": "lợi ích" }]
+          "noun": [
+            {
+              "form": "benefit",
+              "meaning": "lợi ích"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -792,7 +1137,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174095-32-34-289b1085",
       "targetLexeme": "the smart stay smart and the dumb get dumber",
       "sourceContext": "The overall result is that the smart stay smart and the dumb get dumber, further entrenching the social divide.",
       "phase1Inference": {
@@ -803,12 +1148,24 @@
         "sentiment": "negative",
         "definitionEN": "An idiom suggesting that a system reinforces existing advantages and disadvantages, widening the gap between high and low achievers.",
         "translationVI": "Người thông minh vẫn thông minh và người ngốc càng ngốc hơn",
-        "relatedCollocates": ["the rich get richer", "widening the gap"],
+        "relatedCollocates": [
+          "the rich get richer",
+          "widening the gap"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "smart", "meaning": "thông minh" },
-            { "form": "dumb", "meaning": "ngu ngốc" }
-          ]
+            {
+              "form": "smart",
+              "meaning": "thông minh"
+            },
+            {
+              "form": "dumb",
+              "meaning": "ngu ngốc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -817,7 +1174,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174095-32-35-7b80c2f2",
       "targetLexeme": "entrenching the social divide",
       "sourceContext": "...further entrenching the social divide.",
       "phase1Inference": {
@@ -833,7 +1190,15 @@
           "deepening the class gap"
         ],
         "wordForms": {
-          "verb": [{ "form": "entrench", "meaning": "củng cố, làm cho ăn sâu" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "entrench",
+              "meaning": "củng cố, làm cho ăn sâu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -842,7 +1207,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174095-32-36-0f4a29d8",
       "targetLexeme": "influential meta-analysis",
       "sourceContext": "In the latest update of Hattie’s influential meta-analysis of factors influencing student achievement...",
       "phase1Inference": {
@@ -853,9 +1218,20 @@
         "sentiment": "neutral",
         "definitionEN": "A widely-regarded examination of data from a number of independent studies of the same subject, in order to determine overall trends.",
         "translationVI": "Phân tích tổng hợp có ảnh hưởng",
-        "relatedCollocates": ["seminal research", "large-scale analysis"],
+        "relatedCollocates": [
+          "seminal research",
+          "large-scale analysis"
+        ],
         "wordForms": {
-          "noun": [{ "form": "meta-analysis", "meaning": "phân tích tổng hợp" }]
+          "noun": [
+            {
+              "form": "meta-analysis",
+              "meaning": "phân tích tổng hợp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -864,7 +1240,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174095-32-37-1d0049a2",
       "targetLexeme": "student achievement",
       "sourceContext": "...factors influencing student achievement...",
       "phase1Inference": {
@@ -875,9 +1251,20 @@
         "sentiment": "positive",
         "definitionEN": "A measure of the knowledge, skills, and abilities that students have acquired through their education.",
         "translationVI": "Thành tích học sinh",
-        "relatedCollocates": ["academic performance", "educational attainment"],
+        "relatedCollocates": [
+          "academic performance",
+          "educational attainment"
+        ],
         "wordForms": {
-          "noun": [{ "form": "achievement", "meaning": "thành tích" }]
+          "noun": [
+            {
+              "form": "achievement",
+              "meaning": "thành tích"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -886,7 +1273,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174095-32-38-3c3d17bc",
       "targetLexeme": "teachers’ estimate of achievement",
       "sourceContext": "...one of the most significant factors is the teachers’ estimate of achievement.",
       "phase1Inference": {
@@ -897,9 +1284,20 @@
         "sentiment": "neutral",
         "definitionEN": "A teacher's judgment or expectation of what a student is capable of accomplishing academically.",
         "translationVI": "Ước tính của giáo viên về thành tích",
-        "relatedCollocates": ["teacher expectations", "Pygmalion effect"],
+        "relatedCollocates": [
+          "teacher expectations",
+          "Pygmalion effect"
+        ],
         "wordForms": {
-          "noun": [{ "form": "estimate", "meaning": "sự ước tính" }]
+          "noun": [
+            {
+              "form": "estimate",
+              "meaning": "sự ước tính"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -908,7 +1306,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174095-32-39-367c187b",
       "targetLexeme": "diagnosed achievement",
       "sourceContext": "Streaming students by diagnosed achievement automatically limits what the teacher feels the student is capable of.",
       "phase1Inference": {
@@ -919,9 +1317,20 @@
         "sentiment": "neutral",
         "definitionEN": "A student's academic level as determined by a formal test or assessment.",
         "translationVI": "Thành tích được chẩn đoán",
-        "relatedCollocates": ["assessed ability", "tested performance"],
+        "relatedCollocates": [
+          "assessed ability",
+          "tested performance"
+        ],
         "wordForms": {
-          "verb": [{ "form": "diagnose", "meaning": "chẩn đoán" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "diagnose",
+              "meaning": "chẩn đoán"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -930,7 +1339,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174095-32-40-211a0227",
       "targetLexeme": "more diverse and flexible",
       "sourceContext": "Meanwhile, in a mixed environment, teachers’ estimates need to be more diverse and flexible.",
       "phase1Inference": {
@@ -941,12 +1350,24 @@
         "sentiment": "positive",
         "definitionEN": "Showing a greater degree of variety and being more capable of changing or adapting.",
         "translationVI": "Đa dạng và linh hoạt hơn",
-        "relatedCollocates": ["more varied and adaptable", "less rigid"],
+        "relatedCollocates": [
+          "more varied and adaptable",
+          "less rigid"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "diverse", "meaning": "đa dạng" },
-            { "form": "flexible", "meaning": "linh hoạt" }
-          ]
+            {
+              "form": "diverse",
+              "meaning": "đa dạng"
+            },
+            {
+              "form": "flexible",
+              "meaning": "linh hoạt"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -955,7 +1376,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174095-32-41-740abd76",
       "targetLexeme": "peer-to-peer learning",
       "sourceContext": "While streaming might seem to help teachers effectively target a student’s ZPD, it can underestimate the importance of peer-to-peer learning.",
       "phase1Inference": {
@@ -966,9 +1387,20 @@
         "sentiment": "positive",
         "definitionEN": "A learning method where students learn from and with each other without the immediate intervention of a teacher.",
         "translationVI": "Học tập đồng đẳng",
-        "relatedCollocates": ["collaborative learning", "peer tutoring"],
+        "relatedCollocates": [
+          "collaborative learning",
+          "peer tutoring"
+        ],
         "wordForms": {
-          "noun": [{ "form": "peer", "meaning": "bạn đồng trang lứa" }]
+          "noun": [
+            {
+              "form": "peer",
+              "meaning": "bạn đồng trang lứa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -977,7 +1409,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174095-32-42-2c069944",
       "targetLexeme": "constructivist theory",
       "sourceContext": "A crucial aspect of constructivist theory is the role of the MKO – ‘more-knowledgeable other’ – in knowledge construction.",
       "phase1Inference": {
@@ -988,9 +1420,20 @@
         "sentiment": "neutral",
         "definitionEN": "The educational philosophy that learners construct their own understanding through experiences and interactions.",
         "translationVI": "Lý thuyết kiến tạo",
-        "relatedCollocates": ["constructivism", "learning theory"],
+        "relatedCollocates": [
+          "constructivism",
+          "learning theory"
+        ],
         "wordForms": {
-          "noun": [{ "form": "theory", "meaning": "lý thuyết" }]
+          "noun": [
+            {
+              "form": "theory",
+              "meaning": "lý thuyết"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -999,7 +1442,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174095-32-43-33adf64c",
       "targetLexeme": "more-knowledgeable other (MKO)",
       "sourceContext": "A crucial aspect of constructivist theory is the role of the MKO – ‘more-knowledgeable other’ – in knowledge construction.",
       "phase1Inference": {
@@ -1010,9 +1453,21 @@
         "sentiment": "neutral",
         "definitionEN": "In Vygotsky's theory, anyone who has a better understanding or a higher ability level than the learner, with respect to a particular task, process, or concept.",
         "translationVI": "Người khác có kiến thức hơn",
-        "relatedCollocates": ["Vygotsky", "ZPD", "scaffolding"],
+        "relatedCollocates": [
+          "Vygotsky",
+          "ZPD",
+          "scaffolding"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "knowledgeable", "meaning": "có kiến thức" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "knowledgeable",
+              "meaning": "có kiến thức"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1021,7 +1476,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174095-32-44-4a656450",
       "targetLexeme": "knowledge construction",
       "sourceContext": "...the role of the MKO – ‘more-knowledgeable other’ – in knowledge construction.",
       "phase1Inference": {
@@ -1032,9 +1487,20 @@
         "sentiment": "neutral",
         "definitionEN": "The process by which learners actively build their own understanding and knowledge.",
         "translationVI": "Sự kiến tạo tri thức",
-        "relatedCollocates": ["building understanding", "constructivism"],
+        "relatedCollocates": [
+          "building understanding",
+          "constructivism"
+        ],
         "wordForms": {
-          "noun": [{ "form": "construction", "meaning": "sự xây dựng" }]
+          "noun": [
+            {
+              "form": "construction",
+              "meaning": "sự xây dựng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1043,7 +1509,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174095-32-45-3195c04e",
       "targetLexeme": "knowledgeable student peers",
       "sourceContext": "...the value of knowledgeable student peers must not go unrecognised.",
       "phase1Inference": {
@@ -1054,9 +1520,20 @@
         "sentiment": "positive",
         "definitionEN": "Fellow students who have a good understanding or a higher ability level in a particular subject.",
         "translationVI": "Những bạn học có kiến thức",
-        "relatedCollocates": ["more-knowledgeable other", "peer tutors"],
+        "relatedCollocates": [
+          "more-knowledgeable other",
+          "peer tutors"
+        ],
         "wordForms": {
-          "noun": [{ "form": "peer", "meaning": "bạn đồng trang lứa" }]
+          "noun": [
+            {
+              "form": "peer",
+              "meaning": "bạn đồng trang lứa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1065,7 +1542,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174095-32-46-42c5b2af",
       "targetLexeme": "go unrecognised",
       "sourceContext": "...the value of knowledgeable student peers must not go unrecognised.",
       "phase1Inference": {
@@ -1076,11 +1553,20 @@
         "sentiment": "negative",
         "definitionEN": "To not be acknowledged, appreciated, or identified.",
         "translationVI": "Không được công nhận",
-        "relatedCollocates": ["be overlooked", "not be appreciated"],
+        "relatedCollocates": [
+          "be overlooked",
+          "not be appreciated"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "unrecognised", "meaning": "không được công nhận" }
-          ]
+            {
+              "form": "unrecognised",
+              "meaning": "không được công nhận"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1089,7 +1575,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174095-32-47-54ad5198",
       "targetLexeme": "operate with different language tools",
       "sourceContext": "They operate with different language tools and different social tools from teachers...",
       "phase1Inference": {
@@ -1105,7 +1591,15 @@
           "communicate differently"
         ],
         "wordForms": {
-          "verb": [{ "form": "operate", "meaning": "vận hành, hoạt động" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "operate",
+              "meaning": "vận hành, hoạt động"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1114,7 +1608,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174095-32-48-0e661419",
       "targetLexeme": "possess similar cognitive structures",
       "sourceContext": "...they possess similar cognitive structures to their struggling classmates.",
       "phase1Inference": {
@@ -1130,9 +1624,15 @@
           "comparable mental models"
         ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "cognitive", "meaning": "thuộc về nhận thức" }
-          ]
+            {
+              "form": "cognitive",
+              "meaning": "thuộc về nhận thức"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1141,7 +1641,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174095-32-49-30aac3ff",
       "targetLexeme": "pride and zeal",
       "sourceContext": "There is also something exciting about passing on skills and knowledge that you yourself have just mastered – a certain pride and zeal...",
       "phase1Inference": {
@@ -1158,9 +1658,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "pride", "meaning": "niềm tự hào" },
-            { "form": "zeal", "meaning": "lòng nhiệt thành" }
-          ]
+            {
+              "form": "pride",
+              "meaning": "niềm tự hào"
+            },
+            {
+              "form": "zeal",
+              "meaning": "lòng nhiệt thành"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1169,7 +1678,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174095-32-50-2db3410e",
       "targetLexeme": "interaction between ‘teacher’ and ‘learner’",
       "sourceContext": "...a certain freshness to the interaction between ‘teacher’ and ‘learner’ that is often lost by the expert...",
       "phase1Inference": {
@@ -1185,7 +1694,15 @@
           "pedagogical relationship"
         ],
         "wordForms": {
-          "noun": [{ "form": "interaction", "meaning": "sự tương tác" }]
+          "noun": [
+            {
+              "form": "interaction",
+              "meaning": "sự tương tác"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1194,7 +1711,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174095-32-51-7a583e4d",
       "targetLexeme": "joy of discovery",
       "sourceContext": "...for whom the steps are obvious and the joy of discovery forgotten.",
       "phase1Inference": {
@@ -1210,7 +1727,15 @@
           "the excitement of learning"
         ],
         "wordForms": {
-          "noun": [{ "form": "discovery", "meaning": "sự khám phá" }]
+          "noun": [
+            {
+              "form": "discovery",
+              "meaning": "sự khám phá"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1219,7 +1744,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174095-32-52-16428fb4",
       "targetLexeme": "collaborative learning environment",
       "sourceContext": "Having a variety of different abilities in a collaborative learning environment provides valuable resources for helping students meet their learning needs...",
       "phase1Inference": {
@@ -1230,11 +1755,20 @@
         "sentiment": "positive",
         "definitionEN": "An educational setting where students work together in groups to complete a task or learn a concept.",
         "translationVI": "Môi trường học tập hợp tác",
-        "relatedCollocates": ["cooperative learning setting", "group work"],
+        "relatedCollocates": [
+          "cooperative learning setting",
+          "group work"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "collaborative", "meaning": "có tính hợp tác" }
-          ]
+            {
+              "form": "collaborative",
+              "meaning": "có tính hợp tác"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1243,7 +1777,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174095-32-53-3f50ba2e",
       "targetLexeme": "valuable resources",
       "sourceContext": "...provides valuable resources for helping students meet their learning needs...",
       "phase1Inference": {
@@ -1254,9 +1788,20 @@
         "sentiment": "positive",
         "definitionEN": "Assets or sources of help that are of great worth or use.",
         "translationVI": "Các nguồn lực quý giá",
-        "relatedCollocates": ["important assets", "useful tools"],
+        "relatedCollocates": [
+          "important assets",
+          "useful tools"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "valuable", "meaning": "có giá trị" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "valuable",
+              "meaning": "có giá trị"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1265,7 +1810,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174095-32-54-0151d354",
       "targetLexeme": "meet their learning needs",
       "sourceContext": "...for helping students meet their learning needs, not to mention improving their communication and social skills.",
       "phase1Inference": {
@@ -1281,7 +1826,15 @@
           "cater to learning requirements"
         ],
         "wordForms": {
-          "verb": [{ "form": "meet", "meaning": "gặp gỡ, đáp ứng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "meet",
+              "meaning": "gặp gỡ, đáp ứng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1290,7 +1843,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174095-32-55-3529a24d",
       "targetLexeme": "flourish",
       "sourceContext": "And today, more than ever, we need the many to flourish – not just a few bright stars.",
       "phase1Inference": {
@@ -1301,9 +1854,20 @@
         "sentiment": "positive",
         "definitionEN": "To grow or develop in a healthy or vigorous way, especially as the result of a particularly favorable environment.",
         "translationVI": "Phát triển mạnh mẽ",
-        "relatedCollocates": ["thrive", "prosper"],
+        "relatedCollocates": [
+          "thrive",
+          "prosper"
+        ],
         "wordForms": {
-          "verb": [{ "form": "flourish", "meaning": "phát triển mạnh mẽ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "flourish",
+              "meaning": "phát triển mạnh mẽ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1312,7 +1876,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174095-32-56-73aa8bd7",
       "targetLexeme": "at the expense of",
       "sourceContext": "Once a year, I go on a hike with my class, a mixed bunch of students. It is challenging. The fittest students realise they need to encourage the reluctant.",
       "phase1Inference": {
@@ -1323,9 +1887,20 @@
         "sentiment": "negative",
         "definitionEN": "So as to cause harm to or neglect of someone or something else.",
         "translationVI": "Bằng sự trả giá của",
-        "relatedCollocates": ["to the detriment of", "at the cost of"],
+        "relatedCollocates": [
+          "to the detriment of",
+          "at the cost of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "expense", "meaning": "chi phí" }]
+          "noun": [
+            {
+              "form": "expense",
+              "meaning": "chi phí"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1334,7 +1909,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174095-32-57-175ab71e",
       "targetLexeme": "encourage the reluctant",
       "sourceContext": "The fittest students realise they need to encourage the reluctant.",
       "phase1Inference": {
@@ -1350,7 +1925,15 @@
           "persuade the unwilling"
         ],
         "wordForms": {
-          "adjective": [{ "form": "reluctant", "meaning": "miễn cưỡng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "reluctant",
+              "meaning": "miễn cưỡng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1359,7 +1942,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174095-32-58-6a9157c5",
       "targetLexeme": "lookout who report back",
       "sourceContext": "There are lookouts who report back, and extra items to carry for others.",
       "phase1Inference": {
@@ -1370,9 +1953,20 @@
         "sentiment": "neutral",
         "definitionEN": "A person stationed to keep watch for danger or trouble and then provide information to the group.",
         "translationVI": "Người canh gác báo cáo lại",
-        "relatedCollocates": ["scouts", "sentinels"],
+        "relatedCollocates": [
+          "scouts",
+          "sentinels"
+        ],
         "wordForms": {
-          "noun": [{ "form": "lookout", "meaning": "người canh gác" }]
+          "noun": [
+            {
+              "form": "lookout",
+              "meaning": "người canh gác"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1381,7 +1975,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174095-32-59-7908c2a6",
       "targetLexeme": "make it – together",
       "sourceContext": "We make it – together.",
       "phase1Inference": {
@@ -1397,7 +1991,15 @@
           "achieve something collectively"
         ],
         "wordForms": {
-          "verb": [{ "form": "make it", "meaning": "thành công, làm được" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "make it",
+              "meaning": "thành công, làm được"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1406,7 +2008,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174095-32-60-4335718a",
       "targetLexeme": "picture this",
       "sourceContext": "Picture this. It’s an English literature lesson in a UK school, and the teacher has just read an extract from Shakespeare’s Romeo and Juliet with a class of 15-year-olds.",
       "phase1Inference": {
@@ -1417,9 +2019,20 @@
         "sentiment": "neutral",
         "definitionEN": "An expression used to ask someone to imagine a particular situation.",
         "translationVI": "Hãy hình dung điều này",
-        "relatedCollocates": ["imagine this", "visualize this scenario"],
+        "relatedCollocates": [
+          "imagine this",
+          "visualize this scenario"
+        ],
         "wordForms": {
-          "verb": [{ "form": "picture", "meaning": "hình dung" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "picture",
+              "meaning": "hình dung"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1428,7 +2041,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174095-32-61-2eddadbf",
       "targetLexeme": "beyond them",
       "sourceContext": "For three students, even these literary demands are beyond them.",
       "phase1Inference": {
@@ -1439,9 +2052,15 @@
         "sentiment": "negative",
         "definitionEN": "Too difficult for them to understand or deal with.",
         "translationVI": "Vượt quá khả năng của họ",
-        "relatedCollocates": ["above their level", "too difficult for them"],
+        "relatedCollocates": [
+          "above their level",
+          "too difficult for them"
+        ],
         "wordForms": {
-          "preposition": [{ "form": "beyond", "meaning": "vượt ra ngoài" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1450,7 +2069,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174095-32-62-17e23ce7",
       "targetLexeme": "go rather well",
       "sourceContext": "As a teacher myself, I’d think my lesson would be going rather well if the discussion went as described above.",
       "phase1Inference": {
@@ -1461,9 +2080,20 @@
         "sentiment": "positive",
         "definitionEN": "To proceed in a fairly good or successful way.",
         "translationVI": "Diễn ra khá tốt",
-        "relatedCollocates": ["proceed quite smoothly", "turn out well"],
+        "relatedCollocates": [
+          "proceed quite smoothly",
+          "turn out well"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "rather", "meaning": "khá là" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "rather",
+              "meaning": "khá là"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1472,7 +2102,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174095-32-63-624501d1",
       "targetLexeme": "huge gap",
       "sourceContext": "But wouldn’t this kind of class work better if there weren’t such a huge gap between the top and the bottom?",
       "phase1Inference": {
@@ -1483,9 +2113,20 @@
         "sentiment": "negative",
         "definitionEN": "A very large difference or disparity between two things or groups.",
         "translationVI": "Khoảng cách lớn",
-        "relatedCollocates": ["wide disparity", "large difference"],
+        "relatedCollocates": [
+          "wide disparity",
+          "large difference"
+        ],
         "wordForms": {
-          "noun": [{ "form": "gap", "meaning": "khoảng cách" }]
+          "noun": [
+            {
+              "form": "gap",
+              "meaning": "khoảng cách"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1494,7 +2135,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174095-32-64-6535c9d9",
       "targetLexeme": "stakeholder",
       "sourceContext": "The practice is intuitively appealing to almost every stakeholder.",
       "phase1Inference": {
@@ -1505,9 +2146,20 @@
         "sentiment": "neutral",
         "definitionEN": "A person with an interest or concern in something, especially a business or an educational system (e.g., students, parents, teachers, administrators).",
         "translationVI": "Bên liên quan",
-        "relatedCollocates": ["interested party", "participant"],
+        "relatedCollocates": [
+          "interested party",
+          "participant"
+        ],
         "wordForms": {
-          "noun": [{ "form": "stakeholder", "meaning": "bên liên quan" }]
+          "noun": [
+            {
+              "form": "stakeholder",
+              "meaning": "bên liên quan"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1516,7 +2168,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174095-32-65-1e5e70b4",
       "targetLexeme": "take the lead",
       "sourceContext": "The fittest in the group take the lead and set a brisk pace.",
       "phase1Inference": {
@@ -1527,9 +2179,20 @@
         "sentiment": "positive",
         "definitionEN": "To be in the first position; to be the leader.",
         "translationVI": "Dẫn đầu",
-        "relatedCollocates": ["go first", "be in front"],
+        "relatedCollocates": [
+          "go first",
+          "be in front"
+        ],
         "wordForms": {
-          "noun": [{ "form": "lead", "meaning": "sự dẫn đầu" }]
+          "noun": [
+            {
+              "form": "lead",
+              "meaning": "sự dẫn đầu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1538,7 +2201,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "1761813174095-32-66-0a6ff407",
       "targetLexeme": "long enough break",
       "sourceContext": "What’s worse, they never get a long enough break.",
       "phase1Inference": {
@@ -1549,9 +2212,20 @@
         "sentiment": "neutral",
         "definitionEN": "A period of rest that is of a sufficient duration.",
         "translationVI": "Kỳ nghỉ đủ dài",
-        "relatedCollocates": ["sufficient rest", "adequate break"],
+        "relatedCollocates": [
+          "sufficient rest",
+          "adequate break"
+        ],
         "wordForms": {
-          "noun": [{ "form": "break", "meaning": "sự nghỉ ngơi" }]
+          "noun": [
+            {
+              "form": "break",
+              "meaning": "sự nghỉ ngơi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1560,7 +2234,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "1761813174095-32-67-51d3b678",
       "targetLexeme": "lovely stroll",
       "sourceContext": "...the stragglers won’t enjoy the lovely stroll in the park they are perhaps more suited to.",
       "phase1Inference": {
@@ -1571,9 +2245,20 @@
         "sentiment": "positive",
         "definitionEN": "A pleasant and leisurely walk.",
         "translationVI": "Chuyến đi dạo thú vị",
-        "relatedCollocates": ["leisurely walk", "pleasant walk"],
+        "relatedCollocates": [
+          "leisurely walk",
+          "pleasant walk"
+        ],
         "wordForms": {
-          "noun": [{ "form": "stroll", "meaning": "sự đi dạo" }]
+          "noun": [
+            {
+              "form": "stroll",
+              "meaning": "sự đi dạo"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1582,7 +2267,7 @@
       }
     },
     {
-      "id": 69,
+      "id": "1761813174095-32-68-2caec88e",
       "targetLexeme": "demands of the collective",
       "sourceContext": "Individuals suffer at the demands of the collective, mediocrity prevails.",
       "phase1Inference": {
@@ -1593,9 +2278,20 @@
         "sentiment": "negative",
         "definitionEN": "The needs or requirements of the group as a whole, often at the expense of the individual.",
         "translationVI": "Những yêu cầu của tập thể",
-        "relatedCollocates": ["needs of the group", "group pressure"],
+        "relatedCollocates": [
+          "needs of the group",
+          "group pressure"
+        ],
         "wordForms": {
-          "noun": [{ "form": "collective", "meaning": "tập thể" }]
+          "noun": [
+            {
+              "form": "collective",
+              "meaning": "tập thể"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1604,7 +2300,7 @@
       }
     },
     {
-      "id": 70,
+      "id": "1761813174095-32-69-3acc2aa8",
       "targetLexeme": "it follows that",
       "sourceContext": "If we accept this model, it follows that streaming students with similar ZPDs would be an efficient and effective solution.",
       "phase1Inference": {
@@ -1615,9 +2311,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to say that something is the logical result of what has just been stated.",
         "translationVI": "Suy ra là",
-        "relatedCollocates": ["therefore", "consequently"],
+        "relatedCollocates": [
+          "therefore",
+          "consequently"
+        ],
         "wordForms": {
-          "verb": [{ "form": "follow", "meaning": "theo sau" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "follow",
+              "meaning": "theo sau"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1626,7 +2333,7 @@
       }
     },
     {
-      "id": 71,
+      "id": "1761813174095-32-70-79d1e450",
       "targetLexeme": "would be madness",
       "sourceContext": "And that forcing everyone on the same hike – regardless of aptitude – would be madness.",
       "phase1Inference": {
@@ -1637,9 +2344,20 @@
         "sentiment": "negative",
         "definitionEN": "Would be a very foolish or crazy thing to do.",
         "translationVI": "Sẽ là điên rồ",
-        "relatedCollocates": ["would be foolish", "would be insane"],
+        "relatedCollocates": [
+          "would be foolish",
+          "would be insane"
+        ],
         "wordForms": {
-          "noun": [{ "form": "madness", "meaning": "sự điên rồ" }]
+          "noun": [
+            {
+              "form": "madness",
+              "meaning": "sự điên rồ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1648,7 +2366,7 @@
       }
     },
     {
-      "id": 72,
+      "id": "1761813174095-32-71-5f841c7c",
       "targetLexeme": "higher representation of",
       "sourceContext": "These students tend to have much higher representation of low socioeconomic class.",
       "phase1Inference": {
@@ -1659,9 +2377,20 @@
         "sentiment": "neutral",
         "definitionEN": "A larger proportion or number of a particular group.",
         "translationVI": "Tỷ lệ đại diện cao hơn của",
-        "relatedCollocates": ["a greater proportion of", "over-representation"],
+        "relatedCollocates": [
+          "a greater proportion of",
+          "over-representation"
+        ],
         "wordForms": {
-          "noun": [{ "form": "representation", "meaning": "sự đại diện" }]
+          "noun": [
+            {
+              "form": "representation",
+              "meaning": "sự đại diện"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1670,7 +2399,7 @@
       }
     },
     {
-      "id": 73,
+      "id": "1761813174095-32-72-07a33346",
       "targetLexeme": "lucky clever students",
       "sourceContext": "Less significant is the small benefit for those lucky clever students in the higher sets.",
       "phase1Inference": {
@@ -1681,9 +2410,20 @@
         "sentiment": "neutral",
         "definitionEN": "A slightly sarcastic or dismissive term for students who are both fortunate and intelligent.",
         "translationVI": "Những học sinh thông minh may mắn",
-        "relatedCollocates": ["gifted students", "high-achievers"],
+        "relatedCollocates": [
+          "gifted students",
+          "high-achievers"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "clever", "meaning": "thông minh" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "clever",
+              "meaning": "thông minh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1692,7 +2432,7 @@
       }
     },
     {
-      "id": 74,
+      "id": "1761813174095-32-73-5ba4c631",
       "targetLexeme": "automatically limits",
       "sourceContext": "Streaming students by diagnosed achievement automatically limits what the teacher feels the student is capable of.",
       "phase1Inference": {
@@ -1703,9 +2443,20 @@
         "sentiment": "negative",
         "definitionEN": "To restrict something as a direct and unavoidable consequence, without conscious thought.",
         "translationVI": "Tự động giới hạn",
-        "relatedCollocates": ["inherently restricts", "naturally confines"],
+        "relatedCollocates": [
+          "inherently restricts",
+          "naturally confines"
+        ],
         "wordForms": {
-          "verb": [{ "form": "limit", "meaning": "giới hạn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "limit",
+              "meaning": "giới hạn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1714,7 +2465,7 @@
       }
     },
     {
-      "id": 75,
+      "id": "1761813174095-32-74-6231efcf",
       "targetLexeme": "capable of",
       "sourceContext": "...what the teacher feels the student is capable of.",
       "phase1Inference": {
@@ -1725,9 +2476,20 @@
         "sentiment": "positive",
         "definitionEN": "Having the ability, fitness, or quality necessary to do or achieve a specified thing.",
         "translationVI": "Có khả năng",
-        "relatedCollocates": ["able to", "has the ability to"],
+        "relatedCollocates": [
+          "able to",
+          "has the ability to"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "capable", "meaning": "có khả năng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "capable",
+              "meaning": "có khả năng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1736,7 +2498,7 @@
       }
     },
     {
-      "id": 76,
+      "id": "1761813174095-32-75-37012ad9",
       "targetLexeme": "crucial aspect",
       "sourceContext": "A crucial aspect of constructivist theory is the role of the MKO...",
       "phase1Inference": {
@@ -1747,9 +2509,20 @@
         "sentiment": "positive",
         "definitionEN": "A point or feature that is of decisive importance.",
         "translationVI": "Khía cạnh quan trọng",
-        "relatedCollocates": ["vital element", "essential feature"],
+        "relatedCollocates": [
+          "vital element",
+          "essential feature"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "crucial", "meaning": "quan trọng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "crucial",
+              "meaning": "quan trọng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1758,7 +2531,7 @@
       }
     },
     {
-      "id": 77,
+      "id": "1761813174095-32-76-75eb0cea",
       "targetLexeme": "traditionally",
       "sourceContext": "While teachers are traditionally the MKOs in classrooms, the value of knowledgeable student peers must not go unrecognised.",
       "phase1Inference": {
@@ -1769,9 +2542,20 @@
         "sentiment": "neutral",
         "definitionEN": "According to the long-established customs or beliefs of a society.",
         "translationVI": "Theo truyền thống",
-        "relatedCollocates": ["customarily", "historically"],
+        "relatedCollocates": [
+          "customarily",
+          "historically"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "traditional", "meaning": "truyền thống" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "traditional",
+              "meaning": "truyền thống"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1780,7 +2564,7 @@
       }
     },
     {
-      "id": 78,
+      "id": "1761813174095-32-77-2f4afbbd",
       "targetLexeme": "get over an idea",
       "sourceContext": "I find it amazing to watch students get over an idea to their peers in ways that I would never think of.",
       "phase1Inference": {
@@ -1791,9 +2575,20 @@
         "sentiment": "positive",
         "definitionEN": "To succeed in communicating an idea or concept to others.",
         "translationVI": "Truyền đạt một ý tưởng",
-        "relatedCollocates": ["communicate an idea", "explain a concept"],
+        "relatedCollocates": [
+          "communicate an idea",
+          "explain a concept"
+        ],
         "wordForms": {
-          "verb": [{ "form": "get over", "meaning": "truyền đạt, vượt qua" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "get over",
+              "meaning": "truyền đạt, vượt qua"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1802,7 +2597,7 @@
       }
     },
     {
-      "id": 79,
+      "id": "1761813174095-32-78-4d7dbfb6",
       "targetLexeme": "social tools",
       "sourceContext": "They operate with different language tools and different social tools from teachers...",
       "phase1Inference": {
@@ -1813,9 +2608,20 @@
         "sentiment": "neutral",
         "definitionEN": "The skills and methods used for communicating and interacting with others.",
         "translationVI": "Công cụ xã hội",
-        "relatedCollocates": ["communication skills", "interpersonal skills"],
+        "relatedCollocates": [
+          "communication skills",
+          "interpersonal skills"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "social", "meaning": "thuộc xã hội" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "social",
+              "meaning": "thuộc xã hội"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1824,7 +2630,7 @@
       }
     },
     {
-      "id": 80,
+      "id": "1761813174095-32-79-08ccee68",
       "targetLexeme": "passing on skills",
       "sourceContext": "There is also something exciting about passing on skills and knowledge that you yourself have just mastered...",
       "phase1Inference": {
@@ -1835,9 +2641,20 @@
         "sentiment": "positive",
         "definitionEN": "To teach someone skills that you have learned.",
         "translationVI": "Truyền lại kỹ năng",
-        "relatedCollocates": ["transferring knowledge", "teaching abilities"],
+        "relatedCollocates": [
+          "transferring knowledge",
+          "teaching abilities"
+        ],
         "wordForms": {
-          "verb": [{ "form": "pass on", "meaning": "truyền lại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "pass on",
+              "meaning": "truyền lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1846,7 +2663,7 @@
       }
     },
     {
-      "id": 81,
+      "id": "1761813174095-32-80-40d3ec5a",
       "targetLexeme": "lost by the expert",
       "sourceContext": "...a certain freshness to the interaction... that is often lost by the expert for whom the steps are obvious...",
       "phase1Inference": {
@@ -1857,9 +2674,20 @@
         "sentiment": "negative",
         "definitionEN": "A quality that is no longer present in or possessed by someone with deep knowledge, often due to familiarity.",
         "translationVI": "Bị mất đi bởi chuyên gia",
-        "relatedCollocates": ["expert blind spot", "curse of knowledge"],
+        "relatedCollocates": [
+          "expert blind spot",
+          "curse of knowledge"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "lost", "meaning": "bị mất" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "lost",
+              "meaning": "bị mất"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1868,7 +2696,7 @@
       }
     },
     {
-      "id": 82,
+      "id": "1761813174095-32-81-2cae1852",
       "targetLexeme": "more than ever",
       "sourceContext": "And today, more than ever, we need the many to flourish...",
       "phase1Inference": {
@@ -1879,9 +2707,20 @@
         "sentiment": "neutral",
         "definitionEN": "More than at any time in the past.",
         "translationVI": "Hơn bao giờ hết",
-        "relatedCollocates": ["especially now", "more so than in the past"],
+        "relatedCollocates": [
+          "especially now",
+          "more so than in the past"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "ever", "meaning": "đã từng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "ever",
+              "meaning": "đã từng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1890,7 +2729,7 @@
       }
     },
     {
-      "id": 83,
+      "id": "1761813174095-32-82-2b7ea667",
       "targetLexeme": "a few bright stars",
       "sourceContext": "...we need the many to flourish – not just a few bright stars.",
       "phase1Inference": {
@@ -1901,9 +2740,20 @@
         "sentiment": "neutral",
         "definitionEN": "A small number of exceptionally talented or successful people.",
         "translationVI": "Một vài ngôi sao sáng",
-        "relatedCollocates": ["a handful of top performers", "the elite few"],
+        "relatedCollocates": [
+          "a handful of top performers",
+          "the elite few"
+        ],
         "wordForms": {
-          "noun": [{ "form": "star", "meaning": "ngôi sao" }]
+          "noun": [
+            {
+              "form": "star",
+              "meaning": "ngôi sao"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1912,7 +2762,7 @@
       }
     },
     {
-      "id": 84,
+      "id": "1761813174095-32-83-7e48b4e9",
       "targetLexeme": "mixed bunch of students",
       "sourceContext": "Once a year, I go on a hike with my class, a mixed bunch of students.",
       "phase1Inference": {
@@ -1923,9 +2773,20 @@
         "sentiment": "neutral",
         "definitionEN": "A group of students with a variety of different characteristics, abilities, or backgrounds.",
         "translationVI": "Một nhóm học sinh hỗn hợp",
-        "relatedCollocates": ["a diverse group", "a varied collection"],
+        "relatedCollocates": [
+          "a diverse group",
+          "a varied collection"
+        ],
         "wordForms": {
-          "noun": [{ "form": "bunch", "meaning": "nhóm, bó" }]
+          "noun": [
+            {
+              "form": "bunch",
+              "meaning": "nhóm, bó"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1934,7 +2795,7 @@
       }
     },
     {
-      "id": 85,
+      "id": "1761813174095-32-84-6dde7c9f",
       "targetLexeme": "carry for others",
       "sourceContext": "There are lookouts who report back, and extra items to carry for others.",
       "phase1Inference": {
@@ -1945,9 +2806,20 @@
         "sentiment": "positive",
         "definitionEN": "To hold and transport items on behalf of other people, often as an act of help or support.",
         "translationVI": "Mang giúp người khác",
-        "relatedCollocates": ["help carry", "share the load"],
+        "relatedCollocates": [
+          "help carry",
+          "share the load"
+        ],
         "wordForms": {
-          "verb": [{ "form": "carry", "meaning": "mang, vác" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "carry",
+              "meaning": "mang, vác"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1956,7 +2828,7 @@
       }
     },
     {
-      "id": 86,
+      "id": "1761813174095-32-85-2fe76e9a",
       "targetLexeme": "read an extract",
       "sourceContext": "...and the teacher has just read an extract from Shakespeare’s Romeo and Juliet with a class of 15-year-olds.",
       "phase1Inference": {
@@ -1967,9 +2839,20 @@
         "sentiment": "neutral",
         "definitionEN": "To read a short piece taken from a book, play, or piece of music.",
         "translationVI": "Đọc một đoạn trích",
-        "relatedCollocates": ["read a passage", "a selection from"],
+        "relatedCollocates": [
+          "read a passage",
+          "a selection from"
+        ],
         "wordForms": {
-          "noun": [{ "form": "extract", "meaning": "đoạn trích" }]
+          "noun": [
+            {
+              "form": "extract",
+              "meaning": "đoạn trích"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1978,7 +2861,7 @@
       }
     },
     {
-      "id": 87,
+      "id": "1761813174095-32-86-7c56dc63",
       "targetLexeme": "kid-friendly translation",
       "sourceContext": "He’s given some of the students copies of No Fear Shakespeare, a kid-friendly translation of the original.",
       "phase1Inference": {
@@ -1989,11 +2872,20 @@
         "sentiment": "positive",
         "definitionEN": "A version of a text that has been adapted to be suitable and easy for children to understand.",
         "translationVI": "Bản dịch thân thiện với trẻ em",
-        "relatedCollocates": ["child-friendly version", "simplified text"],
+        "relatedCollocates": [
+          "child-friendly version",
+          "simplified text"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "kid-friendly", "meaning": "thân thiện với trẻ em" }
-          ]
+            {
+              "form": "kid-friendly",
+              "meaning": "thân thiện với trẻ em"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2002,7 +2894,7 @@
       }
     },
     {
-      "id": 88,
+      "id": "1761813174095-32-87-10b99fcf",
       "targetLexeme": "simply can't focus",
       "sourceContext": "Another girl simply can’t focus and he gives her pens and paper to draw with.",
       "phase1Inference": {
@@ -2013,9 +2905,20 @@
         "sentiment": "negative",
         "definitionEN": "To be completely unable to concentrate on a task.",
         "translationVI": "Đơn giản là không thể tập trung",
-        "relatedCollocates": ["unable to concentrate", "lacks focus"],
+        "relatedCollocates": [
+          "unable to concentrate",
+          "lacks focus"
+        ],
         "wordForms": {
-          "verb": [{ "form": "focus", "meaning": "tập trung" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "focus",
+              "meaning": "tập trung"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2024,7 +2927,7 @@
       }
     },
     {
-      "id": 89,
+      "id": "1761813174095-32-88-7407e411",
       "targetLexeme": "key characters",
       "sourceContext": "He can ask the No Fear group to identify the key characters and provide a tentative plot summary.",
       "phase1Inference": {
@@ -2035,9 +2938,20 @@
         "sentiment": "neutral",
         "definitionEN": "The most important people in a story or play.",
         "translationVI": "Các nhân vật chính",
-        "relatedCollocates": ["main characters", "protagonists"],
+        "relatedCollocates": [
+          "main characters",
+          "protagonists"
+        ],
         "wordForms": {
-          "noun": [{ "form": "character", "meaning": "nhân vật" }]
+          "noun": [
+            {
+              "form": "character",
+              "meaning": "nhân vật"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2046,7 +2960,7 @@
       }
     },
     {
-      "id": 90,
+      "id": "1761813174095-32-89-1e28e2f3",
       "targetLexeme": "character development",
       "sourceContext": "He can ask most of the class about character development...",
       "phase1Inference": {
@@ -2057,9 +2971,20 @@
         "sentiment": "neutral",
         "definitionEN": "The process of creating a believable character in fiction by giving them depth and personality, and showing how they change over time.",
         "translationVI": "Sự phát triển nhân vật",
-        "relatedCollocates": ["character arc", "characterization"],
+        "relatedCollocates": [
+          "character arc",
+          "characterization"
+        ],
         "wordForms": {
-          "noun": [{ "form": "development", "meaning": "sự phát triển" }]
+          "noun": [
+            {
+              "form": "development",
+              "meaning": "sự phát triển"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2068,7 +2993,7 @@
       }
     },
     {
-      "id": 91,
+      "id": "1761813174095-32-90-18d945be",
       "targetLexeme": "comprehensive schools",
       "sourceContext": "...and comprehensive schools for the rest.",
       "phase1Inference": {
@@ -2079,9 +3004,20 @@
         "sentiment": "neutral",
         "definitionEN": "A type of secondary school that does not select its intake on the basis of academic achievement or aptitude.",
         "translationVI": "Trường phổ thông (không chuyên)",
-        "relatedCollocates": ["state schools", "non-selective schools"],
+        "relatedCollocates": [
+          "state schools",
+          "non-selective schools"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "comprehensive", "meaning": "toàn diện" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "comprehensive",
+              "meaning": "toàn diện"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2090,7 +3026,7 @@
       }
     },
     {
-      "id": 92,
+      "id": "1761813174095-32-91-47cdaf5a",
       "targetLexeme": "subject-specific ability",
       "sourceContext": "Within schools, it means selecting students into a ‘stream’ of general ability, or ‘sets’ of subject-specific ability.",
       "phase1Inference": {
@@ -2101,11 +3037,20 @@
         "sentiment": "neutral",
         "definitionEN": "A person's skill or aptitude in a particular academic subject.",
         "translationVI": "Năng lực theo môn học cụ thể",
-        "relatedCollocates": ["aptitude in a subject", "domain-specific skill"],
+        "relatedCollocates": [
+          "aptitude in a subject",
+          "domain-specific skill"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "subject-specific", "meaning": "cụ thể theo môn học" }
-          ]
+            {
+              "form": "subject-specific",
+              "meaning": "cụ thể theo môn học"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2114,7 +3059,7 @@
       }
     },
     {
-      "id": 93,
+      "id": "1761813174095-32-92-13f194be",
       "targetLexeme": "the fittest",
       "sourceContext": "The fittest in the group take the lead and set a brisk pace.",
       "phase1Inference": {
@@ -2125,9 +3070,20 @@
         "sentiment": "neutral",
         "definitionEN": "The people who are in the best physical condition.",
         "translationVI": "Những người khỏe nhất",
-        "relatedCollocates": ["the strongest", "the most athletic"],
+        "relatedCollocates": [
+          "the strongest",
+          "the most athletic"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "fit", "meaning": "khỏe mạnh" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "fit",
+              "meaning": "khỏe mạnh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2136,7 +3092,7 @@
       }
     },
     {
-      "id": 94,
+      "id": "1761813174095-32-93-1f49ed73",
       "targetLexeme": "keep up",
       "sourceContext": "Meanwhile, the slowest ones are not only embarrassed but physically struggling to keep up.",
       "phase1Inference": {
@@ -2147,9 +3103,20 @@
         "sentiment": "neutral",
         "definitionEN": "To move or progress at the same rate as someone or something else.",
         "translationVI": "Theo kịp",
-        "relatedCollocates": ["stay level with", "not fall behind"],
+        "relatedCollocates": [
+          "stay level with",
+          "not fall behind"
+        ],
         "wordForms": {
-          "verb": [{ "form": "keep up", "meaning": "theo kịp" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "keep up",
+              "meaning": "theo kịp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2158,7 +3125,7 @@
       }
     },
     {
-      "id": 95,
+      "id": "1761813174095-32-94-0cb5b871",
       "targetLexeme": "summit Mount Qomolangma",
       "sourceContext": "The brightest ones will never summit Mount Qomolangma...",
       "phase1Inference": {
@@ -2169,9 +3136,20 @@
         "sentiment": "positive",
         "definitionEN": "To reach the top of Mount Everest (Qomolangma is the Tibetan name). Used metaphorically for reaching the highest peak of achievement.",
         "translationVI": "Chinh phục đỉnh Everest",
-        "relatedCollocates": ["reach the peak", "climb Mount Everest"],
+        "relatedCollocates": [
+          "reach the peak",
+          "climb Mount Everest"
+        ],
         "wordForms": {
-          "verb": [{ "form": "summit", "meaning": "lên đến đỉnh" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "summit",
+              "meaning": "lên đến đỉnh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2180,7 +3158,7 @@
       }
     },
     {
-      "id": 96,
+      "id": "1761813174095-32-95-5aa0cd3e",
       "targetLexeme": "more suited to",
       "sourceContext": "...the stragglers won’t enjoy the lovely stroll in the park they are perhaps more suited to.",
       "phase1Inference": {
@@ -2191,9 +3169,20 @@
         "sentiment": "positive",
         "definitionEN": "To be more appropriate or a better fit for a particular purpose or person.",
         "translationVI": "Phù hợp hơn với",
-        "relatedCollocates": ["a better fit for", "more appropriate for"],
+        "relatedCollocates": [
+          "a better fit for",
+          "more appropriate for"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "suited", "meaning": "phù hợp" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "suited",
+              "meaning": "phù hợp"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2202,7 +3191,7 @@
       }
     },
     {
-      "id": 97,
+      "id": "1761813174095-32-96-2ee6fa5d",
       "targetLexeme": "emerged out of",
       "sourceContext": "The current pedagogical paradigm is arguably that of constructivism, which emerged out of the work of psychologist Lev Vygotsky.",
       "phase1Inference": {
@@ -2213,9 +3202,20 @@
         "sentiment": "neutral",
         "definitionEN": "To arise or come into being from a particular source or context.",
         "translationVI": "Nổi lên từ",
-        "relatedCollocates": ["arose from", "originated from"],
+        "relatedCollocates": [
+          "arose from",
+          "originated from"
+        ],
         "wordForms": {
-          "verb": [{ "form": "emerge", "meaning": "nổi lên" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "emerge",
+              "meaning": "nổi lên"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2224,7 +3224,7 @@
       }
     },
     {
-      "id": 98,
+      "id": "1761813174095-32-97-1c4d7d53",
       "targetLexeme": "worked examples",
       "sourceContext": "This is the gap between what they can achieve only with support – teachers, textbooks, worked examples, parents and so on – and what they can achieve independently.",
       "phase1Inference": {
@@ -2235,9 +3235,20 @@
         "sentiment": "neutral",
         "definitionEN": "Step-by-step demonstrations of how to solve a problem, used as a learning aid.",
         "translationVI": "Các ví dụ đã được giải",
-        "relatedCollocates": ["model answers", "step-by-step solutions"],
+        "relatedCollocates": [
+          "model answers",
+          "step-by-step solutions"
+        ],
         "wordForms": {
-          "noun": [{ "form": "example", "meaning": "ví dụ" }]
+          "noun": [
+            {
+              "form": "example",
+              "meaning": "ví dụ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2246,7 +3257,7 @@
       }
     },
     {
-      "id": 99,
+      "id": "1761813174095-32-98-47994299",
       "targetLexeme": "assigned to the lowest sets",
       "sourceContext": "...affect those students assigned to the lowest sets.",
       "phase1Inference": {
@@ -2262,7 +3273,15 @@
           "low-ability groups"
         ],
         "wordForms": {
-          "noun": [{ "form": "set", "meaning": "nhóm (học sinh)" }]
+          "noun": [
+            {
+              "form": "set",
+              "meaning": "nhóm (học sinh)"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2271,7 +3290,7 @@
       }
     },
     {
-      "id": 100,
+      "id": "1761813174095-32-99-0ee4e90e",
       "targetLexeme": "social divide",
       "sourceContext": "...further entrenching the social divide.",
       "phase1Inference": {
@@ -2282,9 +3301,20 @@
         "sentiment": "negative",
         "definitionEN": "A significant gap or separation between different groups in a society, especially based on wealth, class, or education.",
         "translationVI": "Sự phân chia xã hội",
-        "relatedCollocates": ["social inequality", "class division"],
+        "relatedCollocates": [
+          "social inequality",
+          "class division"
+        ],
         "wordForms": {
-          "noun": [{ "form": "divide", "meaning": "sự chia rẽ" }]
+          "noun": [
+            {
+              "form": "divide",
+              "meaning": "sự chia rẽ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2293,7 +3323,7 @@
       }
     },
     {
-      "id": 101,
+      "id": "1761813174095-32-100-06c318bb",
       "targetLexeme": "underestimate the importance of",
       "sourceContext": "...it can underestimate the importance of peer-to-peer learning.",
       "phase1Inference": {
@@ -2304,9 +3334,20 @@
         "sentiment": "negative",
         "definitionEN": "To fail to recognize how significant or valuable something is.",
         "translationVI": "Đánh giá thấp tầm quan trọng của",
-        "relatedCollocates": ["undervalue", "fail to appreciate"],
+        "relatedCollocates": [
+          "undervalue",
+          "fail to appreciate"
+        ],
         "wordForms": {
-          "verb": [{ "form": "underestimate", "meaning": "đánh giá thấp" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "underestimate",
+              "meaning": "đánh giá thấp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2315,7 +3356,7 @@
       }
     },
     {
-      "id": 102,
+      "id": "1761813174095-32-101-4d273d94",
       "targetLexeme": "just mastered",
       "sourceContext": "...passing on skills and knowledge that you yourself have just mastered...",
       "phase1Inference": {
@@ -2326,9 +3367,20 @@
         "sentiment": "positive",
         "definitionEN": "To have very recently become proficient or skilled in something.",
         "translationVI": "Vừa mới thành thạo",
-        "relatedCollocates": ["recently learned", "newly acquired"],
+        "relatedCollocates": [
+          "recently learned",
+          "newly acquired"
+        ],
         "wordForms": {
-          "verb": [{ "form": "master", "meaning": "làm chủ, thành thạo" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "master",
+              "meaning": "làm chủ, thành thạo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2337,7 +3389,7 @@
       }
     },
     {
-      "id": 103,
+      "id": "1761813174095-32-102-7b03bb99",
       "targetLexeme": "a certain freshness",
       "sourceContext": "...a certain pride and zeal, a certain freshness to the interaction between ‘teacher’ and ‘learner’...",
       "phase1Inference": {
@@ -2348,9 +3400,20 @@
         "sentiment": "positive",
         "definitionEN": "A particular quality of being new, original, or exciting.",
         "translationVI": "Một sự tươi mới nhất định",
-        "relatedCollocates": ["a sense of novelty", "a new perspective"],
+        "relatedCollocates": [
+          "a sense of novelty",
+          "a new perspective"
+        ],
         "wordForms": {
-          "noun": [{ "form": "freshness", "meaning": "sự tươi mới" }]
+          "noun": [
+            {
+              "form": "freshness",
+              "meaning": "sự tươi mới"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2359,7 +3422,7 @@
       }
     },
     {
-      "id": 104,
+      "id": "1761813174095-32-103-332185b1",
       "targetLexeme": "steps are obvious",
       "sourceContext": "...that is often lost by the expert for whom the steps are obvious and the joy of discovery forgotten.",
       "phase1Inference": {
@@ -2370,9 +3433,20 @@
         "sentiment": "neutral",
         "definitionEN": "When the stages of a process are so clear and easy to understand (to someone) that they require no explanation.",
         "translationVI": "Các bước là hiển nhiên",
-        "relatedCollocates": ["self-evident", "clear-cut process"],
+        "relatedCollocates": [
+          "self-evident",
+          "clear-cut process"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "obvious", "meaning": "rõ ràng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "obvious",
+              "meaning": "rõ ràng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2381,7 +3455,7 @@
       }
     },
     {
-      "id": 105,
+      "id": "1761813174095-32-104-0bded90c",
       "targetLexeme": "communication and social skills",
       "sourceContext": "...not to mention improving their communication and social skills.",
       "phase1Inference": {
@@ -2392,9 +3466,20 @@
         "sentiment": "positive",
         "definitionEN": "The abilities used to communicate and interact with other people, both verbally and non-verbally.",
         "translationVI": "Kỹ năng giao tiếp và xã hội",
-        "relatedCollocates": ["interpersonal skills", "soft skills"],
+        "relatedCollocates": [
+          "interpersonal skills",
+          "soft skills"
+        ],
         "wordForms": {
-          "noun": [{ "form": "skill", "meaning": "kỹ năng" }]
+          "noun": [
+            {
+              "form": "skill",
+              "meaning": "kỹ năng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2403,7 +3488,7 @@
       }
     },
     {
-      "id": 106,
+      "id": "1761813174095-32-105-4a84e644",
       "targetLexeme": "It is challenging",
       "sourceContext": "Once a year, I go on a hike with my class, a mixed bunch of students. It is challenging.",
       "phase1Inference": {
@@ -2414,9 +3499,20 @@
         "sentiment": "neutral",
         "definitionEN": "It is difficult in a way that tests one's ability or determination.",
         "translationVI": "Nó đầy thử thách",
-        "relatedCollocates": ["it is difficult", "it is demanding"],
+        "relatedCollocates": [
+          "it is difficult",
+          "it is demanding"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "challenging", "meaning": "thử thách" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "challenging",
+              "meaning": "thử thách"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2425,7 +3521,7 @@
       }
     },
     {
-      "id": 107,
+      "id": "1761813174095-32-106-2190045b",
       "targetLexeme": "extra items",
       "sourceContext": "There are lookouts who report back, and extra items to carry for others.",
       "phase1Inference": {
@@ -2436,9 +3532,20 @@
         "sentiment": "neutral",
         "definitionEN": "Additional things or objects.",
         "translationVI": "Những món đồ thêm",
-        "relatedCollocates": ["additional supplies", "more things"],
+        "relatedCollocates": [
+          "additional supplies",
+          "more things"
+        ],
         "wordForms": {
-          "noun": [{ "form": "item", "meaning": "món đồ" }]
+          "noun": [
+            {
+              "form": "item",
+              "meaning": "món đồ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2447,7 +3554,7 @@
       }
     },
     {
-      "id": 108,
+      "id": "1761813174095-32-107-2ea7926a",
       "targetLexeme": "struggling classmates",
       "sourceContext": "...they possess similar cognitive structures to their struggling classmates.",
       "phase1Inference": {
@@ -2463,7 +3570,15 @@
           "peers who are having trouble"
         ],
         "wordForms": {
-          "verb": [{ "form": "struggle", "meaning": "vật lộn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "struggle",
+              "meaning": "vật lộn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2472,7 +3587,7 @@
       }
     },
     {
-      "id": 109,
+      "id": "1761813174095-32-108-48d1dc43",
       "targetLexeme": "a mixed bunch",
       "sourceContext": "Once a year, I go on a hike with my class, a mixed bunch of students.",
       "phase1Inference": {
@@ -2483,9 +3598,20 @@
         "sentiment": "neutral",
         "definitionEN": "A group of people with a variety of different characters, abilities, or interests.",
         "translationVI": "Một nhóm hỗn hợp",
-        "relatedCollocates": ["a diverse group", "a motley crew"],
+        "relatedCollocates": [
+          "a diverse group",
+          "a motley crew"
+        ],
         "wordForms": {
-          "noun": [{ "form": "bunch", "meaning": "nhóm, bó" }]
+          "noun": [
+            {
+              "form": "bunch",
+              "meaning": "nhóm, bó"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2494,7 +3620,7 @@
       }
     },
     {
-      "id": 110,
+      "id": "1761813174095-32-109-03fbbda9",
       "targetLexeme": "fittest students",
       "sourceContext": "The fittest students realise they need to encourage the reluctant.",
       "phase1Inference": {
@@ -2505,9 +3631,20 @@
         "sentiment": "neutral",
         "definitionEN": "The students who are in the best physical condition (used in the hiking analogy).",
         "translationVI": "Những học sinh khỏe nhất",
-        "relatedCollocates": ["most athletic students", "strongest students"],
+        "relatedCollocates": [
+          "most athletic students",
+          "strongest students"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "fit", "meaning": "khỏe mạnh" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "fit",
+              "meaning": "khỏe mạnh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2515,5 +3652,11 @@
         "content": "During sports day, the fittest students competed in the long-distance running events."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.095Z",
+    "version": "2.0",
+    "originalCount": 110,
+    "migratedCount": 110
+  }
 }

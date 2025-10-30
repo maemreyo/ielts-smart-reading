@@ -1,10 +1,10 @@
 {
   "logTitle": "IELTS Reading Log: Insight or evolution? (Part 1)",
   "sourceId": "Reading Passage (Image 'CleanShot 2025-10-25 at 16.09.47.png' & '...16.12.07.png')",
-  "totalItems": 83,
+  "totalItems": 88,
   "lexicalItems": [
     {
-      "id": 375,
+      "id": "1761813174059-17-0-6bc8d4be",
       "targetLexeme": "sheer genius",
       "sourceContext": "...result from the sheer genius of such intellectual stars...",
       "phase1Inference": {
@@ -21,8 +21,20 @@
           "intellectual stars"
         ],
         "wordForms": {
-          "noun": [{ "form": "genius", "meaning": "thiên tài" }],
-          "adjective": [{ "form": "sheer", "meaning": "hoàn toàn, tuyệt đối" }]
+          "noun": [
+            {
+              "form": "genius",
+              "meaning": "thiên tài"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "sheer",
+              "meaning": "hoàn toàn, tuyệt đối"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -31,7 +43,7 @@
       }
     },
     {
-      "id": 376,
+      "id": "1761813174059-17-1-53108f8a",
       "targetLexeme": "intellectual stars",
       "sourceContext": "...of such intellectual stars as naturalist Charles Darwin...",
       "phase1Inference": {
@@ -49,10 +61,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "intellectual", "meaning": "người trí thức" },
-            { "form": "star", "meaning": "ngôi sao" }
+            {
+              "form": "intellectual",
+              "meaning": "người trí thức"
+            },
+            {
+              "form": "star",
+              "meaning": "ngôi sao"
+            }
           ],
-          "adjective": [{ "form": "intellectual", "meaning": "thuộc trí tuệ" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "intellectual",
+              "meaning": "thuộc trí tuệ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -61,7 +86,7 @@
       }
     },
     {
-      "id": 377,
+      "id": "1761813174059-17-2-4e697c5c",
       "targetLexeme": "disregards (v)",
       "sourceContext": "...often disregards the person's prior experience...",
       "phase1Inference": {
@@ -78,8 +103,20 @@
           "pay no attention to"
         ],
         "wordForms": {
-          "noun": [{ "form": "disregard", "meaning": "sự phớt lờ" }],
-          "verb": [{ "form": "disregard", "meaning": "phớt lờ" }]
+          "noun": [
+            {
+              "form": "disregard",
+              "meaning": "sự phớt lờ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "disregard",
+              "meaning": "phớt lờ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -88,7 +125,7 @@
       }
     },
     {
-      "id": 378,
+      "id": "1761813174059-17-3-626284d6",
       "targetLexeme": "lesser-known predecessors",
       "sourceContext": "...and the efforts of their lesser-known predecessors.",
       "phase1Inference": {
@@ -104,10 +141,20 @@
           "unheralded (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "predecessor", "meaning": "người tiền nhiệm" }],
+          "noun": [
+            {
+              "form": "predecessor",
+              "meaning": "người tiền nhiệm"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "lesser-known", "meaning": "ít được biết đến hơn" }
-          ]
+            {
+              "form": "lesser-known",
+              "meaning": "ít được biết đến hơn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -116,7 +163,7 @@
       }
     },
     {
-      "id": 379,
+      "id": "1761813174059-17-4-19b0579a",
       "targetLexeme": "conventional wisdom",
       "sourceContext": "Conventional wisdom also places great weight on insight...",
       "phase1Inference": {
@@ -133,10 +180,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "wisdom", "meaning": "hiểu biết" },
-            { "form": "convention", "meaning": "quy ước" }
+            {
+              "form": "wisdom",
+              "meaning": "hiểu biết"
+            },
+            {
+              "form": "convention",
+              "meaning": "quy ước"
+            }
           ],
-          "adjective": [{ "form": "conventional", "meaning": "thông thường" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "conventional",
+              "meaning": "thông thường"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -145,7 +205,7 @@
       }
     },
     {
-      "id": 380,
+      "id": "1761813174059-17-5-3d2db10a",
       "targetLexeme": "breakthrough scientific achievements",
       "sourceContext": "...in promoting breakthrough scientific achievements...",
       "phase1Inference": {
@@ -163,13 +223,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "breakthrough", "meaning": "sự đột phá" },
-            { "form": "achievement", "meaning": "thành tựu" }
+            {
+              "form": "breakthrough",
+              "meaning": "sự đột phá"
+            },
+            {
+              "form": "achievement",
+              "meaning": "thành tựu"
+            }
           ],
+          "verb": [],
           "adjective": [
-            { "form": "scientific", "meaning": "thuộc khoa học" },
-            { "form": "breakthrough", "meaning": "mang tính đột phá" }
-          ]
+            {
+              "form": "scientific",
+              "meaning": "thuộc khoa học"
+            },
+            {
+              "form": "breakthrough",
+              "meaning": "mang tính đột phá"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -178,7 +252,7 @@
       }
     },
     {
-      "id": 381,
+      "id": "1761813174059-17-6-54fa48ae",
       "targetLexeme": "spontaneously pop into (sb's) head",
       "sourceContext": "...as if ideas spontaneously pop into someone's head...",
       "phase1Inference": {
@@ -189,10 +263,25 @@
         "sentiment": "neutral",
         "definitionEN": "To appear in one's mind suddenly, without any warning or conscious effort",
         "translationVI": "Tự phát nảy ra trong đầu",
-        "relatedCollocates": ["suddenly appear", "an idea comes to (sb)"],
+        "relatedCollocates": [
+          "suddenly appear",
+          "an idea comes to (sb)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "pop into", "meaning": "nảy ra" }],
-          "adverb": [{ "form": "spontaneously", "meaning": "một cách tự phát" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "pop into",
+              "meaning": "nảy ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "spontaneously",
+              "meaning": "một cách tự phát"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -201,7 +290,7 @@
       }
     },
     {
-      "id": 382,
+      "id": "1761813174059-17-7-34a90f7b",
       "targetLexeme": "fully formed and functional",
       "sourceContext": "...ideas... – fully formed and functional.",
       "phase1Inference": {
@@ -212,13 +301,29 @@
         "sentiment": "positive",
         "definitionEN": "Completely developed in all its parts and able to work or operate correctly",
         "translationVI": "Được hình thành đầy đủ và hoạt động được",
-        "relatedCollocates": ["fully developed", "fully functional"],
+        "relatedCollocates": [
+          "fully developed",
+          "fully functional"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "formed", "meaning": "được hình thành" },
-            { "form": "functional", "meaning": "hoạt động được" }
+            {
+              "form": "formed",
+              "meaning": "được hình thành"
+            },
+            {
+              "form": "functional",
+              "meaning": "hoạt động được"
+            }
           ],
-          "adverb": [{ "form": "fully", "meaning": "hoàn toàn" }]
+          "adverb": [
+            {
+              "form": "fully",
+              "meaning": "hoàn toàn"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -227,7 +332,7 @@
       }
     },
     {
-      "id": 383,
+      "id": "1761813174059-17-8-3ad6d27a",
       "targetLexeme": "limited truth (to sth)",
       "sourceContext": "There may be some limited truth to this view.",
       "phase1Inference": {
@@ -244,8 +349,20 @@
           "not the whole truth"
         ],
         "wordForms": {
-          "noun": [{ "form": "truth", "meaning": "sự thật" }],
-          "adjective": [{ "form": "limited", "meaning": "hạn chế" }]
+          "noun": [
+            {
+              "form": "truth",
+              "meaning": "sự thật"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "limited",
+              "meaning": "hạn chế"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -254,7 +371,7 @@
       }
     },
     {
-      "id": 384,
+      "id": "1761813174059-17-9-4848bc00",
       "targetLexeme": "misrepresents (v)",
       "sourceContext": "...it largely misrepresents the real nature of scientific discovery...",
       "phase1Inference": {
@@ -271,8 +388,20 @@
           "represent (antonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "misrepresentation", "meaning": "sự mô tả sai" }],
-          "verb": [{ "form": "misrepresent", "meaning": "mô tả sai" }]
+          "noun": [
+            {
+              "form": "misrepresentation",
+              "meaning": "sự mô tả sai"
+            }
+          ],
+          "verb": [
+            {
+              "form": "misrepresent",
+              "meaning": "mô tả sai"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -281,7 +410,7 @@
       }
     },
     {
-      "id": 385,
+      "id": "1761813174059-17-10-0a25c360",
       "targetLexeme": "realms of human endeavor",
       "sourceContext": "...and innovation in many other realms of human endeavor.",
       "phase1Inference": {
@@ -299,10 +428,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "realm", "meaning": "lĩnh vực, vương quốc" },
-            { "form": "endeavor", "meaning": "nỗ lực" }
+            {
+              "form": "realm",
+              "meaning": "lĩnh vực, vương quốc"
+            },
+            {
+              "form": "endeavor",
+              "meaning": "nỗ lực"
+            }
           ],
-          "adjective": [{ "form": "human", "meaning": "thuộc con người" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "human",
+              "meaning": "thuộc con người"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -311,7 +453,7 @@
       }
     },
     {
-      "id": 386,
+      "id": "1761813174059-17-11-5328947e",
       "targetLexeme": "setting aside (phr. v)",
       "sourceContext": "Setting aside such greats as Darwin and Einstein...",
       "phase1Inference": {
@@ -322,9 +464,20 @@
         "sentiment": "neutral",
         "definitionEN": "To temporarily ignore or not think about a particular fact, problem, or person in order to focus on something else",
         "translationVI": "Tạm gác lại, tạm bỏ qua một bên",
-        "relatedCollocates": ["put aside", "ignore for a moment"],
+        "relatedCollocates": [
+          "put aside",
+          "ignore for a moment"
+        ],
         "wordForms": {
-          "verb": [{ "form": "set aside", "meaning": "gác lại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "set aside",
+              "meaning": "gác lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -333,7 +486,7 @@
       }
     },
     {
-      "id": 387,
+      "id": "1761813174059-17-12-3674af9b",
       "targetLexeme": "monumental contributions",
       "sourceContext": "...whose monumental contributions are duly celebrated...",
       "phase1Inference": {
@@ -350,8 +503,20 @@
           "a monumental task"
         ],
         "wordForms": {
-          "noun": [{ "form": "contribution", "meaning": "sự đóng góp" }],
-          "adjective": [{ "form": "monumental", "meaning": "to lớn, vĩ đại" }]
+          "noun": [
+            {
+              "form": "contribution",
+              "meaning": "sự đóng góp"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "monumental",
+              "meaning": "to lớn, vĩ đại"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -360,7 +525,7 @@
       }
     },
     {
-      "id": 388,
+      "id": "1761813174059-17-13-12ec5e74",
       "targetLexeme": "duly celebrated",
       "sourceContext": "...contributions are duly celebrated...",
       "phase1Inference": {
@@ -377,10 +542,24 @@
           "properly acknowledged"
         ],
         "wordForms": {
-          "verb": [{ "form": "celebrate", "meaning": "tôn vinh, ăn mừng" }],
-          "adjective": [{ "form": "celebrated", "meaning": "nổi tiếng" }],
+          "noun": [],
+          "verb": [
+            {
+              "form": "celebrate",
+              "meaning": "tôn vinh, ăn mừng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "celebrated",
+              "meaning": "nổi tiếng"
+            }
+          ],
           "adverb": [
-            { "form": "duly", "meaning": "một cách đúng đắn, xứng đáng" }
+            {
+              "form": "duly",
+              "meaning": "một cách đúng đắn, xứng đáng"
+            }
           ]
         }
       },
@@ -390,7 +569,7 @@
       }
     },
     {
-      "id": 389,
+      "id": "1761813174059-17-14-544ed5b5",
       "targetLexeme": "trial and error",
       "sourceContext": "...innovation is more a process of trial and error...",
       "phase1Inference": {
@@ -407,9 +586,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "trial", "meaning": "sự thử" },
-            { "form": "error", "meaning": "lỗi" }
-          ]
+            {
+              "form": "trial",
+              "meaning": "sự thử"
+            },
+            {
+              "form": "error",
+              "meaning": "lỗi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -418,7 +606,7 @@
       }
     },
     {
-      "id": 390,
+      "id": "1761813174059-17-15-2c6d11c0",
       "targetLexeme": "evolutionary view",
       "sourceContext": "This evolutionary view of human innovation...",
       "phase1Inference": {
@@ -429,13 +617,29 @@
         "sentiment": "neutral",
         "definitionEN": "A perspective or way of thinking that sees development as a gradual process of change and adaptation, similar to biological evolution",
         "translationVI": "Quan điểm (theo thuyết) tiến hóa",
-        "relatedCollocates": ["an evolutionary process", "a gradual change"],
+        "relatedCollocates": [
+          "an evolutionary process",
+          "a gradual change"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "evolution", "meaning": "sự tiến hóa" },
-            { "form": "view", "meaning": "quan điểm" }
+            {
+              "form": "evolution",
+              "meaning": "sự tiến hóa"
+            },
+            {
+              "form": "view",
+              "meaning": "quan điểm"
+            }
           ],
-          "adjective": [{ "form": "evolutionary", "meaning": "thuộc tiến hóa" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "evolutionary",
+              "meaning": "thuộc tiến hóa"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -444,7 +648,7 @@
       }
     },
     {
-      "id": 391,
+      "id": "1761813174059-17-16-30efb425",
       "targetLexeme": "undermines the notion (of)",
       "sourceContext": "...undermines the notion of creative genius...",
       "phase1Inference": {
@@ -461,8 +665,20 @@
           "the idea of (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "notion", "meaning": "khái niệm, ý niệm" }],
-          "verb": [{ "form": "undermine", "meaning": "làm suy yếu" }]
+          "noun": [
+            {
+              "form": "notion",
+              "meaning": "khái niệm, ý niệm"
+            }
+          ],
+          "verb": [
+            {
+              "form": "undermine",
+              "meaning": "làm suy yếu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -471,7 +687,7 @@
       }
     },
     {
-      "id": 392,
+      "id": "1761813174059-17-17-46418b72",
       "targetLexeme": "cumulative nature",
       "sourceContext": "...recognizes the cumulative nature of scientific progress.",
       "phase1Inference": {
@@ -489,11 +705,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "nature", "meaning": "bản chất" },
-            { "form": "accumulation", "meaning": "sự tích lũy" }
+            {
+              "form": "nature",
+              "meaning": "bản chất"
+            },
+            {
+              "form": "accumulation",
+              "meaning": "sự tích lũy"
+            }
           ],
-          "verb": [{ "form": "accumulate", "meaning": "tích lũy" }],
-          "adjective": [{ "form": "cumulative", "meaning": "tích lũy" }]
+          "verb": [
+            {
+              "form": "accumulate",
+              "meaning": "tích lũy"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "cumulative",
+              "meaning": "tích lũy"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -502,7 +735,7 @@
       }
     },
     {
-      "id": 393,
+      "id": "1761813174059-17-18-1ec21f33",
       "targetLexeme": "unheralded scientist",
       "sourceContext": "Consider one unheralded scientist: John Nicholson...",
       "phase1Inference": {
@@ -519,10 +752,20 @@
           "unrecognized"
         ],
         "wordForms": {
-          "noun": [{ "form": "scientist", "meaning": "nhà khoa học" }],
+          "noun": [
+            {
+              "form": "scientist",
+              "meaning": "nhà khoa học"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "unheralded", "meaning": "không được công nhận" }
-          ]
+            {
+              "form": "unheralded",
+              "meaning": "không được công nhận"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -531,7 +774,7 @@
       }
     },
     {
-      "id": 394,
+      "id": "1761813174059-17-19-3c8abf81",
       "targetLexeme": "mathematical physicist",
       "sourceContext": "...John Nicholson, a mathematical physicist working in the 1910s...",
       "phase1Inference": {
@@ -542,13 +785,28 @@
         "sentiment": "neutral",
         "definitionEN": "A scientist who specializes in the area where mathematics and physics overlap, using math to solve physics problems",
         "translationVI": "Nhà vật lý-toán học",
-        "relatedCollocates": ["theoretical physicist"],
+        "relatedCollocates": [
+          "theoretical physicist"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "physicist", "meaning": "nhà vật lý" },
-            { "form": "mathematics", "meaning": "toán học" }
+            {
+              "form": "physicist",
+              "meaning": "nhà vật lý"
+            },
+            {
+              "form": "mathematics",
+              "meaning": "toán học"
+            }
           ],
-          "adjective": [{ "form": "mathematical", "meaning": "thuộc toán học" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "mathematical",
+              "meaning": "thuộc toán học"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -557,7 +815,7 @@
       }
     },
     {
-      "id": 395,
+      "id": "1761813174059-17-20-50b4f10c",
       "targetLexeme": "postulated the existence (of)",
       "sourceContext": "...who postulated the existence of 'proto-elements'...",
       "phase1Inference": {
@@ -575,10 +833,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "postulate", "meaning": "định đề" },
-            { "form": "existence", "meaning": "sự tồn tại" }
+            {
+              "form": "postulate",
+              "meaning": "định đề"
+            },
+            {
+              "form": "existence",
+              "meaning": "sự tồn tại"
+            }
           ],
-          "verb": [{ "form": "postulate", "meaning": "đặt giả thuyết" }]
+          "verb": [
+            {
+              "form": "postulate",
+              "meaning": "đặt giả thuyết"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -587,7 +858,7 @@
       }
     },
     {
-      "id": 396,
+      "id": "1761813174059-17-21-0ebce9f7",
       "targetLexeme": "then-known periodic table",
       "sourceContext": "...all the elements in the then-known periodic table.",
       "phase1Inference": {
@@ -598,12 +869,25 @@
         "sentiment": "neutral",
         "definitionEN": "The version of the periodic table of elements that was accepted or understood at that specific time in the past",
         "translationVI": "Bảng tuần hoàn được biết đến lúc bấy giờ",
-        "relatedCollocates": ["at that time", "the known universe"],
+        "relatedCollocates": [
+          "at that time",
+          "the known universe"
+        ],
         "wordForms": {
-          "noun": [{ "form": "periodic table", "meaning": "bảng tuần hoàn" }],
+          "noun": [
+            {
+              "form": "periodic table",
+              "meaning": "bảng tuần hoàn"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "then-known", "meaning": "được biết đến lúc đó" }
-          ]
+            {
+              "form": "then-known",
+              "meaning": "được biết đến lúc đó"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -612,7 +896,7 @@
       }
     },
     {
-      "id": 397,
+      "id": "1761813174059-17-22-7956f230",
       "targetLexeme": "all the more noteworthy",
       "sourceContext": "These successes are all the more noteworthy given the fact that...",
       "phase1Inference": {
@@ -628,7 +912,15 @@
           "particularly (noteworthy)"
         ],
         "wordForms": {
-          "adjective": [{ "form": "noteworthy", "meaning": "đáng chú ý" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "noteworthy",
+              "meaning": "đáng chú ý"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -637,7 +929,7 @@
       }
     },
     {
-      "id": 398,
+      "id": "1761813174059-17-23-13c09b20",
       "targetLexeme": "fanciful theories",
       "sourceContext": "Yet, amid his often fanciful theories and wild speculations...",
       "phase1Inference": {
@@ -655,10 +947,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "theory", "meaning": "lý thuyết" },
-            { "form": "fancy", "meaning": "sự tưởng tượng" }
+            {
+              "form": "theory",
+              "meaning": "lý thuyết"
+            },
+            {
+              "form": "fancy",
+              "meaning": "sự tưởng tượng"
+            }
           ],
-          "adjective": [{ "form": "fanciful", "meaning": "kỳ ảo" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "fanciful",
+              "meaning": "kỳ ảo"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -667,7 +972,7 @@
       }
     },
     {
-      "id": 399,
+      "id": "1761813174059-17-24-3dd07bcc",
       "targetLexeme": "wild speculations",
       "sourceContext": "...and wild speculations, Nicholson also proposed a novel theory...",
       "phase1Inference": {
@@ -684,9 +989,25 @@
           "speculate (v)"
         ],
         "wordForms": {
-          "noun": [{ "form": "speculation", "meaning": "sự suy đoán" }],
-          "verb": [{ "form": "speculate", "meaning": "suy đoán" }],
-          "adjective": [{ "form": "wild", "meaning": "hoang đường" }]
+          "noun": [
+            {
+              "form": "speculation",
+              "meaning": "sự suy đoán"
+            }
+          ],
+          "verb": [
+            {
+              "form": "speculate",
+              "meaning": "suy đoán"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "wild",
+              "meaning": "hoang đường"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -695,7 +1016,7 @@
       }
     },
     {
-      "id": 400,
+      "id": "1761813174059-17-25-05944be1",
       "targetLexeme": "novel theory",
       "sourceContext": "...Nicholson also proposed a novel theory about the structure of atoms.",
       "phase1Inference": {
@@ -713,10 +1034,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "novelty", "meaning": "sự mới lạ" },
-            { "form": "theory", "meaning": "lý thuyết" }
+            {
+              "form": "novelty",
+              "meaning": "sự mới lạ"
+            },
+            {
+              "form": "theory",
+              "meaning": "lý thuyết"
+            }
           ],
-          "adjective": [{ "form": "novel", "meaning": "mới lạ" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "novel",
+              "meaning": "mới lạ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -725,7 +1059,7 @@
       }
     },
     {
-      "id": 401,
+      "id": "1761813174059-17-26-3eb6cfb4",
       "targetLexeme": "jumped off from (this idea)",
       "sourceContext": "...Niels Bohr... jumped off from this interesting idea to conceive his now-famous model...",
       "phase1Inference": {
@@ -742,7 +1076,15 @@
           "launch (from)"
         ],
         "wordForms": {
-          "verb": [{ "form": "jump off", "meaning": "bắt đầu từ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "jump off",
+              "meaning": "bắt đầu từ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -751,7 +1093,7 @@
       }
     },
     {
-      "id": 402,
+      "id": "1761813174059-17-27-07efcda9",
       "targetLexeme": "conceive (his) model",
       "sourceContext": "...to conceive his now-famous model of the atom.",
       "phase1Inference": {
@@ -769,10 +1111,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "concept", "meaning": "khái niệm" },
-            { "form": "conception", "meaning": "ý niệm" }
+            {
+              "form": "concept",
+              "meaning": "khái niệm"
+            },
+            {
+              "form": "conception",
+              "meaning": "ý niệm"
+            }
           ],
-          "verb": [{ "form": "conceive", "meaning": "hình thành ý tưởng" }]
+          "verb": [
+            {
+              "form": "conceive",
+              "meaning": "hình thành ý tưởng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -781,7 +1136,7 @@
       }
     },
     {
-      "id": 403,
+      "id": "1761813174059-17-28-56535162",
       "targetLexeme": "make of (this story)",
       "sourceContext": "What are we to make of this story?",
       "phase1Inference": {
@@ -798,7 +1153,15 @@
           "interpret (synonym)"
         ],
         "wordForms": {
-          "verb": [{ "form": "make of", "meaning": "hiểu, nghĩ gì về" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "make of",
+              "meaning": "hiểu, nghĩ gì về"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -807,7 +1170,7 @@
       }
     },
     {
-      "id": 404,
+      "id": "1761813174059-17-29-01009bb7",
       "targetLexeme": "collective and cumulative enterprise",
       "sourceContext": "...science is a collective and cumulative enterprise.",
       "phase1Inference": {
@@ -825,12 +1188,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "enterprise", "meaning": "công cuộc, doanh nghiệp" }
+            {
+              "form": "enterprise",
+              "meaning": "công cuộc, doanh nghiệp"
+            }
           ],
+          "verb": [],
           "adjective": [
-            { "form": "collective", "meaning": "tập thể" },
-            { "form": "cumulative", "meaning": "tích lũy" }
-          ]
+            {
+              "form": "collective",
+              "meaning": "tập thể"
+            },
+            {
+              "form": "cumulative",
+              "meaning": "tích lũy"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -839,7 +1213,7 @@
       }
     },
     {
-      "id": 405,
+      "id": "1761813174059-17-30-26e23a38",
       "targetLexeme": "insight to be gleaned",
       "sourceContext": "...there may be a deeper insight to be gleaned.",
       "phase1Inference": {
@@ -856,8 +1230,20 @@
           "a deeper insight"
         ],
         "wordForms": {
-          "noun": [{ "form": "insight", "meaning": "cái nhìn sâu sắc" }],
-          "verb": [{ "form": "glean", "meaning": "lượm lặt, mót" }]
+          "noun": [
+            {
+              "form": "insight",
+              "meaning": "cái nhìn sâu sắc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "glean",
+              "meaning": "lượm lặt, mót"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -866,7 +1252,7 @@
       }
     },
     {
-      "id": 406,
+      "id": "1761813174059-17-31-44bc441a",
       "targetLexeme": "random genetic mutations",
       "sourceContext": "...result from random genetic mutations.",
       "phase1Inference": {
@@ -883,13 +1269,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "mutation", "meaning": "đột biến" },
-            { "form": "genetics", "meaning": "di truyền học" }
+            {
+              "form": "mutation",
+              "meaning": "đột biến"
+            },
+            {
+              "form": "genetics",
+              "meaning": "di truyền học"
+            }
           ],
+          "verb": [],
           "adjective": [
-            { "form": "random", "meaning": "ngẫu nhiên" },
-            { "form": "genetic", "meaning": "thuộc di truyền" }
-          ]
+            {
+              "form": "random",
+              "meaning": "ngẫu nhiên"
+            },
+            {
+              "form": "genetic",
+              "meaning": "thuộc di truyền"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -898,7 +1298,7 @@
       }
     },
     {
-      "id": 407,
+      "id": "1761813174059-17-32-03648d9d",
       "targetLexeme": "arbitrary or accidental",
       "sourceContext": "...arbitrary or accidental mutations of ideas...",
       "phase1Inference": {
@@ -909,13 +1309,29 @@
         "sentiment": "neutral",
         "definitionEN": "Based on chance or personal whim rather than any reason or system; happening by chance",
         "translationVI": "Ngẫu hứng/tùy tiện hoặc tình cờ",
-        "relatedCollocates": ["random (synonym)", "by chance"],
+        "relatedCollocates": [
+          "random (synonym)",
+          "by chance"
+        ],
         "wordForms": {
-          "noun": [{ "form": "accident", "meaning": "tai nạn, sự tình cờ" }],
+          "noun": [
+            {
+              "form": "accident",
+              "meaning": "tai nạn, sự tình cờ"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "arbitrary", "meaning": "tùy tiện, ngẫu hứng" },
-            { "form": "accidental", "meaning": "tình cờ" }
-          ]
+            {
+              "form": "arbitrary",
+              "meaning": "tùy tiện, ngẫu hứng"
+            },
+            {
+              "form": "accidental",
+              "meaning": "tình cờ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -924,7 +1340,7 @@
       }
     },
     {
-      "id": 408,
+      "id": "1761813174059-17-33-7569a893",
       "targetLexeme": "pave the way for",
       "sourceContext": "...may help pave the way for advances in science.",
       "phase1Inference": {
@@ -940,7 +1356,15 @@
           "make (sth) possible"
         ],
         "wordForms": {
-          "verb": [{ "form": "pave", "meaning": "lát đường" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "pave",
+              "meaning": "lát đường"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -949,7 +1373,7 @@
       }
     },
     {
-      "id": 409,
+      "id": "1761813174059-17-34-103a2a87",
       "targetLexeme": "prove beneficial",
       "sourceContext": "If mutations prove beneficial...",
       "phase1Inference": {
@@ -966,9 +1390,25 @@
           "beneficial (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "benefit", "meaning": "lợi ích" }],
-          "verb": [{ "form": "prove", "meaning": "chứng tỏ" }],
-          "adjective": [{ "form": "beneficial", "meaning": "có lợi" }]
+          "noun": [
+            {
+              "form": "benefit",
+              "meaning": "lợi ích"
+            }
+          ],
+          "verb": [
+            {
+              "form": "prove",
+              "meaning": "chứng tỏ"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "beneficial",
+              "meaning": "có lợi"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -977,7 +1417,7 @@
       }
     },
     {
-      "id": 410,
+      "id": "1761813174059-17-35-4a5f6a28",
       "targetLexeme": "continue to thrive",
       "sourceContext": "...the animal or the scientific theory will continue to thrive...",
       "phase1Inference": {
@@ -988,12 +1428,24 @@
         "sentiment": "positive",
         "definitionEN": "To keep growing, developing, or being successful and strong",
         "translationVI": "Tiếp tục phát triển mạnh mẽ",
-        "relatedCollocates": ["flourish (synonym)", "thrive on (competition)"],
+        "relatedCollocates": [
+          "flourish (synonym)",
+          "thrive on (competition)"
+        ],
         "wordForms": {
+          "noun": [],
           "verb": [
-            { "form": "continue", "meaning": "tiếp tục" },
-            { "form": "thrive", "meaning": "phát triển mạnh" }
-          ]
+            {
+              "form": "continue",
+              "meaning": "tiếp tục"
+            },
+            {
+              "form": "thrive",
+              "meaning": "phát triển mạnh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1002,7 +1454,7 @@
       }
     },
     {
-      "id": 411,
+      "id": "1761813174059-17-36-02d2fe0c",
       "targetLexeme": "behavioral innovation",
       "sourceContext": "Support for this evolutionary view of behavioral innovation comes from...",
       "phase1Inference": {
@@ -1013,13 +1465,29 @@
         "sentiment": "neutral",
         "definitionEN": "A new method, idea, or way of acting that is different from previous behaviors",
         "translationVI": "Sự đổi mới về hành vi",
-        "relatedCollocates": ["an evolutionary view", "innovative behavior"],
+        "relatedCollocates": [
+          "an evolutionary view",
+          "innovative behavior"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "behavior", "meaning": "hành vi" },
-            { "form": "innovation", "meaning": "sự đổi mới" }
+            {
+              "form": "behavior",
+              "meaning": "hành vi"
+            },
+            {
+              "form": "innovation",
+              "meaning": "sự đổi mới"
+            }
           ],
-          "adjective": [{ "form": "behavioral", "meaning": "thuộc hành vi" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "behavioral",
+              "meaning": "thuộc hành vi"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1028,7 +1496,7 @@
       }
     },
     {
-      "id": 412,
+      "id": "1761813174059-17-37-58cead89",
       "targetLexeme": "influential innovation",
       "sourceContext": "...one example of an influential innovation in US horseracing.",
       "phase1Inference": {
@@ -1039,13 +1507,29 @@
         "sentiment": "positive",
         "definitionEN": "A new development that has a significant effect on what other people do or think",
         "translationVI": "Sự đổi mới có tầm ảnh hưởng",
-        "relatedCollocates": ["a significant innovation", "a major influence"],
+        "relatedCollocates": [
+          "a significant innovation",
+          "a major influence"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "innovation", "meaning": "sự đổi mới" },
-            { "form": "influence", "meaning": "sự ảnh hưởng" }
+            {
+              "form": "innovation",
+              "meaning": "sự đổi mới"
+            },
+            {
+              "form": "influence",
+              "meaning": "sự ảnh hưởng"
+            }
           ],
-          "adjective": [{ "form": "influential", "meaning": "có ảnh hưởng" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "influential",
+              "meaning": "có ảnh hưởng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1054,7 +1538,7 @@
       }
     },
     {
-      "id": 413,
+      "id": "1761813174059-17-38-0cf34b08",
       "targetLexeme": "so-called",
       "sourceContext": "The so-called 'acey-deucy' stirrup placement...",
       "phase1Inference": {
@@ -1065,9 +1549,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to show that something or someone is commonly named in a particular way, sometimes implying doubt or skepticism about the name",
         "translationVI": "Cái gọi là, được mệnh danh là",
-        "relatedCollocates": ["the so-called (expert)", "commonly known as"],
+        "relatedCollocates": [
+          "the so-called (expert)",
+          "commonly known as"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "so-called", "meaning": "cái gọi là" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "so-called",
+              "meaning": "cái gọi là"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1076,7 +1571,7 @@
       }
     },
     {
-      "id": 414,
+      "id": "1761813174059-17-39-3fbd9dab",
       "targetLexeme": "stirrup placement",
       "sourceContext": "...'acey-deucy' stirrup placement, in which the rider's foot...",
       "phase1Inference": {
@@ -1087,12 +1582,24 @@
         "sentiment": "neutral",
         "definitionEN": "The specific positioning or arrangement of the loops attached to a saddle for the rider's feet",
         "translationVI": "Cách đặt/vị trí của bàn đạp (yên ngựa)",
-        "relatedCollocates": ["horseracing", "rider's foot"],
+        "relatedCollocates": [
+          "horseracing",
+          "rider's foot"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "stirrup", "meaning": "bàn đạp yên ngựa" },
-            { "form": "placement", "meaning": "sự sắp đặt" }
-          ]
+            {
+              "form": "stirrup",
+              "meaning": "bàn đạp yên ngựa"
+            },
+            {
+              "form": "placement",
+              "meaning": "sự sắp đặt"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1101,7 +1608,7 @@
       }
     },
     {
-      "id": 415,
+      "id": "1761813174059-17-40-70078b38",
       "targetLexeme": "confer (advantages)",
       "sourceContext": "...is believed to confer important speed advantages...",
       "phase1Inference": {
@@ -1119,8 +1626,20 @@
           "grant (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "conference", "meaning": "hội nghị" }],
-          "verb": [{ "form": "confer", "meaning": "ban cho, mang lại" }]
+          "noun": [
+            {
+              "form": "conference",
+              "meaning": "hội nghị"
+            }
+          ],
+          "verb": [
+            {
+              "form": "confer",
+              "meaning": "ban cho, mang lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1129,7 +1648,7 @@
       }
     },
     {
-      "id": 416,
+      "id": "1761813174059-17-41-521f558f",
       "targetLexeme": "had he foreseen",
       "sourceContext": "Had he foreseen the speed advantage that would be conferred...?",
       "phase1Inference": {
@@ -1146,7 +1665,15 @@
           "predict (synonym)"
         ],
         "wordForms": {
-          "verb": [{ "form": "foresee", "meaning": "thấy trước" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "foresee",
+              "meaning": "thấy trước"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1155,7 +1682,7 @@
       }
     },
     {
-      "id": 417,
+      "id": "1761813174059-17-42-7f105fce",
       "targetLexeme": "a shrewd plan",
       "sourceContext": "...in a shrewd plan to outrun his rivals?",
       "phase1Inference": {
@@ -1172,8 +1699,20 @@
           "astute (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "plan", "meaning": "kế hoạch" }],
-          "adjective": [{ "form": "shrewd", "meaning": "sắc sảo" }]
+          "noun": [
+            {
+              "form": "plan",
+              "meaning": "kế hoạch"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "shrewd",
+              "meaning": "sắc sảo"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1182,7 +1721,7 @@
       }
     },
     {
-      "id": 418,
+      "id": "1761813174059-17-43-165ad503",
       "targetLexeme": "outrun his rivals",
       "sourceContext": "...a shrewd plan to outrun his rivals?",
       "phase1Inference": {
@@ -1199,8 +1738,20 @@
           "competitors (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "rival", "meaning": "đối thủ" }],
-          "verb": [{ "form": "outrun", "meaning": "chạy nhanh hơn" }]
+          "noun": [
+            {
+              "form": "rival",
+              "meaning": "đối thủ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "outrun",
+              "meaning": "chạy nhanh hơn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1209,7 +1760,7 @@
       }
     },
     {
-      "id": 419,
+      "id": "1761813174059-17-44-61dc7c97",
       "targetLexeme": "suffered a leg injury",
       "sourceContext": "He had suffered a leg injury, which left him...",
       "phase1Inference": {
@@ -1226,8 +1777,20 @@
           "recover from (an injury)"
         ],
         "wordForms": {
-          "noun": [{ "form": "injury", "meaning": "chấn thương" }],
-          "verb": [{ "form": "suffer", "meaning": "bị, chịu đựng" }]
+          "noun": [
+            {
+              "form": "injury",
+              "meaning": "chấn thương"
+            }
+          ],
+          "verb": [
+            {
+              "form": "suffer",
+              "meaning": "bị, chịu đựng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1236,7 +1799,7 @@
       }
     },
     {
-      "id": 420,
+      "id": "1761813174059-17-45-7a5354a0",
       "targetLexeme": "coincide with",
       "sourceContext": "This just happened to coincide with enhanced left-hand turning performance.",
       "phase1Inference": {
@@ -1247,10 +1810,25 @@
         "sentiment": "neutral",
         "definitionEN": "To happen at the same time as something else, often by chance",
         "translationVI": "Trùng hợp với, xảy ra đồng thời với",
-        "relatedCollocates": ["a happy coincidence", "occur at the same time"],
+        "relatedCollocates": [
+          "a happy coincidence",
+          "occur at the same time"
+        ],
         "wordForms": {
-          "noun": [{ "form": "coincidence", "meaning": "sự trùng hợp" }],
-          "verb": [{ "form": "coincide", "meaning": "trùng hợp" }]
+          "noun": [
+            {
+              "form": "coincidence",
+              "meaning": "sự trùng hợp"
+            }
+          ],
+          "verb": [
+            {
+              "form": "coincide",
+              "meaning": "trùng hợp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1259,7 +1837,7 @@
       }
     },
     {
-      "id": 421,
+      "id": "1761813174059-17-46-047cd9d4",
       "targetLexeme": "rapid and widespread adoption",
       "sourceContext": "This led to the rapid and widespread adoption of riding...",
       "phase1Inference": {
@@ -1276,12 +1854,29 @@
           "common (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "adoption", "meaning": "sự áp dụng" }],
-          "verb": [{ "form": "adopt", "meaning": "áp dụng" }],
+          "noun": [
+            {
+              "form": "adoption",
+              "meaning": "sự áp dụng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "adopt",
+              "meaning": "áp dụng"
+            }
+          ],
           "adjective": [
-            { "form": "rapid", "meaning": "nhanh" },
-            { "form": "widespread", "meaning": "lan rộng" }
-          ]
+            {
+              "form": "rapid",
+              "meaning": "nhanh"
+            },
+            {
+              "form": "widespread",
+              "meaning": "lan rộng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1290,7 +1885,7 @@
       }
     },
     {
-      "id": 422,
+      "id": "1761813174059-17-47-1d6f515f",
       "targetLexeme": "thoroughbred racing",
       "sourceContext": "...which continues in today's thoroughbred racing.",
       "phase1Inference": {
@@ -1301,12 +1896,24 @@
         "sentiment": "neutral",
         "definitionEN": "The sport of racing horses that have a pure breed, especially those bred for racing",
         "translationVI": "Môn đua ngựa thuần chủng",
-        "relatedCollocates": ["horseracing (synonym)", "a racehorse"],
+        "relatedCollocates": [
+          "horseracing (synonym)",
+          "a racehorse"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "thoroughbred", "meaning": "ngựa thuần chủng" },
-            { "form": "racing", "meaning": "môn đua" }
-          ]
+            {
+              "form": "thoroughbred",
+              "meaning": "ngựa thuần chủng"
+            },
+            {
+              "form": "racing",
+              "meaning": "môn đua"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1315,7 +1922,7 @@
       }
     },
     {
-      "id": 423,
+      "id": "1761813174059-17-48-27f9f364",
       "targetLexeme": "arise from (error)",
       "sourceContext": "...fresh advances can arise from error, misadventure, and also pure serendipity...",
       "phase1Inference": {
@@ -1332,8 +1939,20 @@
           "arise from (a misunderstanding)"
         ],
         "wordForms": {
-          "noun": [{ "form": "error", "meaning": "lỗi" }],
-          "verb": [{ "form": "arise", "meaning": "nảy sinh" }]
+          "noun": [
+            {
+              "form": "error",
+              "meaning": "lỗi"
+            }
+          ],
+          "verb": [
+            {
+              "form": "arise",
+              "meaning": "nảy sinh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1342,7 +1961,7 @@
       }
     },
     {
-      "id": 424,
+      "id": "1761813174059-17-49-5338819f",
       "targetLexeme": "misadventure (n)",
       "sourceContext": "...arise from error, misadventure, and also pure serendipity...",
       "phase1Inference": {
@@ -1360,9 +1979,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "misadventure", "meaning": "rủi ro" },
-            { "form": "adventure", "meaning": "cuộc phiêu lưu" }
-          ]
+            {
+              "form": "misadventure",
+              "meaning": "rủi ro"
+            },
+            {
+              "form": "adventure",
+              "meaning": "cuộc phiêu lưu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1371,7 +1999,7 @@
       }
     },
     {
-      "id": 425,
+      "id": "1761813174059-17-50-3789e2d7",
       "targetLexeme": "pure serendipity",
       "sourceContext": "...and also pure serendipity – a happy accident.",
       "phase1Inference": {
@@ -1388,11 +2016,24 @@
           "a stroke of luck"
         ],
         "wordForms": {
-          "noun": [{ "form": "serendipity", "meaning": "sự may mắn tình cờ" }],
+          "noun": [
+            {
+              "form": "serendipity",
+              "meaning": "sự may mắn tình cờ"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "pure", "meaning": "thuần túy" },
-            { "form": "serendipitous", "meaning": "tình cờ may mắn" }
-          ]
+            {
+              "form": "pure",
+              "meaning": "thuần túy"
+            },
+            {
+              "form": "serendipitous",
+              "meaning": "tình cờ may mắn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1401,7 +2042,7 @@
       }
     },
     {
-      "id": 426,
+      "id": "1761813174059-17-51-7a9991e2",
       "targetLexeme": "affix temporary bookmarks",
       "sourceContext": "...trying to figure out how to affix temporary bookmarks in his hymn book...",
       "phase1Inference": {
@@ -1418,9 +2059,25 @@
           "a permanent (antonym) solution"
         ],
         "wordForms": {
-          "noun": [{ "form": "bookmark", "meaning": "dấu trang" }],
-          "verb": [{ "form": "affix", "meaning": "dán, đính" }],
-          "adjective": [{ "form": "temporary", "meaning": "tạm thời" }]
+          "noun": [
+            {
+              "form": "bookmark",
+              "meaning": "dấu trang"
+            }
+          ],
+          "verb": [
+            {
+              "form": "affix",
+              "meaning": "dán, đính"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "temporary",
+              "meaning": "tạm thời"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1429,7 +2086,7 @@
       }
     },
     {
-      "id": 427,
+      "id": "1761813174059-17-52-2b127a57",
       "targetLexeme": "phenomenally successful",
       "sourceContext": "...the invention of the brilliantly simple yet phenomenally successful Post-It note.",
       "phase1Inference": {
@@ -1446,13 +2103,28 @@
           "a phenomenon (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "phenomenon", "meaning": "hiện tượng" }],
+          "noun": [
+            {
+              "form": "phenomenon",
+              "meaning": "hiện tượng"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "successful", "meaning": "thành công" },
-            { "form": "phenomenal", "meaning": "phi thường" }
+            {
+              "form": "successful",
+              "meaning": "thành công"
+            },
+            {
+              "form": "phenomenal",
+              "meaning": "phi thường"
+            }
           ],
           "adverb": [
-            { "form": "phenomenally", "meaning": "một cách phi thường" }
+            {
+              "form": "phenomenally",
+              "meaning": "một cách phi thường"
+            }
           ]
         }
       },
@@ -1462,7 +2134,7 @@
       }
     },
     {
-      "id": 428,
+      "id": "1761813174059-17-53-21dcc448",
       "targetLexeme": "give lie to the claim",
       "sourceContext": "Such examples give lie to the claim that ingenious, designing minds...",
       "phase1Inference": {
@@ -1478,7 +2150,15 @@
           "contradict the claim"
         ],
         "wordForms": {
-          "verb": [{ "form": "give lie to", "meaning": "chứng minh là sai" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "give lie to",
+              "meaning": "chứng minh là sai"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1487,7 +2167,7 @@
       }
     },
     {
-      "id": 429,
+      "id": "1761813174059-17-54-41e00ff9",
       "targetLexeme": "ingenious, designing minds",
       "sourceContext": "...that ingenious, designing minds are responsible for human creativity...",
       "phase1Inference": {
@@ -1504,11 +2184,24 @@
           "inventive (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "mind", "meaning": "bộ óc" }],
+          "noun": [
+            {
+              "form": "mind",
+              "meaning": "bộ óc"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "ingenious", "meaning": "thiên tài, khéo léo" },
-            { "form": "designing", "meaning": "có chủ đích, mưu mô" }
-          ]
+            {
+              "form": "ingenious",
+              "meaning": "thiên tài, khéo léo"
+            },
+            {
+              "form": "designing",
+              "meaning": "có chủ đích, mưu mô"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1517,7 +2210,7 @@
       }
     },
     {
-      "id": 430,
+      "id": "1761813174059-17-55-53374df7",
       "targetLexeme": "banal and mechanical forces",
       "sourceContext": "Far more banal and mechanical forces may be at work...",
       "phase1Inference": {
@@ -1534,11 +2227,24 @@
           "automatic (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "force", "meaning": "lực lượng" }],
+          "noun": [
+            {
+              "form": "force",
+              "meaning": "lực lượng"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "banal", "meaning": "tầm thường" },
-            { "form": "mechanical", "meaning": "thuộc máy móc" }
-          ]
+            {
+              "form": "banal",
+              "meaning": "tầm thường"
+            },
+            {
+              "form": "mechanical",
+              "meaning": "thuộc máy móc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1547,7 +2253,7 @@
       }
     },
     {
-      "id": 431,
+      "id": "1761813174059-17-56-3ffa9ca0",
       "targetLexeme": "fundamentally connected to",
       "sourceContext": "...forces that are fundamentally connected to the laws of science.",
       "phase1Inference": {
@@ -1564,11 +2270,24 @@
           "linked to"
         ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "fundamental", "meaning": "cơ bản" },
-            { "form": "connected", "meaning": "được kết nối" }
+            {
+              "form": "fundamental",
+              "meaning": "cơ bản"
+            },
+            {
+              "form": "connected",
+              "meaning": "được kết nối"
+            }
           ],
-          "adverb": [{ "form": "fundamentally", "meaning": "về cơ bản" }]
+          "adverb": [
+            {
+              "form": "fundamentally",
+              "meaning": "về cơ bản"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1577,7 +2296,7 @@
       }
     },
     {
-      "id": 432,
+      "id": "1761813174059-17-57-3ef4fe4b",
       "targetLexeme": "remain vague",
       "sourceContext": "The notions of insight... remain vague and of doubtful scientific utility...",
       "phase1Inference": {
@@ -1594,9 +2313,25 @@
           "not well-defined"
         ],
         "wordForms": {
-          "noun": [{ "form": "vagueness", "meaning": "sự mơ hồ" }],
-          "verb": [{ "form": "remain", "meaning": "vẫn" }],
-          "adjective": [{ "form": "vague", "meaning": "mơ hồ" }]
+          "noun": [
+            {
+              "form": "vagueness",
+              "meaning": "sự mơ hồ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "remain",
+              "meaning": "vẫn"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "vague",
+              "meaning": "mơ hồ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1605,7 +2340,7 @@
       }
     },
     {
-      "id": 433,
+      "id": "1761813174059-17-58-3e4ff902",
       "targetLexeme": "doubtful scientific utility",
       "sourceContext": "...and of doubtful scientific utility...",
       "phase1Inference": {
@@ -1623,10 +2358,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "utility", "meaning": "tính hữu dụng" },
-            { "form": "doubt", "meaning": "sự nghi ngờ" }
+            {
+              "form": "utility",
+              "meaning": "tính hữu dụng"
+            },
+            {
+              "form": "doubt",
+              "meaning": "sự nghi ngờ"
+            }
           ],
-          "adjective": [{ "form": "doubtful", "meaning": "đáng nghi ngờ" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "doubtful",
+              "meaning": "đáng nghi ngờ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1635,7 +2383,7 @@
       }
     },
     {
-      "id": 434,
+      "id": "1761813174059-17-59-6bceeec3",
       "targetLexeme": "diverse and enduring contributions",
       "sourceContext": "...diverse and enduring contributions of individuals such as Plato...",
       "phase1Inference": {
@@ -1652,11 +2400,24 @@
           "a lasting legacy"
         ],
         "wordForms": {
-          "noun": [{ "form": "contribution", "meaning": "sự đóng góp" }],
+          "noun": [
+            {
+              "form": "contribution",
+              "meaning": "sự đóng góp"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "diverse", "meaning": "đa dạng" },
-            { "form": "enduring", "meaning": "lâu bền" }
-          ]
+            {
+              "form": "diverse",
+              "meaning": "đa dạng"
+            },
+            {
+              "form": "enduring",
+              "meaning": "lâu bền"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1665,7 +2426,7 @@
       }
     },
     {
-      "id": 435,
+      "id": "1761813174059-17-60-0accb46c",
       "targetLexeme": "label rather than explain",
       "sourceContext": "...these notions merely label rather than explain the evolution of human innovations.",
       "phase1Inference": {
@@ -1676,13 +2437,29 @@
         "sentiment": "negative",
         "definitionEN": "To simply give a name or category to something instead of providing a real understanding or reason for it",
         "translationVI": "Dán nhãn/gọi tên thay vì giải thích",
-        "relatedCollocates": ["merely (a label)", "instead of (explaining)"],
+        "relatedCollocates": [
+          "merely (a label)",
+          "instead of (explaining)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "label", "meaning": "cái nhãn" }],
+          "noun": [
+            {
+              "form": "label",
+              "meaning": "cái nhãn"
+            }
+          ],
           "verb": [
-            { "form": "label", "meaning": "dán nhãn" },
-            { "form": "explain", "meaning": "giải thích" }
-          ]
+            {
+              "form": "label",
+              "meaning": "dán nhãn"
+            },
+            {
+              "form": "explain",
+              "meaning": "giải thích"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1691,7 +2468,7 @@
       }
     },
     {
-      "id": 436,
+      "id": "1761813174059-17-61-3bbeeb4a",
       "targetLexeme": "a promising candidate",
       "sourceContext": "We need another approach, and there is a promising candidate.",
       "phase1Inference": {
@@ -1709,10 +2486,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "candidate", "meaning": "ứng cử viên" },
-            { "form": "promise", "meaning": "lời hứa, sự hứa hẹn" }
+            {
+              "form": "candidate",
+              "meaning": "ứng cử viên"
+            },
+            {
+              "form": "promise",
+              "meaning": "lời hứa, sự hứa hẹn"
+            }
           ],
-          "adjective": [{ "form": "promising", "meaning": "đầy hứa hẹn" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "promising",
+              "meaning": "đầy hứa hẹn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1721,7 +2511,7 @@
       }
     },
     {
-      "id": 437,
+      "id": "1761813174059-17-62-0c2095ae",
       "targetLexeme": "advanced by (sb)",
       "sourceContext": "The Law of Effect was advanced by psychologist Edward Thorndike...",
       "phase1Inference": {
@@ -1738,8 +2528,20 @@
           "advance (a theory)"
         ],
         "wordForms": {
-          "noun": [{ "form": "advance", "meaning": "sự tiến bộ" }],
-          "verb": [{ "form": "advance", "meaning": "đề xuất, thúc đẩy" }]
+          "noun": [
+            {
+              "form": "advance",
+              "meaning": "sự tiến bộ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "advance",
+              "meaning": "đề xuất, thúc đẩy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1748,7 +2550,7 @@
       }
     },
     {
-      "id": 438,
+      "id": "1761813174059-17-63-5eb1632e",
       "targetLexeme": "groundbreaking work",
       "sourceContext": "...after Charles Darwin published his groundbreaking work on biological evolution...",
       "phase1Inference": {
@@ -1765,8 +2567,20 @@
           "innovative (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "work", "meaning": "công trình, tác phẩm" }],
-          "adjective": [{ "form": "groundbreaking", "meaning": "đột phá" }]
+          "noun": [
+            {
+              "form": "work",
+              "meaning": "công trình, tác phẩm"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "groundbreaking",
+              "meaning": "đột phá"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1775,7 +2589,7 @@
       }
     },
     {
-      "id": 439,
+      "id": "1761813174059-17-64-487ce1d3",
       "targetLexeme": "refrain from (doing sth)",
       "sourceContext": "...and to refrain from performing unsuccessful ones.",
       "phase1Inference": {
@@ -1786,10 +2600,25 @@
         "sentiment": "neutral",
         "definitionEN": "To stop yourself from doing something; to avoid doing something",
         "translationVI": "Kiềm chế/tránh làm (việc gì đó)",
-        "relatedCollocates": ["avoid (doing sth)", "stop (doing sth)"],
+        "relatedCollocates": [
+          "avoid (doing sth)",
+          "stop (doing sth)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "refrain", "meaning": "điệp khúc" }],
-          "verb": [{ "form": "refrain", "meaning": "kiềm chế, tránh" }]
+          "noun": [
+            {
+              "form": "refrain",
+              "meaning": "điệp khúc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "refrain",
+              "meaning": "kiềm chế, tránh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1798,7 +2627,7 @@
       }
     },
     {
-      "id": 440,
+      "id": "1761813174059-17-65-19b3e880",
       "targetLexeme": "entirely mechanical process",
       "sourceContext": "...the Law of Effect involves an entirely mechanical process of variation...",
       "phase1Inference": {
@@ -1815,11 +2644,24 @@
           "without any end objective"
         ],
         "wordForms": {
-          "noun": [{ "form": "process", "meaning": "quá trình" }],
+          "noun": [
+            {
+              "form": "process",
+              "meaning": "quá trình"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "entirely", "meaning": "hoàn toàn" },
-            { "form": "mechanical", "meaning": "máy móc" }
-          ]
+            {
+              "form": "entirely",
+              "meaning": "hoàn toàn"
+            },
+            {
+              "form": "mechanical",
+              "meaning": "máy móc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1828,7 +2670,7 @@
       }
     },
     {
-      "id": 441,
+      "id": "1761813174059-17-66-143a9fe5",
       "targetLexeme": "variation and selection",
       "sourceContext": "...process of variation and selection, without any end objective in sight.",
       "phase1Inference": {
@@ -1839,16 +2681,33 @@
         "sentiment": "neutral",
         "definitionEN": "The core components of evolution: the natural differences that occur (variation) and the process by which some survive and others don't (selection)",
         "translationVI": "(Sự) biến dị và chọn lọc",
-        "relatedCollocates": ["Natural Selection", "trial and error (related)"],
+        "relatedCollocates": [
+          "Natural Selection",
+          "trial and error (related)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "variation", "meaning": "biến dị, sự đa dạng" },
-            { "form": "selection", "meaning": "sự chọn lọc" }
+            {
+              "form": "variation",
+              "meaning": "biến dị, sự đa dạng"
+            },
+            {
+              "form": "selection",
+              "meaning": "sự chọn lọc"
+            }
           ],
           "verb": [
-            { "form": "vary", "meaning": "thay đổi" },
-            { "form": "select", "meaning": "chọn" }
-          ]
+            {
+              "form": "vary",
+              "meaning": "thay đổi"
+            },
+            {
+              "form": "select",
+              "meaning": "chọn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1857,7 +2716,7 @@
       }
     },
     {
-      "id": 442,
+      "id": "1761813174059-17-67-4d73c0c0",
       "targetLexeme": "end objective in sight",
       "sourceContext": "...without any end objective in sight.",
       "phase1Inference": {
@@ -1874,8 +2733,20 @@
           "no (objective) in sight"
         ],
         "wordForms": {
-          "noun": [{ "form": "objective", "meaning": "mục tiêu" }],
-          "adjective": [{ "form": "end", "meaning": "cuối cùng" }]
+          "noun": [
+            {
+              "form": "objective",
+              "meaning": "mục tiêu"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "end",
+              "meaning": "cuối cùng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1884,7 +2755,7 @@
       }
     },
     {
-      "id": 443,
+      "id": "1761813174059-17-68-1db9a475",
       "targetLexeme": "demands much further study",
       "sourceContext": "Of course, the origin of human innovation demands much further study.",
       "phase1Inference": {
@@ -1901,10 +2772,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "demand", "meaning": "nhu cầu" },
-            { "form": "study", "meaning": "nghiên cứu" }
+            {
+              "form": "demand",
+              "meaning": "nhu cầu"
+            },
+            {
+              "form": "study",
+              "meaning": "nghiên cứu"
+            }
           ],
-          "verb": [{ "form": "demand", "meaning": "đòi hỏi" }]
+          "verb": [
+            {
+              "form": "demand",
+              "meaning": "đòi hỏi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1913,7 +2797,7 @@
       }
     },
     {
-      "id": 444,
+      "id": "1761813174059-17-69-628722bb",
       "targetLexeme": "provenance of the raw material",
       "sourceContext": "...the provenance of the raw material on which the Law of Effect operates...",
       "phase1Inference": {
@@ -1930,9 +2814,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "provenance", "meaning": "nguồn gốc, xuất xứ" },
-            { "form": "raw material", "meaning": "vật liệu thô" }
-          ]
+            {
+              "form": "provenance",
+              "meaning": "nguồn gốc, xuất xứ"
+            },
+            {
+              "form": "raw material",
+              "meaning": "vật liệu thô"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1941,7 +2834,7 @@
       }
     },
     {
-      "id": 445,
+      "id": "1761813174059-17-70-27e6458b",
       "targetLexeme": "constrained by prior successes",
       "sourceContext": "...may not be entirely random, but constrained by prior successes and failures...",
       "phase1Inference": {
@@ -1958,12 +2851,29 @@
           "prior experience (related)"
         ],
         "wordForms": {
-          "noun": [{ "form": "constraint", "meaning": "sự ràng buộc" }],
-          "verb": [{ "form": "constrain", "meaning": "ràng buộc" }],
+          "noun": [
+            {
+              "form": "constraint",
+              "meaning": "sự ràng buộc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "constrain",
+              "meaning": "ràng buộc"
+            }
+          ],
           "adjective": [
-            { "form": "constrained", "meaning": "bị ràng buộc" },
-            { "form": "prior", "meaning": "trước đó" }
-          ]
+            {
+              "form": "constrained",
+              "meaning": "bị ràng buộc"
+            },
+            {
+              "form": "prior",
+              "meaning": "trước đó"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1972,7 +2882,7 @@
       }
     },
     {
-      "id": 446,
+      "id": "1761813174059-17-71-5025fc89",
       "targetLexeme": "abandoning the naive notions",
       "sourceContext": "The time seems right for abandoning the naive notions of intelligent design...",
       "phase1Inference": {
@@ -1989,9 +2899,25 @@
           "a simplistic (notion)"
         ],
         "wordForms": {
-          "noun": [{ "form": "notion", "meaning": "khái niệm" }],
-          "verb": [{ "form": "abandon", "meaning": "từ bỏ" }],
-          "adjective": [{ "form": "naive", "meaning": "ngây thơ" }]
+          "noun": [
+            {
+              "form": "notion",
+              "meaning": "khái niệm"
+            }
+          ],
+          "verb": [
+            {
+              "form": "abandon",
+              "meaning": "từ bỏ"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "naive",
+              "meaning": "ngây thơ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2000,7 +2926,7 @@
       }
     },
     {
-      "id": 447,
+      "id": "1761813174059-17-72-5ce5ae0e",
       "targetLexeme": "intelligent design",
       "sourceContext": "...naive notions of intelligent design and genius...",
       "phase1Inference": {
@@ -2016,8 +2942,20 @@
           "designing minds (related)"
         ],
         "wordForms": {
-          "noun": [{ "form": "design", "meaning": "thiết kế" }],
-          "adjective": [{ "form": "intelligent", "meaning": "thông minh" }]
+          "noun": [
+            {
+              "form": "design",
+              "meaning": "thiết kế"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "intelligent",
+              "meaning": "thông minh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2026,7 +2964,7 @@
       }
     },
     {
-      "id": 448,
+      "id": "1761813174059-17-73-1728095c",
       "targetLexeme": "true origins of creative behavior",
       "sourceContext": "...exploring the true origins of creative behavior.",
       "phase1Inference": {
@@ -2043,13 +2981,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "origin", "meaning": "nguồn gốc" },
-            { "form": "behavior", "meaning": "hành vi" }
+            {
+              "form": "origin",
+              "meaning": "nguồn gốc"
+            },
+            {
+              "form": "behavior",
+              "meaning": "hành vi"
+            }
           ],
+          "verb": [],
           "adjective": [
-            { "form": "true", "meaning": "thực sự" },
-            { "form": "creative", "meaning": "sáng tạo" }
-          ]
+            {
+              "form": "true",
+              "meaning": "thực sự"
+            },
+            {
+              "form": "creative",
+              "meaning": "sáng tạo"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2058,7 +3010,7 @@
       }
     },
     {
-      "id": 449,
+      "id": "1761813174059-17-74-0151b600",
       "targetLexeme": "outline a common assumption",
       "sourceContext": "Q27 (MCQ): The purpose of the first paragraph is to ... D outline a common assumption.",
       "phase1Inference": {
@@ -2080,7 +3032,7 @@
       }
     },
     {
-      "id": 450,
+      "id": "1761813174059-17-75-7f7efa40",
       "targetLexeme": "criticising an opinion",
       "sourceContext": "Q28 (MCQ): What are the writers doing in the second paragraph? A criticising an opinion",
       "phase1Inference": {
@@ -2103,7 +3055,7 @@
       }
     },
     {
-      "id": 451,
+      "id": "1761813174059-17-76-4137253a",
       "targetLexeme": "an exception to a general rule",
       "sourceContext": "Q29 (MCQ): ...what do the writers suggest about Darwin and Einstein? A They represent an exception to a general rule.",
       "phase1Inference": {
@@ -2126,7 +3078,7 @@
       }
     },
     {
-      "id": 452,
+      "id": "1761813174059-17-77-21a6fb4e",
       "targetLexeme": "laid the foundations for",
       "sourceContext": "Q30 (MCQ): John Nicholson is an example of a person whose idea ... C laid the foundations for someone else's breakthrough.",
       "phase1Inference": {
@@ -2150,7 +3102,7 @@
       }
     },
     {
-      "id": 453,
+      "id": "1761813174059-17-78-1c487d84",
       "targetLexeme": "key point of interest",
       "sourceContext": "Q31 (MCQ): What is the key point of interest about the 'acey-deucy' stirrup placement?",
       "phase1Inference": {
@@ -2175,7 +3127,7 @@
       }
     },
     {
-      "id": 454,
+      "id": "1761813174059-17-79-48d1feef",
       "targetLexeme": "acknowledging... as geniuses will help us understand",
       "sourceContext": "Q32 (Y/N/NG): Acknowledging people such as Plato or da Vinci as geniuses will help us understand the process...",
       "phase1Inference": {
@@ -2199,7 +3151,7 @@
       }
     },
     {
-      "id": 455,
+      "id": "1761813174059-17-80-4bbd23da",
       "targetLexeme": "seeking a scientific reason",
       "sourceContext": "Q33 (Y/N/NG): ...psychologists were seeking a scientific reason why creativity occurs.",
       "phase1Inference": {
@@ -2221,7 +3173,7 @@
       }
     },
     {
-      "id": 456,
+      "id": "1761813174059-17-81-4c93706a",
       "targetLexeme": "no planning is involved",
       "sourceContext": "Q34 (Y/N/NG): The Law of Effect states that no planning is involved in the behaviour of organisms.",
       "phase1Inference": {
@@ -2243,7 +3195,7 @@
       }
     },
     {
-      "id": 457,
+      "id": "1761813174059-17-82-0cefa04d",
       "targetLexeme": "sets out clear explanations about the sources",
       "sourceContext": "Q35 (Y/N/NG): The Law of Effect sets out clear explanations about the sources of new ideas...",
       "phase1Inference": {
@@ -2265,7 +3217,7 @@
       }
     },
     {
-      "id": 458,
+      "id": "1761813174059-17-83-6d48da27",
       "targetLexeme": "Many scientists are now turning away from",
       "sourceContext": "Q36 (Y/N/NG): Many scientists are now turning away from the notion of intelligent design and genius.",
       "phase1Inference": {
@@ -2276,7 +3228,9 @@
         "sentiment": "neutral",
         "definitionEN": "This is 'Not Given'. The passage only presents the author's opinion ('The time seems right for abandoning...'), not a fact about what 'many scientists' are doing",
         "translationVI": "(Không được đưa ra). Bài đọc chỉ nói 'Đã đến lúc từ bỏ...' (The time seems right for abandoning...), đây là quan điểm của tác giả, không phải sự thật về 'nhiều nhà khoa học'",
-        "relatedCollocates": ["The time seems right for abandoning..."]
+        "relatedCollocates": [
+          "The time seems right for abandoning..."
+        ]
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
@@ -2284,7 +3238,7 @@
       }
     },
     {
-      "id": 459,
+      "id": "1761813174059-17-84-31c464b6",
       "targetLexeme": "a single great view has sudden [inspiration]",
       "sourceContext": "Q37 (Summary): ...when a single great view has sudden 37 ............ (List: F inspiration)",
       "phase1Inference": {
@@ -2306,7 +3260,7 @@
       }
     },
     {
-      "id": 460,
+      "id": "1761813174059-17-85-16c99196",
       "targetLexeme": "this process involves [mistakes]",
       "sourceContext": "Q38 (Summary): ...this process involves 38 ............, such as Nicholson's theory... (List: D mistakes)",
       "phase1Inference": {
@@ -2330,7 +3284,7 @@
       }
     },
     {
-      "id": 461,
+      "id": "1761813174059-17-86-0806cd59",
       "targetLexeme": "an element of [luck]",
       "sourceContext": "Q39 (Summary): ...often an element of 39 ............, for example, the coincidence... of the Post-It note. (List: E luck)",
       "phase1Inference": {
@@ -2353,7 +3307,7 @@
       }
     },
     {
-      "id": 462,
+      "id": "1761813174059-17-87-0369ec0d",
       "targetLexeme": "no clear [goals] involved",
       "sourceContext": "Q40 (Summary): ...there may be no clear 40 ............ involved, but merely a process of variation and selection. (List: B goals)",
       "phase1Inference": {
@@ -2374,5 +3328,11 @@
         "content": "Question: 'no clear [goals]' \n<->\nPassage: 'without any end objective'"
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.059Z",
+    "version": "2.0",
+    "originalCount": 88,
+    "migratedCount": 88
+  }
 }

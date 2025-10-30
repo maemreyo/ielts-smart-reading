@@ -1,0 +1,2052 @@
+{
+  "logTitle": "IELTS Reading Log: The development of the London underground railway",
+  "sourceId": "Cam 17 | Test 1 | Reading Passage 1",
+  "totalItems": 61,
+  "lexicalItems": [
+    {
+      "id": 1,
+      "targetLexeme": "grew at an astonishing rate",
+      "sourceContext": "...London's population grew at an astonishing rate, and the central area became increasingly congested.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tăng trưởng ở một tốc độ 'astonishing' -> tốc độ rất nhanh, đáng kinh ngạc"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɡruː æt ən əˈstɒnɪʃɪŋ reɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "To increase in size or number very quickly and surprisingly",
+        "translationVI": "Tăng trưởng với tốc độ đáng kinh ngạc",
+        "relatedCollocates": [
+          "grow rapidly",
+          "grow exponentially",
+          "at an alarming rate"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "astonishment", "meaning": "sự kinh ngạc" }],
+          "verb": [{ "form": "astonish", "meaning": "làm kinh ngạc" }],
+          "adjective": [
+            { "form": "astonishing", "meaning": "đáng kinh ngạc" },
+            { "form": "astonished", "meaning": "bị kinh ngạc" }
+          ],
+          "adverb": [
+            { "form": "astonishingly", "meaning": "(một cách) đáng kinh ngạc" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The popularity of e-commerce has grown at an astonishing rate."
+      }
+    },
+    {
+      "id": 2,
+      "targetLexeme": "increasingly congested",
+      "sourceContext": "...and the central area became increasingly congested.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Congested' là tắc nghẽn, 'increasingly' là ngày càng. -> 'ngày càng tắc nghẽn/đông đúc'"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈkriːsɪŋli kənˈdʒestɪd/",
+        "sentiment": "negative",
+        "definitionEN": "Becoming more and more crowded with traffic or people, making movement difficult",
+        "translationVI": "Ngày càng tắc nghẽn",
+        "relatedCollocates": [
+          "heavily congested",
+          "traffic congestion",
+          "ease congestion"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "congestion", "meaning": "sự tắc nghẽn" }],
+          "verb": [{ "form": "congest", "meaning": "làm tắc nghẽn" }],
+          "adjective": [{ "form": "congested", "meaning": "bị tắc nghẽn" }],
+          "adverb": [{ "form": "increasingly", "meaning": "ngày càng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "IELTS_STYLE_QUESTION",
+        "content": "What measures can governments take to solve the problem of increasingly congested city centres?"
+      }
+    },
+    {
+      "id": 3,
+      "targetLexeme": "expansion of the overground railway network",
+      "sourceContext": "In addition, the expansion of the overground railway network resulted in more and more passengers arriving in the capital.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Expansion' là 'sự mở rộng' của 'network' (mạng lưới) đường sắt 'overground' (trên mặt đất)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˈspænʃən əv ði ˈəʊvəɡraʊnd ˈreɪlweɪ ˈnetwɜːk/",
+        "sentiment": "neutral",
+        "definitionEN": "The process of increasing the size and reach of the railway system that runs on the surface",
+        "translationVI": "Sự mở rộng của mạng lưới đường sắt trên mặt đất",
+        "relatedCollocates": [
+          "network expansion",
+          "rapid expansion",
+          "facilitate the expansion of"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "expansion", "meaning": "sự mở rộng" },
+            { "form": "expanse", "meaning": "dải rộng (đất)" }
+          ],
+          "verb": [{ "form": "expand", "meaning": "mở rộng" }],
+          "adjective": [{ "form": "expansive", "meaning": "có tính mở rộng" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The expansion of the internet network has connected billions of people worldwide."
+      }
+    },
+    {
+      "id": 4,
+      "targetLexeme": "passengers arriving in the capital",
+      "sourceContext": "...resulted in more and more passengers arriving in the capital.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hành khách 'arriving' (đi đến) 'capital' (thủ đô)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpæsɪndʒəz əˈraɪvɪŋ ɪn ðə ˈkæpɪtl/",
+        "sentiment": "neutral",
+        "definitionEN": "People who are travelling, reaching the main city of a country",
+        "translationVI": "Hành khách đến thủ đô",
+        "relatedCollocates": [
+          "passengers departing from",
+          "international arrivals",
+          "arrive at (a destination)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "passenger", "meaning": "hành khách" },
+            { "form": "arrival", "meaning": "sự (đi) đến" },
+            { "form": "capital", "meaning": "thủ đô" }
+          ],
+          "verb": [{ "form": "arrive", "meaning": "đi đến" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The airport handles thousands of passengers arriving in the capital every day."
+      }
+    },
+    {
+      "id": 5,
+      "targetLexeme": "a Royal Commission",
+      "sourceContext": "However, in 1846, a Royal Commission decided that the railways should not be allowed to enter the City...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'Commission' (Ủy ban) 'Royal' (Hoàng gia). Chắc là một nhóm người được vua/nữ hoàng chỉ định để điều tra/quyết định việc gì đó"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈrɔɪəl kəˈmɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "A formal group of people appointed by a monarch (on the advice of the government) to investigate a matter of public concern",
+        "translationVI": "Một Ủy ban Hoàng gia (ủy ban điều tra chính thức)",
+        "relatedCollocates": [
+          "appoint a commission",
+          "the commission's report/findings"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "commission", "meaning": "ủy ban" },
+            { "form": "commissioner", "meaning": "ủy viên" },
+            { "form": "royalty", "meaning": "hoàng tộc" }
+          ],
+          "verb": [{ "form": "commission", "meaning": "ủy thác" }],
+          "adjective": [{ "form": "royal", "meaning": "thuộc hoàng gia" }],
+          "adverb": [{ "form": "royally", "meaning": "(một cách) hoàng gia" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A Royal Commission was established to investigate the causes of the financial crisis."
+      }
+    },
+    {
+      "id": 6,
+      "targetLexeme": "historic and business centre",
+      "sourceContext": "...allowed to enter the City, the capital's historic and business centre.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trung tâm 'historic' (lịch sử) và 'business' (kinh doanh) của thủ đô"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hɪˈstɒrɪk ænd ˈbɪznəs ˈsentə/",
+        "sentiment": "neutral",
+        "definitionEN": "The main area of a city that is important for both its history and its commercial activities",
+        "translationVI": "Trung tâm lịch sử và kinh doanh",
+        "relatedCollocates": [
+          "city centre",
+          "financial centre",
+          "historic district"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "history", "meaning": "lịch sử" },
+            { "form": "historian", "meaning": "nhà sử học" },
+            { "form": "business", "meaning": "kinh doanh" }
+          ],
+          "verb": null,
+          "adjective": [
+            { "form": "historic", "meaning": "mang tính lịch sử" },
+            { "form": "historical", "meaning": "thuộc về lịch sử" }
+          ],
+          "adverb": [{ "form": "historically", "meaning": "(về mặt) lịch sử" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new law restricts vehicle access to the city's historic and business centre."
+      }
+    },
+    {
+      "id": 7,
+      "targetLexeme": "formed a ring around",
+      "sourceContext": "The result was that the overground railway stations formed a ring around the City.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Formed' (hình thành) một 'ring' (vòng tròn) 'around' (xung quanh) thành phố"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fɔːmd ə rɪŋ əˈraʊnd/",
+        "sentiment": "neutral",
+        "definitionEN": "To create a circular shape or border surrounding a central area",
+        "translationVI": "Tạo thành một vòng đai/vòng tròn xung quanh",
+        "relatedCollocates": ["form a circle", "a ring road", "surround (v)"],
+        "wordForms": {
+          "noun": [
+            { "form": "form", "meaning": "hình dạng" },
+            { "form": "formation", "meaning": "sự hình thành" },
+            { "form": "ring", "meaning": "chiếc nhẫn, vòng tròn" }
+          ],
+          "verb": [{ "form": "form", "meaning": "hình thành" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ancient walls formed a ring around the old town."
+      }
+    },
+    {
+      "id": 8,
+      "targetLexeme": "overcrowded slums",
+      "sourceContext": "The area within consisted of poorly built, overcrowded slums...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Slums' là 'khu ổ chuột', 'overcrowded' là 'quá đông đúc'. -> 'các khu ổ chuột quá đông đúc/chật chội'"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌəʊvəˈkraʊdɪd slʌmz/",
+        "sentiment": "negative",
+        "definitionEN": "Areas of a city with very poor-quality housing that are excessively full of people",
+        "translationVI": "Các khu ổ chuột quá đông đúc",
+        "relatedCollocates": [
+          "poorly built slums",
+          "clear the slums",
+          "live in slums"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "slum", "meaning": "khu ổ chuột" },
+            { "form": "overcrowding", "meaning": "sự quá đông đúc" }
+          ],
+          "verb": [{ "form": "overcrowd", "meaning": "làm cho quá đông" }],
+          "adjective": [{ "form": "overcrowded", "meaning": "quá đông đúc" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The industrial revolution led to the growth of overcrowded slums in many major cities."
+      }
+    },
+    {
+      "id": 9,
+      "targetLexeme": "horse-drawn traffic",
+      "sourceContext": "...and the streets were full of horse-drawn traffic.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Traffic' (giao thông) mà 'horse-drawn' (được kéo bởi ngựa). -> 'giao thông xe ngựa'"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hɔːs-drɔːn ˈtræfɪk/",
+        "sentiment": "neutral",
+        "definitionEN": "Transport that is pulled by a horse (e.g., carriages, buses)",
+        "translationVI": "Giao thông xe ngựa",
+        "relatedCollocates": ["horse-drawn carriage", "horse-drawn vehicle"],
+        "wordForms": {
+          "noun": [
+            { "form": "horse", "meaning": "con ngựa" },
+            { "form": "traffic", "meaning": "giao thông" }
+          ],
+          "verb": [{ "form": "draw", "meaning": "kéo" }],
+          "adjective": [
+            { "form": "horse-drawn", "meaning": "được kéo bằng ngựa" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Before the invention of the car, city streets were full of horse-drawn traffic."
+      }
+    },
+    {
+      "id": 10,
+      "targetLexeme": "Crossing the City became a nightmare",
+      "sourceContext": "Crossing the City became a nightmare. It could take an hour and a half to travel 8 km...",
+      "phase1Inference": {
+        "contextualGuessVI": "Việc đi qua thành phố trở thành một 'nightmare' (cơn ác mộng) -> rất kinh khủng, khó khăn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkrɒsɪŋ ðə ˈsɪti bɪˈkeɪm ə ˈnaɪtmeə/",
+        "sentiment": "negative",
+        "definitionEN": "The act of travelling from one side of the city to the other became an extremely unpleasant and difficult experience",
+        "translationVI": "Việc đi qua thành phố trở thành một cơn ác mộng",
+        "relatedCollocates": [
+          "a total nightmare",
+          "a logistical nightmare",
+          "traffic nightmare"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "crossing", "meaning": "sự băng qua" },
+            { "form": "nightmare", "meaning": "cơn ác mộng" }
+          ],
+          "verb": [{ "form": "cross", "meaning": "băng qua" }],
+          "adjective": [{ "form": "nightmarish", "meaning": "như ác mộng" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Finding a parking spot during the festival was a complete nightmare."
+      }
+    },
+    {
+      "id": 11,
+      "targetLexeme": "resolve these problems",
+      "sourceContext": "Numerous schemes were proposed to resolve these problems, but few succeeded.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Resolve' (giải quyết) 'problems' (vấn đề). -> 'giải quyết những vấn đề này'"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈzɒlv ðiːz ˈprɒbləmz/",
+        "sentiment": "positive",
+        "definitionEN": "To find a satisfactory solution to a problem or difficulty",
+        "translationVI": "Giải quyết (triệt để) những vấn đề này",
+        "relatedCollocates": [
+          "resolve an issue",
+          "resolve a conflict",
+          "reach a resolution"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "resolution", "meaning": "giải pháp, sự giải quyết" },
+            { "form": "problem", "meaning": "vấn đề" }
+          ],
+          "verb": [{ "form": "resolve", "meaning": "giải quyết" }],
+          "adjective": [
+            { "form": "unresolved", "meaning": "chưa được giải quyết" },
+            { "form": "resolvable", "meaning": "có thể giải quyết" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is hoped that the new policy will help to resolve these problems permanently."
+      }
+    },
+    {
+      "id": 12,
+      "targetLexeme": "The most vocal advocates for",
+      "sourceContext": "Amongst the most vocal advocates for a solution... was Charles Pearson...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'advocates' (người ủng hộ) mà 'vocal' (lên tiếng) nhất. -> 'Những người ủng hộ mạnh mẽ/lên tiếng nhiều nhất cho..."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə məʊst ˈvəʊkəl ˈædvəkəts fɔː/",
+        "sentiment": "neutral",
+        "definitionEN": "The people who speak most publicly and forcefully in support of an idea or plan",
+        "translationVI": "Những người ủng hộ (lên tiếng) mạnh mẽ nhất cho",
+        "relatedCollocates": [
+          "a strong advocate",
+          "a leading advocate",
+          "advocate for (a change)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "advocate", "meaning": "người ủng hộ" },
+            { "form": "advocacy", "meaning": "sự ủng hộ" }
+          ],
+          "verb": [{ "form": "advocate", "meaning": "ủng hộ" }],
+          "adjective": [{ "form": "vocal", "meaning": "(mạnh mẽ) lên tiếng" }],
+          "adverb": [{ "form": "vocally", "meaning": "(một cách) mạnh mẽ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He was one of the most vocal advocates for free speech."
+      }
+    },
+    {
+      "id": 13,
+      "targetLexeme": "social and economic advantages",
+      "sourceContext": "He saw both social and economic advantages in building an underground railway...",
+      "phase1Inference": {
+        "contextualGuessVI": "Lợi ích ('advantages') về 'social' (xã hội) và 'economic' (kinh tế)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsəʊʃəl ænd ˌiːkəˈnɒmɪk ədˈvɑːntɪdʒɪz/",
+        "sentiment": "positive",
+        "definitionEN": "Benefits relating to society and the management of a country's wealth",
+        "translationVI": "Các lợi ích về mặt xã hội và kinh tế",
+        "relatedCollocates": [
+          "clear advantages",
+          "significant advantages",
+          "reap the advantages"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "society", "meaning": "xã hội" },
+            { "form": "economy", "meaning": "nền kinh tế" },
+            { "form": "economics", "meaning": "kinh tế học" },
+            { "form": "advantage", "meaning": "lợi ích" }
+          ],
+          "verb": [
+            { "form": "socialize", "meaning": "xã hội hóa" },
+            { "form": "economize", "meaning": "tiết kiệm" }
+          ],
+          "adjective": [
+            { "form": "social", "meaning": "thuộc xã hội" },
+            { "form": "economic", "meaning": "thuộc kinh tế" },
+            { "form": "economical", "meaning": "tiết kiệm" },
+            { "form": "advantageous", "meaning": "có lợi" }
+          ],
+          "adverb": [
+            { "form": "socially", "meaning": "(về mặt) xã hội" },
+            { "form": "economically", "meaning": "(về mặt) kinh tế" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new trade deal is expected to bring significant social and economic advantages."
+      }
+    },
+    {
+      "id": 14,
+      "targetLexeme": "clear London slums",
+      "sourceContext": "...link the overground railway stations together and clear London slums at the same time.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Clear' (dọn dẹp, giải tỏa) 'slums' (khu ổ chuột). -> 'giải tỏa các khu ổ chuột ở London'"
+      },
+      "phase2Annotation": {
+        "phonetic": "/klɪə ˈlʌndən slʌmz/",
+        "sentiment": "positive",
+        "definitionEN": "To remove or get rid of the overcrowded, poor-quality housing areas in London",
+        "translationVI": "Giải toả các khu ổ chuột ở London",
+        "relatedCollocates": [
+          "slum clearance",
+          "clear an area",
+          "clear the rubble"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "clearance", "meaning": "sự giải tỏa" },
+            { "form": "slum", "meaning": "khu ổ chuột" }
+          ],
+          "verb": [{ "form": "clear", "meaning": "dọn dẹp, giải tỏa" }],
+          "adjective": [{ "form": "clear", "meaning": "rõ ràng" }],
+          "adverb": [{ "form": "clearly", "meaning": "rõ ràng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "FEYNMAN_EXPLANATION",
+        "content": "This means getting rid of the really poor, crowded neighbourhoods, likely by knocking them down to build something new, as part of the railway project."
+      }
+    },
+    {
+      "id": 15,
+      "targetLexeme": "relocate the poor workers",
+      "sourceContext": "His idea was to relocate the poor workers who lived in the inner-city slums...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Relocate' (tái định vị, di dời) 'poor workers' (công nhân nghèo). -> 'di dời/tái định cư công nhân nghèo'"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌriːləʊˈkeɪt ðə pɔː ˈwɜːkəz/",
+        "sentiment": "neutral",
+        "definitionEN": "To move the low-income labourers to a new place to live",
+        "translationVI": "Tái định cư (di dời) những người lao động nghèo",
+        "relatedCollocates": [
+          "relocate families",
+          "relocate a business",
+          "forced relocation"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "relocation", "meaning": "sự tái định cư" },
+            { "form": "location", "meaning": "vị trí" },
+            { "form": "worker", "meaning": "công nhân" }
+          ],
+          "verb": [
+            { "form": "relocate", "meaning": "tái định cư" },
+            { "form": "locate", "meaning": "định vị" },
+            { "form": "work", "meaning": "làm việc" }
+          ],
+          "adjective": [{ "form": "poor", "meaning": "nghèo" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The factory closure forced the company to relocate the poor workers."
+      }
+    },
+    {
+      "id": 16,
+      "targetLexeme": "newly constructed suburbs",
+      "sourceContext": "...to newly constructed suburbs, and to provide cheap rail travel for them...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Suburbs' (vùng ngoại ô) 'newly constructed' (mới được xây dựng)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈnjuːli kənˈstrʌktɪd ˈsʌbɜːbz/",
+        "sentiment": "neutral",
+        "definitionEN": "Residential areas on the edge of a city that have been built recently",
+        "translationVI": "Các khu ngoại ô mới được xây dựng",
+        "relatedCollocates": [
+          "newly built",
+          "newly developed",
+          "construct (a building)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "construction", "meaning": "sự xây dựng" },
+            { "form": "suburb", "meaning": "ngoại ô" }
+          ],
+          "verb": [{ "form": "construct", "meaning": "xây dựng" }],
+          "adjective": [
+            { "form": "constructed", "meaning": "được xây dựng" },
+            { "form": "suburban", "meaning": "thuộc ngoại ô" }
+          ],
+          "adverb": [{ "form": "newly", "meaning": "mới" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many young families choose to live in newly constructed suburbs."
+      }
+    },
+    {
+      "id": 17,
+      "targetLexeme": "provide cheap rail travel",
+      "sourceContext": "...and to provide cheap rail travel for them to get to work.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Provide' (cung cấp) 'cheap' (rẻ) 'rail travel' (việc đi lại bằng đường sắt)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/prəˈvaɪd tʃiːp reɪl ˈtrævl/",
+        "sentiment": "positive",
+        "definitionEN": "To offer low-cost transportation by train",
+        "translationVI": "Cung cấp phương tiện đi lại bằng đường sắt giá rẻ",
+        "relatedCollocates": [
+          "provide a service",
+          "provide (sb) with (sth)",
+          "cheap travel"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "provision", "meaning": "sự cung cấp" },
+            { "form": "provider", "meaning": "nhà cung cấp" },
+            { "form": "travel", "meaning": "sự đi lại" }
+          ],
+          "verb": [
+            { "form": "provide", "meaning": "cung cấp" },
+            { "form": "travel", "meaning": "đi lại" }
+          ],
+          "adjective": [{ "form": "cheap", "meaning": "rẻ" }],
+          "adverb": [{ "form": "cheaply", "meaning": "(một cách) rẻ tiền" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "IELTS_STYLE_QUESTION",
+        "content": "Do you think it is the government's responsibility to provide cheap rail travel for its citizens?"
+      }
+    },
+    {
+      "id": 18,
+      "targetLexeme": "gained support amongst",
+      "sourceContext": "Pearson's ideas gained support amongst some businessmen...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Gained' (giành được, có được) 'support' (sự ủng hộ) 'amongst' (từ, trong số) doanh nhân"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɡeɪnd səˈpɔːt əˈmʌŋst/",
+        "sentiment": "positive",
+        "definitionEN": "To gradually get more approval or help from a specific group of people",
+        "translationVI": "Giành được/Nhận được sự ủng hộ từ (trong giới)",
+        "relatedCollocates": [
+          "gain traction",
+          "gain popularity",
+          "win support",
+          "broad support"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "gain", "meaning": "lợi ích, sự gia tăng" },
+            { "form": "support", "meaning": "sự ủng hộ" }
+          ],
+          "verb": [
+            { "form": "gain", "meaning": "giành được" },
+            { "form": "support", "meaning": "ủng hộ" }
+          ],
+          "adjective": [{ "form": "supportive", "meaning": "có tính ủng hộ" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new environmental policy quickly gained support amongst the younger generation."
+      }
+    },
+    {
+      "id": 19,
+      "targetLexeme": "submitted a plan to Parliament",
+      "sourceContext": "...and in 1851 he submitted a plan to Parliament.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Submit' (nộp, đệ trình) một 'plan' (kế hoạch) cho 'Parliament' (Nghị viện)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/səbˈmɪtɪd ə plæn tə ˈpɑːləmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "To formally give a plan or document to the legislature (government body) for consideration",
+        "translationVI": "Trình một kế hoạch lên Nghị viện",
+        "relatedCollocates": [
+          "submit an application",
+          "submit a report",
+          "submit a proposal"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "submission", "meaning": "sự đệ trình" },
+            { "form": "plan", "meaning": "kế hoạch" },
+            { "form": "parliament", "meaning": "nghị viện" }
+          ],
+          "verb": [
+            { "form": "submit", "meaning": "đệ trình" },
+            { "form": "plan", "meaning": "lên kế hoạch" }
+          ],
+          "adjective": [
+            { "form": "parliamentary", "meaning": "thuộc nghị viện" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The committee submitted its final report to Parliament last week."
+      }
+    },
+    {
+      "id": 20,
+      "targetLexeme": "coincided with a proposal",
+      "sourceContext": "It was rejected, but coincided with a proposal from another group...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Coincided with' (trùng hợp với, xảy ra cùng lúc với) một 'proposal' (đề xuất)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌkəʊɪnˈsaɪdɪd wɪð ə prəˈpəʊzəl/",
+        "sentiment": "neutral",
+        "definitionEN": "To happen at the same time as another suggestion or plan",
+        "translationVI": "Trùng hợp với một đề xuất",
+        "relatedCollocates": [
+          "coincide with (an event)",
+          "a happy coincidence",
+          "purely coincidental"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "coincidence", "meaning": "sự trùng hợp" },
+            { "form": "proposal", "meaning": "sự đề xuất" }
+          ],
+          "verb": [
+            { "form": "coincide", "meaning": "trùng hợp" },
+            { "form": "propose", "meaning": "đề xuất" }
+          ],
+          "adjective": [
+            { "form": "coincidental", "meaning": "mang tính trùng hợp" }
+          ],
+          "adverb": [
+            { "form": "coincidentally", "meaning": "(một cách) trùng hợp" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His visit coincided with a major national holiday."
+      }
+    },
+    {
+      "id": 21,
+      "targetLexeme": "The two groups merged",
+      "sourceContext": "The two groups merged and established the Metropolitan Railway Company...",
+      "phase1Inference": {
+        "contextualGuessVI": "Hai nhóm 'merged'... chắc là 'hợp nhất', 'sáp nhập'"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə tuː ɡruːps mɜːdʒd/",
+        "sentiment": "neutral",
+        "definitionEN": "To combine or join two organizations to form a single, larger one",
+        "translationVI": "Hai nhóm sáp nhập",
+        "relatedCollocates": [
+          "merge with (a company)",
+          "a merger",
+          "merge two entities"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "merger", "meaning": "sự sáp nhập" },
+            { "form": "group", "meaning": "nhóm" }
+          ],
+          "verb": [{ "form": "merge", "meaning": "sáp nhập" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The two small banks merged to form a new, more competitive institution."
+      }
+    },
+    {
+      "id": 22,
+      "targetLexeme": "had difficulty in raising the funding",
+      "sourceContext": "The organisation had difficulty in raising the funding for such a radical and expensive scheme...",
+      "phase1Inference": {
+        "contextualGuessVI": "Gặp 'difficulty' (khó khăn) trong việc 'raising funding' (huy động vốn)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hæd ˈdɪfɪkəlti ɪn ˈreɪzɪŋ ðə ˈfʌndɪŋ/",
+        "sentiment": "negative",
+        "definitionEN": "To experience problems trying to collect or find enough money for a specific purpose",
+        "translationVI": "Gặp khó khăn trong việc huy động vốn",
+        "relatedCollocates": [
+          "raise money",
+          "raise capital",
+          "secure funding",
+          "lack of funding"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "difficulty", "meaning": "sự khó khăn" },
+            { "form": "funding", "meaning": "nguồn vốn" },
+            { "form": "fund", "meaning": "quỹ" }
+          ],
+          "verb": [
+            { "form": "raise", "meaning": "huy động" },
+            { "form": "fund", "meaning": "cấp vốn" }
+          ],
+          "adjective": [{ "form": "difficult", "meaning": "khó khăn" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The start-up had difficulty in raising the funding needed to scale its operations."
+      }
+    },
+    {
+      "id": 23,
+      "targetLexeme": "a radical and expensive scheme",
+      "sourceContext": "...for such a radical and expensive scheme, not least because of the critical articles...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'scheme' (kế hoạch) 'radical' (cấp tiến, mới lạ) và 'expensive' (đắt đỏ)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈrædɪkəl ænd ɪkˈspensɪv skiːm/",
+        "sentiment": "negative",
+        "definitionEN": "A plan that is very new, different (and often extreme), and costs a lot of money",
+        "translationVI": "Một kế hoạch cấp tiến (mới lạ) và tốn kém",
+        "relatedCollocates": [
+          "a radical idea",
+          "radical changes",
+          "an expensive project"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "radical", "meaning": "người cấp tiến" },
+            { "form": "expense", "meaning": "chi phí" },
+            { "form": "scheme", "meaning": "kế hoạch" }
+          ],
+          "verb": [
+            { "form": "scheme", "meaning": "lên kế hoạch (thường là bí mật)" }
+          ],
+          "adjective": [
+            { "form": "radical", "meaning": "cấp tiến" },
+            { "form": "expensive", "meaning": "đắt đỏ" }
+          ],
+          "adverb": [
+            { "form": "radically", "meaning": "(một cách) triệt để" },
+            { "form": "expensively", "meaning": "(một cách) đắt đỏ" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "FEYNMAN_EXPLANATION",
+        "content": "This means a plan that wasn't normal; it was a completely new, maybe crazy idea for the time, and it would cost a fortune to build."
+      }
+    },
+    {
+      "id": 24,
+      "targetLexeme": "demolishing buildings",
+      "sourceContext": "...minimise the expense of demolishing buildings. Originally scheduled to be completed in 21 months...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Demolish' (phá hủy, dỡ bỏ) 'buildings' (các tòa nhà). -> 'việc phá dỡ các tòa nhà'"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈmɒlɪʃɪŋ ˈbɪldɪŋz/",
+        "sentiment": "neutral",
+        "definitionEN": "To pull or knock down buildings",
+        "translationVI": "Phá dỡ các tòa nhà",
+        "relatedCollocates": [
+          "demolish a house",
+          "completely demolish",
+          "demolition (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "demolition", "meaning": "sự phá dỡ" },
+            { "form": "building", "meaning": "tòa nhà" }
+          ],
+          "verb": [
+            { "form": "demolish", "meaning": "phá dỡ" },
+            { "form": "build", "meaning": "xây dựng" }
+          ],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new highway project will involve demolishing several old buildings."
+      }
+    },
+    {
+      "id": 25,
+      "targetLexeme": "originally scheduled to be completed",
+      "sourceContext": "Originally scheduled to be completed in 21 months, the construction of the underground line took three years.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Originally scheduled' (ban đầu được lên lịch) 'to be completed' (để được hoàn thành). -> 'ban đầu được lên lịch hoàn thành'"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈrɪdʒənəli ˈʃedjuːld tə bi kəmˈpliːtɪd/",
+        "sentiment": "neutral",
+        "definitionEN": "Planned at the beginning to be finished by a certain time",
+        "translationVI": "Ban đầu được lên lịch/dự kiến sẽ hoàn thành",
+        "relatedCollocates": [
+          "scheduled to (begin/end)",
+          "on schedule",
+          "behind schedule"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "schedule", "meaning": "lịch trình" },
+            { "form": "completion", "meaning": "sự hoàn thành" }
+          ],
+          "verb": [
+            { "form": "schedule", "meaning": "lên lịch" },
+            { "form": "complete", "meaning": "hoàn thành" }
+          ],
+          "adjective": [
+            { "form": "original", "meaning": "ban đầu" },
+            { "form": "complete", "meaning": "hoàn chỉnh" }
+          ],
+          "adverb": [{ "form": "originally", "meaning": "(một cách) ban đầu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The movie was originally scheduled to be completed in June but was delayed."
+      }
+    },
+    {
+      "id": 26,
+      "targetLexeme": "built just below street level",
+      "sourceContext": "It was built just below street level using a technique known as 'cut and cover'.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được xây 'just below' (ngay bên dưới) 'street level' (mặt đường)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/bɪlt dʒəst bɪˈləʊ striːt ˈlevl/",
+        "sentiment": "neutral",
+        "definitionEN": "Constructed at a very shallow depth, immediately under the surface of the road",
+        "translationVI": "Được xây ngay dưới mặt đường",
+        "relatedCollocates": [
+          "below sea level",
+          "above ground",
+          "street level"
+        ],
+        "wordForms": {
+          "noun": ["level", "street"],
+          "verb": ["build"],
+          "adjective": ["built"],
+          "adverb": ["below", "just"]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new pedestrian underpass was built just below street level."
+      }
+    },
+    {
+      "id": 27,
+      "targetLexeme": "technique known as",
+      "sourceContext": "...using a technique known as 'cut and cover'.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'technique' (kỹ thuật) 'known as' (được biết đến với tên là).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/tekˈniːk nəʊn æz/",
+        "sentiment": "neutral",
+        "definitionEN": "A specific method or skill that is called by a particular name",
+        "translationVI": "Kỹ thuật được biết đến với tên gọi là",
+        "relatedCollocates": ["a method called", "a process known as"],
+        "wordForms": {
+          "noun": [{ "form": "technique", "meaning": "kỹ thuật" }],
+          "verb": [{ "form": "know", "meaning": "biết" }],
+          "adjective": [
+            { "form": "known", "meaning": "được biết đến" },
+            { "form": "technical", "meaning": "thuộc kỹ thuật" }
+          ],
+          "adverb": [{ "form": "technically", "meaning": "(về mặt) kỹ thuật" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The artist uses a technique known as 'pointillism' in her paintings."
+      }
+    },
+    {
+      "id": 28,
+      "targetLexeme": "temporarily held up with timber beams",
+      "sourceContext": "...and the sides temporarily held up with timber beams.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Temporarily' (tạm thời) 'held up' (được chống đỡ) 'with' (bằng) 'timber beams' (dầm gỗ)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtempərərɪli held ʌp wɪð ˈtɪmbə biːmz/",
+        "sentiment": "neutral",
+        "definitionEN": "Supported for a short time using large, long pieces of wood",
+        "translationVI": "Được chống đỡ tạm thời bằng các dầm gỗ",
+        "relatedCollocates": [
+          "hold up (support)",
+          "hold up (delay)",
+          "timber frame"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "timber", "meaning": "gỗ (xây dựng)" },
+            { "form": "beam", "meaning": "cái dầm" }
+          ],
+          "verb": [{ "form": "hold up", "meaning": "chống đỡ" }],
+          "adjective": [{ "form": "temporary", "meaning": "tạm thời" }],
+          "adverb": [
+            { "form": "temporarily", "meaning": "(một cách) tạm thời" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The damaged roof was temporarily held up with timber beams after the storm."
+      }
+    },
+    {
+      "id": 29,
+      "targetLexeme": "laid on top of the tunnel",
+      "sourceContext": "A two-metre-deep layer of soil was laid on top of the tunnel and the road above rebuilt.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Laid' (được đặt, rải) 'on top of' (lên trên) 'the tunnel' (đường hầm)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/leɪd ɒn tɒp əv ðə ˈtʌnl/",
+        "sentiment": "neutral",
+        "definitionEN": "Placed over the upper surface of the tunnel",
+        "translationVI": "Được đặt/rải lên trên đường hầm",
+        "relatedCollocates": ["lay bricks", "lay the foundation", "on top of"],
+        "wordForms": {
+          "noun": [{ "form": "layer", "meaning": "lớp" }],
+          "verb": [{ "form": "lay (past: laid)", "meaning": "đặt, rải" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A new layer of asphalt was laid on top of the old road."
+      }
+    },
+    {
+      "id": 30,
+      "targetLexeme": "first year of operation",
+      "sourceContext": "By the end of the Metropolitan's first year of operation, 9.5 million journeys had been made.",
+      "phase1Inference": {
+        "contextualGuessVI": "Năm 'operation' (hoạt động) 'first' (đầu tiên)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fɜːst jɪər əv ˌɒpəˈreɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "The initial 12-month period during which a system or business is working",
+        "translationVI": "Năm hoạt động đầu tiên",
+        "relatedCollocates": [
+          "begin operation",
+          "in operation",
+          "cease operation"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "operation", "meaning": "sự vận hành" },
+            { "form": "operator", "meaning": "người vận hành" }
+          ],
+          "verb": [{ "form": "operate", "meaning": "vận hành" }],
+          "adjective": [{ "form": "operational", "meaning": "thuộc vận hành" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company reported a significant profit in its first year of operation."
+      }
+    },
+    {
+      "id": 31,
+      "targetLexeme": "extensions ... were being authorised",
+      "sourceContext": "...the first extensions to the line were being authorised; these were built over the next five years...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Extensions' (sự mở rộng, các tuyến nối dài) 'were being authorised' (đang được 'authorise' -> phê duyệt, cấp phép)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˈstenʃənz wɜː ˈbiːɪŋ ˈɔːθəraɪzd/",
+        "sentiment": "positive",
+        "definitionEN": "Official permission was being given to build new parts to make the line longer (past continuous passive)",
+        "translationVI": "Các tuyến mở rộng đang được cấp phép",
+        "relatedCollocates": [
+          "authorise a payment",
+          "grant authorisation",
+          "unauthorised access"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "extension", "meaning": "sự mở rộng" },
+            { "form": "authorisation", "meaning": "sự cấp phép" },
+            { "form": "authority", "meaning": "nhà chức trách" }
+          ],
+          "verb": [
+            { "form": "extend", "meaning": "mở rộng" },
+            { "form": "authorise", "meaning": "cấp phép" }
+          ],
+          "adjective": [
+            { "form": "extensive", "meaning": "rộng lớn" },
+            { "form": "authorised", "meaning": "được cấp phép" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "While we were waiting, new features for the software were being authorised by management."
+      }
+    },
+    {
+      "id": 32,
+      "targetLexeme": "pull the trains with steam locomotives",
+      "sourceContext": "The original plan was to pull the trains with steam locomotives, using firebricks in the boilers to provide steam...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Pull' (kéo) 'the trains' (tàu) 'with' (bằng) 'steam locomotives' (đầu máy hơi nước)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pʊl ðə treɪnz wɪð stiːm ˌləʊkəˈməʊtɪvz/",
+        "sentiment": "neutral",
+        "definitionEN": "To use engines powered by steam to move the train carriages",
+        "translationVI": "Kéo tàu bằng đầu máy hơi nước",
+        "relatedCollocates": ["steam engine", "diesel locomotive"],
+        "wordForms": {
+          "noun": [
+            { "form": "steam", "meaning": "hơi nước" },
+            { "form": "locomotive", "meaning": "đầu máy" }
+          ],
+          "verb": [{ "form": "pull", "meaning": "kéo" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In the 19th century, most railways used steam locomotives to pull the trains."
+      }
+    },
+    {
+      "id": 33,
+      "targetLexeme": "provide steam",
+      "sourceContext": "...using firebricks in the boilers to provide steam, but these engines were never introduced.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Provide' (cung cấp) 'steam' (hơi nước)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/prəˈvaɪd stiːm/",
+        "sentiment": "neutral",
+        "definitionEN": "To produce or supply steam (e.g., for power)",
+        "translationVI": "Cung cấp/tạo ra hơi nước",
+        "relatedCollocates": [
+          "provide power",
+          "provide a source of",
+          "generate steam"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "provision", "meaning": "sự cung cấp" },
+            { "form": "steam", "meaning": "hơi nước" }
+          ],
+          "verb": [{ "form": "provide", "meaning": "cung cấp" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The nuclear reactor's main function is to heat water and provide steam for the turbines."
+      }
+    },
+    {
+      "id": 34,
+      "targetLexeme": "specially designed locomotives",
+      "sourceContext": "Instead, the line used specially designed locomotives that were fitted with water tanks...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đầu máy 'specially designed' (được thiết kế đặc biệt)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈspeʃəli dɪˈzaɪnd ˌləʊkəˈməʊtɪvz/",
+        "sentiment": "neutral",
+        "definitionEN": "Engines that were created for a particular, specific purpose",
+        "translationVI": "Các đầu máy được thiết kế đặc biệt",
+        "relatedCollocates": [
+          "specially adapted",
+          "custom-designed",
+          "designed for"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "design", "meaning": "thiết kế" },
+            { "form": "designer", "meaning": "nhà thiết kế" },
+            { "form": "specialty", "meaning": "chuyên môn" }
+          ],
+          "verb": [{ "form": "design", "meaning": "thiết kế" }],
+          "adjective": [
+            { "form": "designed", "meaning": "được thiết kế" },
+            { "form": "special", "meaning": "đặc biệt" }
+          ],
+          "adverb": [{ "form": "specially", "meaning": "(một cách) đặc biệt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The astronauts wear specially designed suits to protect them in space."
+      }
+    },
+    {
+      "id": 35,
+      "targetLexeme": "fitted with water tanks",
+      "sourceContext": "...locomotives that were fitted with water tanks in which steam could be condensed.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'fitted with' (lắp đặt, trang bị) 'water tanks' (bể chứa nước)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfɪtɪd wɪð ˈwɔːtə tæŋks/",
+        "sentiment": "neutral",
+        "definitionEN": "To be equipped with or have water tanks as a feature",
+        "translationVI": "Được trang bị/lắp đặt các bể chứa nước",
+        "relatedCollocates": [
+          "fitted with (a feature)",
+          "equipped with",
+          "install (v)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "fitting", "meaning": "đồ lắp đặt" },
+            { "form": "tank", "meaning": "bể chứa" }
+          ],
+          "verb": [{ "form": "fit (with)", "meaning": "lắp đặt" }],
+          "adjective": [{ "form": "fitted", "meaning": "được trang bị" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENTENCE_CREATION",
+        "content": "All new cars are required to be fitted with seatbelts."
+      }
+    },
+    {
+      "id": 36,
+      "targetLexeme": "steam could be condensed",
+      "sourceContext": "...in which steam could be condensed. However, smoke and fumes remained a problem...",
+      "phase1Inference": {
+        "contextualGuessVI": "Hơi nước 'could be condensed' (có thể được 'condense' -> ngưng tụ)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/stiːm kəd bi kənˈdenst/",
+        "sentiment": "neutral",
+        "definitionEN": "It was possible for the steam (gas) to be turned back into a liquid",
+        "translationVI": "Hơi nước có thể được ngưng tụ",
+        "relatedCollocates": ["condensation (n)", "condensed milk"],
+        "wordForms": {
+          "noun": [{ "form": "condensation", "meaning": "sự ngưng tụ" }],
+          "verb": [{ "form": "condense", "meaning": "ngưng tụ" }],
+          "adjective": [{ "form": "condensed", "meaning": "được cô đọng" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "FEYNMAN_EXPLANATION",
+        "content": "This means the hot gas (steam) could be cooled down in the water tanks so it turned back into water, which was a way to manage it inside the tunnel."
+      }
+    },
+    {
+      "id": 37,
+      "targetLexeme": "smoke and fumes remained a problem",
+      "sourceContext": "However, smoke and fumes remained a problem, even though ventilation shafts were added...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Smoke and fumes' (khói và khói độc) 'remained a problem' (vẫn là một vấn đề)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/sməʊk ænd fjuːmz rɪˈmeɪnd ə ˈprɒbləm/",
+        "sentiment": "negative",
+        "definitionEN": "Smoke and harmful gases continued to be an unresolved issue",
+        "translationVI": "Khói và khí độc vẫn là một vấn đề",
+        "relatedCollocates": [
+          "remained a challenge",
+          "toxic fumes",
+          "exhaust fumes"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "smoke", "meaning": "khói" },
+            { "form": "fume", "meaning": "khói độc" },
+            { "form": "problem", "meaning": "vấn đề" }
+          ],
+          "verb": [
+            { "form": "smoke", "meaning": "hút thuốc" },
+            { "form": "remain", "meaning": "vẫn là" }
+          ],
+          "adjective": [{ "form": "smoky", "meaning": "nhiều khói" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite new regulations, air pollution from smoke and fumes remained a problem in the city."
+      }
+    },
+    {
+      "id": 38,
+      "targetLexeme": "ventilation shafts were added",
+      "sourceContext": "...even though ventilation shafts were added to the tunnels.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Ventilation shafts' (trục thông gió/giếng thông gió) 'were added' (đã được thêm vào)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌventɪˈleɪʃən ʃɑːfts wər ˈædɪd/",
+        "sentiment": "positive",
+        "definitionEN": "Passages or tunnels built to allow fresh air to enter and smoke/fumes to escape",
+        "translationVI": "Các trục thông gió đã được thêm vào",
+        "relatedCollocates": [
+          "improve ventilation",
+          "poor ventilation",
+          "a mine shaft"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "ventilation", "meaning": "sự thông gió" },
+            { "form": "vent", "meaning": "lỗ thông" },
+            { "form": "shaft", "meaning": "cái trục/giếng" }
+          ],
+          "verb": [
+            { "form": "ventilate", "meaning": "thông gió" },
+            { "form": "add", "meaning": "thêm vào" }
+          ],
+          "adjective": [{ "form": "ventilated", "meaning": "được thông gió" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "To improve air quality in the long tunnel, several ventilation shafts were added."
+      }
+    },
+    {
+      "id": 39,
+      "targetLexeme": "congestion ... had become worse",
+      "sourceContext": "Despite the extension of the underground railway, by the 1880s, congestion on London's streets had become worse.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Congestion' (sự tắc nghẽn) 'had become worse' (đã trở nên tồi tệ hơn)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kənˈdʒestʃən hæd bɪˈkʌm wɜːs/",
+        "sentiment": "negative",
+        "definitionEN": "The problem of overcrowding (especially traffic) had intensified; it was not better",
+        "translationVI": "Sự tắc nghẽn đã trở nên tồi tệ hơn",
+        "relatedCollocates": [
+          "become better",
+          "become a serious problem",
+          "worsen (v)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "congestion", "meaning": "sự tắc nghẽn" }],
+          "verb": ["become (past: became)"],
+          "adjective": [
+            { "form": "worse", "meaning": "tệ hơn" },
+            { "form": "congested", "meaning": "bị tắc nghẽn" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He stopped cycling to work because traffic congestion had become worse."
+      }
+    },
+    {
+      "id": 40,
+      "targetLexeme": "did not cross the capital's centre",
+      "sourceContext": "...but did not cross the capital's centre. The 'cut and cover' method... was not an option...",
+      "phase1Inference": {
+        "contextualGuessVI": "Không 'cross' (đi ngang qua) 'centre' (trung tâm) của 'capital' (thủ đô)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪd nɒt krɒs ðə ˈkæpɪtlz ˈsentə/",
+        "sentiment": "negative",
+        "definitionEN": "It did not travel from one side of the central part of the capital city to the other",
+        "translationVI": "Không đi qua trung tâm thủ đô",
+        "relatedCollocates": [
+          "cross the river",
+          "cross the border",
+          "city centre"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "capital", "meaning": "thủ đô" },
+            { "form": "centre", "meaning": "trung tâm" }
+          ],
+          "verb": [{ "form": "cross", "meaning": "đi qua" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new ring road is useful, but it did not cross the capital's centre."
+      }
+    },
+    {
+      "id": 41,
+      "targetLexeme": "The only alternative was to",
+      "sourceContext": "The only alternative was to tunnel deep underground.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Alternative' (sự thay thế, lựa chọn) 'only' (duy nhất) 'was to' (là làm gì đó)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ði ˈəʊnli ɔːlˈtɜːnətɪv wɒz tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "The one and only other choice or solution was to do (something)",
+        "translationVI": "Giải pháp/lựa chọn thay thế duy nhất là",
+        "relatedCollocates": [
+          "have no alternative but to",
+          "a viable alternative",
+          "an alternative method"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "alternative", "meaning": "sự thay thế" }],
+          "verb": [{ "form": "alternate", "meaning": "luân phiên" }],
+          "adjective": [{ "form": "alternative", "meaning": "thay thế" }],
+          "adverb": [{ "form": "alternatively", "meaning": "hoặc là" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "IELTS_STYLE_QUESTION",
+        "content": "When a city is heavily congested, is building more roads the only alternative?"
+      }
+    },
+    {
+      "id": 42,
+      "targetLexeme": "in such a confined space",
+      "sourceContext": "Although the technology... existed, steam locomotives could not be used in such a confined space.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong một 'space' (không gian) 'confined' (bị giới hạn, chật hẹp) 'such a' (như vậy)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn sʌtʃ ə kənˈfaɪnd speɪs/",
+        "sentiment": "negative",
+        "definitionEN": "In an area that is very small and enclosed",
+        "translationVI": "Trong một không gian chật hẹp/bị giới hạn như vậy",
+        "relatedCollocates": ["a confined area", "confined to (a place)"],
+        "wordForms": {
+          "noun": [
+            { "form": "space", "meaning": "không gian" },
+            { "form": "confinement", "meaning": "sự giam hãm" }
+          ],
+          "verb": [{ "form": "confine", "meaning": "giới hạn, giam hãm" }],
+          "adjective": [
+            { "form": "confined", "meaning": "chật hẹp, bị giới hạn" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is difficult to work with large machinery in such a confined space."
+      }
+    },
+    {
+      "id": 43,
+      "targetLexeme": "development of a reliable electric motor",
+      "sourceContext": "It wasn't until the development of a reliable electric motor, and a means of transferring power... that the world's first deep-level electric railway... became possible.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'development' (phát triển) của một 'electric motor' (động cơ điện) 'reliable' (đáng tin cậy)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈveləpmənt əv ə rɪˈlaɪəbl ɪˈlektrɪk ˈməʊtə/",
+        "sentiment": "positive",
+        "definitionEN": "The creation of an electric engine that could be trusted to work well consistently",
+        "translationVI": "Sự phát triển của một động cơ điện đáng tin cậy",
+        "relatedCollocates": [
+          "a reliable source of",
+          "reliable information",
+          "motor vehicle"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "development", "meaning": "sự phát triển" },
+            { "form": "reliability", "meaning": "sự tin cậy" },
+            { "form": "motor", "meaning": "động cơ" }
+          ],
+          "verb": [
+            { "form": "develop", "meaning": "phát triển" },
+            { "form": "rely (on)", "meaning": "dựa vào" }
+          ],
+          "adjective": [
+            { "form": "reliable", "meaning": "đáng tin cậy" },
+            { "form": "electric", "meaning": "chạy bằng điện" }
+          ],
+          "adverb": [
+            { "form": "reliably", "meaning": "(một cách) đáng tin cậy" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The success of electric cars depends on the development of reliable batteries."
+      }
+    },
+    {
+      "id": 44,
+      "targetLexeme": "a means of transferring power",
+      "sourceContext": "...and a means of transferring power from the generator to a moving train, that the world's first... railway... became possible.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'means' (phương tiện, cách thức) 'of transferring' (truyền/chuyển giao) 'power' (năng lượng/điện)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə miːnz əv trænsˈfɜːrɪŋ ˈpaʊə/",
+        "sentiment": "neutral",
+        "definitionEN": "A method or way of moving energy (electricity) from one point to another",
+        "translationVI": "Một phương thức truyền tải/chuyển giao năng lượng",
+        "relatedCollocates": [
+          "a means of (doing sth)",
+          "transfer funds",
+          "power supply"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "means", "meaning": "phương tiện" },
+            { "form": "transfer", "meaning": "sự chuyển giao" },
+            { "form": "power", "meaning": "năng lượng, điện" }
+          ],
+          "verb": [{ "form": "transfer", "meaning": "chuyển giao" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Wireless charging is a new means of transferring power without cables."
+      }
+    },
+    {
+      "id": 45,
+      "targetLexeme": "great technical achievement",
+      "sourceContext": "Although the City & South London Railway was a great technical achievement, it did not make a profit.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'achievement' (thành tựu) 'technical' (kỹ thuật) 'great' (to lớn)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɡreɪt ˈteknɪkəl əˈtʃiːvmənt/",
+        "sentiment": "positive",
+        "definitionEN": "A very significant and impressive accomplishment related to engineering or technology",
+        "translationVI": "Một thành tựu kỹ thuật vĩ đại/to lớn",
+        "relatedCollocates": [
+          "a major achievement",
+          "a remarkable achievement",
+          "technical skills"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "achievement", "meaning": "thành tựu" },
+            { "form": "achiever", "meaning": "người thành đạt" },
+            { "form": "technology", "meaning": "công nghệ" }
+          ],
+          "verb": [{ "form": "achieve", "meaning": "đạt được" }],
+          "adjective": [
+            { "form": "technical", "meaning": "thuộc kỹ thuật" },
+            { "form": "great", "meaning": "vĩ đại" }
+          ],
+          "adverb": [{ "form": "technically", "meaning": "(về mặt) kỹ thuật" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Landing a rover on Mars was a great technical achievement for NASA."
+      }
+    },
+    {
+      "id": 46,
+      "targetLexeme": "did not make a profit",
+      "sourceContext": "Although the City & South London Railway was a great technical achievement, it did not make a profit.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không 'make a profit' (tạo ra lợi nhuận)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪd nɒt meɪk ə ˈprɒfɪt/",
+        "sentiment": "negative",
+        "definitionEN": "It failed to earn more money than it cost to operate; it lost money",
+        "translationVI": "Không tạo ra lợi nhuận (bị lỗ)",
+        "relatedCollocates": [
+          "make a loss",
+          "generate a profit",
+          "highly profitable"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "profit", "meaning": "lợi nhuận" }],
+          "verb": [
+            { "form": "make a profit", "meaning": "tạo lợi nhuận" },
+            { "form": "profit (from)", "meaning": "hưởng lợi (từ)" }
+          ],
+          "adjective": [{ "form": "profitable", "meaning": "có lợi nhuận" }],
+          "adverb": [{ "form": "profitably", "meaning": "(một cách) có lợi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "IELTS_STYLE_QUESTION",
+        "content": "Why do some public transport systems, despite being a technical achievement, fail to make a profit?"
+      }
+    },
+    {
+      "id": 47,
+      "targetLexeme": "The proposed solution",
+      "sourceContext": "The proposed solution (Section heading in notes)",
+      "phase1Inference": {
+        "contextualGuessVI": "'Solution' (giải pháp) 'proposed' (được đề xuất)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə prəˈpəʊzd səˈluːʃən/",
+        "sentiment": "positive",
+        "definitionEN": "The plan or action that has been suggested to solve a problem",
+        "translationVI": "Giải pháp được đề xuất",
+        "relatedCollocates": [
+          "propose a solution",
+          "a viable solution",
+          "the final solution"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "proposal", "meaning": "sự đề xuất" },
+            { "form": "solution", "meaning": "giải pháp" }
+          ],
+          "verb": [
+            { "form": "propose", "meaning": "đề xuất" },
+            { "form": "solve", "meaning": "giải quyết" }
+          ],
+          "adjective": [{ "form": "proposed", "meaning": "được đề xuất" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The committee is currently reviewing the proposed solution to the traffic problem."
+      }
+    },
+    {
+      "id": 48,
+      "targetLexeme": "initially had problems",
+      "sourceContext": "The company initially had problems getting the 4 .................. needed for the project",
+      "phase1Inference": {
+        "contextualGuessVI": "'Initially' (ban đầu) 'had problems' (gặp vấn đề)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪˈnɪʃəli hæd ˈprɒbləmz/",
+        "sentiment": "negative",
+        "definitionEN": "To experience difficulties at the beginning of a process",
+        "translationVI": "Ban đầu gặp vấn đề/khó khăn",
+        "relatedCollocates": [
+          "initial problems",
+          "face problems",
+          "have difficulty (in doing sth)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "initial", "meaning": "sự bắt đầu" },
+            { "form": "problem", "meaning": "vấn đề" }
+          ],
+          "verb": [{ "form": "initiate", "meaning": "khởi xướng" }],
+          "adjective": [{ "form": "initial", "meaning": "ban đầu" }],
+          "adverb": [{ "form": "initially", "meaning": "(một cách) ban đầu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We initially had problems with the new software, but it works fine now."
+      }
+    },
+    {
+      "id": 49,
+      "targetLexeme": "Negative articles",
+      "sourceContext": "Negative articles about the project appeared in the 5 ..................",
+      "phase1Inference": {
+        "contextualGuessVI": "'Articles' (bài báo) 'Negative' (tiêu cực)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈneɡətɪv ˈɑːtɪklz/",
+        "sentiment": "negative",
+        "definitionEN": "News reports or essays that criticize or speak badly about a subject",
+        "translationVI": "Các bài báo tiêu cực (chỉ trích)",
+        "relatedCollocates": [
+          "a negative review",
+          "positive feedback",
+          "critical articles"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "article", "meaning": "bài báo" },
+            { "form": "negative", "meaning": "điều tiêu cực" },
+            { "form": "negativity", "meaning": "sự tiêu cực" }
+          ],
+          "verb": [{ "form": "negate", "meaning": "phủ nhận" }],
+          "adjective": [{ "form": "negative", "meaning": "tiêu cực" }],
+          "adverb": [{ "form": "negatively", "meaning": "(một cách) tiêu cực" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The film received many negative articles from critics upon its release."
+      }
+    },
+    {
+      "id": 50,
+      "targetLexeme": "appeared in the press",
+      "sourceContext": "Negative articles about the project appeared in the 5 .................. (Answer: press)",
+      "phase1Inference": {
+        "contextualGuessVI": "'Appeared' (xuất hiện) 'in the press' (trên báo chí)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈpɪəd ɪn ðə pres/",
+        "sentiment": "neutral",
+        "definitionEN": "Was published in newspapers and magazines",
+        "translationVI": "Xuất hiện trên báo chí",
+        "relatedCollocates": [
+          "appear in (a newspaper)",
+          "media coverage",
+          "in the news"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "appearance", "meaning": "sự xuất hiện" },
+            { "form": "press", "meaning": "báo chí" }
+          ],
+          "verb": [
+            { "form": "appear", "meaning": "xuất hiện" },
+            { "form": "press", "meaning": "nhấn, ép" }
+          ],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The story first appeared in the press last Tuesday."
+      }
+    },
+    {
+      "id": 51,
+      "targetLexeme": "to be pulled down",
+      "sourceContext": "The chosen route did not require many buildings to be pulled down",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị 'pulled down' (kéo xuống) -> bị phá sập, dỡ bỏ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tə bi pʊld daʊn/",
+        "sentiment": "neutral",
+        "definitionEN": "To be demolished (used for buildings)",
+        "translationVI": "Bị phá sập, dỡ bỏ",
+        "relatedCollocates": [
+          "pull down (a building)",
+          "knock down",
+          "demolish (synonym)"
+        ],
+        "wordForms": {
+          "noun": null,
+          "verb": [{ "form": "pull down", "meaning": "phá sập" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "FEYNMAN_EXPLANATION",
+        "content": "This is just another way to say 'demolish'. It means to completely destroy a building, to make it fall."
+      }
+    },
+    {
+      "id": 52,
+      "targetLexeme": "With the completion of",
+      "sourceContext": "With the completion of the brick arch, the tunnel was covered with 6 .................. (Answer: soil)",
+      "phase1Inference": {
+        "contextualGuessVI": "Với 'completion' (sự hoàn thành) 'of' (của) cái gì đó.."
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɪð ðə kəmˈpliːʃən əv/",
+        "sentiment": "positive",
+        "definitionEN": "At the point when (something) was finished",
+        "translationVI": "Với sự hoàn thành của..",
+        "relatedCollocates": [
+          "upon completion of",
+          "pending completion",
+          "work towards completion"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "completion", "meaning": "sự hoàn thành" }],
+          "verb": [{ "form": "complete", "meaning": "hoàn thành" }],
+          "adjective": [{ "form": "complete", "meaning": "hoàn chỉnh" }],
+          "adverb": [
+            { "form": "completely", "meaning": "(một cách) hoàn toàn" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "With the completion of the new bridge, travel times have been significantly reduced."
+      }
+    },
+    {
+      "id": 53,
+      "targetLexeme": "statements agree with the information",
+      "sourceContext": "Do the following statements agree with the information given in Reading Passage 1?",
+      "phase1Inference": {
+        "contextualGuessVI": "'Statements' (Các phát biểu) 'agree with' (đồng ý với, trùng khớp với) 'the information' (thông tin)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsteɪtmənts əˈɡriː wɪð ði ˌɪnfəˈmeɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "When a sentence (the statement) says the same thing as the information in the text",
+        "translationVI": "Các phát biểu trùng khớp với thông tin (TRUE)",
+        "relatedCollocates": [
+          "agree with (a person/idea)",
+          "disagree with",
+          "in agreement with"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "statement", "meaning": "phát biểu" },
+            { "form": "agreement", "meaning": "sự đồng ý" },
+            { "form": "information", "meaning": "thông tin" }
+          ],
+          "verb": [
+            { "form": "state", "meaning": "phát biểu" },
+            { "form": "agree", "meaning": "đồng ý" },
+            { "form": "inform", "meaning": "thông báo" }
+          ],
+          "adjective": [{ "form": "informative", "meaning": "giàu thông tin" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "For this question type, you must decide if the statements agree with the information in the passage."
+      }
+    },
+    {
+      "id": 54,
+      "targetLexeme": "statement contradicts the information",
+      "sourceContext": "FALSE if the statement contradicts the information",
+      "phase1Inference": {
+        "contextualGuessVI": "Phát biểu 'contradicts' (mâu thuẫn với, trái ngược với) 'the information' (thông tin)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsteɪtmənt ˌkɒntrəˈdɪkts ði ˌɪnfəˈmeɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "When a sentence (the statement) says the opposite of the information in the text",
+        "translationVI": "Phát biểu mâu thuẫn với thông tin (FALSE)",
+        "relatedCollocates": [
+          "contradict (a finding)",
+          "a direct contradiction",
+          "contradictory (adj)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "contradiction", "meaning": "sự mâu thuẫn" }],
+          "verb": [{ "form": "contradict", "meaning": "mâu thuẫn" }],
+          "adjective": [
+            { "form": "contradictory", "meaning": "có tính mâu thuẫn" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "This new evidence contradicts the previous findings."
+      }
+    },
+    {
+      "id": 55,
+      "targetLexeme": "there is no information on this",
+      "sourceContext": "NOT GIVEN if there is no information on this",
+      "phase1Inference": {
+        "contextualGuessVI": "Không có 'information' (thông tin) 'on this' (về điều này)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðər ɪz nəʊ ˌɪnfəˈmeɪʃən ɒn ðɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "When the text does not mention the topic of the statement at all",
+        "translationVI": "Không có thông tin về điều này (NOT GIVEN)",
+        "relatedCollocates": [
+          "a lack of information",
+          "information on (a topic)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "information", "meaning": "thông tin" }],
+          "verb": [{ "form": "inform", "meaning": "thông báo" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I couldn't answer the question because there was no information on this in the report."
+      }
+    },
+    {
+      "id": 56,
+      "targetLexeme": "people than predicted",
+      "sourceContext": "More people than predicted travelled on the Metropolitan line on the first day.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhiều người 'than' (hơn) 'predicted' (đã dự đoán)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpiːpl ðæn prɪˈdɪktɪd/",
+        "sentiment": "neutral",
+        "definitionEN": "A greater number of people than was expected or forecasted",
+        "translationVI": "(Nhiều) người hơn (so với) dự đoán",
+        "relatedCollocates": [
+          "more than expected",
+          "as predicted",
+          "predict the outcome"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "prediction", "meaning": "sự dự đoán" },
+            { "form": "predictor", "meaning": "yếu tố dự đoán" }
+          ],
+          "verb": [{ "form": "predict", "meaning": "dự đoán" }],
+          "adjective": [
+            { "form": "predicted", "meaning": "được dự đoán" },
+            { "form": "predictable", "meaning": "có thể đoán trước" }
+          ],
+          "adverb": [
+            { "form": "predictably", "meaning": "(một cách) có thể đoán" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The event attracted far more people than predicted."
+      }
+    },
+    {
+      "id": 57,
+      "targetLexeme": "failed to prevent pollution",
+      "sourceContext": "The use of ventilation shafts failed to prevent pollution in the tunnels.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Failed to' (thất bại trong việc) 'prevent' (ngăn chặn) 'pollution' (sự ô nhiễm)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/feɪld tə prɪˈvent pəˈluːʃən/",
+        "sentiment": "negative",
+        "definitionEN": "Did not succeed in stopping pollution from happening",
+        "translationVI": "Thất bại trong việc ngăn chặn ô nhiễm",
+        "relatedCollocates": [
+          "fail to (do sth)",
+          "prevent (sth from happening)",
+          "air pollution",
+          "noise pollution"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "failure", "meaning": "sự thất bại" },
+            { "form": "prevention", "meaning": "sự ngăn chặn" },
+            { "form": "pollution", "meaning": "sự ô nhiễm" }
+          ],
+          "verb": [
+            { "form": "fail", "meaning": "thất bại" },
+            { "form": "prevent", "meaning": "ngăn chặn" },
+            { "form": "pollute", "meaning": "gây ô nhiễm" }
+          ],
+          "adjective": [
+            { "form": "preventive", "meaning": "có tính phòng ngừa" },
+            { "form": "polluted", "meaning": "bị ô nhiễm" }
+          ],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new filter failed to prevent pollution from the factory."
+      }
+    },
+    {
+      "id": 58,
+      "targetLexeme": "A different approach from",
+      "sourceContext": "A different approach from the 'cut and cover' technique was required...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'approach' (cách tiếp cận) 'different' (khác) 'from' (so với).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈdɪfrənt əˈprəʊtʃ frɒm/",
+        "sentiment": "neutral",
+        "definitionEN": "A method or way of doing something that is not the same as (another method)",
+        "translationVI": "Một cách tiếp cận khác với..",
+        "relatedCollocates": [
+          "a new approach to",
+          "a different method",
+          "take an approach"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "approach", "meaning": "cách tiếp cận" },
+            { "form": "difference", "meaning": "sự khác biệt" }
+          ],
+          "verb": [
+            { "form": "approach", "meaning": "tiếp cận" },
+            { "form": "differ", "meaning": "khác biệt" }
+          ],
+          "adjective": [{ "form": "different", "meaning": "khác biệt" }],
+          "adverb": [
+            { "form": "differently", "meaning": "(một cách) khác biệt" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We need to try a different approach from the one we used last time."
+      }
+    },
+    {
+      "id": 59,
+      "targetLexeme": "at eye level",
+      "sourceContext": "The windows on City & South London trains were at eye level.",
+      "phase1Inference": {
+        "contextualGuessVI": "Ở 'eye level' (tầm mắt)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/æt aɪ ˈlevl/",
+        "sentiment": "neutral",
+        "definitionEN": "At the same height as a person's eyes",
+        "translationVI": "Ở ngang tầm mắt",
+        "relatedCollocates": ["above/below eye level", "eye-level (adj)"],
+        "wordForms": {
+          "noun": [
+            { "form": "eye", "meaning": "mắt" },
+            { "form": "level", "meaning": "mức, tầm" }
+          ],
+          "verb": null,
+          "adjective": [{ "form": "eye-level", "meaning": "ngang tầm mắt" }],
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "For the best viewing experience, the painting should be hung at eye level."
+      }
+    },
+    {
+      "id": 60,
+      "targetLexeme": "was a financial success",
+      "sourceContext": "The City & South London Railway was a financial success.",
+      "phase1Inference": {
+        "contextualGuessVI": "Là một 'success' (thành công) 'financial' (về mặt tài chính)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wəz ə faɪˈnænʃəl səkˈses/",
+        "sentiment": "positive",
+        "definitionEN": "It made a profit; it was commercially successful",
+        "translationVI": "Là một thành công về mặt tài chính (tạo ra lợi nhuận)",
+        "relatedCollocates": [
+          "a great success",
+          "commercially successful",
+          "financial problems",
+          "make a profit"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "success", "meaning": "sự thành công" },
+            { "form": "finance", "meaning": "tài chính" }
+          ],
+          "verb": [
+            { "form": "succeed", "meaning": "thành công" },
+            { "form": "finance", "meaning": "cấp vốn" }
+          ],
+          "adjective": [
+            { "form": "successful", "meaning": "thành công" },
+            { "form": "financial", "meaning": "thuộc tài chính" }
+          ],
+          "adverb": [
+            { "form": "successfully", "meaning": "(một cách) thành công" },
+            { "form": "financially", "meaning": "(về mặt) tài chính" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "FEYNMAN_EXPLANATION",
+        "content": "This means the railway made more money than it cost. It's the opposite of 'did not make a profit'."
+      }
+    },
+    {
+      "id": 61,
+      "targetLexeme": "ran on time",
+      "sourceContext": "Trains on the 'Tuppenny Tube' nearly always ran on time.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Ran' (chạy) 'on time' (đúng giờ)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ræn ɒn taɪm/",
+        "sentiment": "positive",
+        "definitionEN": "To operate according to the schedule; to not be late",
+        "translationVI": "Chạy đúng giờ",
+        "relatedCollocates": ["arrive on time", "be late", "on schedule"],
+        "wordForms": {
+          "noun": [{ "form": "time", "meaning": "thời gian" }],
+          "verb": [{ "form": "run (past: ran)", "meaning": "chạy, vận hành" }],
+          "adjective": null,
+          "adverb": null
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It's important for the public transport system that buses and trains run on time."
+      }
+    }
+  ]
+}

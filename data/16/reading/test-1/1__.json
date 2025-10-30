@@ -4,7 +4,7 @@
   "totalItems": 75,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174008-0-0-1e97ed3b",
       "targetLexeme": "increasingly threatened",
       "sourceContext": "Polar bears are being increasingly threatened by the effects of climate change...",
       "phase1Inference": {
@@ -20,8 +20,20 @@
           "seriously (threatened)"
         ],
         "wordForms": {
-          "verb": [{ "form": "threaten", "meaning": "đe dọa" }],
-          "adverb": [{ "form": "increasingly", "meaning": "ngày càng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "threaten",
+              "meaning": "đe dọa"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "increasingly",
+              "meaning": "ngày càng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -30,7 +42,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174008-0-1-5036d664",
       "targetLexeme": "far-reaching consequences",
       "sourceContext": "...but their disappearance could have far-reaching consequences.",
       "phase1Inference": {
@@ -46,10 +58,20 @@
           "far-reaching (implications)"
         ],
         "wordForms": {
-          "noun": [{ "form": "consequence", "meaning": "hậu quả" }],
+          "noun": [
+            {
+              "form": "consequence",
+              "meaning": "hậu quả"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "far-reaching", "meaning": "ảnh hưởng sâu rộng" }
-          ]
+            {
+              "form": "far-reaching",
+              "meaning": "ảnh hưởng sâu rộng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -58,7 +80,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174008-0-2-5a712c8c",
       "targetLexeme": "uniquely adapted to",
       "sourceContext": "They are uniquely adapted to the extreme conditions of the Arctic Circle...",
       "phase1Inference": {
@@ -69,10 +91,25 @@
         "sentiment": "positive",
         "definitionEN": "To be specially suited in a way that is unlike anything else for a particular environment or situation",
         "translationVI": "Thích nghi một cách độc đáo với",
-        "relatedCollocates": ["well (adapted to)", "perfectly (adapted to)"],
+        "relatedCollocates": [
+          "well (adapted to)",
+          "perfectly (adapted to)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "adapt", "meaning": "thích nghi" }],
-          "adverb": [{ "form": "uniquely", "meaning": "một cách độc đáo" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "adapt",
+              "meaning": "thích nghi"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "uniquely",
+              "meaning": "một cách độc đáo"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -81,7 +118,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174008-0-3-1f244449",
       "targetLexeme": "adipose tissue",
       "sourceContext": "Humans with comparative levels of adipose tissue would be considered obese...",
       "phase1Inference": {
@@ -92,10 +129,25 @@
         "sentiment": "neutral",
         "definitionEN": "A technical term for body fat",
         "translationVI": "Mô mỡ",
-        "relatedCollocates": ["body fat (synonym)", "tissue (n)"],
+        "relatedCollocates": [
+          "body fat (synonym)",
+          "tissue (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "tissue", "meaning": "mô" }],
-          "adjective": [{ "form": "adipose", "meaning": "béo, mỡ" }]
+          "noun": [
+            {
+              "form": "tissue",
+              "meaning": "mô"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "adipose",
+              "meaning": "béo, mỡ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -104,7 +156,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174008-0-4-63b379ad",
       "targetLexeme": "considered obese",
       "sourceContext": "...would be considered obese and would be likely to suffer from diabetes...",
       "phase1Inference": {
@@ -115,10 +167,25 @@
         "sentiment": "negative",
         "definitionEN": "To be regarded as grossly fat or overweight",
         "translationVI": "Được coi là béo phì",
-        "relatedCollocates": ["clinically (obese)", "obesity (n)"],
+        "relatedCollocates": [
+          "clinically (obese)",
+          "obesity (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "obesity", "meaning": "bệnh béo phì" }],
-          "adjective": [{ "form": "obese", "meaning": "béo phì" }]
+          "noun": [
+            {
+              "form": "obesity",
+              "meaning": "bệnh béo phì"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "obese",
+              "meaning": "béo phì"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -127,7 +194,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174008-0-5-580bbb25",
       "targetLexeme": "sheds light on this mystery",
       "sourceContext": "A 2014 study by Shi Ping Liu and colleagues sheds light on this mystery.",
       "phase1Inference": {
@@ -138,9 +205,20 @@
         "sentiment": "positive",
         "definitionEN": "To help explain or provide new information about something that is difficult to understand",
         "translationVI": "Làm sáng tỏ bí ẩn này",
-        "relatedCollocates": ["shed light on (a problem)", "clarify (synonym)"],
+        "relatedCollocates": [
+          "shed light on (a problem)",
+          "clarify (synonym)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "shed light on", "meaning": "làm sáng tỏ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "shed light on",
+              "meaning": "làm sáng tỏ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -149,7 +227,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174008-0-6-0bda5255",
       "targetLexeme": "genetic structure",
       "sourceContext": "They compared the genetic structure of polar bears with that of their closest relatives...",
       "phase1Inference": {
@@ -160,10 +238,25 @@
         "sentiment": "neutral",
         "definitionEN": "The arrangement and composition of genes in an organism",
         "translationVI": "Cấu trúc di truyền",
-        "relatedCollocates": ["genetic (makeup)", "DNA (structure)"],
+        "relatedCollocates": [
+          "genetic (makeup)",
+          "DNA (structure)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "structure", "meaning": "cấu trúc" }],
-          "adjective": [{ "form": "genetic", "meaning": "thuộc di truyền" }]
+          "noun": [
+            {
+              "form": "structure",
+              "meaning": "cấu trúc"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "genetic",
+              "meaning": "thuộc di truyền"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -172,7 +265,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174008-0-7-02209e75",
       "targetLexeme": "mutations of this gene",
       "sourceContext": "In humans, mutations of this gene are associated with increased risk of heart disease.",
       "phase1Inference": {
@@ -183,12 +276,24 @@
         "sentiment": "neutral",
         "definitionEN": "Changes in the genetic sequence of a gene",
         "translationVI": "Các đột biến của gen này",
-        "relatedCollocates": ["gene (mutation)", "genetic (mutation)"],
+        "relatedCollocates": [
+          "gene (mutation)",
+          "genetic (mutation)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "mutation", "meaning": "sự đột biến" },
-            { "form": "gene", "meaning": "gen" }
-          ]
+            {
+              "form": "mutation",
+              "meaning": "sự đột biến"
+            },
+            {
+              "form": "gene",
+              "meaning": "gen"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -197,7 +302,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174008-0-8-7dbffc29",
       "targetLexeme": "increased risk of heart disease",
       "sourceContext": "...are associated with increased risk of heart disease.",
       "phase1Inference": {
@@ -208,12 +313,24 @@
         "sentiment": "negative",
         "definitionEN": "A higher probability of developing heart-related medical problems",
         "translationVI": "Nguy cơ mắc bệnh tim tăng cao",
-        "relatedCollocates": ["a high (risk)", "risk factor (n)"],
+        "relatedCollocates": [
+          "a high (risk)",
+          "risk factor (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "risk", "meaning": "nguy cơ" },
-            { "form": "heart disease", "meaning": "bệnh tim" }
-          ]
+            {
+              "form": "risk",
+              "meaning": "nguy cơ"
+            },
+            {
+              "form": "heart disease",
+              "meaning": "bệnh tim"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -222,7 +339,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174008-0-9-1e23ae2e",
       "targetLexeme": "osteoporosis",
       "sourceContext": "...affects our older generation: osteoporosis.",
       "phase1Inference": {
@@ -233,9 +350,20 @@
         "sentiment": "negative",
         "definitionEN": "A medical condition in which the bones become brittle and fragile from loss of tissue",
         "translationVI": "Bệnh loãng xương",
-        "relatedCollocates": ["bone density (n)", "brittle bones"],
+        "relatedCollocates": [
+          "bone density (n)",
+          "brittle bones"
+        ],
         "wordForms": {
-          "noun": [{ "form": "osteoporosis", "meaning": "bệnh loãng xương" }]
+          "noun": [
+            {
+              "form": "osteoporosis",
+              "meaning": "bệnh loãng xương"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -244,7 +372,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174008-0-10-6d541011",
       "targetLexeme": "insufficient exercise",
       "sourceContext": "...usually caused by insufficient exercise, reduced calcium intake or food starvation.",
       "phase1Inference": {
@@ -255,10 +383,25 @@
         "sentiment": "negative",
         "definitionEN": "Not enough physical activity",
         "translationVI": "Vận động không đủ",
-        "relatedCollocates": ["lack of (exercise)", "sufficient (exercise)"],
+        "relatedCollocates": [
+          "lack of (exercise)",
+          "sufficient (exercise)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "exercise", "meaning": "sự tập thể dục" }],
-          "adjective": [{ "form": "insufficient", "meaning": "không đủ" }]
+          "noun": [
+            {
+              "form": "exercise",
+              "meaning": "sự tập thể dục"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "insufficient",
+              "meaning": "không đủ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -267,7 +410,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174008-0-11-32911e0d",
       "targetLexeme": "reduced calcium intake",
       "sourceContext": "...reduced calcium intake or food starvation.",
       "phase1Inference": {
@@ -278,12 +421,24 @@
         "sentiment": "negative",
         "definitionEN": "A lower than recommended consumption of calcium",
         "translationVI": "Lượng canxi hấp thụ giảm",
-        "relatedCollocates": ["calcium (supplement)", "dietary (intake)"],
+        "relatedCollocates": [
+          "calcium (supplement)",
+          "dietary (intake)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "calcium", "meaning": "canxi" },
-            { "form": "intake", "meaning": "lượng hấp thụ" }
-          ]
+            {
+              "form": "calcium",
+              "meaning": "canxi"
+            },
+            {
+              "form": "intake",
+              "meaning": "lượng hấp thụ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -292,7 +447,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174008-0-12-3f1236af",
       "targetLexeme": "Bone tissue is constantly being remodelled",
       "sourceContext": "Bone tissue is constantly being remodelled, meaning that bone is added or removed...",
       "phase1Inference": {
@@ -303,9 +458,20 @@
         "sentiment": "neutral",
         "definitionEN": "The living tissue of bones is continuously being broken down and rebuilt",
         "translationVI": "Mô xương liên tục được tái tạo",
-        "relatedCollocates": ["bone (remodelling)", "constantly (changing)"],
+        "relatedCollocates": [
+          "bone (remodelling)",
+          "constantly (changing)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "remodel", "meaning": "tái tạo, tu sửa" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "remodel",
+              "meaning": "tái tạo, tu sửa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -314,7 +480,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174008-0-13-784a8346",
       "targetLexeme": "nutrient availability",
       "sourceContext": "...depending on nutrient availability and the stress that the bone is under.",
       "phase1Inference": {
@@ -325,12 +491,24 @@
         "sentiment": "neutral",
         "definitionEN": "The extent to which nutrients are present and accessible for use by an organism",
         "translationVI": "Sự sẵn có của chất dinh dưỡng",
-        "relatedCollocates": ["nutrient (deficiency)", "food (availability)"],
+        "relatedCollocates": [
+          "nutrient (deficiency)",
+          "food (availability)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "nutrient", "meaning": "chất dinh dưỡng" },
-            { "form": "availability", "meaning": "sự sẵn có" }
-          ]
+            {
+              "form": "nutrient",
+              "meaning": "chất dinh dưỡng"
+            },
+            {
+              "form": "availability",
+              "meaning": "sự sẵn có"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -339,7 +517,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174008-0-14-152117a8",
       "targetLexeme": "undergo extreme conditions",
       "sourceContext": "Female polar bears, however, undergo extreme conditions during every pregnancy.",
       "phase1Inference": {
@@ -355,7 +533,15 @@
           "undergo (surgery)"
         ],
         "wordForms": {
-          "verb": [{ "form": "undergo", "meaning": "trải qua" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "undergo",
+              "meaning": "trải qua"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -364,7 +550,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174008-0-15-36682fa2",
       "targetLexeme": "maternity dens",
       "sourceContext": "...these females will dig maternity dens in the snow...",
       "phase1Inference": {
@@ -375,12 +561,24 @@
         "sentiment": "neutral",
         "definitionEN": "Shelters, usually dug in snow or earth, where a female animal gives birth and raises her young",
         "translationVI": "Hang sinh sản",
-        "relatedCollocates": ["dig (a den)", "maternity (leave)"],
+        "relatedCollocates": [
+          "dig (a den)",
+          "maternity (leave)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "maternity", "meaning": "thai sản" },
-            { "form": "den", "meaning": "hang" }
-          ]
+            {
+              "form": "maternity",
+              "meaning": "thai sản"
+            },
+            {
+              "form": "den",
+              "meaning": "hang"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -389,7 +587,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174008-0-16-1300cdf9",
       "targetLexeme": "months of fasting",
       "sourceContext": "This process results in about six months of fasting...",
       "phase1Inference": {
@@ -400,10 +598,25 @@
         "sentiment": "negative",
         "definitionEN": "A period of many months of abstaining from all or some kinds of food or drink",
         "translationVI": "Nhiều tháng nhịn ăn",
-        "relatedCollocates": ["fast (v)", "a period of (fasting)"],
+        "relatedCollocates": [
+          "fast (v)",
+          "a period of (fasting)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "fast", "meaning": "sự nhịn ăn" }],
-          "verb": [{ "form": "fast", "meaning": "nhịn ăn" }]
+          "noun": [
+            {
+              "form": "fast",
+              "meaning": "sự nhịn ăn"
+            }
+          ],
+          "verb": [
+            {
+              "form": "fast",
+              "meaning": "nhịn ăn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -412,7 +625,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174008-0-17-387ff065",
       "targetLexeme": "depleting their own calcium and calorie reserves",
       "sourceContext": "...depleting their own calcium and calorie reserves.",
       "phase1Inference": {
@@ -423,10 +636,25 @@
         "sentiment": "negative",
         "definitionEN": "Using up or exhausting one's own supply of calcium and energy",
         "translationVI": "Làm cạn kiệt dự trữ canxi và calo của chính mình",
-        "relatedCollocates": ["deplete (resources)", "energy (reserves)"],
+        "relatedCollocates": [
+          "deplete (resources)",
+          "energy (reserves)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "deplete", "meaning": "làm cạn kiệt" }],
-          "noun": [{ "form": "depletion", "meaning": "sự cạn kiệt" }]
+          "noun": [
+            {
+              "form": "depletion",
+              "meaning": "sự cạn kiệt"
+            }
+          ],
+          "verb": [
+            {
+              "form": "deplete",
+              "meaning": "làm cạn kiệt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -435,7 +663,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174008-0-18-43a1b84b",
       "targetLexeme": "remain strong and dense",
       "sourceContext": "Despite this, their bones remain strong and dense.",
       "phase1Inference": {
@@ -446,13 +674,29 @@
         "sentiment": "positive",
         "definitionEN": "To continue to be solid, thick, and not easily broken",
         "translationVI": "Vẫn chắc và đặc",
-        "relatedCollocates": ["bone density (n)", "remain (unchanged)"],
+        "relatedCollocates": [
+          "bone density (n)",
+          "remain (unchanged)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "remain", "meaning": "vẫn" }],
+          "noun": [],
+          "verb": [
+            {
+              "form": "remain",
+              "meaning": "vẫn"
+            }
+          ],
           "adjective": [
-            { "form": "strong", "meaning": "mạnh" },
-            { "form": "dense", "meaning": "dày đặc" }
-          ]
+            {
+              "form": "strong",
+              "meaning": "mạnh"
+            },
+            {
+              "form": "dense",
+              "meaning": "dày đặc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -461,7 +705,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174008-0-19-61553bb8",
       "targetLexeme": "found an explanation for this paradox",
       "sourceContext": "Physiologists Alanda Lennox and Allen Goodship found an explanation for this paradox in 2008.",
       "phase1Inference": {
@@ -478,9 +722,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "explanation", "meaning": "lời giải thích" },
-            { "form": "paradox", "meaning": "nghịch lý" }
-          ]
+            {
+              "form": "explanation",
+              "meaning": "lời giải thích"
+            },
+            {
+              "form": "paradox",
+              "meaning": "nghịch lý"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -489,7 +742,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174008-0-20-74284a4c",
       "targetLexeme": "increase the density of their bones",
       "sourceContext": "...pregnant bears were able to increase the density of their bones before they started to build their dens.",
       "phase1Inference": {
@@ -500,10 +753,25 @@
         "sentiment": "positive",
         "definitionEN": "To make the bones more compact and solid",
         "translationVI": "Tăng mật độ xương",
-        "relatedCollocates": ["bone density (n)", "increase (v)"],
+        "relatedCollocates": [
+          "bone density (n)",
+          "increase (v)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "increase", "meaning": "tăng" }],
-          "noun": [{ "form": "density", "meaning": "mật độ" }]
+          "noun": [
+            {
+              "form": "density",
+              "meaning": "mật độ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "increase",
+              "meaning": "tăng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -512,7 +780,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174008-0-21-64579dfa",
       "targetLexeme": "significant loss of bone density",
       "sourceContext": "...there was no evidence of significant loss of bone density.",
       "phase1Inference": {
@@ -523,10 +791,25 @@
         "sentiment": "positive",
         "definitionEN": "A substantial or noteworthy decrease in the compactness of bone tissue",
         "translationVI": "Sự mất mật độ xương đáng kể",
-        "relatedCollocates": ["bone density (n)", "significant (decrease)"],
+        "relatedCollocates": [
+          "bone density (n)",
+          "significant (decrease)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "loss", "meaning": "sự mất mát" }],
-          "adjective": [{ "form": "significant", "meaning": "đáng kể" }]
+          "noun": [
+            {
+              "form": "loss",
+              "meaning": "sự mất mát"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "significant",
+              "meaning": "đáng kể"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -535,7 +818,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174008-0-22-0d924e15",
       "targetLexeme": "resort to major bone reformation",
       "sourceContext": "Hibernating brown bears do not have this capacity and must therefore resort to major bone reformation in the following spring.",
       "phase1Inference": {
@@ -551,7 +834,15 @@
           "bone (reformation)"
         ],
         "wordForms": {
-          "verb": [{ "form": "resort to", "meaning": "dùng đến" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "resort to",
+              "meaning": "dùng đến"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -560,7 +851,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174008-0-23-7aea23df",
       "targetLexeme": "bedridden humans",
       "sourceContext": "...many bedridden humans, and even astronauts, could potentially benefit.",
       "phase1Inference": {
@@ -571,9 +862,20 @@
         "sentiment": "negative",
         "definitionEN": "People who are confined to bed because of illness or injury",
         "translationVI": "Người nằm liệt giường",
-        "relatedCollocates": ["bedridden (patient)", "confined to bed"],
+        "relatedCollocates": [
+          "bedridden (patient)",
+          "confined to bed"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "bedridden", "meaning": "nằm liệt giường" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "bedridden",
+              "meaning": "nằm liệt giường"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -582,7 +884,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174008-0-24-51c703c2",
       "targetLexeme": "taken into consideration",
       "sourceContext": "...these should not be the only factors taken into consideration.",
       "phase1Inference": {
@@ -593,9 +895,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be thought about carefully when making a decision or judgment",
         "translationVI": "Được xem xét, được cân nhắc",
-        "relatedCollocates": ["take (into account)", "consider (v)"],
+        "relatedCollocates": [
+          "take (into account)",
+          "consider (v)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "take into consideration", "meaning": "xem xét" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "take into consideration",
+              "meaning": "xem xét"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -604,7 +917,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174008-0-25-398e252d",
       "targetLexeme": "possess emotions",
       "sourceContext": "...we think are intelligent and possess emotions, such as elephants and primates.",
       "phase1Inference": {
@@ -615,10 +928,25 @@
         "sentiment": "neutral",
         "definitionEN": "To have or own feelings, such as happiness, sadness, or fear",
         "translationVI": "Sở hữu/có cảm xúc",
-        "relatedCollocates": ["show (emotions)", "have (emotions)"],
+        "relatedCollocates": [
+          "show (emotions)",
+          "have (emotions)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "possess", "meaning": "sở hữu" }],
-          "noun": [{ "form": "emotion", "meaning": "cảm xúc" }]
+          "noun": [
+            {
+              "form": "emotion",
+              "meaning": "cảm xúc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "possess",
+              "meaning": "sở hữu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -627,7 +955,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174008-0-26-1e0fea4e",
       "targetLexeme": "perceived as stupid",
       "sourceContext": "Bears, on the other hand, seem to be perceived as stupid and in many cases violent.",
       "phase1Inference": {
@@ -638,10 +966,25 @@
         "sentiment": "negative",
         "definitionEN": "To be regarded or understood in a particular way, in this case as being unintelligent",
         "translationVI": "Bị cho là/nhìn nhận là ngu ngốc",
-        "relatedCollocates": ["perceive (as)", "seen (as)"],
+        "relatedCollocates": [
+          "perceive (as)",
+          "seen (as)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "perceive", "meaning": "nhìn nhận" }],
-          "noun": [{ "form": "perception", "meaning": "sự nhận thức" }]
+          "noun": [
+            {
+              "form": "perception",
+              "meaning": "sự nhận thức"
+            }
+          ],
+          "verb": [
+            {
+              "form": "perceive",
+              "meaning": "nhìn nhận"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -650,7 +993,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174008-0-27-3da04cbf",
       "targetLexeme": "anecdotal evidence",
       "sourceContext": "And yet anecdotal evidence from the field challenges those assumptions...",
       "phase1Inference": {
@@ -661,9 +1004,20 @@
         "sentiment": "neutral",
         "definitionEN": "Evidence in the form of personal stories or isolated examples, rather than systematic scientific data",
         "translationVI": "Bằng chứng giai thoại/truyền miệng",
-        "relatedCollocates": ["scientific (evidence)", "anecdote (n)"],
+        "relatedCollocates": [
+          "scientific (evidence)",
+          "anecdote (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "anecdote", "meaning": "giai thoại" }]
+          "noun": [
+            {
+              "form": "anecdote",
+              "meaning": "giai thoại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -672,7 +1026,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174008-0-28-637410ba",
       "targetLexeme": "challenges those assumptions",
       "sourceContext": "...anecdotal evidence from the field challenges those assumptions...",
       "phase1Inference": {
@@ -688,8 +1042,20 @@
           "question (an assumption)"
         ],
         "wordForms": {
-          "verb": [{ "form": "challenge", "meaning": "thách thức" }],
-          "noun": [{ "form": "assumption", "meaning": "giả định" }]
+          "noun": [
+            {
+              "form": "assumption",
+              "meaning": "giả định"
+            }
+          ],
+          "verb": [
+            {
+              "form": "challenge",
+              "meaning": "thách thức"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -698,7 +1064,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174008-0-29-3b6f814a",
       "targetLexeme": "problem-solving abilities",
       "sourceContext": "...suggesting for example that polar bears have good problem-solving abilities.",
       "phase1Inference": {
@@ -709,9 +1075,20 @@
         "sentiment": "positive",
         "definitionEN": "The capacity to find solutions to difficult or complex issues",
         "translationVI": "Khả năng giải quyết vấn đề",
-        "relatedCollocates": ["solve (a problem)", "cognitive (abilities)"],
+        "relatedCollocates": [
+          "solve (a problem)",
+          "cognitive (abilities)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "ability", "meaning": "khả năng" }]
+          "noun": [
+            {
+              "form": "ability",
+              "meaning": "khả năng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -720,7 +1097,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174008-0-30-568d4b87",
       "targetLexeme": "manipulate his environment",
       "sourceContext": "...observed making use of a tool to manipulate his environment.",
       "phase1Inference": {
@@ -731,10 +1108,25 @@
         "sentiment": "neutral",
         "definitionEN": "To handle or control one's surroundings in a skillful manner",
         "translationVI": "Điều khiển/thao túng môi trường của mình",
-        "relatedCollocates": ["manipulate (a tool)", "manipulation (n)"],
+        "relatedCollocates": [
+          "manipulate (a tool)",
+          "manipulation (n)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "manipulate", "meaning": "thao túng" }],
-          "noun": [{ "form": "manipulation", "meaning": "sự thao túng" }]
+          "noun": [
+            {
+              "form": "manipulation",
+              "meaning": "sự thao túng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "manipulate",
+              "meaning": "thao túng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -743,7 +1135,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174009-0-31-6b1cf323",
       "targetLexeme": "dislodge a piece of meat",
       "sourceContext": "...on multiple occasions to dislodge a piece of meat hung out of his reach.",
       "phase1Inference": {
@@ -754,9 +1146,20 @@
         "sentiment": "neutral",
         "definitionEN": "To knock or force something out of its position",
         "translationVI": "Làm bật ra/lấy ra một miếng thịt",
-        "relatedCollocates": ["dislodge (a stone)", "remove (synonym)"],
+        "relatedCollocates": [
+          "dislodge (a stone)",
+          "remove (synonym)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "dislodge", "meaning": "làm bật ra" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "dislodge",
+              "meaning": "làm bật ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -765,7 +1168,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174009-0-32-226b6215",
       "targetLexeme": "A calculated move",
       "sourceContext": "A calculated move by a male bear involved running and jumping onto barrels...",
       "phase1Inference": {
@@ -776,9 +1179,20 @@
         "sentiment": "neutral",
         "definitionEN": "An action that is planned and considered in advance",
         "translationVI": "Một hành động có tính toán",
-        "relatedCollocates": ["a deliberate (move)", "calculated (risk)"],
+        "relatedCollocates": [
+          "a deliberate (move)",
+          "calculated (risk)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "calculate", "meaning": "tính toán" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "calculate",
+              "meaning": "tính toán"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -787,7 +1201,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174009-0-33-18a967bc",
       "targetLexeme": "deliberate and focussed manipulation",
       "sourceContext": "...polar bears showed deliberate and focussed manipulation.",
       "phase1Inference": {
@@ -798,13 +1212,29 @@
         "sentiment": "positive",
         "definitionEN": "Skillful handling or control that is intentional and concentrated",
         "translationVI": "Sự điều khiển có chủ ý và tập trung",
-        "relatedCollocates": ["deliberate (action)", "focussed (attention)"],
+        "relatedCollocates": [
+          "deliberate (action)",
+          "focussed (attention)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "manipulation", "meaning": "sự điều khiển" }],
+          "noun": [
+            {
+              "form": "manipulation",
+              "meaning": "sự điều khiển"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "deliberate", "meaning": "có chủ ý" },
-            { "form": "focussed", "meaning": "tập trung" }
-          ]
+            {
+              "form": "deliberate",
+              "meaning": "có chủ ý"
+            },
+            {
+              "form": "focussed",
+              "meaning": "tập trung"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -813,7 +1243,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174009-0-34-00522efc",
       "targetLexeme": "capable of agile and thought-out behaviours",
       "sourceContext": "These examples suggest that bears are capable of agile and thought-out behaviours.",
       "phase1Inference": {
@@ -824,12 +1254,24 @@
         "sentiment": "positive",
         "definitionEN": "Having the ability to perform actions that are quick, nimble, and well-planned",
         "translationVI": "Có khả năng có những hành vi nhanh nhẹn và có suy tính",
-        "relatedCollocates": ["agile (movements)", "well-thought-out (plan)"],
+        "relatedCollocates": [
+          "agile (movements)",
+          "well-thought-out (plan)"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "capable", "meaning": "có khả năng" },
-            { "form": "agile", "meaning": "nhanh nhẹn" }
-          ]
+            {
+              "form": "capable",
+              "meaning": "có khả năng"
+            },
+            {
+              "form": "agile",
+              "meaning": "nhanh nhẹn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -838,7 +1280,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174009-0-35-48e22ebd",
       "targetLexeme": "greater creativity",
       "sourceContext": "...bears have greater creativity and problem-solving abilities than previously thought.",
       "phase1Inference": {
@@ -849,9 +1291,20 @@
         "sentiment": "positive",
         "definitionEN": "A higher level of imagination or original ideas",
         "translationVI": "Sức sáng tạo lớn hơn",
-        "relatedCollocates": ["show (creativity)", "creative (thinking)"],
+        "relatedCollocates": [
+          "show (creativity)",
+          "creative (thinking)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "creativity", "meaning": "sự sáng tạo" }]
+          "noun": [
+            {
+              "form": "creativity",
+              "meaning": "sự sáng tạo"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -860,7 +1313,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174009-0-36-166d6472",
       "targetLexeme": "seemingly out of frustration",
       "sourceContext": "...hitting out at ice and snow – seemingly out of frustration – when they have just missed out on a kill.",
       "phase1Inference": {
@@ -871,10 +1324,25 @@
         "sentiment": "negative",
         "definitionEN": "Appearing to be because of a feeling of annoyance or upset when unable to do something",
         "translationVI": "Dường như vì thất vọng",
-        "relatedCollocates": ["a sign of (frustration)", "out of (anger)"],
+        "relatedCollocates": [
+          "a sign of (frustration)",
+          "out of (anger)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "frustration", "meaning": "sự thất vọng" }],
-          "adverb": [{ "form": "seemingly", "meaning": "dường như" }]
+          "noun": [
+            {
+              "form": "frustration",
+              "meaning": "sự thất vọng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "seemingly",
+              "meaning": "dường như"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -883,7 +1351,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174009-0-37-666b91a3",
       "targetLexeme": "missed out on a kill",
       "sourceContext": "...when they have just missed out on a kill.",
       "phase1Inference": {
@@ -899,7 +1367,15 @@
           "a successful (kill)"
         ],
         "wordForms": {
-          "verb": [{ "form": "miss out on", "meaning": "bỏ lỡ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "miss out on",
+              "meaning": "bỏ lỡ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -908,7 +1384,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174009-0-38-641018ea",
       "targetLexeme": "form unusual relationships",
       "sourceContext": "Moreover, polar bears can form unusual relationships with other species...",
       "phase1Inference": {
@@ -919,9 +1395,20 @@
         "sentiment": "neutral",
         "definitionEN": "To develop connections or bonds that are not common or expected",
         "translationVI": "Hình thành những mối quan hệ bất thường",
-        "relatedCollocates": ["form (a bond)", "an unusual (friendship)"],
+        "relatedCollocates": [
+          "form (a bond)",
+          "an unusual (friendship)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "form", "meaning": "hình thành" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "form",
+              "meaning": "hình thành"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -930,7 +1417,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174009-0-39-08ff5268",
       "targetLexeme": "hand-raised polar bear",
       "sourceContext": "Remarkably, one hand-raised polar bear called Agee has formed a close relationship with her owner...",
       "phase1Inference": {
@@ -941,11 +1428,20 @@
         "sentiment": "neutral",
         "definitionEN": "A polar bear that has been cared for and fed by humans from a very young age, instead of by its mother",
         "translationVI": "Gấu Bắc Cực được nuôi bằng tay",
-        "relatedCollocates": ["raise (an animal)", "raised in captivity"],
+        "relatedCollocates": [
+          "raise (an animal)",
+          "raised in captivity"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "hand-raised", "meaning": "được nuôi bằng tay" }
-          ]
+            {
+              "form": "hand-raised",
+              "meaning": "được nuôi bằng tay"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -954,7 +1450,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174009-0-40-476a6d02",
       "targetLexeme": "actively hunt humans",
       "sourceContext": "...since polar bears are known to actively hunt humans in the wild.",
       "phase1Inference": {
@@ -965,10 +1461,25 @@
         "sentiment": "negative",
         "definitionEN": "To deliberately and energetically pursue people in order to catch or kill them",
         "translationVI": "Chủ động săn người",
-        "relatedCollocates": ["actively (seek)", "hunt (prey)"],
+        "relatedCollocates": [
+          "actively (seek)",
+          "hunt (prey)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "hunt", "meaning": "săn" }],
-          "adverb": [{ "form": "actively", "meaning": "một cách chủ động" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "hunt",
+              "meaning": "săn"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "actively",
+              "meaning": "một cách chủ động"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -977,7 +1488,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174009-0-41-1d91f8cc",
       "targetLexeme": "potential breakthroughs in human medicine",
       "sourceContext": "...this would mean not only the loss of potential breakthroughs in human medicine...",
       "phase1Inference": {
@@ -993,7 +1504,15 @@
           "medical (breakthrough)"
         ],
         "wordForms": {
-          "noun": [{ "form": "breakthrough", "meaning": "sự đột phá" }]
+          "noun": [
+            {
+              "form": "breakthrough",
+              "meaning": "sự đột phá"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1002,7 +1521,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174009-0-42-62da067b",
       "targetLexeme": "majestic animal",
       "sourceContext": "...the disappearance of an intelligent, majestic animal.",
       "phase1Inference": {
@@ -1013,10 +1532,25 @@
         "sentiment": "positive",
         "definitionEN": "An animal that is beautiful, powerful, or causing great admiration and respect",
         "translationVI": "Loài động vật hùng vĩ",
-        "relatedCollocates": ["majestic (creature)", "awe-inspiring (synonym)"],
+        "relatedCollocates": [
+          "majestic (creature)",
+          "awe-inspiring (synonym)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "animal", "meaning": "động vật" }],
-          "adjective": [{ "form": "majestic", "meaning": "hùng vĩ" }]
+          "noun": [
+            {
+              "form": "animal",
+              "meaning": "động vật"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "majestic",
+              "meaning": "hùng vĩ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1025,7 +1559,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174009-0-43-521151d8",
       "targetLexeme": "closest relatives",
       "sourceContext": "...their closest relatives from a warmer climate, the brown bears.",
       "phase1Inference": {
@@ -1036,9 +1570,20 @@
         "sentiment": "neutral",
         "definitionEN": "The species that is most nearly related through a common ancestor",
         "translationVI": "Họ hàng gần nhất",
-        "relatedCollocates": ["distant (relatives)", "common (ancestor)"],
+        "relatedCollocates": [
+          "distant (relatives)",
+          "common (ancestor)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "relative", "meaning": "họ hàng" }]
+          "noun": [
+            {
+              "form": "relative",
+              "meaning": "họ hàng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1047,7 +1592,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174009-0-44-2aec6aab",
       "targetLexeme": "toughest environments",
       "sourceContext": "...allowed polar bears to survive in one of the toughest environments on Earth.",
       "phase1Inference": {
@@ -1058,9 +1603,20 @@
         "sentiment": "negative",
         "definitionEN": "The most difficult or harsh places to live",
         "translationVI": "Những môi trường khắc nghiệt nhất",
-        "relatedCollocates": ["harsh (environments)", "extreme (conditions)"],
+        "relatedCollocates": [
+          "harsh (environments)",
+          "extreme (conditions)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "tough", "meaning": "khó khăn, khắc nghiệt" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "tough",
+              "meaning": "khó khăn, khắc nghiệt"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1069,7 +1625,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174009-0-45-6fdec993",
       "targetLexeme": "hibernating (adj)",
       "sourceContext": "Hibernating brown bears do not have this capacity...",
       "phase1Inference": {
@@ -1080,10 +1636,25 @@
         "sentiment": "neutral",
         "definitionEN": "Spending the winter in a dormant state",
         "translationVI": "Đang ngủ đông",
-        "relatedCollocates": ["hibernate (v)", "hibernation (n)"],
+        "relatedCollocates": [
+          "hibernate (v)",
+          "hibernation (n)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "hibernate", "meaning": "ngủ đông" }],
-          "noun": [{ "form": "hibernation", "meaning": "sự ngủ đông" }]
+          "noun": [
+            {
+              "form": "hibernation",
+              "meaning": "sự ngủ đông"
+            }
+          ],
+          "verb": [
+            {
+              "form": "hibernate",
+              "meaning": "ngủ đông"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1092,7 +1663,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174009-0-46-0ce42774",
       "targetLexeme": "primates (n)",
       "sourceContext": "...such as elephants and primates.",
       "phase1Inference": {
@@ -1103,9 +1674,20 @@
         "sentiment": "neutral",
         "definitionEN": "A group of mammals that includes monkeys, apes, and humans",
         "translationVI": "Động vật linh trưởng",
-        "relatedCollocates": ["apes", "monkeys"],
+        "relatedCollocates": [
+          "apes",
+          "monkeys"
+        ],
         "wordForms": {
-          "noun": [{ "form": "primate", "meaning": "linh trưởng" }]
+          "noun": [
+            {
+              "form": "primate",
+              "meaning": "linh trưởng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1114,7 +1696,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174009-0-47-4287864f",
       "targetLexeme": "on multiple occasions",
       "sourceContext": "...has even been observed on multiple occasions to dislodge a piece of meat...",
       "phase1Inference": {
@@ -1125,9 +1707,20 @@
         "sentiment": "neutral",
         "definitionEN": "On several different instances; many times",
         "translationVI": "Trong nhiều dịp, nhiều lần",
-        "relatedCollocates": ["on (several) occasions", "many times"],
+        "relatedCollocates": [
+          "on (several) occasions",
+          "many times"
+        ],
         "wordForms": {
-          "noun": [{ "form": "occasion", "meaning": "dịp" }]
+          "noun": [
+            {
+              "form": "occasion",
+              "meaning": "dịp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1136,7 +1729,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174009-0-48-7ebd9b84",
       "targetLexeme": "out of his reach",
       "sourceContext": "...a piece of meat hung out of his reach.",
       "phase1Inference": {
@@ -1147,9 +1740,20 @@
         "sentiment": "neutral",
         "definitionEN": "In a position where one cannot get to or touch something",
         "translationVI": "Ngoài tầm với của anh ấy/nó",
-        "relatedCollocates": ["within (reach)", "beyond (reach)"],
+        "relatedCollocates": [
+          "within (reach)",
+          "beyond (reach)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "reach", "meaning": "tầm với" }]
+          "noun": [
+            {
+              "form": "reach",
+              "meaning": "tầm với"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1158,7 +1762,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174009-0-49-2774aad8",
       "targetLexeme": "jumping onto barrels",
       "sourceContext": "...involved running and jumping onto barrels in an attempt to get to a photographer...",
       "phase1Inference": {
@@ -1169,9 +1773,20 @@
         "sentiment": "neutral",
         "definitionEN": "To leap on top of large, cylindrical containers",
         "translationVI": "Nhảy lên các thùng phuy",
-        "relatedCollocates": ["jump (onto)", "barrel (n)"],
+        "relatedCollocates": [
+          "jump (onto)",
+          "barrel (n)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "jump", "meaning": "nhảy" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "jump",
+              "meaning": "nhảy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1180,7 +1795,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174009-0-50-06fc0b46",
       "targetLexeme": "in what appeared to be a game",
       "sourceContext": "...knocking them over in what appeared to be a game.",
       "phase1Inference": {
@@ -1191,9 +1806,20 @@
         "sentiment": "neutral",
         "definitionEN": "In a way that looked like it was a form of play or amusement",
         "translationVI": "Trong một hành động dường như là một trò chơi",
-        "relatedCollocates": ["appear to be", "seemingly (a game)"],
+        "relatedCollocates": [
+          "appear to be",
+          "seemingly (a game)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "appear", "meaning": "dường như" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "appear",
+              "meaning": "dường như"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1202,7 +1828,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174009-0-51-285657a4",
       "targetLexeme": "playing with the dogs",
       "sourceContext": "...including playing with the dogs used to pull sleds in the Arctic.",
       "phase1Inference": {
@@ -1213,9 +1839,20 @@
         "sentiment": "positive",
         "definitionEN": "To engage in activity for enjoyment and recreation with dogs",
         "translationVI": "Chơi với những con chó",
-        "relatedCollocates": ["play (with)", "sled dogs"],
+        "relatedCollocates": [
+          "play (with)",
+          "sled dogs"
+        ],
         "wordForms": {
-          "verb": [{ "form": "play", "meaning": "chơi" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "play",
+              "meaning": "chơi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1224,7 +1861,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174009-0-52-7b7b6517",
       "targetLexeme": "pull sleds",
       "sourceContext": "...dogs used to pull sleds in the Arctic.",
       "phase1Inference": {
@@ -1235,10 +1872,25 @@
         "sentiment": "neutral",
         "definitionEN": "To draw or haul a vehicle on runners for conveying loads over snow or ice",
         "translationVI": "Kéo xe trượt tuyết",
-        "relatedCollocates": ["sled dogs", "pull (a cart)"],
+        "relatedCollocates": [
+          "sled dogs",
+          "pull (a cart)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "pull", "meaning": "kéo" }],
-          "noun": [{ "form": "sled", "meaning": "xe trượt tuyết" }]
+          "noun": [
+            {
+              "form": "sled",
+              "meaning": "xe trượt tuyết"
+            }
+          ],
+          "verb": [
+            {
+              "form": "pull",
+              "meaning": "kéo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1247,7 +1899,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174009-0-53-23400e00",
       "targetLexeme": "formed a close relationship",
       "sourceContext": "...Agee has formed a close relationship with her owner Mark Dumas...",
       "phase1Inference": {
@@ -1258,9 +1910,20 @@
         "sentiment": "positive",
         "definitionEN": "To develop a strong bond or connection with someone",
         "translationVI": "Hình thành một mối quan hệ thân thiết",
-        "relatedCollocates": ["a close (bond)", "form (a friendship)"],
+        "relatedCollocates": [
+          "a close (bond)",
+          "form (a friendship)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "relationship", "meaning": "mối quan hệ" }]
+          "noun": [
+            {
+              "form": "relationship",
+              "meaning": "mối quan hệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1269,7 +1932,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174009-0-54-40e57cf2",
       "targetLexeme": "to the point where",
       "sourceContext": "...a close relationship with her owner Mark Dumas to the point where they even swim together.",
       "phase1Inference": {
@@ -1280,9 +1943,20 @@
         "sentiment": "neutral",
         "definitionEN": "To a degree or extent that something (often surprising) happens",
         "translationVI": "Đến mức mà",
-        "relatedCollocates": ["to the extent that", "so much so that"],
+        "relatedCollocates": [
+          "to the extent that",
+          "so much so that"
+        ],
         "wordForms": {
-          "noun": [{ "form": "point", "meaning": "điểm, mức độ" }]
+          "noun": [
+            {
+              "form": "point",
+              "meaning": "điểm, mức độ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1291,7 +1965,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174009-0-55-25914728",
       "targetLexeme": "even more astonishing",
       "sourceContext": "This is even more astonishing since polar bears are known to actively hunt humans in the wild.",
       "phase1Inference": {
@@ -1302,9 +1976,20 @@
         "sentiment": "positive",
         "definitionEN": "Even more surprising or impressive",
         "translationVI": "Thậm chí còn đáng kinh ngạc hơn",
-        "relatedCollocates": ["even more (surprising)", "astonishing (adj)"],
+        "relatedCollocates": [
+          "even more (surprising)",
+          "astonishing (adj)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "astonishing", "meaning": "đáng kinh ngạc" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "astonishing",
+              "meaning": "đáng kinh ngạc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1313,7 +1998,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174009-0-56-1fcc1f3e",
       "targetLexeme": "lead to their extinction",
       "sourceContext": "If climate change were to lead to their extinction...",
       "phase1Inference": {
@@ -1324,10 +2009,25 @@
         "sentiment": "negative",
         "definitionEN": "To cause a species to die out completely",
         "translationVI": "Dẫn đến sự tuyệt chủng của chúng",
-        "relatedCollocates": ["cause (extinction)", "drive to (extinction)"],
+        "relatedCollocates": [
+          "cause (extinction)",
+          "drive to (extinction)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "lead to", "meaning": "dẫn đến" }],
-          "noun": [{ "form": "extinction", "meaning": "sự tuyệt chủng" }]
+          "noun": [
+            {
+              "form": "extinction",
+              "meaning": "sự tuyệt chủng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "lead to",
+              "meaning": "dẫn đến"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1336,7 +2036,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174009-0-57-6fcc4183",
       "targetLexeme": "loss of potential breakthroughs",
       "sourceContext": "...this would mean not only the loss of potential breakthroughs in human medicine...",
       "phase1Inference": {
@@ -1353,9 +2053,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "loss", "meaning": "sự mất mát" },
-            { "form": "breakthrough", "meaning": "sự đột phá" }
-          ]
+            {
+              "form": "loss",
+              "meaning": "sự mất mát"
+            },
+            {
+              "form": "breakthrough",
+              "meaning": "sự đột phá"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1364,7 +2073,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174009-0-58-29915c77",
       "targetLexeme": "more importantly",
       "sourceContext": "...but more importantly, the disappearance of an intelligent, majestic animal.",
       "phase1Inference": {
@@ -1375,10 +2084,19 @@
         "sentiment": "neutral",
         "definitionEN": "Used to introduce a point that is more significant than what has just been said",
         "translationVI": "Quan trọng hơn",
-        "relatedCollocates": ["most importantly", "what's more"],
+        "relatedCollocates": [
+          "most importantly",
+          "what's more"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
           "adverb": [
-            { "form": "importantly", "meaning": "một cách quan trọng" }
+            {
+              "form": "importantly",
+              "meaning": "một cách quan trọng"
+            }
           ]
         }
       },
@@ -1388,7 +2106,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174009-0-59-66012e14",
       "targetLexeme": "Arctic Circle",
       "sourceContext": "...the extreme conditions of the Arctic Circle...",
       "phase1Inference": {
@@ -1399,12 +2117,24 @@
         "sentiment": "neutral",
         "definitionEN": "The imaginary line on the Earth's surface at a latitude of approximately 66.5° N, marking the southern limit of the Arctic region",
         "translationVI": "Vòng Bắc Cực",
-        "relatedCollocates": ["Arctic (region)", "Antarctic Circle"],
+        "relatedCollocates": [
+          "Arctic (region)",
+          "Antarctic Circle"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "Arctic", "meaning": "Bắc Cực" },
-            { "form": "Circle", "meaning": "Vòng tròn" }
-          ]
+            {
+              "form": "Arctic",
+              "meaning": "Bắc Cực"
+            },
+            {
+              "form": "Circle",
+              "meaning": "Vòng tròn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1413,7 +2143,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174009-0-60-2f1f09eb",
       "targetLexeme": "low-density lipoproteins (LDLs)",
       "sourceContext": "...reduces levels of low-density lipoproteins (LDLs) – a form of ‘bad’ cholesterol.",
       "phase1Inference": {
@@ -1429,7 +2159,15 @@
           "high-density lipoproteins (HDLs)"
         ],
         "wordForms": {
-          "noun": [{ "form": "lipoprotein", "meaning": "lipoprotein" }]
+          "noun": [
+            {
+              "form": "lipoprotein",
+              "meaning": "lipoprotein"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1438,7 +2176,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174009-0-61-64a58e20",
       "targetLexeme": "physiologists (n)",
       "sourceContext": "Physiologists Alanda Lennox and Allen Goodship found an explanation for this paradox...",
       "phase1Inference": {
@@ -1449,12 +2187,24 @@
         "sentiment": "neutral",
         "definitionEN": "Experts in physiology, the branch of biology that deals with the normal functions of living organisms and their parts",
         "translationVI": "Các nhà sinh lý học",
-        "relatedCollocates": ["physiology (n)", "biologist (n)"],
+        "relatedCollocates": [
+          "physiology (n)",
+          "biologist (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "physiologist", "meaning": "nhà sinh lý học" },
-            { "form": "physiology", "meaning": "sinh lý học" }
-          ]
+            {
+              "form": "physiologist",
+              "meaning": "nhà sinh lý học"
+            },
+            {
+              "form": "physiology",
+              "meaning": "sinh lý học"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1463,7 +2213,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174009-0-62-67ffcf32",
       "targetLexeme": "astronauts (n)",
       "sourceContext": "...and even astronauts, could potentially benefit.",
       "phase1Inference": {
@@ -1474,9 +2224,21 @@
         "sentiment": "neutral",
         "definitionEN": "A person who is trained to travel in a spacecraft",
         "translationVI": "Các phi hành gia",
-        "relatedCollocates": ["spacecraft", "NASA", "cosmonaut"],
+        "relatedCollocates": [
+          "spacecraft",
+          "NASA",
+          "cosmonaut"
+        ],
         "wordForms": {
-          "noun": [{ "form": "astronaut", "meaning": "phi hành gia" }]
+          "noun": [
+            {
+              "form": "astronaut",
+              "meaning": "phi hành gia"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1485,7 +2247,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174009-0-63-43cebf98",
       "targetLexeme": "medical benefits",
       "sourceContext": "The medical benefits of the polar bear for humanity certainly have their importance...",
       "phase1Inference": {
@@ -1496,9 +2258,20 @@
         "sentiment": "positive",
         "definitionEN": "Advantages or positive effects related to the science of medicine",
         "translationVI": "Lợi ích y học",
-        "relatedCollocates": ["health (benefits)", "medical (research)"],
+        "relatedCollocates": [
+          "health (benefits)",
+          "medical (research)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "benefit", "meaning": "lợi ích" }]
+          "noun": [
+            {
+              "form": "benefit",
+              "meaning": "lợi ích"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1507,7 +2280,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174009-0-64-2562898b",
       "targetLexeme": "for humanity",
       "sourceContext": "...the polar bear for humanity certainly have their importance...",
       "phase1Inference": {
@@ -1518,9 +2291,20 @@
         "sentiment": "positive",
         "definitionEN": "For the human race as a whole",
         "translationVI": "Cho nhân loại",
-        "relatedCollocates": ["for (mankind)", "benefit (humanity)"],
+        "relatedCollocates": [
+          "for (mankind)",
+          "benefit (humanity)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "humanity", "meaning": "nhân loại" }]
+          "noun": [
+            {
+              "form": "humanity",
+              "meaning": "nhân loại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1529,7 +2313,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174009-0-65-1194047b",
       "targetLexeme": "tend to want to",
       "sourceContext": "We tend to want to protect animals we think are intelligent...",
       "phase1Inference": {
@@ -1540,9 +2324,20 @@
         "sentiment": "neutral",
         "definitionEN": "To usually or be likely to have a desire to do something",
         "translationVI": "Có xu hướng muốn",
-        "relatedCollocates": ["tend to (do sth)", "be likely to"],
+        "relatedCollocates": [
+          "tend to (do sth)",
+          "be likely to"
+        ],
         "wordForms": {
-          "verb": [{ "form": "tend", "meaning": "có xu hướng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "tend",
+              "meaning": "có xu hướng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1551,7 +2346,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "1761813174009-0-66-4f3c6b3c",
       "targetLexeme": "on the other hand",
       "sourceContext": "Bears, on the other hand, seem to be perceived as stupid...",
       "phase1Inference": {
@@ -1562,9 +2357,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to introduce a contrasting point or fact",
         "translationVI": "Mặt khác, ngược lại",
-        "relatedCollocates": ["in contrast", "however"],
+        "relatedCollocates": [
+          "in contrast",
+          "however"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "on the other hand", "meaning": "mặt khác" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "on the other hand",
+              "meaning": "mặt khác"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1573,7 +2379,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "1761813174009-0-67-28f3b168",
       "targetLexeme": "making use of a tool",
       "sourceContext": "...observed making use of a tool to manipulate his environment.",
       "phase1Inference": {
@@ -1584,9 +2390,20 @@
         "sentiment": "positive",
         "definitionEN": "Using an object or device to achieve a purpose",
         "translationVI": "Sử dụng một công cụ",
-        "relatedCollocates": ["use (a tool)", "tool use (n)"],
+        "relatedCollocates": [
+          "use (a tool)",
+          "tool use (n)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "make use of", "meaning": "sử dụng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "make use of",
+              "meaning": "sử dụng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1595,7 +2412,7 @@
       }
     },
     {
-      "id": 69,
+      "id": "1761813174009-0-68-39ba619c",
       "targetLexeme": "not as obviously as",
       "sourceContext": "Problem-solving ability has also been witnessed in wild polar bears, although not as obviously as with GoGo.",
       "phase1Inference": {
@@ -1606,9 +2423,20 @@
         "sentiment": "neutral",
         "definitionEN": "Not in a way that is as easy to see or understand as something else",
         "translationVI": "Không rõ ràng bằng",
-        "relatedCollocates": ["not as (clear) as", "less (obvious) than"],
+        "relatedCollocates": [
+          "not as (clear) as",
+          "less (obvious) than"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "obviously", "meaning": "một cách rõ ràng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "obviously",
+              "meaning": "một cách rõ ràng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1617,7 +2445,7 @@
       }
     },
     {
-      "id": 70,
+      "id": "1761813174009-0-69-72173ff2",
       "targetLexeme": "an attempt to get to",
       "sourceContext": "...in an attempt to get to a photographer standing on a platform four metres high.",
       "phase1Inference": {
@@ -1633,7 +2461,15 @@
           "attempt (to do sth)"
         ],
         "wordForms": {
-          "noun": [{ "form": "attempt", "meaning": "sự nỗ lực" }]
+          "noun": [
+            {
+              "form": "attempt",
+              "meaning": "sự nỗ lực"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1642,7 +2478,7 @@
       }
     },
     {
-      "id": 71,
+      "id": "1761813174009-0-70-57a2534c",
       "targetLexeme": "putting objects in piles",
       "sourceContext": "For example, Ames observed bears putting objects in piles and then knocking them over...",
       "phase1Inference": {
@@ -1653,9 +2489,20 @@
         "sentiment": "neutral",
         "definitionEN": "Arranging items one on top of another to form a heap or stack",
         "translationVI": "Xếp các đồ vật thành đống",
-        "relatedCollocates": ["a pile of (books)", "stacking (objects)"],
+        "relatedCollocates": [
+          "a pile of (books)",
+          "stacking (objects)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "pile", "meaning": "đống" }]
+          "noun": [
+            {
+              "form": "pile",
+              "meaning": "đống"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1664,7 +2511,7 @@
       }
     },
     {
-      "id": 72,
+      "id": "1761813174009-0-71-1a94f452",
       "targetLexeme": "knocking them over",
       "sourceContext": "...putting objects in piles and then knocking them over...",
       "phase1Inference": {
@@ -1675,9 +2522,20 @@
         "sentiment": "neutral",
         "definitionEN": "Causing something to fall to the ground",
         "translationVI": "Làm đổ chúng",
-        "relatedCollocates": ["knock over (a glass)", "push over"],
+        "relatedCollocates": [
+          "knock over (a glass)",
+          "push over"
+        ],
         "wordForms": {
-          "verb": [{ "form": "knock over", "meaning": "làm đổ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "knock over",
+              "meaning": "làm đổ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1686,7 +2544,7 @@
       }
     },
     {
-      "id": 73,
+      "id": "1761813174009-0-72-1651c27d",
       "targetLexeme": "previously thought",
       "sourceContext": "...abilities than previously thought.",
       "phase1Inference": {
@@ -1697,9 +2555,20 @@
         "sentiment": "neutral",
         "definitionEN": "Than was believed or assumed in the past",
         "translationVI": "So với đã nghĩ trước đây",
-        "relatedCollocates": ["previously (believed)", "than (expected)"],
+        "relatedCollocates": [
+          "previously (believed)",
+          "than (expected)"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "previously", "meaning": "trước đây" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "previously",
+              "meaning": "trước đây"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1708,7 +2577,7 @@
       }
     },
     {
-      "id": 74,
+      "id": "1761813174009-0-73-7c61570e",
       "targetLexeme": "hitting out at",
       "sourceContext": "...many bears have been seen to hit out at ice and snow...",
       "phase1Inference": {
@@ -1719,9 +2588,20 @@
         "sentiment": "negative",
         "definitionEN": "To strike something with force, often in anger or frustration",
         "translationVI": "Đánh/đập vào",
-        "relatedCollocates": ["lash out at", "strike (at)"],
+        "relatedCollocates": [
+          "lash out at",
+          "strike (at)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "hit out", "meaning": "đánh mạnh" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "hit out",
+              "meaning": "đánh mạnh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1730,7 +2610,7 @@
       }
     },
     {
-      "id": 75,
+      "id": "1761813174009-0-74-1b78c6cd",
       "targetLexeme": "swim together",
       "sourceContext": "...to the point where they even swim together.",
       "phase1Inference": {
@@ -1741,9 +2621,20 @@
         "sentiment": "positive",
         "definitionEN": "To move through water at the same time and in company with each other",
         "translationVI": "Bơi cùng nhau",
-        "relatedCollocates": ["play together", "live together"],
+        "relatedCollocates": [
+          "play together",
+          "live together"
+        ],
         "wordForms": {
-          "verb": [{ "form": "swim", "meaning": "bơi" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "swim",
+              "meaning": "bơi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1751,5 +2642,11 @@
         "content": "It's amazing to see the bear and its owner swim together in the pool."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.009Z",
+    "version": "2.0",
+    "originalCount": 75,
+    "migratedCount": 75
+  }
 }

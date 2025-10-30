@@ -1,10 +1,10 @@
 {
   "logTitle": "IELTS Reading Log: Bats to the rescue (Part 1)",
   "sourceId": "Reading Passage (Image '...16.48.19.png')",
-  "totalItems": 49,
+  "totalItems": 131,
   "lexicalItems": [
     {
-      "id": 767,
+      "id": "1761813174068-21-0-391980ae",
       "targetLexeme": "relations are more strained",
       "sourceContext": "...where relations between agriculture and conservation are more strained.",
       "phase1Inference": {
@@ -19,8 +19,20 @@
           "strain (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "relation", "meaning": "mối quan hệ" }],
-          "adjective": [{ "form": "strained", "meaning": "căng thẳng" }]
+          "noun": [
+            {
+              "form": "relation",
+              "meaning": "mối quan hệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "strained",
+              "meaning": "căng thẳng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -29,7 +41,7 @@
       }
     },
     {
-      "id": 768,
+      "id": "1761813174068-21-1-1179d661",
       "targetLexeme": "agriculture and conservation",
       "sourceContext": "...relations between agriculture and conservation are more strained.",
       "phase1Inference": {
@@ -38,12 +50,24 @@
       "phase2Annotation": {
         "definitionEN": "The two fields of farming/growing crops and protecting the natural environment",
         "translationVI": "Nông nghiệp và bảo tồn",
-        "relatedCollocates": ["conflict (between...)", "balance (between...)"],
+        "relatedCollocates": [
+          "conflict (between...)",
+          "balance (between...)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "agriculture", "meaning": "nông nghiệp" },
-            { "form": "conservation", "meaning": "sự bảo tồn" }
-          ]
+            {
+              "form": "agriculture",
+              "meaning": "nông nghiệp"
+            },
+            {
+              "form": "conservation",
+              "meaning": "sự bảo tồn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -52,7 +76,7 @@
       }
     },
     {
-      "id": 769,
+      "id": "1761813174068-21-2-528e571f",
       "targetLexeme": "converted to agricultural land",
       "sourceContext": "Madagascar's forests are being converted to agricultural land...",
       "phase1Inference": {
@@ -61,13 +85,30 @@
       "phase2Annotation": {
         "definitionEN": "To be changed from one use (forest) to another (land for farming)",
         "translationVI": "Bị chuyển đổi thành đất nông nghiệp",
-        "relatedCollocates": ["convert (v)", "conversion (n)", "land use"],
+        "relatedCollocates": [
+          "convert (v)",
+          "conversion (n)",
+          "land use"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "conversion", "meaning": "sự chuyển đổi" },
-            { "form": "land", "meaning": "đất" }
+            {
+              "form": "conversion",
+              "meaning": "sự chuyển đổi"
+            },
+            {
+              "form": "land",
+              "meaning": "đất"
+            }
           ],
-          "verb": [{ "form": "convert", "meaning": "chuyển đổi" }]
+          "verb": [
+            {
+              "form": "convert",
+              "meaning": "chuyển đổi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -76,7 +117,7 @@
       }
     },
     {
-      "id": 770,
+      "id": "1761813174068-21-3-20709884",
       "targetLexeme": "at a rate of",
       "sourceContext": "...at a rate of one percent every year.",
       "phase1Inference": {
@@ -85,9 +126,20 @@
       "phase2Annotation": {
         "definitionEN": "A measurement of the speed at which something happens",
         "translationVI": "Với tốc độ/tỷ lệ là",
-        "relatedCollocates": ["at a (fast/slow) rate", "an alarming rate"],
+        "relatedCollocates": [
+          "at a (fast/slow) rate",
+          "an alarming rate"
+        ],
         "wordForms": {
-          "noun": [{ "form": "rate", "meaning": "tốc độ, tỷ lệ" }]
+          "noun": [
+            {
+              "form": "rate",
+              "meaning": "tốc độ, tỷ lệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -96,7 +148,7 @@
       }
     },
     {
-      "id": 771,
+      "id": "1761813174068-21-4-3ac0c407",
       "targetLexeme": "fuelled by (the cultivation of...)",
       "sourceContext": "Much of this destruction is fuelled by the cultivation of the country's main staple crop: rice.",
       "phase1Inference": {
@@ -111,8 +163,20 @@
           "fuel (n/v)"
         ],
         "wordForms": {
-          "noun": [{ "form": "fuel", "meaning": "nhiên liệu" }],
-          "verb": [{ "form": "fuel", "meaning": "tiếp nhiên liệu, thúc đẩy" }]
+          "noun": [
+            {
+              "form": "fuel",
+              "meaning": "nhiên liệu"
+            }
+          ],
+          "verb": [
+            {
+              "form": "fuel",
+              "meaning": "tiếp nhiên liệu, thúc đẩy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -121,7 +185,7 @@
       }
     },
     {
-      "id": 772,
+      "id": "1761813174068-21-5-0346ba92",
       "targetLexeme": "cultivation (n)",
       "sourceContext": "...fuelled by the cultivation of the country's main staple crop: rice.",
       "phase1Inference": {
@@ -136,8 +200,20 @@
           "land (cultivation)"
         ],
         "wordForms": {
-          "noun": [{ "form": "cultivation", "meaning": "sự trồng trọt" }],
-          "verb": [{ "form": "cultivate", "meaning": "trồng trọt" }]
+          "noun": [
+            {
+              "form": "cultivation",
+              "meaning": "sự trồng trọt"
+            }
+          ],
+          "verb": [
+            {
+              "form": "cultivate",
+              "meaning": "trồng trọt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -146,7 +222,7 @@
       }
     },
     {
-      "id": 773,
+      "id": "1761813174068-21-6-21af01f4",
       "targetLexeme": "main staple crop",
       "sourceContext": "...the country's main staple crop: rice.",
       "phase1Inference": {
@@ -162,9 +238,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "staple", "meaning": "sản phẩm chủ yếu" },
-            { "form": "crop", "meaning": "cây trồng" }
-          ]
+            {
+              "form": "staple",
+              "meaning": "sản phẩm chủ yếu"
+            },
+            {
+              "form": "crop",
+              "meaning": "cây trồng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -173,7 +258,7 @@
       }
     },
     {
-      "id": 774,
+      "id": "1761813174068-21-7-6f6530e3",
       "targetLexeme": "insect pests",
       "sourceContext": "...is that insect pests are destroying vast quantities of what is grown...",
       "phase1Inference": {
@@ -182,12 +267,24 @@
       "phase2Annotation": {
         "definitionEN": "Insects that are harmful to crops, animals, or people",
         "translationVI": "Sâu bệnh, côn trùng gây hại",
-        "relatedCollocates": ["pest control (n)", "pesticide (n)"],
+        "relatedCollocates": [
+          "pest control (n)",
+          "pesticide (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "insect", "meaning": "côn trùng" },
-            { "form": "pest", "meaning": "sâu bệnh" }
-          ]
+            {
+              "form": "insect",
+              "meaning": "côn trùng"
+            },
+            {
+              "form": "pest",
+              "meaning": "sâu bệnh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -196,7 +293,7 @@
       }
     },
     {
-      "id": 775,
+      "id": "1761813174068-21-8-2181c368",
       "targetLexeme": "destroying vast quantities of",
       "sourceContext": "...insect pests are destroying vast quantities of what is grown...",
       "phase1Inference": {
@@ -212,11 +309,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "destruction", "meaning": "sự phá hủy" },
-            { "form": "quantity", "meaning": "số lượng" }
+            {
+              "form": "destruction",
+              "meaning": "sự phá hủy"
+            },
+            {
+              "form": "quantity",
+              "meaning": "số lượng"
+            }
           ],
-          "verb": [{ "form": "destroy", "meaning": "phá hủy" }],
-          "adjective": [{ "form": "vast", "meaning": "rộng lớn" }]
+          "verb": [
+            {
+              "form": "destroy",
+              "meaning": "phá hủy"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "vast",
+              "meaning": "rộng lớn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -225,7 +339,7 @@
       }
     },
     {
-      "id": 776,
+      "id": "1761813174068-21-9-67298c70",
       "targetLexeme": "subsistence farmers",
       "sourceContext": "...what is grown by local subsistence farmers...",
       "phase1Inference": {
@@ -234,12 +348,24 @@
       "phase2Annotation": {
         "definitionEN": "Farmers who grow crops mainly to feed themselves and their families, with little or no surplus for sale",
         "translationVI": "Nông dân tự cung tự cấp",
-        "relatedCollocates": ["subsistence (farming)", "subsistence (level)"],
+        "relatedCollocates": [
+          "subsistence (farming)",
+          "subsistence (level)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "subsistence", "meaning": "sự tự cấp" },
-            { "form": "farmer", "meaning": "nông dân" }
-          ]
+            {
+              "form": "subsistence",
+              "meaning": "sự tự cấp"
+            },
+            {
+              "form": "farmer",
+              "meaning": "nông dân"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -248,7 +374,7 @@
       }
     },
     {
-      "id": 777,
+      "id": "1761813174068-21-10-659a21d4",
       "targetLexeme": "leading them to (do sth)",
       "sourceContext": "...leading them to clear forest to create new paddy fields.",
       "phase1Inference": {
@@ -257,9 +383,20 @@
       "phase2Annotation": {
         "definitionEN": "Causing them to take a particular action as a result",
         "translationVI": "Khiến họ/dẫn họ đến (việc làm gì)",
-        "relatedCollocates": ["cause them to", "result in them (doing sth)"],
+        "relatedCollocates": [
+          "cause them to",
+          "result in them (doing sth)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "lead (to)", "meaning": "dẫn đến" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "lead (to)",
+              "meaning": "dẫn đến"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -268,7 +405,7 @@
       }
     },
     {
-      "id": 778,
+      "id": "1761813174068-21-11-0de3db9b",
       "targetLexeme": "clear forest",
       "sourceContext": "...leading them to clear forest to create new paddy fields.",
       "phase1Inference": {
@@ -283,8 +420,20 @@
           "forest clearance (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "forest", "meaning": "rừng" }],
-          "verb": [{ "form": "clear", "meaning": "dọn dẹp, phát quang" }]
+          "noun": [
+            {
+              "form": "forest",
+              "meaning": "rừng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "clear",
+              "meaning": "dọn dẹp, phát quang"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -293,7 +442,7 @@
       }
     },
     {
-      "id": 779,
+      "id": "1761813174068-21-12-5c7929b2",
       "targetLexeme": "paddy fields",
       "sourceContext": "...to create new paddy fields.",
       "phase1Inference": {
@@ -302,12 +451,24 @@
       "phase2Annotation": {
         "definitionEN": "A flooded field where rice is grown",
         "translationVI": "Đồng lúa (nước)",
-        "relatedCollocates": ["rice paddy (n)", "rice fields (synonym)"],
+        "relatedCollocates": [
+          "rice paddy (n)",
+          "rice fields (synonym)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "paddy", "meaning": "lúa" },
-            { "form": "field", "meaning": "cánh đồng" }
-          ]
+            {
+              "form": "paddy",
+              "meaning": "lúa"
+            },
+            {
+              "form": "field",
+              "meaning": "cánh đồng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -316,7 +477,7 @@
       }
     },
     {
-      "id": 780,
+      "id": "1761813174068-21-13-42f04080",
       "targetLexeme": "devastating habitat",
       "sourceContext": "The result is devastating habitat and biodiversity loss on the island...",
       "phase1Inference": {
@@ -332,10 +493,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "habitat", "meaning": "môi trường sống" },
-            { "form": "devastation", "meaning": "sự tàn phá" }
+            {
+              "form": "habitat",
+              "meaning": "môi trường sống"
+            },
+            {
+              "form": "devastation",
+              "meaning": "sự tàn phá"
+            }
           ],
-          "adjective": [{ "form": "devastating", "meaning": "gây tàn phá" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "devastating",
+              "meaning": "gây tàn phá"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -344,7 +518,7 @@
       }
     },
     {
-      "id": 781,
+      "id": "1761813174068-21-14-5e9af610",
       "targetLexeme": "biodiversity loss",
       "sourceContext": "...habitat and biodiversity loss on the island...",
       "phase1Inference": {
@@ -353,12 +527,24 @@
       "phase2Annotation": {
         "definitionEN": "The reduction in the variety of life (species, ecosystems) in a particular area",
         "translationVI": "Sự suy giảm/mất mát đa dạng sinh học",
-        "relatedCollocates": ["habitat loss (n)", "loss of (biodiversity)"],
+        "relatedCollocates": [
+          "habitat loss (n)",
+          "loss of (biodiversity)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "biodiversity", "meaning": "đa dạng sinh học" },
-            { "form": "loss", "meaning": "sự mất mát" }
-          ]
+            {
+              "form": "biodiversity",
+              "meaning": "đa dạng sinh học"
+            },
+            {
+              "form": "loss",
+              "meaning": "sự mất mát"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -367,7 +553,7 @@
       }
     },
     {
-      "id": 782,
+      "id": "1761813174068-21-15-178ecdbd",
       "targetLexeme": "insectivorous (bats)",
       "sourceContext": "...some of the island's insectivorous bats are currently thriving...",
       "phase1Inference": {
@@ -376,12 +562,25 @@
       "phase2Annotation": {
         "definitionEN": "(Of an animal) feeding on insects",
         "translationVI": "(Thuộc loài) ăn côn trùng",
-        "relatedCollocates": ["carnivorous (ăn thịt)", "herbivorous (ăn cỏ)"],
+        "relatedCollocates": [
+          "carnivorous (ăn thịt)",
+          "herbivorous (ăn cỏ)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "insectivore", "meaning": "động vật ăn côn trùng" }
+            {
+              "form": "insectivore",
+              "meaning": "động vật ăn côn trùng"
+            }
           ],
-          "adjective": [{ "form": "insectivorous", "meaning": "ăn côn trùng" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "insectivorous",
+              "meaning": "ăn côn trùng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -390,7 +589,7 @@
       }
     },
     {
-      "id": 783,
+      "id": "1761813174068-21-16-49660ade",
       "targetLexeme": "thriving (v/adj)",
       "sourceContext": "...are currently thriving and this has important implications for...",
       "phase1Inference": {
@@ -399,12 +598,25 @@
       "phase2Annotation": {
         "definitionEN": "To be growing, developing, or succeeding very well; flourishing",
         "translationVI": "Phát triển mạnh, thịnh vượng",
-        "relatedCollocates": ["flourishing (synonym)", "thrive (on sth)"],
+        "relatedCollocates": [
+          "flourishing (synonym)",
+          "thrive (on sth)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "thrive", "meaning": "phát triển mạnh" }],
+          "noun": [],
+          "verb": [
+            {
+              "form": "thrive",
+              "meaning": "phát triển mạnh"
+            }
+          ],
           "adjective": [
-            { "form": "thriving", "meaning": "đang phát triển mạnh" }
-          ]
+            {
+              "form": "thriving",
+              "meaning": "đang phát triển mạnh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -413,7 +625,7 @@
       }
     },
     {
-      "id": 784,
+      "id": "1761813174068-21-17-1ecd88c5",
       "targetLexeme": "important implications for",
       "sourceContext": "...this has important implications for farmers and conservationists alike.",
       "phase1Inference": {
@@ -427,8 +639,20 @@
           "have implications (for)"
         ],
         "wordForms": {
-          "noun": [{ "form": "implication", "meaning": "hàm ý, hệ quả" }],
-          "verb": [{ "form": "imply", "meaning": "ngụ ý" }]
+          "noun": [
+            {
+              "form": "implication",
+              "meaning": "hàm ý, hệ quả"
+            }
+          ],
+          "verb": [
+            {
+              "form": "imply",
+              "meaning": "ngụ ý"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -437,7 +661,7 @@
       }
     },
     {
-      "id": 785,
+      "id": "1761813174068-21-18-58100a55",
       "targetLexeme": "conservationists (n)",
       "sourceContext": "...farmers and conservationists alike.",
       "phase1Inference": {
@@ -446,12 +670,24 @@
       "phase2Annotation": {
         "definitionEN": "A person who works to protect animals, plants, and natural resources",
         "translationVI": "Nhà bảo tồn",
-        "relatedCollocates": ["conservation (n)", "environmentalist (n)"],
+        "relatedCollocates": [
+          "conservation (n)",
+          "environmentalist (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "conservationist", "meaning": "nhà bảo tồn" },
-            { "form": "conservation", "meaning": "sự bảo tồn" }
-          ]
+            {
+              "form": "conservationist",
+              "meaning": "nhà bảo tồn"
+            },
+            {
+              "form": "conservation",
+              "meaning": "sự bảo tồn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -460,7 +696,7 @@
       }
     },
     {
-      "id": 786,
+      "id": "1761813174068-21-19-17e81cff",
       "targetLexeme": "zoologist (n)",
       "sourceContext": "Enter University of Cambridge zoologist Ricardo Rocha.",
       "phase1Inference": {
@@ -469,13 +705,28 @@
       "phase2Annotation": {
         "definitionEN": "A scientist who studies animals and their behaviour",
         "translationVI": "Nhà động vật học",
-        "relatedCollocates": ["zoology (n)", "biologist (n)"],
+        "relatedCollocates": [
+          "zoology (n)",
+          "biologist (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "zoologist", "meaning": "nhà động vật học" },
-            { "form": "zoology", "meaning": "động vật học" },
-            { "form": "zoo", "meaning": "sở thú" }
-          ]
+            {
+              "form": "zoologist",
+              "meaning": "nhà động vật học"
+            },
+            {
+              "form": "zoology",
+              "meaning": "động vật học"
+            },
+            {
+              "form": "zoo",
+              "meaning": "sở thú"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -484,7 +735,7 @@
       }
     },
     {
-      "id": 787,
+      "id": "1761813174068-21-20-06d7d379",
       "targetLexeme": "passionate about (sth)",
       "sourceContext": "He's passionate about conservation, and bats.",
       "phase1Inference": {
@@ -498,8 +749,20 @@
           "enthusiastic (about sth)"
         ],
         "wordForms": {
-          "noun": [{ "form": "passion", "meaning": "niềm đam mê" }],
-          "adjective": [{ "form": "passionate", "meaning": "đam mê" }]
+          "noun": [
+            {
+              "form": "passion",
+              "meaning": "niềm đam mê"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "passionate",
+              "meaning": "đam mê"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -508,7 +771,7 @@
       }
     },
     {
-      "id": 788,
+      "id": "1761813174068-21-21-5eca6cb3",
       "targetLexeme": "responding to human activity",
       "sourceContext": "...how bats are responding to human activity and deforestation in particular.",
       "phase1Inference": {
@@ -517,13 +780,30 @@
       "phase2Annotation": {
         "definitionEN": "Reacting or adapting to the actions and changes caused by people",
         "translationVI": "Phản ứng/thích ứng với hoạt động của con người",
-        "relatedCollocates": ["respond (to)", "reaction (n)", "human (impact)"],
+        "relatedCollocates": [
+          "respond (to)",
+          "reaction (n)",
+          "human (impact)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "response", "meaning": "sự phản ứng" },
-            { "form": "activity", "meaning": "hoạt động" }
+            {
+              "form": "response",
+              "meaning": "sự phản ứng"
+            },
+            {
+              "form": "activity",
+              "meaning": "hoạt động"
+            }
           ],
-          "verb": [{ "form": "respond", "meaning": "phản ứng" }]
+          "verb": [
+            {
+              "form": "respond",
+              "meaning": "phản ứng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -532,7 +812,7 @@
       }
     },
     {
-      "id": 789,
+      "id": "1761813174068-21-22-3618e2cc",
       "targetLexeme": "deforestation (n)",
       "sourceContext": "...human activity and deforestation in particular.",
       "phase1Inference": {
@@ -546,8 +826,20 @@
           "reforestation (antonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "deforestation", "meaning": "nạn phá rừng" }],
-          "verb": [{ "form": "deforest", "meaning": "phá rừng" }]
+          "noun": [
+            {
+              "form": "deforestation",
+              "meaning": "nạn phá rừng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "deforest",
+              "meaning": "phá rừng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -556,7 +848,7 @@
       }
     },
     {
-      "id": 790,
+      "id": "1761813174068-21-23-7fa1127b",
       "targetLexeme": "vital pest control service",
       "sourceContext": "...bats are giving Madagascar's rice farmers a vital pest control service...",
       "phase1Inference": {
@@ -572,10 +864,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "service", "meaning": "dịch vụ" },
-            { "form": "pest control", "meaning": "kiểm soát sâu bệnh" }
+            {
+              "form": "service",
+              "meaning": "dịch vụ"
+            },
+            {
+              "form": "pest control",
+              "meaning": "kiểm soát sâu bệnh"
+            }
           ],
-          "adjective": [{ "form": "vital", "meaning": "thiết yếu" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "vital",
+              "meaning": "thiết yếu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -584,7 +889,7 @@
       }
     },
     {
-      "id": 791,
+      "id": "1761813174068-21-24-6ae9e0c8",
       "targetLexeme": "feasting on (plagues of insects)",
       "sourceContext": "...by feasting on plagues of insects.",
       "phase1Inference": {
@@ -593,13 +898,29 @@
       "phase2Annotation": {
         "definitionEN": "To eat large quantities of something with great enjoyment (in this case, large, destructive swarms of insects)",
         "translationVI": "Ăn tiệc, đánh chén (đàn/dịch côn trùng)",
-        "relatedCollocates": ["feast (on sth)", "a plague (of locusts)"],
+        "relatedCollocates": [
+          "feast (on sth)",
+          "a plague (of locusts)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "feast", "meaning": "bữa tiệc" },
-            { "form": "plague", "meaning": "bệnh dịch, tai họa" }
+            {
+              "form": "feast",
+              "meaning": "bữa tiệc"
+            },
+            {
+              "form": "plague",
+              "meaning": "bệnh dịch, tai họa"
+            }
           ],
-          "verb": [{ "form": "feast", "meaning": "ăn tiệc" }]
+          "verb": [
+            {
+              "form": "feast",
+              "meaning": "ăn tiệc"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -608,7 +929,7 @@
       }
     },
     {
-      "id": 792,
+      "id": "1761813174068-21-25-5c11b3bd",
       "targetLexeme": "ease the financial pressure on",
       "sourceContext": "...can ease the financial pressure on farmers to turn forest into fields.",
       "phase1Inference": {
@@ -624,10 +945,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "pressure", "meaning": "áp lực" },
-            { "form": "ease", "meaning": "sự dễ dàng" }
+            {
+              "form": "pressure",
+              "meaning": "áp lực"
+            },
+            {
+              "form": "ease",
+              "meaning": "sự dễ dàng"
+            }
           ],
-          "verb": [{ "form": "ease", "meaning": "làm giảm bớt" }]
+          "verb": [
+            {
+              "form": "ease",
+              "meaning": "làm giảm bớt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -636,7 +970,7 @@
       }
     },
     {
-      "id": 793,
+      "id": "1761813174068-21-26-241e3413",
       "targetLexeme": "comprise (v)",
       "sourceContext": "Bats comprise roughly one-fifth of all mammal species in Madagascar...",
       "phase1Inference": {
@@ -651,7 +985,15 @@
           "account for (synonym)"
         ],
         "wordForms": {
-          "verb": [{ "form": "comprise", "meaning": "bao gồm, chiếm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "comprise",
+              "meaning": "bao gồm, chiếm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -660,7 +1002,7 @@
       }
     },
     {
-      "id": 794,
+      "id": "1761813174068-21-27-506459aa",
       "targetLexeme": "mammal species",
       "sourceContext": "...one-fifth of all mammal species in Madagascar...",
       "phase1Inference": {
@@ -676,9 +1018,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "mammal", "meaning": "động vật có vú" },
-            { "form": "species", "meaning": "loài" }
-          ]
+            {
+              "form": "mammal",
+              "meaning": "động vật có vú"
+            },
+            {
+              "form": "species",
+              "meaning": "loài"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -687,7 +1038,7 @@
       }
     },
     {
-      "id": 795,
+      "id": "1761813174068-21-28-110173f0",
       "targetLexeme": "native to (the island)",
       "sourceContext": "...and thirty-six recorded bat species are native to the island...",
       "phase1Inference": {
@@ -696,10 +1047,25 @@
       "phase2Annotation": {
         "definitionEN": "Existing naturally in a particular place; indigenous",
         "translationVI": "(Là) bản địa của (hòn đảo)",
-        "relatedCollocates": ["indigenous (synonym)", "endemic to (synonym)"],
+        "relatedCollocates": [
+          "indigenous (synonym)",
+          "endemic to (synonym)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "native", "meaning": "người bản địa" }],
-          "adjective": [{ "form": "native", "meaning": "bản địa" }]
+          "noun": [
+            {
+              "form": "native",
+              "meaning": "người bản địa"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "native",
+              "meaning": "bản địa"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -708,7 +1074,7 @@
       }
     },
     {
-      "id": 796,
+      "id": "1761813174068-21-29-27df4f16",
       "targetLexeme": "regions for conservation",
       "sourceContext": "...making it one of the most important regions for conservation of this animal group...",
       "phase1Inference": {
@@ -717,12 +1083,24 @@
       "phase2Annotation": {
         "definitionEN": "Areas of the world that are considered highly important for protecting wildlife and natural habitats",
         "translationVI": "Các khu vực (quan trọng) cho (việc) bảo tồn",
-        "relatedCollocates": ["conservation (efforts)", "a protected (region)"],
+        "relatedCollocates": [
+          "conservation (efforts)",
+          "a protected (region)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "region", "meaning": "khu vực" },
-            { "form": "conservation", "meaning": "sự bảo tồn" }
-          ]
+            {
+              "form": "region",
+              "meaning": "khu vực"
+            },
+            {
+              "form": "conservation",
+              "meaning": "sự bảo tồn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -731,7 +1109,7 @@
       }
     },
     {
-      "id": 797,
+      "id": "1761813174068-21-30-2d4b733a",
       "targetLexeme": "Co-leading (v)",
       "sourceContext": "Co-leading an international team of scientists, Rocha found that...",
       "phase1Inference": {
@@ -746,11 +1124,24 @@
           "lead (a team)"
         ],
         "wordForms": {
-          "verb": [
-            { "form": "co-lead", "meaning": "đồng lãnh đạo" },
-            { "form": "lead", "meaning": "lãnh đạo" }
+          "noun": [
+            {
+              "form": "leader",
+              "meaning": "lãnh đạo"
+            }
           ],
-          "noun": [{ "form": "leader", "meaning": "lãnh đạo" }]
+          "verb": [
+            {
+              "form": "co-lead",
+              "meaning": "đồng lãnh đạo"
+            },
+            {
+              "form": "lead",
+              "meaning": "lãnh đạo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -759,7 +1150,7 @@
       }
     },
     {
-      "id": 798,
+      "id": "1761813174068-21-31-6a7fb202",
       "targetLexeme": "indigenous (bats)",
       "sourceContext": "...several species of indigenous bats are taking advantage of...",
       "phase1Inference": {
@@ -768,9 +1159,20 @@
       "phase2Annotation": {
         "definitionEN": "Bats that are native to a particular region or country; originating naturally in a place",
         "translationVI": "Dơi bản địa",
-        "relatedCollocates": ["native to (synonym)", "indigenous (people)"],
+        "relatedCollocates": [
+          "native to (synonym)",
+          "indigenous (people)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "indigenous", "meaning": "bản địa" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "indigenous",
+              "meaning": "bản địa"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -779,7 +1181,7 @@
       }
     },
     {
-      "id": 799,
+      "id": "1761813174068-21-32-61e8d68b",
       "targetLexeme": "taking advantage of",
       "sourceContext": "...indigenous bats are taking advantage of habitat modification to hunt...",
       "phase1Inference": {
@@ -793,7 +1195,15 @@
           "make use of (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "advantage", "meaning": "lợi thế" }]
+          "noun": [
+            {
+              "form": "advantage",
+              "meaning": "lợi thế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -802,7 +1212,7 @@
       }
     },
     {
-      "id": 800,
+      "id": "1761813174068-21-33-01448f49",
       "targetLexeme": "habitat modification",
       "sourceContext": "...taking advantage of habitat modification to hunt insects...",
       "phase1Inference": {
@@ -818,10 +1228,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "habitat", "meaning": "môi trường sống" },
-            { "form": "modification", "meaning": "sự thay đổi" }
+            {
+              "form": "habitat",
+              "meaning": "môi trường sống"
+            },
+            {
+              "form": "modification",
+              "meaning": "sự thay đổi"
+            }
           ],
-          "verb": [{ "form": "modify", "meaning": "thay đổi" }]
+          "verb": [
+            {
+              "form": "modify",
+              "meaning": "thay đổi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -830,7 +1253,7 @@
       }
     },
     {
-      "id": 801,
+      "id": "1761813174068-21-34-668d64af",
       "targetLexeme": "hunt insects swarming above",
       "sourceContext": "...to hunt insects swarming above the country's rice fields.",
       "phase1Inference": {
@@ -839,16 +1262,34 @@
       "phase2Annotation": {
         "definitionEN": "To chase and catch insects that are moving in a large, dense group",
         "translationVI": "Săn côn trùng bay thành đàn/lúc nhúc ở trên",
-        "relatedCollocates": ["a swarm (of bees)", "swarming (v)", "hunt (v)"],
+        "relatedCollocates": [
+          "a swarm (of bees)",
+          "swarming (v)",
+          "hunt (v)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "swarm", "meaning": "bầy, đàn" },
-            { "form": "insect", "meaning": "côn trùng" }
+            {
+              "form": "swarm",
+              "meaning": "bầy, đàn"
+            },
+            {
+              "form": "insect",
+              "meaning": "côn trùng"
+            }
           ],
           "verb": [
-            { "form": "hunt", "meaning": "săn" },
-            { "form": "swarm", "meaning": "tụ lại thành đàn" }
-          ]
+            {
+              "form": "hunt",
+              "meaning": "săn"
+            },
+            {
+              "form": "swarm",
+              "meaning": "tụ lại thành đàn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -857,7 +1298,7 @@
       }
     },
     {
-      "id": 802,
+      "id": "1761813174068-21-35-0ead1192",
       "targetLexeme": "mouse-eared bat",
       "sourceContext": "They include the Malagasy mouse-eared bat...",
       "phase1Inference": {
@@ -866,9 +1307,20 @@
       "phase2Annotation": {
         "definitionEN": "A species of bat characterized by its ears, which resemble those of a mouse",
         "translationVI": "Dơi tai chuột",
-        "relatedCollocates": ["long-fingered bat", "wrinkle-lipped bat"],
+        "relatedCollocates": [
+          "long-fingered bat",
+          "wrinkle-lipped bat"
+        ],
         "wordForms": {
-          "noun": [{ "form": "bat", "meaning": "con dơi" }]
+          "noun": [
+            {
+              "form": "bat",
+              "meaning": "con dơi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -877,7 +1329,7 @@
       }
     },
     {
-      "id": 803,
+      "id": "1761813174068-21-36-351f93e2",
       "targetLexeme": "long-fingered bat",
       "sourceContext": "Major's long-fingered bat...",
       "phase1Inference": {
@@ -886,9 +1338,20 @@
       "phase2Annotation": {
         "definitionEN": "A species of bat known for its unusually long finger bones, which support its wings",
         "translationVI": "Dơi ngón tay dài",
-        "relatedCollocates": ["mouse-eared bat", "wrinkle-lipped bat"],
+        "relatedCollocates": [
+          "mouse-eared bat",
+          "wrinkle-lipped bat"
+        ],
         "wordForms": {
-          "noun": [{ "form": "bat", "meaning": "con dơi" }]
+          "noun": [
+            {
+              "form": "bat",
+              "meaning": "con dơi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -897,7 +1360,7 @@
       }
     },
     {
-      "id": 804,
+      "id": "1761813174068-21-37-2d70fd52",
       "targetLexeme": "white-bellied free-tailed bat",
       "sourceContext": "...the Malagasy white-bellied free-tailed bat...",
       "phase1Inference": {
@@ -906,9 +1369,20 @@
       "phase2Annotation": {
         "definitionEN": "A species of bat with a white underside and a tail that extends beyond the wing membrane",
         "translationVI": "Dơi đuôi rời bụng trắng",
-        "relatedCollocates": ["mouse-eared bat", "long-fingered bat"],
+        "relatedCollocates": [
+          "mouse-eared bat",
+          "long-fingered bat"
+        ],
         "wordForms": {
-          "noun": [{ "form": "bat", "meaning": "con dơi" }]
+          "noun": [
+            {
+              "form": "bat",
+              "meaning": "con dơi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -917,7 +1391,7 @@
       }
     },
     {
-      "id": 805,
+      "id": "1761813174068-21-38-44c73e76",
       "targetLexeme": "wrinkle-lipped bat",
       "sourceContext": "...and Peters' wrinkle-lipped bat.",
       "phase1Inference": {
@@ -926,12 +1400,24 @@
       "phase2Annotation": {
         "definitionEN": "A species of bat characterized by distinctive wrinkles or folds on its lips",
         "translationVI": "Dơi môi nhăn",
-        "relatedCollocates": ["mouse-eared bat", "long-fingered bat"],
+        "relatedCollocates": [
+          "mouse-eared bat",
+          "long-fingered bat"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "bat", "meaning": "con dơi" },
-            { "form": "wrinkle", "meaning": "nếp nhăn" }
-          ]
+            {
+              "form": "bat",
+              "meaning": "con dơi"
+            },
+            {
+              "form": "wrinkle",
+              "meaning": "nếp nhăn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -940,7 +1426,7 @@
       }
     },
     {
-      "id": 806,
+      "id": "1761813174068-21-39-5ab47916",
       "targetLexeme": "providing a valuable free service",
       "sourceContext": "'These winner species are providing a valuable free service...'",
       "phase1Inference": {
@@ -955,8 +1441,20 @@
           "provide (a service)"
         ],
         "wordForms": {
-          "noun": [{ "form": "service", "meaning": "dịch vụ" }],
-          "verb": [{ "form": "provide", "meaning": "cung cấp" }]
+          "noun": [
+            {
+              "form": "service",
+              "meaning": "dịch vụ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "provide",
+              "meaning": "cung cấp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -965,7 +1463,7 @@
       }
     },
     {
-      "id": 807,
+      "id": "1761813174068-21-40-15b3e9d2",
       "targetLexeme": "biological pest suppressors",
       "sourceContext": "...as biological pest suppressors,' says Rocha.",
       "phase1Inference": {
@@ -981,10 +1479,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "suppressor", "meaning": "tác nhân ức chế" },
-            { "form": "pest", "meaning": "sâu bệnh" }
+            {
+              "form": "suppressor",
+              "meaning": "tác nhân ức chế"
+            },
+            {
+              "form": "pest",
+              "meaning": "sâu bệnh"
+            }
           ],
-          "verb": [{ "form": "suppress", "meaning": "đàn áp, ức chế" }]
+          "verb": [
+            {
+              "form": "suppress",
+              "meaning": "đàn áp, ức chế"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -993,7 +1504,7 @@
       }
     },
     {
-      "id": 808,
+      "id": "1761813174068-21-41-6536a7c9",
       "targetLexeme": "preying on (rice pests)",
       "sourceContext": "'We found that six species of bat are preying on rice pests...'",
       "phase1Inference": {
@@ -1002,13 +1513,30 @@
       "phase2Annotation": {
         "definitionEN": "To hunt and kill another animal (in this case, rice pests) for food",
         "translationVI": "Săn/ăn thịt (sâu bệnh hại lúa)",
-        "relatedCollocates": ["prey (on sth)", "predator (n)", "prey (n)"],
+        "relatedCollocates": [
+          "prey (on sth)",
+          "predator (n)",
+          "prey (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "prey", "meaning": "con mồi" },
-            { "form": "predator", "meaning": "kẻ săn mồi" }
+            {
+              "form": "prey",
+              "meaning": "con mồi"
+            },
+            {
+              "form": "predator",
+              "meaning": "kẻ săn mồi"
+            }
           ],
-          "verb": [{ "form": "prey", "meaning": "săn mồi" }]
+          "verb": [
+            {
+              "form": "prey",
+              "meaning": "săn mồi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1017,7 +1545,7 @@
       }
     },
     {
-      "id": 809,
+      "id": "1761813174068-21-42-0dfb6c10",
       "targetLexeme": "paddy swarming caterpillar",
       "sourceContext": "...including the paddy swarming caterpillar and grass webworm.",
       "phase1Inference": {
@@ -1026,9 +1554,20 @@
       "phase2Annotation": {
         "definitionEN": "A type of insect larva (caterpillar) that moves in large, destructive groups and eats rice plants",
         "translationVI": "Sâu keo (hại lúa)",
-        "relatedCollocates": ["caterpillar (n)", "rice pests (example)"],
+        "relatedCollocates": [
+          "caterpillar (n)",
+          "rice pests (example)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "caterpillar", "meaning": "con sâu" }]
+          "noun": [
+            {
+              "form": "caterpillar",
+              "meaning": "con sâu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1037,7 +1576,7 @@
       }
     },
     {
-      "id": 810,
+      "id": "1761813174068-21-43-7bcfb918",
       "targetLexeme": "grass webworm",
       "sourceContext": "...and grass webworm.",
       "phase1Inference": {
@@ -1046,9 +1585,20 @@
       "phase2Annotation": {
         "definitionEN": "A type of caterpillar that spins silky webs in grassy areas and feeds on the grass",
         "translationVI": "Sâu đan mạng (hại cỏ/lúa)",
-        "relatedCollocates": ["caterpillar (n)", "rice pests (example)"],
+        "relatedCollocates": [
+          "caterpillar (n)",
+          "rice pests (example)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "webworm", "meaning": "sâu đan mạng" }]
+          "noun": [
+            {
+              "form": "webworm",
+              "meaning": "sâu đan mạng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1057,7 +1607,7 @@
       }
     },
     {
-      "id": 811,
+      "id": "1761813174068-21-44-00861e8d",
       "targetLexeme": "huge financial pressure",
       "sourceContext": "...causes the farmers under huge financial pressure and that encourages deforestation.'",
       "phase1Inference": {
@@ -1072,11 +1622,24 @@
           "ease (the pressure)"
         ],
         "wordForms": {
-          "noun": [{ "form": "pressure", "meaning": "áp lực" }],
+          "noun": [
+            {
+              "form": "pressure",
+              "meaning": "áp lực"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "huge", "meaning": "khổng lồ" },
-            { "form": "financial", "meaning": "thuộc tài chính" }
-          ]
+            {
+              "form": "huge",
+              "meaning": "khổng lồ"
+            },
+            {
+              "form": "financial",
+              "meaning": "thuộc tài chính"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1085,7 +1648,7 @@
       }
     },
     {
-      "id": 812,
+      "id": "1761813174068-21-45-649bd70f",
       "targetLexeme": "set out to (do sth)",
       "sourceContext": "The study... set out to investigate the feeding activity of insectivorous bats...",
       "phase1Inference": {
@@ -1100,7 +1663,15 @@
           "set out (on a journey)"
         ],
         "wordForms": {
-          "verb": [{ "form": "set out", "meaning": "bắt đầu" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "set out",
+              "meaning": "bắt đầu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1109,7 +1680,7 @@
       }
     },
     {
-      "id": 813,
+      "id": "1761813174068-21-46-39d84255",
       "targetLexeme": "feeding activity",
       "sourceContext": "...to investigate the feeding activity of insectivorous bats...",
       "phase1Inference": {
@@ -1125,9 +1696,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "feeding", "meaning": "việc cho ăn/việc ăn" },
-            { "form": "activity", "meaning": "hoạt động" }
-          ]
+            {
+              "form": "feeding",
+              "meaning": "việc cho ăn/việc ăn"
+            },
+            {
+              "form": "activity",
+              "meaning": "hoạt động"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1136,7 +1716,7 @@
       }
     },
     {
-      "id": 814,
+      "id": "1761813174068-21-47-1d6bf3d9",
       "targetLexeme": "farmland bordering (a place)",
       "sourceContext": "...in the farmland bordering the Ranomafana National Park...",
       "phase1Inference": {
@@ -1145,13 +1725,30 @@
       "phase2Annotation": {
         "definitionEN": "Agricultural land that is adjacent to or shares a boundary with another area (like a park)",
         "translationVI": "Đất nông nghiệp giáp ranh/nằm sát (một nơi)",
-        "relatedCollocates": ["border (v)", "border (n)", "farmland (n)"],
+        "relatedCollocates": [
+          "border (v)",
+          "border (n)",
+          "farmland (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "farmland", "meaning": "đất nông nghiệp" },
-            { "form": "border", "meaning": "biên giới" }
+            {
+              "form": "farmland",
+              "meaning": "đất nông nghiệp"
+            },
+            {
+              "form": "border",
+              "meaning": "biên giới"
+            }
           ],
-          "verb": [{ "form": "border", "meaning": "giáp ranh" }]
+          "verb": [
+            {
+              "form": "border",
+              "meaning": "giáp ranh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1160,7 +1757,7 @@
       }
     },
     {
-      "id": 815,
+      "id": "1761813174068-21-48-08abce15",
       "targetLexeme": "southeast (n/adj)",
       "sourceContext": "...in the southeast of the country.",
       "phase1Inference": {
@@ -1169,10 +1766,26 @@
       "phase2Annotation": {
         "definitionEN": "The direction or area that is halfway between south and east",
         "translationVI": "(Phía) đông nam",
-        "relatedCollocates": ["northeast", "southwest", "northwest"],
+        "relatedCollocates": [
+          "northeast",
+          "southwest",
+          "northwest"
+        ],
         "wordForms": {
-          "noun": [{ "form": "southeast", "meaning": "phía đông nam" }],
-          "adjective": [{ "form": "southeastern", "meaning": "thuộc đông nam" }]
+          "noun": [
+            {
+              "form": "southeast",
+              "meaning": "phía đông nam"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "southeastern",
+              "meaning": "thuộc đông nam"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1181,7 +1794,7 @@
       }
     },
     {
-      "id": 816,
+      "id": "1761813174068-21-49-785073da",
       "targetLexeme": "state-of-the-art (adj)",
       "sourceContext": "Rocha and his team used state-of-the-art ultrasonic recorders...",
       "phase1Inference": {
@@ -1195,9 +1808,15 @@
           "cutting-edge (synonym)"
         ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "state-of-the-art", "meaning": "hiện đại nhất" }
-          ]
+            {
+              "form": "state-of-the-art",
+              "meaning": "hiện đại nhất"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1206,7 +1825,7 @@
       }
     },
     {
-      "id": 817,
+      "id": "1761813174068-21-50-46d0a96a",
       "targetLexeme": "ultrasonic recorders",
       "sourceContext": "...used state-of-the-art ultrasonic recorders to record over a thousand bat 'feeding buzzes'...",
       "phase1Inference": {
@@ -1215,10 +1834,25 @@
       "phase2Annotation": {
         "definitionEN": "Devices that can capture sounds at frequencies higher than the range of human hearing",
         "translationVI": "Máy ghi (sóng) siêu âm",
-        "relatedCollocates": ["ultrasonic (sound)", "record (v)"],
+        "relatedCollocates": [
+          "ultrasonic (sound)",
+          "record (v)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "recorder", "meaning": "máy ghi âm" }],
-          "adjective": [{ "form": "ultrasonic", "meaning": "siêu âm" }]
+          "noun": [
+            {
+              "form": "recorder",
+              "meaning": "máy ghi âm"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "ultrasonic",
+              "meaning": "siêu âm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1227,7 +1861,7 @@
       }
     },
     {
-      "id": 818,
+      "id": "1761813174068-21-51-502425ce",
       "targetLexeme": "feeding buzzes",
       "sourceContext": "...record over a thousand bat 'feeding buzzes' (echolocation sequences used by bats to target their prey)...",
       "phase1Inference": {
@@ -1241,7 +1875,15 @@
           "target (prey)"
         ],
         "wordForms": {
-          "noun": [{ "form": "buzz", "meaning": "tiếng vo ve" }]
+          "noun": [
+            {
+              "form": "buzz",
+              "meaning": "tiếng vo ve"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1250,7 +1892,7 @@
       }
     },
     {
-      "id": 819,
+      "id": "1761813174068-21-52-6d5cb054",
       "targetLexeme": "echolocation sequences",
       "sourceContext": "...(echolocation sequences used by bats to target their prey)...",
       "phase1Inference": {
@@ -1266,9 +1908,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "echolocation", "meaning": "sự định vị bằng tiếng vang" },
-            { "form": "sequence", "meaning": "chuỗi, trình tự" }
-          ]
+            {
+              "form": "echolocation",
+              "meaning": "sự định vị bằng tiếng vang"
+            },
+            {
+              "form": "sequence",
+              "meaning": "chuỗi, trình tự"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1277,7 +1928,7 @@
       }
     },
     {
-      "id": 820,
+      "id": "1761813174068-21-53-003625bb",
       "targetLexeme": "target their prey",
       "sourceContext": "...sequences used by bats to target their prey...",
       "phase1Inference": {
@@ -1286,13 +1937,30 @@
       "phase2Annotation": {
         "definitionEN": "To identify and aim for the animal that one is hunting",
         "translationVI": "Nhắm mục tiêu/xác định con mồi",
-        "relatedCollocates": ["target (v)", "prey (n)", "hunt (v)"],
+        "relatedCollocates": [
+          "target (v)",
+          "prey (n)",
+          "hunt (v)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "target", "meaning": "mục tiêu" },
-            { "form": "prey", "meaning": "con mồi" }
+            {
+              "form": "target",
+              "meaning": "mục tiêu"
+            },
+            {
+              "form": "prey",
+              "meaning": "con mồi"
+            }
           ],
-          "verb": [{ "form": "target", "meaning": "nhắm mục tiêu" }]
+          "verb": [
+            {
+              "form": "target",
+              "meaning": "nhắm mục tiêu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1301,7 +1969,7 @@
       }
     },
     {
-      "id": 821,
+      "id": "1761813174068-21-54-1c5d76da",
       "targetLexeme": "favourite feeding spots",
       "sourceContext": "...in order to identify the favourite feeding spots of the bats.",
       "phase1Inference": {
@@ -1310,12 +1978,24 @@
       "phase2Annotation": {
         "definitionEN": "The specific locations where an animal prefers to go to find food",
         "translationVI": "Các địa điểm/chỗ kiếm ăn ưa thích",
-        "relatedCollocates": ["feeding (grounds)", "hotspots (n)"],
+        "relatedCollocates": [
+          "feeding (grounds)",
+          "hotspots (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "spot", "meaning": "địa điểm" },
-            { "form": "feeding", "meaning": "việc kiếm ăn" }
-          ]
+            {
+              "form": "spot",
+              "meaning": "địa điểm"
+            },
+            {
+              "form": "feeding",
+              "meaning": "việc kiếm ăn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1324,7 +2004,7 @@
       }
     },
     {
-      "id": 822,
+      "id": "1761813174068-21-55-63607f0e",
       "targetLexeme": "DNA barcoding techniques",
       "sourceContext": "They next used DNA barcoding techniques to analyse droppings...",
       "phase1Inference": {
@@ -1333,13 +2013,29 @@
       "phase2Annotation": {
         "definitionEN": "A scientific method that uses a short genetic marker (a 'barcode') in an organism's DNA to identify it as belonging to a particular species",
         "translationVI": "Các kỹ thuật mã vạch DNA (dùng để xác định loài)",
-        "relatedCollocates": ["DNA (n)", "barcode (n)", "technique (n)"],
+        "relatedCollocates": [
+          "DNA (n)",
+          "barcode (n)",
+          "technique (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "DNA", "meaning": "ADN" },
-            { "form": "barcode", "meaning": "mã vạch" },
-            { "form": "technique", "meaning": "kỹ thuật" }
-          ]
+            {
+              "form": "DNA",
+              "meaning": "ADN"
+            },
+            {
+              "form": "barcode",
+              "meaning": "mã vạch"
+            },
+            {
+              "form": "technique",
+              "meaning": "kỹ thuật"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1348,7 +2044,7 @@
       }
     },
     {
-      "id": 823,
+      "id": "1761813174068-21-56-1b8bd4f6",
       "targetLexeme": "analyse droppings",
       "sourceContext": "...to analyse droppings collected from bats at the different sites.",
       "phase1Inference": {
@@ -1364,10 +2060,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "analysis", "meaning": "sự phân tích" },
-            { "form": "droppings", "meaning": "phân (chim, dơi, côn trùng)" }
+            {
+              "form": "analysis",
+              "meaning": "sự phân tích"
+            },
+            {
+              "form": "droppings",
+              "meaning": "phân (chim, dơi, côn trùng)"
+            }
           ],
-          "verb": [{ "form": "analyse", "meaning": "phân tích" }]
+          "verb": [
+            {
+              "form": "analyse",
+              "meaning": "phân tích"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1376,7 +2085,7 @@
       }
     },
     {
-      "id": 824,
+      "id": "1761813174068-21-57-231724b4",
       "targetLexeme": "bat activity",
       "sourceContext": "The recordings revealed that bat activity over rice fields was much higher than...",
       "phase1Inference": {
@@ -1385,12 +2094,24 @@
       "phase2Annotation": {
         "definitionEN": "The level of movement, feeding, or presence of bats in a particular area",
         "translationVI": "Hoạt động của dơi",
-        "relatedCollocates": ["human activity", "feeding activity"],
+        "relatedCollocates": [
+          "human activity",
+          "feeding activity"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "bat", "meaning": "con dơi" },
-            { "form": "activity", "meaning": "hoạt động" }
-          ]
+            {
+              "form": "bat",
+              "meaning": "con dơi"
+            },
+            {
+              "form": "activity",
+              "meaning": "hoạt động"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1399,7 +2120,7 @@
       }
     },
     {
-      "id": 825,
+      "id": "1761813174068-21-58-73591d26",
       "targetLexeme": "continuous forest",
       "sourceContext": "...much higher than it was in continuous forest – seven times higher over rice fields...",
       "phase1Inference": {
@@ -1408,10 +2129,25 @@
       "phase2Annotation": {
         "definitionEN": "A large area of forest that is not broken up by roads, farms, or other developments; an intact forest",
         "translationVI": "Rừng liên tục, rừng nguyên khối (không bị chia cắt)",
-        "relatedCollocates": ["fragmented forest (antonym)", "intact forest"],
+        "relatedCollocates": [
+          "fragmented forest (antonym)",
+          "intact forest"
+        ],
         "wordForms": {
-          "noun": [{ "form": "forest", "meaning": "rừng" }],
-          "adjective": [{ "form": "continuous", "meaning": "liên tục" }]
+          "noun": [
+            {
+              "form": "forest",
+              "meaning": "rừng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "continuous",
+              "meaning": "liên tục"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1420,7 +2156,7 @@
       }
     },
     {
-      "id": 826,
+      "id": "1761813174068-21-59-0d41df20",
       "targetLexeme": "on flat ground",
       "sourceContext": "...seven times higher over rice fields which were on flat ground...",
       "phase1Inference": {
@@ -1434,8 +2170,20 @@
           "on the sides of hills (antonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "ground", "meaning": "mặt đất" }],
-          "adjective": [{ "form": "flat", "meaning": "bằng phẳng" }]
+          "noun": [
+            {
+              "form": "ground",
+              "meaning": "mặt đất"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "flat",
+              "meaning": "bằng phẳng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1444,7 +2192,7 @@
       }
     },
     {
-      "id": 827,
+      "id": "1761813174068-21-60-2dc2e953",
       "targetLexeme": "on the sides of hills",
       "sourceContext": "...and sixteen times higher over fields on the sides of hills...",
       "phase1Inference": {
@@ -1459,9 +2207,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "side", "meaning": "sườn, bên" },
-            { "form": "hill", "meaning": "đồi" }
-          ]
+            {
+              "form": "side",
+              "meaning": "sườn, bên"
+            },
+            {
+              "form": "hill",
+              "meaning": "đồi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1470,7 +2227,7 @@
       }
     },
     {
-      "id": 828,
+      "id": "1761813174068-21-61-62272a5e",
       "targetLexeme": "leaving no doubt that",
       "sourceContext": "...leaving no doubt that the animals are preferentially foraging...",
       "phase1Inference": {
@@ -1479,9 +2236,20 @@
       "phase2Annotation": {
         "definitionEN": "An idiom meaning it is completely certain or clear that something is true",
         "translationVI": "Không còn nghi ngờ gì nữa rằng, cho thấy rõ ràng là",
-        "relatedCollocates": ["undoubtedly (synonym)", "it is clear that..."],
+        "relatedCollocates": [
+          "undoubtedly (synonym)",
+          "it is clear that..."
+        ],
         "wordForms": {
-          "noun": [{ "form": "doubt", "meaning": "sự nghi ngờ" }]
+          "noun": [
+            {
+              "form": "doubt",
+              "meaning": "sự nghi ngờ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1490,7 +2258,7 @@
       }
     },
     {
-      "id": 829,
+      "id": "1761813174068-21-62-183f3e44",
       "targetLexeme": "preferentially (adv)",
       "sourceContext": "...the animals are preferentially foraging in these man-made ecosystems.",
       "phase1Inference": {
@@ -1505,10 +2273,24 @@
           "foraging (v)"
         ],
         "wordForms": {
-          "noun": [{ "form": "preference", "meaning": "sự ưu tiên" }],
-          "verb": [{ "form": "prefer", "meaning": "thích hơn" }],
+          "noun": [
+            {
+              "form": "preference",
+              "meaning": "sự ưu tiên"
+            }
+          ],
+          "verb": [
+            {
+              "form": "prefer",
+              "meaning": "thích hơn"
+            }
+          ],
+          "adjective": [],
           "adverb": [
-            { "form": "preferentially", "meaning": "một cách ưu tiên" }
+            {
+              "form": "preferentially",
+              "meaning": "một cách ưu tiên"
+            }
           ]
         }
       },
@@ -1518,7 +2300,7 @@
       }
     },
     {
-      "id": 830,
+      "id": "1761813174068-21-63-27b8b797",
       "targetLexeme": "foraging (v)",
       "sourceContext": "...preferentially foraging in these man-made ecosystems.",
       "phase1Inference": {
@@ -1533,7 +2315,15 @@
           "hunting (related)"
         ],
         "wordForms": {
-          "verb": [{ "form": "forage", "meaning": "kiếm ăn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "forage",
+              "meaning": "kiếm ăn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1542,7 +2332,7 @@
       }
     },
     {
-      "id": 831,
+      "id": "1761813174068-21-64-711fdc79",
       "targetLexeme": "man-made ecosystems",
       "sourceContext": "...foraging in these man-made ecosystems.",
       "phase1Inference": {
@@ -1557,8 +2347,20 @@
           "farmland (example)"
         ],
         "wordForms": {
-          "noun": [{ "form": "ecosystem", "meaning": "hệ sinh thái" }],
-          "adjective": [{ "form": "man-made", "meaning": "nhân tạo" }]
+          "noun": [
+            {
+              "form": "ecosystem",
+              "meaning": "hệ sinh thái"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "man-made",
+              "meaning": "nhân tạo"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1567,7 +2369,7 @@
       }
     },
     {
-      "id": 832,
+      "id": "1761813174068-21-65-36d5865d",
       "targetLexeme": "nutrient run-off",
       "sourceContext": "...lack of water and nutrient run-off make these crops more susceptible...",
       "phase1Inference": {
@@ -1583,9 +2385,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "nutrient", "meaning": "chất dinh dưỡng" },
-            { "form": "run-off", "meaning": "dòng chảy, sự rửa trôi" }
-          ]
+            {
+              "form": "nutrient",
+              "meaning": "chất dinh dưỡng"
+            },
+            {
+              "form": "run-off",
+              "meaning": "dòng chảy, sự rửa trôi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1594,7 +2405,7 @@
       }
     },
     {
-      "id": 833,
+      "id": "1761813174068-21-66-3d6a2906",
       "targetLexeme": "susceptible to (insect pest infestations)",
       "sourceContext": "...make these crops more susceptible to insect pest infestations.",
       "phase1Inference": {
@@ -1610,10 +2421,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "susceptibility", "meaning": "tính dễ bị" },
-            { "form": "infestation", "meaning": "sự xâm nhập" }
+            {
+              "form": "susceptibility",
+              "meaning": "tính dễ bị"
+            },
+            {
+              "form": "infestation",
+              "meaning": "sự xâm nhập"
+            }
           ],
-          "adjective": [{ "form": "susceptible", "meaning": "dễ bị" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "susceptible",
+              "meaning": "dễ bị"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1622,7 +2446,7 @@
       }
     },
     {
-      "id": 834,
+      "id": "1761813174068-21-67-13f5a568",
       "targetLexeme": "economically important",
       "sourceContext": "...all six species of bat had fed on economically important insect pests.",
       "phase1Inference": {
@@ -1636,8 +2460,20 @@
           "economically (significant)"
         ],
         "wordForms": {
-          "adjective": [{ "form": "important", "meaning": "quan trọng" }],
-          "adverb": [{ "form": "economically", "meaning": "về mặt kinh tế" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "important",
+              "meaning": "quan trọng"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "economically",
+              "meaning": "về mặt kinh tế"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1646,7 +2482,7 @@
       }
     },
     {
-      "id": 835,
+      "id": "1761813174068-21-68-72700146",
       "targetLexeme": "benefited most from",
       "sourceContext": "While the findings indicated that rice farming benefits most from the bats...",
       "phase1Inference": {
@@ -1655,10 +2491,26 @@
       "phase2Annotation": {
         "definitionEN": "To receive the greatest advantage or help from something",
         "translationVI": "Hưởng lợi nhiều nhất từ",
-        "relatedCollocates": ["benefit (from)", "gain (from)", "advantage (n)"],
+        "relatedCollocates": [
+          "benefit (from)",
+          "gain (from)",
+          "advantage (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "benefit", "meaning": "lợi ích" }],
-          "verb": [{ "form": "benefit", "meaning": "hưởng lợi" }]
+          "noun": [
+            {
+              "form": "benefit",
+              "meaning": "lợi ích"
+            }
+          ],
+          "verb": [
+            {
+              "form": "benefit",
+              "meaning": "hưởng lợi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1667,7 +2519,7 @@
       }
     },
     {
-      "id": 836,
+      "id": "1761813174068-21-69-24c475a2",
       "targetLexeme": "indications (n)",
       "sourceContext": "...the scientists also found indications that the bats were consuming pests of other crops...",
       "phase1Inference": {
@@ -1682,8 +2534,20 @@
           "indicate (v)"
         ],
         "wordForms": {
-          "noun": [{ "form": "indication", "meaning": "dấu hiệu" }],
-          "verb": [{ "form": "indicate", "meaning": "chỉ ra" }]
+          "noun": [
+            {
+              "form": "indication",
+              "meaning": "dấu hiệu"
+            }
+          ],
+          "verb": [
+            {
+              "form": "indicate",
+              "meaning": "chỉ ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1692,7 +2556,7 @@
       }
     },
     {
-      "id": 837,
+      "id": "1761813174068-21-70-00847535",
       "targetLexeme": "black twig borer",
       "sourceContext": "...including the black twig borer (which infests coffee plants)...",
       "phase1Inference": {
@@ -1701,12 +2565,25 @@
       "phase2Annotation": {
         "definitionEN": "A type of small beetle that bores into the twigs of trees and shrubs, particularly coffee plants",
         "translationVI": "Mọt cành đen",
-        "relatedCollocates": ["borer (n)", "twig (n)", "infest (v)"],
+        "relatedCollocates": [
+          "borer (n)",
+          "twig (n)",
+          "infest (v)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "borer", "meaning": "con mọt, sâu đục" },
-            { "form": "twig", "meaning": "cành cây nhỏ" }
-          ]
+            {
+              "form": "borer",
+              "meaning": "con mọt, sâu đục"
+            },
+            {
+              "form": "twig",
+              "meaning": "cành cây nhỏ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1715,7 +2592,7 @@
       }
     },
     {
-      "id": 838,
+      "id": "1761813174068-21-71-630fe657",
       "targetLexeme": "infests (v)",
       "sourceContext": "...(which infests coffee plants)...",
       "phase1Inference": {
@@ -1724,10 +2601,26 @@
       "phase2Annotation": {
         "definitionEN": "(Of insects or pests) to be present in large numbers in a place, causing damage or disease",
         "translationVI": "Xâm nhập, phá hoại (với số lượng lớn)",
-        "relatedCollocates": ["infestation (n)", "pest (n)", "invade (v)"],
+        "relatedCollocates": [
+          "infestation (n)",
+          "pest (n)",
+          "invade (v)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "infestation", "meaning": "sự xâm nhập" }],
-          "verb": [{ "form": "infest", "meaning": "phá hoại" }]
+          "noun": [
+            {
+              "form": "infestation",
+              "meaning": "sự xâm nhập"
+            }
+          ],
+          "verb": [
+            {
+              "form": "infest",
+              "meaning": "phá hoại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1736,7 +2629,7 @@
       }
     },
     {
-      "id": 839,
+      "id": "1761813174068-21-72-43947eae",
       "targetLexeme": "sugarcane cicada",
       "sourceContext": "...the sugarcane cicada...",
       "phase1Inference": {
@@ -1745,12 +2638,24 @@
       "phase2Annotation": {
         "definitionEN": "A type of cicada (an insect) that is considered a pest for sugarcane crops",
         "translationVI": "Ve sầu hại mía",
-        "relatedCollocates": ["sugarcane (n)", "cicada (n)"],
+        "relatedCollocates": [
+          "sugarcane (n)",
+          "cicada (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "sugarcane", "meaning": "mía" },
-            { "form": "cicada", "meaning": "ve sầu" }
-          ]
+            {
+              "form": "sugarcane",
+              "meaning": "mía"
+            },
+            {
+              "form": "cicada",
+              "meaning": "ve sầu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1759,7 +2664,7 @@
       }
     },
     {
-      "id": 840,
+      "id": "1761813174068-21-73-6d67b585",
       "targetLexeme": "macadamia nut-borer",
       "sourceContext": "...the macadamia nut-borer...",
       "phase1Inference": {
@@ -1768,12 +2673,24 @@
       "phase2Annotation": {
         "definitionEN": "An insect pest that bores into and destroys macadamia nuts",
         "translationVI": "Sâu đục hạt macadamia",
-        "relatedCollocates": ["nut (n)", "borer (n)"],
+        "relatedCollocates": [
+          "nut (n)",
+          "borer (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "nut", "meaning": "hạt" },
-            { "form": "borer", "meaning": "sâu đục" }
-          ]
+            {
+              "form": "nut",
+              "meaning": "hạt"
+            },
+            {
+              "form": "borer",
+              "meaning": "sâu đục"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1782,7 +2699,7 @@
       }
     },
     {
-      "id": 841,
+      "id": "1761813174068-21-74-0b22acf3",
       "targetLexeme": "sober tabby",
       "sourceContext": "...and the sober tabby (a pest of citrus fruits).",
       "phase1Inference": {
@@ -1791,11 +2708,20 @@
       "phase2Annotation": {
         "definitionEN": "A species of moth (likely a type of caterpillar) that is a pest for citrus fruits",
         "translationVI": "Sâu/bướm (hại cây có múi)",
-        "relatedCollocates": ["pest of (citrus fruits)", "moth (n)"],
+        "relatedCollocates": [
+          "pest of (citrus fruits)",
+          "moth (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "tabby", "meaning": "sâu/bướm (trong ngữ cảnh này)" }
-          ]
+            {
+              "form": "tabby",
+              "meaning": "sâu/bướm (trong ngữ cảnh này)"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1804,7 +2730,7 @@
       }
     },
     {
-      "id": 842,
+      "id": "1761813174068-21-75-2b2ff9fa",
       "targetLexeme": "pest of citrus fruits",
       "sourceContext": "...(a pest of citrus fruits).",
       "phase1Inference": {
@@ -1813,12 +2739,24 @@
       "phase2Annotation": {
         "definitionEN": "An insect or animal that is harmful to fruits like oranges, lemons, and limes",
         "translationVI": "Sâu bệnh hại cây có múi",
-        "relatedCollocates": ["citrus (fruits)", "pest (n)"],
+        "relatedCollocates": [
+          "citrus (fruits)",
+          "pest (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "pest", "meaning": "sâu bệnh" },
-            { "form": "citrus", "meaning": "cây có múi" }
-          ]
+            {
+              "form": "pest",
+              "meaning": "sâu bệnh"
+            },
+            {
+              "form": "citrus",
+              "meaning": "cây có múi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1827,7 +2765,7 @@
       }
     },
     {
-      "id": 843,
+      "id": "1761813174068-21-76-13d3e8d1",
       "targetLexeme": "effectiveness (n)",
       "sourceContext": "‘The effectiveness of bats as pest controllers has already been proven...",
       "phase1Inference": {
@@ -1842,8 +2780,20 @@
           "proven (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "effectiveness", "meaning": "sự hiệu quả" }],
-          "adjective": [{ "form": "effective", "meaning": "hiệu quả" }]
+          "noun": [
+            {
+              "form": "effectiveness",
+              "meaning": "sự hiệu quả"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "effective",
+              "meaning": "hiệu quả"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1852,7 +2802,7 @@
       }
     },
     {
-      "id": 844,
+      "id": "1761813174068-21-77-245b55ce",
       "targetLexeme": "proven (v/adj)",
       "sourceContext": "...has already been proven in the USA and Catalonia...’",
       "phase1Inference": {
@@ -1861,10 +2811,26 @@
       "phase2Annotation": {
         "definitionEN": "To be demonstrated to be true or effective by evidence or argument",
         "translationVI": "Được chứng minh",
-        "relatedCollocates": ["prove (v)", "proof (n)", "unproven (antonym)"],
+        "relatedCollocates": [
+          "prove (v)",
+          "proof (n)",
+          "unproven (antonym)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "prove", "meaning": "chứng minh" }],
-          "adjective": [{ "form": "proven", "meaning": "đã được chứng minh" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "prove",
+              "meaning": "chứng minh"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "proven",
+              "meaning": "đã được chứng minh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1873,7 +2839,7 @@
       }
     },
     {
-      "id": 845,
+      "id": "1761813174068-21-78-60be55fb",
       "targetLexeme": "co-author (n)",
       "sourceContext": "...says co-author James Kemp...",
       "phase1Inference": {
@@ -1882,12 +2848,24 @@
       "phase2Annotation": {
         "definitionEN": "A person who writes a book, article, or report with another person",
         "translationVI": "Đồng tác giả",
-        "relatedCollocates": ["author (n)", "co-lead (related)"],
+        "relatedCollocates": [
+          "author (n)",
+          "co-lead (related)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "co-author", "meaning": "đồng tác giả" },
-            { "form": "author", "meaning": "tác giả" }
-          ]
+            {
+              "form": "co-author",
+              "meaning": "đồng tác giả"
+            },
+            {
+              "form": "author",
+              "meaning": "tác giả"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1896,7 +2874,7 @@
       }
     },
     {
-      "id": 846,
+      "id": "1761813174068-21-79-259a2478",
       "targetLexeme": "the stakes are (so high)",
       "sourceContext": "...where the stakes for both farmers and conservationists are so high.’",
       "phase1Inference": {
@@ -1905,9 +2883,20 @@
       "phase2Annotation": {
         "definitionEN": "An idiom meaning that there is a lot to be lost or gained in a situation",
         "translationVI": "Rủi ro/phần thưởng (trong cuộc) rất cao",
-        "relatedCollocates": ["high-stakes (adj)", "at stake (phrase)"],
+        "relatedCollocates": [
+          "high-stakes (adj)",
+          "at stake (phrase)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "stake", "meaning": "tiền cược, rủi ro" }]
+          "noun": [
+            {
+              "form": "stake",
+              "meaning": "tiền cược, rủi ro"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1916,7 +2905,7 @@
       }
     },
     {
-      "id": 847,
+      "id": "1761813174068-21-80-0be89618",
       "targetLexeme": "grateful to (sb/sth)",
       "sourceContext": "Local people may have a further reason to be grateful to their bats.",
       "phase1Inference": {
@@ -1925,10 +2914,25 @@
       "phase2Annotation": {
         "definitionEN": "Feeling or showing thanks and appreciation for someone or something",
         "translationVI": "Biết ơn (ai/cái gì)",
-        "relatedCollocates": ["thankful (for) (synonym)", "gratitude (n)"],
+        "relatedCollocates": [
+          "thankful (for) (synonym)",
+          "gratitude (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "gratitude", "meaning": "lòng biết ơn" }],
-          "adjective": [{ "form": "grateful", "meaning": "biết ơn" }]
+          "noun": [
+            {
+              "form": "gratitude",
+              "meaning": "lòng biết ơn"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "grateful",
+              "meaning": "biết ơn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1937,7 +2941,7 @@
       }
     },
     {
-      "id": 848,
+      "id": "1761813174068-21-81-00135a32",
       "targetLexeme": "associated with (spreading disease)",
       "sourceContext": "While the animal is often associated with spreading disease...",
       "phase1Inference": {
@@ -1952,8 +2956,20 @@
           "disease (spreading)"
         ],
         "wordForms": {
-          "noun": [{ "form": "association", "meaning": "sự liên tưởng" }],
-          "verb": [{ "form": "associate", "meaning": "liên kết" }]
+          "noun": [
+            {
+              "form": "association",
+              "meaning": "sự liên tưởng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "associate",
+              "meaning": "liên kết"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1962,7 +2978,7 @@
       }
     },
     {
-      "id": 849,
+      "id": "1761813174068-21-82-4ce3bb31",
       "targetLexeme": "carriers of (malaria)",
       "sourceContext": "...mosquitoes – carriers of malaria, Rift Valley fever virus and elephantiasis...",
       "phase1Inference": {
@@ -1971,10 +2987,25 @@
       "phase2Annotation": {
         "definitionEN": "An animal (or person) that carries and can transmit a disease, often without being sick itself",
         "translationVI": "(Vật) mang mầm bệnh (sốt rét)",
-        "relatedCollocates": ["disease (carriers)", "carry (a virus)"],
+        "relatedCollocates": [
+          "disease (carriers)",
+          "carry (a virus)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "carrier", "meaning": "vật mang bệnh" }],
-          "verb": [{ "form": "carry", "meaning": "mang" }]
+          "noun": [
+            {
+              "form": "carrier",
+              "meaning": "vật mang bệnh"
+            }
+          ],
+          "verb": [
+            {
+              "form": "carry",
+              "meaning": "mang"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1983,7 +3014,7 @@
       }
     },
     {
-      "id": 850,
+      "id": "1761813174068-21-83-5883f2ff",
       "targetLexeme": "elephantiasis (n)",
       "sourceContext": "...malaria, Rift Valley fever virus and elephantiasis...",
       "phase1Inference": {
@@ -1992,9 +3023,20 @@
       "phase2Annotation": {
         "definitionEN": "A tropical disease in which parts of the body (especially the legs) become grossly swollen due to obstruction of the lymphatic vessels",
         "translationVI": "Bệnh chân voi (bệnh phù chân voi)",
-        "relatedCollocates": ["disease (n)", "mosquito (related)"],
+        "relatedCollocates": [
+          "disease (n)",
+          "mosquito (related)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "elephantiasis", "meaning": "bệnh chân voi" }]
+          "noun": [
+            {
+              "form": "elephantiasis",
+              "meaning": "bệnh chân voi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2003,7 +3045,7 @@
       }
     },
     {
-      "id": 851,
+      "id": "1761813174068-21-84-69035ffd",
       "targetLexeme": "blackflies (n)",
       "sourceContext": "...as well as blackflies, which spread river blindness.",
       "phase1Inference": {
@@ -2012,9 +3054,20 @@
       "phase2Annotation": {
         "definitionEN": "A type of small, biting fly that breeds in flowing water and can transmit diseases",
         "translationVI": "Ruồi đen",
-        "relatedCollocates": ["spread (disease)", "fly (n)"],
+        "relatedCollocates": [
+          "spread (disease)",
+          "fly (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "blackfly", "meaning": "ruồi đen" }]
+          "noun": [
+            {
+              "form": "blackfly",
+              "meaning": "ruồi đen"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2023,7 +3076,7 @@
       }
     },
     {
-      "id": 852,
+      "id": "1761813174068-21-85-1a14f485",
       "targetLexeme": "river blindness",
       "sourceContext": "...which spread river blindness.",
       "phase1Inference": {
@@ -2032,12 +3085,25 @@
       "phase2Annotation": {
         "definitionEN": "A tropical disease caused by a parasitic worm, transmitted by blackflies, that can cause severe skin irritation and eventual blindness",
         "translationVI": "Bệnh mù lòa ven sông",
-        "relatedCollocates": ["spread (v)", "blindness (n)", "disease (n)"],
+        "relatedCollocates": [
+          "spread (v)",
+          "blindness (n)",
+          "disease (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "blindness", "meaning": "sự mù lòa" },
-            { "form": "river", "meaning": "sông" }
-          ]
+            {
+              "form": "blindness",
+              "meaning": "sự mù lòa"
+            },
+            {
+              "form": "river",
+              "meaning": "sông"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2046,7 +3112,7 @@
       }
     },
     {
-      "id": 853,
+      "id": "1761813174068-21-86-081f1593",
       "targetLexeme": "the relationship is complicated",
       "sourceContext": "Rocha points out that the relationship is complicated.",
       "phase1Inference": {
@@ -2061,8 +3127,20 @@
           "nuanced (related)"
         ],
         "wordForms": {
-          "noun": [{ "form": "relationship", "meaning": "mối quan hệ" }],
-          "adjective": [{ "form": "complicated", "meaning": "phức tạp" }]
+          "noun": [
+            {
+              "form": "relationship",
+              "meaning": "mối quan hệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "complicated",
+              "meaning": "phức tạp"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2071,7 +3149,7 @@
       }
     },
     {
-      "id": 854,
+      "id": "1761813174068-21-87-3729c7c9",
       "targetLexeme": "food is scarce",
       "sourceContext": "When food is scarce, bats become a crucial source of protein...",
       "phase1Inference": {
@@ -2087,10 +3165,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "food", "meaning": "thức ăn" },
-            { "form": "scarcity", "meaning": "sự khan hiếm" }
+            {
+              "form": "food",
+              "meaning": "thức ăn"
+            },
+            {
+              "form": "scarcity",
+              "meaning": "sự khan hiếm"
+            }
           ],
-          "adjective": [{ "form": "scarce", "meaning": "khan hiếm" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "scarce",
+              "meaning": "khan hiếm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2099,7 +3190,7 @@
       }
     },
     {
-      "id": 855,
+      "id": "1761813174068-21-88-4974ae7c",
       "targetLexeme": "a crucial source of protein",
       "sourceContext": "...bats become a crucial source of protein for local people.",
       "phase1Inference": {
@@ -2115,10 +3206,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "source", "meaning": "nguồn" },
-            { "form": "protein", "meaning": "protein" }
+            {
+              "form": "source",
+              "meaning": "nguồn"
+            },
+            {
+              "form": "protein",
+              "meaning": "protein"
+            }
           ],
-          "adjective": [{ "form": "crucial", "meaning": "quan trọng" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "crucial",
+              "meaning": "quan trọng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2127,7 +3231,7 @@
       }
     },
     {
-      "id": 856,
+      "id": "1761813174068-21-89-61d6dcb7",
       "targetLexeme": "roosting in (trees)",
       "sourceContext": "And as well as roosting in trees, the bats sometimes roost in buildings...",
       "phase1Inference": {
@@ -2142,8 +3246,20 @@
           "a bat (roost) (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "roost", "meaning": "chỗ đậu" }],
-          "verb": [{ "form": "roost", "meaning": "đậu, ngủ" }]
+          "noun": [
+            {
+              "form": "roost",
+              "meaning": "chỗ đậu"
+            }
+          ],
+          "verb": [
+            {
+              "form": "roost",
+              "meaning": "đậu, ngủ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2152,7 +3268,7 @@
       }
     },
     {
-      "id": 857,
+      "id": "1761813174068-21-90-2e1f4cd5",
       "targetLexeme": "roost in (buildings)",
       "sourceContext": "...the bats sometimes roost in buildings, but are not welcomed...",
       "phase1Inference": {
@@ -2167,8 +3283,20 @@
           "a bat (roost) (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "roost", "meaning": "chỗ đậu" }],
-          "verb": [{ "form": "roost", "meaning": "đậu, ngủ" }]
+          "noun": [
+            {
+              "form": "roost",
+              "meaning": "chỗ đậu"
+            }
+          ],
+          "verb": [
+            {
+              "form": "roost",
+              "meaning": "đậu, ngủ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2177,7 +3305,7 @@
       }
     },
     {
-      "id": 858,
+      "id": "1761813174068-21-91-710990af",
       "targetLexeme": "not welcomed",
       "sourceContext": "...but are not welcomed because they make them unclean.",
       "phase1Inference": {
@@ -2186,13 +3314,29 @@
       "phase2Annotation": {
         "definitionEN": "Not received with pleasure or gladness; considered undesirable",
         "translationVI": "Không được chào đón",
-        "relatedCollocates": ["unwelcome (adj) (synonym)", "welcome (v)"],
+        "relatedCollocates": [
+          "unwelcome (adj) (synonym)",
+          "welcome (v)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "welcome", "meaning": "chào đón" }],
+          "noun": [],
+          "verb": [
+            {
+              "form": "welcome",
+              "meaning": "chào đón"
+            }
+          ],
           "adjective": [
-            { "form": "welcomed", "meaning": "được chào đón" },
-            { "form": "unwelcome", "meaning": "không được chào đón" }
-          ]
+            {
+              "form": "welcomed",
+              "meaning": "được chào đón"
+            },
+            {
+              "form": "unwelcome",
+              "meaning": "không được chào đón"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2201,7 +3345,7 @@
       }
     },
     {
-      "id": 859,
+      "id": "1761813174068-21-92-757fcc6d",
       "targetLexeme": "unclean (adj)",
       "sourceContext": "...because they make them unclean.",
       "phase1Inference": {
@@ -2210,12 +3354,24 @@
       "phase2Annotation": {
         "definitionEN": "Dirty; or, morally or spiritually impure",
         "translationVI": "Không sạch sẽ, ô uế",
-        "relatedCollocates": ["dirty (synonym)", "clean (antonym)"],
+        "relatedCollocates": [
+          "dirty (synonym)",
+          "clean (antonym)"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "unclean", "meaning": "không sạch" },
-            { "form": "clean", "meaning": "sạch" }
-          ]
+            {
+              "form": "unclean",
+              "meaning": "không sạch"
+            },
+            {
+              "form": "clean",
+              "meaning": "sạch"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2224,7 +3380,7 @@
       }
     },
     {
-      "id": 860,
+      "id": "1761813174068-21-93-3423157e",
       "targetLexeme": "sacred caves",
       "sourceContext": "...they are associated with sacred caves and the ancestors...",
       "phase1Inference": {
@@ -2233,10 +3389,26 @@
       "phase2Annotation": {
         "definitionEN": "Caves that are considered holy or have special religious importance",
         "translationVI": "Các hang động linh thiêng",
-        "relatedCollocates": ["sacred (adj)", "holy (synonym)", "cave (n)"],
+        "relatedCollocates": [
+          "sacred (adj)",
+          "holy (synonym)",
+          "cave (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "cave", "meaning": "hang động" }],
-          "adjective": [{ "form": "sacred", "meaning": "linh thiêng" }]
+          "noun": [
+            {
+              "form": "cave",
+              "meaning": "hang động"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "sacred",
+              "meaning": "linh thiêng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2245,7 +3417,7 @@
       }
     },
     {
-      "id": 861,
+      "id": "1761813174068-21-94-1b3eec3e",
       "targetLexeme": "ancestors (n)",
       "sourceContext": "...sacred caves and the ancestors, so they are viewed as...",
       "phase1Inference": {
@@ -2254,12 +3426,24 @@
       "phase2Annotation": {
         "definitionEN": "People from whom one is descended, especially those more remote than a grandparent",
         "translationVI": "Tổ tiên",
-        "relatedCollocates": ["descendants (antonym)", "forefathers (synonym)"],
+        "relatedCollocates": [
+          "descendants (antonym)",
+          "forefathers (synonym)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "ancestor", "meaning": "tổ tiên" },
-            { "form": "ancestry", "meaning": "tổ tiên, dòng dõi" }
-          ]
+            {
+              "form": "ancestor",
+              "meaning": "tổ tiên"
+            },
+            {
+              "form": "ancestry",
+              "meaning": "tổ tiên, dòng dõi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2268,7 +3452,7 @@
       }
     },
     {
-      "id": 862,
+      "id": "1761813174068-21-95-552ba2a8",
       "targetLexeme": "viewed as (beings)",
       "sourceContext": "...so they are viewed as beings between worlds...",
       "phase1Inference": {
@@ -2277,10 +3461,25 @@
       "phase2Annotation": {
         "definitionEN": "To be considered or regarded in a particular way (e.g., as special creatures)",
         "translationVI": "Được xem như/coi như là (sinh vật)",
-        "relatedCollocates": ["seen as (synonym)", "regarded as (synonym)"],
+        "relatedCollocates": [
+          "seen as (synonym)",
+          "regarded as (synonym)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "view", "meaning": "cách nhìn" }],
-          "verb": [{ "form": "view (as)", "meaning": "xem như là" }]
+          "noun": [
+            {
+              "form": "view",
+              "meaning": "cách nhìn"
+            }
+          ],
+          "verb": [
+            {
+              "form": "view (as)",
+              "meaning": "xem như là"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2289,7 +3488,7 @@
       }
     },
     {
-      "id": 863,
+      "id": "1761813174068-21-96-69cdefe1",
       "targetLexeme": "beings between worlds",
       "sourceContext": "...viewed as beings between worlds...",
       "phase1Inference": {
@@ -2298,12 +3497,24 @@
       "phase2Annotation": {
         "definitionEN": "Creatures that are believed to exist in a state connecting different realms (e.g., the physical and spiritual worlds)",
         "translationVI": "Những sinh vật/thực thể giữa các thế giới",
-        "relatedCollocates": ["spiritual (beings)", "supernatural (related)"],
+        "relatedCollocates": [
+          "spiritual (beings)",
+          "supernatural (related)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "being", "meaning": "sinh vật, thực thể" },
-            { "form": "world", "meaning": "thế giới" }
-          ]
+            {
+              "form": "being",
+              "meaning": "sinh vật, thực thể"
+            },
+            {
+              "form": "world",
+              "meaning": "thế giới"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2312,7 +3523,7 @@
       }
     },
     {
-      "id": 864,
+      "id": "1761813174068-21-97-4eabac21",
       "targetLexeme": "significant in the culture",
       "sourceContext": "...which makes them very significant in the culture of the people.",
       "phase1Inference": {
@@ -2327,10 +3538,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "significance", "meaning": "tầm quan trọng" },
-            { "form": "culture", "meaning": "văn hóa" }
+            {
+              "form": "significance",
+              "meaning": "tầm quan trọng"
+            },
+            {
+              "form": "culture",
+              "meaning": "văn hóa"
+            }
           ],
-          "adjective": [{ "form": "significant", "meaning": "quan trọng" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "significant",
+              "meaning": "quan trọng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2339,7 +3563,7 @@
       }
     },
     {
-      "id": 865,
+      "id": "1761813174068-21-98-7598b614",
       "targetLexeme": "potential problem",
       "sourceContext": "And one potential problem is that while these bats are benefiting from farming...",
       "phase1Inference": {
@@ -2354,8 +3578,20 @@
           "a possible (problem)"
         ],
         "wordForms": {
-          "noun": [{ "form": "problem", "meaning": "vấn đề" }],
-          "adjective": [{ "form": "potential", "meaning": "tiềm ẩn" }]
+          "noun": [
+            {
+              "form": "problem",
+              "meaning": "vấn đề"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "potential",
+              "meaning": "tiềm ẩn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2364,7 +3600,7 @@
       }
     },
     {
-      "id": 866,
+      "id": "1761813174068-21-99-410039ad",
       "targetLexeme": "long-term effects on",
       "sourceContext": "...could have long-term effects on their numbers.",
       "phase1Inference": {
@@ -2378,8 +3614,20 @@
           "long-term (impact)"
         ],
         "wordForms": {
-          "noun": [{ "form": "effect", "meaning": "ảnh hưởng" }],
-          "adjective": [{ "form": "long-term", "meaning": "lâu dài" }]
+          "noun": [
+            {
+              "form": "effect",
+              "meaning": "ảnh hưởng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "long-term",
+              "meaning": "lâu dài"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2388,7 +3636,7 @@
       }
     },
     {
-      "id": 867,
+      "id": "1761813174068-21-100-4e088ad8",
       "targetLexeme": "mutually beneficial relationship",
       "sourceContext": "...farmers can promote this mutually beneficial relationship by installing bat houses.’",
       "phase1Inference": {
@@ -2403,8 +3651,20 @@
           "win-win (situation)"
         ],
         "wordForms": {
-          "adjective": [{ "form": "beneficial", "meaning": "có lợi" }],
-          "adverb": [{ "form": "mutually", "meaning": "lẫn nhau" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "beneficial",
+              "meaning": "có lợi"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "mutually",
+              "meaning": "lẫn nhau"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2413,7 +3673,7 @@
       }
     },
     {
-      "id": 868,
+      "id": "1761813174068-21-101-542eeddb",
       "targetLexeme": "installing (bat houses)",
       "sourceContext": "...by installing bat houses.’",
       "phase1Inference": {
@@ -2422,13 +3682,30 @@
       "phase2Annotation": {
         "definitionEN": "To put in place or fix equipment (like bat boxes) so that it is ready to use",
         "translationVI": "Lắp đặt (nhà cho dơi)",
-        "relatedCollocates": ["install (v)", "installation (n)", "bat (box)"],
+        "relatedCollocates": [
+          "install (v)",
+          "installation (n)",
+          "bat (box)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "installation", "meaning": "sự lắp đặt" },
-            { "form": "house", "meaning": "nhà" }
+            {
+              "form": "installation",
+              "meaning": "sự lắp đặt"
+            },
+            {
+              "form": "house",
+              "meaning": "nhà"
+            }
           ],
-          "verb": [{ "form": "install", "meaning": "lắp đặt" }]
+          "verb": [
+            {
+              "form": "install",
+              "meaning": "lắp đặt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2437,7 +3714,7 @@
       }
     },
     {
-      "id": 869,
+      "id": "1761813174068-21-102-76e1dbab",
       "targetLexeme": "colleagues (n)",
       "sourceContext": "Rocha and his colleagues believe that...",
       "phase1Inference": {
@@ -2446,9 +3723,20 @@
       "phase2Annotation": {
         "definitionEN": "People that you work with, especially in a professional job or organization",
         "translationVI": "Đồng nghiệp",
-        "relatedCollocates": ["work (colleagues)", "peers (synonym)"],
+        "relatedCollocates": [
+          "work (colleagues)",
+          "peers (synonym)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "colleague", "meaning": "đồng nghiệp" }]
+          "noun": [
+            {
+              "form": "colleague",
+              "meaning": "đồng nghiệp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2457,7 +3745,7 @@
       }
     },
     {
-      "id": 870,
+      "id": "1761813174068-21-103-20dfc55f",
       "targetLexeme": "maximising bat populations",
       "sourceContext": "...maximising bat populations can help to boost crop yields...",
       "phase1Inference": {
@@ -2466,10 +3754,26 @@
       "phase2Annotation": {
         "definitionEN": "To increase the number of bats in an area to the highest possible level",
         "translationVI": "Tối đa hóa/gia tăng tối đa quần thể dơi",
-        "relatedCollocates": ["maximize (v)", "population (n)", "increase (v)"],
+        "relatedCollocates": [
+          "maximize (v)",
+          "population (n)",
+          "increase (v)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "population", "meaning": "quần thể" }],
-          "verb": [{ "form": "maximise", "meaning": "tối đa hóa" }]
+          "noun": [
+            {
+              "form": "population",
+              "meaning": "quần thể"
+            }
+          ],
+          "verb": [
+            {
+              "form": "maximise",
+              "meaning": "tối đa hóa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2478,7 +3782,7 @@
       }
     },
     {
-      "id": 871,
+      "id": "1761813174068-21-104-2cb61971",
       "targetLexeme": "boost crop yields",
       "sourceContext": "...can help to boost crop yields and promote sustainable livelihoods.",
       "phase1Inference": {
@@ -2494,11 +3798,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "boost", "meaning": "sự thúc đẩy" },
-            { "form": "crop", "meaning": "cây trồng" },
-            { "form": "yield", "meaning": "năng suất" }
+            {
+              "form": "boost",
+              "meaning": "sự thúc đẩy"
+            },
+            {
+              "form": "crop",
+              "meaning": "cây trồng"
+            },
+            {
+              "form": "yield",
+              "meaning": "năng suất"
+            }
           ],
-          "verb": [{ "form": "boost", "meaning": "thúc đẩy" }]
+          "verb": [
+            {
+              "form": "boost",
+              "meaning": "thúc đẩy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2507,7 +3827,7 @@
       }
     },
     {
-      "id": 872,
+      "id": "1761813174068-21-105-3681167d",
       "targetLexeme": "promote sustainable livelihoods",
       "sourceContext": "...and promote sustainable livelihoods.",
       "phase1Inference": {
@@ -2523,10 +3843,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "livelihood", "meaning": "sinh kế" },
-            { "form": "sustainability", "meaning": "tính bền vững" }
+            {
+              "form": "livelihood",
+              "meaning": "sinh kế"
+            },
+            {
+              "form": "sustainability",
+              "meaning": "tính bền vững"
+            }
           ],
-          "verb": [{ "form": "promote", "meaning": "thúc đẩy" }]
+          "verb": [
+            {
+              "form": "promote",
+              "meaning": "thúc đẩy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2535,7 +3868,7 @@
       }
     },
     {
-      "id": 873,
+      "id": "1761813174068-21-106-53e5919b",
       "targetLexeme": "quantify (this contribution)",
       "sourceContext": "...calling for further research to quantify this contribution.",
       "phase1Inference": {
@@ -2544,13 +3877,30 @@
       "phase2Annotation": {
         "definitionEN": "To measure or express the amount or size of something (like a contribution) in numbers",
         "translationVI": "Định lượng (sự đóng góp này)",
-        "relatedCollocates": ["quantify (v)", "quantity (n)", "measure (v)"],
+        "relatedCollocates": [
+          "quantify (v)",
+          "quantity (n)",
+          "measure (v)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "quantity", "meaning": "số lượng" },
-            { "form": "contribution", "meaning": "sự đóng góp" }
+            {
+              "form": "quantity",
+              "meaning": "số lượng"
+            },
+            {
+              "form": "contribution",
+              "meaning": "sự đóng góp"
+            }
           ],
-          "verb": [{ "form": "quantify", "meaning": "định lượng" }]
+          "verb": [
+            {
+              "form": "quantify",
+              "meaning": "định lượng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2559,7 +3909,7 @@
       }
     },
     {
-      "id": 874,
+      "id": "1761813174068-21-107-386f3cb1",
       "targetLexeme": "give nature a hand",
       "sourceContext": "'If we give nature a hand, we can speed up the process of regeneration.’",
       "phase1Inference": {
@@ -2568,12 +3918,24 @@
       "phase2Annotation": {
         "definitionEN": "An idiom meaning to help or assist nature (often to recover or thrive)",
         "translationVI": "Giúp đỡ/chung tay với thiên nhiên",
-        "relatedCollocates": ["lend (sb) a hand (synonym)", "help (nature)"],
+        "relatedCollocates": [
+          "lend (sb) a hand (synonym)",
+          "help (nature)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "nature", "meaning": "thiên nhiên" },
-            { "form": "hand", "meaning": "bàn tay" }
-          ]
+            {
+              "form": "nature",
+              "meaning": "thiên nhiên"
+            },
+            {
+              "form": "hand",
+              "meaning": "bàn tay"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2582,7 +3944,7 @@
       }
     },
     {
-      "id": 875,
+      "id": "1761813174068-21-108-4ebf5e09",
       "targetLexeme": "speed up (the process)",
       "sourceContext": "...we can speed up the process of regeneration.’",
       "phase1Inference": {
@@ -2597,8 +3959,20 @@
           "process (n)"
         ],
         "wordForms": {
-          "verb": [{ "form": "speed up", "meaning": "đẩy nhanh" }],
-          "noun": [{ "form": "speed", "meaning": "tốc độ" }]
+          "noun": [
+            {
+              "form": "speed",
+              "meaning": "tốc độ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "speed up",
+              "meaning": "đẩy nhanh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2607,7 +3981,7 @@
       }
     },
     {
-      "id": 876,
+      "id": "1761813174068-21-109-2c1e87b7",
       "targetLexeme": "regeneration (n)",
       "sourceContext": "...speed up the process of regeneration.’",
       "phase1Inference": {
@@ -2622,8 +3996,20 @@
           "recovery (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "regeneration", "meaning": "sự tái sinh" }],
-          "verb": [{ "form": "regenerate", "meaning": "tái sinh" }]
+          "noun": [
+            {
+              "form": "regeneration",
+              "meaning": "sự tái sinh"
+            }
+          ],
+          "verb": [
+            {
+              "form": "regenerate",
+              "meaning": "tái sinh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2632,7 +4018,7 @@
       }
     },
     {
-      "id": 877,
+      "id": "1761813174068-21-110-4f700760",
       "targetLexeme": "forests are being destroyed",
       "sourceContext": "Q1 (T/F/NG): Many Madagascan forests are being destroyed by attacks from insects.",
       "phase1Inference": {
@@ -2653,7 +4039,7 @@
       }
     },
     {
-      "id": 878,
+      "id": "1761813174068-21-111-7e4a7e32",
       "targetLexeme": "Loss of habitat",
       "sourceContext": "Q2 (T/F/NG): Loss of habitat has badly affected insectivorous bats in Madagascar.",
       "phase1Inference": {
@@ -2673,7 +4059,7 @@
       }
     },
     {
-      "id": 879,
+      "id": "1761813174068-21-112-04cdc9e8",
       "targetLexeme": "studies... in different parts of the world",
       "sourceContext": "Q3 (T/F/NG): Ricardo Rocha has carried out studies of bats in different parts of the world.",
       "phase1Inference": {
@@ -2693,7 +4079,7 @@
       }
     },
     {
-      "id": 880,
+      "id": "1761813174068-21-113-4d830cc8",
       "targetLexeme": "Habitat modification",
       "sourceContext": "Q4 (T/F/NG): Habitat modification has resulted in indigenous bats in Madagascar becoming useful to farmers.",
       "phase1Inference": {
@@ -2713,7 +4099,7 @@
       }
     },
     {
-      "id": 881,
+      "id": "1761813174068-21-114-27f6b5d5",
       "targetLexeme": "more common than",
       "sourceContext": "Q5 (T/F/NG): The Malagasy mouse-eared bat is more common than other indigenous bat species in Madagascar.",
       "phase1Inference": {
@@ -2733,7 +4119,7 @@
       }
     },
     {
-      "id": 882,
+      "id": "1761813174068-21-115-1a38a061",
       "targetLexeme": "Bats may feed on",
       "sourceContext": "Q6 (T/F/NG): Bats may feed on paddy swarming caterpillars and grass webworms.",
       "phase1Inference": {
@@ -2753,7 +4139,7 @@
       }
     },
     {
-      "id": 883,
+      "id": "1761813174068-21-116-104a0b48",
       "targetLexeme": "investigate the feeding habits",
       "sourceContext": "Q (Table - Aim): to investigate the feeding habits of bats...",
       "phase1Inference": {
@@ -2762,7 +4148,9 @@
       "phase2Annotation": {
         "definitionEN": "Focus: Compares 'investigate the feeding habits' with 'investigate the feeding activity'",
         "translationVI": "Trọng tâm: So sánh 'investigate the feeding habits' (điều tra thói quen ăn uống) với 'investigate the feeding activity' (điều tra hoạt động kiếm ăn)",
-        "relatedCollocates": ["investigate the feeding activity (synonym)"]
+        "relatedCollocates": [
+          "investigate the feeding activity (synonym)"
+        ]
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
@@ -2770,7 +4158,7 @@
       }
     },
     {
-      "id": 884,
+      "id": "1761813174068-21-117-6b2cf02a",
       "targetLexeme": "ultrasonic recording",
       "sourceContext": "Q (Table - Method): ultrasonic recording to identify favourite feeding spots",
       "phase1Inference": {
@@ -2791,7 +4179,7 @@
       }
     },
     {
-      "id": 885,
+      "id": "1761813174068-21-118-26bd449a",
       "targetLexeme": "DNA analysis of bat 7 ..........",
       "sourceContext": "Q (Table - Method): DNA analysis of bat 7 ..........",
       "phase1Inference": {
@@ -2811,7 +4199,7 @@
       }
     },
     {
-      "id": 886,
+      "id": "1761813174068-21-119-16aab456",
       "targetLexeme": "were most active",
       "sourceContext": "Q (Table - Findings): were most active in rice fields located on hills",
       "phase1Inference": {
@@ -2831,7 +4219,7 @@
       }
     },
     {
-      "id": 887,
+      "id": "1761813174068-21-120-259e1d78",
       "targetLexeme": "ate pests of rice, 8 ............",
       "sourceContext": "Q (Table - Findings): ate pests of rice, 8 ............, sugarcane, nuts and fruit",
       "phase1Inference": {
@@ -2854,7 +4242,7 @@
       }
     },
     {
-      "id": 888,
+      "id": "1761813174068-21-121-668b26ca",
       "targetLexeme": "prevent the spread of disease",
       "sourceContext": "Q (Table - Findings): prevent the spread of disease by eating 9 .......... and blackflies",
       "phase1Inference": {
@@ -2874,7 +4262,7 @@
       }
     },
     {
-      "id": 889,
+      "id": "1761813174068-21-122-2dc17dae",
       "targetLexeme": "local attitudes to bats are mixed",
       "sourceContext": "Q (Table - Findings): local attitudes to bats are mixed:",
       "phase1Inference": {
@@ -2883,7 +4271,9 @@
       "phase2Annotation": {
         "definitionEN": "Focus: Compares 'attitudes... are mixed' with 'relationship is complicated'",
         "translationVI": "Trọng tâm: So sánh 'attitudes... are mixed' (thái độ trái chiều) với 'relationship is complicated' (mối quan hệ phức tạp)",
-        "relatedCollocates": ["the relationship is complicated (synonym)"]
+        "relatedCollocates": [
+          "the relationship is complicated (synonym)"
+        ]
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
@@ -2891,7 +4281,7 @@
       }
     },
     {
-      "id": 890,
+      "id": "1761813174068-21-123-5763a014",
       "targetLexeme": "provide food rich in 10 ..........",
       "sourceContext": "Q (Table - Findings): – they provide food rich in 10 ..........",
       "phase1Inference": {
@@ -2911,7 +4301,7 @@
       }
     },
     {
-      "id": 891,
+      "id": "1761813174068-21-124-6d4707a3",
       "targetLexeme": "where they roost become 11 ..........",
       "sourceContext": "Q (Table - Findings): – the buildings where they roost become 11 ..........",
       "phase1Inference": {
@@ -2932,7 +4322,7 @@
       }
     },
     {
-      "id": 892,
+      "id": "1761813174068-21-125-7c437f4a",
       "targetLexeme": "play an important role in local 12 ..........",
       "sourceContext": "Q (Table - Findings): – they play an important role in local 12 ..........",
       "phase1Inference": {
@@ -2952,7 +4342,7 @@
       }
     },
     {
-      "id": 893,
+      "id": "1761813174068-21-126-5bf1b14e",
       "targetLexeme": "farmers should provide special 13 ..........",
       "sourceContext": "Q (Table - Recommendation): farmers should provide special 13 .......... to support the bat population",
       "phase1Inference": {
@@ -2972,7 +4362,7 @@
       }
     },
     {
-      "id": 894,
+      "id": "1761813174068-21-127-0df6794c",
       "targetLexeme": "attacks from insects",
       "sourceContext": "Q1 (T/F/NG): ...destroyed by attacks from insects.",
       "phase1Inference": {
@@ -2981,7 +4371,10 @@
       "phase2Annotation": {
         "definitionEN": "Focus: Compares 'attacks from insects' with 'insect pests are destroying...'",
         "translationVI": "Trọng tâm: So sánh 'attacks from insects' (tấn công từ côn trùng) với 'insect pests are destroying' (sâu bệnh đang phá hủy)",
-        "relatedCollocates": ["insect pests (n)", "destroying (v)"]
+        "relatedCollocates": [
+          "insect pests (n)",
+          "destroying (v)"
+        ]
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
@@ -2989,7 +4382,7 @@
       }
     },
     {
-      "id": 895,
+      "id": "1761813174068-21-128-5d3754c7",
       "targetLexeme": "badly affected",
       "sourceContext": "Q2 (T/F/NG): ...has badly affected insectivorous bats...",
       "phase1Inference": {
@@ -3009,7 +4402,7 @@
       }
     },
     {
-      "id": 896,
+      "id": "1761813174068-21-129-37352f22",
       "targetLexeme": "becoming useful to farmers",
       "sourceContext": "Q4 (T/F/NG): ...bats in Madagascar becoming useful to farmers.",
       "phase1Inference": {
@@ -3030,7 +4423,7 @@
       }
     },
     {
-      "id": 897,
+      "id": "1761813174068-21-130-3e50e1f1",
       "targetLexeme": "support the bat population",
       "sourceContext": "Q (Table - Recommendation): ...to support the bat population",
       "phase1Inference": {
@@ -3049,5 +4442,11 @@
         "content": "Question: 'support the bat population' \n<->\nPassage: 'promote this mutually beneficial relationship'"
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.068Z",
+    "version": "2.0",
+    "originalCount": 131,
+    "migratedCount": 131
+  }
 }

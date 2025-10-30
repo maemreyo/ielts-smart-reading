@@ -4,7 +4,7 @@
   "totalItems": 66,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174014-1-0-7350adb5",
       "targetLexeme": "monuments of ancient Egypt",
       "sourceContext": "The pyramids are the most famous monuments of ancient Egypt...",
       "phase1Inference": {
@@ -21,10 +21,20 @@
           "historical sites"
         ],
         "wordForms": {
-          "noun": [{ "form": "monument", "meaning": "di tích" }],
+          "noun": [
+            {
+              "form": "monument",
+              "meaning": "di tích"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "monumental", "meaning": "hoành tráng, vĩ đại" }
-          ]
+            {
+              "form": "monumental",
+              "meaning": "hoành tráng, vĩ đại"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -33,7 +43,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174014-1-1-2b35f5ad",
       "targetLexeme": "hold enormous interest",
       "sourceContext": "...and still hold enormous interest for people in the present day.",
       "phase1Inference": {
@@ -50,8 +60,20 @@
           "enormous (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "interest", "meaning": "sự quan tâm" }],
-          "verb": [{ "form": "hold", "meaning": "nắm giữ, có" }]
+          "noun": [
+            {
+              "form": "interest",
+              "meaning": "sự quan tâm"
+            }
+          ],
+          "verb": [
+            {
+              "form": "hold",
+              "meaning": "nắm giữ, có"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -60,7 +82,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174014-1-2-18e0c129",
       "targetLexeme": "grand, impressive tributes",
       "sourceContext": "These grand, impressive tributes to the memory of the Egyptian kings...",
       "phase1Inference": {
@@ -77,8 +99,20 @@
           "grand (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "tribute", "meaning": "vật cống, sự tôn vinh" }],
-          "adjective": [{ "form": "impressive", "meaning": "ấn tượng" }]
+          "noun": [
+            {
+              "form": "tribute",
+              "meaning": "vật cống, sự tôn vinh"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "impressive",
+              "meaning": "ấn tượng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -87,7 +121,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174014-1-3-517da680",
       "targetLexeme": "evolution of the pyramid form",
       "sourceContext": "The evolution of the pyramid form has been written and argued about for centuries.",
       "phase1Inference": {
@@ -104,8 +138,20 @@
           "gradual development"
         ],
         "wordForms": {
-          "noun": [{ "form": "evolution", "meaning": "sự tiến hóa" }],
-          "verb": [{ "form": "evolve", "meaning": "tiến hóa" }]
+          "noun": [
+            {
+              "form": "evolution",
+              "meaning": "sự tiến hóa"
+            }
+          ],
+          "verb": [
+            {
+              "form": "evolve",
+              "meaning": "tiến hóa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -114,7 +160,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174014-1-4-39f73693",
       "targetLexeme": "as far as Egypt is concerned",
       "sourceContext": "However, there is no question that, as far as Egypt is concerned, it began with one monument...",
       "phase1Inference": {
@@ -125,9 +171,20 @@
         "sentiment": "neutral",
         "definitionEN": "An idiom used to introduce a topic or aspect, meaning 'in relation to Egypt' or 'speaking about Egypt'",
         "translationVI": "Xét về Ai Cập, đối với Ai Cập",
-        "relatedCollocates": ["as far as (I'm) concerned", "in terms of"],
+        "relatedCollocates": [
+          "as far as (I'm) concerned",
+          "in terms of"
+        ],
         "wordForms": {
-          "verb": [{ "form": "concern", "meaning": "liên quan đến" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "concern",
+              "meaning": "liên quan đến"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -136,7 +193,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174014-1-5-35d24736",
       "targetLexeme": "brilliant architect",
       "sourceContext": "...one monument to one king designed by one brilliant architect...",
       "phase1Inference": {
@@ -147,10 +204,25 @@
         "sentiment": "positive",
         "definitionEN": "An exceptionally clever or talented person who designs buildings",
         "translationVI": "Kiến trúc sư lỗi lạc",
-        "relatedCollocates": ["a talented (architect)", "a famous (architect)"],
+        "relatedCollocates": [
+          "a talented (architect)",
+          "a famous (architect)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "architect", "meaning": "kiến trúc sư" }],
-          "adjective": [{ "form": "brilliant", "meaning": "tài ba" }]
+          "noun": [
+            {
+              "form": "architect",
+              "meaning": "kiến trúc sư"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "brilliant",
+              "meaning": "tài ba"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -159,7 +231,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174014-1-6-1523553e",
       "targetLexeme": "Prior to Djoser's reign",
       "sourceContext": "Prior to Djoser's reign, tombs were rectangular monuments made of dried clay brick...",
       "phase1Inference": {
@@ -170,9 +242,20 @@
         "sentiment": "neutral",
         "definitionEN": "Before the period during which King Djoser ruled",
         "translationVI": "Trước triều đại của Djoser",
-        "relatedCollocates": ["before (the reign)", "during (the reign)"],
+        "relatedCollocates": [
+          "before (the reign)",
+          "during (the reign)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "reign", "meaning": "triều đại" }]
+          "noun": [
+            {
+              "form": "reign",
+              "meaning": "triều đại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -181,7 +264,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174014-1-7-6ed57237",
       "targetLexeme": "rectangular monuments",
       "sourceContext": "...tombs were rectangular monuments made of dried clay brick...",
       "phase1Inference": {
@@ -192,12 +275,25 @@
         "sentiment": "neutral",
         "definitionEN": "Structures built as memorials that have the shape of a rectangle",
         "translationVI": "Các di tích hình chữ nhật",
-        "relatedCollocates": ["rectangular (shape)", "monument (n)"],
+        "relatedCollocates": [
+          "rectangular (shape)",
+          "monument (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "rectangle", "meaning": "hình chữ nhật" }],
+          "noun": [
+            {
+              "form": "rectangle",
+              "meaning": "hình chữ nhật"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "rectangular", "meaning": "có hình chữ nhật" }
-          ]
+            {
+              "form": "rectangular",
+              "meaning": "có hình chữ nhật"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -206,7 +302,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174014-1-8-446a1ffe",
       "targetLexeme": "deceased person",
       "sourceContext": "...underground passages where the deceased person was buried.",
       "phase1Inference": {
@@ -217,10 +313,25 @@
         "sentiment": "neutral",
         "definitionEN": "A person who has recently died",
         "translationVI": "Người đã khuất",
-        "relatedCollocates": ["the deceased (n)", "the dead person"],
+        "relatedCollocates": [
+          "the deceased (n)",
+          "the dead person"
+        ],
         "wordForms": {
-          "noun": [{ "form": "deceased", "meaning": "người đã khuất" }],
-          "adjective": [{ "form": "deceased", "meaning": "đã qua đời" }]
+          "noun": [
+            {
+              "form": "deceased",
+              "meaning": "người đã khuất"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "deceased",
+              "meaning": "đã qua đời"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -229,7 +340,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174014-1-9-42e128cf",
       "targetLexeme": "conceived of building",
       "sourceContext": "...Djoser's main official, whose name was Imhotep, conceived of building a taller, more impressive tomb...",
       "phase1Inference": {
@@ -240,10 +351,25 @@
         "sentiment": "positive",
         "definitionEN": "To form an idea or plan in one's mind for constructing something",
         "translationVI": "Nảy ra ý tưởng/quan niệm về việc xây dựng",
-        "relatedCollocates": ["conceive (an idea)", "conceive (a plan)"],
+        "relatedCollocates": [
+          "conceive (an idea)",
+          "conceive (a plan)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "concept", "meaning": "khái niệm" }],
-          "verb": [{ "form": "conceive", "meaning": "hình thành (ý tưởng)" }]
+          "noun": [
+            {
+              "form": "concept",
+              "meaning": "khái niệm"
+            }
+          ],
+          "verb": [
+            {
+              "form": "conceive",
+              "meaning": "hình thành (ý tưởng)"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -252,7 +378,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174014-1-10-531a9f72",
       "targetLexeme": "stacking stone slabs",
       "sourceContext": "...by stacking stone slabs on top of one another...",
       "phase1Inference": {
@@ -263,10 +389,26 @@
         "sentiment": "neutral",
         "definitionEN": "Arranging large, flat pieces of stone in a pile, one on top of another",
         "translationVI": "Xếp chồng các phiến đá",
-        "relatedCollocates": ["stack (v)", "a stack of (books)", "stone slab"],
+        "relatedCollocates": [
+          "stack (v)",
+          "a stack of (books)",
+          "stone slab"
+        ],
         "wordForms": {
-          "noun": [{ "form": "stack", "meaning": "chồng, đống" }],
-          "verb": [{ "form": "stack", "meaning": "xếp chồng" }]
+          "noun": [
+            {
+              "form": "stack",
+              "meaning": "chồng, đống"
+            }
+          ],
+          "verb": [
+            {
+              "form": "stack",
+              "meaning": "xếp chồng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -275,7 +417,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174014-1-11-2f2170db",
       "targetLexeme": "attribute a much longer time",
       "sourceContext": "...some historians and scholars attribute a much longer time for his rule...",
       "phase1Inference": {
@@ -286,10 +428,25 @@
         "sentiment": "neutral",
         "definitionEN": "To regard a longer period as being caused by or belonging to someone's rule",
         "translationVI": "Cho là/quy cho một thời gian dài hơn nhiều",
-        "relatedCollocates": ["attribute (sth) to (sb)", "ascribe (to)"],
+        "relatedCollocates": [
+          "attribute (sth) to (sb)",
+          "ascribe (to)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "attribution", "meaning": "sự quy cho" }],
-          "verb": [{ "form": "attribute", "meaning": "quy cho, cho là" }]
+          "noun": [
+            {
+              "form": "attribution",
+              "meaning": "sự quy cho"
+            }
+          ],
+          "verb": [
+            {
+              "form": "attribute",
+              "meaning": "quy cho, cho là"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -298,7 +455,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174014-1-12-0f7e55f8",
       "targetLexeme": "owing to",
       "sourceContext": "...owing to the number and size of the monuments he built.",
       "phase1Inference": {
@@ -309,8 +466,16 @@
         "sentiment": "neutral",
         "definitionEN": "Because of or on account of",
         "translationVI": "Do, bởi vì",
-        "relatedCollocates": ["due to (synonym)", "because of (synonym)"],
-        "wordForms": {}
+        "relatedCollocates": [
+          "due to (synonym)",
+          "because of (synonym)"
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -318,7 +483,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174014-1-13-373b7c5a",
       "targetLexeme": "thoroughly examined",
       "sourceContext": "The Step Pyramid has been thoroughly examined and investigated over the last century...",
       "phase1Inference": {
@@ -334,8 +499,20 @@
           "a thorough (examination)"
         ],
         "wordForms": {
-          "noun": [{ "form": "examination", "meaning": "sự kiểm tra" }],
-          "verb": [{ "form": "examine", "meaning": "kiểm tra" }]
+          "noun": [
+            {
+              "form": "examination",
+              "meaning": "sự kiểm tra"
+            }
+          ],
+          "verb": [
+            {
+              "form": "examine",
+              "meaning": "kiểm tra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -344,7 +521,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174014-1-14-5cb56768",
       "targetLexeme": "went through many different stages",
       "sourceContext": "...it is now known that the building process went through many different stages.",
       "phase1Inference": {
@@ -355,9 +532,20 @@
         "sentiment": "neutral",
         "definitionEN": "To experience or undergo a series of distinct periods or phases",
         "translationVI": "Trải qua nhiều giai đoạn khác nhau",
-        "relatedCollocates": ["go through (a process)", "a series of (stages)"],
+        "relatedCollocates": [
+          "go through (a process)",
+          "a series of (stages)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "stage", "meaning": "giai đoạn" }]
+          "noun": [
+            {
+              "form": "stage",
+              "meaning": "giai đoạn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -366,7 +554,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174014-1-15-66044333",
       "targetLexeme": "Much experimentation was involved",
       "sourceContext": "Historian Marc Van de Mieroop comments on this, writing ‘Much experimentation was involved...’",
       "phase1Inference": {
@@ -377,10 +565,25 @@
         "sentiment": "neutral",
         "definitionEN": "A great deal of testing and trying out new ideas was part of the process",
         "translationVI": "Có liên quan đến/bao gồm nhiều thử nghiệm",
-        "relatedCollocates": ["experimentation (n)", "involve (v)"],
+        "relatedCollocates": [
+          "experimentation (n)",
+          "involve (v)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "experiment", "meaning": "thí nghiệm" }],
-          "verb": [{ "form": "experiment", "meaning": "thử nghiệm" }]
+          "noun": [
+            {
+              "form": "experiment",
+              "meaning": "thí nghiệm"
+            }
+          ],
+          "verb": [
+            {
+              "form": "experiment",
+              "meaning": "thử nghiệm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -389,7 +592,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174014-1-16-61d797cd",
       "targetLexeme": "enormous mass",
       "sourceContext": "The weight of the enormous mass was a challenge for the builders...",
       "phase1Inference": {
@@ -400,10 +603,25 @@
         "sentiment": "neutral",
         "definitionEN": "A very large body of matter with no definite shape",
         "translationVI": "Khối lượng/khối khổng lồ",
-        "relatedCollocates": ["huge (mass)", "the sheer (mass)"],
+        "relatedCollocates": [
+          "huge (mass)",
+          "the sheer (mass)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "mass", "meaning": "khối lượng" }],
-          "adjective": [{ "form": "enormous", "meaning": "to lớn" }]
+          "noun": [
+            {
+              "form": "mass",
+              "meaning": "khối lượng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "enormous",
+              "meaning": "to lớn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -412,7 +630,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174014-1-17-5fe182e0",
       "targetLexeme": "inward incline",
       "sourceContext": "...who placed the stones at an inward incline in order to prevent the monument breaking up.",
       "phase1Inference": {
@@ -423,10 +641,25 @@
         "sentiment": "neutral",
         "definitionEN": "A slope that angles towards the center of a structure",
         "translationVI": "Độ dốc/nghiêng vào trong",
-        "relatedCollocates": ["a steep (incline)", "slope (n)"],
+        "relatedCollocates": [
+          "a steep (incline)",
+          "slope (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "incline", "meaning": "độ dốc" }],
-          "adverb": [{ "form": "inward", "meaning": "hướng vào trong" }]
+          "noun": [
+            {
+              "form": "incline",
+              "meaning": "độ dốc"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "inward",
+              "meaning": "hướng vào trong"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -435,7 +668,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174014-1-18-656c1d87",
       "targetLexeme": "prevent the monument breaking up",
       "sourceContext": "...in order to prevent the monument breaking up.",
       "phase1Inference": {
@@ -446,9 +679,21 @@
         "sentiment": "negative",
         "definitionEN": "To stop the structure from collapsing or falling apart",
         "translationVI": "Ngăn không cho di tích bị vỡ",
-        "relatedCollocates": ["prevent (from)", "break up", "collapse (v)"],
+        "relatedCollocates": [
+          "prevent (from)",
+          "break up",
+          "collapse (v)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "prevent", "meaning": "ngăn chặn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "prevent",
+              "meaning": "ngăn chặn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -457,7 +702,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174014-1-19-316ad89c",
       "targetLexeme": "tallest structure of its time",
       "sourceContext": "...was the tallest structure of its time.",
       "phase1Inference": {
@@ -468,9 +713,20 @@
         "sentiment": "positive",
         "definitionEN": "The highest building or construction in the world during that historical period",
         "translationVI": "Công trình cao nhất thời bấy giờ",
-        "relatedCollocates": ["tallest (building)", "of its era"],
+        "relatedCollocates": [
+          "tallest (building)",
+          "of its era"
+        ],
         "wordForms": {
-          "noun": [{ "form": "structure", "meaning": "công trình" }]
+          "noun": [
+            {
+              "form": "structure",
+              "meaning": "công trình"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -479,7 +735,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174014-1-20-36c6748f",
       "targetLexeme": "living quarters for the priests",
       "sourceContext": "...and living quarters for the priests.",
       "phase1Inference": {
@@ -496,7 +752,15 @@
           "accommodation (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "quarters", "meaning": "khu nhà ở" }]
+          "noun": [
+            {
+              "form": "quarters",
+              "meaning": "khu nhà ở"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -505,7 +769,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174014-1-21-5a42eb88",
       "targetLexeme": "false doors",
       "sourceContext": "The wall had 13 false doors cut into it...",
       "phase1Inference": {
@@ -516,10 +780,25 @@
         "sentiment": "neutral",
         "definitionEN": "Imitations of doors carved into a wall, common in ancient Egyptian tombs, that do not function as real entrances",
         "translationVI": "Cửa giả",
-        "relatedCollocates": ["true entrance (antonym)", "cut into (a wall)"],
+        "relatedCollocates": [
+          "true entrance (antonym)",
+          "cut into (a wall)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "door", "meaning": "cửa" }],
-          "adjective": [{ "form": "false", "meaning": "giả" }]
+          "noun": [
+            {
+              "form": "door",
+              "meaning": "cửa"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "false",
+              "meaning": "giả"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -528,7 +807,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174014-1-22-66f9de34",
       "targetLexeme": "ringed by a trench",
       "sourceContext": "...the entire wall was then ringed by a trench 750 meters long...",
       "phase1Inference": {
@@ -539,10 +818,25 @@
         "sentiment": "neutral",
         "definitionEN": "To be surrounded by a long, narrow ditch dug in the ground",
         "translationVI": "Được bao quanh bởi một con hào",
-        "relatedCollocates": ["surrounded by (synonym)", "trench (n)"],
+        "relatedCollocates": [
+          "surrounded by (synonym)",
+          "trench (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "trench", "meaning": "hào" }],
-          "verb": [{ "form": "ring", "meaning": "bao quanh" }]
+          "noun": [
+            {
+              "form": "trench",
+              "meaning": "hào"
+            }
+          ],
+          "verb": [
+            {
+              "form": "ring",
+              "meaning": "bao quanh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -551,7 +845,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174014-1-23-1465eb71",
       "targetLexeme": "discourage unwanted visitors",
       "sourceContext": "The false doors and the trench were incorporated into the complex to discourage unwanted visitors.",
       "phase1Inference": {
@@ -568,7 +862,15 @@
           "unwanted (guests)"
         ],
         "wordForms": {
-          "verb": [{ "form": "discourage", "meaning": "làm nản lòng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "discourage",
+              "meaning": "làm nản lòng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -577,7 +879,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174014-1-24-535c958e",
       "targetLexeme": "broke the tradition",
       "sourceContext": "Djoser was so proud of his accomplishment that he broke the tradition of having only his own name on the monument...",
       "phase1Inference": {
@@ -593,8 +895,20 @@
           "follow (tradition) (antonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "tradition", "meaning": "truyền thống" }],
-          "verb": [{ "form": "break", "meaning": "phá vỡ" }]
+          "noun": [
+            {
+              "form": "tradition",
+              "meaning": "truyền thống"
+            }
+          ],
+          "verb": [
+            {
+              "form": "break",
+              "meaning": "phá vỡ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -603,7 +917,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174014-1-25-1c784ba5",
       "targetLexeme": "name carved on it",
       "sourceContext": "...and had Imhotep's name carved on it as well.",
       "phase1Inference": {
@@ -614,9 +928,20 @@
         "sentiment": "neutral",
         "definitionEN": "To have a name cut into the surface of a hard material like stone",
         "translationVI": "Tên được khắc trên đó",
-        "relatedCollocates": ["carve (into stone)", "engrave (synonym)"],
+        "relatedCollocates": [
+          "carve (into stone)",
+          "engrave (synonym)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "carve", "meaning": "khắc, chạm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "carve",
+              "meaning": "khắc, chạm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -625,7 +950,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174014-1-26-40a185a0",
       "targetLexeme": "burial chamber",
       "sourceContext": "The burial chamber of the tomb, where the king's body was laid to rest...",
       "phase1Inference": {
@@ -636,12 +961,25 @@
         "sentiment": "neutral",
         "definitionEN": "A room, often underground, where a dead person is buried",
         "translationVI": "Phòng chôn cất",
-        "relatedCollocates": ["tomb (n)", "laid to rest", "sarcophagus (n)"],
+        "relatedCollocates": [
+          "tomb (n)",
+          "laid to rest",
+          "sarcophagus (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "burial", "meaning": "sự chôn cất" },
-            { "form": "chamber", "meaning": "buồng, phòng" }
-          ]
+            {
+              "form": "burial",
+              "meaning": "sự chôn cất"
+            },
+            {
+              "form": "chamber",
+              "meaning": "buồng, phòng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -650,7 +988,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174015-1-27-5834b4cd",
       "targetLexeme": "laid to rest",
       "sourceContext": "...where the king's body was laid to rest...",
       "phase1Inference": {
@@ -661,9 +999,20 @@
         "sentiment": "neutral",
         "definitionEN": "An idiom meaning to be buried",
         "translationVI": "Được an nghỉ, được chôn cất",
-        "relatedCollocates": ["buried (synonym)", "final resting place"],
+        "relatedCollocates": [
+          "buried (synonym)",
+          "final resting place"
+        ],
         "wordForms": {
-          "verb": [{ "form": "lay", "meaning": "đặt" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "lay",
+              "meaning": "đặt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -672,7 +1021,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174015-1-28-0bde44a1",
       "targetLexeme": "beneath the base of the pyramid",
       "sourceContext": "...was dug beneath the base of the pyramid...",
       "phase1Inference": {
@@ -683,9 +1032,20 @@
         "sentiment": "neutral",
         "definitionEN": "Under the bottom part or foundation of the pyramid",
         "translationVI": "Bên dưới chân kim tự tháp",
-        "relatedCollocates": ["under (synonym)", "the base of (a structure)"],
+        "relatedCollocates": [
+          "under (synonym)",
+          "the base of (a structure)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "base", "meaning": "chân, đế" }]
+          "noun": [
+            {
+              "form": "base",
+              "meaning": "chân, đế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -694,7 +1054,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174015-1-29-2edab43e",
       "targetLexeme": "a vast maze of long tunnels",
       "sourceContext": "...surrounded by a vast maze of long tunnels that had rooms off them...",
       "phase1Inference": {
@@ -705,12 +1065,24 @@
         "sentiment": "neutral",
         "definitionEN": "A large and complex network of interconnected long underground passages",
         "translationVI": "Một mê cung rộng lớn gồm các đường hầm dài",
-        "relatedCollocates": ["a complex (maze)", "a network of (tunnels)"],
+        "relatedCollocates": [
+          "a complex (maze)",
+          "a network of (tunnels)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "maze", "meaning": "mê cung" },
-            { "form": "tunnel", "meaning": "đường hầm" }
-          ]
+            {
+              "form": "maze",
+              "meaning": "mê cung"
+            },
+            {
+              "form": "tunnel",
+              "meaning": "đường hầm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -719,7 +1091,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174015-1-30-03c59b1c",
       "targetLexeme": "discourage robbers",
       "sourceContext": "...to discourage robbers.",
       "phase1Inference": {
@@ -730,10 +1102,25 @@
         "sentiment": "negative",
         "definitionEN": "To try to prevent thieves from stealing",
         "translationVI": "Làm nản lòng những kẻ cướp",
-        "relatedCollocates": ["deter (robbers)", "grave robbers"],
+        "relatedCollocates": [
+          "deter (robbers)",
+          "grave robbers"
+        ],
         "wordForms": {
-          "noun": [{ "form": "robber", "meaning": "kẻ cướp" }],
-          "verb": [{ "form": "discourage", "meaning": "làm nản lòng" }]
+          "noun": [
+            {
+              "form": "robber",
+              "meaning": "kẻ cướp"
+            }
+          ],
+          "verb": [
+            {
+              "form": "discourage",
+              "meaning": "làm nản lòng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -742,7 +1129,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174015-1-31-34b05e82",
       "targetLexeme": "stone vessels",
       "sourceContext": "...a large number of stone vessels.",
       "phase1Inference": {
@@ -753,9 +1140,20 @@
         "sentiment": "neutral",
         "definitionEN": "Containers, such as bowls or jars, made of stone",
         "translationVI": "Các bình/vật chứa bằng đá",
-        "relatedCollocates": ["pottery (vessels)", "clay (vessels)"],
+        "relatedCollocates": [
+          "pottery (vessels)",
+          "clay (vessels)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "vessel", "meaning": "vật chứa, bình" }]
+          "noun": [
+            {
+              "form": "vessel",
+              "meaning": "vật chứa, bình"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -764,7 +1162,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174015-1-32-42cb0885",
       "targetLexeme": "discovered in storerooms",
       "sourceContext": "Over 40,000 of these vessels... were discovered in storerooms off the pyramid's underground passages.",
       "phase1Inference": {
@@ -775,9 +1173,20 @@
         "sentiment": "neutral",
         "definitionEN": "Found in rooms used for storing things",
         "translationVI": "Được phát hiện trong các kho chứa",
-        "relatedCollocates": ["found in (storerooms)", "storage (room)"],
+        "relatedCollocates": [
+          "found in (storerooms)",
+          "storage (room)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "storeroom", "meaning": "kho chứa" }]
+          "noun": [
+            {
+              "form": "storeroom",
+              "meaning": "kho chứa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -786,7 +1195,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174015-1-33-559e5ace",
       "targetLexeme": "inscribed with the names of rulers",
       "sourceContext": "They are inscribed with the names of rulers from the First and Second Dynasties...",
       "phase1Inference": {
@@ -797,10 +1206,26 @@
         "sentiment": "neutral",
         "definitionEN": "To have the names of kings or leaders carved or written on a surface",
         "translationVI": "Được khắc tên của các nhà cai trị",
-        "relatedCollocates": ["inscribe (v)", "engraved with", "ruler (n)"],
+        "relatedCollocates": [
+          "inscribe (v)",
+          "engraved with",
+          "ruler (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "inscription", "meaning": "chữ khắc" }],
-          "verb": [{ "form": "inscribe", "meaning": "khắc" }]
+          "noun": [
+            {
+              "form": "inscription",
+              "meaning": "chữ khắc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "inscribe",
+              "meaning": "khắc"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -809,7 +1234,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174015-1-34-090e4ebf",
       "targetLexeme": "no agreement among scholars",
       "sourceContext": "There is no agreement among scholars and archaeologists on why the vessels were placed...",
       "phase1Inference": {
@@ -826,7 +1251,15 @@
           "consensus (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "agreement", "meaning": "sự đồng thuận" }]
+          "noun": [
+            {
+              "form": "agreement",
+              "meaning": "sự đồng thuận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -835,7 +1268,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174015-1-35-1c542656",
       "targetLexeme": "supposed to represent",
       "sourceContext": "...or what they were supposed to represent.",
       "phase1Inference": {
@@ -846,9 +1279,20 @@
         "sentiment": "neutral",
         "definitionEN": "What their intended meaning or purpose was",
         "translationVI": "Được cho là đại diện cho",
-        "relatedCollocates": ["meant to (represent)", "symbolize (v)"],
+        "relatedCollocates": [
+          "meant to (represent)",
+          "symbolize (v)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "represent", "meaning": "đại diện" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "represent",
+              "meaning": "đại diện"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -857,7 +1301,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174015-1-36-495d8619",
       "targetLexeme": "excavated most of the pyramid",
       "sourceContext": "The archaeologist Jean-Philippe Lauer, who excavated most of the pyramid and complex...",
       "phase1Inference": {
@@ -874,8 +1318,20 @@
           "archaeologist (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "excavation", "meaning": "sự khai quật" }],
-          "verb": [{ "form": "excavate", "meaning": "khai quật" }]
+          "noun": [
+            {
+              "form": "excavation",
+              "meaning": "sự khai quật"
+            }
+          ],
+          "verb": [
+            {
+              "form": "excavate",
+              "meaning": "khai quật"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -884,7 +1340,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174015-1-37-5a32c1fc",
       "targetLexeme": "a 'proper burial'",
       "sourceContext": "...they were originally stored and then given a ‘proper burial’ by Djoser...",
       "phase1Inference": {
@@ -895,10 +1351,25 @@
         "sentiment": "positive",
         "definitionEN": "A burial that is conducted correctly and with the appropriate respect or ceremony",
         "translationVI": "Một lễ chôn cất đúng cách",
-        "relatedCollocates": ["a decent (burial)", "bury (v)"],
+        "relatedCollocates": [
+          "a decent (burial)",
+          "bury (v)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "burial", "meaning": "lễ chôn cất" }],
-          "adjective": [{ "form": "proper", "meaning": "đúng đắn" }]
+          "noun": [
+            {
+              "form": "burial",
+              "meaning": "lễ chôn cất"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "proper",
+              "meaning": "đúng đắn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -907,7 +1378,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174015-1-38-54453057",
       "targetLexeme": "honor his predecessors",
       "sourceContext": "...by Djoser in his pyramid to honor his predecessors.",
       "phase1Inference": {
@@ -918,10 +1389,25 @@
         "sentiment": "positive",
         "definitionEN": "To show great respect for the people who held a position or job before him",
         "translationVI": "Tôn vinh những người tiền nhiệm của mình",
-        "relatedCollocates": ["pay tribute to (predecessors)", "in honor of"],
+        "relatedCollocates": [
+          "pay tribute to (predecessors)",
+          "in honor of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "predecessor", "meaning": "người tiền nhiệm" }],
-          "verb": [{ "form": "honor", "meaning": "tôn vinh" }]
+          "noun": [
+            {
+              "form": "predecessor",
+              "meaning": "người tiền nhiệm"
+            }
+          ],
+          "verb": [
+            {
+              "form": "honor",
+              "meaning": "tôn vinh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -930,7 +1416,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174015-1-39-53e1397c",
       "targetLexeme": "dumped into the shafts",
       "sourceContext": "...the vessels were dumped into the shafts as yet another attempt to prevent grave robbers...",
       "phase1Inference": {
@@ -941,10 +1427,26 @@
         "sentiment": "negative",
         "definitionEN": "To be thrown or dropped carelessly into deep, narrow vertical passages",
         "translationVI": "Bị ném vào các hầm",
-        "relatedCollocates": ["dump (v)", "shaft (n)", "throw into"],
+        "relatedCollocates": [
+          "dump (v)",
+          "shaft (n)",
+          "throw into"
+        ],
         "wordForms": {
-          "noun": [{ "form": "shaft", "meaning": "hầm, giếng" }],
-          "verb": [{ "form": "dump", "meaning": "vứt bỏ" }]
+          "noun": [
+            {
+              "form": "shaft",
+              "meaning": "hầm, giếng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "dump",
+              "meaning": "vứt bỏ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -953,7 +1455,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174015-1-40-2384e6ad",
       "targetLexeme": "prevent grave robbers",
       "sourceContext": "...to prevent grave robbers from getting to the king's burial chamber.",
       "phase1Inference": {
@@ -964,9 +1466,20 @@
         "sentiment": "negative",
         "definitionEN": "To stop people who steal valuable objects from tombs",
         "translationVI": "Ngăn chặn những kẻ cướp mộ",
-        "relatedCollocates": ["tomb raiders (synonym)", "deter (robbers)"],
+        "relatedCollocates": [
+          "tomb raiders (synonym)",
+          "deter (robbers)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "grave robber", "meaning": "kẻ cướp mộ" }]
+          "noun": [
+            {
+              "form": "grave robber",
+              "meaning": "kẻ cướp mộ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -975,7 +1488,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174015-1-41-41b9e2b9",
       "targetLexeme": "precautions and intricate design",
       "sourceContext": "Unfortunately, all of the precautions and intricate design of the underground network did not prevent...",
       "phase1Inference": {
@@ -993,10 +1506,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "precaution", "meaning": "sự phòng ngừa" },
-            { "form": "design", "meaning": "thiết kế" }
+            {
+              "form": "precaution",
+              "meaning": "sự phòng ngừa"
+            },
+            {
+              "form": "design",
+              "meaning": "thiết kế"
+            }
           ],
-          "adjective": [{ "form": "intricate", "meaning": "phức tạp" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "intricate",
+              "meaning": "phức tạp"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1005,7 +1531,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174015-1-42-775353ad",
       "targetLexeme": "underground network",
       "sourceContext": "...design of the underground network did not prevent ancient robbers...",
       "phase1Inference": {
@@ -1021,7 +1547,15 @@
           "subterranean (network)"
         ],
         "wordForms": {
-          "noun": [{ "form": "network", "meaning": "mạng lưới" }]
+          "noun": [
+            {
+              "form": "network",
+              "meaning": "mạng lưới"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1030,7 +1564,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174015-1-43-4991667d",
       "targetLexeme": "Djoser's grave goods",
       "sourceContext": "...Djoser's grave goods, and even his body, were stolen at some point in the past...",
       "phase1Inference": {
@@ -1041,9 +1575,21 @@
         "sentiment": "neutral",
         "definitionEN": "The items buried along with a dead person",
         "translationVI": "Đồ tùy táng của Djoser",
-        "relatedCollocates": ["burial goods", "tomb (n)", "grave (n)"],
+        "relatedCollocates": [
+          "burial goods",
+          "tomb (n)",
+          "grave (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "grave goods", "meaning": "đồ tùy táng" }]
+          "noun": [
+            {
+              "form": "grave goods",
+              "meaning": "đồ tùy táng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1052,7 +1598,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174015-1-44-4987b1b5",
       "targetLexeme": "stolen at some point",
       "sourceContext": "...were stolen at some point in the past...",
       "phase1Inference": {
@@ -1063,9 +1609,20 @@
         "sentiment": "negative",
         "definitionEN": "To have been taken without permission at an unspecified time",
         "translationVI": "Bị đánh cắp vào một thời điểm nào đó",
-        "relatedCollocates": ["at some point (in time)", "steal (v)"],
+        "relatedCollocates": [
+          "at some point (in time)",
+          "steal (v)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "steal", "meaning": "đánh cắp" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "steal",
+              "meaning": "đánh cắp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1074,7 +1631,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174015-1-45-2b09b84b",
       "targetLexeme": "valuables overlooked by the thieves",
       "sourceContext": "...all archaeologists found were a small number of his valuables overlooked by the thieves.",
       "phase1Inference": {
@@ -1085,10 +1642,26 @@
         "sentiment": "positive",
         "definitionEN": "Items of high worth that the robbers failed to notice or take",
         "translationVI": "Những vật có giá trị bị bọn trộm bỏ sót",
-        "relatedCollocates": ["overlook (v)", "valuables (n)", "thief (n)"],
+        "relatedCollocates": [
+          "overlook (v)",
+          "valuables (n)",
+          "thief (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "valuables", "meaning": "đồ có giá trị" }],
-          "verb": [{ "form": "overlook", "meaning": "bỏ qua, bỏ sót" }]
+          "noun": [
+            {
+              "form": "valuables",
+              "meaning": "đồ có giá trị"
+            }
+          ],
+          "verb": [
+            {
+              "form": "overlook",
+              "meaning": "bỏ qua, bỏ sót"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1097,7 +1670,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174015-1-46-73c32c7a",
       "targetLexeme": "astonish and amaze the archaeologists",
       "sourceContext": "There was enough left throughout the pyramid and its complex, however, to astonish and amaze the archaeologists who excavated it.",
       "phase1Inference": {
@@ -1108,12 +1681,25 @@
         "sentiment": "positive",
         "definitionEN": "To surprise the archaeologists very much",
         "translationVI": "Làm kinh ngạc và sửng sốt các nhà khảo cổ",
-        "relatedCollocates": ["astonish (v)", "amaze (v)", "surprise (v)"],
+        "relatedCollocates": [
+          "astonish (v)",
+          "amaze (v)",
+          "surprise (v)"
+        ],
         "wordForms": {
+          "noun": [],
           "verb": [
-            { "form": "astonish", "meaning": "làm kinh ngạc" },
-            { "form": "amaze", "meaning": "làm sửng sốt" }
-          ]
+            {
+              "form": "astonish",
+              "meaning": "làm kinh ngạc"
+            },
+            {
+              "form": "amaze",
+              "meaning": "làm sửng sốt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1122,7 +1708,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174015-1-47-189fec6d",
       "targetLexeme": "hold a place in human history",
       "sourceContext": "‘Few monuments hold a place in human history as significant as that of the Step Pyramid in Saqqara ...’",
       "phase1Inference": {
@@ -1133,9 +1719,20 @@
         "sentiment": "positive",
         "definitionEN": "To have an important or recognized position in the story of humanity",
         "translationVI": "Giữ một vị trí trong lịch sử nhân loại",
-        "relatedCollocates": ["a significant (place)", "a special (place)"],
+        "relatedCollocates": [
+          "a significant (place)",
+          "a special (place)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "hold", "meaning": "giữ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "hold",
+              "meaning": "giữ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1144,7 +1741,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174015-1-48-7ae6bbfb",
       "targetLexeme": "as significant as",
       "sourceContext": "...as significant as that of the Step Pyramid...",
       "phase1Inference": {
@@ -1155,9 +1752,20 @@
         "sentiment": "neutral",
         "definitionEN": "Equally important or noteworthy as",
         "translationVI": "Quan trọng như",
-        "relatedCollocates": ["as important as", "significant (adj)"],
+        "relatedCollocates": [
+          "as important as",
+          "significant (adj)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "significant", "meaning": "quan trọng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "significant",
+              "meaning": "quan trọng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1166,7 +1774,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174015-1-49-3faf0ed9",
       "targetLexeme": "without exaggeration",
       "sourceContext": "It can be said without exaggeration that this pyramid complex constitutes a milestone...",
       "phase1Inference": {
@@ -1182,8 +1790,20 @@
           "to put it mildly"
         ],
         "wordForms": {
-          "noun": [{ "form": "exaggeration", "meaning": "sự phóng đại" }],
-          "verb": [{ "form": "exaggerate", "meaning": "phóng đại" }]
+          "noun": [
+            {
+              "form": "exaggeration",
+              "meaning": "sự phóng đại"
+            }
+          ],
+          "verb": [
+            {
+              "form": "exaggerate",
+              "meaning": "phóng đại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1192,7 +1812,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174015-1-50-76e499cf",
       "targetLexeme": "constitutes a milestone",
       "sourceContext": "...this pyramid complex constitutes a milestone in the evolution of monumental stone architecture...",
       "phase1Inference": {
@@ -1203,10 +1823,25 @@
         "sentiment": "positive",
         "definitionEN": "To be or be considered as a significant stage or event in the development of something",
         "translationVI": "Tạo thành một cột mốc",
-        "relatedCollocates": ["represent (a milestone)", "a major (milestone)"],
+        "relatedCollocates": [
+          "represent (a milestone)",
+          "a major (milestone)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "milestone", "meaning": "cột mốc" }],
-          "verb": [{ "form": "constitute", "meaning": "cấu thành" }]
+          "noun": [
+            {
+              "form": "milestone",
+              "meaning": "cột mốc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "constitute",
+              "meaning": "cấu thành"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1215,7 +1850,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174015-1-51-35986f6b",
       "targetLexeme": "monumental stone architecture",
       "sourceContext": "...in the evolution of monumental stone architecture in Egypt and in the world as a whole.",
       "phase1Inference": {
@@ -1226,10 +1861,25 @@
         "sentiment": "positive",
         "definitionEN": "The art and science of designing and constructing very large and impressive buildings made of stone",
         "translationVI": "Kiến trúc đá hoành tráng",
-        "relatedCollocates": ["monumental (adj)", "stone (architecture)"],
+        "relatedCollocates": [
+          "monumental (adj)",
+          "stone (architecture)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "architecture", "meaning": "kiến trúc" }],
-          "adjective": [{ "form": "monumental", "meaning": "hoành tráng" }]
+          "noun": [
+            {
+              "form": "architecture",
+              "meaning": "kiến trúc"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "monumental",
+              "meaning": "hoành tráng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1238,7 +1888,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174015-1-52-45fa9187",
       "targetLexeme": "a revolutionary advance",
       "sourceContext": "The Step Pyramid was a revolutionary advance in architecture...",
       "phase1Inference": {
@@ -1249,10 +1899,25 @@
         "sentiment": "positive",
         "definitionEN": "A great and important improvement or development that completely changes the way something is done",
         "translationVI": "Một bước tiến mang tính cách mạng",
-        "relatedCollocates": ["a major (advance)", "a technological (advance)"],
+        "relatedCollocates": [
+          "a major (advance)",
+          "a technological (advance)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "advance", "meaning": "bước tiến" }],
-          "adjective": [{ "form": "revolutionary", "meaning": "cách mạng" }]
+          "noun": [
+            {
+              "form": "advance",
+              "meaning": "bước tiến"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "revolutionary",
+              "meaning": "cách mạng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1261,7 +1926,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174015-1-53-42c19baf",
       "targetLexeme": "became the archetype",
       "sourceContext": "...and became the archetype which all the other great pyramid builders of Egypt would follow.",
       "phase1Inference": {
@@ -1272,9 +1937,20 @@
         "sentiment": "positive",
         "definitionEN": "To become a very typical example of a certain person or thing; a model for later examples",
         "translationVI": "Trở thành nguyên mẫu",
-        "relatedCollocates": ["prototype (synonym)", "model (n)"],
+        "relatedCollocates": [
+          "prototype (synonym)",
+          "model (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "archetype", "meaning": "nguyên mẫu" }]
+          "noun": [
+            {
+              "form": "archetype",
+              "meaning": "nguyên mẫu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1283,7 +1959,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174015-1-54-31b019ba",
       "targetLexeme": "pyramid builders",
       "sourceContext": "...all the other great pyramid builders of Egypt would follow.",
       "phase1Inference": {
@@ -1294,9 +1970,20 @@
         "sentiment": "neutral",
         "definitionEN": "The people who constructed the pyramids",
         "translationVI": "Những người xây kim tự tháp",
-        "relatedCollocates": ["builders (n)", "construct (v)"],
+        "relatedCollocates": [
+          "builders (n)",
+          "construct (v)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "builder", "meaning": "người xây dựng" }]
+          "noun": [
+            {
+              "form": "builder",
+              "meaning": "người xây dựng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1305,7 +1992,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174015-1-55-0434cff4",
       "targetLexeme": "in the present day",
       "sourceContext": "...for people in the present day.",
       "phase1Inference": {
@@ -1322,7 +2009,15 @@
           "in modern times"
         ],
         "wordForms": {
-          "noun": [{ "form": "present day", "meaning": "ngày nay" }]
+          "noun": [
+            {
+              "form": "present day",
+              "meaning": "ngày nay"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1331,7 +2026,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174015-1-56-409478d1",
       "targetLexeme": "Third Dynasty",
       "sourceContext": "Djoser was the first king of the Third Dynasty of Egypt...",
       "phase1Inference": {
@@ -1342,9 +2037,20 @@
         "sentiment": "neutral",
         "definitionEN": "A specific period in ancient Egyptian history, a line of hereditary rulers",
         "translationVI": "Vương triều thứ ba",
-        "relatedCollocates": ["First Dynasty", "Egyptian (dynasty)"],
+        "relatedCollocates": [
+          "First Dynasty",
+          "Egyptian (dynasty)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "dynasty", "meaning": "vương triều" }]
+          "noun": [
+            {
+              "form": "dynasty",
+              "meaning": "vương triều"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1353,7 +2059,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174015-1-57-3775c001",
       "targetLexeme": "in the center of the complex",
       "sourceContext": "...especially clear in the construction of the pyramid in the center of the complex.",
       "phase1Inference": {
@@ -1364,9 +2070,20 @@
         "sentiment": "neutral",
         "definitionEN": "At the middle point of the group of buildings",
         "translationVI": "Ở trung tâm của khu phức hợp",
-        "relatedCollocates": ["the heart of (the complex)", "center (n)"],
+        "relatedCollocates": [
+          "the heart of (the complex)",
+          "center (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "center", "meaning": "trung tâm" }]
+          "noun": [
+            {
+              "form": "center",
+              "meaning": "trung tâm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1375,7 +2092,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174015-1-58-5278fbea",
       "targetLexeme": "south-east corner",
       "sourceContext": "...with only one true entrance cut into the south-east corner...",
       "phase1Inference": {
@@ -1386,9 +2103,20 @@
         "sentiment": "neutral",
         "definitionEN": "The point where the south and east sides of something meet",
         "translationVI": "Góc đông nam",
-        "relatedCollocates": ["north-west corner", "corner (n)"],
+        "relatedCollocates": [
+          "north-west corner",
+          "corner (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "corner", "meaning": "góc" }]
+          "noun": [
+            {
+              "form": "corner",
+              "meaning": "góc"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1397,7 +2125,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174015-1-59-705b8bae",
       "targetLexeme": "find the location of",
       "sourceContext": "...needed to know in advance how to find the location of the true opening in the wall.",
       "phase1Inference": {
@@ -1408,10 +2136,25 @@
         "sentiment": "neutral",
         "definitionEN": "To discover the place or position of something",
         "translationVI": "Tìm vị trí của",
-        "relatedCollocates": ["locate (v)", "discover the location"],
+        "relatedCollocates": [
+          "locate (v)",
+          "discover the location"
+        ],
         "wordForms": {
-          "noun": [{ "form": "location", "meaning": "vị trí" }],
-          "verb": [{ "form": "find", "meaning": "tìm" }]
+          "noun": [
+            {
+              "form": "location",
+              "meaning": "vị trí"
+            }
+          ],
+          "verb": [
+            {
+              "form": "find",
+              "meaning": "tìm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1420,7 +2163,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174015-1-60-72a9e0c0",
       "targetLexeme": "of various forms and shapes",
       "sourceContext": "Over 40,000 of these vessels, of various forms and shapes, were discovered...",
       "phase1Inference": {
@@ -1431,12 +2174,24 @@
         "sentiment": "neutral",
         "definitionEN": "Having many different types of structures and outlines",
         "translationVI": "Với nhiều hình thức và hình dạng khác nhau",
-        "relatedCollocates": ["a variety of (forms)", "different (shapes)"],
+        "relatedCollocates": [
+          "a variety of (forms)",
+          "different (shapes)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "form", "meaning": "hình thức" },
-            { "form": "shape", "meaning": "hình dạng" }
-          ]
+            {
+              "form": "form",
+              "meaning": "hình thức"
+            },
+            {
+              "form": "shape",
+              "meaning": "hình dạng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1445,7 +2200,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174015-1-61-342e4afe",
       "targetLexeme": "made from different kinds of stone",
       "sourceContext": "...and made from different kinds of stone.",
       "phase1Inference": {
@@ -1456,9 +2211,20 @@
         "sentiment": "neutral",
         "definitionEN": "Constructed using several types of rock",
         "translationVI": "Làm từ các loại đá khác nhau",
-        "relatedCollocates": ["made of (stone)", "types of (stone)"],
+        "relatedCollocates": [
+          "made of (stone)",
+          "types of (stone)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "stone", "meaning": "đá" }]
+          "noun": [
+            {
+              "form": "stone",
+              "meaning": "đá"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1467,7 +2233,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174015-1-62-6dd2ed4b",
       "targetLexeme": "yet another attempt",
       "sourceContext": "...as yet another attempt to prevent grave robbers...",
       "phase1Inference": {
@@ -1478,9 +2244,20 @@
         "sentiment": "neutral",
         "definitionEN": "One more effort in a series of efforts",
         "translationVI": "Thêm một nỗ lực nữa",
-        "relatedCollocates": ["another (attempt)", "one more (try)"],
+        "relatedCollocates": [
+          "another (attempt)",
+          "one more (try)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "attempt", "meaning": "nỗ lực" }]
+          "noun": [
+            {
+              "form": "attempt",
+              "meaning": "nỗ lực"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1489,7 +2266,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174015-1-63-6c6292d4",
       "targetLexeme": "in the world as a whole",
       "sourceContext": "...in Egypt and in the world as a whole.",
       "phase1Inference": {
@@ -1500,9 +2277,20 @@
         "sentiment": "neutral",
         "definitionEN": "Considering the entire world, not just one part of it",
         "translationVI": "Trên thế giới nói chung",
-        "relatedCollocates": ["globally (adv)", "as a whole"],
+        "relatedCollocates": [
+          "globally (adv)",
+          "as a whole"
+        ],
         "wordForms": {
-          "noun": [{ "form": "world", "meaning": "thế giới" }]
+          "noun": [
+            {
+              "form": "world",
+              "meaning": "thế giới"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1511,7 +2299,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174015-1-64-2aa9869c",
       "targetLexeme": "would follow",
       "sourceContext": "...which all the other great pyramid builders of Egypt would follow.",
       "phase1Inference": {
@@ -1522,9 +2310,21 @@
         "sentiment": "neutral",
         "definitionEN": "To use as a model or example to be copied in the future",
         "translationVI": "Sẽ noi theo",
-        "relatedCollocates": ["follow (an example)", "imitate (v)", "copy (v)"],
+        "relatedCollocates": [
+          "follow (an example)",
+          "imitate (v)",
+          "copy (v)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "follow", "meaning": "theo sau, noi theo" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "follow",
+              "meaning": "theo sau, noi theo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1533,7 +2333,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174015-1-65-0b81ce7f",
       "targetLexeme": "accomplishment (n)",
       "sourceContext": "Djoser was so proud of his accomplishment...",
       "phase1Inference": {
@@ -1549,8 +2349,20 @@
           "achievement (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "accomplishment", "meaning": "thành tựu" }],
-          "verb": [{ "form": "accomplish", "meaning": "hoàn thành" }]
+          "noun": [
+            {
+              "form": "accomplishment",
+              "meaning": "thành tựu"
+            }
+          ],
+          "verb": [
+            {
+              "form": "accomplish",
+              "meaning": "hoàn thành"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1558,5 +2370,11 @@
         "content": "Building the pyramid was a remarkable accomplishment for its time."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.015Z",
+    "version": "2.0",
+    "originalCount": 66,
+    "migratedCount": 66
+  }
 }

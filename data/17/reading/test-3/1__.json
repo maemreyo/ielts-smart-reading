@@ -1,10 +1,10 @@
 {
   "logTitle": "IELTS Reading Log: The thylacine",
   "sourceId": "Reading Passage",
-  "totalItems": 66,
+  "totalItems": 87,
   "lexicalItems": [
     {
-      "id": 1761730512211,
+      "id": "1761813174061-18-0-61ef3025",
       "targetLexeme": "bore a superficial resemblance to",
       "sourceContext": "...bore a superficial resemblance to a dog.",
       "phase1Inference": {
@@ -38,7 +38,8 @@
               "form": "superficial",
               "meaning": "bề ngoài"
             }
-          ]
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -47,7 +48,7 @@
       }
     },
     {
-      "id": 1761730512261,
+      "id": "1761813174061-18-1-3d4d6af6",
       "targetLexeme": "The extinct thylacine",
       "sourceContext": "The extinct thylacine, also known as the Tasmanian tiger, was a marsupial* that bore a superficial resemblance to...",
       "phase1Inference": {
@@ -64,12 +65,6 @@
           "critically endangered"
         ],
         "wordForms": {
-          "adjective": [
-            {
-              "form": "extinct",
-              "meaning": "tuyệt chủng"
-            }
-          ],
           "noun": [
             {
               "form": "thylacine",
@@ -79,7 +74,15 @@
               "form": "extinction",
               "meaning": "sự tuyệt chủng"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "extinct",
+              "meaning": "tuyệt chủng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -88,7 +91,7 @@
       }
     },
     {
-      "id": 1761730515333,
+      "id": "1761813174061-18-2-209fcdf9",
       "targetLexeme": "Tasmanian tiger",
       "sourceContext": "The extinct thylacine, also known as the Tasmanian tiger, was a marsupial* that bore a superficial resemblance to...",
       "phase1Inference": {
@@ -104,18 +107,20 @@
           "marsupial wolf"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "tiger",
+              "meaning": "con hổ"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "Tasmanian",
               "meaning": "thuộc về Tasmania"
             }
           ],
-          "noun": [
-            {
-              "form": "tiger",
-              "meaning": "con hổ"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -124,7 +129,7 @@
       }
     },
     {
-      "id": 1761730641671,
+      "id": "1761813174061-18-3-7ebdb07a",
       "targetLexeme": "distinguishing feature",
       "sourceContext": "Its most distinguishing feature was the 13–19 dark brown stripes over its back, beginning at the rear of...",
       "phase1Inference": {
@@ -141,6 +146,12 @@
           "defining trait"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "feature",
+              "meaning": "đặc điểm"
+            }
+          ],
           "verb": [
             {
               "form": "distinguish",
@@ -153,12 +164,7 @@
               "meaning": "để phân biệt"
             }
           ],
-          "noun": [
-            {
-              "form": "feature",
-              "meaning": "đặc điểm"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -167,7 +173,7 @@
       }
     },
     {
-      "id": 1761730646760,
+      "id": "1761813174061-18-4-73c63cac",
       "targetLexeme": "stripes",
       "sourceContext": "Its most distinguishing feature was the 13–19 dark brown stripes over its back, beginning at the rear of...",
       "phase1Inference": {
@@ -190,12 +196,14 @@
               "meaning": "sọc"
             }
           ],
+          "verb": [],
           "adjective": [
             {
               "form": "striped/stripy",
               "meaning": "có sọc"
             }
-          ]
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -204,7 +212,7 @@
       }
     },
     {
-      "id": 1761730662016,
+      "id": "1761813174061-18-5-6284b383",
       "targetLexeme": "rear of the body",
       "sourceContext": "Its most distinguishing feature was the 13–19 dark brown stripes over its back, beginning at the rear of...",
       "phase1Inference": {
@@ -230,7 +238,10 @@
               "form": "body",
               "meaning": "cơ thể"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -239,7 +250,7 @@
       }
     },
     {
-      "id": 1761730718182,
+      "id": "1761813174061-18-6-3d756f00",
       "targetLexeme": "occupy",
       "sourceContext": "The thylacine occupied a wide range of terrain...",
       "phase1Inference": {
@@ -256,12 +267,6 @@
           "inhabit"
         ],
         "wordForms": {
-          "verb": [
-            {
-              "form": "occupy",
-              "meaning": "cư ngụ"
-            }
-          ],
           "noun": [
             {
               "form": "occupation",
@@ -271,7 +276,15 @@
               "form": "occupant",
               "meaning": "cư dân"
             }
-          ]
+          ],
+          "verb": [
+            {
+              "form": "occupy",
+              "meaning": "cư ngụ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -280,7 +293,7 @@
       }
     },
     {
-      "id": 1761730724697,
+      "id": "1761813174061-18-7-5f200adb",
       "targetLexeme": "terrain",
       "sourceContext": "The thylacine occupied a wide range of terrain...",
       "phase1Inference": {
@@ -302,7 +315,10 @@
               "form": "terrain",
               "meaning": "địa hình"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -311,7 +327,7 @@
       }
     },
     {
-      "id": 1761730730101,
+      "id": "1761813174061-18-8-536335a2",
       "targetLexeme": "dense rainforest",
       "sourceContext": "...including dense rainforest, wetlands and eucalyptus forest.",
       "phase1Inference": {
@@ -328,12 +344,6 @@
           "jungle"
         ],
         "wordForms": {
-          "adjective": [
-            {
-              "form": "dense",
-              "meaning": "dày đặc, rậm rạp"
-            }
-          ],
           "noun": [
             {
               "form": "rainforest",
@@ -343,7 +353,15 @@
               "form": "density",
               "meaning": "mật độ"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "dense",
+              "meaning": "dày đặc, rậm rạp"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -352,7 +370,7 @@
       }
     },
     {
-      "id": 1761730738111,
+      "id": "1761813174061-18-9-20ac4093",
       "targetLexeme": "eucalyptus forest",
       "sourceContext": "...including dense rainforest, wetlands and eucalyptus forest.",
       "phase1Inference": {
@@ -378,7 +396,10 @@
               "form": "forest",
               "meaning": "rừng"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -387,7 +408,7 @@
       }
     },
     {
-      "id": 1761730743748,
+      "id": "1761813174061-18-10-4afee3c7",
       "targetLexeme": "prime",
       "sourceContext": "Its prime habitat was the... coastal heathland of Tasmania.",
       "phase1Inference": {
@@ -404,18 +425,20 @@
           "prime real estate"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "prime",
+              "meaning": "thời kỳ đỉnh cao"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "prime",
               "meaning": "chủ yếu, hàng đầu"
             }
           ],
-          "noun": [
-            {
-              "form": "prime",
-              "meaning": "thời kỳ đỉnh cao"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -424,7 +447,7 @@
       }
     },
     {
-      "id": 1761730749431,
+      "id": "1761813174061-18-11-6d8de062",
       "targetLexeme": "habitat",
       "sourceContext": "Its prime habitat was the... coastal heathland of Tasmania.",
       "phase1Inference": {
@@ -446,7 +469,10 @@
               "form": "habitat",
               "meaning": "môi trường sống"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -455,7 +481,7 @@
       }
     },
     {
-      "id": 1761730760320,
+      "id": "1761813174061-18-12-0a54a686",
       "targetLexeme": "muscular",
       "sourceContext": "In terms of feeding, it was exclusively carnivorous, and its stomach was muscular with an ability to distend...",
       "phase1Inference": {
@@ -472,12 +498,6 @@
           "lean and muscular"
         ],
         "wordForms": {
-          "adjective": [
-            {
-              "form": "muscular",
-              "meaning": "thuộc về cơ, vạm vỡ"
-            }
-          ],
           "noun": [
             {
               "form": "muscle",
@@ -487,7 +507,15 @@
               "form": "musculature",
               "meaning": "hệ cơ"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "muscular",
+              "meaning": "thuộc về cơ, vạm vỡ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -496,7 +524,7 @@
       }
     },
     {
-      "id": 1761730766452,
+      "id": "1761813174061-18-13-17f254e0",
       "targetLexeme": "an ability to distend",
       "sourceContext": "In terms of feeding, it was exclusively carnivorous, and its stomach was muscular with an ability to distend...",
       "phase1Inference": {
@@ -528,7 +556,9 @@
               "form": "distend",
               "meaning": "làm căng phồng"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -537,7 +567,7 @@
       }
     },
     {
-      "id": 1761730782158,
+      "id": "1761813174061-18-14-201326f4",
       "targetLexeme": "compensate for",
       "sourceContext": "...an ability to distend to eat large amounts of food at one time, probably an adaptation to compensate for long periods when food was scarce.",
       "phase1Inference": {
@@ -554,16 +584,16 @@
           "balance out"
         ],
         "wordForms": {
-          "verb": [
-            {
-              "form": "compensate",
-              "meaning": "bù đắp"
-            }
-          ],
           "noun": [
             {
               "form": "compensation",
               "meaning": "sự đền bù"
+            }
+          ],
+          "verb": [
+            {
+              "form": "compensate",
+              "meaning": "bù đắp"
             }
           ],
           "adjective": [
@@ -571,7 +601,8 @@
               "form": "compensatory",
               "meaning": "mang tính bù đắp"
             }
-          ]
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -580,7 +611,7 @@
       }
     },
     {
-      "id": 1761730788090,
+      "id": "1761813174061-18-15-40dfbe7c",
       "targetLexeme": "food scarce",
       "sourceContext": "...to compensate for long periods when food was scarce.",
       "phase1Inference": {
@@ -607,12 +638,14 @@
               "meaning": "sự khan hiếm"
             }
           ],
+          "verb": [],
           "adjective": [
             {
               "form": "scarce",
               "meaning": "khan hiếm"
             }
-          ]
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -621,7 +654,7 @@
       }
     },
     {
-      "id": 1761730796088,
+      "id": "1761813174061-18-16-5a5c27bc",
       "targetLexeme": "prey",
       "sourceContext": "The thylacine was not a fast runner and probably caught its prey by exhausting it during a long...",
       "phase1Inference": {
@@ -649,7 +682,9 @@
               "form": "prey on",
               "meaning": "săn mồi"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -658,7 +693,7 @@
       }
     },
     {
-      "id": 1761730802634,
+      "id": "1761813174061-18-17-10d96bb4",
       "targetLexeme": "a long pursuit",
       "sourceContext": "The thylacine was not a fast runner and probably caught its prey by exhausting it during a long pursuit.",
       "phase1Inference": {
@@ -686,7 +721,9 @@
               "form": "pursue",
               "meaning": "truy đuổi"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -695,7 +732,7 @@
       }
     },
     {
-      "id": 1761730850510,
+      "id": "1761813174061-18-18-54490ecd",
       "targetLexeme": "relied more on",
       "sourceContext": "During long-distance chases, thylacines were likely to have relied more on scent than any other sense.",
       "phase1Inference": {
@@ -712,16 +749,16 @@
           "heavy reliance on"
         ],
         "wordForms": {
-          "verb": [
-            {
-              "form": "rely on (past: relied on)",
-              "meaning": "dựa vào"
-            }
-          ],
           "noun": [
             {
               "form": "reliance",
               "meaning": "sự phụ thuộc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "rely on (past: relied on)",
+              "meaning": "dựa vào"
             }
           ],
           "adjective": [
@@ -729,7 +766,8 @@
               "form": "reliant",
               "meaning": "phụ thuộc"
             }
-          ]
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -738,7 +776,7 @@
       }
     },
     {
-      "id": 1761730853059,
+      "id": "1761813174061-18-19-46745c6c",
       "targetLexeme": "scent",
       "sourceContext": "During long-distance chases, thylacines were likely to have relied more on scent than any other sense.",
       "phase1Inference": {
@@ -761,12 +799,14 @@
               "meaning": "mùi hương"
             }
           ],
+          "verb": [],
           "adjective": [
             {
               "form": "scented",
               "meaning": "có mùi thơm"
             }
-          ]
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -775,7 +815,7 @@
       }
     },
     {
-      "id": 1761730857219,
+      "id": "1761813174061-18-20-6f23cc4f",
       "targetLexeme": "sense",
       "sourceContext": "During long-distance chases, thylacines were likely to have relied more on scent than any other sense.",
       "phase1Inference": {
@@ -798,12 +838,14 @@
               "meaning": "giác quan"
             }
           ],
+          "verb": [],
           "adjective": [
             {
               "form": "sensory",
               "meaning": "thuộc về giác quan"
             }
-          ]
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -812,7 +854,7 @@
       }
     },
     {
-      "id": 1761730861513,
+      "id": "1761813174061-18-21-5670c929",
       "targetLexeme": "emerged to",
       "sourceContext": "They emerged to hunt during the evening, night and early morning and tended to retreat to the hills...",
       "phase1Inference": {
@@ -829,18 +871,20 @@
           "surface to"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "emergence",
+              "meaning": "sự xuất hiện"
+            }
+          ],
           "verb": [
             {
               "form": "emerge (past: emerged)",
               "meaning": "xuất hiện"
             }
           ],
-          "noun": [
-            {
-              "form": "emergence",
-              "meaning": "sự xuất hiện"
-            }
-          ]
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -849,7 +893,7 @@
       }
     },
     {
-      "id": 1761730871142,
+      "id": "1761813174061-18-22-483be033",
       "targetLexeme": "tended to",
       "sourceContext": "They emerged to hunt during the evening, night and early morning and tended to retreat to the hills...",
       "phase1Inference": {
@@ -866,18 +910,20 @@
           "be inclined to"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "tendency",
+              "meaning": "xu hướng"
+            }
+          ],
           "verb": [
             {
               "form": "tend to (past: tended to)",
               "meaning": "có xu hướng"
             }
           ],
-          "noun": [
-            {
-              "form": "tendency",
-              "meaning": "xu hướng"
-            }
-          ]
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -886,7 +932,7 @@
       }
     },
     {
-      "id": 1761730876851,
+      "id": "1761813174061-18-23-34b7fda8",
       "targetLexeme": "shelter",
       "sourceContext": "...and tended to retreat to the hills and forest for shelter by day.",
       "phase1Inference": {
@@ -914,7 +960,9 @@
               "form": "shelter",
               "meaning": "che chở, trú ẩn"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -923,7 +971,7 @@
       }
     },
     {
-      "id": 1761730906815,
+      "id": "1761813174061-18-24-2afe51fb",
       "targetLexeme": "basking",
       "sourceContext": "Although mainly nocturnal, it was sighted moving during the day and some individuals were even recorded basking in...",
       "phase1Inference": {
@@ -940,12 +988,15 @@
           "basking in glory"
         ],
         "wordForms": {
+          "noun": [],
           "verb": [
             {
               "form": "bask",
               "meaning": "phơi nắng"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -954,7 +1005,7 @@
       }
     },
     {
-      "id": 1761730915887,
+      "id": "1761813174061-18-25-20b5a5e2",
       "targetLexeme": "an extended breeding season",
       "sourceContext": "There are indications that breeding took place throughout the year, but that there was an extended breeding season from winter to spring.",
       "phase1Inference": {
@@ -971,12 +1022,6 @@
           "extended period"
         ],
         "wordForms": {
-          "adjective": [
-            {
-              "form": "extended",
-              "meaning": "kéo dài"
-            }
-          ],
           "noun": [
             {
               "form": "breeding",
@@ -992,7 +1037,14 @@
               "form": "extend",
               "meaning": "kéo dài"
             }
-          ]
+          ],
+          "adjective": [
+            {
+              "form": "extended",
+              "meaning": "kéo dài"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1001,7 +1053,7 @@
       }
     },
     {
-      "id": 1761730938430,
+      "id": "1761813174061-18-26-7d5b40d2",
       "targetLexeme": "crawled into",
       "sourceContext": "Newborns crawled into the pouch on the belly of their mother, and attached themselves to one of the...",
       "phase1Inference": {
@@ -1018,12 +1070,15 @@
           "sneak into"
         ],
         "wordForms": {
+          "noun": [],
           "verb": [
             {
               "form": "crawl (past: crawled)",
               "meaning": "bò, trườn"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1032,7 +1087,7 @@
       }
     },
     {
-      "id": 1761730942891,
+      "id": "1761813174061-18-27-31abc862",
       "targetLexeme": "pouch",
       "sourceContext": "Newborns crawled into the pouch on the belly of their mother...",
       "phase1Inference": {
@@ -1053,7 +1108,10 @@
               "form": "pouch",
               "meaning": "cái túi"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1062,7 +1120,7 @@
       }
     },
     {
-      "id": 1761730946606,
+      "id": "1761813174061-18-28-627fb606",
       "targetLexeme": "belly",
       "sourceContext": "Newborns crawled into the pouch on the belly of their mother...",
       "phase1Inference": {
@@ -1084,7 +1142,10 @@
               "form": "belly",
               "meaning": "bụng"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1093,7 +1154,7 @@
       }
     },
     {
-      "id": 1761730953182,
+      "id": "1761813174061-18-29-772aac33",
       "targetLexeme": "teats",
       "sourceContext": "...and attached themselves to one of the four teats, where they remained for three months.",
       "phase1Inference": {
@@ -1115,7 +1176,10 @@
               "form": "teat",
               "meaning": "vú (động vật)"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1124,7 +1188,7 @@
       }
     },
     {
-      "id": 1761730972528,
+      "id": "1761813174061-18-30-5fbeec8a",
       "targetLexeme": "a lair",
       "sourceContext": "When old enough to leave the pouch, the young stayed in a lair such as a deep rocky...",
       "phase1Inference": {
@@ -1146,7 +1210,10 @@
               "form": "lair",
               "meaning": "hang ổ"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1155,7 +1222,7 @@
       }
     },
     {
-      "id": 1761730983434,
+      "id": "1761813174061-18-31-21e6ccf2",
       "targetLexeme": "hollow log",
       "sourceContext": "...a deep rocky cave, a hollow log, or a well-hidden nest.",
       "phase1Inference": {
@@ -1172,18 +1239,20 @@
           "tree trunk"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "log",
+              "meaning": "khúc gỗ"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "hollow",
               "meaning": "rỗng"
             }
           ],
-          "noun": [
-            {
-              "form": "log",
-              "meaning": "khúc gỗ"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1192,7 +1261,7 @@
       }
     },
     {
-      "id": 1761730988106,
+      "id": "1761813174061-18-32-74181530",
       "targetLexeme": "whilst",
       "sourceContext": "...stayed in a lair... whilst their mother hunted.",
       "phase1Inference": {
@@ -1209,12 +1278,10 @@
           "during"
         ],
         "wordForms": {
-          "conjunction": [
-            {
-              "form": "whilst",
-              "meaning": "trong khi"
-            }
-          ]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1223,7 +1290,7 @@
       }
     },
     {
-      "id": 1761730994854,
+      "id": "1761813174061-18-33-7c6a8381",
       "targetLexeme": "Approximately",
       "sourceContext": "Approximately 4,000 years ago, the thylacine became widespread throughout mainland Australia and New Guinea.",
       "phase1Inference": {
@@ -1240,22 +1307,23 @@
           "about"
         ],
         "wordForms": {
-          "adverb": [
+          "noun": [
             {
-              "form": "approximately",
-              "meaning": "khoảng chừng"
+              "form": "approximation",
+              "meaning": "sự xấp xỉ"
             }
           ],
+          "verb": [],
           "adjective": [
             {
               "form": "approximate",
               "meaning": "xấp xỉ"
             }
           ],
-          "noun": [
+          "adverb": [
             {
-              "form": "approximation",
-              "meaning": "sự xấp xỉ"
+              "form": "approximately",
+              "meaning": "khoảng chừng"
             }
           ]
         }
@@ -1266,7 +1334,7 @@
       }
     },
     {
-      "id": 1761731002910,
+      "id": "1761813174061-18-34-5fc99306",
       "targetLexeme": "mainland",
       "sourceContext": "...throughout mainland Australia and New Guinea.",
       "phase1Inference": {
@@ -1288,7 +1356,10 @@
               "form": "mainland",
               "meaning": "đất liền"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1297,7 +1368,7 @@
       }
     },
     {
-      "id": 1761731013681,
+      "id": "1761813174061-18-35-15acafa0",
       "targetLexeme": "well-dated occurrence",
       "sourceContext": "The most recent, well-dated occurrence of a thylacine on the mainland is a carbon-dated fossil from Murray Cave...",
       "phase1Inference": {
@@ -1314,12 +1385,6 @@
           "confirmed sighting"
         ],
         "wordForms": {
-          "adjective": [
-            {
-              "form": "well-dated",
-              "meaning": "được xác định niên đại rõ"
-            }
-          ],
           "noun": [
             {
               "form": "occurrence",
@@ -1331,7 +1396,14 @@
               "form": "occur",
               "meaning": "xảy ra"
             }
-          ]
+          ],
+          "adjective": [
+            {
+              "form": "well-dated",
+              "meaning": "được xác định niên đại rõ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1340,7 +1412,7 @@
       }
     },
     {
-      "id": 1761731018322,
+      "id": "1761813174061-18-36-0d015bbc",
       "targetLexeme": "a carbon-dated fossil",
       "sourceContext": "The most recent... occurrence... is a carbon-dated fossil from Murray Cave...",
       "phase1Inference": {
@@ -1357,12 +1429,6 @@
           "dinosaur fossil"
         ],
         "wordForms": {
-          "adjective": [
-            {
-              "form": "carbon-dated",
-              "meaning": "được xác định niên đại bằng carbon"
-            }
-          ],
           "noun": [
             {
               "form": "fossil",
@@ -1372,7 +1438,15 @@
               "form": "carbon dating",
               "meaning": "phương pháp xác định niên đại bằng carbon"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "carbon-dated",
+              "meaning": "được xác định niên đại bằng carbon"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1381,7 +1455,7 @@
       }
     },
     {
-      "id": 1761731045342,
+      "id": "1761813174061-18-37-6dfa33a6",
       "targetLexeme": "dingoes",
       "sourceContext": "Its extinction coincided closely with the arrival of wild dogs called dingoes in Australia...",
       "phase1Inference": {
@@ -1403,7 +1477,10 @@
               "form": "dingo (plural: dingoes)",
               "meaning": "chó dingo"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1412,7 +1489,7 @@
       }
     },
     {
-      "id": 1761731048610,
+      "id": "1761813174061-18-38-5b23dc41",
       "targetLexeme": "predator",
       "sourceContext": "...and a similar predator, the New Guinea singing dog.",
       "phase1Inference": {
@@ -1439,12 +1516,14 @@
               "meaning": "sự săn mồi"
             }
           ],
+          "verb": [],
           "adjective": [
             {
               "form": "predatory",
               "meaning": "có tính săn mồi"
             }
-          ]
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1453,7 +1532,7 @@
       }
     },
     {
-      "id": 1761731069014,
+      "id": "1761813174061-18-39-556e6e08",
       "targetLexeme": "dramatic decline",
       "sourceContext": "The dramatic decline of the thylacine in Tasmania, which began in the 1830s...",
       "phase1Inference": {
@@ -1470,12 +1549,6 @@
           "population decline"
         ],
         "wordForms": {
-          "adjective": [
-            {
-              "form": "dramatic",
-              "meaning": "đột ngột, gây ấn tượng mạnh"
-            }
-          ],
           "noun": [
             {
               "form": "decline",
@@ -1487,7 +1560,14 @@
               "form": "decline",
               "meaning": "suy giảm"
             }
-          ]
+          ],
+          "adjective": [
+            {
+              "form": "dramatic",
+              "meaning": "đột ngột, gây ấn tượng mạnh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1496,7 +1576,7 @@
       }
     },
     {
-      "id": 1761731078635,
+      "id": "1761813174061-18-40-55333c3a",
       "targetLexeme": "is ... attributed to",
       "sourceContext": "...is usually attributed to the relentless efforts of farmers and bounty hunters.",
       "phase1Inference": {
@@ -1513,18 +1593,20 @@
           "be the result of"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "attribution",
+              "meaning": "sự quy cho"
+            }
+          ],
           "verb": [
             {
               "form": "attribute to",
               "meaning": "quy cho"
             }
           ],
-          "noun": [
-            {
-              "form": "attribution",
-              "meaning": "sự quy cho"
-            }
-          ]
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1533,7 +1615,7 @@
       }
     },
     {
-      "id": 1761731086449,
+      "id": "1761813174061-18-41-6eed9e74",
       "targetLexeme": "relentless effort",
       "sourceContext": "...attributed to the relentless efforts of farmers and bounty hunters.",
       "phase1Inference": {
@@ -1550,18 +1632,20 @@
           "determined attempt"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "effort",
+              "meaning": "nỗ lực"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "relentless",
               "meaning": "không ngừng, không nao núng"
             }
           ],
-          "noun": [
-            {
-              "form": "effort",
-              "meaning": "nỗ lực"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1570,7 +1654,7 @@
       }
     },
     {
-      "id": 1761731103296,
+      "id": "1761813174061-18-42-56789da9",
       "targetLexeme": "undoubtedly",
       "sourceContext": "While this determined campaign undoubtedly played a large part, it is likely that various other factors also contributed...",
       "phase1Inference": {
@@ -1587,16 +1671,18 @@
           "without a doubt"
         ],
         "wordForms": {
-          "adverb": [
-            {
-              "form": "undoubtedly",
-              "meaning": "chắc chắn"
-            }
-          ],
+          "noun": [],
+          "verb": [],
           "adjective": [
             {
               "form": "undoubted",
               "meaning": "rõ ràng, không thể nghi ngờ"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "undoubtedly",
+              "meaning": "chắc chắn"
             }
           ]
         }
@@ -1607,7 +1693,7 @@
       }
     },
     {
-      "id": 1761731121876,
+      "id": "1761813174061-18-43-12486004",
       "targetLexeme": "European settlers",
       "sourceContext": "These include competition with wild dogs introduced by European settlers, loss of habitat along with the disappearance of...",
       "phase1Inference": {
@@ -1624,12 +1710,6 @@
           "immigrants"
         ],
         "wordForms": {
-          "adjective": [
-            {
-              "form": "European",
-              "meaning": "thuộc châu Âu"
-            }
-          ],
           "noun": [
             {
               "form": "settler",
@@ -1641,7 +1721,14 @@
               "form": "settle",
               "meaning": "định cư"
             }
-          ]
+          ],
+          "adjective": [
+            {
+              "form": "European",
+              "meaning": "thuộc châu Âu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1650,7 +1737,7 @@
       }
     },
     {
-      "id": 1761731128198,
+      "id": "1761813174061-18-44-5675da6d",
       "targetLexeme": "disappearance of prey species",
       "sourceContext": "...loss of habitat along with the disappearance of prey species...",
       "phase1Inference": {
@@ -1686,7 +1773,9 @@
               "form": "disappear",
               "meaning": "biến mất"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1695,7 +1784,7 @@
       }
     },
     {
-      "id": 1761731131900,
+      "id": "1761813174061-18-45-0e0f98f4",
       "targetLexeme": "a distemper-like disease",
       "sourceContext": "...and a distemper-like disease which also affected the thylacine.",
       "phase1Inference": {
@@ -1721,7 +1810,10 @@
               "form": "disease",
               "meaning": "bệnh tật"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1730,7 +1822,7 @@
       }
     },
     {
-      "id": 1761731144653,
+      "id": "1761813174061-18-46-32a382a9",
       "targetLexeme": "captivity",
       "sourceContext": "There was no successful attempt to breed the thylacine in captivity.",
       "phase1Inference": {
@@ -1757,12 +1849,14 @@
               "meaning": "tù nhân, con vật bị nhốt"
             }
           ],
+          "verb": [],
           "adjective": [
             {
               "form": "captive",
               "meaning": "bị giam cầm"
             }
-          ]
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1771,7 +1865,7 @@
       }
     },
     {
-      "id": 1761731151709,
+      "id": "1761813174061-18-47-365ea908",
       "targetLexeme": "particularly",
       "sourceContext": "This was despite the large numbers that went through some zoos, particularly London Zoo and Tasmania's Hobart Zoo.",
       "phase1Inference": {
@@ -1788,16 +1882,18 @@
           "notably"
         ],
         "wordForms": {
-          "adverb": [
-            {
-              "form": "particularly",
-              "meaning": "một cách đặc biệt"
-            }
-          ],
+          "noun": [],
+          "verb": [],
           "adjective": [
             {
               "form": "particular",
               "meaning": "cụ thể, đặc biệt"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "particularly",
+              "meaning": "một cách đặc biệt"
             }
           ]
         }
@@ -1808,7 +1904,7 @@
       }
     },
     {
-      "id": 1761731159597,
+      "id": "1761813174061-18-48-001cd520",
       "targetLexeme": "foresaw",
       "sourceContext": "The famous naturalist John Gould foresaw the thylacine's demise when he published his Mammals of Australia...",
       "phase1Inference": {
@@ -1825,6 +1921,7 @@
           "envisage"
         ],
         "wordForms": {
+          "noun": [],
           "verb": [
             {
               "form": "foresee (past: foresaw)",
@@ -1836,7 +1933,8 @@
               "form": "foreseeable",
               "meaning": "có thể thấy trước"
             }
-          ]
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1845,7 +1943,7 @@
       }
     },
     {
-      "id": 1761731163313,
+      "id": "1761813174061-18-49-1fa4949d",
       "targetLexeme": "demise",
       "sourceContext": "The famous naturalist John Gould foresaw the thylacine's demise when he published his Mammals of Australia...",
       "phase1Inference": {
@@ -1867,7 +1965,10 @@
               "form": "demise",
               "meaning": "sự sụp đổ"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1876,7 +1977,7 @@
       }
     },
     {
-      "id": 1761731175621,
+      "id": "1761813174061-18-50-2eb4fab6",
       "targetLexeme": "singular animal",
       "sourceContext": "He wrote: ‘...this singular animal will speedily diminish...’",
       "phase1Inference": {
@@ -1893,18 +1994,20 @@
           "peculiar animal"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "animal",
+              "meaning": "động vật"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "singular",
               "meaning": "kỳ lạ, đặc biệt"
             }
           ],
-          "noun": [
-            {
-              "form": "animal",
-              "meaning": "động vật"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1913,7 +2016,7 @@
       }
     },
     {
-      "id": 1761731182597,
+      "id": "1761813174061-18-51-04f4d589",
       "targetLexeme": "extermination",
       "sourceContext": "...the large Tasmanian marsupial will probably in a few years be hunted to extermination.",
       "phase1Inference": {
@@ -1941,7 +2044,9 @@
               "form": "exterminate",
               "meaning": "tiêu diệt"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1950,7 +2055,7 @@
       }
     },
     {
-      "id": 1761731189740,
+      "id": "1761813174061-18-52-742d3be7",
       "targetLexeme": "full sway",
       "sourceContext": "When the comparatively small island of Tasmania is populated and the kangaroo is hunted for its skin, the numbers of this singular animal will speedily diminish, extermination will have its full sway...",
       "phase1Inference": {
@@ -1972,7 +2077,10 @@
               "form": "sway",
               "meaning": "sự ảnh hưởng, sự kiểm soát"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1981,7 +2089,7 @@
       }
     },
     {
-      "id": 1761731200420,
+      "id": "1761813174061-18-53-5e8eade0",
       "targetLexeme": "an animal of the past",
       "sourceContext": "...and it will then be recorded as an animal of the past.",
       "phase1Inference": {
@@ -2007,7 +2115,10 @@
               "form": "past",
               "meaning": "quá khứ"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2016,7 +2127,7 @@
       }
     },
     {
-      "id": 1761731209432,
+      "id": "1761813174061-18-54-0f1a319e",
       "targetLexeme": "little public pressure",
       "sourceContext": "There seems to have been little public pressure to halt the hunting of the thylacine...",
       "phase1Inference": {
@@ -2033,18 +2144,20 @@
           "social pressure"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "pressure",
+              "meaning": "áp lực"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "public",
               "meaning": "công cộng"
             }
           ],
-          "noun": [
-            {
-              "form": "pressure",
-              "meaning": "áp lực"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2053,7 +2166,7 @@
       }
     },
     {
-      "id": 1761731227788,
+      "id": "1761813174061-18-55-184174de",
       "targetLexeme": "A notable exception",
       "sourceContext": "A notable exception was T.T. Flynn, Professor of Biology at the University of Tasmania.",
       "phase1Inference": {
@@ -2070,18 +2183,20 @@
           "make an exception"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "exception",
+              "meaning": "ngoại lệ"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "notable",
               "meaning": "đáng chú ý"
             }
           ],
-          "noun": [
-            {
-              "form": "exception",
-              "meaning": "ngoại lệ"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2090,7 +2205,7 @@
       }
     },
     {
-      "id": 1761731238072,
+      "id": "1761813174061-18-56-31cb01d8",
       "targetLexeme": "concerned about",
       "sourceContext": "In 1914, he was sufficiently concerned about the scarcity of the thylacine to suggest that some should be...",
       "phase1Inference": {
@@ -2107,18 +2222,20 @@
           "express concern about"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "concern",
+              "meaning": "mối lo ngại"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "concerned",
               "meaning": "lo lắng"
             }
           ],
-          "noun": [
-            {
-              "form": "concern",
-              "meaning": "mối lo ngại"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2127,7 +2244,7 @@
       }
     },
     {
-      "id": 1761731250061,
+      "id": "1761813174061-18-57-19d79ec4",
       "targetLexeme": "it was not until",
       "sourceContext": "But it was not until 1929, with the species on the very edge of extinction, that Tasmania's Animals...",
       "phase1Inference": {
@@ -2143,7 +2260,12 @@
           "only when",
           "it was only after"
         ],
-        "wordForms": {}
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -2151,7 +2273,7 @@
       }
     },
     {
-      "id": 1761731256901,
+      "id": "1761813174061-18-58-042d04b1",
       "targetLexeme": "on the very edge of extinction",
       "sourceContext": "But it was not until 1929, with the species on the very edge of extinction, that Tasmania's Animals...",
       "phase1Inference": {
@@ -2177,7 +2299,10 @@
               "form": "extinction",
               "meaning": "sự tuyệt chủng"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2186,7 +2311,7 @@
       }
     },
     {
-      "id": 1761731267911,
+      "id": "1761813174061-18-59-0fb80cf5",
       "targetLexeme": "a motion protecting",
       "sourceContext": "...that Tasmania's Animals and Birds' Protection Board passed a motion protecting thylacines...",
       "phase1Inference": {
@@ -2214,7 +2339,9 @@
               "form": "protect",
               "meaning": "bảo vệ"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2223,7 +2350,7 @@
       }
     },
     {
-      "id": 1761731280062,
+      "id": "1761813174061-18-60-1d90791a",
       "targetLexeme": "captive specimens",
       "sourceContext": "The last known wild thylacine to be killed was shot by a farmer in the north-east of Tasmania... The last of the captive specimens, a thylacine known as ‘Benjamin’, died in Hobart Zoo in 1936.",
       "phase1Inference": {
@@ -2240,18 +2367,20 @@
           "biological samples"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "specimen",
+              "meaning": "mẫu vật"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "captive",
               "meaning": "bị giam cầm"
             }
           ],
-          "noun": [
-            {
-              "form": "specimen",
-              "meaning": "mẫu vật"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2260,7 +2389,7 @@
       }
     },
     {
-      "id": 1761731293793,
+      "id": "1761813174061-18-61-743d55f1",
       "targetLexeme": "numerous expeditions",
       "sourceContext": "Over the next 50 years, numerous expeditions were mounted to search for the thylacine...",
       "phase1Inference": {
@@ -2277,18 +2406,20 @@
           "many journeys"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "expedition",
+              "meaning": "cuộc thám hiểm"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "numerous",
               "meaning": "nhiều, đông đảo"
             }
           ],
-          "noun": [
-            {
-              "form": "expedition",
-              "meaning": "cuộc thám hiểm"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2297,7 +2428,7 @@
       }
     },
     {
-      "id": 1761731302352,
+      "id": "1761813174061-18-62-6ced30ad",
       "targetLexeme": "definitive evidence",
       "sourceContext": "...but no definitive evidence of the thylacine's continued existence was ever found.",
       "phase1Inference": {
@@ -2314,18 +2445,20 @@
           "concrete evidence"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "evidence",
+              "meaning": "bằng chứng"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "definitive",
               "meaning": "cuối cùng, quyết định"
             }
           ],
-          "noun": [
-            {
-              "form": "evidence",
-              "meaning": "bằng chứng"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2334,7 +2467,7 @@
       }
     },
     {
-      "id": 1761731996611,
+      "id": "1761813174061-18-63-2c0d70dd",
       "targetLexeme": "indications",
       "sourceContext": "There are indications that breeding took place throughout the year...",
       "phase1Inference": {
@@ -2362,7 +2495,9 @@
               "form": "indicate",
               "meaning": "chỉ ra"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2371,7 +2506,7 @@
       }
     },
     {
-      "id": 1761732007320,
+      "id": "1761813174061-18-64-4f6e8536",
       "targetLexeme": "a shy, nervous temperament",
       "sourceContext": "Despite the common name ‘tiger', the thylacine had a shy, nervous temperament.",
       "phase1Inference": {
@@ -2388,6 +2523,13 @@
           "anxious personality"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "temperament",
+              "meaning": "tính khí"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "shy",
@@ -2398,12 +2540,7 @@
               "meaning": "lo lắng"
             }
           ],
-          "noun": [
-            {
-              "form": "temperament",
-              "meaning": "tính khí"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2412,7 +2549,7 @@
       }
     },
     {
-      "id": 1761732015045,
+      "id": "1761813174061-18-65-63eb95f5",
       "targetLexeme": "mainly nocturnal",
       "sourceContext": "Although mainly nocturnal, it was sighted moving during the day...",
       "phase1Inference": {
@@ -2429,16 +2566,18 @@
           "diurnal"
         ],
         "wordForms": {
-          "adverb": [
-            {
-              "form": "mainly",
-              "meaning": "chủ yếu"
-            }
-          ],
+          "noun": [],
+          "verb": [],
           "adjective": [
             {
               "form": "nocturnal",
               "meaning": "thuộc về đêm"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "mainly",
+              "meaning": "chủ yếu"
             }
           ]
         }
@@ -2449,7 +2588,7 @@
       }
     },
     {
-      "id": 1761732046561,
+      "id": "1761813174061-18-66-7b8cf2e2",
       "targetLexeme": "it is likely that various other factors also contributed to",
       "sourceContext": "While this determined campaign undoubtedly played a large part, it is likely that various other factors also contributed to the decline and eventual extinction...",
       "phase1Inference": {
@@ -2466,6 +2605,13 @@
           "played a role in"
         ],
         "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "contribute to",
+              "meaning": "góp phần vào"
+            }
+          ],
           "adjective": [
             {
               "form": "likely",
@@ -2476,12 +2622,7 @@
               "meaning": "nhiều, khác nhau"
             }
           ],
-          "verb": [
-            {
-              "form": "contribute to",
-              "meaning": "góp phần vào"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2490,7 +2631,7 @@
       }
     },
     {
-      "id": 1761732065574,
+      "id": "1761813174061-18-67-1d65aa55",
       "targetLexeme": "sighted moving",
       "sourceContext": "Although mainly nocturnal, it was sighted moving during the day...",
       "phase1Inference": {
@@ -2507,6 +2648,7 @@
           "seen"
         ],
         "wordForms": {
+          "noun": [],
           "verb": [
             {
               "form": "sight (past: sighted)",
@@ -2516,7 +2658,9 @@
               "form": "move",
               "meaning": "di chuyển"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2525,7 +2669,7 @@
       }
     },
     {
-      "id": 1761732079379,
+      "id": "1761813174061-18-68-0ff96847",
       "targetLexeme": "a deep rocky cave",
       "sourceContext": "When old enough to leave the pouch, the young stayed in a lair such as a deep rocky cave...",
       "phase1Inference": {
@@ -2542,6 +2686,13 @@
           "underground cavern"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "cave",
+              "meaning": "hang động"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "deep",
@@ -2552,12 +2703,7 @@
               "meaning": "nhiều đá"
             }
           ],
-          "noun": [
-            {
-              "form": "cave",
-              "meaning": "hang động"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2566,7 +2712,7 @@
       }
     },
     {
-      "id": 1761732083129,
+      "id": "1761813174061-18-69-7b505af7",
       "targetLexeme": "well-hidden nest",
       "sourceContext": "...a deep rocky cave, a hollow log, or a well-hidden nest.",
       "phase1Inference": {
@@ -2583,22 +2729,23 @@
           "camouflaged"
         ],
         "wordForms": {
-          "adverb": [
+          "noun": [
             {
-              "form": "well",
-              "meaning": "tốt, kỹ"
+              "form": "nest",
+              "meaning": "tổ"
             }
           ],
+          "verb": [],
           "adjective": [
             {
               "form": "hidden",
               "meaning": "bị giấu"
             }
           ],
-          "noun": [
+          "adverb": [
             {
-              "form": "nest",
-              "meaning": "tổ"
+              "form": "well",
+              "meaning": "tốt, kỹ"
             }
           ]
         }
@@ -2609,7 +2756,7 @@
       }
     },
     {
-      "id": 1761732121925,
+      "id": "1761813174061-18-70-6f9c370d",
       "targetLexeme": "speedily diminish",
       "sourceContext": "‘...this singular animal will speedily diminish...’",
       "phase1Inference": {
@@ -2626,16 +2773,18 @@
           "decline swiftly"
         ],
         "wordForms": {
-          "adverb": [
-            {
-              "form": "speedily",
-              "meaning": "một cách nhanh chóng"
-            }
-          ],
+          "noun": [],
           "verb": [
             {
               "form": "diminish",
               "meaning": "giảm bớt"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "speedily",
+              "meaning": "một cách nhanh chóng"
             }
           ]
         }
@@ -2646,7 +2795,7 @@
       }
     },
     {
-      "id": 1761732143707,
+      "id": "1761813174061-18-71-5670b52f",
       "targetLexeme": "a marsupial",
       "sourceContext": "The extinct thylacine, also known as the Tasmanian tiger, was a marsupial* that bore a superficial resemblance to...",
       "phase1Inference": {
@@ -2668,7 +2817,10 @@
               "form": "marsupial",
               "meaning": "thú có túi"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2677,7 +2829,7 @@
       }
     },
     {
-      "id": 1761732163545,
+      "id": "1761813174061-18-72-01fbbd1f",
       "targetLexeme": "nose-to-tail length",
       "sourceContext": "The thylacine's average nose-to-tail length for adult males was 162.6 cm...",
       "phase1Inference": {
@@ -2707,7 +2859,10 @@
               "form": "length",
               "meaning": "chiều dài"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2716,7 +2871,7 @@
       }
     },
     {
-      "id": 1761732184559,
+      "id": "1761813174061-18-73-373b55e3",
       "targetLexeme": "exclusively carnivorous",
       "sourceContext": "In terms of feeding, it was exclusively carnivorous...",
       "phase1Inference": {
@@ -2733,22 +2888,23 @@
           "meat-eater"
         ],
         "wordForms": {
-          "adverb": [
+          "noun": [
             {
-              "form": "exclusively",
-              "meaning": "chỉ, riêng"
+              "form": "carnivore",
+              "meaning": "động vật ăn thịt"
             }
           ],
+          "verb": [],
           "adjective": [
             {
               "form": "carnivorous",
               "meaning": "thuộc loài ăn thịt"
             }
           ],
-          "noun": [
+          "adverb": [
             {
-              "form": "carnivore",
-              "meaning": "động vật ăn thịt"
+              "form": "exclusively",
+              "meaning": "chỉ, riêng"
             }
           ]
         }
@@ -2759,7 +2915,7 @@
       }
     },
     {
-      "id": 1761732202408,
+      "id": "1761813174061-18-74-1549d3e1",
       "targetLexeme": "exhausting",
       "sourceContext": "...caught its prey by exhausting it during a long pursuit.",
       "phase1Inference": {
@@ -2776,6 +2932,12 @@
           "fatiguing"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "exhaustion",
+              "meaning": "sự kiệt sức"
+            }
+          ],
           "verb": [
             {
               "form": "exhaust",
@@ -2792,12 +2954,7 @@
               "meaning": "bị kiệt sức"
             }
           ],
-          "noun": [
-            {
-              "form": "exhaustion",
-              "meaning": "sự kiệt sức"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2806,7 +2963,7 @@
       }
     },
     {
-      "id": 1761732208189,
+      "id": "1761813174061-18-75-5d55709f",
       "targetLexeme": "long-distance chases",
       "sourceContext": "During long-distance chases, thylacines were likely to have relied more on scent...",
       "phase1Inference": {
@@ -2823,18 +2980,20 @@
           "marathon"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "chase",
+              "meaning": "cuộc rượt đuổi"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "long-distance",
               "meaning": "đường dài"
             }
           ],
-          "noun": [
-            {
-              "form": "chase",
-              "meaning": "cuộc rượt đuổi"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2843,7 +3002,7 @@
       }
     },
     {
-      "id": 1761732212803,
+      "id": "1761813174061-18-76-29ec6e4a",
       "targetLexeme": "likely to",
       "sourceContext": "...thylacines were likely to have relied more on scent...",
       "phase1Inference": {
@@ -2860,18 +3019,20 @@
           "inclined to"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "likelihood",
+              "meaning": "khả năng"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "likely",
               "meaning": "có khả năng"
             }
           ],
-          "noun": [
-            {
-              "form": "likelihood",
-              "meaning": "khả năng"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2880,7 +3041,7 @@
       }
     },
     {
-      "id": 1761732234378,
+      "id": "1761813174061-18-77-52552093",
       "targetLexeme": "took place",
       "sourceContext": "There are indications that breeding took place throughout the year...",
       "phase1Inference": {
@@ -2897,12 +3058,15 @@
           "came about"
         ],
         "wordForms": {
+          "noun": [],
           "verb": [
             {
               "form": "take place (past: took place)",
               "meaning": "diễn ra"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2911,7 +3075,7 @@
       }
     },
     {
-      "id": 1761732280417,
+      "id": "1761813174061-18-78-5b5ae766",
       "targetLexeme": "widespread throughout",
       "sourceContext": "Approximately 4,000 years ago, the thylacine became widespread throughout mainland Australia...",
       "phase1Inference": {
@@ -2928,12 +3092,15 @@
           "found all over"
         ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
             {
               "form": "widespread",
               "meaning": "lan rộng"
             }
-          ]
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2942,7 +3109,7 @@
       }
     },
     {
-      "id": 1761732298396,
+      "id": "1761813174061-18-79-57c22fcd",
       "targetLexeme": "coincided closely with",
       "sourceContext": "Its extinction coincided closely with the arrival of wild dogs called dingoes...",
       "phase1Inference": {
@@ -2959,18 +3126,20 @@
           "closely correlated with"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "coincidence",
+              "meaning": "sự trùng hợp"
+            }
+          ],
           "verb": [
             {
               "form": "coincide (past: coincided)",
               "meaning": "trùng hợp"
             }
           ],
-          "noun": [
-            {
-              "form": "coincidence",
-              "meaning": "sự trùng hợp"
-            }
-          ]
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2979,7 +3148,7 @@
       }
     },
     {
-      "id": 1761732345506,
+      "id": "1761813174061-18-80-46a2632a",
       "targetLexeme": "the decline and eventual extinction",
       "sourceContext": "...various other factors also contributed to the decline and eventual extinction of the species.",
       "phase1Inference": {
@@ -3006,12 +3175,14 @@
               "meaning": "sự tuyệt chủng"
             }
           ],
+          "verb": [],
           "adjective": [
             {
               "form": "eventual",
               "meaning": "cuối cùng"
             }
-          ]
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -3020,7 +3191,7 @@
       }
     },
     {
-      "id": 1761732355217,
+      "id": "1761813174061-18-81-79a39188",
       "targetLexeme": "loss of habitat",
       "sourceContext": "...loss of habitat along with the disappearance of prey species...",
       "phase1Inference": {
@@ -3046,7 +3217,10 @@
               "form": "habitat",
               "meaning": "môi trường sống"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -3055,7 +3229,7 @@
       }
     },
     {
-      "id": 1761732359306,
+      "id": "1761813174061-18-82-22e09e0b",
       "targetLexeme": "along with",
       "sourceContext": "...loss of habitat along with the disappearance of prey species...",
       "phase1Inference": {
@@ -3071,7 +3245,12 @@
           "in addition to",
           "as well as"
         ],
-        "wordForms": {}
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -3079,7 +3258,7 @@
       }
     },
     {
-      "id": 1761732397923,
+      "id": "1761813174061-18-83-3998577b",
       "targetLexeme": "successful attempt to",
       "sourceContext": "There was no successful attempt to breed the thylacine in captivity.",
       "phase1Inference": {
@@ -3096,18 +3275,20 @@
           "a valiant effort"
         ],
         "wordForms": {
+          "noun": [
+            {
+              "form": "attempt",
+              "meaning": "sự cố gắng"
+            }
+          ],
+          "verb": [],
           "adjective": [
             {
               "form": "successful",
               "meaning": "thành công"
             }
           ],
-          "noun": [
-            {
-              "form": "attempt",
-              "meaning": "sự cố gắng"
-            }
-          ]
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -3116,7 +3297,7 @@
       }
     },
     {
-      "id": 1761732416192,
+      "id": "1761813174061-18-84-72243dbc",
       "targetLexeme": "there seems to",
       "sourceContext": "There seems to have been little public pressure to halt the hunting...",
       "phase1Inference": {
@@ -3132,7 +3313,12 @@
           "it would seem that",
           "it looks like"
         ],
-        "wordForms": {}
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
@@ -3140,7 +3326,7 @@
       }
     },
     {
-      "id": 1761732437841,
+      "id": "1761813174061-18-85-06708ea4",
       "targetLexeme": "expressed by",
       "sourceContext": "...and any concern expressed by scientists was ignored.",
       "phase1Inference": {
@@ -3157,12 +3343,15 @@
           "shown by"
         ],
         "wordForms": {
+          "noun": [],
           "verb": [
             {
               "form": "express (past: expressed)",
               "meaning": "bày tỏ"
             }
-          ]
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -3171,7 +3360,7 @@
       }
     },
     {
-      "id": 1761732463961,
+      "id": "1761813174061-18-86-432e8ba3",
       "targetLexeme": "none of",
       "sourceContext": "Over the next 50 years, numerous expeditions were mounted to search for the thylacine, but none of the expeditions was successful.",
       "phase1Inference": {
@@ -3187,12 +3376,23 @@
           "not one of",
           "zero"
         ],
-        "wordForms": {}
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        }
       },
       "phase3Production": {
         "taskType": "SENTENCE_CREATION",
         "content": "I invited many friends to the party, but none of them could come."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.061Z",
+    "version": "2.0",
+    "originalCount": 87,
+    "migratedCount": 87
+  }
 }

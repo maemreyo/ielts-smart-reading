@@ -1,0 +1,1691 @@
+{
+  "logTitle": "IELTS Reading Log: Climate change reveals ancient artefacts in Norway's glaciers",
+  "sourceId": "Reading Passage (Image)",
+  "totalItems": 75,
+  "lexicalItems": [
+    {
+      "id": 1,
+      "targetLexeme": "ancient artefacts",
+      "sourceContext": "Climate change reveals ancient artefacts in Norway's glaciers",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'hiện vật' (artefacts) 'cổ đại' (ancient)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈeɪnʃənt ˈɑːtɪfækts/",
+        "sentiment": "neutral",
+        "definitionEN": "Objects made by a human being, typically an item of cultural or historical interest from a long time ago",
+        "translationVI": "Các hiện vật cổ",
+        "relatedCollocates": ["historical artefacts", "archaeological finds"],
+        "wordForms": {
+          "noun": [{ "form": "artefact", "meaning": "hiện vật" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The museum has a large collection of ancient artefacts from the Roman Empire."
+      }
+    },
+    {
+      "id": 2,
+      "targetLexeme": "preserved in cold storage",
+      "sourceContext": "...giving up the treasures it has preserved in cold storage for the last 6,000 years...",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'bảo quản' (preserved) 'trong kho lạnh' (in cold storage)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/prɪˈzɜːvd ɪn kəʊld ˈstɔːrɪdʒ/",
+        "sentiment": "neutral",
+        "definitionEN": "Kept in a good condition in a very cold place",
+        "translationVI": "Được bảo quản trong kho lạnh",
+        "relatedCollocates": ["well-preserved", "keep in storage"],
+        "wordForms": {
+          "verb": [{ "form": "preserve", "meaning": "bảo quản" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ancient manuscript was perfectly preserved in cold storage."
+      }
+    },
+    {
+      "id": 3,
+      "targetLexeme": "Viking Age",
+      "sourceContext": "...items such as ancient arrows and skis from Viking Age* traders.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thời đại Viking"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈvaɪkɪŋ eɪdʒ/",
+        "sentiment": "neutral",
+        "definitionEN": "The period of European history from around 700 CE to 1050 CE when Scandinavian Vikings migrated throughout Europe",
+        "translationVI": "Thời đại Viking",
+        "relatedCollocates": ["Norsemen", "Scandinavia", "medieval period"],
+        "wordForms": {
+          "noun": [{ "form": "Viking", "meaning": "người Viking" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many myths and legends originate from the Viking Age."
+      }
+    },
+    {
+      "id": 4,
+      "targetLexeme": "surprising insights into",
+      "sourceContext": "And those artefacts have provided archaeologists with some surprising insights into how ancient Norwegians made their livings.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'hiểu biết' (insights) 'bất ngờ' (surprising) 'về' (into)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/səˈpraɪzɪŋ ˈɪnsaɪts ˈɪntuː/",
+        "sentiment": "positive",
+        "definitionEN": "Unexpected and accurate understandings of a complex subject",
+        "translationVI": "Những hiểu biết sâu sắc đáng ngạc nhiên về",
+        "relatedCollocates": ["provide insights", "valuable insights"],
+        "wordForms": {
+          "noun": [{ "form": "insight", "meaning": "sự hiểu biết sâu sắc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The book offers some surprising insights into the author's life."
+      }
+    },
+    {
+      "id": 5,
+      "targetLexeme": "made their livings",
+      "sourceContext": "...how ancient Norwegians made their livings.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã 'kiếm sống' (made their livings) như thế nào"
+      },
+      "phase2Annotation": {
+        "phonetic": "/meɪd ðeə ˈlɪvɪŋz/",
+        "sentiment": "neutral",
+        "definitionEN": "How they earned the money needed for food, clothing, etc",
+        "translationVI": "Kiếm sống",
+        "relatedCollocates": ["earn a living", "livelihood (n)"],
+        "wordForms": {
+          "verb": [{ "form": "make a living", "meaning": "kiếm sống" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In the past, most people in this village made their livings from fishing."
+      }
+    },
+    {
+      "id": 6,
+      "targetLexeme": "Organic materials",
+      "sourceContext": "Organic materials like textiles and hides are relatively rare finds at archaeological sites.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'vật liệu' (materials) 'hữu cơ' (Organic)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɔːˈɡænɪk məˈtɪəriəlz/",
+        "sentiment": "neutral",
+        "definitionEN": "Substances that come from living things, such as wood, leather, or cloth",
+        "translationVI": "Các vật liệu hữu cơ",
+        "relatedCollocates": [
+          "inorganic materials (antonym)",
+          "textiles",
+          "hides"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "organic", "meaning": "hữu cơ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Organic materials decay much faster than stone or metal."
+      }
+    },
+    {
+      "id": 7,
+      "targetLexeme": "relatively rare finds",
+      "sourceContext": "...are relatively rare finds at archaeological sites.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'phát hiện' (finds) 'tương đối' (relatively) 'hiếm' (rare)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈrelətɪvli reə faɪndz/",
+        "sentiment": "neutral",
+        "definitionEN": "Discoveries that are quite uncommon or unusual",
+        "translationVI": "Những phát hiện tương đối hiếm",
+        "relatedCollocates": ["uncommon (finds)", "a rare (discovery)"],
+        "wordForms": {
+          "noun": [{ "form": "find", "meaning": "vật tìm thấy" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Fossils of this particular dinosaur are relatively rare finds."
+      }
+    },
+    {
+      "id": 8,
+      "targetLexeme": "microorganisms that cause decay",
+      "sourceContext": "This is because unless they’re protected from microorganisms that cause decay, they tend not to last long.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'vi sinh vật' (microorganisms) 'gây ra' (that cause) 'sự phân hủy' (decay)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌmaɪkrəʊˈɔːɡənɪzəmz ðæt kɔːz dɪˈkeɪ/",
+        "sentiment": "negative",
+        "definitionEN": "Tiny living things, such as bacteria, that make organic matter rot or decompose",
+        "translationVI": "Vi sinh vật gây phân hủy",
+        "relatedCollocates": ["bacteria", "fungi", "decomposition"],
+        "wordForms": {
+          "noun": [{ "form": "decay", "meaning": "sự phân hủy" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Refrigeration slows down the growth of microorganisms that cause decay in food."
+      }
+    },
+    {
+      "id": 9,
+      "targetLexeme": "once thawed out",
+      "sourceContext": "...but once thawed out, these materials experience degradation relatively swiftly.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Một khi' (once) 'được rã đông' (thawed out)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wʌns θɔːd aʊt/",
+        "sentiment": "neutral",
+        "definitionEN": "After being unfrozen",
+        "translationVI": "Một khi được rã đông",
+        "relatedCollocates": ["frozen (antonym)", "thaw (v)"],
+        "wordForms": {
+          "verb": [{ "form": "thaw", "meaning": "rã đông" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The meat needs to be cooked soon once thawed out."
+      }
+    },
+    {
+      "id": 10,
+      "targetLexeme": "experience degradation",
+      "sourceContext": "...these materials experience degradation relatively swiftly.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Trải qua' (experience) 'sự phân hủy/xuống cấp' (degradation)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˈspɪəriəns ˌdeɡrəˈdeɪʃən/",
+        "sentiment": "negative",
+        "definitionEN": "To undergo the process of breaking down or deteriorating",
+        "translationVI": "Trải qua sự xuống cấp",
+        "relatedCollocates": ["decay (synonym)", "deteriorate"],
+        "wordForms": {
+          "noun": [{ "form": "degradation", "meaning": "sự xuống cấp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Plastics in the ocean slowly experience degradation into microplastics."
+      }
+    },
+    {
+      "id": 11,
+      "targetLexeme": "race the clock",
+      "sourceContext": "With climate change shrinking ice cover around the world, glacial archaeologists need to race the clock to find newly revealed artefacts...",
+      "phase1Inference": {
+        "contextualGuessVI": "Phải 'chạy đua với thời gian' (race the clock)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/reɪs ðə klɒk/",
+        "sentiment": "negative",
+        "definitionEN": "To work very quickly in order to do or finish something before a particular time",
+        "translationVI": "Chạy đua với thời gian",
+        "relatedCollocates": ["work against time", "under pressure"],
+        "wordForms": {
+          "verb": [{ "form": "race", "meaning": "chạy đua" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The emergency services had to race the clock to rescue the trapped miners."
+      }
+    },
+    {
+      "id": 12,
+      "targetLexeme": "windblown (adj)",
+      "sourceContext": "If something fragile dries and is windblown it might very soon be lost to science...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị 'gió thổi bay' (windblown)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwɪndbləʊn/",
+        "sentiment": "neutral",
+        "definitionEN": "Carried or moved by the wind",
+        "translationVI": "Bị gió thổi bay",
+        "relatedCollocates": ["blown by the wind", "wind-swept"],
+        "wordForms": {
+          "adjective": [{ "form": "windblown", "meaning": "bị gió thổi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The beach was covered in fine, windblown sand."
+      }
+    },
+    {
+      "id": 13,
+      "targetLexeme": "systematic in their approach",
+      "sourceContext": "The unpredictability means that glacial archaeologists have to be systematic in their approach to fieldwork.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Có hệ thống' (systematic) 'trong' (in) 'cách tiếp cận' (their approach)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌsɪstəˈmætɪk ɪn ðeər əˈprəʊtʃ/",
+        "sentiment": "positive",
+        "definitionEN": "To be methodical and organized in the way one deals with a task",
+        "translationVI": "Có hệ thống trong cách tiếp cận",
+        "relatedCollocates": ["a methodical approach", "an organized method"],
+        "wordForms": {
+          "adjective": [{ "form": "systematic", "meaning": "có hệ thống" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Detectives must be systematic in their approach to solving a crime."
+      }
+    },
+    {
+      "id": 14,
+      "targetLexeme": "surveyed patches of ice",
+      "sourceContext": "...a team of archaeologists... surveyed patches of ice in Oppland...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Khảo sát' (surveyed) 'các mảng băng' (patches of ice)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/səˈveɪd ˈpætʃɪz əv aɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "To examine and record the features of areas of ice",
+        "translationVI": "Khảo sát các mảng băng",
+        "relatedCollocates": ["ice patch", "survey (an area)"],
+        "wordForms": {
+          "verb": [{ "form": "survey", "meaning": "khảo sát" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The scientists surveyed patches of ice to study the effects of global warming."
+      }
+    },
+    {
+      "id": 15,
+      "targetLexeme": "congregated on",
+      "sourceContext": "Reindeer once congregated on these icy patches in the later summer months to escape biting insects...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã 'tụ tập' (congregated) 'trên' (on) những mảng băng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkɒŋɡrɪɡeɪtɪd ɒn/",
+        "sentiment": "neutral",
+        "definitionEN": "To gather into a crowd or mass",
+        "translationVI": "Tụ tập trên",
+        "relatedCollocates": ["gather on", "assemble on"],
+        "wordForms": {
+          "verb": [{ "form": "congregate", "meaning": "tụ tập" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A large crowd congregated on the main square for the festival."
+      }
+    },
+    {
+      "id": 16,
+      "targetLexeme": "biting insects",
+      "sourceContext": "...to escape biting insects...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các loài 'côn trùng' (insects) 'chích/đốt' (biting)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbaɪtɪŋ ˈɪnsekts/",
+        "sentiment": "negative",
+        "definitionEN": "Insects that pierce the skin with their mouthparts, such as mosquitoes or flies",
+        "translationVI": "Côn trùng cắn/chích",
+        "relatedCollocates": ["mosquitoes", "flies", "insect repellent"],
+        "wordForms": {
+          "adjective": [{ "form": "biting", "meaning": "cắn, chích" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It's important to use repellent to protect yourself from biting insects in the jungle."
+      }
+    },
+    {
+      "id": 17,
+      "targetLexeme": "Stone Age",
+      "sourceContext": "...and from the late Stone Age**, hunters followed.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thời đại Đồ đá"
+      },
+      "phase2Annotation": {
+        "phonetic": "/stəʊn eɪdʒ/",
+        "sentiment": "neutral",
+        "definitionEN": "A prehistoric period when weapons and tools were made of stone or of organic materials such as bone, wood, or horn",
+        "translationVI": "Thời đại Đồ đá",
+        "relatedCollocates": ["Bronze Age", "Iron Age", "prehistory"],
+        "wordForms": {
+          "noun": [{ "form": "Stone Age", "meaning": "Thời đại Đồ đá" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Cave paintings are one of the most famous forms of art from the Stone Age."
+      }
+    },
+    {
+      "id": 18,
+      "targetLexeme": "slow but steady movement",
+      "sourceContext": "The slow but steady movement of glaciers tends to destroy anything at their bases...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'di chuyển' (movement) 'chậm' (slow) 'nhưng' (but) 'ổn định' (steady)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/sləʊ bət ˈstedi ˈmuːvmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "A progression that is not fast but is continuous and regular",
+        "translationVI": "Sự di chuyển chậm nhưng đều đặn",
+        "relatedCollocates": ["gradual (movement)", "slow and steady"],
+        "wordForms": {
+          "noun": [{ "form": "movement", "meaning": "sự di chuyển" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He made slow but steady progress in his recovery after the surgery."
+      }
+    },
+    {
+      "id": 19,
+      "targetLexeme": "frost-weathered boulders",
+      "sourceContext": "That ice is found amid fields of frost-weathered boulders, fallen rocks, and exposed bedrock...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'tảng đá' (boulders) 'bị phong hóa' (weathered) 'do băng giá' (frost)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/frɒst ˈweðəd ˈbəʊldəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Large rocks that have been broken down or worn away by the action of frost",
+        "translationVI": "Những tảng đá bị phong hóa do băng giá",
+        "relatedCollocates": ["weathering", "erosion", "boulder"],
+        "wordForms": {
+          "noun": [{ "form": "boulder", "meaning": "tảng đá" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The mountain landscape was littered with frost-weathered boulders."
+      }
+    },
+    {
+      "id": 20,
+      "targetLexeme": "exposed bedrock",
+      "sourceContext": "...and exposed bedrock that for nine months of the year is buried beneath snow.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đá nền' (bedrock) 'lộ thiên' (exposed)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˈspəʊzd ˈbedrɒk/",
+        "sentiment": "neutral",
+        "definitionEN": "The solid rock underlying loose deposits such as soil that is visible on the surface",
+        "translationVI": "Đá nền lộ thiên",
+        "relatedCollocates": ["bare rock", "outcrop"],
+        "wordForms": {
+          "noun": [{ "form": "bedrock", "meaning": "đá nền" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The soil was thin, with large areas of exposed bedrock."
+      }
+    },
+    {
+      "id": 21,
+      "targetLexeme": "buried beneath snow",
+      "sourceContext": "...that for nine months of the year is buried beneath snow.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bị 'vùi' (buried) 'dưới' (beneath) 'tuyết' (snow)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈberid bɪˈniːθ snəʊ/",
+        "sentiment": "neutral",
+        "definitionEN": "Covered completely by snow",
+        "translationVI": "Bị vùi dưới tuyết",
+        "relatedCollocates": ["covered by snow", "under the snow"],
+        "wordForms": {
+          "verb": [{ "form": "bury", "meaning": "chôn vùi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The mountain pass is buried beneath snow for most of the winter."
+      }
+    },
+    {
+      "id": 22,
+      "targetLexeme": "permafrost (n)",
+      "sourceContext": "...often camping on permafrost – but very rewarding.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cắm trại trên 'lớp băng vĩnh cửu' (permafrost)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpɜːməfrɒst/",
+        "sentiment": "neutral",
+        "definitionEN": "A thick subsurface layer of soil that remains frozen throughout the year, occurring chiefly in polar regions",
+        "translationVI": "Băng vĩnh cửu",
+        "relatedCollocates": ["frozen ground", "tundra"],
+        "wordForms": {
+          "noun": [{ "form": "permafrost", "meaning": "băng vĩnh cửu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Climate change is causing the permafrost to thaw, releasing trapped greenhouse gases."
+      }
+    },
+    {
+      "id": 23,
+      "targetLexeme": "rescuing the archaeology",
+      "sourceContext": "‘You’re rescuing the archaeology, bringing the melting ice to wider attention...’",
+      "phase1Inference": {
+        "contextualGuessVI": "'Giải cứu' (rescuing) 'khảo cổ học' (the archaeology) (tức là các di vật khảo cổ)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈreskjuːɪŋ ði ˌɑːkiˈɒlədʒi/",
+        "sentiment": "positive",
+        "definitionEN": "Saving the archaeological artefacts from being lost or destroyed",
+        "translationVI": "Giải cứu các di vật khảo cổ",
+        "relatedCollocates": [
+          "saving artefacts",
+          "rescuing (from destruction)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "rescue", "meaning": "giải cứu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The team's work is focused on rescuing the archaeology before the new dam floods the valley."
+      }
+    },
+    {
+      "id": 24,
+      "targetLexeme": "bringing... to wider attention",
+      "sourceContext": "...bringing the melting ice to wider attention, discovering a unique environmental history...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đưa' (bringing) 'vấn đề băng tan' (the melting ice) 'đến' (to) 'sự chú ý' (attention) 'rộng rãi hơn' (wider)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbrɪŋɪŋ tuː ˈwaɪdər əˈtenʃən/",
+        "sentiment": "positive",
+        "definitionEN": "Making more people aware of an issue",
+        "translationVI": "Đưa... đến sự chú ý rộng rãi hơn",
+        "relatedCollocates": ["raise awareness", "draw attention to"],
+        "wordForms": {
+          "verb": [{ "form": "bring to attention", "meaning": "làm cho chú ý" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The documentary was successful in bringing the issue of plastic pollution to wider attention."
+      }
+    },
+    {
+      "id": 25,
+      "targetLexeme": "contracting ice patches",
+      "sourceContext": "At the edges of the contracting ice patches, archaeologists found more than 2,000 artefacts...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các mảng băng 'đang co lại' (contracting)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kənˈtræktɪŋ aɪs ˈpætʃɪz/",
+        "sentiment": "negative",
+        "definitionEN": "Areas of ice that are shrinking or becoming smaller",
+        "translationVI": "Các mảng băng đang co lại",
+        "relatedCollocates": ["shrinking (ice)", "melting (glaciers)"],
+        "wordForms": {
+          "verb": [{ "form": "contract", "meaning": "co lại" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Scientists are monitoring the contracting ice patches in the Arctic."
+      }
+    },
+    {
+      "id": 26,
+      "targetLexeme": "material record",
+      "sourceContext": "...artefacts, which formed a material record that ran from 4,000 BCE to the beginnings of the Renaissance...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'hồ sơ/ghi chép' (record) 'bằng vật chất' (material)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/məˈtɪəriəl ˈrekɔːd/",
+        "sentiment": "neutral",
+        "definitionEN": "The body of physical objects, artefacts, and evidence from a particular time period",
+        "translationVI": "Hồ sơ vật chất",
+        "relatedCollocates": ["archaeological (record)", "physical (evidence)"],
+        "wordForms": {
+          "noun": [{ "form": "record", "meaning": "hồ sơ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Pottery provides a durable material record of ancient cultures."
+      }
+    },
+    {
+      "id": 27,
+      "targetLexeme": "Renaissance (n)",
+      "sourceContext": "...to the beginnings of the Renaissance in the 14th century.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thời kỳ 'Phục hưng' (Renaissance)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rəˈneɪsns/",
+        "sentiment": "positive",
+        "definitionEN": "The period of great revival of art, literature, and learning in Europe beginning in the 14th century and extending to the 17th century",
+        "translationVI": "Thời kỳ Phục hưng",
+        "relatedCollocates": ["Middle Ages", "art", "culture"],
+        "wordForms": {
+          "noun": [{ "form": "Renaissance", "meaning": "Phục hưng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Leonardo da Vinci was a famous artist of the Renaissance."
+      }
+    },
+    {
+      "id": 28,
+      "targetLexeme": "easily misplaced",
+      "sourceContext": "Hunters could have easily misplaced arrows and they often discarded broken bows...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Dễ dàng' (easily) 'bị thất lạc' (misplaced)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈiːzəli ˌmɪsˈpleɪst/",
+        "sentiment": "neutral",
+        "definitionEN": "To be lost temporarily, especially as a result of being put in the wrong place",
+        "translationVI": "Dễ bị thất lạc",
+        "relatedCollocates": ["easily lost", "misplace (keys)"],
+        "wordForms": {
+          "verb": [{ "form": "misplace", "meaning": "để thất lạc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Small items like keys are easily misplaced."
+      }
+    },
+    {
+      "id": 29,
+      "targetLexeme": "discarded broken bows",
+      "sourceContext": "...and they often discarded broken bows rather than take them all the way home.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Vứt bỏ' (discarded) 'những cây cung' (bows) 'bị gãy' (broken)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈskɑːdɪd ˈbrəʊkən bəʊz/",
+        "sentiment": "neutral",
+        "definitionEN": "To throw away bows that were no longer usable because they were damaged",
+        "translationVI": "Vứt bỏ những cây cung bị gãy",
+        "relatedCollocates": ["throw away", "broken (equipment)"],
+        "wordForms": {
+          "verb": [{ "form": "discard", "meaning": "vứt bỏ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He discarded his old phone after buying a new one."
+      }
+    },
+    {
+      "id": 30,
+      "targetLexeme": "traversing the high mountain passes",
+      "sourceContext": "Other items could have been used by hunters traversing the high mountain passes of Oppland...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đi qua/vượt qua' (traversing) 'những con đèo' (passes) 'cao' (high) 'trên núi' (mountain)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/trəˈvɜːsɪŋ ðə haɪ ˈmaʊntɪn ˈpɑːsɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "Travelling across or through the high routes through mountain ranges",
+        "translationVI": "Vượt qua các con đèo cao",
+        "relatedCollocates": [
+          "crossing (mountain passes)",
+          "traverse (a desert)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "traverse", "meaning": "đi qua" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Early explorers spent weeks traversing the high mountain passes."
+      }
+    },
+    {
+      "id": 31,
+      "targetLexeme": "all-purpose items",
+      "sourceContext": "...all-purpose items like tools, skis, and horse tack.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'vật dụng' (items) 'đa năng' (all-purpose)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɔːl pɜːpəs ˈaɪtəmz/",
+        "sentiment": "positive",
+        "definitionEN": "Items that can be used for many different purposes",
+        "translationVI": "Các vật dụng đa năng",
+        "relatedCollocates": ["multi-purpose", "versatile (items)"],
+        "wordForms": {
+          "adjective": [{ "form": "all-purpose", "meaning": "đa năng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A Swiss Army knife is a classic example of an all-purpose item."
+      }
+    },
+    {
+      "id": 32,
+      "targetLexeme": "horse tack",
+      "sourceContext": "...like tools, skis, and horse tack.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đồ dùng cho ngựa' (horse tack) (yên, cương)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hɔːs tæk/",
+        "sentiment": "neutral",
+        "definitionEN": "The equipment or accessories equipped on horses, such as saddles and bridles",
+        "translationVI": "Đồ dùng cho ngựa",
+        "relatedCollocates": ["saddle", "bridle", "harness"],
+        "wordForms": {
+          "noun": [{ "form": "tack", "meaning": "đồ yên cương" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The stable was filled with the smell of leather from the horse tack."
+      }
+    },
+    {
+      "id": 33,
+      "targetLexeme": "radiocarbon-dated",
+      "sourceContext": "Barrett’s team radiocarbon-dated 153 of the artefacts...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã 'xác định niên đại bằng carbon' (radiocarbon-dated)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌreɪdiəʊˈkɑːbən ˈdeɪtɪd/",
+        "sentiment": "neutral",
+        "definitionEN": "To determine the age of an object containing organic material by using the properties of radiocarbon (carbon-14)",
+        "translationVI": "Xác định niên đại bằng carbon-14",
+        "relatedCollocates": ["carbon dating", "determine the age"],
+        "wordForms": {
+          "verb": [
+            { "form": "radiocarbon-date", "meaning": "xác định niên đại C-14" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The scientists radiocarbon-dated the ancient bones to find out when the person lived."
+      }
+    },
+    {
+      "id": 34,
+      "targetLexeme": "social and economic shifts",
+      "sourceContext": "...and major social and economic shifts – such as the growth of farming settlements...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'thay đổi' (shifts) 'về xã hội' (social) 'và' (and) 'kinh tế' (economic)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsəʊʃəl ənd ˌiːkəˈnɒmɪk ʃɪfts/",
+        "sentiment": "neutral",
+        "definitionEN": "Significant changes in the structure of society and the economy",
+        "translationVI": "Những thay đổi về kinh tế và xã hội",
+        "relatedCollocates": ["social change", "economic (transformation)"],
+        "wordForms": {
+          "noun": [{ "form": "shift", "meaning": "sự thay đổi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The Industrial Revolution caused major social and economic shifts in Europe."
+      }
+    },
+    {
+      "id": 35,
+      "targetLexeme": "been pretty active",
+      "sourceContext": "...which indicates that people had been pretty active in the mountains during those times.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã 'khá' (pretty) 'năng động/hoạt động nhiều' (active)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/biːn ˈprɪti ˈæktɪv/",
+        "sentiment": "neutral",
+        "definitionEN": "To have been quite busy or engaged in a lot of activity",
+        "translationVI": "Khá năng động",
+        "relatedCollocates": ["very active", "busy"],
+        "wordForms": {
+          "adjective": [{ "form": "active", "meaning": "năng động" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Judging by the number of emails, it looks like you've been pretty active this morning."
+      }
+    },
+    {
+      "id": 36,
+      "targetLexeme": "daunting terrain",
+      "sourceContext": "Oppland’s mountains present daunting terrain and in periods of extreme cold, glaciers could block the higher mountain passes...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Địa hình' (terrain) 'gây nản chí/khó khăn' (daunting)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdɔːntɪŋ təˈreɪn/",
+        "sentiment": "negative",
+        "definitionEN": "Land that seems difficult to deal with or intimidating",
+        "translationVI": "Địa hình hiểm trở",
+        "relatedCollocates": ["challenging (terrain)", "difficult (terrain)"],
+        "wordForms": {
+          "adjective": [{ "form": "daunting", "meaning": "gây nản chí" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The climbers faced daunting terrain on their way to the summit."
+      }
+    },
+    {
+      "id": 37,
+      "targetLexeme": "upper reaches of the mountains",
+      "sourceContext": "...and make travel in the upper reaches of the mountains extremely difficult.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'vùng' (reaches) 'cao hơn' (upper) 'của' (of) 'ngọn núi' (the mountains)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈʌpə ˈriːtʃɪz əv ðə ˈmaʊntɪnz/",
+        "sentiment": "neutral",
+        "definitionEN": "The higher parts of a mountain range",
+        "translationVI": "Vùng núi cao",
+        "relatedCollocates": ["higher elevations", "mountain peaks"],
+        "wordForms": {
+          "noun": [{ "form": "reach", "meaning": "vùng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Snow persists year-round in the upper reaches of the mountains."
+      }
+    },
+    {
+      "id": 38,
+      "targetLexeme": "stick to lower elevations",
+      "sourceContext": "Archaeologists assumed people would stick to lower elevations during a time like the Late Antique Little Ice Age...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Bám trụ/ở lại' (stick to) 'những vùng' (elevations) 'thấp hơn' (lower)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/stɪk tə ˈləʊər ˌelɪˈveɪʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "To remain in areas that are not high above sea level",
+        "translationVI": "Bám trụ ở các độ cao thấp hơn",
+        "relatedCollocates": [
+          "stay at (lower elevations)",
+          "avoid high altitudes"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "stick to", "meaning": "bám lấy" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Due to the bad weather, the hikers decided to stick to lower elevations."
+      }
+    },
+    {
+      "id": 39,
+      "targetLexeme": "regularly venturing into",
+      "sourceContext": "But it turned out that hunters kept regularly venturing into the mountains even when the climate turned cold...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thường xuyên' (regularly) 'mạo hiểm đi vào' (venturing into)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈreɡjələli ˈventʃərɪŋ ˈɪntuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To frequently go somewhere that is dangerous or uncertain",
+        "translationVI": "Thường xuyên mạo hiểm đi vào",
+        "relatedCollocates": [
+          "venture into (the unknown)",
+          "regularly (go into)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "venture", "meaning": "mạo hiểm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite the warnings, the explorers kept regularly venturing into the dense jungle."
+      }
+    },
+    {
+      "id": 40,
+      "targetLexeme": "supplement failing agricultural harvests",
+      "sourceContext": "...the importance of mountain hunting increased to supplement failing agricultural harvests...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Bổ sung cho' (supplement) 'các vụ mùa' (harvests) 'nông nghiệp' (agricultural) 'thất bát' (failing)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsʌplɪment ˈfeɪlɪŋ ˌæɡrɪˈkʌltʃərəl ˈhɑːvɪsts/",
+        "sentiment": "positive",
+        "definitionEN": "To add something extra to crop yields that are unsuccessful in order to improve or complete them",
+        "translationVI": "Bổ sung cho các vụ mùa nông nghiệp thất bát",
+        "relatedCollocates": ["make up for (losses)", "poor (harvests)"],
+        "wordForms": {
+          "verb": [{ "form": "supplement", "meaning": "bổ sung" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "They had to import grain to supplement their failing agricultural harvests."
+      }
+    },
+    {
+      "id": 41,
+      "targetLexeme": "widespread crop failures",
+      "sourceContext": "A colder turn in the Scandinavian climate would likely have meant widespread crop failures...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Sự thất bát mùa màng' (crop failures) 'trên diện rộng' (widespread)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwaɪdspred krɒp ˈfeɪljəz/",
+        "sentiment": "negative",
+        "definitionEN": "The failure of crops to grow or produce a yield over a large area",
+        "translationVI": "Thất bát mùa màng trên diện rộng",
+        "relatedCollocates": ["famine", "poor harvests"],
+        "wordForms": {
+          "noun": [
+            { "form": "crop failure", "meaning": "sự thất bát mùa màng" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The drought led to widespread crop failures and a food shortage."
+      }
+    },
+    {
+      "id": 42,
+      "targetLexeme": "make up for those losses",
+      "sourceContext": "...so more people would have depended on hunting to make up for those losses.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Bù đắp cho' (make up for) 'những mất mát đó' (those losses)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/meɪk ʌp fɔː ðəʊz ˈlɒsɪz/",
+        "sentiment": "positive",
+        "definitionEN": "To compensate for something that has been lost",
+        "translationVI": "Bù đắp cho những mất mát đó",
+        "relatedCollocates": ["compensate for", "offset (losses)"],
+        "wordForms": {
+          "verb": [{ "form": "make up for", "meaning": "bù đắp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He worked extra hours to make up for the time he had lost."
+      }
+    },
+    {
+      "id": 43,
+      "targetLexeme": "date from the beginning of",
+      "sourceContext": "Many of the artefacts Barrett’s team recovered date from the beginning of the Viking Age...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Có niên đại từ' (date from) 'đầu' (the beginning of) Thời đại Viking"
+      },
+      "phase2Annotation": {
+        "phonetic": "/deɪt frɒm ðə bɪˈɡɪnɪŋ əv/",
+        "sentiment": "neutral",
+        "definitionEN": "To have originated at a particular time",
+        "translationVI": "Có niên đại từ đầu",
+        "relatedCollocates": ["originate from", "come from (a period)"],
+        "wordForms": {
+          "verb": [{ "form": "date from", "meaning": "có niên đại từ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The castle ruins date from the beginning of the 12th century."
+      }
+    },
+    {
+      "id": 44,
+      "targetLexeme": "Scandinavian expansion",
+      "sourceContext": "Although we usually think of ships when we think of Scandinavian expansion, these recent discoveries show that...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'bành trướng/mở rộng' (expansion) 'của người Scandinavia' (Scandinavian)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌskændɪˈneɪviən ɪkˈspænʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "The period when people from Scandinavia (Vikings) explored, raided, and settled in other parts of Europe",
+        "translationVI": "Sự bành trướng của người Scandinavia",
+        "relatedCollocates": ["Viking Age", "expansion (of an empire)"],
+        "wordForms": {
+          "noun": [{ "form": "expansion", "meaning": "sự mở rộng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The Viking Age was a time of great Scandinavian expansion."
+      }
+    },
+    {
+      "id": 45,
+      "targetLexeme": "overland routes",
+      "sourceContext": "...plenty of goods travelled on overland routes, like the mountain passes of Oppland.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'tuyến đường' (routes) 'bộ' (overland)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈəʊvələnd ruːts/",
+        "sentiment": "neutral",
+        "definitionEN": "Paths or roads that cross land, as opposed to sea routes",
+        "translationVI": "Các tuyến đường bộ",
+        "relatedCollocates": ["sea routes (antonym)", "trade routes"],
+        "wordForms": {
+          "adjective": [{ "form": "overland", "meaning": "trên bộ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The Silk Road was one of the most important overland routes in history."
+      }
+    },
+    {
+      "id": 46,
+      "targetLexeme": "booming demand for",
+      "sourceContext": "...would have created a booming demand for hides to fight off the cold...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'nhu cầu' (demand for) 'bùng nổ' (booming)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbuːmɪŋ dɪˈmɑːnd fɔː/",
+        "sentiment": "positive",
+        "definitionEN": "A rapid and significant increase in the desire for a product",
+        "translationVI": "Nhu cầu bùng nổ đối với",
+        "relatedCollocates": ["high (demand)", "growing (demand)"],
+        "wordForms": {
+          "adjective": [{ "form": "booming", "meaning": "bùng nổ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There is a booming demand for electric cars."
+      }
+    },
+    {
+      "id": 47,
+      "targetLexeme": "hides (n)",
+      "sourceContext": "...a booming demand for hides to fight off the cold...",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhu cầu về 'da động vật' (hides)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/haɪdz/",
+        "sentiment": "neutral",
+        "definitionEN": "The skin of an animal, especially when tanned or dressed",
+        "translationVI": "Da động vật (chưa thuộc)",
+        "relatedCollocates": ["animal skins", "leather", "furs"],
+        "wordForms": {
+          "noun": [{ "form": "hide", "meaning": "da thú" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In ancient times, people used animal hides for clothing and shelter."
+      }
+    },
+    {
+      "id": 48,
+      "targetLexeme": "antlers (n)",
+      "sourceContext": "...as well as antlers to make useful things like combs.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cũng như 'gạc' (antlers) (của hươu, nai)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈæntləz/",
+        "sentiment": "neutral",
+        "definitionEN": "Branched horns on the head of an adult (usually male) deer, which are shed annually",
+        "translationVI": "Gạc (hươu, nai)",
+        "relatedCollocates": ["deer", "reindeer", "horn"],
+        "wordForms": {
+          "noun": [{ "form": "antler", "meaning": "gạc" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The large deer had an impressive set of antlers."
+      }
+    },
+    {
+      "id": 49,
+      "targetLexeme": "Business must have been good",
+      "sourceContext": "Business must have been good for hunters.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Việc kinh doanh' (Business) 'chắc hẳn đã' (must have been) 'tốt' (good)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbɪznəs məst həv biːn ɡʊd/",
+        "sentiment": "positive",
+        "definitionEN": "A phrase used to infer that trade or commerce was profitable and successful",
+        "translationVI": "Việc làm ăn chắc hẳn đã rất tốt",
+        "relatedCollocates": ["business was booming", "trade was profitable"],
+        "wordForms": {
+          "noun": [{ "form": "business", "meaning": "kinh doanh" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Judging by his new car, business must have been good last year."
+      }
+    },
+    {
+      "id": 50,
+      "targetLexeme": "hiding a lot of history",
+      "sourceContext": "Norway’s mountains are probably still hiding a lot of history – and prehistory – in remote ice patches.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vẫn đang 'che giấu' (hiding) 'rất nhiều' (a lot of) 'lịch sử' (history)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhaɪdɪŋ ə lɒt əv ˈhɪstri/",
+        "sentiment": "neutral",
+        "definitionEN": "Concealing many secrets or artefacts from the past",
+        "translationVI": "Che giấu nhiều lịch sử",
+        "relatedCollocates": ["concealing (secrets)", "uncovering (history)"],
+        "wordForms": {
+          "verb": [{ "form": "hide", "meaning": "che giấu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The old castle is still hiding a lot of history within its walls."
+      }
+    },
+    {
+      "id": 51,
+      "targetLexeme": "remote ice patches",
+      "sourceContext": "...in remote ice patches.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong những 'mảng băng' (ice patches) 'xa xôi' (remote)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈməʊt aɪs ˈpætʃɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "Areas of ice situated far from the main centres of population; distant",
+        "translationVI": "Các mảng băng xa xôi",
+        "relatedCollocates": ["isolated (patches)", "remote (areas)"],
+        "wordForms": {
+          "adjective": [{ "form": "remote", "meaning": "xa xôi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The researchers set up a camp near the remote ice patches."
+      }
+    },
+    {
+      "id": 52,
+      "targetLexeme": "a gap with almost no artefacts",
+      "sourceContext": "When Barrett’s team looked at the dates for their sample of 153 artefacts, they noticed a gap with almost no artefacts from about 3,800 to 2,200 BCE.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'khoảng trống' (a gap) 'với' (with) 'hầu như không có' (almost no) 'hiện vật' (artefacts)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ɡæp wɪð ˈɔːlməʊst nəʊ ˈɑːtɪfækts/",
+        "sentiment": "negative",
+        "definitionEN": "A period of time from which there is a lack of physical evidence or objects",
+        "translationVI": "Một khoảng trống với hầu như không có hiện vật",
+        "relatedCollocates": ["a gap in (the record)", "a lack of (artefacts)"],
+        "wordForms": {
+          "noun": [{ "form": "gap", "meaning": "khoảng trống" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There is a gap in the fossil record, with almost no artefacts from that era."
+      }
+    },
+    {
+      "id": 53,
+      "targetLexeme": "have already disintegrated",
+      "sourceContext": "The researchers say that could be because many of those artefacts have already disintegrated or are still frozen in the ice.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã 'bị phân rã' (have already disintegrated)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/həv ɔːlˈredi dɪsˈɪntɪɡreɪtɪd/",
+        "sentiment": "negative",
+        "definitionEN": "To have already broken up into small parts as a result of decay",
+        "translationVI": "Đã bị phân rã",
+        "relatedCollocates": ["decayed", "decomposed"],
+        "wordForms": {
+          "verb": [{ "form": "disintegrate", "meaning": "phân rã" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ancient papyrus has already disintegrated into dust."
+      }
+    },
+    {
+      "id": 54,
+      "targetLexeme": "extracting... artefacts",
+      "sourceContext": "That means archaeologists could be extracting some of those artefacts from retreating ice in years to come.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Khai quật/lấy ra' (extracting) 'các hiện vật' (artefacts)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˈstræktɪŋ ˈɑːtɪfækts/",
+        "sentiment": "neutral",
+        "definitionEN": "To remove or take out artefacts, especially with effort or difficulty",
+        "translationVI": "Khai quật các hiện vật",
+        "relatedCollocates": [
+          "excavating (artefacts)",
+          "recovering (artefacts)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "extract", "meaning": "chiết xuất, lấy ra" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The team is carefully extracting the fragile artefacts from the soil."
+      }
+    },
+    {
+      "id": 55,
+      "targetLexeme": "retreating ice",
+      "sourceContext": "...extracting some of those artefacts from retreating ice in years to come.",
+      "phase1Inference": {
+        "contextualGuessVI": "Lớp băng 'đang tan/lui dần' (retreating)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈtriːtɪŋ aɪs/",
+        "sentiment": "negative",
+        "definitionEN": "Ice that is melting and becoming smaller in area",
+        "translationVI": "Băng đang tan",
+        "relatedCollocates": ["melting (ice)", "shrinking (glaciers)"],
+        "wordForms": {
+          "verb": [{ "form": "retreat", "meaning": "lùi lại" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "More land is being exposed as a result of the retreating ice."
+      }
+    },
+    {
+      "id": 56,
+      "targetLexeme": "in years to come",
+      "sourceContext": "...from retreating ice in years to come.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Trong những năm tới' (in years to come)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn jɪəz tə kʌm/",
+        "sentiment": "neutral",
+        "definitionEN": "In the future",
+        "translationVI": "Trong những năm tới",
+        "relatedCollocates": ["in the future", "in the coming years"],
+        "wordForms": {
+          "noun": [{ "form": "year", "meaning": "năm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We expect to see many technological advancements in years to come."
+      }
+    },
+    {
+      "id": 57,
+      "targetLexeme": "treeline (n)",
+      "sourceContext": "Well above the treeline in Norway’s highest mountains, ancient fields of ice are shrinking...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đường giới hạn cây gỗ' (treeline) trên núi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtriːlaɪn/",
+        "sentiment": "neutral",
+        "definitionEN": "The altitude or latitude beyond which trees cannot grow",
+        "translationVI": "Đường giới hạn cây gỗ",
+        "relatedCollocates": ["above the treeline", "timberline"],
+        "wordForms": {
+          "noun": [{ "form": "treeline", "meaning": "đường giới hạn cây gỗ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The hikers camped at a spot just below the treeline."
+      }
+    },
+    {
+      "id": 58,
+      "targetLexeme": "hides (n)",
+      "sourceContext": "Organic materials like textiles and hides are relatively rare finds...",
+      "phase1Inference": {
+        "contextualGuessVI": "Da động vật"
+      },
+      "phase2Annotation": {
+        "phonetic": "/haɪdz/",
+        "sentiment": "neutral",
+        "definitionEN": "The skin of an animal, especially when tanned or dressed",
+        "translationVI": "Da động vật",
+        "relatedCollocates": ["skins", "leather", "pelts"],
+        "wordForms": {
+          "noun": [{ "form": "hide", "meaning": "da thú" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Early humans used animal hides to make clothing and shelters."
+      }
+    },
+    {
+      "id": 59,
+      "targetLexeme": "well-preserved (adj)",
+      "sourceContext": "...and remain well-preserved.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vẫn còn 'được bảo quản tốt' (well-preserved)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌwel prɪˈzɜːvd/",
+        "sentiment": "positive",
+        "definitionEN": "Kept in good condition over a long period of time",
+        "translationVI": "Được bảo quản tốt",
+        "relatedCollocates": ["in good condition", "intact"],
+        "wordForms": {
+          "verb": [{ "form": "preserve", "meaning": "bảo quản" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The museum has a collection of well-preserved ancient Egyptian mummies."
+      }
+    },
+    {
+      "id": 60,
+      "targetLexeme": "fieldwork (n)",
+      "sourceContext": "...systematic in their approach to fieldwork.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cách tiếp cận với 'công tác thực địa' (fieldwork)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfiːldwɜːk/",
+        "sentiment": "neutral",
+        "definitionEN": "Practical work conducted by a researcher in the natural environment, rather than in a laboratory or office",
+        "translationVI": "Công tác thực địa",
+        "relatedCollocates": ["conduct (fieldwork)", "on-site (research)"],
+        "wordForms": {
+          "noun": [{ "form": "fieldwork", "meaning": "công tác thực địa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The geologist spent two months in the Himalayas doing fieldwork."
+      }
+    },
+    {
+      "id": 61,
+      "targetLexeme": "south-central Norway",
+      "sourceContext": "...an area of south-central Norway that is home to some of the country’s highest mountains.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vùng 'nam-trung' (south-central) Na Uy"
+      },
+      "phase2Annotation": {
+        "phonetic": "/saʊθ ˈsentrəl ˈnɔːweɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "The southern part of the central region of Norway",
+        "translationVI": "Nam-Trung Na Uy",
+        "relatedCollocates": ["central Norway", "southern Norway"],
+        "wordForms": {
+          "adjective": [{ "form": "south-central", "meaning": "nam-trung" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He grew up in a small town in south-central Texas."
+      }
+    },
+    {
+      "id": 62,
+      "targetLexeme": "is home to",
+      "sourceContext": "...that is home to some of the country’s highest mountains.",
+      "phase1Inference": {
+        "contextualGuessVI": "Là 'nơi có' (is home to)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪz həʊm tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To be the place where something is found",
+        "translationVI": "Là nhà của, là nơi có",
+        "relatedCollocates": ["contains", "is the location of"],
+        "wordForms": {
+          "noun": [{ "form": "home", "meaning": "nhà" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The Amazon rainforest is home to millions of species of insects."
+      }
+    },
+    {
+      "id": 63,
+      "targetLexeme": "in addition",
+      "sourceContext": "In addition, trade routes threaded through the mountain passes of Oppland...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Ngoài ra' (In addition)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn əˈdɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "As an extra person, thing, or circumstance",
+        "translationVI": "Ngoài ra, thêm vào đó",
+        "relatedCollocates": ["additionally", "furthermore", "moreover"],
+        "wordForms": {
+          "adverb": [{ "form": "in addition", "meaning": "ngoài ra" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He is a talented musician. In addition, he is a gifted painter."
+      }
+    },
+    {
+      "id": 64,
+      "targetLexeme": "linking settlements",
+      "sourceContext": "...linking settlements in Norway to the rest of Europe.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Kết nối' (linking) 'các khu định cư' (settlements)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlɪŋkɪŋ ˈsetlmənts/",
+        "sentiment": "neutral",
+        "definitionEN": "Connecting towns or villages where people live",
+        "translationVI": "Kết nối các khu định cư",
+        "relatedCollocates": [
+          "connecting (towns)",
+          "a network of (settlements)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "link", "meaning": "kết nối" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new railway is crucial for linking remote settlements to the capital."
+      }
+    },
+    {
+      "id": 65,
+      "targetLexeme": "environmental history",
+      "sourceContext": "...discovering a unique environmental history and really connecting with the natural environment,’ says Barrett.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Lịch sử' (history) 'môi trường' (environmental)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˌvaɪrənˈmentl ˈhɪstri/",
+        "sentiment": "neutral",
+        "definitionEN": "The study of human interaction with the natural world over time",
+        "translationVI": "Lịch sử môi trường",
+        "relatedCollocates": ["natural history", "ecological history"],
+        "wordForms": {
+          "adjective": [
+            { "form": "environmental", "meaning": "thuộc môi trường" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The book provides a detailed environmental history of the region."
+      }
+    },
+    {
+      "id": 66,
+      "targetLexeme": "natural environment",
+      "sourceContext": "...and really connecting with the natural environment,’ says Barrett.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Môi trường' (environment) 'tự nhiên' (natural)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈnætʃrəl ɪnˈvaɪrənmənt/",
+        "sentiment": "positive",
+        "definitionEN": "All living and non-living things occurring naturally, meaning not because of humans",
+        "translationVI": "Môi trường tự nhiên",
+        "relatedCollocates": ["the wild", "nature", "ecosystem"],
+        "wordForms": {
+          "noun": [{ "form": "environment", "meaning": "môi trường" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is important to protect the natural environment for future generations."
+      }
+    },
+    {
+      "id": 67,
+      "targetLexeme": "periods of cooling or warming",
+      "sourceContext": "...such as periods of cooling or warming – and major social and economic shifts...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'giai đoạn' (periods) 'lạnh đi' (of cooling) 'hoặc' (or) 'ấm lên' (warming)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpɪəriədz əv ˈkuːlɪŋ ɔː ˈwɔːmɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "Intervals of time characterized by a decrease or increase in average temperatures",
+        "translationVI": "Các thời kỳ lạnh đi hoặc ấm lên",
+        "relatedCollocates": ["climate change", "ice age"],
+        "wordForms": {
+          "noun": [{ "form": "period", "meaning": "giai đoạn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Earth's history has been marked by several periods of cooling and warming."
+      }
+    },
+    {
+      "id": 68,
+      "targetLexeme": "growth of farming settlements",
+      "sourceContext": "...such as the growth of farming settlements and the spread of international trade networks...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'phát triển' (growth) 'của' (of) 'các khu định cư' (settlements) 'nông nghiệp' (farming)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɡrəʊθ əv ˈfɑːmɪŋ ˈsetlmənts/",
+        "sentiment": "neutral",
+        "definitionEN": "The expansion and development of communities based on agriculture",
+        "translationVI": "Sự phát triển của các khu định cư nông nghiệp",
+        "relatedCollocates": [
+          "agricultural communities",
+          "the rise of farming"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "growth", "meaning": "sự phát triển" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The growth of farming settlements led to the clearing of large areas of forest."
+      }
+    },
+    {
+      "id": 69,
+      "targetLexeme": "based on the amount of stuff",
+      "sourceContext": "But it turned out that hunters kept regularly venturing into the mountains even when the climate turned cold, based on the amount of stuff they had apparently dropped there.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Dựa trên' (based on) 'lượng' (the amount of) 'đồ đạc' (stuff)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/beɪst ɒn ði əˈmaʊnt əv stʌf/",
+        "sentiment": "neutral",
+        "definitionEN": "Using the quantity of items or materials as evidence for a conclusion",
+        "translationVI": "Dựa trên số lượng đồ đạc",
+        "relatedCollocates": ["judging by", "based on the evidence"],
+        "wordForms": {
+          "noun": [{ "form": "amount", "meaning": "lượng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Based on the amount of stuff in his room, he hasn't cleaned in weeks."
+      }
+    },
+    {
+      "id": 70,
+      "targetLexeme": "in times of low temperatures",
+      "sourceContext": "...the importance of mountain hunting increased to supplement failing agricultural harvests in times of low temperatures,’ says Barrett.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Vào những thời điểm' (in times of) 'nhiệt độ thấp' (low temperatures)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn taɪmz əv ləʊ ˈtemprətʃəz/",
+        "sentiment": "neutral",
+        "definitionEN": "During periods when the weather is cold",
+        "translationVI": "Vào những lúc nhiệt độ thấp",
+        "relatedCollocates": ["during cold periods", "in times of hardship"],
+        "wordForms": {
+          "noun": [{ "form": "temperature", "meaning": "nhiệt độ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is important to dress warmly in times of low temperatures."
+      }
+    },
+    {
+      "id": 71,
+      "targetLexeme": "Middle East",
+      "sourceContext": "Trade networks connecting Scandinavia with Europe and the Middle East were expanding around this time.",
+      "phase1Inference": {
+        "contextualGuessVI": "Châu Âu và 'Trung Đông' (the Middle East)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˌmɪdl ˈiːst/",
+        "sentiment": "neutral",
+        "definitionEN": "The geographical region around the southern and eastern shores of the Mediterranean Sea, extending from Morocco to the Arabian Peninsula and Iran",
+        "translationVI": "Trung Đông",
+        "relatedCollocates": ["Europe", "Asia", "trade networks"],
+        "wordForms": {
+          "noun": [{ "form": "Middle East", "meaning": "Trung Đông" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ancient Silk Road connected China with Europe and the Middle East."
+      }
+    },
+    {
+      "id": 72,
+      "targetLexeme": "export markets",
+      "sourceContext": "And growing Norwegian towns, along with export markets, would have created a booming demand for hides...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cùng với 'các thị trường' (markets) 'xuất khẩu' (export)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈekspɔːt ˈmɑːkɪts/",
+        "sentiment": "neutral",
+        "definitionEN": "Foreign countries to which goods are sold",
+        "translationVI": "Các thị trường xuất khẩu",
+        "relatedCollocates": [
+          "domestic markets (antonym)",
+          "international trade"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "market", "meaning": "thị trường" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company is looking to expand into new export markets in Asia."
+      }
+    },
+    {
+      "id": 73,
+      "targetLexeme": "fight off the cold",
+      "sourceContext": "...a booming demand for hides to fight off the cold...",
+      "phase1Inference": {
+        "contextualGuessVI": "Để 'chống lại' (fight off) 'cái lạnh' (the cold)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/faɪt ɒf ðə kəʊld/",
+        "sentiment": "positive",
+        "definitionEN": "To protect oneself from the effects of cold weather",
+        "translationVI": "Chống lại cái lạnh",
+        "relatedCollocates": ["keep warm", "ward off the cold"],
+        "wordForms": {
+          "verb": [{ "form": "fight off", "meaning": "chống lại" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He wore a thick coat to fight off the cold."
+      }
+    },
+    {
+      "id": 74,
+      "targetLexeme": "prehistory (n)",
+      "sourceContext": "...still hiding a lot of history – and prehistory – in remote ice patches.",
+      "phase1Inference": {
+        "contextualGuessVI": "Lịch sử và 'tiền sử' (prehistory)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌpriːˈhɪstri/",
+        "sentiment": "neutral",
+        "definitionEN": "The period of time before written records",
+        "translationVI": "Tiền sử",
+        "relatedCollocates": ["history", "ancient times", "Stone Age"],
+        "wordForms": {
+          "adjective": [{ "form": "prehistoric", "meaning": "thuộc tiền sử" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Dinosaurs lived during a period of prehistory."
+      }
+    },
+    {
+      "id": 75,
+      "targetLexeme": "sample (n)",
+      "sourceContext": "When Barrett’s team looked at the dates for their sample of 153 artefacts...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Mẫu' (sample) 'gồm 153 hiện vật' (of 153 artefacts) 'của họ' (their)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsɑːmpl/",
+        "sentiment": "neutral",
+        "definitionEN": "A small part or quantity intended to show what the whole is like",
+        "translationVI": "Mẫu vật",
+        "relatedCollocates": ["a random sample", "a representative sample"],
+        "wordForms": {
+          "noun": [{ "form": "sample", "meaning": "mẫu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The researchers analyzed a sample of the water to test for pollutants."
+      }
+    }
+  ]
+}

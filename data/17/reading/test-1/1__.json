@@ -4,7 +4,7 @@
   "totalItems": 61,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174046-12-0-2984a59e",
       "targetLexeme": "grew at an astonishing rate",
       "sourceContext": "...London's population grew at an astonishing rate, and the central area became increasingly congested.",
       "phase1Inference": {
@@ -21,14 +21,33 @@
           "at an alarming rate"
         ],
         "wordForms": {
-          "noun": [{ "form": "astonishment", "meaning": "sự kinh ngạc" }],
-          "verb": [{ "form": "astonish", "meaning": "làm kinh ngạc" }],
+          "noun": [
+            {
+              "form": "astonishment",
+              "meaning": "sự kinh ngạc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "astonish",
+              "meaning": "làm kinh ngạc"
+            }
+          ],
           "adjective": [
-            { "form": "astonishing", "meaning": "đáng kinh ngạc" },
-            { "form": "astonished", "meaning": "bị kinh ngạc" }
+            {
+              "form": "astonishing",
+              "meaning": "đáng kinh ngạc"
+            },
+            {
+              "form": "astonished",
+              "meaning": "bị kinh ngạc"
+            }
           ],
           "adverb": [
-            { "form": "astonishingly", "meaning": "(một cách) đáng kinh ngạc" }
+            {
+              "form": "astonishingly",
+              "meaning": "(một cách) đáng kinh ngạc"
+            }
           ]
         }
       },
@@ -38,7 +57,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174046-12-1-0e10aeb4",
       "targetLexeme": "increasingly congested",
       "sourceContext": "...and the central area became increasingly congested.",
       "phase1Inference": {
@@ -55,10 +74,30 @@
           "ease congestion"
         ],
         "wordForms": {
-          "noun": [{ "form": "congestion", "meaning": "sự tắc nghẽn" }],
-          "verb": [{ "form": "congest", "meaning": "làm tắc nghẽn" }],
-          "adjective": [{ "form": "congested", "meaning": "bị tắc nghẽn" }],
-          "adverb": [{ "form": "increasingly", "meaning": "ngày càng" }]
+          "noun": [
+            {
+              "form": "congestion",
+              "meaning": "sự tắc nghẽn"
+            }
+          ],
+          "verb": [
+            {
+              "form": "congest",
+              "meaning": "làm tắc nghẽn"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "congested",
+              "meaning": "bị tắc nghẽn"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "increasingly",
+              "meaning": "ngày càng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -67,7 +106,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174046-12-2-1e90c643",
       "targetLexeme": "expansion of the overground railway network",
       "sourceContext": "In addition, the expansion of the overground railway network resulted in more and more passengers arriving in the capital.",
       "phase1Inference": {
@@ -85,12 +124,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "expansion", "meaning": "sự mở rộng" },
-            { "form": "expanse", "meaning": "dải rộng (đất)" }
+            {
+              "form": "expansion",
+              "meaning": "sự mở rộng"
+            },
+            {
+              "form": "expanse",
+              "meaning": "dải rộng (đất)"
+            }
           ],
-          "verb": [{ "form": "expand", "meaning": "mở rộng" }],
-          "adjective": [{ "form": "expansive", "meaning": "có tính mở rộng" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "expand",
+              "meaning": "mở rộng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "expansive",
+              "meaning": "có tính mở rộng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -99,7 +154,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174046-12-3-23a2c245",
       "targetLexeme": "passengers arriving in the capital",
       "sourceContext": "...resulted in more and more passengers arriving in the capital.",
       "phase1Inference": {
@@ -117,13 +172,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "passenger", "meaning": "hành khách" },
-            { "form": "arrival", "meaning": "sự (đi) đến" },
-            { "form": "capital", "meaning": "thủ đô" }
+            {
+              "form": "passenger",
+              "meaning": "hành khách"
+            },
+            {
+              "form": "arrival",
+              "meaning": "sự (đi) đến"
+            },
+            {
+              "form": "capital",
+              "meaning": "thủ đô"
+            }
           ],
-          "verb": [{ "form": "arrive", "meaning": "đi đến" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "arrive",
+              "meaning": "đi đến"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -132,7 +201,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174046-12-4-028e2cd0",
       "targetLexeme": "a Royal Commission",
       "sourceContext": "However, in 1846, a Royal Commission decided that the railways should not be allowed to enter the City...",
       "phase1Inference": {
@@ -149,13 +218,37 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "commission", "meaning": "ủy ban" },
-            { "form": "commissioner", "meaning": "ủy viên" },
-            { "form": "royalty", "meaning": "hoàng tộc" }
+            {
+              "form": "commission",
+              "meaning": "ủy ban"
+            },
+            {
+              "form": "commissioner",
+              "meaning": "ủy viên"
+            },
+            {
+              "form": "royalty",
+              "meaning": "hoàng tộc"
+            }
           ],
-          "verb": [{ "form": "commission", "meaning": "ủy thác" }],
-          "adjective": [{ "form": "royal", "meaning": "thuộc hoàng gia" }],
-          "adverb": [{ "form": "royally", "meaning": "(một cách) hoàng gia" }]
+          "verb": [
+            {
+              "form": "commission",
+              "meaning": "ủy thác"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "royal",
+              "meaning": "thuộc hoàng gia"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "royally",
+              "meaning": "(một cách) hoàng gia"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -164,7 +257,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174046-12-5-0e461edb",
       "targetLexeme": "historic and business centre",
       "sourceContext": "...allowed to enter the City, the capital's historic and business centre.",
       "phase1Inference": {
@@ -182,16 +275,36 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "history", "meaning": "lịch sử" },
-            { "form": "historian", "meaning": "nhà sử học" },
-            { "form": "business", "meaning": "kinh doanh" }
+            {
+              "form": "history",
+              "meaning": "lịch sử"
+            },
+            {
+              "form": "historian",
+              "meaning": "nhà sử học"
+            },
+            {
+              "form": "business",
+              "meaning": "kinh doanh"
+            }
           ],
-          "verb": null,
+          "verb": [],
           "adjective": [
-            { "form": "historic", "meaning": "mang tính lịch sử" },
-            { "form": "historical", "meaning": "thuộc về lịch sử" }
+            {
+              "form": "historic",
+              "meaning": "mang tính lịch sử"
+            },
+            {
+              "form": "historical",
+              "meaning": "thuộc về lịch sử"
+            }
           ],
-          "adverb": [{ "form": "historically", "meaning": "(về mặt) lịch sử" }]
+          "adverb": [
+            {
+              "form": "historically",
+              "meaning": "(về mặt) lịch sử"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -200,7 +313,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174046-12-6-2f3d9440",
       "targetLexeme": "formed a ring around",
       "sourceContext": "The result was that the overground railway stations formed a ring around the City.",
       "phase1Inference": {
@@ -211,16 +324,34 @@
         "sentiment": "neutral",
         "definitionEN": "To create a circular shape or border surrounding a central area",
         "translationVI": "Tạo thành một vòng đai/vòng tròn xung quanh",
-        "relatedCollocates": ["form a circle", "a ring road", "surround (v)"],
+        "relatedCollocates": [
+          "form a circle",
+          "a ring road",
+          "surround (v)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "form", "meaning": "hình dạng" },
-            { "form": "formation", "meaning": "sự hình thành" },
-            { "form": "ring", "meaning": "chiếc nhẫn, vòng tròn" }
+            {
+              "form": "form",
+              "meaning": "hình dạng"
+            },
+            {
+              "form": "formation",
+              "meaning": "sự hình thành"
+            },
+            {
+              "form": "ring",
+              "meaning": "chiếc nhẫn, vòng tròn"
+            }
           ],
-          "verb": [{ "form": "form", "meaning": "hình thành" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "form",
+              "meaning": "hình thành"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -229,7 +360,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174046-12-7-1732a746",
       "targetLexeme": "overcrowded slums",
       "sourceContext": "The area within consisted of poorly built, overcrowded slums...",
       "phase1Inference": {
@@ -247,12 +378,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "slum", "meaning": "khu ổ chuột" },
-            { "form": "overcrowding", "meaning": "sự quá đông đúc" }
+            {
+              "form": "slum",
+              "meaning": "khu ổ chuột"
+            },
+            {
+              "form": "overcrowding",
+              "meaning": "sự quá đông đúc"
+            }
           ],
-          "verb": [{ "form": "overcrowd", "meaning": "làm cho quá đông" }],
-          "adjective": [{ "form": "overcrowded", "meaning": "quá đông đúc" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "overcrowd",
+              "meaning": "làm cho quá đông"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "overcrowded",
+              "meaning": "quá đông đúc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -261,7 +408,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174046-12-8-2de420d5",
       "targetLexeme": "horse-drawn traffic",
       "sourceContext": "...and the streets were full of horse-drawn traffic.",
       "phase1Inference": {
@@ -272,17 +419,34 @@
         "sentiment": "neutral",
         "definitionEN": "Transport that is pulled by a horse (e.g., carriages, buses)",
         "translationVI": "Giao thông xe ngựa",
-        "relatedCollocates": ["horse-drawn carriage", "horse-drawn vehicle"],
+        "relatedCollocates": [
+          "horse-drawn carriage",
+          "horse-drawn vehicle"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "horse", "meaning": "con ngựa" },
-            { "form": "traffic", "meaning": "giao thông" }
+            {
+              "form": "horse",
+              "meaning": "con ngựa"
+            },
+            {
+              "form": "traffic",
+              "meaning": "giao thông"
+            }
           ],
-          "verb": [{ "form": "draw", "meaning": "kéo" }],
+          "verb": [
+            {
+              "form": "draw",
+              "meaning": "kéo"
+            }
+          ],
           "adjective": [
-            { "form": "horse-drawn", "meaning": "được kéo bằng ngựa" }
+            {
+              "form": "horse-drawn",
+              "meaning": "được kéo bằng ngựa"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -291,7 +455,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174046-12-9-0edb4a31",
       "targetLexeme": "Crossing the City became a nightmare",
       "sourceContext": "Crossing the City became a nightmare. It could take an hour and a half to travel 8 km...",
       "phase1Inference": {
@@ -309,12 +473,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "crossing", "meaning": "sự băng qua" },
-            { "form": "nightmare", "meaning": "cơn ác mộng" }
+            {
+              "form": "crossing",
+              "meaning": "sự băng qua"
+            },
+            {
+              "form": "nightmare",
+              "meaning": "cơn ác mộng"
+            }
           ],
-          "verb": [{ "form": "cross", "meaning": "băng qua" }],
-          "adjective": [{ "form": "nightmarish", "meaning": "như ác mộng" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "cross",
+              "meaning": "băng qua"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "nightmarish",
+              "meaning": "như ác mộng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -323,7 +503,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174046-12-10-0f7b223b",
       "targetLexeme": "resolve these problems",
       "sourceContext": "Numerous schemes were proposed to resolve these problems, but few succeeded.",
       "phase1Inference": {
@@ -341,15 +521,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "resolution", "meaning": "giải pháp, sự giải quyết" },
-            { "form": "problem", "meaning": "vấn đề" }
+            {
+              "form": "resolution",
+              "meaning": "giải pháp, sự giải quyết"
+            },
+            {
+              "form": "problem",
+              "meaning": "vấn đề"
+            }
           ],
-          "verb": [{ "form": "resolve", "meaning": "giải quyết" }],
+          "verb": [
+            {
+              "form": "resolve",
+              "meaning": "giải quyết"
+            }
+          ],
           "adjective": [
-            { "form": "unresolved", "meaning": "chưa được giải quyết" },
-            { "form": "resolvable", "meaning": "có thể giải quyết" }
+            {
+              "form": "unresolved",
+              "meaning": "chưa được giải quyết"
+            },
+            {
+              "form": "resolvable",
+              "meaning": "có thể giải quyết"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -358,7 +555,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174046-12-11-1f2feff2",
       "targetLexeme": "The most vocal advocates for",
       "sourceContext": "Amongst the most vocal advocates for a solution... was Charles Pearson...",
       "phase1Inference": {
@@ -376,12 +573,33 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "advocate", "meaning": "người ủng hộ" },
-            { "form": "advocacy", "meaning": "sự ủng hộ" }
+            {
+              "form": "advocate",
+              "meaning": "người ủng hộ"
+            },
+            {
+              "form": "advocacy",
+              "meaning": "sự ủng hộ"
+            }
           ],
-          "verb": [{ "form": "advocate", "meaning": "ủng hộ" }],
-          "adjective": [{ "form": "vocal", "meaning": "(mạnh mẽ) lên tiếng" }],
-          "adverb": [{ "form": "vocally", "meaning": "(một cách) mạnh mẽ" }]
+          "verb": [
+            {
+              "form": "advocate",
+              "meaning": "ủng hộ"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "vocal",
+              "meaning": "(mạnh mẽ) lên tiếng"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "vocally",
+              "meaning": "(một cách) mạnh mẽ"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -390,7 +608,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174046-12-12-0a58ce3a",
       "targetLexeme": "social and economic advantages",
       "sourceContext": "He saw both social and economic advantages in building an underground railway...",
       "phase1Inference": {
@@ -408,24 +626,60 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "society", "meaning": "xã hội" },
-            { "form": "economy", "meaning": "nền kinh tế" },
-            { "form": "economics", "meaning": "kinh tế học" },
-            { "form": "advantage", "meaning": "lợi ích" }
+            {
+              "form": "society",
+              "meaning": "xã hội"
+            },
+            {
+              "form": "economy",
+              "meaning": "nền kinh tế"
+            },
+            {
+              "form": "economics",
+              "meaning": "kinh tế học"
+            },
+            {
+              "form": "advantage",
+              "meaning": "lợi ích"
+            }
           ],
           "verb": [
-            { "form": "socialize", "meaning": "xã hội hóa" },
-            { "form": "economize", "meaning": "tiết kiệm" }
+            {
+              "form": "socialize",
+              "meaning": "xã hội hóa"
+            },
+            {
+              "form": "economize",
+              "meaning": "tiết kiệm"
+            }
           ],
           "adjective": [
-            { "form": "social", "meaning": "thuộc xã hội" },
-            { "form": "economic", "meaning": "thuộc kinh tế" },
-            { "form": "economical", "meaning": "tiết kiệm" },
-            { "form": "advantageous", "meaning": "có lợi" }
+            {
+              "form": "social",
+              "meaning": "thuộc xã hội"
+            },
+            {
+              "form": "economic",
+              "meaning": "thuộc kinh tế"
+            },
+            {
+              "form": "economical",
+              "meaning": "tiết kiệm"
+            },
+            {
+              "form": "advantageous",
+              "meaning": "có lợi"
+            }
           ],
           "adverb": [
-            { "form": "socially", "meaning": "(về mặt) xã hội" },
-            { "form": "economically", "meaning": "(về mặt) kinh tế" }
+            {
+              "form": "socially",
+              "meaning": "(về mặt) xã hội"
+            },
+            {
+              "form": "economically",
+              "meaning": "(về mặt) kinh tế"
+            }
           ]
         }
       },
@@ -435,7 +689,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174046-12-13-3a0e0460",
       "targetLexeme": "clear London slums",
       "sourceContext": "...link the overground railway stations together and clear London slums at the same time.",
       "phase1Inference": {
@@ -453,12 +707,33 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "clearance", "meaning": "sự giải tỏa" },
-            { "form": "slum", "meaning": "khu ổ chuột" }
+            {
+              "form": "clearance",
+              "meaning": "sự giải tỏa"
+            },
+            {
+              "form": "slum",
+              "meaning": "khu ổ chuột"
+            }
           ],
-          "verb": [{ "form": "clear", "meaning": "dọn dẹp, giải tỏa" }],
-          "adjective": [{ "form": "clear", "meaning": "rõ ràng" }],
-          "adverb": [{ "form": "clearly", "meaning": "rõ ràng" }]
+          "verb": [
+            {
+              "form": "clear",
+              "meaning": "dọn dẹp, giải tỏa"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "clear",
+              "meaning": "rõ ràng"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "clearly",
+              "meaning": "rõ ràng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -467,7 +742,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174046-12-14-0c9c4a96",
       "targetLexeme": "relocate the poor workers",
       "sourceContext": "His idea was to relocate the poor workers who lived in the inner-city slums...",
       "phase1Inference": {
@@ -485,17 +760,40 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "relocation", "meaning": "sự tái định cư" },
-            { "form": "location", "meaning": "vị trí" },
-            { "form": "worker", "meaning": "công nhân" }
+            {
+              "form": "relocation",
+              "meaning": "sự tái định cư"
+            },
+            {
+              "form": "location",
+              "meaning": "vị trí"
+            },
+            {
+              "form": "worker",
+              "meaning": "công nhân"
+            }
           ],
           "verb": [
-            { "form": "relocate", "meaning": "tái định cư" },
-            { "form": "locate", "meaning": "định vị" },
-            { "form": "work", "meaning": "làm việc" }
+            {
+              "form": "relocate",
+              "meaning": "tái định cư"
+            },
+            {
+              "form": "locate",
+              "meaning": "định vị"
+            },
+            {
+              "form": "work",
+              "meaning": "làm việc"
+            }
           ],
-          "adjective": [{ "form": "poor", "meaning": "nghèo" }],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "poor",
+              "meaning": "nghèo"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -504,7 +802,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174046-12-15-4bf3f04c",
       "targetLexeme": "newly constructed suburbs",
       "sourceContext": "...to newly constructed suburbs, and to provide cheap rail travel for them...",
       "phase1Inference": {
@@ -522,15 +820,37 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "construction", "meaning": "sự xây dựng" },
-            { "form": "suburb", "meaning": "ngoại ô" }
+            {
+              "form": "construction",
+              "meaning": "sự xây dựng"
+            },
+            {
+              "form": "suburb",
+              "meaning": "ngoại ô"
+            }
           ],
-          "verb": [{ "form": "construct", "meaning": "xây dựng" }],
+          "verb": [
+            {
+              "form": "construct",
+              "meaning": "xây dựng"
+            }
+          ],
           "adjective": [
-            { "form": "constructed", "meaning": "được xây dựng" },
-            { "form": "suburban", "meaning": "thuộc ngoại ô" }
+            {
+              "form": "constructed",
+              "meaning": "được xây dựng"
+            },
+            {
+              "form": "suburban",
+              "meaning": "thuộc ngoại ô"
+            }
           ],
-          "adverb": [{ "form": "newly", "meaning": "mới" }]
+          "adverb": [
+            {
+              "form": "newly",
+              "meaning": "mới"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -539,7 +859,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174046-12-16-42a2a989",
       "targetLexeme": "provide cheap rail travel",
       "sourceContext": "...and to provide cheap rail travel for them to get to work.",
       "phase1Inference": {
@@ -557,16 +877,41 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "provision", "meaning": "sự cung cấp" },
-            { "form": "provider", "meaning": "nhà cung cấp" },
-            { "form": "travel", "meaning": "sự đi lại" }
+            {
+              "form": "provision",
+              "meaning": "sự cung cấp"
+            },
+            {
+              "form": "provider",
+              "meaning": "nhà cung cấp"
+            },
+            {
+              "form": "travel",
+              "meaning": "sự đi lại"
+            }
           ],
           "verb": [
-            { "form": "provide", "meaning": "cung cấp" },
-            { "form": "travel", "meaning": "đi lại" }
+            {
+              "form": "provide",
+              "meaning": "cung cấp"
+            },
+            {
+              "form": "travel",
+              "meaning": "đi lại"
+            }
           ],
-          "adjective": [{ "form": "cheap", "meaning": "rẻ" }],
-          "adverb": [{ "form": "cheaply", "meaning": "(một cách) rẻ tiền" }]
+          "adjective": [
+            {
+              "form": "cheap",
+              "meaning": "rẻ"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "cheaply",
+              "meaning": "(một cách) rẻ tiền"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -575,7 +920,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174046-12-17-2aafb03e",
       "targetLexeme": "gained support amongst",
       "sourceContext": "Pearson's ideas gained support amongst some businessmen...",
       "phase1Inference": {
@@ -594,15 +939,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "gain", "meaning": "lợi ích, sự gia tăng" },
-            { "form": "support", "meaning": "sự ủng hộ" }
+            {
+              "form": "gain",
+              "meaning": "lợi ích, sự gia tăng"
+            },
+            {
+              "form": "support",
+              "meaning": "sự ủng hộ"
+            }
           ],
           "verb": [
-            { "form": "gain", "meaning": "giành được" },
-            { "form": "support", "meaning": "ủng hộ" }
+            {
+              "form": "gain",
+              "meaning": "giành được"
+            },
+            {
+              "form": "support",
+              "meaning": "ủng hộ"
+            }
           ],
-          "adjective": [{ "form": "supportive", "meaning": "có tính ủng hộ" }],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "supportive",
+              "meaning": "có tính ủng hộ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -611,7 +973,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174046-12-18-62640e3d",
       "targetLexeme": "submitted a plan to Parliament",
       "sourceContext": "...and in 1851 he submitted a plan to Parliament.",
       "phase1Inference": {
@@ -629,18 +991,36 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "submission", "meaning": "sự đệ trình" },
-            { "form": "plan", "meaning": "kế hoạch" },
-            { "form": "parliament", "meaning": "nghị viện" }
+            {
+              "form": "submission",
+              "meaning": "sự đệ trình"
+            },
+            {
+              "form": "plan",
+              "meaning": "kế hoạch"
+            },
+            {
+              "form": "parliament",
+              "meaning": "nghị viện"
+            }
           ],
           "verb": [
-            { "form": "submit", "meaning": "đệ trình" },
-            { "form": "plan", "meaning": "lên kế hoạch" }
+            {
+              "form": "submit",
+              "meaning": "đệ trình"
+            },
+            {
+              "form": "plan",
+              "meaning": "lên kế hoạch"
+            }
           ],
           "adjective": [
-            { "form": "parliamentary", "meaning": "thuộc nghị viện" }
+            {
+              "form": "parliamentary",
+              "meaning": "thuộc nghị viện"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -649,7 +1029,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174046-12-19-05f8e659",
       "targetLexeme": "coincided with a proposal",
       "sourceContext": "It was rejected, but coincided with a proposal from another group...",
       "phase1Inference": {
@@ -667,18 +1047,36 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "coincidence", "meaning": "sự trùng hợp" },
-            { "form": "proposal", "meaning": "sự đề xuất" }
+            {
+              "form": "coincidence",
+              "meaning": "sự trùng hợp"
+            },
+            {
+              "form": "proposal",
+              "meaning": "sự đề xuất"
+            }
           ],
           "verb": [
-            { "form": "coincide", "meaning": "trùng hợp" },
-            { "form": "propose", "meaning": "đề xuất" }
+            {
+              "form": "coincide",
+              "meaning": "trùng hợp"
+            },
+            {
+              "form": "propose",
+              "meaning": "đề xuất"
+            }
           ],
           "adjective": [
-            { "form": "coincidental", "meaning": "mang tính trùng hợp" }
+            {
+              "form": "coincidental",
+              "meaning": "mang tính trùng hợp"
+            }
           ],
           "adverb": [
-            { "form": "coincidentally", "meaning": "(một cách) trùng hợp" }
+            {
+              "form": "coincidentally",
+              "meaning": "(một cách) trùng hợp"
+            }
           ]
         }
       },
@@ -688,7 +1086,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174046-12-20-6076bd22",
       "targetLexeme": "The two groups merged",
       "sourceContext": "The two groups merged and established the Metropolitan Railway Company...",
       "phase1Inference": {
@@ -706,12 +1104,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "merger", "meaning": "sự sáp nhập" },
-            { "form": "group", "meaning": "nhóm" }
+            {
+              "form": "merger",
+              "meaning": "sự sáp nhập"
+            },
+            {
+              "form": "group",
+              "meaning": "nhóm"
+            }
           ],
-          "verb": [{ "form": "merge", "meaning": "sáp nhập" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "merge",
+              "meaning": "sáp nhập"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -720,7 +1129,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174046-12-21-1f2b83f4",
       "targetLexeme": "had difficulty in raising the funding",
       "sourceContext": "The organisation had difficulty in raising the funding for such a radical and expensive scheme...",
       "phase1Inference": {
@@ -739,16 +1148,36 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "difficulty", "meaning": "sự khó khăn" },
-            { "form": "funding", "meaning": "nguồn vốn" },
-            { "form": "fund", "meaning": "quỹ" }
+            {
+              "form": "difficulty",
+              "meaning": "sự khó khăn"
+            },
+            {
+              "form": "funding",
+              "meaning": "nguồn vốn"
+            },
+            {
+              "form": "fund",
+              "meaning": "quỹ"
+            }
           ],
           "verb": [
-            { "form": "raise", "meaning": "huy động" },
-            { "form": "fund", "meaning": "cấp vốn" }
+            {
+              "form": "raise",
+              "meaning": "huy động"
+            },
+            {
+              "form": "fund",
+              "meaning": "cấp vốn"
+            }
           ],
-          "adjective": [{ "form": "difficult", "meaning": "khó khăn" }],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "difficult",
+              "meaning": "khó khăn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -757,7 +1186,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174046-12-22-11de272c",
       "targetLexeme": "a radical and expensive scheme",
       "sourceContext": "...for such a radical and expensive scheme, not least because of the critical articles...",
       "phase1Inference": {
@@ -775,20 +1204,44 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "radical", "meaning": "người cấp tiến" },
-            { "form": "expense", "meaning": "chi phí" },
-            { "form": "scheme", "meaning": "kế hoạch" }
+            {
+              "form": "radical",
+              "meaning": "người cấp tiến"
+            },
+            {
+              "form": "expense",
+              "meaning": "chi phí"
+            },
+            {
+              "form": "scheme",
+              "meaning": "kế hoạch"
+            }
           ],
           "verb": [
-            { "form": "scheme", "meaning": "lên kế hoạch (thường là bí mật)" }
+            {
+              "form": "scheme",
+              "meaning": "lên kế hoạch (thường là bí mật)"
+            }
           ],
           "adjective": [
-            { "form": "radical", "meaning": "cấp tiến" },
-            { "form": "expensive", "meaning": "đắt đỏ" }
+            {
+              "form": "radical",
+              "meaning": "cấp tiến"
+            },
+            {
+              "form": "expensive",
+              "meaning": "đắt đỏ"
+            }
           ],
           "adverb": [
-            { "form": "radically", "meaning": "(một cách) triệt để" },
-            { "form": "expensively", "meaning": "(một cách) đắt đỏ" }
+            {
+              "form": "radically",
+              "meaning": "(một cách) triệt để"
+            },
+            {
+              "form": "expensively",
+              "meaning": "(một cách) đắt đỏ"
+            }
           ]
         }
       },
@@ -798,7 +1251,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174046-12-23-2927692d",
       "targetLexeme": "demolishing buildings",
       "sourceContext": "...minimise the expense of demolishing buildings. Originally scheduled to be completed in 21 months...",
       "phase1Inference": {
@@ -816,15 +1269,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "demolition", "meaning": "sự phá dỡ" },
-            { "form": "building", "meaning": "tòa nhà" }
+            {
+              "form": "demolition",
+              "meaning": "sự phá dỡ"
+            },
+            {
+              "form": "building",
+              "meaning": "tòa nhà"
+            }
           ],
           "verb": [
-            { "form": "demolish", "meaning": "phá dỡ" },
-            { "form": "build", "meaning": "xây dựng" }
+            {
+              "form": "demolish",
+              "meaning": "phá dỡ"
+            },
+            {
+              "form": "build",
+              "meaning": "xây dựng"
+            }
           ],
-          "adjective": null,
-          "adverb": null
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -833,7 +1298,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174046-12-24-1226fbcf",
       "targetLexeme": "originally scheduled to be completed",
       "sourceContext": "Originally scheduled to be completed in 21 months, the construction of the underground line took three years.",
       "phase1Inference": {
@@ -851,18 +1316,41 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "schedule", "meaning": "lịch trình" },
-            { "form": "completion", "meaning": "sự hoàn thành" }
+            {
+              "form": "schedule",
+              "meaning": "lịch trình"
+            },
+            {
+              "form": "completion",
+              "meaning": "sự hoàn thành"
+            }
           ],
           "verb": [
-            { "form": "schedule", "meaning": "lên lịch" },
-            { "form": "complete", "meaning": "hoàn thành" }
+            {
+              "form": "schedule",
+              "meaning": "lên lịch"
+            },
+            {
+              "form": "complete",
+              "meaning": "hoàn thành"
+            }
           ],
           "adjective": [
-            { "form": "original", "meaning": "ban đầu" },
-            { "form": "complete", "meaning": "hoàn chỉnh" }
+            {
+              "form": "original",
+              "meaning": "ban đầu"
+            },
+            {
+              "form": "complete",
+              "meaning": "hoàn chỉnh"
+            }
           ],
-          "adverb": [{ "form": "originally", "meaning": "(một cách) ban đầu" }]
+          "adverb": [
+            {
+              "form": "originally",
+              "meaning": "(một cách) ban đầu"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -871,7 +1359,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174046-12-25-637bbc87",
       "targetLexeme": "built just below street level",
       "sourceContext": "It was built just below street level using a technique known as 'cut and cover'.",
       "phase1Inference": {
@@ -888,10 +1376,38 @@
           "street level"
         ],
         "wordForms": {
-          "noun": ["level", "street"],
-          "verb": ["build"],
-          "adjective": ["built"],
-          "adverb": ["below", "just"]
+          "noun": [
+            {
+              "form": "",
+              "meaning": ""
+            },
+            {
+              "form": "",
+              "meaning": ""
+            }
+          ],
+          "verb": [
+            {
+              "form": "",
+              "meaning": ""
+            }
+          ],
+          "adjective": [
+            {
+              "form": "",
+              "meaning": ""
+            }
+          ],
+          "adverb": [
+            {
+              "form": "",
+              "meaning": ""
+            },
+            {
+              "form": "",
+              "meaning": ""
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -900,7 +1416,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174046-12-26-5f31ee19",
       "targetLexeme": "technique known as",
       "sourceContext": "...using a technique known as 'cut and cover'.",
       "phase1Inference": {
@@ -911,15 +1427,39 @@
         "sentiment": "neutral",
         "definitionEN": "A specific method or skill that is called by a particular name",
         "translationVI": "Kỹ thuật được biết đến với tên gọi là",
-        "relatedCollocates": ["a method called", "a process known as"],
+        "relatedCollocates": [
+          "a method called",
+          "a process known as"
+        ],
         "wordForms": {
-          "noun": [{ "form": "technique", "meaning": "kỹ thuật" }],
-          "verb": [{ "form": "know", "meaning": "biết" }],
-          "adjective": [
-            { "form": "known", "meaning": "được biết đến" },
-            { "form": "technical", "meaning": "thuộc kỹ thuật" }
+          "noun": [
+            {
+              "form": "technique",
+              "meaning": "kỹ thuật"
+            }
           ],
-          "adverb": [{ "form": "technically", "meaning": "(về mặt) kỹ thuật" }]
+          "verb": [
+            {
+              "form": "know",
+              "meaning": "biết"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "known",
+              "meaning": "được biết đến"
+            },
+            {
+              "form": "technical",
+              "meaning": "thuộc kỹ thuật"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "technically",
+              "meaning": "(về mặt) kỹ thuật"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -928,7 +1468,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174046-12-27-39a526d1",
       "targetLexeme": "temporarily held up with timber beams",
       "sourceContext": "...and the sides temporarily held up with timber beams.",
       "phase1Inference": {
@@ -946,13 +1486,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "timber", "meaning": "gỗ (xây dựng)" },
-            { "form": "beam", "meaning": "cái dầm" }
+            {
+              "form": "timber",
+              "meaning": "gỗ (xây dựng)"
+            },
+            {
+              "form": "beam",
+              "meaning": "cái dầm"
+            }
           ],
-          "verb": [{ "form": "hold up", "meaning": "chống đỡ" }],
-          "adjective": [{ "form": "temporary", "meaning": "tạm thời" }],
+          "verb": [
+            {
+              "form": "hold up",
+              "meaning": "chống đỡ"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "temporary",
+              "meaning": "tạm thời"
+            }
+          ],
           "adverb": [
-            { "form": "temporarily", "meaning": "(một cách) tạm thời" }
+            {
+              "form": "temporarily",
+              "meaning": "(một cách) tạm thời"
+            }
           ]
         }
       },
@@ -962,7 +1521,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174046-12-28-235de06c",
       "targetLexeme": "laid on top of the tunnel",
       "sourceContext": "A two-metre-deep layer of soil was laid on top of the tunnel and the road above rebuilt.",
       "phase1Inference": {
@@ -973,12 +1532,26 @@
         "sentiment": "neutral",
         "definitionEN": "Placed over the upper surface of the tunnel",
         "translationVI": "Được đặt/rải lên trên đường hầm",
-        "relatedCollocates": ["lay bricks", "lay the foundation", "on top of"],
+        "relatedCollocates": [
+          "lay bricks",
+          "lay the foundation",
+          "on top of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "layer", "meaning": "lớp" }],
-          "verb": [{ "form": "lay (past: laid)", "meaning": "đặt, rải" }],
-          "adjective": null,
-          "adverb": null
+          "noun": [
+            {
+              "form": "layer",
+              "meaning": "lớp"
+            }
+          ],
+          "verb": [
+            {
+              "form": "lay (past: laid)",
+              "meaning": "đặt, rải"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -987,7 +1560,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174046-12-29-5467de1b",
       "targetLexeme": "first year of operation",
       "sourceContext": "By the end of the Metropolitan's first year of operation, 9.5 million journeys had been made.",
       "phase1Inference": {
@@ -1005,12 +1578,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "operation", "meaning": "sự vận hành" },
-            { "form": "operator", "meaning": "người vận hành" }
+            {
+              "form": "operation",
+              "meaning": "sự vận hành"
+            },
+            {
+              "form": "operator",
+              "meaning": "người vận hành"
+            }
           ],
-          "verb": [{ "form": "operate", "meaning": "vận hành" }],
-          "adjective": [{ "form": "operational", "meaning": "thuộc vận hành" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "operate",
+              "meaning": "vận hành"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "operational",
+              "meaning": "thuộc vận hành"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1019,7 +1608,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174046-12-30-02de8e97",
       "targetLexeme": "extensions ... were being authorised",
       "sourceContext": "...the first extensions to the line were being authorised; these were built over the next five years...",
       "phase1Inference": {
@@ -1037,19 +1626,40 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "extension", "meaning": "sự mở rộng" },
-            { "form": "authorisation", "meaning": "sự cấp phép" },
-            { "form": "authority", "meaning": "nhà chức trách" }
+            {
+              "form": "extension",
+              "meaning": "sự mở rộng"
+            },
+            {
+              "form": "authorisation",
+              "meaning": "sự cấp phép"
+            },
+            {
+              "form": "authority",
+              "meaning": "nhà chức trách"
+            }
           ],
           "verb": [
-            { "form": "extend", "meaning": "mở rộng" },
-            { "form": "authorise", "meaning": "cấp phép" }
+            {
+              "form": "extend",
+              "meaning": "mở rộng"
+            },
+            {
+              "form": "authorise",
+              "meaning": "cấp phép"
+            }
           ],
           "adjective": [
-            { "form": "extensive", "meaning": "rộng lớn" },
-            { "form": "authorised", "meaning": "được cấp phép" }
+            {
+              "form": "extensive",
+              "meaning": "rộng lớn"
+            },
+            {
+              "form": "authorised",
+              "meaning": "được cấp phép"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1058,7 +1668,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174046-12-31-2726fa0b",
       "targetLexeme": "pull the trains with steam locomotives",
       "sourceContext": "The original plan was to pull the trains with steam locomotives, using firebricks in the boilers to provide steam...",
       "phase1Inference": {
@@ -1069,15 +1679,29 @@
         "sentiment": "neutral",
         "definitionEN": "To use engines powered by steam to move the train carriages",
         "translationVI": "Kéo tàu bằng đầu máy hơi nước",
-        "relatedCollocates": ["steam engine", "diesel locomotive"],
+        "relatedCollocates": [
+          "steam engine",
+          "diesel locomotive"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "steam", "meaning": "hơi nước" },
-            { "form": "locomotive", "meaning": "đầu máy" }
+            {
+              "form": "steam",
+              "meaning": "hơi nước"
+            },
+            {
+              "form": "locomotive",
+              "meaning": "đầu máy"
+            }
           ],
-          "verb": [{ "form": "pull", "meaning": "kéo" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "pull",
+              "meaning": "kéo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1086,7 +1710,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174046-12-32-396c9ce9",
       "targetLexeme": "provide steam",
       "sourceContext": "...using firebricks in the boilers to provide steam, but these engines were never introduced.",
       "phase1Inference": {
@@ -1104,12 +1728,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "provision", "meaning": "sự cung cấp" },
-            { "form": "steam", "meaning": "hơi nước" }
+            {
+              "form": "provision",
+              "meaning": "sự cung cấp"
+            },
+            {
+              "form": "steam",
+              "meaning": "hơi nước"
+            }
           ],
-          "verb": [{ "form": "provide", "meaning": "cung cấp" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "provide",
+              "meaning": "cung cấp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1118,7 +1753,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174046-12-33-26435536",
       "targetLexeme": "specially designed locomotives",
       "sourceContext": "Instead, the line used specially designed locomotives that were fitted with water tanks...",
       "phase1Inference": {
@@ -1136,16 +1771,41 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "design", "meaning": "thiết kế" },
-            { "form": "designer", "meaning": "nhà thiết kế" },
-            { "form": "specialty", "meaning": "chuyên môn" }
+            {
+              "form": "design",
+              "meaning": "thiết kế"
+            },
+            {
+              "form": "designer",
+              "meaning": "nhà thiết kế"
+            },
+            {
+              "form": "specialty",
+              "meaning": "chuyên môn"
+            }
           ],
-          "verb": [{ "form": "design", "meaning": "thiết kế" }],
+          "verb": [
+            {
+              "form": "design",
+              "meaning": "thiết kế"
+            }
+          ],
           "adjective": [
-            { "form": "designed", "meaning": "được thiết kế" },
-            { "form": "special", "meaning": "đặc biệt" }
+            {
+              "form": "designed",
+              "meaning": "được thiết kế"
+            },
+            {
+              "form": "special",
+              "meaning": "đặc biệt"
+            }
           ],
-          "adverb": [{ "form": "specially", "meaning": "(một cách) đặc biệt" }]
+          "adverb": [
+            {
+              "form": "specially",
+              "meaning": "(một cách) đặc biệt"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1154,7 +1814,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174046-12-34-285b20c0",
       "targetLexeme": "fitted with water tanks",
       "sourceContext": "...locomotives that were fitted with water tanks in which steam could be condensed.",
       "phase1Inference": {
@@ -1172,12 +1832,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "fitting", "meaning": "đồ lắp đặt" },
-            { "form": "tank", "meaning": "bể chứa" }
+            {
+              "form": "fitting",
+              "meaning": "đồ lắp đặt"
+            },
+            {
+              "form": "tank",
+              "meaning": "bể chứa"
+            }
           ],
-          "verb": [{ "form": "fit (with)", "meaning": "lắp đặt" }],
-          "adjective": [{ "form": "fitted", "meaning": "được trang bị" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "fit (with)",
+              "meaning": "lắp đặt"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "fitted",
+              "meaning": "được trang bị"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1186,7 +1862,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174046-12-35-2a17539d",
       "targetLexeme": "steam could be condensed",
       "sourceContext": "...in which steam could be condensed. However, smoke and fumes remained a problem...",
       "phase1Inference": {
@@ -1197,12 +1873,30 @@
         "sentiment": "neutral",
         "definitionEN": "It was possible for the steam (gas) to be turned back into a liquid",
         "translationVI": "Hơi nước có thể được ngưng tụ",
-        "relatedCollocates": ["condensation (n)", "condensed milk"],
+        "relatedCollocates": [
+          "condensation (n)",
+          "condensed milk"
+        ],
         "wordForms": {
-          "noun": [{ "form": "condensation", "meaning": "sự ngưng tụ" }],
-          "verb": [{ "form": "condense", "meaning": "ngưng tụ" }],
-          "adjective": [{ "form": "condensed", "meaning": "được cô đọng" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "condensation",
+              "meaning": "sự ngưng tụ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "condense",
+              "meaning": "ngưng tụ"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "condensed",
+              "meaning": "được cô đọng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1211,7 +1905,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174046-12-36-068a4dfb",
       "targetLexeme": "smoke and fumes remained a problem",
       "sourceContext": "However, smoke and fumes remained a problem, even though ventilation shafts were added...",
       "phase1Inference": {
@@ -1229,16 +1923,36 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "smoke", "meaning": "khói" },
-            { "form": "fume", "meaning": "khói độc" },
-            { "form": "problem", "meaning": "vấn đề" }
+            {
+              "form": "smoke",
+              "meaning": "khói"
+            },
+            {
+              "form": "fume",
+              "meaning": "khói độc"
+            },
+            {
+              "form": "problem",
+              "meaning": "vấn đề"
+            }
           ],
           "verb": [
-            { "form": "smoke", "meaning": "hút thuốc" },
-            { "form": "remain", "meaning": "vẫn là" }
+            {
+              "form": "smoke",
+              "meaning": "hút thuốc"
+            },
+            {
+              "form": "remain",
+              "meaning": "vẫn là"
+            }
           ],
-          "adjective": [{ "form": "smoky", "meaning": "nhiều khói" }],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "smoky",
+              "meaning": "nhiều khói"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1247,7 +1961,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174046-12-37-3a7d8aba",
       "targetLexeme": "ventilation shafts were added",
       "sourceContext": "...even though ventilation shafts were added to the tunnels.",
       "phase1Inference": {
@@ -1265,16 +1979,36 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "ventilation", "meaning": "sự thông gió" },
-            { "form": "vent", "meaning": "lỗ thông" },
-            { "form": "shaft", "meaning": "cái trục/giếng" }
+            {
+              "form": "ventilation",
+              "meaning": "sự thông gió"
+            },
+            {
+              "form": "vent",
+              "meaning": "lỗ thông"
+            },
+            {
+              "form": "shaft",
+              "meaning": "cái trục/giếng"
+            }
           ],
           "verb": [
-            { "form": "ventilate", "meaning": "thông gió" },
-            { "form": "add", "meaning": "thêm vào" }
+            {
+              "form": "ventilate",
+              "meaning": "thông gió"
+            },
+            {
+              "form": "add",
+              "meaning": "thêm vào"
+            }
           ],
-          "adjective": [{ "form": "ventilated", "meaning": "được thông gió" }],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "ventilated",
+              "meaning": "được thông gió"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1283,7 +2017,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174046-12-38-2c70349c",
       "targetLexeme": "congestion ... had become worse",
       "sourceContext": "Despite the extension of the underground railway, by the 1880s, congestion on London's streets had become worse.",
       "phase1Inference": {
@@ -1300,13 +2034,29 @@
           "worsen (v)"
         ],
         "wordForms": {
-          "noun": [{ "form": "congestion", "meaning": "sự tắc nghẽn" }],
-          "verb": ["become (past: became)"],
-          "adjective": [
-            { "form": "worse", "meaning": "tệ hơn" },
-            { "form": "congested", "meaning": "bị tắc nghẽn" }
+          "noun": [
+            {
+              "form": "congestion",
+              "meaning": "sự tắc nghẽn"
+            }
           ],
-          "adverb": null
+          "verb": [
+            {
+              "form": "",
+              "meaning": ""
+            }
+          ],
+          "adjective": [
+            {
+              "form": "worse",
+              "meaning": "tệ hơn"
+            },
+            {
+              "form": "congested",
+              "meaning": "bị tắc nghẽn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1315,7 +2065,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174046-12-39-0529fbed",
       "targetLexeme": "did not cross the capital's centre",
       "sourceContext": "...but did not cross the capital's centre. The 'cut and cover' method... was not an option...",
       "phase1Inference": {
@@ -1333,12 +2083,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "capital", "meaning": "thủ đô" },
-            { "form": "centre", "meaning": "trung tâm" }
+            {
+              "form": "capital",
+              "meaning": "thủ đô"
+            },
+            {
+              "form": "centre",
+              "meaning": "trung tâm"
+            }
           ],
-          "verb": [{ "form": "cross", "meaning": "đi qua" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "cross",
+              "meaning": "đi qua"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1347,7 +2108,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174046-12-40-1bb57c7f",
       "targetLexeme": "The only alternative was to",
       "sourceContext": "The only alternative was to tunnel deep underground.",
       "phase1Inference": {
@@ -1364,10 +2125,30 @@
           "an alternative method"
         ],
         "wordForms": {
-          "noun": [{ "form": "alternative", "meaning": "sự thay thế" }],
-          "verb": [{ "form": "alternate", "meaning": "luân phiên" }],
-          "adjective": [{ "form": "alternative", "meaning": "thay thế" }],
-          "adverb": [{ "form": "alternatively", "meaning": "hoặc là" }]
+          "noun": [
+            {
+              "form": "alternative",
+              "meaning": "sự thay thế"
+            }
+          ],
+          "verb": [
+            {
+              "form": "alternate",
+              "meaning": "luân phiên"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "alternative",
+              "meaning": "thay thế"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "alternatively",
+              "meaning": "hoặc là"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1376,7 +2157,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174046-12-41-7636ed96",
       "targetLexeme": "in such a confined space",
       "sourceContext": "Although the technology... existed, steam locomotives could not be used in such a confined space.",
       "phase1Inference": {
@@ -1387,17 +2168,34 @@
         "sentiment": "negative",
         "definitionEN": "In an area that is very small and enclosed",
         "translationVI": "Trong một không gian chật hẹp/bị giới hạn như vậy",
-        "relatedCollocates": ["a confined area", "confined to (a place)"],
+        "relatedCollocates": [
+          "a confined area",
+          "confined to (a place)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "space", "meaning": "không gian" },
-            { "form": "confinement", "meaning": "sự giam hãm" }
+            {
+              "form": "space",
+              "meaning": "không gian"
+            },
+            {
+              "form": "confinement",
+              "meaning": "sự giam hãm"
+            }
           ],
-          "verb": [{ "form": "confine", "meaning": "giới hạn, giam hãm" }],
+          "verb": [
+            {
+              "form": "confine",
+              "meaning": "giới hạn, giam hãm"
+            }
+          ],
           "adjective": [
-            { "form": "confined", "meaning": "chật hẹp, bị giới hạn" }
+            {
+              "form": "confined",
+              "meaning": "chật hẹp, bị giới hạn"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1406,7 +2204,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174046-12-42-62ebf898",
       "targetLexeme": "development of a reliable electric motor",
       "sourceContext": "It wasn't until the development of a reliable electric motor, and a means of transferring power... that the world's first deep-level electric railway... became possible.",
       "phase1Inference": {
@@ -1424,20 +2222,44 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "development", "meaning": "sự phát triển" },
-            { "form": "reliability", "meaning": "sự tin cậy" },
-            { "form": "motor", "meaning": "động cơ" }
+            {
+              "form": "development",
+              "meaning": "sự phát triển"
+            },
+            {
+              "form": "reliability",
+              "meaning": "sự tin cậy"
+            },
+            {
+              "form": "motor",
+              "meaning": "động cơ"
+            }
           ],
           "verb": [
-            { "form": "develop", "meaning": "phát triển" },
-            { "form": "rely (on)", "meaning": "dựa vào" }
+            {
+              "form": "develop",
+              "meaning": "phát triển"
+            },
+            {
+              "form": "rely (on)",
+              "meaning": "dựa vào"
+            }
           ],
           "adjective": [
-            { "form": "reliable", "meaning": "đáng tin cậy" },
-            { "form": "electric", "meaning": "chạy bằng điện" }
+            {
+              "form": "reliable",
+              "meaning": "đáng tin cậy"
+            },
+            {
+              "form": "electric",
+              "meaning": "chạy bằng điện"
+            }
           ],
           "adverb": [
-            { "form": "reliably", "meaning": "(một cách) đáng tin cậy" }
+            {
+              "form": "reliably",
+              "meaning": "(một cách) đáng tin cậy"
+            }
           ]
         }
       },
@@ -1447,7 +2269,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174046-12-43-4762e13b",
       "targetLexeme": "a means of transferring power",
       "sourceContext": "...and a means of transferring power from the generator to a moving train, that the world's first... railway... became possible.",
       "phase1Inference": {
@@ -1465,13 +2287,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "means", "meaning": "phương tiện" },
-            { "form": "transfer", "meaning": "sự chuyển giao" },
-            { "form": "power", "meaning": "năng lượng, điện" }
+            {
+              "form": "means",
+              "meaning": "phương tiện"
+            },
+            {
+              "form": "transfer",
+              "meaning": "sự chuyển giao"
+            },
+            {
+              "form": "power",
+              "meaning": "năng lượng, điện"
+            }
           ],
-          "verb": [{ "form": "transfer", "meaning": "chuyển giao" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "transfer",
+              "meaning": "chuyển giao"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1480,7 +2316,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174046-12-44-6a350842",
       "targetLexeme": "great technical achievement",
       "sourceContext": "Although the City & South London Railway was a great technical achievement, it did not make a profit.",
       "phase1Inference": {
@@ -1498,16 +2334,41 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "achievement", "meaning": "thành tựu" },
-            { "form": "achiever", "meaning": "người thành đạt" },
-            { "form": "technology", "meaning": "công nghệ" }
+            {
+              "form": "achievement",
+              "meaning": "thành tựu"
+            },
+            {
+              "form": "achiever",
+              "meaning": "người thành đạt"
+            },
+            {
+              "form": "technology",
+              "meaning": "công nghệ"
+            }
           ],
-          "verb": [{ "form": "achieve", "meaning": "đạt được" }],
+          "verb": [
+            {
+              "form": "achieve",
+              "meaning": "đạt được"
+            }
+          ],
           "adjective": [
-            { "form": "technical", "meaning": "thuộc kỹ thuật" },
-            { "form": "great", "meaning": "vĩ đại" }
+            {
+              "form": "technical",
+              "meaning": "thuộc kỹ thuật"
+            },
+            {
+              "form": "great",
+              "meaning": "vĩ đại"
+            }
           ],
-          "adverb": [{ "form": "technically", "meaning": "(về mặt) kỹ thuật" }]
+          "adverb": [
+            {
+              "form": "technically",
+              "meaning": "(về mặt) kỹ thuật"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1516,7 +2377,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174046-12-45-2b40816f",
       "targetLexeme": "did not make a profit",
       "sourceContext": "Although the City & South London Railway was a great technical achievement, it did not make a profit.",
       "phase1Inference": {
@@ -1533,13 +2394,34 @@
           "highly profitable"
         ],
         "wordForms": {
-          "noun": [{ "form": "profit", "meaning": "lợi nhuận" }],
-          "verb": [
-            { "form": "make a profit", "meaning": "tạo lợi nhuận" },
-            { "form": "profit (from)", "meaning": "hưởng lợi (từ)" }
+          "noun": [
+            {
+              "form": "profit",
+              "meaning": "lợi nhuận"
+            }
           ],
-          "adjective": [{ "form": "profitable", "meaning": "có lợi nhuận" }],
-          "adverb": [{ "form": "profitably", "meaning": "(một cách) có lợi" }]
+          "verb": [
+            {
+              "form": "make a profit",
+              "meaning": "tạo lợi nhuận"
+            },
+            {
+              "form": "profit (from)",
+              "meaning": "hưởng lợi (từ)"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "profitable",
+              "meaning": "có lợi nhuận"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "profitably",
+              "meaning": "(một cách) có lợi"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1548,7 +2430,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174046-12-46-2523f898",
       "targetLexeme": "The proposed solution",
       "sourceContext": "The proposed solution (Section heading in notes)",
       "phase1Inference": {
@@ -1566,15 +2448,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "proposal", "meaning": "sự đề xuất" },
-            { "form": "solution", "meaning": "giải pháp" }
+            {
+              "form": "proposal",
+              "meaning": "sự đề xuất"
+            },
+            {
+              "form": "solution",
+              "meaning": "giải pháp"
+            }
           ],
           "verb": [
-            { "form": "propose", "meaning": "đề xuất" },
-            { "form": "solve", "meaning": "giải quyết" }
+            {
+              "form": "propose",
+              "meaning": "đề xuất"
+            },
+            {
+              "form": "solve",
+              "meaning": "giải quyết"
+            }
           ],
-          "adjective": [{ "form": "proposed", "meaning": "được đề xuất" }],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "proposed",
+              "meaning": "được đề xuất"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1583,7 +2482,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174046-12-47-0bacdbb2",
       "targetLexeme": "initially had problems",
       "sourceContext": "The company initially had problems getting the 4 .................. needed for the project",
       "phase1Inference": {
@@ -1601,12 +2500,33 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "initial", "meaning": "sự bắt đầu" },
-            { "form": "problem", "meaning": "vấn đề" }
+            {
+              "form": "initial",
+              "meaning": "sự bắt đầu"
+            },
+            {
+              "form": "problem",
+              "meaning": "vấn đề"
+            }
           ],
-          "verb": [{ "form": "initiate", "meaning": "khởi xướng" }],
-          "adjective": [{ "form": "initial", "meaning": "ban đầu" }],
-          "adverb": [{ "form": "initially", "meaning": "(một cách) ban đầu" }]
+          "verb": [
+            {
+              "form": "initiate",
+              "meaning": "khởi xướng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "initial",
+              "meaning": "ban đầu"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "initially",
+              "meaning": "(một cách) ban đầu"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1615,7 +2535,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174046-12-48-0b169e2e",
       "targetLexeme": "Negative articles",
       "sourceContext": "Negative articles about the project appeared in the 5 ..................",
       "phase1Inference": {
@@ -1633,13 +2553,37 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "article", "meaning": "bài báo" },
-            { "form": "negative", "meaning": "điều tiêu cực" },
-            { "form": "negativity", "meaning": "sự tiêu cực" }
+            {
+              "form": "article",
+              "meaning": "bài báo"
+            },
+            {
+              "form": "negative",
+              "meaning": "điều tiêu cực"
+            },
+            {
+              "form": "negativity",
+              "meaning": "sự tiêu cực"
+            }
           ],
-          "verb": [{ "form": "negate", "meaning": "phủ nhận" }],
-          "adjective": [{ "form": "negative", "meaning": "tiêu cực" }],
-          "adverb": [{ "form": "negatively", "meaning": "(một cách) tiêu cực" }]
+          "verb": [
+            {
+              "form": "negate",
+              "meaning": "phủ nhận"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "negative",
+              "meaning": "tiêu cực"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "negatively",
+              "meaning": "(một cách) tiêu cực"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1648,7 +2592,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174046-12-49-28a6bb18",
       "targetLexeme": "appeared in the press",
       "sourceContext": "Negative articles about the project appeared in the 5 .................. (Answer: press)",
       "phase1Inference": {
@@ -1666,15 +2610,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "appearance", "meaning": "sự xuất hiện" },
-            { "form": "press", "meaning": "báo chí" }
+            {
+              "form": "appearance",
+              "meaning": "sự xuất hiện"
+            },
+            {
+              "form": "press",
+              "meaning": "báo chí"
+            }
           ],
           "verb": [
-            { "form": "appear", "meaning": "xuất hiện" },
-            { "form": "press", "meaning": "nhấn, ép" }
+            {
+              "form": "appear",
+              "meaning": "xuất hiện"
+            },
+            {
+              "form": "press",
+              "meaning": "nhấn, ép"
+            }
           ],
-          "adjective": null,
-          "adverb": null
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1683,7 +2639,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174046-12-50-4cdfcdb6",
       "targetLexeme": "to be pulled down",
       "sourceContext": "The chosen route did not require many buildings to be pulled down",
       "phase1Inference": {
@@ -1700,10 +2656,15 @@
           "demolish (synonym)"
         ],
         "wordForms": {
-          "noun": null,
-          "verb": [{ "form": "pull down", "meaning": "phá sập" }],
-          "adjective": null,
-          "adverb": null
+          "noun": [],
+          "verb": [
+            {
+              "form": "pull down",
+              "meaning": "phá sập"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1712,7 +2673,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174046-12-51-0c8f39d4",
       "targetLexeme": "With the completion of",
       "sourceContext": "With the completion of the brick arch, the tunnel was covered with 6 .................. (Answer: soil)",
       "phase1Inference": {
@@ -1729,11 +2690,29 @@
           "work towards completion"
         ],
         "wordForms": {
-          "noun": [{ "form": "completion", "meaning": "sự hoàn thành" }],
-          "verb": [{ "form": "complete", "meaning": "hoàn thành" }],
-          "adjective": [{ "form": "complete", "meaning": "hoàn chỉnh" }],
+          "noun": [
+            {
+              "form": "completion",
+              "meaning": "sự hoàn thành"
+            }
+          ],
+          "verb": [
+            {
+              "form": "complete",
+              "meaning": "hoàn thành"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "complete",
+              "meaning": "hoàn chỉnh"
+            }
+          ],
           "adverb": [
-            { "form": "completely", "meaning": "(một cách) hoàn toàn" }
+            {
+              "form": "completely",
+              "meaning": "(một cách) hoàn toàn"
+            }
           ]
         }
       },
@@ -1743,7 +2722,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174046-12-52-3d8cf8be",
       "targetLexeme": "statements agree with the information",
       "sourceContext": "Do the following statements agree with the information given in Reading Passage 1?",
       "phase1Inference": {
@@ -1761,17 +2740,40 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "statement", "meaning": "phát biểu" },
-            { "form": "agreement", "meaning": "sự đồng ý" },
-            { "form": "information", "meaning": "thông tin" }
+            {
+              "form": "statement",
+              "meaning": "phát biểu"
+            },
+            {
+              "form": "agreement",
+              "meaning": "sự đồng ý"
+            },
+            {
+              "form": "information",
+              "meaning": "thông tin"
+            }
           ],
           "verb": [
-            { "form": "state", "meaning": "phát biểu" },
-            { "form": "agree", "meaning": "đồng ý" },
-            { "form": "inform", "meaning": "thông báo" }
+            {
+              "form": "state",
+              "meaning": "phát biểu"
+            },
+            {
+              "form": "agree",
+              "meaning": "đồng ý"
+            },
+            {
+              "form": "inform",
+              "meaning": "thông báo"
+            }
           ],
-          "adjective": [{ "form": "informative", "meaning": "giàu thông tin" }],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "informative",
+              "meaning": "giàu thông tin"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1780,7 +2782,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174046-12-53-42985e0b",
       "targetLexeme": "statement contradicts the information",
       "sourceContext": "FALSE if the statement contradicts the information",
       "phase1Inference": {
@@ -1797,12 +2799,25 @@
           "contradictory (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "contradiction", "meaning": "sự mâu thuẫn" }],
-          "verb": [{ "form": "contradict", "meaning": "mâu thuẫn" }],
-          "adjective": [
-            { "form": "contradictory", "meaning": "có tính mâu thuẫn" }
+          "noun": [
+            {
+              "form": "contradiction",
+              "meaning": "sự mâu thuẫn"
+            }
           ],
-          "adverb": null
+          "verb": [
+            {
+              "form": "contradict",
+              "meaning": "mâu thuẫn"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "contradictory",
+              "meaning": "có tính mâu thuẫn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1811,7 +2826,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174046-12-54-1a407018",
       "targetLexeme": "there is no information on this",
       "sourceContext": "NOT GIVEN if there is no information on this",
       "phase1Inference": {
@@ -1827,10 +2842,20 @@
           "information on (a topic)"
         ],
         "wordForms": {
-          "noun": [{ "form": "information", "meaning": "thông tin" }],
-          "verb": [{ "form": "inform", "meaning": "thông báo" }],
-          "adjective": null,
-          "adverb": null
+          "noun": [
+            {
+              "form": "information",
+              "meaning": "thông tin"
+            }
+          ],
+          "verb": [
+            {
+              "form": "inform",
+              "meaning": "thông báo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1839,7 +2864,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174046-12-55-2f0c9316",
       "targetLexeme": "people than predicted",
       "sourceContext": "More people than predicted travelled on the Metropolitan line on the first day.",
       "phase1Inference": {
@@ -1857,16 +2882,36 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "prediction", "meaning": "sự dự đoán" },
-            { "form": "predictor", "meaning": "yếu tố dự đoán" }
+            {
+              "form": "prediction",
+              "meaning": "sự dự đoán"
+            },
+            {
+              "form": "predictor",
+              "meaning": "yếu tố dự đoán"
+            }
           ],
-          "verb": [{ "form": "predict", "meaning": "dự đoán" }],
+          "verb": [
+            {
+              "form": "predict",
+              "meaning": "dự đoán"
+            }
+          ],
           "adjective": [
-            { "form": "predicted", "meaning": "được dự đoán" },
-            { "form": "predictable", "meaning": "có thể đoán trước" }
+            {
+              "form": "predicted",
+              "meaning": "được dự đoán"
+            },
+            {
+              "form": "predictable",
+              "meaning": "có thể đoán trước"
+            }
           ],
           "adverb": [
-            { "form": "predictably", "meaning": "(một cách) có thể đoán" }
+            {
+              "form": "predictably",
+              "meaning": "(một cách) có thể đoán"
+            }
           ]
         }
       },
@@ -1876,7 +2921,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174046-12-56-49761a7d",
       "targetLexeme": "failed to prevent pollution",
       "sourceContext": "The use of ventilation shafts failed to prevent pollution in the tunnels.",
       "phase1Inference": {
@@ -1895,20 +2940,44 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "failure", "meaning": "sự thất bại" },
-            { "form": "prevention", "meaning": "sự ngăn chặn" },
-            { "form": "pollution", "meaning": "sự ô nhiễm" }
+            {
+              "form": "failure",
+              "meaning": "sự thất bại"
+            },
+            {
+              "form": "prevention",
+              "meaning": "sự ngăn chặn"
+            },
+            {
+              "form": "pollution",
+              "meaning": "sự ô nhiễm"
+            }
           ],
           "verb": [
-            { "form": "fail", "meaning": "thất bại" },
-            { "form": "prevent", "meaning": "ngăn chặn" },
-            { "form": "pollute", "meaning": "gây ô nhiễm" }
+            {
+              "form": "fail",
+              "meaning": "thất bại"
+            },
+            {
+              "form": "prevent",
+              "meaning": "ngăn chặn"
+            },
+            {
+              "form": "pollute",
+              "meaning": "gây ô nhiễm"
+            }
           ],
           "adjective": [
-            { "form": "preventive", "meaning": "có tính phòng ngừa" },
-            { "form": "polluted", "meaning": "bị ô nhiễm" }
+            {
+              "form": "preventive",
+              "meaning": "có tính phòng ngừa"
+            },
+            {
+              "form": "polluted",
+              "meaning": "bị ô nhiễm"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1917,7 +2986,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174046-12-57-18655edd",
       "targetLexeme": "A different approach from",
       "sourceContext": "A different approach from the 'cut and cover' technique was required...",
       "phase1Inference": {
@@ -1935,16 +3004,36 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "approach", "meaning": "cách tiếp cận" },
-            { "form": "difference", "meaning": "sự khác biệt" }
+            {
+              "form": "approach",
+              "meaning": "cách tiếp cận"
+            },
+            {
+              "form": "difference",
+              "meaning": "sự khác biệt"
+            }
           ],
           "verb": [
-            { "form": "approach", "meaning": "tiếp cận" },
-            { "form": "differ", "meaning": "khác biệt" }
+            {
+              "form": "approach",
+              "meaning": "tiếp cận"
+            },
+            {
+              "form": "differ",
+              "meaning": "khác biệt"
+            }
           ],
-          "adjective": [{ "form": "different", "meaning": "khác biệt" }],
+          "adjective": [
+            {
+              "form": "different",
+              "meaning": "khác biệt"
+            }
+          ],
           "adverb": [
-            { "form": "differently", "meaning": "(một cách) khác biệt" }
+            {
+              "form": "differently",
+              "meaning": "(một cách) khác biệt"
+            }
           ]
         }
       },
@@ -1954,7 +3043,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174046-12-58-47c53b08",
       "targetLexeme": "at eye level",
       "sourceContext": "The windows on City & South London trains were at eye level.",
       "phase1Inference": {
@@ -1965,15 +3054,29 @@
         "sentiment": "neutral",
         "definitionEN": "At the same height as a person's eyes",
         "translationVI": "Ở ngang tầm mắt",
-        "relatedCollocates": ["above/below eye level", "eye-level (adj)"],
+        "relatedCollocates": [
+          "above/below eye level",
+          "eye-level (adj)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "eye", "meaning": "mắt" },
-            { "form": "level", "meaning": "mức, tầm" }
+            {
+              "form": "eye",
+              "meaning": "mắt"
+            },
+            {
+              "form": "level",
+              "meaning": "mức, tầm"
+            }
           ],
-          "verb": null,
-          "adjective": [{ "form": "eye-level", "meaning": "ngang tầm mắt" }],
-          "adverb": null
+          "verb": [],
+          "adjective": [
+            {
+              "form": "eye-level",
+              "meaning": "ngang tầm mắt"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1982,7 +3085,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174046-12-59-3547858a",
       "targetLexeme": "was a financial success",
       "sourceContext": "The City & South London Railway was a financial success.",
       "phase1Inference": {
@@ -2001,20 +3104,44 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "success", "meaning": "sự thành công" },
-            { "form": "finance", "meaning": "tài chính" }
+            {
+              "form": "success",
+              "meaning": "sự thành công"
+            },
+            {
+              "form": "finance",
+              "meaning": "tài chính"
+            }
           ],
           "verb": [
-            { "form": "succeed", "meaning": "thành công" },
-            { "form": "finance", "meaning": "cấp vốn" }
+            {
+              "form": "succeed",
+              "meaning": "thành công"
+            },
+            {
+              "form": "finance",
+              "meaning": "cấp vốn"
+            }
           ],
           "adjective": [
-            { "form": "successful", "meaning": "thành công" },
-            { "form": "financial", "meaning": "thuộc tài chính" }
+            {
+              "form": "successful",
+              "meaning": "thành công"
+            },
+            {
+              "form": "financial",
+              "meaning": "thuộc tài chính"
+            }
           ],
           "adverb": [
-            { "form": "successfully", "meaning": "(một cách) thành công" },
-            { "form": "financially", "meaning": "(về mặt) tài chính" }
+            {
+              "form": "successfully",
+              "meaning": "(một cách) thành công"
+            },
+            {
+              "form": "financially",
+              "meaning": "(về mặt) tài chính"
+            }
           ]
         }
       },
@@ -2024,7 +3151,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174046-12-60-58b62d64",
       "targetLexeme": "ran on time",
       "sourceContext": "Trains on the 'Tuppenny Tube' nearly always ran on time.",
       "phase1Inference": {
@@ -2035,12 +3162,26 @@
         "sentiment": "positive",
         "definitionEN": "To operate according to the schedule; to not be late",
         "translationVI": "Chạy đúng giờ",
-        "relatedCollocates": ["arrive on time", "be late", "on schedule"],
+        "relatedCollocates": [
+          "arrive on time",
+          "be late",
+          "on schedule"
+        ],
         "wordForms": {
-          "noun": [{ "form": "time", "meaning": "thời gian" }],
-          "verb": [{ "form": "run (past: ran)", "meaning": "chạy, vận hành" }],
-          "adjective": null,
-          "adverb": null
+          "noun": [
+            {
+              "form": "time",
+              "meaning": "thời gian"
+            }
+          ],
+          "verb": [
+            {
+              "form": "run (past: ran)",
+              "meaning": "chạy, vận hành"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2048,5 +3189,11 @@
         "content": "It's important for the public transport system that buses and trains run on time."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.046Z",
+    "version": "2.0",
+    "originalCount": 61,
+    "migratedCount": 61
+  }
 }

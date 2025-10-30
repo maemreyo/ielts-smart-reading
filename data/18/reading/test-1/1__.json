@@ -1,10 +1,10 @@
 {
   "logTitle": "IELTS Reading Log: Urban farming",
   "sourceId": "Reading Passage (Image)",
-  "totalItems": 83,
+  "totalItems": 123,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174076-24-0-1b46feb5",
       "targetLexeme": "a soil-free approach",
       "sourceContext": "In Paris, urban farmers are trying a soil-free approach to agriculture that uses less space and fewer resources.",
       "phase1Inference": {
@@ -15,10 +15,25 @@
         "sentiment": "neutral",
         "definitionEN": "A method of farming or gardening that does not use soil",
         "translationVI": "Phương pháp không dùng đất",
-        "relatedCollocates": ["hydroponics (synonym)", "aeroponics (synonym)"],
+        "relatedCollocates": [
+          "hydroponics (synonym)",
+          "aeroponics (synonym)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "approach", "meaning": "phương pháp" }],
-          "adjective": [{ "form": "soil-free", "meaning": "không có đất" }]
+          "noun": [
+            {
+              "form": "approach",
+              "meaning": "phương pháp"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "soil-free",
+              "meaning": "không có đất"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -27,7 +42,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174076-24-1-42827f0b",
       "targetLexeme": "fewer resources",
       "sourceContext": "...that uses less space and fewer resources.",
       "phase1Inference": {
@@ -38,9 +53,20 @@
         "sentiment": "positive",
         "definitionEN": "A smaller amount of assets such as water, energy, or materials",
         "translationVI": "Ít tài nguyên hơn",
-        "relatedCollocates": ["conserve (resources)", "natural (resources)"],
+        "relatedCollocates": [
+          "conserve (resources)",
+          "natural (resources)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "resource", "meaning": "tài nguyên" }]
+          "noun": [
+            {
+              "form": "resource",
+              "meaning": "tài nguyên"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -49,7 +75,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174076-24-2-2f86ac1c",
       "targetLexeme": "face the threats",
       "sourceContext": "Could it help cities face the threats to our food supplies?",
       "phase1Inference": {
@@ -60,10 +86,25 @@
         "sentiment": "neutral",
         "definitionEN": "To confront or deal with dangers or risks",
         "translationVI": "Đối mặt với những mối đe dọa",
-        "relatedCollocates": ["pose (a threat)", "confront (a threat)"],
+        "relatedCollocates": [
+          "pose (a threat)",
+          "confront (a threat)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "face", "meaning": "đối mặt" }],
-          "noun": [{ "form": "threat", "meaning": "mối đe dọa" }]
+          "noun": [
+            {
+              "form": "threat",
+              "meaning": "mối đe dọa"
+            }
+          ],
+          "verb": [
+            {
+              "form": "face",
+              "meaning": "đối mặt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -72,7 +113,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174076-24-3-376948a3",
       "targetLexeme": "food supplies",
       "sourceContext": "...threats to our food supplies?",
       "phase1Inference": {
@@ -83,9 +124,20 @@
         "sentiment": "neutral",
         "definitionEN": "The stock of food available to a community or country",
         "translationVI": "Nguồn cung cấp thực phẩm",
-        "relatedCollocates": ["food (shortage)", "supply chain (n)"],
+        "relatedCollocates": [
+          "food (shortage)",
+          "supply chain (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "supply", "meaning": "sự cung cấp" }]
+          "noun": [
+            {
+              "form": "supply",
+              "meaning": "sự cung cấp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -94,7 +146,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174076-24-4-6550040c",
       "targetLexeme": "a striking new exhibition hall",
       "sourceContext": "On top of a striking new exhibition hall in southern Paris...",
       "phase1Inference": {
@@ -105,10 +157,25 @@
         "sentiment": "positive",
         "definitionEN": "A visually impressive and recently built large room or building for public events and displays",
         "translationVI": "Một khu triển lãm mới nổi bật",
-        "relatedCollocates": ["striking (architecture)", "exhibition (centre)"],
+        "relatedCollocates": [
+          "striking (architecture)",
+          "exhibition (centre)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "striking", "meaning": "nổi bật" }],
-          "noun": [{ "form": "exhibition hall", "meaning": "khu triển lãm" }]
+          "noun": [
+            {
+              "form": "exhibition hall",
+              "meaning": "khu triển lãm"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "striking",
+              "meaning": "nổi bật"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -117,7 +184,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174076-24-5-77914ce1",
       "targetLexeme": "urban rooftop farm",
       "sourceContext": "...the world’s largest urban rooftop farm has started to bear fruit.",
       "phase1Inference": {
@@ -128,9 +195,20 @@
         "sentiment": "neutral",
         "definitionEN": "A farm located on the roof of a building in a city",
         "translationVI": "Nông trại đô thị trên sân thượng",
-        "relatedCollocates": ["rooftop (garden)", "urban (agriculture)"],
+        "relatedCollocates": [
+          "rooftop (garden)",
+          "urban (agriculture)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "farm", "meaning": "nông trại" }]
+          "noun": [
+            {
+              "form": "farm",
+              "meaning": "nông trại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -139,7 +217,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174076-24-6-1e2ef3c9",
       "targetLexeme": "bear fruit",
       "sourceContext": "...has started to bear fruit.",
       "phase1Inference": {
@@ -150,9 +228,20 @@
         "sentiment": "positive",
         "definitionEN": "To produce fruit; to yield successful results",
         "translationVI": "Đơm hoa kết trái, mang lại kết quả",
-        "relatedCollocates": ["efforts (bear fruit)", "come to fruition"],
+        "relatedCollocates": [
+          "efforts (bear fruit)",
+          "come to fruition"
+        ],
         "wordForms": {
-          "verb": [{ "form": "bear", "meaning": "mang, sinh sản" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "bear",
+              "meaning": "mang, sinh sản"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -161,7 +250,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174076-24-7-749eb937",
       "targetLexeme": "intensely flavoured",
       "sourceContext": "Strawberries that are small, intensely flavoured and resplendently red sprout abundantly from large plastic tubes.",
       "phase1Inference": {
@@ -172,10 +261,25 @@
         "sentiment": "positive",
         "definitionEN": "Having a very strong and concentrated taste",
         "translationVI": "Có hương vị đậm đà",
-        "relatedCollocates": ["intensely (aromatic)", "richly (flavoured)"],
+        "relatedCollocates": [
+          "intensely (aromatic)",
+          "richly (flavoured)"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "intensely", "meaning": "mãnh liệt, đậm" }],
-          "adjective": [{ "form": "flavoured", "meaning": "có hương vị" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "flavoured",
+              "meaning": "có hương vị"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "intensely",
+              "meaning": "mãnh liệt, đậm"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -184,7 +288,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174076-24-8-3ef7a659",
       "targetLexeme": "resplendently red",
       "sourceContext": "...and resplendently red sprout abundantly from large plastic tubes.",
       "phase1Inference": {
@@ -195,9 +299,20 @@
         "sentiment": "positive",
         "definitionEN": "Shining brilliantly; having a very bright and splendid red color",
         "translationVI": "Đỏ rực rỡ",
-        "relatedCollocates": ["brightly (coloured)", "vibrantly (red)"],
+        "relatedCollocates": [
+          "brightly (coloured)",
+          "vibrantly (red)"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "resplendently", "meaning": "rực rỡ" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "resplendently",
+              "meaning": "rực rỡ"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -206,7 +321,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174076-24-9-73c1415e",
       "targetLexeme": "sprout abundantly",
       "sourceContext": "...sprout abundantly from large plastic tubes.",
       "phase1Inference": {
@@ -217,10 +332,25 @@
         "sentiment": "positive",
         "definitionEN": "To grow in large quantities",
         "translationVI": "Mọc lên nhiều",
-        "relatedCollocates": ["grow (abundantly)", "plentiful (adj)"],
+        "relatedCollocates": [
+          "grow (abundantly)",
+          "plentiful (adj)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "sprout", "meaning": "nảy mầm" }],
-          "adverb": [{ "form": "abundantly", "meaning": "dồi dào" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "sprout",
+              "meaning": "nảy mầm"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "abundantly",
+              "meaning": "dồi dào"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -229,7 +359,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174076-24-10-1f26e491",
       "targetLexeme": "completely hollow",
       "sourceContext": "Peer inside and you see the tubes are completely hollow...",
       "phase1Inference": {
@@ -240,10 +370,25 @@
         "sentiment": "neutral",
         "definitionEN": "Entirely empty inside",
         "translationVI": "Hoàn toàn rỗng",
-        "relatedCollocates": ["hollow (tube)", "empty (inside)"],
+        "relatedCollocates": [
+          "hollow (tube)",
+          "empty (inside)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "hollow", "meaning": "rỗng" }],
-          "adverb": [{ "form": "completely", "meaning": "hoàn toàn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "hollow",
+              "meaning": "rỗng"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "completely",
+              "meaning": "hoàn toàn"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -252,7 +397,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174076-24-11-1a4e928b",
       "targetLexeme": "dangling down",
       "sourceContext": "...the roots of dozens of strawberry plants dangling down inside them.",
       "phase1Inference": {
@@ -263,9 +408,20 @@
         "sentiment": "neutral",
         "definitionEN": "Hanging or swinging loosely",
         "translationVI": "Treo lủng lẳng xuống",
-        "relatedCollocates": ["hang (down)", "suspend (from)"],
+        "relatedCollocates": [
+          "hang (down)",
+          "suspend (from)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "dangle", "meaning": "treo lủng lẳng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "dangle",
+              "meaning": "treo lủng lẳng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -274,7 +430,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174076-24-12-27be3d08",
       "targetLexeme": "aromatic herbs",
       "sourceContext": "...near those are aromatic herbs, such as basil, sage and peppermint.",
       "phase1Inference": {
@@ -285,10 +441,25 @@
         "sentiment": "positive",
         "definitionEN": "Plants with a pleasant and distinctive smell, often used in cooking",
         "translationVI": "Các loại rau thơm",
-        "relatedCollocates": ["fresh (herbs)", "culinary (herbs)"],
+        "relatedCollocates": [
+          "fresh (herbs)",
+          "culinary (herbs)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "aromatic", "meaning": "thơm" }],
-          "noun": [{ "form": "herb", "meaning": "rau thơm, thảo mộc" }]
+          "noun": [
+            {
+              "form": "herb",
+              "meaning": "rau thơm, thảo mộc"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "aromatic",
+              "meaning": "thơm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -297,7 +468,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174076-24-13-5251c3d4",
       "targetLexeme": "sustainable development consultant",
       "sourceContext": "Pascal Hardy, an engineer and sustainable development consultant...",
       "phase1Inference": {
@@ -314,9 +485,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "consultant", "meaning": "nhà tư vấn" },
-            { "form": "development", "meaning": "sự phát triển" }
-          ]
+            {
+              "form": "consultant",
+              "meaning": "nhà tư vấn"
+            },
+            {
+              "form": "development",
+              "meaning": "sự phát triển"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -325,7 +505,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174076-24-14-1b2d0945",
       "targetLexeme": "aeroponic growing towers",
       "sourceContext": "...with vertical farming and aeroponic growing towers...",
       "phase1Inference": {
@@ -336,9 +516,20 @@
         "sentiment": "neutral",
         "definitionEN": "Vertical structures for growing plants in an air or mist environment without the use of soil",
         "translationVI": "Tháp trồng cây khí canh",
-        "relatedCollocates": ["vertical (farming)", "hydroponic (systems)"],
+        "relatedCollocates": [
+          "vertical (farming)",
+          "hydroponic (systems)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "tower", "meaning": "tháp" }]
+          "noun": [
+            {
+              "form": "tower",
+              "meaning": "tháp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -347,7 +538,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174076-24-15-4b34089b",
       "targetLexeme": "a couple of football pitches",
       "sourceContext": "...and almost exactly the size of a couple of football pitches.",
       "phase1Inference": {
@@ -358,9 +549,20 @@
         "sentiment": "neutral",
         "definitionEN": "An area of land equivalent to two fields used for playing football",
         "translationVI": "Vài sân bóng đá",
-        "relatedCollocates": ["sports (pitch)", "football (field)"],
+        "relatedCollocates": [
+          "sports (pitch)",
+          "football (field)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "pitch", "meaning": "sân (thể thao)" }]
+          "noun": [
+            {
+              "form": "pitch",
+              "meaning": "sân (thể thao)"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -369,7 +571,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174076-24-16-1950ade9",
       "targetLexeme": "tend it",
       "sourceContext": "...the team of young urban farmers who tend it have picked...",
       "phase1Inference": {
@@ -380,9 +582,20 @@
         "sentiment": "neutral",
         "definitionEN": "To care for something; to look after it",
         "translationVI": "Chăm sóc nó",
-        "relatedCollocates": ["tend (a garden)", "look after (synonym)"],
+        "relatedCollocates": [
+          "tend (a garden)",
+          "look after (synonym)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "tend", "meaning": "chăm sóc" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "tend",
+              "meaning": "chăm sóc"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -391,7 +604,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174076-24-17-37f098e2",
       "targetLexeme": "vast open area",
       "sourceContext": "When the remaining two thirds of the vast open area are in production...",
       "phase1Inference": {
@@ -402,10 +615,25 @@
         "sentiment": "neutral",
         "definitionEN": "A very large, unenclosed space",
         "translationVI": "Khu vực trống rộng lớn",
-        "relatedCollocates": ["vast (expanse)", "wide open (space)"],
+        "relatedCollocates": [
+          "vast (expanse)",
+          "wide open (space)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "vast", "meaning": "rộng lớn" }],
-          "noun": [{ "form": "area", "meaning": "khu vực" }]
+          "noun": [
+            {
+              "form": "area",
+              "meaning": "khu vực"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "vast",
+              "meaning": "rộng lớn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -414,7 +642,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174076-24-18-2da4bb7a",
       "targetLexeme": "in production",
       "sourceContext": "...the vast open area are in production, 20 staff will harvest up to 1,000 kg...",
       "phase1Inference": {
@@ -425,9 +653,20 @@
         "sentiment": "neutral",
         "definitionEN": "Being used for growing crops or manufacturing goods",
         "translationVI": "Đi vào sản xuất, đang được sản xuất",
-        "relatedCollocates": ["mass (production)", "go into (production)"],
+        "relatedCollocates": [
+          "mass (production)",
+          "go into (production)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "production", "meaning": "sự sản xuất" }]
+          "noun": [
+            {
+              "form": "production",
+              "meaning": "sự sản xuất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -436,7 +675,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174076-24-19-5c7a9d70",
       "targetLexeme": "significant practical constraints",
       "sourceContext": "...you’re working with very significant practical constraints, clearly, on what you can do and where.",
       "phase1Inference": {
@@ -447,9 +686,20 @@
         "sentiment": "negative",
         "definitionEN": "Important and real limitations or restrictions",
         "translationVI": "Những hạn chế thực tế đáng kể",
-        "relatedCollocates": ["practical (limitations)", "face (constraints)"],
+        "relatedCollocates": [
+          "practical (limitations)",
+          "face (constraints)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "constraint", "meaning": "sự hạn chế" }]
+          "noun": [
+            {
+              "form": "constraint",
+              "meaning": "sự hạn chế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -458,7 +708,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174076-24-20-4f882533",
       "targetLexeme": "unused space",
       "sourceContext": "But if enough unused space can be developed like this...",
       "phase1Inference": {
@@ -469,9 +719,20 @@
         "sentiment": "neutral",
         "definitionEN": "An area that is not currently being occupied or utilized",
         "translationVI": "Không gian chưa sử dụng",
-        "relatedCollocates": ["empty (space)", "develop (space)"],
+        "relatedCollocates": [
+          "empty (space)",
+          "develop (space)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "unused", "meaning": "chưa được sử dụng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "unused",
+              "meaning": "chưa được sử dụng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -480,7 +741,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174076-24-21-6c69ac21",
       "targetLexeme": "target between 5% and 10% of consumption",
       "sourceContext": "...there’s no reason why you shouldn’t eventually target between 5% and 10% of consumption.",
       "phase1Inference": {
@@ -491,10 +752,25 @@
         "sentiment": "neutral",
         "definitionEN": "To aim to achieve a goal of supplying a certain percentage of the total amount eaten or used",
         "translationVI": "Đặt mục tiêu từ 5% đến 10% lượng tiêu thụ",
-        "relatedCollocates": ["target (a goal)", "food (consumption)"],
+        "relatedCollocates": [
+          "target (a goal)",
+          "food (consumption)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "target", "meaning": "nhắm đến" }],
-          "noun": [{ "form": "consumption", "meaning": "sự tiêu thụ" }]
+          "noun": [
+            {
+              "form": "consumption",
+              "meaning": "sự tiêu thụ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "target",
+              "meaning": "nhắm đến"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -503,7 +779,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174076-24-22-56f76745",
       "targetLexeme": "a real-life showcase",
       "sourceContext": "Perhaps most significantly, however, this is a real-life showcase for the work of Hardy’s flourishing urban agriculture consultancy...",
       "phase1Inference": {
@@ -514,11 +790,20 @@
         "sentiment": "positive",
         "definitionEN": "A setting in which something is displayed to its best advantage in a real-world context",
         "translationVI": "Một buổi trưng bày thực tế",
-        "relatedCollocates": ["a perfect (showcase)", "demonstration (n)"],
+        "relatedCollocates": [
+          "a perfect (showcase)",
+          "demonstration (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "showcase", "meaning": "tủ trưng bày, dịp để thể hiện" }
-          ]
+            {
+              "form": "showcase",
+              "meaning": "tủ trưng bày, dịp để thể hiện"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -527,7 +812,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174076-24-23-4c5f5472",
       "targetLexeme": "flourishing urban agriculture consultancy",
       "sourceContext": "...Hardy’s flourishing urban agriculture consultancy, Agripolis...",
       "phase1Inference": {
@@ -543,10 +828,20 @@
           "management (consultancy)"
         ],
         "wordForms": {
-          "adjective": [
-            { "form": "flourishing", "meaning": "phát triển mạnh" }
+          "noun": [
+            {
+              "form": "consultancy",
+              "meaning": "công ty tư vấn"
+            }
           ],
-          "noun": [{ "form": "consultancy", "meaning": "công ty tư vấn" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "flourishing",
+              "meaning": "phát triển mạnh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -555,7 +850,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174076-24-24-41c8c02a",
       "targetLexeme": "fielding enquiries",
       "sourceContext": "...which is currently fielding enquiries from around the world to design, build and equip a new breed of soil-free inner-city farm.",
       "phase1Inference": {
@@ -566,10 +861,25 @@
         "sentiment": "neutral",
         "definitionEN": "Dealing with or answering a lot of questions or requests for information",
         "translationVI": "Tiếp nhận các yêu cầu",
-        "relatedCollocates": ["field (questions)", "handle (enquiries)"],
+        "relatedCollocates": [
+          "field (questions)",
+          "handle (enquiries)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "field", "meaning": "trả lời, xử lý" }],
-          "noun": [{ "form": "enquiry", "meaning": "câu hỏi, sự yêu cầu" }]
+          "noun": [
+            {
+              "form": "enquiry",
+              "meaning": "câu hỏi, sự yêu cầu"
+            }
+          ],
+          "verb": [
+            {
+              "form": "field",
+              "meaning": "trả lời, xử lý"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -578,7 +888,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174076-24-25-63ff95bc",
       "targetLexeme": "a new breed of",
       "sourceContext": "...a new breed of soil-free inner-city farm.",
       "phase1Inference": {
@@ -589,9 +899,20 @@
         "sentiment": "neutral",
         "definitionEN": "A new type or kind of person or thing",
         "translationVI": "Một loại/giống mới của",
-        "relatedCollocates": ["a new kind of", "a new generation of"],
+        "relatedCollocates": [
+          "a new kind of",
+          "a new generation of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "breed", "meaning": "giống, loài" }]
+          "noun": [
+            {
+              "form": "breed",
+              "meaning": "giống, loài"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -600,7 +921,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174076-24-26-4b861e29",
       "targetLexeme": "inner-city farm",
       "sourceContext": "...soil-free inner-city farm.",
       "phase1Inference": {
@@ -611,9 +932,20 @@
         "sentiment": "neutral",
         "definitionEN": "A farm located in the central part of a city, especially in a poorer area",
         "translationVI": "Trang trại nội thành",
-        "relatedCollocates": ["inner-city (areas)", "urban (farm)"],
+        "relatedCollocates": [
+          "inner-city (areas)",
+          "urban (farm)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "farm", "meaning": "trang trại" }]
+          "noun": [
+            {
+              "form": "farm",
+              "meaning": "trang trại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -622,7 +954,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174076-24-27-49d33d28",
       "targetLexeme": "different pesticides",
       "sourceContext": "...treated with something like 17 different pesticides...",
       "phase1Inference": {
@@ -633,9 +965,20 @@
         "sentiment": "negative",
         "definitionEN": "Various chemical substances used to kill insects and other organisms harmful to cultivated plants",
         "translationVI": "Các loại thuốc trừ sâu khác nhau",
-        "relatedCollocates": ["use (pesticides)", "harmful (pesticides)"],
+        "relatedCollocates": [
+          "use (pesticides)",
+          "harmful (pesticides)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "pesticide", "meaning": "thuốc trừ sâu" }]
+          "noun": [
+            {
+              "form": "pesticide",
+              "meaning": "thuốc trừ sâu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -644,7 +987,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174076-24-28-0b35b7a8",
       "targetLexeme": "intensive farming techniques",
       "sourceContext": "...the intensive farming techniques that produced them are such huge generators of greenhouse gases.",
       "phase1Inference": {
@@ -660,7 +1003,15 @@
           "modern farming (techniques)"
         ],
         "wordForms": {
-          "noun": [{ "form": "technique", "meaning": "kỹ thuật" }]
+          "noun": [
+            {
+              "form": "technique",
+              "meaning": "kỹ thuật"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -669,7 +1020,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174076-24-29-24089145",
       "targetLexeme": "huge generators of greenhouse gases",
       "sourceContext": "...are such huge generators of greenhouse gases.",
       "phase1Inference": {
@@ -686,9 +1037,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "generator", "meaning": "máy phát, nguồn tạo ra" },
-            { "form": "greenhouse gas", "meaning": "khí nhà kính" }
-          ]
+            {
+              "form": "generator",
+              "meaning": "máy phát, nguồn tạo ra"
+            },
+            {
+              "form": "greenhouse gas",
+              "meaning": "khí nhà kính"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -697,7 +1057,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174076-24-30-40a8ed51",
       "targetLexeme": "refrigerated kilometres",
       "sourceContext": "...they’ve travelled an average of 2,000 refrigerated kilometres to my plate...",
       "phase1Inference": {
@@ -708,9 +1068,20 @@
         "sentiment": "negative",
         "definitionEN": "The distance food has travelled in a vehicle kept at a low temperature to prevent spoilage",
         "translationVI": "Kilômét vận chuyển lạnh",
-        "relatedCollocates": ["refrigerated (truck)", "food miles"],
+        "relatedCollocates": [
+          "refrigerated (truck)",
+          "food miles"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "refrigerated", "meaning": "được làm lạnh" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "refrigerated",
+              "meaning": "được làm lạnh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -719,7 +1090,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174076-24-31-79563699",
       "targetLexeme": "withstand such substantial journeys",
       "sourceContext": "...the varieties are selected for their capacity to withstand such substantial journeys...",
       "phase1Inference": {
@@ -730,10 +1101,25 @@
         "sentiment": "neutral",
         "definitionEN": "To be strong enough to endure long and significant trips without being damaged",
         "translationVI": "Chịu được những hành trình dài như vậy",
-        "relatedCollocates": ["withstand (pressure)", "long (journeys)"],
+        "relatedCollocates": [
+          "withstand (pressure)",
+          "long (journeys)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "withstand", "meaning": "chịu đựng" }],
-          "adjective": [{ "form": "substantial", "meaning": "đáng kể, lớn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "withstand",
+              "meaning": "chịu đựng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "substantial",
+              "meaning": "đáng kể, lớn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -742,7 +1128,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174076-24-32-73708549",
       "targetLexeme": "wholesalers and transport companies",
       "sourceContext": "...80% of the price I pay goes to wholesalers and transport companies, not the producers.",
       "phase1Inference": {
@@ -753,12 +1139,24 @@
         "sentiment": "neutral",
         "definitionEN": "Businesses that buy goods in large quantities from producers and sell them to retailers, and businesses that move goods from one place to another",
         "translationVI": "Các nhà bán buôn và công ty vận tải",
-        "relatedCollocates": ["retailers", "logistics (companies)"],
+        "relatedCollocates": [
+          "retailers",
+          "logistics (companies)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "wholesaler", "meaning": "nhà bán buôn" },
-            { "form": "company", "meaning": "công ty" }
-          ]
+            {
+              "form": "wholesaler",
+              "meaning": "nhà bán buôn"
+            },
+            {
+              "form": "company",
+              "meaning": "công ty"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -767,7 +1165,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174076-24-33-4dbd5311",
       "targetLexeme": "enriched with organic nutrients",
       "sourceContext": "...enriched with organic nutrients, pumped around a closed circuit of pipes...",
       "phase1Inference": {
@@ -778,10 +1176,25 @@
         "sentiment": "positive",
         "definitionEN": "Having had natural substances that are necessary for growth and health added to it",
         "translationVI": "Được làm giàu bằng các chất dinh dưỡng hữu cơ",
-        "relatedCollocates": ["nutrient-rich", "organic (fertilizer)"],
+        "relatedCollocates": [
+          "nutrient-rich",
+          "organic (fertilizer)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "enrich", "meaning": "làm giàu" }],
-          "noun": [{ "form": "nutrient", "meaning": "chất dinh dưỡng" }]
+          "noun": [
+            {
+              "form": "nutrient",
+              "meaning": "chất dinh dưỡng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "enrich",
+              "meaning": "làm giàu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -790,7 +1203,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174076-24-34-64cb5ed6",
       "targetLexeme": "a closed circuit of pipes",
       "sourceContext": "...pumped around a closed circuit of pipes, towers and trays...",
       "phase1Inference": {
@@ -801,12 +1214,24 @@
         "sentiment": "neutral",
         "definitionEN": "A complete and continuous path through which something (like water) can flow",
         "translationVI": "Một mạch/vòng tuần hoàn kín của các đường ống",
-        "relatedCollocates": ["circulatory (system)", "water pump"],
+        "relatedCollocates": [
+          "circulatory (system)",
+          "water pump"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "circuit", "meaning": "mạch, chu trình" },
-            { "form": "pipe", "meaning": "ống" }
-          ]
+            {
+              "form": "circuit",
+              "meaning": "mạch, chu trình"
+            },
+            {
+              "form": "pipe",
+              "meaning": "ống"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -815,7 +1240,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174076-24-35-6fb8159d",
       "targetLexeme": "produced up here",
       "sourceContext": "Produce grown using this soil-free method, on the other hand – which relies solely on a small quantity of water, enriched with organic nutrients, pumped around a closed circuit of pipes, towers and trays – is ‘produced up here, and sold locally, just down there.",
       "phase1Inference": {
@@ -826,9 +1251,20 @@
         "sentiment": "neutral",
         "definitionEN": "Grown or made in this high-up location (referring to the rooftop)",
         "translationVI": "Được sản xuất ở trên này",
-        "relatedCollocates": ["locally (produced)", "grown (on-site)"],
+        "relatedCollocates": [
+          "locally (produced)",
+          "grown (on-site)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "produce", "meaning": "sản xuất" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "produce",
+              "meaning": "sản xuất"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -837,7 +1273,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174076-24-36-471ea9d5",
       "targetLexeme": "sold locally",
       "sourceContext": "...and sold locally, just down there.",
       "phase1Inference": {
@@ -848,9 +1284,20 @@
         "sentiment": "positive",
         "definitionEN": "Offered for sale in the immediate area or neighbourhood",
         "translationVI": "Được bán tại địa phương",
-        "relatedCollocates": ["locally (sourced)", "buy (local)"],
+        "relatedCollocates": [
+          "locally (sourced)",
+          "buy (local)"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "locally", "meaning": "tại địa phương" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "locally",
+              "meaning": "tại địa phương"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -859,7 +1306,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174076-24-37-2a151025",
       "targetLexeme": "barely travels at all",
       "sourceContext": "It barely travels at all,’ Hardy says.",
       "phase1Inference": {
@@ -870,10 +1317,25 @@
         "sentiment": "positive",
         "definitionEN": "Travels a very short distance, or almost no distance",
         "translationVI": "Hầu như không di chuyển chút nào",
-        "relatedCollocates": ["hardly (travels)", "short distance"],
+        "relatedCollocates": [
+          "hardly (travels)",
+          "short distance"
+        ],
         "wordForms": {
-          "verb": [{ "form": "travel", "meaning": "di chuyển" }],
-          "adverb": [{ "form": "barely", "meaning": "hầu như không" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "travel",
+              "meaning": "di chuyển"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "barely",
+              "meaning": "hầu như không"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -882,7 +1344,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174076-24-38-5f1c00ff",
       "targetLexeme": "select crop varieties",
       "sourceContext": "‘You can select crop varieties for their flavour, not their resistance to the transport and storage chain...",
       "phase1Inference": {
@@ -893,10 +1355,25 @@
         "sentiment": "neutral",
         "definitionEN": "To choose specific types of cultivated plants to grow",
         "translationVI": "Chọn các giống cây trồng",
-        "relatedCollocates": ["choose (varieties)", "plant (varieties)"],
+        "relatedCollocates": [
+          "choose (varieties)",
+          "plant (varieties)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "select", "meaning": "lựa chọn" }],
-          "noun": [{ "form": "crop variety", "meaning": "giống cây trồng" }]
+          "noun": [
+            {
+              "form": "crop variety",
+              "meaning": "giống cây trồng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "select",
+              "meaning": "lựa chọn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -905,7 +1382,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174076-24-39-44d119e6",
       "targetLexeme": "resistance to the transport and storage chain",
       "sourceContext": "...not their resistance to the transport and storage chain...",
       "phase1Inference": {
@@ -916,9 +1393,20 @@
         "sentiment": "neutral",
         "definitionEN": "The ability to withstand the process of being moved and kept before being sold, without being damaged",
         "translationVI": "Khả năng chống chịu với chuỗi vận chuyển và lưu trữ",
-        "relatedCollocates": ["supply chain (n)", "resistance to (disease)"],
+        "relatedCollocates": [
+          "supply chain (n)",
+          "resistance to (disease)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "resistance", "meaning": "sự chống cự" }]
+          "noun": [
+            {
+              "form": "resistance",
+              "meaning": "sự chống cự"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -927,7 +1415,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174076-24-40-43b1755b",
       "targetLexeme": "at their best",
       "sourceContext": "...and you can pick them when they’re really at their best, and not before.’",
       "phase1Inference": {
@@ -938,9 +1426,20 @@
         "sentiment": "positive",
         "definitionEN": "At the peak of quality, freshness, or ripeness",
         "translationVI": "Ở trạng thái tốt nhất",
-        "relatedCollocates": ["at its peak", "in prime condition"],
+        "relatedCollocates": [
+          "at its peak",
+          "in prime condition"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "best", "meaning": "tốt nhất" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "best",
+              "meaning": "tốt nhất"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -949,7 +1448,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174076-24-41-06ebe225",
       "targetLexeme": "soil is exhausted",
       "sourceContext": "No soil is exhausted...",
       "phase1Inference": {
@@ -960,9 +1459,20 @@
         "sentiment": "positive",
         "definitionEN": "The soil is not depleted of its nutrients",
         "translationVI": "Đất không bị kiệt quệ/bạc màu",
-        "relatedCollocates": ["soil (depletion)", "nutrient-poor (soil)"],
+        "relatedCollocates": [
+          "soil (depletion)",
+          "nutrient-poor (soil)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "exhaust", "meaning": "làm cạn kiệt" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "exhaust",
+              "meaning": "làm cạn kiệt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -971,7 +1481,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174076-24-42-1d28b7de",
       "targetLexeme": "gently showers the plants’ roots",
       "sourceContext": "...the water that gently showers the plants’ roots every 12 minutes is recycled...",
       "phase1Inference": {
@@ -982,10 +1492,25 @@
         "sentiment": "neutral",
         "definitionEN": "To spray a light and soft flow of water over the roots of the plants",
         "translationVI": "Tưới nhẹ lên rễ cây",
-        "relatedCollocates": ["gentle (mist)", "water (the roots)"],
+        "relatedCollocates": [
+          "gentle (mist)",
+          "water (the roots)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "shower", "meaning": "tắm, tưới" }],
-          "adverb": [{ "form": "gently", "meaning": "nhẹ nhàng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "shower",
+              "meaning": "tắm, tưới"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "gently",
+              "meaning": "nhẹ nhàng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -994,7 +1519,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174076-24-43-73e43999",
       "targetLexeme": "classic intensive farm",
       "sourceContext": "...so the method uses 90% less water than a classic intensive farm for the same yield.",
       "phase1Inference": {
@@ -1010,7 +1535,15 @@
           "industrial (agriculture)"
         ],
         "wordForms": {
-          "noun": [{ "form": "farm", "meaning": "nông trại" }]
+          "noun": [
+            {
+              "form": "farm",
+              "meaning": "nông trại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1019,7 +1552,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174076-24-44-51523527",
       "targetLexeme": "for the same yield",
       "sourceContext": "...for the same yield.",
       "phase1Inference": {
@@ -1030,9 +1563,20 @@
         "sentiment": "neutral",
         "definitionEN": "Producing an equal amount of crops",
         "translationVI": "Cho cùng một năng suất/sản lượng",
-        "relatedCollocates": ["crop (yield)", "high (yield)"],
+        "relatedCollocates": [
+          "crop (yield)",
+          "high (yield)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "yield", "meaning": "sản lượng" }]
+          "noun": [
+            {
+              "form": "yield",
+              "meaning": "sản lượng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1041,7 +1585,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174076-24-45-503fe357",
       "targetLexeme": "a new phenomenon",
       "sourceContext": "Urban farming is not, of course, a new phenomenon.",
       "phase1Inference": {
@@ -1052,9 +1596,20 @@
         "sentiment": "neutral",
         "definitionEN": "A recent or modern fact or situation that is observed to exist or happen",
         "translationVI": "Một hiện tượng mới",
-        "relatedCollocates": ["recent (phenomenon)", "natural (phenomenon)"],
+        "relatedCollocates": [
+          "recent (phenomenon)",
+          "natural (phenomenon)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "phenomenon", "meaning": "hiện tượng" }]
+          "noun": [
+            {
+              "form": "phenomenon",
+              "meaning": "hiện tượng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1063,7 +1618,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174076-24-46-71a564b9",
       "targetLexeme": "Inner-city agriculture is booming",
       "sourceContext": "Inner-city agriculture is booming from Shanghai to Detroit and Tokyo to Bangkok.",
       "phase1Inference": {
@@ -1074,10 +1629,25 @@
         "sentiment": "positive",
         "definitionEN": "Farming within the central part of a city is growing and becoming very successful",
         "translationVI": "Nông nghiệp nội thành đang bùng nổ",
-        "relatedCollocates": ["business is (booming)", "urban (agriculture)"],
+        "relatedCollocates": [
+          "business is (booming)",
+          "urban (agriculture)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "boom", "meaning": "bùng nổ" }],
-          "noun": [{ "form": "agriculture", "meaning": "nông nghiệp" }]
+          "noun": [
+            {
+              "form": "agriculture",
+              "meaning": "nông nghiệp"
+            }
+          ],
+          "verb": [
+            {
+              "form": "boom",
+              "meaning": "bùng nổ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1086,7 +1656,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174076-24-47-43e1f9ac",
       "targetLexeme": "disused shipping containers",
       "sourceContext": "Strawberries are being grown in disused shipping containers...",
       "phase1Inference": {
@@ -1102,13 +1672,20 @@
           "repurpose (containers)"
         ],
         "wordForms": {
-          "adjective": [{ "form": "disused", "meaning": "bị bỏ đi" }],
           "noun": [
             {
               "form": "shipping container",
               "meaning": "công-ten-nơ vận chuyển"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "disused",
+              "meaning": "bị bỏ đi"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1117,7 +1694,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174076-24-48-7ffc12e5",
       "targetLexeme": "underground carparks",
       "sourceContext": "...mushrooms in underground carparks.",
       "phase1Inference": {
@@ -1128,9 +1705,20 @@
         "sentiment": "neutral",
         "definitionEN": "Parking areas for vehicles that are located below ground level",
         "translationVI": "Bãi đỗ xe ngầm",
-        "relatedCollocates": ["multi-storey (carpark)", "parking garage"],
+        "relatedCollocates": [
+          "multi-storey (carpark)",
+          "parking garage"
+        ],
         "wordForms": {
-          "noun": [{ "form": "carpark", "meaning": "bãi đỗ xe" }]
+          "noun": [
+            {
+              "form": "carpark",
+              "meaning": "bãi đỗ xe"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1139,7 +1727,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174076-24-49-767f97bf",
       "targetLexeme": "is ‘virtuous’",
       "sourceContext": "Aeroponic farming, he says, is ‘virtuous’.",
       "phase1Inference": {
@@ -1150,9 +1738,20 @@
         "sentiment": "positive",
         "definitionEN": "Having or showing high moral standards; good and morally right",
         "translationVI": "Là tốt đẹp, có ích",
-        "relatedCollocates": ["morally (good)", "ethical (adj)"],
+        "relatedCollocates": [
+          "morally (good)",
+          "ethical (adj)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "virtuous", "meaning": "có đạo đức, tốt" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "virtuous",
+              "meaning": "có đạo đức, tốt"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1161,7 +1760,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174076-24-50-657e4ae9",
       "targetLexeme": "weighs little",
       "sourceContext": "The equipment weighs little...",
       "phase1Inference": {
@@ -1172,9 +1771,20 @@
         "sentiment": "positive",
         "definitionEN": "Is not heavy; has a low weight",
         "translationVI": "Nặng không đáng kể, nhẹ",
-        "relatedCollocates": ["lightweight (adj)", "easy to carry"],
+        "relatedCollocates": [
+          "lightweight (adj)",
+          "easy to carry"
+        ],
         "wordForms": {
-          "verb": [{ "form": "weigh", "meaning": "cân nặng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "weigh",
+              "meaning": "cân nặng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1183,7 +1793,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174076-24-51-3fd3c1e3",
       "targetLexeme": "installed on almost any flat surface",
       "sourceContext": "...can be installed on almost any flat surface and is cheap to buy...",
       "phase1Inference": {
@@ -1194,10 +1804,25 @@
         "sentiment": "neutral",
         "definitionEN": "Can be set up or placed for use on nearly any level, even plane",
         "translationVI": "Được lắp đặt trên hầu hết mọi bề mặt phẳng",
-        "relatedCollocates": ["easy to install", "flat (roof)"],
+        "relatedCollocates": [
+          "easy to install",
+          "flat (roof)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "install", "meaning": "lắp đặt" }],
-          "noun": [{ "form": "surface", "meaning": "bề mặt" }]
+          "noun": [
+            {
+              "form": "surface",
+              "meaning": "bề mặt"
+            }
+          ],
+          "verb": [
+            {
+              "form": "install",
+              "meaning": "lắp đặt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1206,7 +1831,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174076-24-52-766e8957",
       "targetLexeme": "cheap to run",
       "sourceContext": "It is lower than cheap to run, too...",
       "phase1Inference": {
@@ -1217,9 +1842,20 @@
         "sentiment": "positive",
         "definitionEN": "Inexpensive to operate or maintain",
         "translationVI": "Rẻ để vận hành",
-        "relatedCollocates": ["low running costs", "economical (adj)"],
+        "relatedCollocates": [
+          "low running costs",
+          "economical (adj)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "run", "meaning": "vận hành" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "run",
+              "meaning": "vận hành"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1228,7 +1864,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174076-24-53-073791a6",
       "targetLexeme": "consuming a tiny fraction of the electricity",
       "sourceContext": "...consuming a tiny fraction of the electricity used by some techniques.",
       "phase1Inference": {
@@ -1239,10 +1875,25 @@
         "sentiment": "positive",
         "definitionEN": "Using a very small part or amount of the electrical power",
         "translationVI": "Tiêu thụ một phần rất nhỏ điện năng",
-        "relatedCollocates": ["energy-efficient", "a fraction of the cost"],
+        "relatedCollocates": [
+          "energy-efficient",
+          "a fraction of the cost"
+        ],
         "wordForms": {
-          "verb": [{ "form": "consume", "meaning": "tiêu thụ" }],
-          "noun": [{ "form": "fraction", "meaning": "phần nhỏ" }]
+          "noun": [
+            {
+              "form": "fraction",
+              "meaning": "phần nhỏ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "consume",
+              "meaning": "tiêu thụ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1251,7 +1902,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174076-24-54-0f410c99",
       "targetLexeme": "sells at prices",
       "sourceContext": "Produce grown this way typically sells at prices that, while generally higher than those of classic intensive agriculture, are lower than soil-based organic growers.",
       "phase1Inference": {
@@ -1262,10 +1913,25 @@
         "sentiment": "neutral",
         "definitionEN": "Is sold for a particular amount of money",
         "translationVI": "Bán với giá",
-        "relatedCollocates": ["retail (price)", "sell for"],
+        "relatedCollocates": [
+          "retail (price)",
+          "sell for"
+        ],
         "wordForms": {
-          "verb": [{ "form": "sell", "meaning": "bán" }],
-          "noun": [{ "form": "price", "meaning": "giá cả" }]
+          "noun": [
+            {
+              "form": "price",
+              "meaning": "giá cả"
+            }
+          ],
+          "verb": [
+            {
+              "form": "sell",
+              "meaning": "bán"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1274,7 +1940,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174076-24-55-5ed66579",
       "targetLexeme": "soil-based organic growers",
       "sourceContext": "...are lower than soil-based organic growers.",
       "phase1Inference": {
@@ -1285,9 +1951,20 @@
         "sentiment": "neutral",
         "definitionEN": "Farmers who grow crops in soil according to organic principles",
         "translationVI": "Người trồng hữu cơ trên đất",
-        "relatedCollocates": ["organic (farming)", "conventional (growers)"],
+        "relatedCollocates": [
+          "organic (farming)",
+          "conventional (growers)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "grower", "meaning": "người trồng" }]
+          "noun": [
+            {
+              "form": "grower",
+              "meaning": "người trồng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1296,7 +1973,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174076-24-56-471d3272",
       "targetLexeme": "There are limits to",
       "sourceContext": "There are limits to what farmers can grow this way, of course...",
       "phase1Inference": {
@@ -1307,9 +1984,20 @@
         "sentiment": "neutral",
         "definitionEN": "There is a point beyond which something is not possible or permitted",
         "translationVI": "Có những giới hạn đối với",
-        "relatedCollocates": ["set (limits)", "within the limits of"],
+        "relatedCollocates": [
+          "set (limits)",
+          "within the limits of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "limit", "meaning": "giới hạn" }]
+          "noun": [
+            {
+              "form": "limit",
+              "meaning": "giới hạn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1318,7 +2006,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174076-24-57-7eb6d873",
       "targetLexeme": "suited to the summer months",
       "sourceContext": "...and much of the produce is suited to the summer months.",
       "phase1Inference": {
@@ -1329,9 +2017,20 @@
         "sentiment": "neutral",
         "definitionEN": "Is appropriate for or adapted to the warmest season of the year",
         "translationVI": "Phù hợp với những tháng hè",
-        "relatedCollocates": ["well-suited for", "seasonal (produce)"],
+        "relatedCollocates": [
+          "well-suited for",
+          "seasonal (produce)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "suited", "meaning": "phù hợp" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "suited",
+              "meaning": "phù hợp"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1340,7 +2039,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174076-24-58-380493d5",
       "targetLexeme": "Root vegetables",
       "sourceContext": "‘Root vegetables we cannot do, at least not yet,’ he says.",
       "phase1Inference": {
@@ -1351,9 +2050,20 @@
         "sentiment": "neutral",
         "definitionEN": "Vegetables where the main edible part is the root of the plant, such as carrots, potatoes, and radishes",
         "translationVI": "Các loại rau củ",
-        "relatedCollocates": ["leafy greens", "starchy (vegetables)"],
+        "relatedCollocates": [
+          "leafy greens",
+          "starchy (vegetables)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "vegetable", "meaning": "rau" }]
+          "noun": [
+            {
+              "form": "vegetable",
+              "meaning": "rau"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1362,7 +2072,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174076-24-59-351db8db",
       "targetLexeme": "at least not yet",
       "sourceContext": "‘Root vegetables we cannot do, at least not yet,’ he says.",
       "phase1Inference": {
@@ -1373,9 +2083,20 @@
         "sentiment": "neutral",
         "definitionEN": "Not at the present time, but possibly in the future",
         "translationVI": "Ít nhất là chưa",
-        "relatedCollocates": ["not for now", "maybe later"],
+        "relatedCollocates": [
+          "not for now",
+          "maybe later"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "yet", "meaning": "chưa" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "yet",
+              "meaning": "chưa"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1384,7 +2105,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174076-24-60-151a767d",
       "targetLexeme": "the roots are obviously not an option",
       "sourceContext": "‘Radishes are OK, but carrots, potatoes, that kind of thing – the roots are obviously not an option.",
       "phase1Inference": {
@@ -1395,10 +2116,25 @@
         "sentiment": "negative",
         "definitionEN": "It is clear that the root part of the plant is not a possible choice",
         "translationVI": "Rễ/củ rõ ràng không phải là một lựa chọn",
-        "relatedCollocates": ["not a viable option", "out of the question"],
+        "relatedCollocates": [
+          "not a viable option",
+          "out of the question"
+        ],
         "wordForms": {
-          "noun": [{ "form": "option", "meaning": "lựa chọn" }],
-          "adverb": [{ "form": "obviously", "meaning": "rõ ràng" }]
+          "noun": [
+            {
+              "form": "option",
+              "meaning": "lựa chọn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "obviously",
+              "meaning": "rõ ràng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1407,7 +2143,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174076-24-61-757fc3dc",
       "targetLexeme": "Fruit trees are obviously not an option",
       "sourceContext": "Fruit trees are obviously not an option.",
       "phase1Inference": {
@@ -1418,9 +2154,20 @@
         "sentiment": "negative",
         "definitionEN": "It is clear that trees which bear fruit are not a possible choice",
         "translationVI": "Cây ăn quả rõ ràng không phải là một lựa chọn",
-        "relatedCollocates": ["not feasible", "impractical"],
+        "relatedCollocates": [
+          "not feasible",
+          "impractical"
+        ],
         "wordForms": {
-          "noun": [{ "form": "fruit tree", "meaning": "cây ăn quả" }]
+          "noun": [
+            {
+              "form": "fruit tree",
+              "meaning": "cây ăn quả"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1429,7 +2176,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174076-24-62-6cfe0bb7",
       "targetLexeme": "tend to take up a lot of space",
       "sourceContext": "And beans tend to take up a lot of space for not much return.’",
       "phase1Inference": {
@@ -1440,12 +2187,24 @@
         "sentiment": "neutral",
         "definitionEN": "Usually occupy a large area",
         "translationVI": "Có xu hướng chiếm nhiều không gian",
-        "relatedCollocates": ["space-consuming", "occupy (space)"],
+        "relatedCollocates": [
+          "space-consuming",
+          "occupy (space)"
+        ],
         "wordForms": {
+          "noun": [],
           "verb": [
-            { "form": "tend", "meaning": "có xu hướng" },
-            { "form": "take up", "meaning": "chiếm" }
-          ]
+            {
+              "form": "tend",
+              "meaning": "có xu hướng"
+            },
+            {
+              "form": "take up",
+              "meaning": "chiếm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1454,7 +2213,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174076-24-63-570a84e5",
       "targetLexeme": "for not much return",
       "sourceContext": "...for not much return.’",
       "phase1Inference": {
@@ -1465,9 +2224,20 @@
         "sentiment": "negative",
         "definitionEN": "In exchange for a small amount of profit or produce",
         "translationVI": "Đổi lại không được bao nhiêu",
-        "relatedCollocates": ["low return on investment", "little reward"],
+        "relatedCollocates": [
+          "low return on investment",
+          "little reward"
+        ],
         "wordForms": {
-          "noun": [{ "form": "return", "meaning": "sự trở lại, lợi nhuận" }]
+          "noun": [
+            {
+              "form": "return",
+              "meaning": "sự trở lại, lợi nhuận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1476,7 +2246,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174076-24-64-46bac109",
       "targetLexeme": "of the kind being practised in Paris",
       "sourceContext": "Nevertheless, urban farming of the kind being practised in Paris is one part of a bigger and fast-changing picture...",
       "phase1Inference": {
@@ -1487,10 +2257,25 @@
         "sentiment": "neutral",
         "definitionEN": "Of the type that is currently being done in Paris",
         "translationVI": "Thuộc loại đang được thực hành ở Paris",
-        "relatedCollocates": ["a type of", "similar to"],
+        "relatedCollocates": [
+          "a type of",
+          "similar to"
+        ],
         "wordForms": {
-          "noun": [{ "form": "kind", "meaning": "loại, kiểu" }],
-          "verb": [{ "form": "practise", "meaning": "thực hành" }]
+          "noun": [
+            {
+              "form": "kind",
+              "meaning": "loại, kiểu"
+            }
+          ],
+          "verb": [
+            {
+              "form": "practise",
+              "meaning": "thực hành"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1499,7 +2284,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174076-24-65-18f299e6",
       "targetLexeme": "a bigger and fast-changing picture",
       "sourceContext": "...is one part of a bigger and fast-changing picture that is bringing food production closer to our lives.",
       "phase1Inference": {
@@ -1510,9 +2295,20 @@
         "sentiment": "neutral",
         "definitionEN": "A larger and rapidly evolving situation or context",
         "translationVI": "Một bức tranh lớn hơn và thay đổi nhanh chóng",
-        "relatedCollocates": ["the bigger picture", "rapidly changing"],
+        "relatedCollocates": [
+          "the bigger picture",
+          "rapidly changing"
+        ],
         "wordForms": {
-          "noun": [{ "form": "picture", "meaning": "bức tranh, tình hình" }]
+          "noun": [
+            {
+              "form": "picture",
+              "meaning": "bức tranh, tình hình"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1521,7 +2317,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "1761813174076-24-66-7f3e5990",
       "targetLexeme": "bringing food production closer to our lives",
       "sourceContext": "...that is bringing food production closer to our lives.",
       "phase1Inference": {
@@ -1532,9 +2328,20 @@
         "sentiment": "positive",
         "definitionEN": "Making the process of growing and creating food more immediate and connected to people's daily existence",
         "translationVI": "Đưa sản xuất thực phẩm đến gần hơn với cuộc sống của chúng ta",
-        "relatedCollocates": ["local food movement", "farm-to-table"],
+        "relatedCollocates": [
+          "local food movement",
+          "farm-to-table"
+        ],
         "wordForms": {
-          "verb": [{ "form": "bring", "meaning": "mang lại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "bring",
+              "meaning": "mang lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1543,7 +2350,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "1761813174076-24-67-57ba343c",
       "targetLexeme": "on the other hand",
       "sourceContext": "Produce grown using this soil-free method, on the other hand...",
       "phase1Inference": {
@@ -1554,9 +2361,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to introduce a contrasting point or fact",
         "translationVI": "Mặt khác, ngược lại",
-        "relatedCollocates": ["in contrast", "however"],
+        "relatedCollocates": [
+          "in contrast",
+          "however"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "on the other hand", "meaning": "mặt khác" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "on the other hand",
+              "meaning": "mặt khác"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1565,7 +2383,7 @@
       }
     },
     {
-      "id": 69,
+      "id": "1761813174076-24-68-70706317",
       "targetLexeme": "relies solely on",
       "sourceContext": "...which relies solely on a small quantity of water...",
       "phase1Inference": {
@@ -1576,10 +2394,25 @@
         "sentiment": "neutral",
         "definitionEN": "To depend exclusively on; to be supported only by",
         "translationVI": "Chỉ dựa vào",
-        "relatedCollocates": ["depend entirely on", "rely on"],
+        "relatedCollocates": [
+          "depend entirely on",
+          "rely on"
+        ],
         "wordForms": {
-          "verb": [{ "form": "rely on", "meaning": "dựa vào" }],
-          "adverb": [{ "form": "solely", "meaning": "duy nhất" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "rely on",
+              "meaning": "dựa vào"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "solely",
+              "meaning": "duy nhất"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1588,7 +2421,7 @@
       }
     },
     {
-      "id": 70,
+      "id": "1761813174076-24-69-31016fe3",
       "targetLexeme": "a small quantity of water",
       "sourceContext": "...relies solely on a small quantity of water...",
       "phase1Inference": {
@@ -1599,9 +2432,20 @@
         "sentiment": "neutral",
         "definitionEN": "A little amount of water",
         "translationVI": "Một lượng nước nhỏ",
-        "relatedCollocates": ["a small amount of", "a limited quantity"],
+        "relatedCollocates": [
+          "a small amount of",
+          "a limited quantity"
+        ],
         "wordForms": {
-          "noun": [{ "form": "quantity", "meaning": "số lượng" }]
+          "noun": [
+            {
+              "form": "quantity",
+              "meaning": "số lượng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1610,7 +2454,7 @@
       }
     },
     {
-      "id": 71,
+      "id": "1761813174076-24-70-180f7c2a",
       "targetLexeme": "nevertheless",
       "sourceContext": "Nevertheless, urban farming of the kind being practised in Paris...",
       "phase1Inference": {
@@ -1621,9 +2465,20 @@
         "sentiment": "neutral",
         "definitionEN": "In spite of that; however",
         "translationVI": "Tuy nhiên",
-        "relatedCollocates": ["however", "nonetheless"],
+        "relatedCollocates": [
+          "however",
+          "nonetheless"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "nevertheless", "meaning": "tuy nhiên" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "nevertheless",
+              "meaning": "tuy nhiên"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1632,7 +2487,7 @@
       }
     },
     {
-      "id": 72,
+      "id": "1761813174076-24-71-34acc9fe",
       "targetLexeme": "horizontal trays",
       "sourceContext": "Opposite, in narrow, horizontal trays packed not with soil but with coconut fibre, grow cherry tomatoes, shiny aubergines and brightly coloured chards.",
       "phase1Inference": {
@@ -1643,10 +2498,25 @@
         "sentiment": "neutral",
         "definitionEN": "Flat receptacles with a raised edge, used for holding things, that are parallel to the ground",
         "translationVI": "Các khay nằm ngang",
-        "relatedCollocates": ["vertical (tubes)", "seedling (trays)"],
+        "relatedCollocates": [
+          "vertical (tubes)",
+          "seedling (trays)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "horizontal", "meaning": "nằm ngang" }],
-          "noun": [{ "form": "tray", "meaning": "cái khay" }]
+          "noun": [
+            {
+              "form": "tray",
+              "meaning": "cái khay"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "horizontal",
+              "meaning": "nằm ngang"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1655,7 +2525,7 @@
       }
     },
     {
-      "id": 73,
+      "id": "1761813174076-24-72-127b51e7",
       "targetLexeme": "coconut fibre",
       "sourceContext": "...packed not with soil but with coconut fibre...",
       "phase1Inference": {
@@ -1666,9 +2536,20 @@
         "sentiment": "neutral",
         "definitionEN": "A natural fiber extracted from the husk of coconut",
         "translationVI": "Xơ dừa",
-        "relatedCollocates": ["coir (synonym)", "natural (fibre)"],
+        "relatedCollocates": [
+          "coir (synonym)",
+          "natural (fibre)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "fibre", "meaning": "sợi, xơ" }]
+          "noun": [
+            {
+              "form": "fibre",
+              "meaning": "sợi, xơ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1677,7 +2558,7 @@
       }
     },
     {
-      "id": 74,
+      "id": "1761813174076-24-73-44dadfc0",
       "targetLexeme": "brightly coloured chards",
       "sourceContext": "...shiny aubergines and brightly coloured chards.",
       "phase1Inference": {
@@ -1688,12 +2569,25 @@
         "sentiment": "positive",
         "definitionEN": "A leafy green vegetable with large stalks of vivid and varied colors",
         "translationVI": "Cải cầu vồng màu sắc sặc sỡ",
-        "relatedCollocates": ["vibrantly (coloured)", "leafy greens"],
+        "relatedCollocates": [
+          "vibrantly (coloured)",
+          "leafy greens"
+        ],
         "wordForms": {
-          "adjective": [
-            { "form": "brightly coloured", "meaning": "có màu sắc sặc sỡ" }
+          "noun": [
+            {
+              "form": "chard",
+              "meaning": "cải cầu vồng"
+            }
           ],
-          "noun": [{ "form": "chard", "meaning": "cải cầu vồng" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "brightly coloured",
+              "meaning": "có màu sắc sặc sỡ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1702,7 +2596,7 @@
       }
     },
     {
-      "id": 75,
+      "id": "1761813174076-24-74-533af603",
       "targetLexeme": "experimenting with",
       "sourceContext": "...began experimenting with vertical farming and aeroponic growing towers...",
       "phase1Inference": {
@@ -1713,9 +2607,20 @@
         "sentiment": "neutral",
         "definitionEN": "Trying out new ideas, methods, or activities in order to see what effect they have",
         "translationVI": "Thử nghiệm với",
-        "relatedCollocates": ["experiment (on)", "try out"],
+        "relatedCollocates": [
+          "experiment (on)",
+          "try out"
+        ],
         "wordForms": {
-          "verb": [{ "form": "experiment", "meaning": "thí nghiệm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "experiment",
+              "meaning": "thí nghiệm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1724,7 +2629,7 @@
       }
     },
     {
-      "id": 76,
+      "id": "1761813174076-24-75-5e619dfc",
       "targetLexeme": "apartment block roof",
       "sourceContext": "...on his Paris apartment block roof five years ago.",
       "phase1Inference": {
@@ -1735,9 +2640,20 @@
         "sentiment": "neutral",
         "definitionEN": "The top surface of a large building containing multiple residential units",
         "translationVI": "Mái nhà của khu chung cư",
-        "relatedCollocates": ["rooftop (garden)", "block of flats"],
+        "relatedCollocates": [
+          "rooftop (garden)",
+          "block of flats"
+        ],
         "wordForms": {
-          "noun": [{ "form": "apartment block", "meaning": "khu chung cư" }]
+          "noun": [
+            {
+              "form": "apartment block",
+              "meaning": "khu chung cư"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1746,7 +2662,7 @@
       }
     },
     {
-      "id": 77,
+      "id": "1761813174076-24-76-4f4c182a",
       "targetLexeme": "somewhat bigger",
       "sourceContext": "The urban rooftop space above the exhibition hall is somewhat bigger...",
       "phase1Inference": {
@@ -1757,9 +2673,20 @@
         "sentiment": "neutral",
         "definitionEN": "A little larger; slightly bigger",
         "translationVI": "Hơi lớn hơn",
-        "relatedCollocates": ["slightly (bigger)", "a bit (larger)"],
+        "relatedCollocates": [
+          "slightly (bigger)",
+          "a bit (larger)"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "somewhat", "meaning": "hơi, một chút" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "somewhat",
+              "meaning": "hơi, một chút"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1768,7 +2695,7 @@
       }
     },
     {
-      "id": 78,
+      "id": "1761813174076-24-77-14284da0",
       "targetLexeme": "punnets of strawberries",
       "sourceContext": "...3,000 lettuces and 150 punnets of strawberries.",
       "phase1Inference": {
@@ -1779,9 +2706,20 @@
         "sentiment": "neutral",
         "definitionEN": "Small, lightweight containers, typically made of plastic or cardboard, used for selling fruit like strawberries",
         "translationVI": "Hộp dâu tây",
-        "relatedCollocates": ["a basket of", "a box of"],
+        "relatedCollocates": [
+          "a basket of",
+          "a box of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "punnet", "meaning": "hộp nhỏ (đựng trái cây)" }]
+          "noun": [
+            {
+              "form": "punnet",
+              "meaning": "hộp nhỏ (đựng trái cây)"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1790,7 +2728,7 @@
       }
     },
     {
-      "id": 79,
+      "id": "1761813174076-24-78-469eb274",
       "targetLexeme": "feed the whole city",
       "sourceContext": "‘We’re not ever, obviously, going to feed the whole city this way,’ cautions Hardy.",
       "phase1Inference": {
@@ -1801,9 +2739,20 @@
         "sentiment": "neutral",
         "definitionEN": "To provide enough food for the entire population of a city",
         "translationVI": "Nuôi sống cả thành phố",
-        "relatedCollocates": ["feed the population", "food security"],
+        "relatedCollocates": [
+          "feed the population",
+          "food security"
+        ],
         "wordForms": {
-          "verb": [{ "form": "feed", "meaning": "cho ăn, nuôi sống" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "feed",
+              "meaning": "cho ăn, nuôi sống"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1812,7 +2761,7 @@
       }
     },
     {
-      "id": 80,
+      "id": "1761813174076-24-79-7828262d",
       "targetLexeme": "urban environment",
       "sourceContext": "‘In the urban environment you’re working with very significant practical constraints...",
       "phase1Inference": {
@@ -1823,9 +2772,20 @@
         "sentiment": "neutral",
         "definitionEN": "The setting of a city or town",
         "translationVI": "Môi trường đô thị",
-        "relatedCollocates": ["urban (setting)", "city (environment)"],
+        "relatedCollocates": [
+          "urban (setting)",
+          "city (environment)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "environment", "meaning": "môi trường" }]
+          "noun": [
+            {
+              "form": "environment",
+              "meaning": "môi trường"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1834,7 +2794,7 @@
       }
     },
     {
-      "id": 81,
+      "id": "1761813174076-24-80-04d9f24b",
       "targetLexeme": "quality is so poor",
       "sourceContext": "...their quality is so poor, because the varieties are selected for their capacity to withstand such substantial journeys...",
       "phase1Inference": {
@@ -1845,10 +2805,25 @@
         "sentiment": "negative",
         "definitionEN": "The standard is very low; of a low grade",
         "translationVI": "Chất lượng quá kém",
-        "relatedCollocates": ["poor (quality)", "low (standard)"],
+        "relatedCollocates": [
+          "poor (quality)",
+          "low (standard)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "quality", "meaning": "chất lượng" }],
-          "adjective": [{ "form": "poor", "meaning": "kém, nghèo" }]
+          "noun": [
+            {
+              "form": "quality",
+              "meaning": "chất lượng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "poor",
+              "meaning": "kém, nghèo"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1857,7 +2832,7 @@
       }
     },
     {
-      "id": 82,
+      "id": "1761813174076-24-81-1873257a",
       "targetLexeme": "capacity to withstand",
       "sourceContext": "...selected for their capacity to withstand such substantial journeys...",
       "phase1Inference": {
@@ -1868,10 +2843,25 @@
         "sentiment": "neutral",
         "definitionEN": "The ability or power to endure or resist something without being damaged",
         "translationVI": "Khả năng chịu đựng",
-        "relatedCollocates": ["ability to (withstand)", "resist (pressure)"],
+        "relatedCollocates": [
+          "ability to (withstand)",
+          "resist (pressure)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "capacity", "meaning": "năng lực, sức chứa" }],
-          "verb": [{ "form": "withstand", "meaning": "chịu đựng" }]
+          "noun": [
+            {
+              "form": "capacity",
+              "meaning": "năng lực, sức chứa"
+            }
+          ],
+          "verb": [
+            {
+              "form": "withstand",
+              "meaning": "chịu đựng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1880,7 +2870,7 @@
       }
     },
     {
-      "id": 83,
+      "id": "1761813174076-24-82-55ac7414",
       "targetLexeme": "the producers",
       "sourceContext": "...not the producers.",
       "phase1Inference": {
@@ -1891,9 +2881,20 @@
         "sentiment": "neutral",
         "definitionEN": "The people or companies that grow or make goods to be sold; the farmers",
         "translationVI": "Những người sản xuất",
-        "relatedCollocates": ["farmers", "manufacturers"],
+        "relatedCollocates": [
+          "farmers",
+          "manufacturers"
+        ],
         "wordForms": {
-          "noun": [{ "form": "producer", "meaning": "nhà sản xuất" }]
+          "noun": [
+            {
+              "form": "producer",
+              "meaning": "nhà sản xuất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1902,7 +2903,7 @@
       }
     },
     {
-      "id": 84,
+      "id": "1761813174076-24-83-0fbe462b",
       "targetLexeme": "urban farmers",
       "sourceContext": "In Paris, urban farmers are trying a soil-free approach to agriculture that uses less space and fewer resources.",
       "phase1Inference": {
@@ -1913,9 +2914,20 @@
         "sentiment": "neutral",
         "definitionEN": "People who cultivate, process, and distribute food in or around a city.",
         "translationVI": "Nông dân đô thị",
-        "relatedCollocates": ["urban (gardening)", "city (farming)"],
+        "relatedCollocates": [
+          "urban (gardening)",
+          "city (farming)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "farmer", "meaning": "nông dân" }]
+          "noun": [
+            {
+              "form": "farmer",
+              "meaning": "nông dân"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1924,7 +2936,7 @@
       }
     },
     {
-      "id": 85,
+      "id": "1761813174076-24-84-5ac6a957",
       "targetLexeme": "on top of",
       "sourceContext": "On top of a striking new exhibition hall in southern Paris, the world’s largest urban rooftop farm has started to bear fruit.",
       "phase1Inference": {
@@ -1935,9 +2947,15 @@
         "sentiment": "neutral",
         "definitionEN": "Situated on the highest surface of something.",
         "translationVI": "Trên đỉnh của",
-        "relatedCollocates": ["above", "on the roof of"],
+        "relatedCollocates": [
+          "above",
+          "on the roof of"
+        ],
         "wordForms": {
-          "preposition": [{ "form": "on top of", "meaning": "trên đỉnh của" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1946,7 +2964,7 @@
       }
     },
     {
-      "id": 86,
+      "id": "1761813174076-24-85-313a0d58",
       "targetLexeme": "peer inside",
       "sourceContext": "Peer inside and you see the tubes are completely hollow, the roots of dozens of strawberry plants dangling down inside them.",
       "phase1Inference": {
@@ -1957,9 +2975,20 @@
         "sentiment": "neutral",
         "definitionEN": "To look closely or with difficulty into something.",
         "translationVI": "Nhìn vào bên trong",
-        "relatedCollocates": ["look inside", "peek inside"],
+        "relatedCollocates": [
+          "look inside",
+          "peek inside"
+        ],
         "wordForms": {
-          "verb": [{ "form": "peer", "meaning": "nhìn kỹ, nhòm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "peer",
+              "meaning": "nhìn kỹ, nhòm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1968,7 +2997,7 @@
       }
     },
     {
-      "id": 87,
+      "id": "1761813174076-24-86-72af5f7b",
       "targetLexeme": "row upon row of",
       "sourceContext": "From identical vertical tubes nearby burst row upon row of lettuces...",
       "phase1Inference": {
@@ -1979,9 +3008,20 @@
         "sentiment": "neutral",
         "definitionEN": "A large number of rows of something.",
         "translationVI": "Hàng hàng, lớp lớp",
-        "relatedCollocates": ["lines of", "endless rows of"],
+        "relatedCollocates": [
+          "lines of",
+          "endless rows of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "row", "meaning": "hàng" }]
+          "noun": [
+            {
+              "form": "row",
+              "meaning": "hàng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1990,7 +3030,7 @@
       }
     },
     {
-      "id": 88,
+      "id": "1761813174076-24-87-15f21ff2",
       "targetLexeme": "packed with",
       "sourceContext": "Opposite, in narrow, horizontal trays packed not with soil but with coconut fibre...",
       "phase1Inference": {
@@ -2001,9 +3041,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be completely full of something.",
         "translationVI": "Chứa đầy, nhét đầy",
-        "relatedCollocates": ["filled with", "crammed with"],
+        "relatedCollocates": [
+          "filled with",
+          "crammed with"
+        ],
         "wordForms": {
-          "verb": [{ "form": "pack", "meaning": "đóng gói, nhồi nhét" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "pack",
+              "meaning": "đóng gói, nhồi nhét"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2012,7 +3063,7 @@
       }
     },
     {
-      "id": 89,
+      "id": "1761813174076-24-88-644ba47f",
       "targetLexeme": "vertical farming",
       "sourceContext": "...began experimenting with vertical farming and aeroponic growing towers...",
       "phase1Inference": {
@@ -2023,9 +3074,20 @@
         "sentiment": "neutral",
         "definitionEN": "The practice of growing crops in vertically stacked layers.",
         "translationVI": "Canh tác theo chiều dọc",
-        "relatedCollocates": ["indoor farming", "urban agriculture"],
+        "relatedCollocates": [
+          "indoor farming",
+          "urban agriculture"
+        ],
         "wordForms": {
-          "noun": [{ "form": "farming", "meaning": "canh tác" }]
+          "noun": [
+            {
+              "form": "farming",
+              "meaning": "canh tác"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2034,7 +3096,7 @@
       }
     },
     {
-      "id": 90,
+      "id": "1761813174076-24-89-2a9d3782",
       "targetLexeme": "remaining two thirds",
       "sourceContext": "When the remaining two thirds of the vast open area are in production...",
       "phase1Inference": {
@@ -2045,9 +3107,20 @@
         "sentiment": "neutral",
         "definitionEN": "The part that is still left, constituting two out of three equal parts of a whole.",
         "translationVI": "Hai phần ba còn lại",
-        "relatedCollocates": ["the rest of", "the remainder"],
+        "relatedCollocates": [
+          "the rest of",
+          "the remainder"
+        ],
         "wordForms": {
-          "noun": [{ "form": "third", "meaning": "một phần ba" }]
+          "noun": [
+            {
+              "form": "third",
+              "meaning": "một phần ba"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2056,7 +3129,7 @@
       }
     },
     {
-      "id": 91,
+      "id": "1761813174076-24-90-478dd535",
       "targetLexeme": "harvest up to",
       "sourceContext": "...20 staff will harvest up to 1,000 kg of perhaps 35 different varieties of fruit and vegetables, every day.",
       "phase1Inference": {
@@ -2067,9 +3140,20 @@
         "sentiment": "neutral",
         "definitionEN": "To gather a crop of a particular amount, reaching a maximum of that amount.",
         "translationVI": "Thu hoạch tới",
-        "relatedCollocates": ["yield up to", "produce as much as"],
+        "relatedCollocates": [
+          "yield up to",
+          "produce as much as"
+        ],
         "wordForms": {
-          "verb": [{ "form": "harvest", "meaning": "thu hoạch" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "harvest",
+              "meaning": "thu hoạch"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2078,7 +3162,7 @@
       }
     },
     {
-      "id": 92,
+      "id": "1761813174076-24-91-333f874e",
       "targetLexeme": "cautions",
       "sourceContext": "‘We’re not ever, obviously, going to feed the whole city this way,’ cautions Hardy.",
       "phase1Inference": {
@@ -2089,10 +3173,25 @@
         "sentiment": "neutral",
         "definitionEN": "To say something as a warning.",
         "translationVI": "Cảnh báo, lưu ý",
-        "relatedCollocates": ["warns", "advises"],
+        "relatedCollocates": [
+          "warns",
+          "advises"
+        ],
         "wordForms": {
-          "verb": [{ "form": "caution", "meaning": "cảnh báo" }],
-          "noun": [{ "form": "caution", "meaning": "sự thận trọng" }]
+          "noun": [
+            {
+              "form": "caution",
+              "meaning": "sự thận trọng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "caution",
+              "meaning": "cảnh báo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2101,7 +3200,7 @@
       }
     },
     {
-      "id": 93,
+      "id": "1761813174076-24-92-56951d88",
       "targetLexeme": "no reason why",
       "sourceContext": "...there’s no reason why you shouldn’t eventually target between 5% and 10% of consumption.",
       "phase1Inference": {
@@ -2112,9 +3211,20 @@
         "sentiment": "positive",
         "definitionEN": "Used to say that there is nothing to prevent something from happening or being true.",
         "translationVI": "Không có lý do gì",
-        "relatedCollocates": ["it makes sense to", "it's logical that"],
+        "relatedCollocates": [
+          "it makes sense to",
+          "it's logical that"
+        ],
         "wordForms": {
-          "noun": [{ "form": "reason", "meaning": "lý do" }]
+          "noun": [
+            {
+              "form": "reason",
+              "meaning": "lý do"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2123,7 +3233,7 @@
       }
     },
     {
-      "id": 94,
+      "id": "1761813174076-24-93-2f09458f",
       "targetLexeme": "eventually",
       "sourceContext": "...there’s no reason why you shouldn’t eventually target between 5% and 10% of consumption.",
       "phase1Inference": {
@@ -2134,9 +3244,21 @@
         "sentiment": "neutral",
         "definitionEN": "In the end, especially after a long delay, dispute, or series of problems.",
         "translationVI": "Cuối cùng, rốt cuộc",
-        "relatedCollocates": ["in the end", "finally", "ultimately"],
+        "relatedCollocates": [
+          "in the end",
+          "finally",
+          "ultimately"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "eventually", "meaning": "cuối cùng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "eventually",
+              "meaning": "cuối cùng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2145,7 +3267,7 @@
       }
     },
     {
-      "id": 95,
+      "id": "1761813174076-24-94-5a9b9ccc",
       "targetLexeme": "most significantly",
       "sourceContext": "Perhaps most significantly, however, this is a real-life showcase for the work of Hardy’s flourishing urban agriculture consultancy...",
       "phase1Inference": {
@@ -2156,9 +3278,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to introduce the most important point.",
         "translationVI": "Quan trọng nhất là",
-        "relatedCollocates": ["most importantly", "above all"],
+        "relatedCollocates": [
+          "most importantly",
+          "above all"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "significantly", "meaning": "một cách đáng kể" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "significantly",
+              "meaning": "một cách đáng kể"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2167,7 +3300,7 @@
       }
     },
     {
-      "id": 96,
+      "id": "1761813174076-24-95-449743bd",
       "targetLexeme": "design, build and equip",
       "sourceContext": "...fielding enquiries from around the world to design, build and equip a new breed of soil-free inner-city farm.",
       "phase1Inference": {
@@ -2178,13 +3311,28 @@
         "sentiment": "neutral",
         "definitionEN": "To plan, construct, and provide with the necessary items for a particular purpose.",
         "translationVI": "Thiết kế, xây dựng và trang bị",
-        "relatedCollocates": ["construct and furnish", "plan and outfit"],
+        "relatedCollocates": [
+          "construct and furnish",
+          "plan and outfit"
+        ],
         "wordForms": {
+          "noun": [],
           "verb": [
-            { "form": "design", "meaning": "thiết kế" },
-            { "form": "build", "meaning": "xây dựng" },
-            { "form": "equip", "meaning": "trang bị" }
-          ]
+            {
+              "form": "design",
+              "meaning": "thiết kế"
+            },
+            {
+              "form": "build",
+              "meaning": "xây dựng"
+            },
+            {
+              "form": "equip",
+              "meaning": "trang bị"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2193,7 +3341,7 @@
       }
     },
     {
-      "id": 97,
+      "id": "1761813174076-24-96-19c7c35a",
       "targetLexeme": "treated with",
       "sourceContext": "‘First, I don’t much like the fact that most of the fruit and vegetables we eat have been treated with something like 17 different pesticides...",
       "phase1Inference": {
@@ -2204,9 +3352,20 @@
         "sentiment": "negative",
         "definitionEN": "To be subjected to a chemical or physical process to improve its properties or for preservation.",
         "translationVI": "Được xử lý bằng",
-        "relatedCollocates": ["sprayed with", "processed with"],
+        "relatedCollocates": [
+          "sprayed with",
+          "processed with"
+        ],
         "wordForms": {
-          "verb": [{ "form": "treat", "meaning": "đối xử, xử lý" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "treat",
+              "meaning": "đối xử, xử lý"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2215,7 +3374,7 @@
       }
     },
     {
-      "id": 98,
+      "id": "1761813174076-24-97-38758f48",
       "targetLexeme": "an average of",
       "sourceContext": "I don’t much like the fact, either, that they’ve travelled an average of 2,000 refrigerated kilometres to my plate...",
       "phase1Inference": {
@@ -2226,9 +3385,21 @@
         "sentiment": "neutral",
         "definitionEN": "A number expressing the central or typical value in a set of data.",
         "translationVI": "Trung bình",
-        "relatedCollocates": ["on average", "around", "approximately"],
+        "relatedCollocates": [
+          "on average",
+          "around",
+          "approximately"
+        ],
         "wordForms": {
-          "noun": [{ "form": "average", "meaning": "trung bình" }]
+          "noun": [
+            {
+              "form": "average",
+              "meaning": "trung bình"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2237,7 +3408,7 @@
       }
     },
     {
-      "id": 99,
+      "id": "1761813174076-24-98-2ddb7a4e",
       "targetLexeme": "goes to",
       "sourceContext": "...that 80% of the price I pay goes to wholesalers and transport companies, not the producers.’",
       "phase1Inference": {
@@ -2248,9 +3419,20 @@
         "sentiment": "neutral",
         "definitionEN": "Is given to or spent on someone or something.",
         "translationVI": "Đi đến, thuộc về",
-        "relatedCollocates": ["is allocated to", "is paid to"],
+        "relatedCollocates": [
+          "is allocated to",
+          "is paid to"
+        ],
         "wordForms": {
-          "verb": [{ "form": "go", "meaning": "đi" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "go",
+              "meaning": "đi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2259,7 +3441,7 @@
       }
     },
     {
-      "id": 100,
+      "id": "1761813174076-24-99-08f84dce",
       "targetLexeme": "pumped around",
       "sourceContext": "...enriched with organic nutrients, pumped around a closed circuit of pipes, towers and trays...",
       "phase1Inference": {
@@ -2270,9 +3452,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be forced to flow in a circuit or system by a pump.",
         "translationVI": "Được bơm đi khắp",
-        "relatedCollocates": ["circulated around", "sent through"],
+        "relatedCollocates": [
+          "circulated around",
+          "sent through"
+        ],
         "wordForms": {
-          "verb": [{ "form": "pump", "meaning": "bơm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "pump",
+              "meaning": "bơm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2281,7 +3474,7 @@
       }
     },
     {
-      "id": 101,
+      "id": "1761813174076-24-100-31f7eb44",
       "targetLexeme": "storage chain",
       "sourceContext": "...not their resistance to the transport and storage chain...",
       "phase1Inference": {
@@ -2292,12 +3485,24 @@
         "sentiment": "neutral",
         "definitionEN": "The series of facilities and processes used for keeping and preserving goods.",
         "translationVI": "Chuỗi lưu trữ",
-        "relatedCollocates": ["supply chain", "cold storage"],
+        "relatedCollocates": [
+          "supply chain",
+          "cold storage"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "storage", "meaning": "sự lưu trữ" },
-            { "form": "chain", "meaning": "chuỗi" }
-          ]
+            {
+              "form": "storage",
+              "meaning": "sự lưu trữ"
+            },
+            {
+              "form": "chain",
+              "meaning": "chuỗi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2306,7 +3511,7 @@
       }
     },
     {
-      "id": 102,
+      "id": "1761813174076-24-101-640ece0c",
       "targetLexeme": "is recycled",
       "sourceContext": "...the water that gently showers the plants’ roots every 12 minutes is recycled...",
       "phase1Inference": {
@@ -2317,9 +3522,20 @@
         "sentiment": "positive",
         "definitionEN": "Is converted into reusable material.",
         "translationVI": "Được tái chế",
-        "relatedCollocates": ["is reused", "is repurposed"],
+        "relatedCollocates": [
+          "is reused",
+          "is repurposed"
+        ],
         "wordForms": {
-          "verb": [{ "form": "recycle", "meaning": "tái chế" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "recycle",
+              "meaning": "tái chế"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2328,7 +3544,7 @@
       }
     },
     {
-      "id": 103,
+      "id": "1761813174076-24-102-6c8128b4",
       "targetLexeme": "90% less water",
       "sourceContext": "...so the method uses 90% less water than a classic intensive farm for the same yield.",
       "phase1Inference": {
@@ -2339,9 +3555,20 @@
         "sentiment": "positive",
         "definitionEN": "An amount of water that is smaller by ninety parts in every hundred.",
         "translationVI": "Ít hơn 90% nước",
-        "relatedCollocates": ["a significant reduction", "water conservation"],
+        "relatedCollocates": [
+          "a significant reduction",
+          "water conservation"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "less", "meaning": "ít hơn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "less",
+              "meaning": "ít hơn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2350,7 +3577,7 @@
       }
     },
     {
-      "id": 104,
+      "id": "1761813174076-24-103-04e7914a",
       "targetLexeme": "from Shanghai to Detroit",
       "sourceContext": "Inner-city agriculture is booming from Shanghai to Detroit and Tokyo to Bangkok.",
       "phase1Inference": {
@@ -2361,11 +3588,15 @@
         "sentiment": "neutral",
         "definitionEN": "An expression used to show that something is happening in many different parts of the world.",
         "translationVI": "Từ Thượng Hải đến Detroit (chỉ sự lan rộng)",
-        "relatedCollocates": ["around the world", "from A to Z"],
+        "relatedCollocates": [
+          "around the world",
+          "from A to Z"
+        ],
         "wordForms": {
-          "preposition": [
-            { "form": "from... to...", "meaning": "từ... đến..." }
-          ]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2374,7 +3605,7 @@
       }
     },
     {
-      "id": 105,
+      "id": "1761813174076-24-104-02cb2f04",
       "targetLexeme": "per square metre",
       "sourceContext": "...roughly €100 to €150 per square metre.",
       "phase1Inference": {
@@ -2385,9 +3616,20 @@
         "sentiment": "neutral",
         "definitionEN": "For each unit of area equal to a square with sides of one metre.",
         "translationVI": "Trên mỗi mét vuông",
-        "relatedCollocates": ["price per unit", "area measurement"],
+        "relatedCollocates": [
+          "price per unit",
+          "area measurement"
+        ],
         "wordForms": {
-          "noun": [{ "form": "square metre", "meaning": "mét vuông" }]
+          "noun": [
+            {
+              "form": "square metre",
+              "meaning": "mét vuông"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2396,7 +3638,7 @@
       }
     },
     {
-      "id": 106,
+      "id": "1761813174076-24-105-1814a7da",
       "targetLexeme": "used by some techniques",
       "sourceContext": "...consuming a tiny fraction of the electricity used by some techniques.",
       "phase1Inference": {
@@ -2407,9 +3649,20 @@
         "sentiment": "neutral",
         "definitionEN": "The amount of power that is utilized by certain methods.",
         "translationVI": "Được sử dụng bởi một số kỹ thuật",
-        "relatedCollocates": ["required by", "employed in"],
+        "relatedCollocates": [
+          "required by",
+          "employed in"
+        ],
         "wordForms": {
-          "verb": [{ "form": "use", "meaning": "sử dụng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "use",
+              "meaning": "sử dụng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2418,7 +3671,7 @@
       }
     },
     {
-      "id": 107,
+      "id": "1761813174076-24-106-22026e50",
       "targetLexeme": "grown this way",
       "sourceContext": "Produce grown this way typically sells at prices that...",
       "phase1Inference": {
@@ -2434,7 +3687,15 @@
           "cultivated like this"
         ],
         "wordForms": {
-          "verb": [{ "form": "grow", "meaning": "trồng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "grow",
+              "meaning": "trồng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2443,7 +3704,7 @@
       }
     },
     {
-      "id": 108,
+      "id": "1761813174076-24-107-481cce5d",
       "targetLexeme": "typically sells",
       "sourceContext": "Produce grown this way typically sells at prices that...",
       "phase1Inference": {
@@ -2454,9 +3715,20 @@
         "sentiment": "neutral",
         "definitionEN": "Usually is sold for a certain price.",
         "translationVI": "Thường được bán",
-        "relatedCollocates": ["generally sells for", "is usually priced at"],
+        "relatedCollocates": [
+          "generally sells for",
+          "is usually priced at"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "typically", "meaning": "thường, điển hình" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "typically",
+              "meaning": "thường, điển hình"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2465,7 +3737,7 @@
       }
     },
     {
-      "id": 109,
+      "id": "1761813174076-24-108-091fc57a",
       "targetLexeme": "while generally higher than",
       "sourceContext": "...prices that, while generally higher than those of classic intensive agriculture, are lower than soil-based organic growers.",
       "phase1Inference": {
@@ -2481,7 +3753,15 @@
           "despite being higher than"
         ],
         "wordForms": {
-          "adverb": [{ "form": "generally", "meaning": "nhìn chung" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "generally",
+              "meaning": "nhìn chung"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2490,7 +3770,7 @@
       }
     },
     {
-      "id": 110,
+      "id": "1761813174076-24-109-274e765a",
       "targetLexeme": "much of the produce",
       "sourceContext": "...and much of the produce is suited to the summer months.",
       "phase1Inference": {
@@ -2506,7 +3786,15 @@
           "a large portion of the harvest"
         ],
         "wordForms": {
-          "noun": [{ "form": "produce", "meaning": "nông sản" }]
+          "noun": [
+            {
+              "form": "produce",
+              "meaning": "nông sản"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2515,7 +3803,7 @@
       }
     },
     {
-      "id": 111,
+      "id": "1761813174076-24-110-30264c40",
       "targetLexeme": "that kind of thing",
       "sourceContext": "‘Radishes are OK, but carrots, potatoes, that kind of thing – the roots are obviously not an option.",
       "phase1Inference": {
@@ -2526,9 +3814,21 @@
         "sentiment": "neutral",
         "definitionEN": "Used to refer to other things of the same type, without being specific.",
         "translationVI": "Những thứ đại loại vậy",
-        "relatedCollocates": ["and so on", "etcetera", "and things like that"],
+        "relatedCollocates": [
+          "and so on",
+          "etcetera",
+          "and things like that"
+        ],
         "wordForms": {
-          "noun": [{ "form": "thing", "meaning": "thứ, vật" }]
+          "noun": [
+            {
+              "form": "thing",
+              "meaning": "thứ, vật"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2537,7 +3837,7 @@
       }
     },
     {
-      "id": 112,
+      "id": "1761813174076-24-111-4c1d226d",
       "targetLexeme": "And beans",
       "sourceContext": "And beans tend to take up a lot of space for not much return.’",
       "phase1Inference": {
@@ -2548,9 +3848,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to introduce an additional point, specifically about beans.",
         "translationVI": "Và các loại đậu",
-        "relatedCollocates": ["As for beans", "Regarding beans"],
+        "relatedCollocates": [
+          "As for beans",
+          "Regarding beans"
+        ],
         "wordForms": {
-          "noun": [{ "form": "bean", "meaning": "đậu, đỗ" }]
+          "noun": [
+            {
+              "form": "bean",
+              "meaning": "đậu, đỗ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2559,7 +3870,7 @@
       }
     },
     {
-      "id": 113,
+      "id": "1761813174076-24-112-6ce1840f",
       "targetLexeme": "one part of",
       "sourceContext": "...urban farming of the kind being practised in Paris is one part of a bigger and fast-changing picture...",
       "phase1Inference": {
@@ -2570,9 +3881,20 @@
         "sentiment": "neutral",
         "definitionEN": "A single piece or element of a larger whole.",
         "translationVI": "Một phần của",
-        "relatedCollocates": ["a component of", "an element of"],
+        "relatedCollocates": [
+          "a component of",
+          "an element of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "part", "meaning": "phần" }]
+          "noun": [
+            {
+              "form": "part",
+              "meaning": "phần"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2581,7 +3903,7 @@
       }
     },
     {
-      "id": 114,
+      "id": "1761813174076-24-113-11ffb1b0",
       "targetLexeme": "fast-changing",
       "sourceContext": "...is one part of a bigger and fast-changing picture that is bringing food production closer to our lives.",
       "phase1Inference": {
@@ -2592,11 +3914,20 @@
         "sentiment": "neutral",
         "definitionEN": "Changing very quickly.",
         "translationVI": "Thay đổi nhanh chóng",
-        "relatedCollocates": ["rapidly evolving", "quickly changing"],
+        "relatedCollocates": [
+          "rapidly evolving",
+          "quickly changing"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "fast-changing", "meaning": "thay đổi nhanh" }
-          ]
+            {
+              "form": "fast-changing",
+              "meaning": "thay đổi nhanh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2605,7 +3936,7 @@
       }
     },
     {
-      "id": 115,
+      "id": "1761813174076-24-114-4e5b0b8c",
       "targetLexeme": "the advantages are many",
       "sourceContext": "‘The method’s advantages are many,’ he says.",
       "phase1Inference": {
@@ -2621,7 +3952,15 @@
           "has many upsides"
         ],
         "wordForms": {
-          "noun": [{ "form": "advantage", "meaning": "lợi thế" }]
+          "noun": [
+            {
+              "form": "advantage",
+              "meaning": "lợi thế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2630,7 +3969,7 @@
       }
     },
     {
-      "id": 116,
+      "id": "1761813174076-24-115-7e5fc044",
       "targetLexeme": "I don’t much like the fact that",
       "sourceContext": "‘First, I don’t much like the fact that most of the fruit and vegetables we eat have been treated with something like 17 different pesticides...",
       "phase1Inference": {
@@ -2641,9 +3980,20 @@
         "sentiment": "negative",
         "definitionEN": "A phrase used to express dislike or disapproval of a particular situation.",
         "translationVI": "Tôi không thích lắm sự thật là",
-        "relatedCollocates": ["I'm not happy about", "it bothers me that"],
+        "relatedCollocates": [
+          "I'm not happy about",
+          "it bothers me that"
+        ],
         "wordForms": {
-          "verb": [{ "form": "like", "meaning": "thích" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "like",
+              "meaning": "thích"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2652,7 +4002,7 @@
       }
     },
     {
-      "id": 117,
+      "id": "1761813174076-24-116-65a75106",
       "targetLexeme": "to my plate",
       "sourceContext": "...they’ve travelled an average of 2,000 refrigerated kilometres to my plate...",
       "phase1Inference": {
@@ -2663,9 +4013,20 @@
         "sentiment": "neutral",
         "definitionEN": "To the point where it is ready to be eaten by the consumer.",
         "translationVI": "Đến đĩa của tôi",
-        "relatedCollocates": ["from farm to table", "on my dinner table"],
+        "relatedCollocates": [
+          "from farm to table",
+          "on my dinner table"
+        ],
         "wordForms": {
-          "noun": [{ "form": "plate", "meaning": "cái đĩa" }]
+          "noun": [
+            {
+              "form": "plate",
+              "meaning": "cái đĩa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2674,7 +4035,7 @@
       }
     },
     {
-      "id": 118,
+      "id": "1761813174076-24-117-5d13c9e7",
       "targetLexeme": "just down there",
       "sourceContext": "...is ‘produced up here, and sold locally, just down there.’",
       "phase1Inference": {
@@ -2685,9 +4046,21 @@
         "sentiment": "neutral",
         "definitionEN": "In a location very close by and at a lower level.",
         "translationVI": "Ngay dưới kia",
-        "relatedCollocates": ["nearby", "close by", "right there"],
+        "relatedCollocates": [
+          "nearby",
+          "close by",
+          "right there"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "down", "meaning": "xuống" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "down",
+              "meaning": "xuống"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2696,7 +4069,7 @@
       }
     },
     {
-      "id": 119,
+      "id": "1761813174076-24-118-082ba477",
       "targetLexeme": "and not before",
       "sourceContext": "...and you can pick them when they’re really at their best, and not before.’",
       "phase1Inference": {
@@ -2707,9 +4080,20 @@
         "sentiment": "neutral",
         "definitionEN": "Emphasizing that something should only happen at that specific time and no earlier.",
         "translationVI": "Và không phải trước đó",
-        "relatedCollocates": ["only then", "at the right moment"],
+        "relatedCollocates": [
+          "only then",
+          "at the right moment"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "before", "meaning": "trước khi" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "before",
+              "meaning": "trước khi"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2718,7 +4102,7 @@
       }
     },
     {
-      "id": 120,
+      "id": "1761813174076-24-119-21221ecf",
       "targetLexeme": "of course",
       "sourceContext": "Urban farming is not, of course, a new phenomenon.",
       "phase1Inference": {
@@ -2729,9 +4113,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to introduce something that is expected or obvious.",
         "translationVI": "Tất nhiên, dĩ nhiên",
-        "relatedCollocates": ["naturally", "obviously"],
+        "relatedCollocates": [
+          "naturally",
+          "obviously"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "of course", "meaning": "tất nhiên" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "of course",
+              "meaning": "tất nhiên"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2740,7 +4135,7 @@
       }
     },
     {
-      "id": 121,
+      "id": "1761813174076-24-120-4e2c8184",
       "targetLexeme": "cheap to buy",
       "sourceContext": "...and is cheap to buy: roughly €100 to €150 per square metre.",
       "phase1Inference": {
@@ -2751,9 +4146,20 @@
         "sentiment": "positive",
         "definitionEN": "Not expensive to purchase.",
         "translationVI": "Rẻ để mua",
-        "relatedCollocates": ["inexpensive", "affordable"],
+        "relatedCollocates": [
+          "inexpensive",
+          "affordable"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "cheap", "meaning": "rẻ" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "cheap",
+              "meaning": "rẻ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2762,7 +4168,7 @@
       }
     },
     {
-      "id": 122,
+      "id": "1761813174076-24-121-4425f809",
       "targetLexeme": "of the kind",
       "sourceContext": "Nevertheless, urban farming of the kind being practised in Paris is one part of a bigger and fast-changing picture...",
       "phase1Inference": {
@@ -2773,9 +4179,20 @@
         "sentiment": "neutral",
         "definitionEN": "Of a particular type or variety.",
         "translationVI": "Thuộc loại, kiểu",
-        "relatedCollocates": ["of the type", "a sort of"],
+        "relatedCollocates": [
+          "of the type",
+          "a sort of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "kind", "meaning": "loại, kiểu" }]
+          "noun": [
+            {
+              "form": "kind",
+              "meaning": "loại, kiểu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2784,7 +4201,7 @@
       }
     },
     {
-      "id": 123,
+      "id": "1761813174076-24-122-346dda8a",
       "targetLexeme": "closer to our lives",
       "sourceContext": "...that is bringing food production closer to our lives.",
       "phase1Inference": {
@@ -2795,9 +4212,20 @@
         "sentiment": "positive",
         "definitionEN": "More connected to and integrated with people's daily existence.",
         "translationVI": "Gần gũi hơn với cuộc sống của chúng ta",
-        "relatedCollocates": ["more relevant to", "more connected with"],
+        "relatedCollocates": [
+          "more relevant to",
+          "more connected with"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "close", "meaning": "gần" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "close",
+              "meaning": "gần"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2805,5 +4233,11 @@
         "content": "The farm-to-table movement aims to bring consumers closer to their food sources."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.076Z",
+    "version": "2.0",
+    "originalCount": 123,
+    "migratedCount": 123
+  }
 }

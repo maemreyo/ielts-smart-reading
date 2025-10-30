@@ -1,10 +1,10 @@
 {
   "logTitle": "IELTS Reading Log: Materials to take us beyond concrete",
   "sourceId": "Reading Passage (Image)",
-  "totalItems": 85,
+  "totalItems": 110,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174091-30-0-6454b2ff",
       "targetLexeme": "bad for the planet",
       "sourceContext": "Concrete is everywhere, but it’s bad for the planet, generating large amounts of carbon dioxide – alternatives are being developed",
       "phase1Inference": {
@@ -20,7 +20,15 @@
           "harmful to the environment"
         ],
         "wordForms": {
-          "adjective": [{ "form": "bad", "meaning": "tồi tệ" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "bad",
+              "meaning": "tồi tệ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -29,7 +37,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174091-30-1-38594b21",
       "targetLexeme": "generating large amounts of carbon dioxide",
       "sourceContext": "...generating large amounts of carbon dioxide – alternatives are being developed",
       "phase1Inference": {
@@ -40,9 +48,20 @@
         "sentiment": "negative",
         "definitionEN": "Producing a significant quantity of the gas CO2, a primary greenhouse gas.",
         "translationVI": "Tạo ra lượng lớn khí carbon dioxide",
-        "relatedCollocates": ["emitting CO2", "producing greenhouse gases"],
+        "relatedCollocates": [
+          "emitting CO2",
+          "producing greenhouse gases"
+        ],
         "wordForms": {
-          "verb": [{ "form": "generate", "meaning": "tạo ra" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "generate",
+              "meaning": "tạo ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -51,7 +70,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174091-30-2-29ff5422",
       "targetLexeme": "second most used substance",
       "sourceContext": "Concrete is the second most used substance in the global economy, after water...",
       "phase1Inference": {
@@ -62,9 +81,20 @@
         "sentiment": "neutral",
         "definitionEN": "The material that is utilized more than any other, with the exception of one.",
         "translationVI": "Chất được sử dụng nhiều thứ hai",
-        "relatedCollocates": ["widely used material", "common substance"],
+        "relatedCollocates": [
+          "widely used material",
+          "common substance"
+        ],
         "wordForms": {
-          "noun": [{ "form": "substance", "meaning": "chất" }]
+          "noun": [
+            {
+              "form": "substance",
+              "meaning": "chất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -73,7 +103,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174091-30-3-4eea464a",
       "targetLexeme": "biggest single sources of greenhouse gas emissions",
       "sourceContext": "...and one of the world’s biggest single sources of greenhouse gas emissions.",
       "phase1Inference": {
@@ -89,7 +119,15 @@
           "significant source of pollution"
         ],
         "wordForms": {
-          "noun": [{ "form": "emission", "meaning": "sự phát thải" }]
+          "noun": [
+            {
+              "form": "emission",
+              "meaning": "sự phát thải"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -98,7 +136,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174091-30-4-37d46c74",
       "targetLexeme": "key ingredient",
       "sourceContext": "The chemical process by which cement, the key ingredient of concrete, is created results in large quantities of carbon dioxide.",
       "phase1Inference": {
@@ -109,9 +147,20 @@
         "sentiment": "neutral",
         "definitionEN": "The most important component of something.",
         "translationVI": "Thành phần chính",
-        "relatedCollocates": ["essential component", "vital part"],
+        "relatedCollocates": [
+          "essential component",
+          "vital part"
+        ],
         "wordForms": {
-          "noun": [{ "form": "ingredient", "meaning": "thành phần" }]
+          "noun": [
+            {
+              "form": "ingredient",
+              "meaning": "thành phần"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -120,7 +169,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174091-30-5-72cb8d02",
       "targetLexeme": "by mid-century",
       "sourceContext": "The UN estimates that there will be 9.8 billion people living on the planet by mid-century.",
       "phase1Inference": {
@@ -131,9 +180,20 @@
         "sentiment": "neutral",
         "definitionEN": "By the middle of the current century (around the year 2050).",
         "translationVI": "Vào giữa thế kỷ",
-        "relatedCollocates": ["by 2050", "in the coming decades"],
+        "relatedCollocates": [
+          "by 2050",
+          "in the coming decades"
+        ],
         "wordForms": {
-          "noun": [{ "form": "century", "meaning": "thế kỷ" }]
+          "noun": [
+            {
+              "form": "century",
+              "meaning": "thế kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -142,7 +202,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174091-30-6-0cb7d9c2",
       "targetLexeme": "carbon emissions will soar",
       "sourceContext": "If concrete is the only answer to the construction of new cities, then carbon emissions will soar, aggravating global warming.",
       "phase1Inference": {
@@ -158,7 +218,15 @@
           "a sharp increase in CO2"
         ],
         "wordForms": {
-          "verb": [{ "form": "soar", "meaning": "tăng vọt" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "soar",
+              "meaning": "tăng vọt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -167,7 +235,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174091-30-7-350ed6b0",
       "targetLexeme": "aggravating global warming",
       "sourceContext": "...then carbon emissions will soar, aggravating global warming.",
       "phase1Inference": {
@@ -183,7 +251,15 @@
           "worsening the problem"
         ],
         "wordForms": {
-          "verb": [{ "form": "aggravate", "meaning": "làm trầm trọng thêm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "aggravate",
+              "meaning": "làm trầm trọng thêm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -192,7 +268,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174091-30-8-366dd37c",
       "targetLexeme": "in a scramble for alternatives",
       "sourceContext": "And so scientists have started innovating with other materials, in a scramble for alternatives to a universal commodity...",
       "phase1Inference": {
@@ -208,7 +284,15 @@
           "a hurried search for substitutes"
         ],
         "wordForms": {
-          "noun": [{ "form": "scramble", "meaning": "cuộc tranh giành" }]
+          "noun": [
+            {
+              "form": "scramble",
+              "meaning": "cuộc tranh giành"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -217,7 +301,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174091-30-9-54f492b1",
       "targetLexeme": "universal commodity",
       "sourceContext": "...alternatives to a universal commodity that has underpinned our modern life for many years.",
       "phase1Inference": {
@@ -228,9 +312,20 @@
         "sentiment": "neutral",
         "definitionEN": "A raw material or primary agricultural product that is used and traded everywhere in the world.",
         "translationVI": "Một mặt hàng phổ biến toàn cầu",
-        "relatedCollocates": ["global commodity", "ubiquitous material"],
+        "relatedCollocates": [
+          "global commodity",
+          "ubiquitous material"
+        ],
         "wordForms": {
-          "noun": [{ "form": "commodity", "meaning": "hàng hóa" }]
+          "noun": [
+            {
+              "form": "commodity",
+              "meaning": "hàng hóa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -239,7 +334,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174091-30-10-44c8fd81",
       "targetLexeme": "underpinned our modern life",
       "sourceContext": "...a universal commodity that has underpinned our modern life for many years.",
       "phase1Inference": {
@@ -250,9 +345,20 @@
         "sentiment": "positive",
         "definitionEN": "To have provided the basis or foundation for our contemporary way of living.",
         "translationVI": "Làm nền tảng cho cuộc sống hiện đại của chúng ta",
-        "relatedCollocates": ["supported", "formed the basis of"],
+        "relatedCollocates": [
+          "supported",
+          "formed the basis of"
+        ],
         "wordForms": {
-          "verb": [{ "form": "underpin", "meaning": "làm nền tảng, chống đỡ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "underpin",
+              "meaning": "làm nền tảng, chống đỡ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -261,7 +367,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174091-30-11-4e5fd375",
       "targetLexeme": "sheer scale of manufacture",
       "sourceContext": "But it is the scale on which it is used that makes it high carbon. The sheer scale of manufacture is so huge, that is the issue.’",
       "phase1Inference": {
@@ -272,9 +378,20 @@
         "sentiment": "neutral",
         "definitionEN": "The extremely large size or extent of the production process.",
         "translationVI": "Quy mô sản xuất khổng lồ",
-        "relatedCollocates": ["vast scale", "immense volume"],
+        "relatedCollocates": [
+          "vast scale",
+          "immense volume"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "sheer", "meaning": "hoàn toàn, tuyệt đối" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "sheer",
+              "meaning": "hoàn toàn, tuyệt đối"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -283,7 +400,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174091-30-12-239d7707",
       "targetLexeme": "found in abundance",
       "sourceContext": "Not only are the ingredients of concrete relatively cheap and found in abundance in most places around the globe...",
       "phase1Inference": {
@@ -294,9 +411,20 @@
         "sentiment": "positive",
         "definitionEN": "To be available in large quantities; plentiful.",
         "translationVI": "Được tìm thấy rất nhiều",
-        "relatedCollocates": ["abundant", "plentiful"],
+        "relatedCollocates": [
+          "abundant",
+          "plentiful"
+        ],
         "wordForms": {
-          "noun": [{ "form": "abundance", "meaning": "sự phong phú" }]
+          "noun": [
+            {
+              "form": "abundance",
+              "meaning": "sự phong phú"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -305,7 +433,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174091-30-13-2fd1256b",
       "targetLexeme": "marvellous properties",
       "sourceContext": "...the stuff itself has marvellous properties: Portland cement, the vital component of concrete, is mouldable and pourable, but quickly sets hard.",
       "phase1Inference": {
@@ -316,9 +444,20 @@
         "sentiment": "positive",
         "definitionEN": "Wonderful or extraordinary characteristics or qualities.",
         "translationVI": "Những đặc tính kỳ diệu",
-        "relatedCollocates": ["amazing qualities", "wonderful characteristics"],
+        "relatedCollocates": [
+          "amazing qualities",
+          "wonderful characteristics"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "marvellous", "meaning": "kỳ diệu" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "marvellous",
+              "meaning": "kỳ diệu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -327,7 +466,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174091-30-14-45e6c63e",
       "targetLexeme": "vital component",
       "sourceContext": "...Portland cement, the vital component of concrete, is mouldable and pourable...",
       "phase1Inference": {
@@ -338,9 +477,20 @@
         "sentiment": "positive",
         "definitionEN": "An absolutely necessary or essential part of something.",
         "translationVI": "Thành phần thiết yếu",
-        "relatedCollocates": ["essential part", "key ingredient"],
+        "relatedCollocates": [
+          "essential part",
+          "key ingredient"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "vital", "meaning": "thiết yếu" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "vital",
+              "meaning": "thiết yếu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -349,7 +499,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174091-30-15-67ad5cd7",
       "targetLexeme": "mouldable and pourable",
       "sourceContext": "...is mouldable and pourable, but quickly sets hard.",
       "phase1Inference": {
@@ -360,12 +510,25 @@
         "sentiment": "positive",
         "definitionEN": "Able to be shaped into a particular form and able to be made to flow in a stream.",
         "translationVI": "Có thể đúc và đổ khuôn",
-        "relatedCollocates": ["pliable", "workable", "liquid"],
+        "relatedCollocates": [
+          "pliable",
+          "workable",
+          "liquid"
+        ],
         "wordForms": {
+          "noun": [],
           "verb": [
-            { "form": "mould", "meaning": "đúc khuôn" },
-            { "form": "pour", "meaning": "rót, đổ" }
-          ]
+            {
+              "form": "mould",
+              "meaning": "đúc khuôn"
+            },
+            {
+              "form": "pour",
+              "meaning": "rót, đổ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -374,7 +537,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174091-30-16-3ea22b36",
       "targetLexeme": "sets hard",
       "sourceContext": "...is mouldable and pourable, but quickly sets hard.",
       "phase1Inference": {
@@ -385,9 +548,20 @@
         "sentiment": "neutral",
         "definitionEN": "To become solid and firm.",
         "translationVI": "Đông cứng lại",
-        "relatedCollocates": ["hardens", "solidifies"],
+        "relatedCollocates": [
+          "hardens",
+          "solidifies"
+        ],
         "wordForms": {
-          "verb": [{ "form": "set", "meaning": "đông lại, đặt" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "set",
+              "meaning": "đông lại, đặt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -396,7 +570,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174091-30-17-488ef4bf",
       "targetLexeme": "thermal expansion properties",
       "sourceContext": "Cheeseman also notes another advantage: concrete and steel have similar thermal expansion properties, so steel can be used to reinforce concrete...",
       "phase1Inference": {
@@ -412,7 +586,15 @@
           "heat expansion"
         ],
         "wordForms": {
-          "noun": [{ "form": "expansion", "meaning": "sự giãn nở" }]
+          "noun": [
+            {
+              "form": "expansion",
+              "meaning": "sự giãn nở"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -421,7 +603,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174091-30-18-189ea066",
       "targetLexeme": "reinforce concrete",
       "sourceContext": "...so steel can be used to reinforce concrete, making it far stronger and more flexible as a building material than it could be on its own.",
       "phase1Inference": {
@@ -432,9 +614,20 @@
         "sentiment": "positive",
         "definitionEN": "To strengthen concrete by embedding steel bars or mesh within it.",
         "translationVI": "Gia cố bê tông",
-        "relatedCollocates": ["reinforced concrete", "strengthen"],
+        "relatedCollocates": [
+          "reinforced concrete",
+          "strengthen"
+        ],
         "wordForms": {
-          "verb": [{ "form": "reinforce", "meaning": "gia cố" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "reinforce",
+              "meaning": "gia cố"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -443,7 +636,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174091-30-19-3009da4d",
       "targetLexeme": "hard to beat",
       "sourceContext": "According to Cheeseman, all these factors together make concrete hard to beat.",
       "phase1Inference": {
@@ -454,9 +647,20 @@
         "sentiment": "positive",
         "definitionEN": "Difficult to surpass or be better than.",
         "translationVI": "Khó bị đánh bại/vượt qua",
-        "relatedCollocates": ["difficult to surpass", "hard to top"],
+        "relatedCollocates": [
+          "difficult to surpass",
+          "hard to top"
+        ],
         "wordForms": {
-          "verb": [{ "form": "beat", "meaning": "đánh bại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "beat",
+              "meaning": "đánh bại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -465,7 +669,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174091-30-20-7dc8c8b2",
       "targetLexeme": "rather medieval idea",
       "sourceContext": "Making buildings from wood may seem like a rather medieval idea, but climate change is driving architects to turn to treated timber as a possible resource.",
       "phase1Inference": {
@@ -476,11 +680,20 @@
         "sentiment": "neutral",
         "definitionEN": "An idea that seems old-fashioned or belonging to the Middle Ages.",
         "translationVI": "Một ý tưởng khá là trung cổ",
-        "relatedCollocates": ["old-fashioned concept", "outdated idea"],
+        "relatedCollocates": [
+          "old-fashioned concept",
+          "outdated idea"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "medieval", "meaning": "thuộc thời trung cổ" }
-          ]
+            {
+              "form": "medieval",
+              "meaning": "thuộc thời trung cổ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -489,7 +702,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174091-30-21-0a7d0ac1",
       "targetLexeme": "driving architects to",
       "sourceContext": "...but climate change is driving architects to turn to treated timber as a possible resource.",
       "phase1Inference": {
@@ -505,7 +718,15 @@
           "pushing professionals to"
         ],
         "wordForms": {
-          "verb": [{ "form": "drive", "meaning": "thúc đẩy" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "drive",
+              "meaning": "thúc đẩy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -514,7 +735,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174091-30-22-0df820bc",
       "targetLexeme": "emergence of",
       "sourceContext": "Recent years have seen the emergence of tall buildings constructed almost entirely from timber.",
       "phase1Inference": {
@@ -525,9 +746,20 @@
         "sentiment": "neutral",
         "definitionEN": "The process of coming into view or becoming prominent.",
         "translationVI": "Sự nổi lên của",
-        "relatedCollocates": ["the appearance of", "the rise of"],
+        "relatedCollocates": [
+          "the appearance of",
+          "the rise of"
+        ],
         "wordForms": {
-          "verb": [{ "form": "emerge", "meaning": "nổi lên" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "emerge",
+              "meaning": "nổi lên"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -536,7 +768,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174091-30-23-2e29f54b",
       "targetLexeme": "not straightforward",
       "sourceContext": "Using wood to construct buildings, however, is not straightforward.",
       "phase1Inference": {
@@ -547,11 +779,21 @@
         "sentiment": "neutral",
         "definitionEN": "Not easy to do or understand; complicated.",
         "translationVI": "Không đơn giản",
-        "relatedCollocates": ["not simple", "complicated", "complex"],
+        "relatedCollocates": [
+          "not simple",
+          "complicated",
+          "complex"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "straightforward", "meaning": "thẳng thắn, đơn giản" }
-          ]
+            {
+              "form": "straightforward",
+              "meaning": "thẳng thắn, đơn giản"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -560,7 +802,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174091-30-24-1b95cbbc",
       "targetLexeme": "absorbs moisture",
       "sourceContext": "Wood expands as it absorbs moisture from the air and is susceptible to pests, not to mention fire.",
       "phase1Inference": {
@@ -571,9 +813,20 @@
         "sentiment": "neutral",
         "definitionEN": "To take in water or other liquid from the surrounding environment.",
         "translationVI": "Hút ẩm",
-        "relatedCollocates": ["soaks up water", "takes in humidity"],
+        "relatedCollocates": [
+          "soaks up water",
+          "takes in humidity"
+        ],
         "wordForms": {
-          "verb": [{ "form": "absorb", "meaning": "hấp thụ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "absorb",
+              "meaning": "hấp thụ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -582,7 +835,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174091-30-25-61158950",
       "targetLexeme": "susceptible to pests",
       "sourceContext": "...and is susceptible to pests, not to mention fire.",
       "phase1Inference": {
@@ -593,9 +846,20 @@
         "sentiment": "negative",
         "definitionEN": "Likely or liable to be influenced or harmed by harmful insects or other animals.",
         "translationVI": "Dễ bị sâu bệnh",
-        "relatedCollocates": ["vulnerable to insects", "prone to infestation"],
+        "relatedCollocates": [
+          "vulnerable to insects",
+          "prone to infestation"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "susceptible", "meaning": "dễ bị ảnh hưởng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "susceptible",
+              "meaning": "dễ bị ảnh hưởng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -604,7 +868,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174091-30-26-26f54987",
       "targetLexeme": "cross-laminated timber",
       "sourceContext": "Cross-laminated timber is engineered wood.",
       "phase1Inference": {
@@ -615,9 +879,20 @@
         "sentiment": "neutral",
         "definitionEN": "A wood panel product made from gluing together layers of solid-sawn lumber, where each layer is oriented perpendicular to the next.",
         "translationVI": "Gỗ dán chéo lớp (CLT)",
-        "relatedCollocates": ["engineered wood", "mass timber"],
+        "relatedCollocates": [
+          "engineered wood",
+          "mass timber"
+        ],
         "wordForms": {
-          "noun": [{ "form": "timber", "meaning": "gỗ xây dựng" }]
+          "noun": [
+            {
+              "form": "timber",
+              "meaning": "gỗ xây dựng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -626,7 +901,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174091-30-27-63f160ce",
       "targetLexeme": "adhesive",
       "sourceContext": "An adhesive is used to stick layers of solid-sawn timber together, crosswise, to form building blocks.",
       "phase1Inference": {
@@ -637,9 +912,20 @@
         "sentiment": "neutral",
         "definitionEN": "A substance used for sticking objects or materials together; glue.",
         "translationVI": "Chất kết dính",
-        "relatedCollocates": ["glue", "bonding agent"],
+        "relatedCollocates": [
+          "glue",
+          "bonding agent"
+        ],
         "wordForms": {
-          "noun": [{ "form": "adhesive", "meaning": "chất kết dính" }]
+          "noun": [
+            {
+              "form": "adhesive",
+              "meaning": "chất kết dính"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -648,7 +934,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174091-30-28-10abe71f",
       "targetLexeme": "solid-sawn timber",
       "sourceContext": "An adhesive is used to stick layers of solid-sawn timber together...",
       "phase1Inference": {
@@ -659,9 +945,20 @@
         "sentiment": "neutral",
         "definitionEN": "Lumber that has been cut from a single log, as opposed to engineered wood products.",
         "translationVI": "Gỗ xẻ nguyên khối",
-        "relatedCollocates": ["lumber", "planks"],
+        "relatedCollocates": [
+          "lumber",
+          "planks"
+        ],
         "wordForms": {
-          "noun": [{ "form": "timber", "meaning": "gỗ xây dựng" }]
+          "noun": [
+            {
+              "form": "timber",
+              "meaning": "gỗ xây dựng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -670,7 +967,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174091-30-29-041c9565",
       "targetLexeme": "at a greater speed",
       "sourceContext": "Construction experts say that wooden buildings can be constructed at a greater speed than ones of concrete and steel...",
       "phase1Inference": {
@@ -681,9 +978,20 @@
         "sentiment": "positive",
         "definitionEN": "More quickly; at a higher rate of movement or action.",
         "translationVI": "Với tốc độ nhanh hơn",
-        "relatedCollocates": ["more quickly", "faster"],
+        "relatedCollocates": [
+          "more quickly",
+          "faster"
+        ],
         "wordForms": {
-          "noun": [{ "form": "speed", "meaning": "tốc độ" }]
+          "noun": [
+            {
+              "form": "speed",
+              "meaning": "tốc độ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -692,7 +1000,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174091-30-30-7920711f",
       "targetLexeme": "key driver",
       "sourceContext": "Markus Mannström reports that the company is seeing increasing demand globally for building in wood, with climate change concerns the key driver.",
       "phase1Inference": {
@@ -703,11 +1011,20 @@
         "sentiment": "neutral",
         "definitionEN": "The most important factor that is causing something to happen or develop.",
         "translationVI": "Yếu tố thúc đẩy chính",
-        "relatedCollocates": ["main factor", "primary motivation"],
+        "relatedCollocates": [
+          "main factor",
+          "primary motivation"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "driver", "meaning": "người lái xe, yếu tố thúc đẩy" }
-          ]
+            {
+              "form": "driver",
+              "meaning": "người lái xe, yếu tố thúc đẩy"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -716,7 +1033,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174091-30-31-3ed48ddd",
       "targetLexeme": "leading the way",
       "sourceContext": "Finland, with its large forests, where Stora Enso is based, has been leading the way...",
       "phase1Inference": {
@@ -727,9 +1044,20 @@
         "sentiment": "positive",
         "definitionEN": "To be the first to do something or to be the most advanced in a particular area.",
         "translationVI": "Dẫn đầu",
-        "relatedCollocates": ["pioneering", "at the forefront"],
+        "relatedCollocates": [
+          "pioneering",
+          "at the forefront"
+        ],
         "wordForms": {
-          "verb": [{ "form": "lead", "meaning": "dẫn dắt" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "lead",
+              "meaning": "dẫn dắt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -738,7 +1066,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174091-30-32-208fa3a7",
       "targetLexeme": "locks away the carbon",
       "sourceContext": "Of course, using timber in a building also locks away the carbon that it absorbed as it grew.",
       "phase1Inference": {
@@ -749,9 +1077,20 @@
         "sentiment": "positive",
         "definitionEN": "To store or sequester carbon, preventing it from being released into the atmosphere.",
         "translationVI": "Khóa carbon lại",
-        "relatedCollocates": ["carbon sequestration", "stores carbon"],
+        "relatedCollocates": [
+          "carbon sequestration",
+          "stores carbon"
+        ],
         "wordForms": {
-          "verb": [{ "form": "lock away", "meaning": "khóa lại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "lock away",
+              "meaning": "khóa lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -760,7 +1099,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174091-30-33-08b188d6",
       "targetLexeme": "proven in practice",
       "sourceContext": "But even treated wood has its limitations and only when a wider range of construction projects has been proven in practice will it be possible to see wood as a real alternative to concrete in constructing tall buildings.",
       "phase1Inference": {
@@ -776,7 +1115,15 @@
           "demonstrated to be effective"
         ],
         "wordForms": {
-          "verb": [{ "form": "prove", "meaning": "chứng minh" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "prove",
+              "meaning": "chứng minh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -785,7 +1132,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174091-30-34-56fd4e7a",
       "targetLexeme": "fly ash",
       "sourceContext": "Fly ash and slag from iron ore are possible alternatives to cement in a concrete mix.",
       "phase1Inference": {
@@ -796,9 +1143,21 @@
         "sentiment": "neutral",
         "definitionEN": "A fine powder that is a byproduct of burning pulverized coal in electric generation power plants.",
         "translationVI": "Tro bay",
-        "relatedCollocates": ["byproduct", "industrial waste", "slag"],
+        "relatedCollocates": [
+          "byproduct",
+          "industrial waste",
+          "slag"
+        ],
         "wordForms": {
-          "noun": [{ "form": "ash", "meaning": "tro" }]
+          "noun": [
+            {
+              "form": "ash",
+              "meaning": "tro"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -807,7 +1166,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174091-30-35-3053e966",
       "targetLexeme": "byproduct of",
       "sourceContext": "Fly ash, a byproduct of coal-burning power plants, can be incorporated into concrete mixes...",
       "phase1Inference": {
@@ -818,9 +1177,20 @@
         "sentiment": "neutral",
         "definitionEN": "An incidental or secondary product made in the manufacture or synthesis of something else.",
         "translationVI": "Sản phẩm phụ của",
-        "relatedCollocates": ["secondary product", "waste product"],
+        "relatedCollocates": [
+          "secondary product",
+          "waste product"
+        ],
         "wordForms": {
-          "noun": [{ "form": "byproduct", "meaning": "sản phẩm phụ" }]
+          "noun": [
+            {
+              "form": "byproduct",
+              "meaning": "sản phẩm phụ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -829,7 +1199,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174091-30-36-401983fc",
       "targetLexeme": "harming the strength or durability",
       "sourceContext": "...to make up as much as 15 to 30% of the cement, without harming the strength or durability of the resulting mix.",
       "phase1Inference": {
@@ -845,7 +1215,15 @@
           "weakening the structure"
         ],
         "wordForms": {
-          "noun": [{ "form": "durability", "meaning": "độ bền" }]
+          "noun": [
+            {
+              "form": "durability",
+              "meaning": "độ bền"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -854,7 +1232,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174091-30-37-22b66350",
       "targetLexeme": "iron-ore slag",
       "sourceContext": "Iron-ore slag, a byproduct of the iron-ore smelting process, can be used in a similar way.",
       "phase1Inference": {
@@ -871,7 +1249,15 @@
           "fly ash"
         ],
         "wordForms": {
-          "noun": [{ "form": "slag", "meaning": "xỉ" }]
+          "noun": [
+            {
+              "form": "slag",
+              "meaning": "xỉ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -880,7 +1266,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174091-30-38-7d6aebeb",
       "targetLexeme": "smelting process",
       "sourceContext": "Iron-ore slag, a byproduct of the iron-ore smelting process, can be used in a similar way.",
       "phase1Inference": {
@@ -891,9 +1277,20 @@
         "sentiment": "neutral",
         "definitionEN": "The process of extracting a metal from its ore by a process involving heating and melting.",
         "translationVI": "Quá trình nấu chảy",
-        "relatedCollocates": ["refining process", "metal extraction"],
+        "relatedCollocates": [
+          "refining process",
+          "metal extraction"
+        ],
         "wordForms": {
-          "verb": [{ "form": "smelt", "meaning": "nấu chảy (kim loại)" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "smelt",
+              "meaning": "nấu chảy (kim loại)"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -902,7 +1299,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174091-30-39-774bb644",
       "targetLexeme": "overall carbon impact",
       "sourceContext": "‘It’s possible to replace the cement content in concrete with waste products to lower the overall carbon impact.",
       "phase1Inference": {
@@ -913,9 +1310,20 @@
         "sentiment": "neutral",
         "definitionEN": "The total amount of carbon dioxide emissions caused by an activity or product over its entire life.",
         "translationVI": "Tác động carbon tổng thể",
-        "relatedCollocates": ["carbon footprint", "life-cycle assessment"],
+        "relatedCollocates": [
+          "carbon footprint",
+          "life-cycle assessment"
+        ],
         "wordForms": {
-          "noun": [{ "form": "impact", "meaning": "tác động" }]
+          "noun": [
+            {
+              "form": "impact",
+              "meaning": "tác động"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -924,7 +1332,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174091-30-40-73d3a27c",
       "targetLexeme": "entire life cycle of the building",
       "sourceContext": "But there are several calculations that need to be considered across the entire life cycle of the building...",
       "phase1Inference": {
@@ -935,9 +1343,20 @@
         "sentiment": "neutral",
         "definitionEN": "The whole sequence of stages in the life of a building, from the extraction of raw materials to its construction, use, and eventual demolition and disposal.",
         "translationVI": "Toàn bộ vòng đời của tòa nhà",
-        "relatedCollocates": ["from cradle to grave", "life-cycle assessment"],
+        "relatedCollocates": [
+          "from cradle to grave",
+          "life-cycle assessment"
+        ],
         "wordForms": {
-          "noun": [{ "form": "life cycle", "meaning": "vòng đời" }]
+          "noun": [
+            {
+              "form": "life cycle",
+              "meaning": "vòng đời"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -946,7 +1365,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174091-30-41-6f0e2c3a",
       "targetLexeme": "factoring in",
       "sourceContext": "...these include factoring in where these materials are being shipped from.",
       "phase1Inference": {
@@ -957,9 +1376,20 @@
         "sentiment": "neutral",
         "definitionEN": "To include something as a relevant element when making a calculation or decision.",
         "translationVI": "Tính đến, kể đến",
-        "relatedCollocates": ["taking into account", "considering"],
+        "relatedCollocates": [
+          "taking into account",
+          "considering"
+        ],
         "wordForms": {
-          "verb": [{ "form": "factor in", "meaning": "tính đến" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "factor in",
+              "meaning": "tính đến"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -968,7 +1398,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174091-30-42-1b12d1cc",
       "targetLexeme": "carbon reduction perspective",
       "sourceContext": "...use of alternative materials might not make sense from an overall carbon reduction perspective.’",
       "phase1Inference": {
@@ -979,9 +1409,20 @@
         "sentiment": "neutral",
         "definitionEN": "A point of view that prioritizes the lowering of carbon dioxide emissions.",
         "translationVI": "Góc độ giảm thiểu carbon",
-        "relatedCollocates": ["point of view", "environmental standpoint"],
+        "relatedCollocates": [
+          "point of view",
+          "environmental standpoint"
+        ],
         "wordForms": {
-          "noun": [{ "form": "perspective", "meaning": "góc nhìn" }]
+          "noun": [
+            {
+              "form": "perspective",
+              "meaning": "góc nhìn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -990,7 +1431,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174091-30-43-5b04cb6b",
       "targetLexeme": "unproven",
       "sourceContext": "While these technologies are all promising ideas, they are either unproven or based on materials that are not abundant.",
       "phase1Inference": {
@@ -1001,9 +1442,20 @@
         "sentiment": "negative",
         "definitionEN": "Not established by evidence or argument; not yet tested in practice.",
         "translationVI": "Chưa được chứng minh",
-        "relatedCollocates": ["untested", "not yet demonstrated"],
+        "relatedCollocates": [
+          "untested",
+          "not yet demonstrated"
+        ],
         "wordForms": {
-          "verb": [{ "form": "prove", "meaning": "chứng minh" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "prove",
+              "meaning": "chứng minh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1012,7 +1464,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174091-30-44-59c8ad8b",
       "targetLexeme": "concrete industry",
       "sourceContext": "In their overview of innovation in the concrete industry, Felix Preston and Johanna Lehne of the UK’s Royal Institute of International Affairs reached the conclusion that...",
       "phase1Inference": {
@@ -1023,9 +1475,20 @@
         "sentiment": "neutral",
         "definitionEN": "The sector of the economy that involves the production, sale, and use of concrete.",
         "translationVI": "Ngành công nghiệp bê tông",
-        "relatedCollocates": ["construction industry", "cement production"],
+        "relatedCollocates": [
+          "construction industry",
+          "cement production"
+        ],
         "wordForms": {
-          "noun": [{ "form": "industry", "meaning": "ngành công nghiệp" }]
+          "noun": [
+            {
+              "form": "industry",
+              "meaning": "ngành công nghiệp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1034,7 +1497,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174091-30-45-760ea883",
       "targetLexeme": "without breaking through",
       "sourceContext": "‘Some novel cements have been discussed for more than a decade within the research community, without breaking through.",
       "phase1Inference": {
@@ -1050,7 +1513,15 @@
           "failing to become mainstream"
         ],
         "wordForms": {
-          "verb": [{ "form": "break through", "meaning": "đột phá" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "break through",
+              "meaning": "đột phá"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1059,7 +1530,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174091-30-46-0ad5825e",
       "targetLexeme": "cost-effective",
       "sourceContext": "At present, these alternatives are rarely as cost-effective as conventional cement...",
       "phase1Inference": {
@@ -1070,9 +1541,20 @@
         "sentiment": "positive",
         "definitionEN": "Effective or productive in relation to its cost.",
         "translationVI": "Hiệu quả về chi phí",
-        "relatedCollocates": ["economical", "good value for money"],
+        "relatedCollocates": [
+          "economical",
+          "good value for money"
+        ],
         "wordForms": {
-          "noun": [{ "form": "cost", "meaning": "chi phí" }]
+          "noun": [
+            {
+              "form": "cost",
+              "meaning": "chi phí"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1081,7 +1563,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174091-30-47-19247280",
       "targetLexeme": "conventional cement",
       "sourceContext": "At present, these alternatives are rarely as cost-effective as conventional cement...",
       "phase1Inference": {
@@ -1092,9 +1574,20 @@
         "sentiment": "neutral",
         "definitionEN": "The standard type of cement that is widely used, typically Portland cement.",
         "translationVI": "Xi măng thông thường",
-        "relatedCollocates": ["Portland cement", "traditional cement"],
+        "relatedCollocates": [
+          "Portland cement",
+          "traditional cement"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "conventional", "meaning": "thông thường" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "conventional",
+              "meaning": "thông thường"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1103,7 +1596,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174091-30-48-421779e1",
       "targetLexeme": "face raw-material shortages",
       "sourceContext": "...and they face raw-material shortages and resistance from customers.’",
       "phase1Inference": {
@@ -1114,9 +1607,20 @@
         "sentiment": "negative",
         "definitionEN": "To be confronted with a situation where there is not enough of the basic material from which a product is made.",
         "translationVI": "Đối mặt với tình trạng thiếu hụt nguyên liệu thô",
-        "relatedCollocates": ["supply shortages", "lack of materials"],
+        "relatedCollocates": [
+          "supply shortages",
+          "lack of materials"
+        ],
         "wordForms": {
-          "noun": [{ "form": "shortage", "meaning": "sự thiếu hụt" }]
+          "noun": [
+            {
+              "form": "shortage",
+              "meaning": "sự thiếu hụt"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1125,7 +1629,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174091-30-49-165ebf07",
       "targetLexeme": "resistance from customers",
       "sourceContext": "...and they face raw-material shortages and resistance from customers.’",
       "phase1Inference": {
@@ -1136,9 +1640,20 @@
         "sentiment": "negative",
         "definitionEN": "A refusal to accept or comply with something new by the people who buy goods or services.",
         "translationVI": "Sự phản kháng từ khách hàng",
-        "relatedCollocates": ["customer reluctance", "consumer opposition"],
+        "relatedCollocates": [
+          "customer reluctance",
+          "consumer opposition"
+        ],
         "wordForms": {
-          "noun": [{ "form": "resistance", "meaning": "sự kháng cự" }]
+          "noun": [
+            {
+              "form": "resistance",
+              "meaning": "sự kháng cự"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1147,7 +1662,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174091-30-50-3771c7ac",
       "targetLexeme": "global economy",
       "sourceContext": "Concrete is the second most used substance in the global economy, after water...",
       "phase1Inference": {
@@ -1158,9 +1673,20 @@
         "sentiment": "neutral",
         "definitionEN": "The worldwide economic system of human activity and exchange.",
         "translationVI": "Nền kinh tế toàn cầu",
-        "relatedCollocates": ["world economy", "international trade"],
+        "relatedCollocates": [
+          "world economy",
+          "international trade"
+        ],
         "wordForms": {
-          "noun": [{ "form": "economy", "meaning": "nền kinh tế" }]
+          "noun": [
+            {
+              "form": "economy",
+              "meaning": "nền kinh tế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1169,7 +1695,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174091-30-51-78598eb5",
       "targetLexeme": "chemical process",
       "sourceContext": "The chemical process by which cement, the key ingredient of concrete, is created results in large quantities of carbon dioxide.",
       "phase1Inference": {
@@ -1180,9 +1706,20 @@
         "sentiment": "neutral",
         "definitionEN": "A method or means of changing one or more chemicals or chemical compounds.",
         "translationVI": "Quá trình hóa học",
-        "relatedCollocates": ["chemical reaction", "industrial process"],
+        "relatedCollocates": [
+          "chemical reaction",
+          "industrial process"
+        ],
         "wordForms": {
-          "noun": [{ "form": "process", "meaning": "quá trình" }]
+          "noun": [
+            {
+              "form": "process",
+              "meaning": "quá trình"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1191,7 +1728,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174091-30-52-2bfaadd1",
       "targetLexeme": "high-carbon",
       "sourceContext": "‘Concrete is not a high-carbon product. Cement is high carbon, but concrete is not.",
       "phase1Inference": {
@@ -1202,11 +1739,20 @@
         "sentiment": "negative",
         "definitionEN": "Involving or producing a large amount of carbon dioxide.",
         "translationVI": "Hàm lượng carbon cao",
-        "relatedCollocates": ["carbon-intensive", "low-carbon (antonym)"],
+        "relatedCollocates": [
+          "carbon-intensive",
+          "low-carbon (antonym)"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "high-carbon", "meaning": "hàm lượng carbon cao" }
-          ]
+            {
+              "form": "high-carbon",
+              "meaning": "hàm lượng carbon cao"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1215,7 +1761,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174091-30-53-64cd109e",
       "targetLexeme": "building material",
       "sourceContext": "...making it far stronger and more flexible as a building material than it could be on its own.",
       "phase1Inference": {
@@ -1226,9 +1772,20 @@
         "sentiment": "neutral",
         "definitionEN": "Any material which is used for construction purposes.",
         "translationVI": "Vật liệu xây dựng",
-        "relatedCollocates": ["construction material", "raw material"],
+        "relatedCollocates": [
+          "construction material",
+          "raw material"
+        ],
         "wordForms": {
-          "noun": [{ "form": "material", "meaning": "vật liệu" }]
+          "noun": [
+            {
+              "form": "material",
+              "meaning": "vật liệu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1237,7 +1794,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174091-30-54-2a9246fc",
       "targetLexeme": "treated timber",
       "sourceContext": "...climate change is driving architects to turn to treated timber as a possible resource.",
       "phase1Inference": {
@@ -1248,9 +1805,20 @@
         "sentiment": "neutral",
         "definitionEN": "Wood that has been subjected to a chemical or physical process to protect it against pests, fire, or moisture.",
         "translationVI": "Gỗ đã qua xử lý",
-        "relatedCollocates": ["pressure-treated wood", "engineered wood"],
+        "relatedCollocates": [
+          "pressure-treated wood",
+          "engineered wood"
+        ],
         "wordForms": {
-          "verb": [{ "form": "treat", "meaning": "xử lý" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "treat",
+              "meaning": "xử lý"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1259,7 +1827,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174091-30-55-58b03a55",
       "targetLexeme": "engineered wood",
       "sourceContext": "Cross-laminated timber is engineered wood.",
       "phase1Inference": {
@@ -1270,9 +1838,20 @@
         "sentiment": "neutral",
         "definitionEN": "A range of derivative wood products which are manufactured by binding or fixing the strands, particles, fibers, or veneers or boards of wood together with adhesives.",
         "translationVI": "Gỗ kỹ thuật",
-        "relatedCollocates": ["composite wood", "cross-laminated timber"],
+        "relatedCollocates": [
+          "composite wood",
+          "cross-laminated timber"
+        ],
         "wordForms": {
-          "verb": [{ "form": "engineer", "meaning": "thiết kế, chế tạo" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "engineer",
+              "meaning": "thiết kế, chế tạo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1281,7 +1860,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174091-30-56-08c1c30a",
       "targetLexeme": "building blocks",
       "sourceContext": "...to form building blocks.",
       "phase1Inference": {
@@ -1292,9 +1871,20 @@
         "sentiment": "neutral",
         "definitionEN": "The basic units from which something is built.",
         "translationVI": "Các khối xây dựng",
-        "relatedCollocates": ["components", "foundational elements"],
+        "relatedCollocates": [
+          "components",
+          "foundational elements"
+        ],
         "wordForms": {
-          "noun": [{ "form": "block", "meaning": "khối" }]
+          "noun": [
+            {
+              "form": "block",
+              "meaning": "khối"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1303,7 +1893,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174091-30-57-7b44727f",
       "targetLexeme": "construction experts",
       "sourceContext": "Construction experts say that wooden buildings can be constructed at a greater speed...",
       "phase1Inference": {
@@ -1314,9 +1904,20 @@
         "sentiment": "neutral",
         "definitionEN": "People with a high level of skill or knowledge in the process of building things.",
         "translationVI": "Các chuyên gia xây dựng",
-        "relatedCollocates": ["building professionals", "engineering experts"],
+        "relatedCollocates": [
+          "building professionals",
+          "engineering experts"
+        ],
         "wordForms": {
-          "noun": [{ "form": "expert", "meaning": "chuyên gia" }]
+          "noun": [
+            {
+              "form": "expert",
+              "meaning": "chuyên gia"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1325,7 +1926,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174091-30-58-3a3cf9c2",
       "targetLexeme": "coal-burning power plants",
       "sourceContext": "Fly ash, a byproduct of coal-burning power plants, can be incorporated into concrete mixes...",
       "phase1Inference": {
@@ -1336,9 +1937,20 @@
         "sentiment": "negative",
         "definitionEN": "Facilities that burn coal to generate electricity.",
         "translationVI": "Các nhà máy điện đốt than",
-        "relatedCollocates": ["fossil fuel plants", "power stations"],
+        "relatedCollocates": [
+          "fossil fuel plants",
+          "power stations"
+        ],
         "wordForms": {
-          "noun": [{ "form": "power plant", "meaning": "nhà máy điện" }]
+          "noun": [
+            {
+              "form": "power plant",
+              "meaning": "nhà máy điện"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1347,7 +1959,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174091-30-59-675c6d52",
       "targetLexeme": "resulting mix",
       "sourceContext": "...without harming the strength or durability of the resulting mix.",
       "phase1Inference": {
@@ -1358,11 +1970,20 @@
         "sentiment": "neutral",
         "definitionEN": "The mixture that is produced as a consequence of combining various substances.",
         "translationVI": "Hỗn hợp thu được",
-        "relatedCollocates": ["final mixture", "end product"],
+        "relatedCollocates": [
+          "final mixture",
+          "end product"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "resulting", "meaning": "thu được, kết quả là" }
-          ]
+            {
+              "form": "resulting",
+              "meaning": "thu được, kết quả là"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1371,7 +1992,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174091-30-60-36bb3bc6",
       "targetLexeme": "waste products",
       "sourceContext": "But Anna Surgenor, of the UK’s Green Building Council, notes that although these waste products can save carbon in the concrete mix, their use is not always straightforward.",
       "phase1Inference": {
@@ -1382,9 +2003,20 @@
         "sentiment": "negative",
         "definitionEN": "Unwanted materials or substances that are left after a process of production.",
         "translationVI": "Các sản phẩm thải",
-        "relatedCollocates": ["byproducts", "industrial waste"],
+        "relatedCollocates": [
+          "byproducts",
+          "industrial waste"
+        ],
         "wordForms": {
-          "noun": [{ "form": "waste", "meaning": "chất thải" }]
+          "noun": [
+            {
+              "form": "waste",
+              "meaning": "chất thải"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1393,7 +2025,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174091-30-61-5e61f907",
       "targetLexeme": "cement content",
       "sourceContext": "‘It’s possible to replace the cement content in concrete with waste products...",
       "phase1Inference": {
@@ -1404,9 +2036,20 @@
         "sentiment": "neutral",
         "definitionEN": "The proportion or amount of cement within a mixture, such as concrete.",
         "translationVI": "Hàm lượng xi măng",
-        "relatedCollocates": ["proportion of cement", "cement ratio"],
+        "relatedCollocates": [
+          "proportion of cement",
+          "cement ratio"
+        ],
         "wordForms": {
-          "noun": [{ "form": "content", "meaning": "hàm lượng, nội dung" }]
+          "noun": [
+            {
+              "form": "content",
+              "meaning": "hàm lượng, nội dung"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1415,7 +2058,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174091-30-62-01d9a7b7",
       "targetLexeme": "fossil fuels",
       "sourceContext": "If they are transported over long distances, using fossil fuels, the use of alternative materials might not make sense...",
       "phase1Inference": {
@@ -1426,9 +2069,20 @@
         "sentiment": "negative",
         "definitionEN": "A natural fuel such as coal or gas, formed in the geological past from the remains of living organisms.",
         "translationVI": "Nhiên liệu hóa thạch",
-        "relatedCollocates": ["coal, oil, and gas", "non-renewable energy"],
+        "relatedCollocates": [
+          "coal, oil, and gas",
+          "non-renewable energy"
+        ],
         "wordForms": {
-          "noun": [{ "form": "fuel", "meaning": "nhiên liệu" }]
+          "noun": [
+            {
+              "form": "fuel",
+              "meaning": "nhiên liệu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1437,7 +2091,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174091-30-63-559b06bc",
       "targetLexeme": "promising ideas",
       "sourceContext": "While these technologies are all promising ideas, they are either unproven or based on materials that are not abundant.",
       "phase1Inference": {
@@ -1453,7 +2107,15 @@
           "ideas with potential"
         ],
         "wordForms": {
-          "adjective": [{ "form": "promising", "meaning": "hứa hẹn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "promising",
+              "meaning": "hứa hẹn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1462,7 +2124,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174091-30-64-3e4e14f2",
       "targetLexeme": "reached the conclusion that",
       "sourceContext": "...Felix Preston and Johanna Lehne... reached the conclusion that, ‘Some novel cements have been discussed for more than a decade...’",
       "phase1Inference": {
@@ -1473,9 +2135,20 @@
         "sentiment": "neutral",
         "definitionEN": "To arrive at a judgment or decision after a period of thought or research.",
         "translationVI": "Đi đến kết luận rằng",
-        "relatedCollocates": ["concluded that", "came to the conclusion that"],
+        "relatedCollocates": [
+          "concluded that",
+          "came to the conclusion that"
+        ],
         "wordForms": {
-          "noun": [{ "form": "conclusion", "meaning": "kết luận" }]
+          "noun": [
+            {
+              "form": "conclusion",
+              "meaning": "kết luận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1484,7 +2157,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174091-30-65-5c71a936",
       "targetLexeme": "novel cements",
       "sourceContext": "‘Some novel cements have been discussed for more than a decade within the research community, without breaking through.",
       "phase1Inference": {
@@ -1495,9 +2168,20 @@
         "sentiment": "neutral",
         "definitionEN": "New and original types of cement, different from anything seen or known before.",
         "translationVI": "Các loại xi măng mới",
-        "relatedCollocates": ["new types of cement", "innovative binders"],
+        "relatedCollocates": [
+          "new types of cement",
+          "innovative binders"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "novel", "meaning": "mới lạ" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "novel",
+              "meaning": "mới lạ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1506,7 +2190,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "1761813174091-30-66-77fbd925",
       "targetLexeme": "research community",
       "sourceContext": "...discussed for more than a decade within the research community, without breaking through.",
       "phase1Inference": {
@@ -1517,9 +2201,20 @@
         "sentiment": "neutral",
         "definitionEN": "The collective body of scientists and academics who are involved in a particular field of study.",
         "translationVI": "Cộng đồng nghiên cứu",
-        "relatedCollocates": ["scientific community", "academic circles"],
+        "relatedCollocates": [
+          "scientific community",
+          "academic circles"
+        ],
         "wordForms": {
-          "noun": [{ "form": "community", "meaning": "cộng đồng" }]
+          "noun": [
+            {
+              "form": "community",
+              "meaning": "cộng đồng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1528,7 +2223,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "1761813174091-30-67-6dc24c78",
       "targetLexeme": "at present",
       "sourceContext": "At present, these alternatives are rarely as cost-effective as conventional cement...",
       "phase1Inference": {
@@ -1539,9 +2234,21 @@
         "sentiment": "neutral",
         "definitionEN": "At the current time; now.",
         "translationVI": "Hiện tại",
-        "relatedCollocates": ["currently", "at the moment", "now"],
+        "relatedCollocates": [
+          "currently",
+          "at the moment",
+          "now"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "at present", "meaning": "hiện tại" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "at present",
+              "meaning": "hiện tại"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1550,7 +2257,7 @@
       }
     },
     {
-      "id": 69,
+      "id": "1761813174091-30-68-588e637f",
       "targetLexeme": "make sense",
       "sourceContext": "...the use of alternative materials might not make sense from an overall carbon reduction perspective.’",
       "phase1Inference": {
@@ -1561,9 +2268,20 @@
         "sentiment": "positive",
         "definitionEN": "To be intelligible, justifiable, or practicable.",
         "translationVI": "Có lý, hợp lý",
-        "relatedCollocates": ["be logical", "be reasonable"],
+        "relatedCollocates": [
+          "be logical",
+          "be reasonable"
+        ],
         "wordForms": {
-          "noun": [{ "form": "sense", "meaning": "ý nghĩa, giác quan" }]
+          "noun": [
+            {
+              "form": "sense",
+              "meaning": "ý nghĩa, giác quan"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1572,7 +2290,7 @@
       }
     },
     {
-      "id": 70,
+      "id": "1761813174091-30-69-3c01d5c9",
       "targetLexeme": "Royal Institute of International Affairs",
       "sourceContext": "...Felix Preston and Johanna Lehne of the UK’s Royal Institute of International Affairs reached the conclusion that...",
       "phase1Inference": {
@@ -1583,9 +2301,20 @@
         "sentiment": "neutral",
         "definitionEN": "A non-profit, non-governmental organization based in London whose mission is to analyse and promote the understanding of major international issues and current affairs.",
         "translationVI": "Viện Hoàng gia về các vấn đề quốc tế",
-        "relatedCollocates": ["think tank", "Chatham House"],
+        "relatedCollocates": [
+          "think tank",
+          "Chatham House"
+        ],
         "wordForms": {
-          "noun": [{ "form": "institute", "meaning": "viện, học viện" }]
+          "noun": [
+            {
+              "form": "institute",
+              "meaning": "viện, học viện"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1594,7 +2323,7 @@
       }
     },
     {
-      "id": 71,
+      "id": "1761813174091-30-70-6edb2572",
       "targetLexeme": "innovating with",
       "sourceContext": "And so scientists have started innovating with other materials...",
       "phase1Inference": {
@@ -1610,7 +2339,15 @@
           "introducing new ideas with"
         ],
         "wordForms": {
-          "verb": [{ "form": "innovate", "meaning": "đổi mới" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "innovate",
+              "meaning": "đổi mới"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1619,7 +2356,7 @@
       }
     },
     {
-      "id": 72,
+      "id": "1761813174091-30-71-0e746426",
       "targetLexeme": "high carbon",
       "sourceContext": "But it is the scale on which it is used that makes it high carbon.",
       "phase1Inference": {
@@ -1630,9 +2367,20 @@
         "sentiment": "negative",
         "definitionEN": "Having a large carbon footprint; producing a lot of carbon emissions.",
         "translationVI": "Carbon cao",
-        "relatedCollocates": ["carbon-intensive", "high-emission"],
+        "relatedCollocates": [
+          "carbon-intensive",
+          "high-emission"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "high-carbon", "meaning": "carbon cao" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "high-carbon",
+              "meaning": "carbon cao"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1641,7 +2389,7 @@
       }
     },
     {
-      "id": 73,
+      "id": "1761813174091-30-72-3bf8e31b",
       "targetLexeme": "Portland cement",
       "sourceContext": "...Portland cement, the vital component of concrete, is mouldable and pourable...",
       "phase1Inference": {
@@ -1652,9 +2400,20 @@
         "sentiment": "neutral",
         "definitionEN": "The most common type of cement in general use around the world as a basic ingredient of concrete, mortar, and stucco.",
         "translationVI": "Xi măng Portland",
-        "relatedCollocates": ["conventional cement", "binder"],
+        "relatedCollocates": [
+          "conventional cement",
+          "binder"
+        ],
         "wordForms": {
-          "noun": [{ "form": "cement", "meaning": "xi măng" }]
+          "noun": [
+            {
+              "form": "cement",
+              "meaning": "xi măng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1663,7 +2422,7 @@
       }
     },
     {
-      "id": 74,
+      "id": "1761813174091-30-73-3cba5e26",
       "targetLexeme": "on its own",
       "sourceContext": "...making it far stronger and more flexible as a building material than it could be on its own.",
       "phase1Inference": {
@@ -1674,9 +2433,20 @@
         "sentiment": "neutral",
         "definitionEN": "By itself; without the help of other things or people.",
         "translationVI": "Tự nó, một mình nó",
-        "relatedCollocates": ["by itself", "alone"],
+        "relatedCollocates": [
+          "by itself",
+          "alone"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "on its own", "meaning": "một mình" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "on its own",
+              "meaning": "một mình"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1685,7 +2455,7 @@
       }
     },
     {
-      "id": 75,
+      "id": "1761813174091-30-74-10b4f703",
       "targetLexeme": "all home to",
       "sourceContext": "Vancouver, Vienna and Brumunddal in Norway are all home to constructed tall, wooden buildings.",
       "phase1Inference": {
@@ -1696,9 +2466,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to indicate that several places are the location of a particular thing.",
         "translationVI": "Đều là nơi có",
-        "relatedCollocates": ["are the location of", "feature"],
+        "relatedCollocates": [
+          "are the location of",
+          "feature"
+        ],
         "wordForms": {
-          "noun": [{ "form": "home", "meaning": "nhà, nơi ở" }]
+          "noun": [
+            {
+              "form": "home",
+              "meaning": "nhà, nơi ở"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1707,7 +2488,7 @@
       }
     },
     {
-      "id": 76,
+      "id": "1761813174091-30-75-58bd32d4",
       "targetLexeme": "crosswise",
       "sourceContext": "An adhesive is used to stick layers of solid-sawn timber together, crosswise, to form building blocks.",
       "phase1Inference": {
@@ -1718,9 +2499,20 @@
         "sentiment": "neutral",
         "definitionEN": "In a direction crossing something, especially at right angles.",
         "translationVI": "Theo chiều ngang, chéo",
-        "relatedCollocates": ["perpendicularly", "across"],
+        "relatedCollocates": [
+          "perpendicularly",
+          "across"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "crosswise", "meaning": "theo chiều ngang" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "crosswise",
+              "meaning": "theo chiều ngang"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1729,7 +2521,7 @@
       }
     },
     {
-      "id": 77,
+      "id": "1761813174091-30-76-57ef76ba",
       "targetLexeme": "vice-president",
       "sourceContext": "...and its vice-president Markus Mannström reports that the company is seeing increasing demand globally...",
       "phase1Inference": {
@@ -1740,9 +2532,20 @@
         "sentiment": "neutral",
         "definitionEN": "An official or executive ranking below and deputizing for a president.",
         "translationVI": "Phó chủ tịch",
-        "relatedCollocates": ["executive", "deputy"],
+        "relatedCollocates": [
+          "executive",
+          "deputy"
+        ],
         "wordForms": {
-          "noun": [{ "form": "vice-president", "meaning": "phó chủ tịch" }]
+          "noun": [
+            {
+              "form": "vice-president",
+              "meaning": "phó chủ tịch"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1751,7 +2554,7 @@
       }
     },
     {
-      "id": 78,
+      "id": "1761813174091-30-77-16277a7a",
       "targetLexeme": "wider range of",
       "sourceContext": "...and only when a wider range of construction projects has been proven in practice will it be possible...",
       "phase1Inference": {
@@ -1762,9 +2565,20 @@
         "sentiment": "neutral",
         "definitionEN": "A more extensive and varied selection of something.",
         "translationVI": "Một phạm vi rộng hơn của",
-        "relatedCollocates": ["a broader selection of", "a greater variety of"],
+        "relatedCollocates": [
+          "a broader selection of",
+          "a greater variety of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "range", "meaning": "phạm vi" }]
+          "noun": [
+            {
+              "form": "range",
+              "meaning": "phạm vi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1773,7 +2587,7 @@
       }
     },
     {
-      "id": 79,
+      "id": "1761813174091-30-78-71d238cb",
       "targetLexeme": "in a similar way",
       "sourceContext": "Iron-ore slag... can be used in a similar way.",
       "phase1Inference": {
@@ -1784,9 +2598,20 @@
         "sentiment": "neutral",
         "definitionEN": "In a way that resembles something else; likewise.",
         "translationVI": "Theo một cách tương tự",
-        "relatedCollocates": ["similarly", "likewise"],
+        "relatedCollocates": [
+          "similarly",
+          "likewise"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "similar", "meaning": "tương tự" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "similar",
+              "meaning": "tương tự"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1795,7 +2620,7 @@
       }
     },
     {
-      "id": 80,
+      "id": "1761813174091-30-79-4e2cdc32",
       "targetLexeme": "Green Building Council",
       "sourceContext": "But Anna Surgenor, of the UK’s Green Building Council, notes that...",
       "phase1Inference": {
@@ -1806,9 +2631,20 @@
         "sentiment": "positive",
         "definitionEN": "A non-profit organization that promotes sustainability in the design, construction, and operation of buildings.",
         "translationVI": "Hội đồng Công trình Xanh",
-        "relatedCollocates": ["sustainability", "green construction"],
+        "relatedCollocates": [
+          "sustainability",
+          "green construction"
+        ],
         "wordForms": {
-          "noun": [{ "form": "council", "meaning": "hội đồng" }]
+          "noun": [
+            {
+              "form": "council",
+              "meaning": "hội đồng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1817,7 +2653,7 @@
       }
     },
     {
-      "id": 81,
+      "id": "1761813174091-30-80-0a1ec87b",
       "targetLexeme": "calculations",
       "sourceContext": "But there are several calculations that need to be considered across the entire life cycle of the building...",
       "phase1Inference": {
@@ -1828,9 +2664,20 @@
         "sentiment": "neutral",
         "definitionEN": "A mathematical determination of the size or number of something.",
         "translationVI": "Các tính toán",
-        "relatedCollocates": ["assessments", "computations"],
+        "relatedCollocates": [
+          "assessments",
+          "computations"
+        ],
         "wordForms": {
-          "verb": [{ "form": "calculate", "meaning": "tính toán" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "calculate",
+              "meaning": "tính toán"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1839,7 +2686,7 @@
       }
     },
     {
-      "id": 82,
+      "id": "1761813174091-30-81-640b2065",
       "targetLexeme": "shipped from",
       "sourceContext": "...these include factoring in where these materials are being shipped from.",
       "phase1Inference": {
@@ -1850,9 +2697,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be transported by ship or other means from a particular place.",
         "translationVI": "Được vận chuyển từ",
-        "relatedCollocates": ["transported from", "originating from"],
+        "relatedCollocates": [
+          "transported from",
+          "originating from"
+        ],
         "wordForms": {
-          "verb": [{ "form": "ship", "meaning": "vận chuyển" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "ship",
+              "meaning": "vận chuyển"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1861,7 +2719,7 @@
       }
     },
     {
-      "id": 83,
+      "id": "1761813174091-30-82-4dac3b62",
       "targetLexeme": "overview of innovation",
       "sourceContext": "In their overview of innovation in the concrete industry...",
       "phase1Inference": {
@@ -1877,7 +2735,15 @@
           "review of progress"
         ],
         "wordForms": {
-          "noun": [{ "form": "overview", "meaning": "tổng quan" }]
+          "noun": [
+            {
+              "form": "overview",
+              "meaning": "tổng quan"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1886,7 +2752,7 @@
       }
     },
     {
-      "id": 84,
+      "id": "1761813174091-30-83-4ebb80fe",
       "targetLexeme": "more than a decade",
       "sourceContext": "‘Some novel cements have been discussed for more than a decade within the research community...",
       "phase1Inference": {
@@ -1897,9 +2763,20 @@
         "sentiment": "neutral",
         "definitionEN": "For a period longer than ten years.",
         "translationVI": "Hơn một thập kỷ",
-        "relatedCollocates": ["over ten years", "for many years"],
+        "relatedCollocates": [
+          "over ten years",
+          "for many years"
+        ],
         "wordForms": {
-          "noun": [{ "form": "decade", "meaning": "thập kỷ" }]
+          "noun": [
+            {
+              "form": "decade",
+              "meaning": "thập kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1908,7 +2785,7 @@
       }
     },
     {
-      "id": 85,
+      "id": "1761813174091-30-84-33f574b8",
       "targetLexeme": "rarely as",
       "sourceContext": "At present, these alternatives are rarely as cost-effective as conventional cement...",
       "phase1Inference": {
@@ -1919,9 +2796,20 @@
         "sentiment": "neutral",
         "definitionEN": "Not often as good, effective, etc., as something else.",
         "translationVI": "Hiếm khi bằng",
-        "relatedCollocates": ["seldom as", "not often as"],
+        "relatedCollocates": [
+          "seldom as",
+          "not often as"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "rarely", "meaning": "hiếm khi" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "rarely",
+              "meaning": "hiếm khi"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1930,7 +2818,7 @@
       }
     },
     {
-      "id": 86,
+      "id": "1761813174091-30-85-4e10fdcd",
       "targetLexeme": "beyond concrete",
       "sourceContext": "Materials to take us beyond concrete",
       "phase1Inference": {
@@ -1946,7 +2834,10 @@
           "moving past traditional materials"
         ],
         "wordForms": {
-          "preposition": [{ "form": "beyond", "meaning": "vượt ra ngoài" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1955,7 +2846,7 @@
       }
     },
     {
-      "id": 87,
+      "id": "1761813174091-30-86-54866a00",
       "targetLexeme": "results in",
       "sourceContext": "The chemical process by which cement... is created results in large quantities of carbon dioxide.",
       "phase1Inference": {
@@ -1966,9 +2857,20 @@
         "sentiment": "neutral",
         "definitionEN": "To cause a particular situation to happen; to lead to.",
         "translationVI": "Dẫn đến kết quả là",
-        "relatedCollocates": ["leads to", "causes"],
+        "relatedCollocates": [
+          "leads to",
+          "causes"
+        ],
         "wordForms": {
-          "verb": [{ "form": "result in", "meaning": "dẫn đến" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "result in",
+              "meaning": "dẫn đến"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1977,7 +2879,7 @@
       }
     },
     {
-      "id": 88,
+      "id": "1761813174091-30-87-180f6e3c",
       "targetLexeme": "extent to which",
       "sourceContext": "...the key thing to consider is the extent to which concrete is used around the world...",
       "phase1Inference": {
@@ -1988,9 +2890,20 @@
         "sentiment": "neutral",
         "definitionEN": "The degree or level to which something happens or is true.",
         "translationVI": "Mức độ mà",
-        "relatedCollocates": ["the degree to which", "how much"],
+        "relatedCollocates": [
+          "the degree to which",
+          "how much"
+        ],
         "wordForms": {
-          "noun": [{ "form": "extent", "meaning": "mức độ" }]
+          "noun": [
+            {
+              "form": "extent",
+              "meaning": "mức độ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1999,7 +2912,7 @@
       }
     },
     {
-      "id": 89,
+      "id": "1761813174091-30-88-4e495372",
       "targetLexeme": "that is the issue",
       "sourceContext": "The sheer scale of manufacture is so huge, that is the issue.’",
       "phase1Inference": {
@@ -2010,9 +2923,20 @@
         "sentiment": "neutral",
         "definitionEN": "A phrase used to emphasize the main point or the core of a problem.",
         "translationVI": "Đó mới là vấn đề",
-        "relatedCollocates": ["that is the problem", "the core of the matter"],
+        "relatedCollocates": [
+          "that is the problem",
+          "the core of the matter"
+        ],
         "wordForms": {
-          "noun": [{ "form": "issue", "meaning": "vấn đề" }]
+          "noun": [
+            {
+              "form": "issue",
+              "meaning": "vấn đề"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2021,7 +2945,7 @@
       }
     },
     {
-      "id": 90,
+      "id": "1761813174091-30-89-7be9a753",
       "targetLexeme": "around the globe",
       "sourceContext": "...found in abundance in most places around the globe...",
       "phase1Inference": {
@@ -2032,9 +2956,20 @@
         "sentiment": "neutral",
         "definitionEN": "Throughout the world.",
         "translationVI": "Trên toàn cầu",
-        "relatedCollocates": ["worldwide", "all over the world"],
+        "relatedCollocates": [
+          "worldwide",
+          "all over the world"
+        ],
         "wordForms": {
-          "noun": [{ "form": "globe", "meaning": "địa cầu" }]
+          "noun": [
+            {
+              "form": "globe",
+              "meaning": "địa cầu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2043,7 +2978,7 @@
       }
     },
     {
-      "id": 91,
+      "id": "1761813174091-30-90-1eb3ed76",
       "targetLexeme": "far stronger",
       "sourceContext": "...making it far stronger and more flexible as a building material...",
       "phase1Inference": {
@@ -2054,9 +2989,20 @@
         "sentiment": "positive",
         "definitionEN": "Much more strong; significantly more powerful or durable.",
         "translationVI": "Mạnh hơn nhiều",
-        "relatedCollocates": ["much more durable", "significantly stronger"],
+        "relatedCollocates": [
+          "much more durable",
+          "significantly stronger"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "strong", "meaning": "mạnh" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "strong",
+              "meaning": "mạnh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2065,7 +3011,7 @@
       }
     },
     {
-      "id": 92,
+      "id": "1761813174091-30-91-68bb13b5",
       "targetLexeme": "turn to",
       "sourceContext": "...climate change is driving architects to turn to treated timber as a possible resource.",
       "phase1Inference": {
@@ -2076,9 +3022,20 @@
         "sentiment": "neutral",
         "definitionEN": "To start to use or do something new; to look to something for a solution.",
         "translationVI": "Chuyển sang, tìm đến",
-        "relatedCollocates": ["resort to", "look to"],
+        "relatedCollocates": [
+          "resort to",
+          "look to"
+        ],
         "wordForms": {
-          "verb": [{ "form": "turn", "meaning": "xoay, chuyển" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "turn",
+              "meaning": "xoay, chuyển"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2087,7 +3044,7 @@
       }
     },
     {
-      "id": 93,
+      "id": "1761813174091-30-92-1e0363a7",
       "targetLexeme": "constructed almost entirely from",
       "sourceContext": "Recent years have seen the emergence of tall buildings constructed almost entirely from timber.",
       "phase1Inference": {
@@ -2103,7 +3060,15 @@
           "built predominantly with"
         ],
         "wordForms": {
-          "verb": [{ "form": "construct", "meaning": "xây dựng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "construct",
+              "meaning": "xây dựng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2112,7 +3077,7 @@
       }
     },
     {
-      "id": 94,
+      "id": "1761813174091-30-93-42acbf1c",
       "targetLexeme": "not to mention",
       "sourceContext": "...and is susceptible to pests, not to mention fire.",
       "phase1Inference": {
@@ -2123,9 +3088,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to introduce an additional point which reinforces the point being made.",
         "translationVI": "Chưa kể đến",
-        "relatedCollocates": ["let alone", "in addition to"],
+        "relatedCollocates": [
+          "let alone",
+          "in addition to"
+        ],
         "wordForms": {
-          "verb": [{ "form": "mention", "meaning": "đề cập" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "mention",
+              "meaning": "đề cập"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2134,7 +3110,7 @@
       }
     },
     {
-      "id": 95,
+      "id": "1761813174091-30-94-33fb5fd6",
       "targetLexeme": "has the strength of",
       "sourceContext": "This material is light but has the strength of concrete and steel.",
       "phase1Inference": {
@@ -2145,9 +3121,20 @@
         "sentiment": "positive",
         "definitionEN": "To be as strong or durable as something else.",
         "translationVI": "Có độ bền của",
-        "relatedCollocates": ["is as strong as", "has comparable strength to"],
+        "relatedCollocates": [
+          "is as strong as",
+          "has comparable strength to"
+        ],
         "wordForms": {
-          "noun": [{ "form": "strength", "meaning": "sức mạnh, độ bền" }]
+          "noun": [
+            {
+              "form": "strength",
+              "meaning": "sức mạnh, độ bền"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2156,7 +3143,7 @@
       }
     },
     {
-      "id": 96,
+      "id": "1761813174091-30-95-32bd43c8",
       "targetLexeme": "increasing demand",
       "sourceContext": "...the company is seeing increasing demand globally for building in wood...",
       "phase1Inference": {
@@ -2167,9 +3154,20 @@
         "sentiment": "neutral",
         "definitionEN": "A growing desire among consumers to buy particular goods or services.",
         "translationVI": "Nhu cầu ngày càng tăng",
-        "relatedCollocates": ["growing demand", "rising need"],
+        "relatedCollocates": [
+          "growing demand",
+          "rising need"
+        ],
         "wordForms": {
-          "noun": [{ "form": "demand", "meaning": "nhu cầu" }]
+          "noun": [
+            {
+              "form": "demand",
+              "meaning": "nhu cầu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2178,7 +3176,7 @@
       }
     },
     {
-      "id": 97,
+      "id": "1761813174091-30-96-7edcf573",
       "targetLexeme": "climate change concerns",
       "sourceContext": "...with climate change concerns the key driver.",
       "phase1Inference": {
@@ -2194,7 +3192,15 @@
           "concerns about global warming"
         ],
         "wordForms": {
-          "noun": [{ "form": "concern", "meaning": "mối lo ngại" }]
+          "noun": [
+            {
+              "form": "concern",
+              "meaning": "mối lo ngại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2203,7 +3209,7 @@
       }
     },
     {
-      "id": 98,
+      "id": "1761813174091-30-97-50ec1ee0",
       "targetLexeme": "real alternative to",
       "sourceContext": "...will it be possible to see wood as a real alternative to concrete in constructing tall buildings.",
       "phase1Inference": {
@@ -2214,9 +3220,20 @@
         "sentiment": "positive",
         "definitionEN": "A genuinely viable or practical substitute for something else.",
         "translationVI": "Sự thay thế thực sự cho",
-        "relatedCollocates": ["viable substitute", "genuine replacement"],
+        "relatedCollocates": [
+          "viable substitute",
+          "genuine replacement"
+        ],
         "wordForms": {
-          "noun": [{ "form": "alternative", "meaning": "sự thay thế" }]
+          "noun": [
+            {
+              "form": "alternative",
+              "meaning": "sự thay thế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2225,7 +3242,7 @@
       }
     },
     {
-      "id": 99,
+      "id": "1761813174091-30-98-78d373fa",
       "targetLexeme": "incorporated into",
       "sourceContext": "Fly ash... can be incorporated into concrete mixes...",
       "phase1Inference": {
@@ -2236,9 +3253,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be included as part of a whole.",
         "translationVI": "Được kết hợp vào",
-        "relatedCollocates": ["integrated into", "included in"],
+        "relatedCollocates": [
+          "integrated into",
+          "included in"
+        ],
         "wordForms": {
-          "verb": [{ "form": "incorporate", "meaning": "kết hợp" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "incorporate",
+              "meaning": "kết hợp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2247,7 +3275,7 @@
       }
     },
     {
-      "id": 100,
+      "id": "1761813174091-30-99-4275a82a",
       "targetLexeme": "make up as much as",
       "sourceContext": "...to make up as much as 15 to 30% of the cement...",
       "phase1Inference": {
@@ -2258,9 +3286,20 @@
         "sentiment": "neutral",
         "definitionEN": "To constitute or form a particular amount or proportion of something.",
         "translationVI": "Chiếm tới",
-        "relatedCollocates": ["constitute up to", "comprise as much as"],
+        "relatedCollocates": [
+          "constitute up to",
+          "comprise as much as"
+        ],
         "wordForms": {
-          "verb": [{ "form": "make up", "meaning": "chiếm, tạo thành" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "make up",
+              "meaning": "chiếm, tạo thành"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2269,7 +3308,7 @@
       }
     },
     {
-      "id": 101,
+      "id": "1761813174091-30-100-3e6c6126",
       "targetLexeme": "potential to reduce",
       "sourceContext": "Their incorporation into concrete mixes has the potential to reduce greenhouse gas emissions.",
       "phase1Inference": {
@@ -2280,9 +3319,20 @@
         "sentiment": "positive",
         "definitionEN": "The possibility of making something smaller or less in amount, degree, or size.",
         "translationVI": "Tiềm năng giảm thiểu",
-        "relatedCollocates": ["capacity to lower", "ability to decrease"],
+        "relatedCollocates": [
+          "capacity to lower",
+          "ability to decrease"
+        ],
         "wordForms": {
-          "noun": [{ "form": "potential", "meaning": "tiềm năng" }]
+          "noun": [
+            {
+              "form": "potential",
+              "meaning": "tiềm năng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2291,7 +3341,7 @@
       }
     },
     {
-      "id": 102,
+      "id": "1761813174091-30-101-7c7604d0",
       "targetLexeme": "save carbon",
       "sourceContext": "...although these waste products can save carbon in the concrete mix, their use is not always straightforward.",
       "phase1Inference": {
@@ -2302,9 +3352,20 @@
         "sentiment": "positive",
         "definitionEN": "To reduce the amount of carbon dioxide that is produced or released.",
         "translationVI": "Tiết kiệm carbon",
-        "relatedCollocates": ["reduce emissions", "cut carbon"],
+        "relatedCollocates": [
+          "reduce emissions",
+          "cut carbon"
+        ],
         "wordForms": {
-          "verb": [{ "form": "save", "meaning": "tiết kiệm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "save",
+              "meaning": "tiết kiệm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2313,7 +3374,7 @@
       }
     },
     {
-      "id": 103,
+      "id": "1761813174091-30-102-35bcde56",
       "targetLexeme": "need to be considered",
       "sourceContext": "But there are several calculations that need to be considered across the entire life cycle of the building...",
       "phase1Inference": {
@@ -2329,7 +3390,15 @@
           "should be evaluated"
         ],
         "wordForms": {
-          "verb": [{ "form": "consider", "meaning": "xem xét" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "consider",
+              "meaning": "xem xét"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2338,7 +3407,7 @@
       }
     },
     {
-      "id": 104,
+      "id": "1761813174091-30-103-534a5222",
       "targetLexeme": "transported over long distances",
       "sourceContext": "If they are transported over long distances, using fossil fuels, the use of alternative materials might not make sense...",
       "phase1Inference": {
@@ -2349,9 +3418,20 @@
         "sentiment": "negative",
         "definitionEN": "To be moved from one place to another across a great area.",
         "translationVI": "Được vận chuyển qua những quãng đường dài",
-        "relatedCollocates": ["shipped internationally", "long-haul transport"],
+        "relatedCollocates": [
+          "shipped internationally",
+          "long-haul transport"
+        ],
         "wordForms": {
-          "verb": [{ "form": "transport", "meaning": "vận chuyển" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "transport",
+              "meaning": "vận chuyển"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2360,7 +3440,7 @@
       }
     },
     {
-      "id": 105,
+      "id": "1761813174091-30-104-7dcf6455",
       "targetLexeme": "not abundant",
       "sourceContext": "...they are either unproven or based on materials that are not abundant.",
       "phase1Inference": {
@@ -2371,9 +3451,20 @@
         "sentiment": "negative",
         "definitionEN": "Not existing or available in large quantities; not plentiful.",
         "translationVI": "Không dồi dào",
-        "relatedCollocates": ["scarce", "in short supply"],
+        "relatedCollocates": [
+          "scarce",
+          "in short supply"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "abundant", "meaning": "dồi dào" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "abundant",
+              "meaning": "dồi dào"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2382,7 +3473,7 @@
       }
     },
     {
-      "id": 106,
+      "id": "1761813174091-30-105-01543f76",
       "targetLexeme": "for many years",
       "sourceContext": "...that has underpinned our modern life for many years.",
       "phase1Inference": {
@@ -2393,9 +3484,20 @@
         "sentiment": "neutral",
         "definitionEN": "For a long period of time.",
         "translationVI": "Trong nhiều năm",
-        "relatedCollocates": ["for a long time", "for decades"],
+        "relatedCollocates": [
+          "for a long time",
+          "for decades"
+        ],
         "wordForms": {
-          "noun": [{ "form": "year", "meaning": "năm" }]
+          "noun": [
+            {
+              "form": "year",
+              "meaning": "năm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2404,7 +3506,7 @@
       }
     },
     {
-      "id": 107,
+      "id": "1761813174091-30-106-3d333435",
       "targetLexeme": "so huge",
       "sourceContext": "The sheer scale of manufacture is so huge, that is the issue.’",
       "phase1Inference": {
@@ -2415,9 +3517,21 @@
         "sentiment": "neutral",
         "definitionEN": "Extremely large in size or amount.",
         "translationVI": "Rất lớn",
-        "relatedCollocates": ["enormous", "massive", "immense"],
+        "relatedCollocates": [
+          "enormous",
+          "massive",
+          "immense"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "huge", "meaning": "to lớn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "huge",
+              "meaning": "to lớn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2426,7 +3540,7 @@
       }
     },
     {
-      "id": 108,
+      "id": "1761813174091-30-107-2f61b9f9",
       "targetLexeme": "all these factors together",
       "sourceContext": "According to Cheeseman, all these factors together make concrete hard to beat.",
       "phase1Inference": {
@@ -2437,9 +3551,20 @@
         "sentiment": "neutral",
         "definitionEN": "The combination of all of these contributing elements.",
         "translationVI": "Tất cả những yếu tố này cộng lại",
-        "relatedCollocates": ["all of these things combined", "taken together"],
+        "relatedCollocates": [
+          "all of these things combined",
+          "taken together"
+        ],
         "wordForms": {
-          "noun": [{ "form": "factor", "meaning": "yếu tố" }]
+          "noun": [
+            {
+              "form": "factor",
+              "meaning": "yếu tố"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2448,7 +3573,7 @@
       }
     },
     {
-      "id": 109,
+      "id": "1761813174091-30-108-7cfe7f1e",
       "targetLexeme": "recent years",
       "sourceContext": "Recent years have seen the emergence of tall buildings constructed almost entirely from timber.",
       "phase1Inference": {
@@ -2459,9 +3584,20 @@
         "sentiment": "neutral",
         "definitionEN": "The period of the last few years.",
         "translationVI": "Những năm gần đây",
-        "relatedCollocates": ["in the last few years", "lately"],
+        "relatedCollocates": [
+          "in the last few years",
+          "lately"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "recent", "meaning": "gần đây" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "recent",
+              "meaning": "gần đây"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2470,7 +3606,7 @@
       }
     },
     {
-      "id": 110,
+      "id": "1761813174091-30-109-79eb768c",
       "targetLexeme": "has been leading the way",
       "sourceContext": "Finland... has been leading the way...",
       "phase1Inference": {
@@ -2486,7 +3622,15 @@
           "has been at the forefront"
         ],
         "wordForms": {
-          "verb": [{ "form": "lead", "meaning": "dẫn dắt" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "lead",
+              "meaning": "dẫn dắt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2494,5 +3638,11 @@
         "content": "For decades, that university has been leading the way in artificial intelligence research."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.091Z",
+    "version": "2.0",
+    "originalCount": 110,
+    "migratedCount": 110
+  }
 }

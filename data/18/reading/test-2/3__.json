@@ -1,10 +1,10 @@
 {
   "logTitle": "IELTS Reading Log: An ideal city",
   "sourceId": "Reading Passage (Image)",
-  "totalItems": 85,
+  "totalItems": 110,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174089-29-0-76f8948f",
       "targetLexeme": "centuries ahead of its time",
       "sourceContext": "Leonardo da Vinci’s ideal city was centuries ahead of its time",
       "phase1Inference": {
@@ -15,9 +15,21 @@
         "sentiment": "positive",
         "definitionEN": "To be far more advanced or modern than other things of its period.",
         "translationVI": "Đi trước thời đại hàng thế kỷ",
-        "relatedCollocates": ["ahead of the curve", "visionary", "futuristic"],
+        "relatedCollocates": [
+          "ahead of the curve",
+          "visionary",
+          "futuristic"
+        ],
         "wordForms": {
-          "noun": [{ "form": "century", "meaning": "thế kỷ" }]
+          "noun": [
+            {
+              "form": "century",
+              "meaning": "thế kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -26,7 +38,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174089-29-1-23717b98",
       "targetLexeme": "Renaissance man",
       "sourceContext": "A true Renaissance man, he embodied scientific spirit, artistic talent and humanist sensibilities.",
       "phase1Inference": {
@@ -37,9 +49,20 @@
         "sentiment": "positive",
         "definitionEN": "A person with many talents or areas of knowledge.",
         "translationVI": "Người Phục hưng (người đa tài)",
-        "relatedCollocates": ["polymath", "multi-talented individual"],
+        "relatedCollocates": [
+          "polymath",
+          "multi-talented individual"
+        ],
         "wordForms": {
-          "noun": [{ "form": "Renaissance", "meaning": "thời kỳ Phục hưng" }]
+          "noun": [
+            {
+              "form": "Renaissance",
+              "meaning": "thời kỳ Phục hưng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -48,7 +71,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174089-29-2-78676836",
       "targetLexeme": "embodied",
       "sourceContext": "A true Renaissance man, he embodied scientific spirit, artistic talent and humanist sensibilities.",
       "phase1Inference": {
@@ -59,9 +82,21 @@
         "sentiment": "positive",
         "definitionEN": "To be a tangible or visible form of an idea, quality, or feeling.",
         "translationVI": "Là hiện thân của",
-        "relatedCollocates": ["personified", "represented", "epitomized"],
+        "relatedCollocates": [
+          "personified",
+          "represented",
+          "epitomized"
+        ],
         "wordForms": {
-          "verb": [{ "form": "embody", "meaning": "hiện thân" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "embody",
+              "meaning": "hiện thân"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -70,7 +105,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174089-29-3-2d48022c",
       "targetLexeme": "humanist sensibilities",
       "sourceContext": "A true Renaissance man, he embodied scientific spirit, artistic talent and humanist sensibilities.",
       "phase1Inference": {
@@ -86,7 +121,15 @@
           "humanistic perspective"
         ],
         "wordForms": {
-          "noun": [{ "form": "sensibility", "meaning": "sự nhạy cảm" }]
+          "noun": [
+            {
+              "form": "sensibility",
+              "meaning": "sự nhạy cảm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -95,7 +138,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174089-29-4-4b9fc0fc",
       "targetLexeme": "fading into insignificance",
       "sourceContext": "Yet far from fading into insignificance, his thinking has carried down the centuries and still surprises today.",
       "phase1Inference": {
@@ -106,9 +149,20 @@
         "sentiment": "negative",
         "definitionEN": "Gradually becoming less important or noticeable until it is forgotten.",
         "translationVI": "Chìm vào quên lãng",
-        "relatedCollocates": ["becoming irrelevant", "losing importance"],
+        "relatedCollocates": [
+          "becoming irrelevant",
+          "losing importance"
+        ],
         "wordForms": {
-          "noun": [{ "form": "insignificance", "meaning": "sự tầm thường" }]
+          "noun": [
+            {
+              "form": "insignificance",
+              "meaning": "sự tầm thường"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -117,7 +171,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174089-29-5-2b952a05",
       "targetLexeme": "marked the transition from",
       "sourceContext": "The Renaissance marked the transition from the 15th century to modernity and took place after the spread of the plague in the 14th century...",
       "phase1Inference": {
@@ -133,7 +187,15 @@
           "represented the change from"
         ],
         "wordForms": {
-          "noun": [{ "form": "transition", "meaning": "sự chuyển tiếp" }]
+          "noun": [
+            {
+              "form": "transition",
+              "meaning": "sự chuyển tiếp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -142,7 +204,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174089-29-6-6305bc0a",
       "targetLexeme": "on the cusp of",
       "sourceContext": "Today, the world is on the cusp of a climate crisis, which is predicted to cause widespread displacement, extinctions and death, if left unaddressed.",
       "phase1Inference": {
@@ -153,9 +215,20 @@
         "sentiment": "neutral",
         "definitionEN": "At the point when something is about to change to something else; on the verge of.",
         "translationVI": "Trên bờ vực của",
-        "relatedCollocates": ["on the verge of", "on the brink of"],
+        "relatedCollocates": [
+          "on the verge of",
+          "on the brink of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "cusp", "meaning": "ngưỡng, đỉnh" }]
+          "noun": [
+            {
+              "form": "cusp",
+              "meaning": "ngưỡng, đỉnh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -164,7 +237,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174089-29-7-1636ea2e",
       "targetLexeme": "if left unaddressed",
       "sourceContext": "...which is predicted to cause widespread displacement, extinctions and death, if left unaddressed.",
       "phase1Inference": {
@@ -175,9 +248,20 @@
         "sentiment": "negative",
         "definitionEN": "If a problem or issue is not dealt with or ignored.",
         "translationVI": "Nếu không được giải quyết",
-        "relatedCollocates": ["if ignored", "if not dealt with"],
+        "relatedCollocates": [
+          "if ignored",
+          "if not dealt with"
+        ],
         "wordForms": {
-          "verb": [{ "form": "address", "meaning": "giải quyết" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "address",
+              "meaning": "giải quyết"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -186,7 +270,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174089-29-8-2d184f4a",
       "targetLexeme": "radical solutions were called for",
       "sourceContext": "Then, as now, radical solutions were called for to revolutionise the way people lived and safeguard humanity against catastrophe.",
       "phase1Inference": {
@@ -202,7 +286,15 @@
           "fundamental changes were required"
         ],
         "wordForms": {
-          "adjective": [{ "form": "radical", "meaning": "triệt để, cấp tiến" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "radical",
+              "meaning": "triệt để, cấp tiến"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -211,7 +303,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174089-29-9-05aab098",
       "targetLexeme": "safeguard humanity against catastrophe",
       "sourceContext": "...and safeguard humanity against catastrophe.",
       "phase1Inference": {
@@ -222,9 +314,20 @@
         "sentiment": "positive",
         "definitionEN": "To protect the human race from a large-scale disaster.",
         "translationVI": "Bảo vệ nhân loại khỏi thảm họa",
-        "relatedCollocates": ["protect from disaster", "prevent a catastrophe"],
+        "relatedCollocates": [
+          "protect from disaster",
+          "prevent a catastrophe"
+        ],
         "wordForms": {
-          "verb": [{ "form": "safeguard", "meaning": "bảo vệ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "safeguard",
+              "meaning": "bảo vệ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -233,7 +336,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174089-29-10-723f73a6",
       "targetLexeme": "pestilence",
       "sourceContext": "Around 1486 – after a pestilence that killed half the population in Milan, Italy – Leonardo turned his thoughts to urban planning problems.",
       "phase1Inference": {
@@ -244,9 +347,21 @@
         "sentiment": "negative",
         "definitionEN": "A fatal epidemic disease, especially bubonic plague.",
         "translationVI": "Bệnh dịch",
-        "relatedCollocates": ["plague", "epidemic", "pandemic"],
+        "relatedCollocates": [
+          "plague",
+          "epidemic",
+          "pandemic"
+        ],
         "wordForms": {
-          "noun": [{ "form": "pestilence", "meaning": "bệnh dịch" }]
+          "noun": [
+            {
+              "form": "pestilence",
+              "meaning": "bệnh dịch"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -255,7 +370,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174089-29-11-1dbcd61d",
       "targetLexeme": "unsustainable urban models",
       "sourceContext": "Given that unsustainable urban models are a key cause of global climate change today, it’s only natural to wonder how Leonardo might have changed the shape of modern cities.",
       "phase1Inference": {
@@ -266,11 +381,20 @@
         "sentiment": "negative",
         "definitionEN": "Ways of designing and running cities that cannot be continued at the same rate without causing severe environmental or social problems.",
         "translationVI": "Các mô hình đô thị không bền vững",
-        "relatedCollocates": ["urban sprawl", "inefficient cities"],
+        "relatedCollocates": [
+          "urban sprawl",
+          "inefficient cities"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "unsustainable", "meaning": "không bền vững" }
-          ]
+            {
+              "form": "unsustainable",
+              "meaning": "không bền vững"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -279,7 +403,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174089-29-12-00cc4444",
       "targetLexeme": "renowned as an era of",
       "sourceContext": "Although the Renaissance is renowned as an era of incredible progress in art and architecture...",
       "phase1Inference": {
@@ -295,7 +419,15 @@
           "celebrated as a period of"
         ],
         "wordForms": {
-          "adjective": [{ "form": "renowned", "meaning": "nổi tiếng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "renowned",
+              "meaning": "nổi tiếng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -304,7 +436,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174089-29-13-593bf386",
       "targetLexeme": "birth of urbanism",
       "sourceContext": "...it is rarely noted that the 15th century also marked the birth of urbanism as a true academic discipline.",
       "phase1Inference": {
@@ -320,7 +452,15 @@
           "origin of urban studies"
         ],
         "wordForms": {
-          "noun": [{ "form": "urbanism", "meaning": "chủ nghĩa đô thị" }]
+          "noun": [
+            {
+              "form": "urbanism",
+              "meaning": "chủ nghĩa đô thị"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -329,7 +469,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174089-29-14-110fcb29",
       "targetLexeme": "rigour and method",
       "sourceContext": "The rigour and method behind the conscious conception of a city had been largely missing in Western thought...",
       "phase1Inference": {
@@ -345,7 +485,15 @@
           "thoroughness and procedure"
         ],
         "wordForms": {
-          "noun": [{ "form": "rigour", "meaning": "sự chặt chẽ" }]
+          "noun": [
+            {
+              "form": "rigour",
+              "meaning": "sự chặt chẽ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -354,7 +502,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174089-29-15-42c35c17",
       "targetLexeme": "conscious conception of a city",
       "sourceContext": "The rigour and method behind the conscious conception of a city had been largely missing in Western thought...",
       "phase1Inference": {
@@ -365,9 +513,20 @@
         "sentiment": "neutral",
         "definitionEN": "The deliberate and intentional planning and design of a city as a whole entity.",
         "translationVI": "Quan niệm có ý thức về một thành phố",
-        "relatedCollocates": ["deliberate city planning", "intentional design"],
+        "relatedCollocates": [
+          "deliberate city planning",
+          "intentional design"
+        ],
         "wordForms": {
-          "noun": [{ "form": "conception", "meaning": "quan niệm" }]
+          "noun": [
+            {
+              "form": "conception",
+              "meaning": "quan niệm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -376,7 +535,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174089-29-16-2a425bbe",
       "targetLexeme": "prominent Renaissance men",
       "sourceContext": "...until the moment when prominent Renaissance men pushed forward large-scale urban projects in Italy...",
       "phase1Inference": {
@@ -387,9 +546,20 @@
         "sentiment": "positive",
         "definitionEN": "Important and famous multi-talented individuals from the Renaissance period.",
         "translationVI": "Những nhân vật nổi bật thời Phục hưng",
-        "relatedCollocates": ["leading figures", "notable individuals"],
+        "relatedCollocates": [
+          "leading figures",
+          "notable individuals"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "prominent", "meaning": "nổi bật" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "prominent",
+              "meaning": "nổi bật"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -398,7 +568,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174089-29-17-4522489a",
       "targetLexeme": "reconfiguration",
       "sourceContext": "...such as the reconfiguration of the town of Pienza and the expansion of the city of Ferrara.",
       "phase1Inference": {
@@ -409,9 +579,21 @@
         "sentiment": "neutral",
         "definitionEN": "The action of arranging something in a different way; altering the shape or structure of something.",
         "translationVI": "Sự tái cấu trúc",
-        "relatedCollocates": ["restructuring", "reorganization", "redesign"],
+        "relatedCollocates": [
+          "restructuring",
+          "reorganization",
+          "redesign"
+        ],
         "wordForms": {
-          "verb": [{ "form": "reconfigure", "meaning": "tái cấu trúc" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "reconfigure",
+              "meaning": "tái cấu trúc"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -420,7 +602,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174089-29-18-444dd54b",
       "targetLexeme": "medieval cities",
       "sourceContext": "These works surely inspired Leonardo’s decision to rethink the design of medieval cities, with their winding and overcrowded streets and with houses piled against one another.",
       "phase1Inference": {
@@ -431,11 +613,20 @@
         "sentiment": "neutral",
         "definitionEN": "Cities that developed during the Middle Ages, often characterized by narrow, irregular streets, defensive walls, and dense construction.",
         "translationVI": "Các thành phố thời trung cổ",
-        "relatedCollocates": ["Middle Ages", "historic towns"],
+        "relatedCollocates": [
+          "Middle Ages",
+          "historic towns"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "medieval", "meaning": "thuộc thời trung cổ" }
-          ]
+            {
+              "form": "medieval",
+              "meaning": "thuộc thời trung cổ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -444,7 +635,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174089-29-19-4b62a264",
       "targetLexeme": "winding and overcrowded streets",
       "sourceContext": "...with their winding and overcrowded streets and with houses piled against one another.",
       "phase1Inference": {
@@ -455,12 +646,24 @@
         "sentiment": "negative",
         "definitionEN": "Roads that are not straight and are filled with too many people or things.",
         "translationVI": "Những con đường quanh co và quá đông đúc",
-        "relatedCollocates": ["narrow alleys", "congested roads"],
+        "relatedCollocates": [
+          "narrow alleys",
+          "congested roads"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "winding", "meaning": "quanh co" },
-            { "form": "overcrowded", "meaning": "quá đông đúc" }
-          ]
+            {
+              "form": "winding",
+              "meaning": "quanh co"
+            },
+            {
+              "form": "overcrowded",
+              "meaning": "quá đông đúc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -469,7 +672,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174089-29-20-456515c2",
       "targetLexeme": "coordinated vision",
       "sourceContext": "It is not easy to identify a coordinated vision of Leonardo’s ideal city because of his disordered way of working with notes and sketches.",
       "phase1Inference": {
@@ -480,9 +683,20 @@
         "sentiment": "positive",
         "definitionEN": "A single, unified plan or idea that has been carefully organized.",
         "translationVI": "Tầm nhìn phối hợp",
-        "relatedCollocates": ["unified plan", "coherent concept"],
+        "relatedCollocates": [
+          "unified plan",
+          "coherent concept"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "coordinated", "meaning": "được phối hợp" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "coordinated",
+              "meaning": "được phối hợp"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -491,7 +705,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174089-29-21-5aa13692",
       "targetLexeme": "disordered way of working",
       "sourceContext": "...because of his disordered way of working with notes and sketches.",
       "phase1Inference": {
@@ -502,9 +716,20 @@
         "sentiment": "negative",
         "definitionEN": "A chaotic and unsystematic method of performing tasks.",
         "translationVI": "Cách làm việc lộn xộn",
-        "relatedCollocates": ["unsystematic approach", "chaotic method"],
+        "relatedCollocates": [
+          "unsystematic approach",
+          "chaotic method"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "disordered", "meaning": "lộn xộn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "disordered",
+              "meaning": "lộn xộn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -513,7 +738,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174089-29-22-4a432107",
       "targetLexeme": "innovative thoughts",
       "sourceContext": "But from the largest collection of Leonardo’s papers ever assembled, a series of innovative thoughts can be reconstructed regarding the foundation of a new city...",
       "phase1Inference": {
@@ -524,9 +749,20 @@
         "sentiment": "positive",
         "definitionEN": "New, original, and advanced ideas.",
         "translationVI": "Những suy nghĩ đổi mới",
-        "relatedCollocates": ["creative ideas", "groundbreaking concepts"],
+        "relatedCollocates": [
+          "creative ideas",
+          "groundbreaking concepts"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "innovative", "meaning": "đổi mới" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "innovative",
+              "meaning": "đổi mới"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -535,7 +771,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174089-29-23-5b1f00f4",
       "targetLexeme": "reconstructed",
       "sourceContext": "...a series of innovative thoughts can be reconstructed regarding the foundation of a new city along the Ticino River...",
       "phase1Inference": {
@@ -546,9 +782,20 @@
         "sentiment": "neutral",
         "definitionEN": "To build or form something again after it has been damaged or destroyed; to form an impression or model of something from the available evidence.",
         "translationVI": "Được tái tạo lại",
-        "relatedCollocates": ["rebuilt", "reassembled"],
+        "relatedCollocates": [
+          "rebuilt",
+          "reassembled"
+        ],
         "wordForms": {
-          "verb": [{ "form": "reconstruct", "meaning": "tái tạo" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "reconstruct",
+              "meaning": "tái tạo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -557,7 +804,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174089-29-24-0759dcf5",
       "targetLexeme": "spacious city",
       "sourceContext": "...and he wanted a comfortable and spacious city, with well-ordered streets and architecture.",
       "phase1Inference": {
@@ -568,9 +815,20 @@
         "sentiment": "positive",
         "definitionEN": "A city with a lot of room and open space.",
         "translationVI": "Thành phố rộng rãi",
-        "relatedCollocates": ["open city", "uncongested city"],
+        "relatedCollocates": [
+          "open city",
+          "uncongested city"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "spacious", "meaning": "rộng rãi" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "spacious",
+              "meaning": "rộng rãi"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -579,7 +837,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174089-29-25-19ce0567",
       "targetLexeme": "well-ordered streets",
       "sourceContext": "...with well-ordered streets and architecture.",
       "phase1Inference": {
@@ -590,9 +848,20 @@
         "sentiment": "positive",
         "definitionEN": "Streets that are arranged in a neat, tidy, and logical way, such as a grid pattern.",
         "translationVI": "Những con đường được sắp xếp trật tự",
-        "relatedCollocates": ["grid layout", "orderly streets"],
+        "relatedCollocates": [
+          "grid layout",
+          "orderly streets"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "well-ordered", "meaning": "có trật tự" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "well-ordered",
+              "meaning": "có trật tự"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -601,7 +870,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174089-29-26-3f2e2114",
       "targetLexeme": "towers and battlements",
       "sourceContext": "He recommended ‘high, strong walls’, with ‘towers and battlements of all necessary and pleasant beauty’.",
       "phase1Inference": {
@@ -612,9 +881,20 @@
         "sentiment": "neutral",
         "definitionEN": "Tall, narrow structures and the upper part of a castle wall with openings for shooting through.",
         "translationVI": "Các tháp và tường thành",
-        "relatedCollocates": ["fortifications", "castle walls"],
+        "relatedCollocates": [
+          "fortifications",
+          "castle walls"
+        ],
         "wordForms": {
-          "noun": [{ "form": "battlement", "meaning": "lỗ châu mai" }]
+          "noun": [
+            {
+              "form": "battlement",
+              "meaning": "lỗ châu mai"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -623,7 +903,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174089-29-27-3b06506c",
       "targetLexeme": "consistent with",
       "sourceContext": "His plans for a modern and ‘rational’ city were consistent with Renaissance ideals.",
       "phase1Inference": {
@@ -640,7 +920,15 @@
           "in keeping with"
         ],
         "wordForms": {
-          "adjective": [{ "form": "consistent", "meaning": "nhất quán" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "consistent",
+              "meaning": "nhất quán"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -649,7 +937,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174089-29-28-036164d2",
       "targetLexeme": "in keeping with",
       "sourceContext": "But, in keeping with his personality, Leonardo included several innovations in his urban design.",
       "phase1Inference": {
@@ -660,9 +948,20 @@
         "sentiment": "positive",
         "definitionEN": "In harmony or conformity with.",
         "translationVI": "Phù hợp với",
-        "relatedCollocates": ["in line with", "consistent with"],
+        "relatedCollocates": [
+          "in line with",
+          "consistent with"
+        ],
         "wordForms": {
-          "verb": [{ "form": "keep", "meaning": "giữ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "keep",
+              "meaning": "giữ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -671,7 +970,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174089-29-29-0777f535",
       "targetLexeme": "vertical outdoor staircases",
       "sourceContext": "Leonardo wanted the city to be built on several levels, linked with vertical outdoor staircases.",
       "phase1Inference": {
@@ -682,9 +981,20 @@
         "sentiment": "neutral",
         "definitionEN": "Stairs on the exterior of a building that go straight up, connecting different floors.",
         "translationVI": "Cầu thang bộ ngoài trời theo chiều dọc",
-        "relatedCollocates": ["external stairs", "fire escapes"],
+        "relatedCollocates": [
+          "external stairs",
+          "fire escapes"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "vertical", "meaning": "thẳng đứng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "vertical",
+              "meaning": "thẳng đứng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -693,7 +1003,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174089-29-30-36099298",
       "targetLexeme": "high-rise buildings",
       "sourceContext": "This design can be seen in some of today’s high-rise buildings but was unconventional at the time.",
       "phase1Inference": {
@@ -704,9 +1014,20 @@
         "sentiment": "neutral",
         "definitionEN": "Tall modern buildings with many floors.",
         "translationVI": "Các tòa nhà cao tầng",
-        "relatedCollocates": ["skyscrapers", "tower blocks"],
+        "relatedCollocates": [
+          "skyscrapers",
+          "tower blocks"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "high-rise", "meaning": "cao tầng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "high-rise",
+              "meaning": "cao tầng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -715,7 +1036,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174089-29-31-76ceddf2",
       "targetLexeme": "unconventional at the time",
       "sourceContext": "...but was unconventional at the time.",
       "phase1Inference": {
@@ -726,9 +1047,20 @@
         "sentiment": "neutral",
         "definitionEN": "Not based on or conforming to what is generally done or believed during that period.",
         "translationVI": "Độc đáo vào thời điểm đó",
-        "relatedCollocates": ["unusual for its era", "not traditional"],
+        "relatedCollocates": [
+          "unusual for its era",
+          "not traditional"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "unconventional", "meaning": "khác thường" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "unconventional",
+              "meaning": "khác thường"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -737,7 +1069,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174089-29-32-2f7a2c51",
       "targetLexeme": "taking full advantage of",
       "sourceContext": "Indeed, this idea of taking full advantage of the interior spaces wasn’t implemented until the 1920s and 1930s...",
       "phase1Inference": {
@@ -748,9 +1080,20 @@
         "sentiment": "positive",
         "definitionEN": "To make the best use of an opportunity or available resource.",
         "translationVI": "Tận dụng tối đa",
-        "relatedCollocates": ["making the most of", "fully utilizing"],
+        "relatedCollocates": [
+          "making the most of",
+          "fully utilizing"
+        ],
         "wordForms": {
-          "noun": [{ "form": "advantage", "meaning": "lợi thế" }]
+          "noun": [
+            {
+              "form": "advantage",
+              "meaning": "lợi thế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -759,7 +1102,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174089-29-33-614a4190",
       "targetLexeme": "Modernist movement",
       "sourceContext": "...with the birth of the Modernist movement.",
       "phase1Inference": {
@@ -770,9 +1113,20 @@
         "sentiment": "neutral",
         "definitionEN": "A philosophical and artistic movement in the late 19th and early 20th centuries that fostered a period of experimentation in the arts, architecture, and literature.",
         "translationVI": "Phong trào Hiện đại",
-        "relatedCollocates": ["Modernism", "avant-garde"],
+        "relatedCollocates": [
+          "Modernism",
+          "avant-garde"
+        ],
         "wordForms": {
-          "noun": [{ "form": "movement", "meaning": "phong trào" }]
+          "noun": [
+            {
+              "form": "movement",
+              "meaning": "phong trào"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -781,7 +1135,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174089-29-34-680c111b",
       "targetLexeme": "walk undisturbed",
       "sourceContext": "While in the upper layers of the city, people could walk undisturbed between elegant palaces and streets...",
       "phase1Inference": {
@@ -792,11 +1146,20 @@
         "sentiment": "positive",
         "definitionEN": "To move around on foot without being interrupted or bothered.",
         "translationVI": "Đi lại mà không bị làm phiền",
-        "relatedCollocates": ["move freely", "without interruption"],
+        "relatedCollocates": [
+          "move freely",
+          "without interruption"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "undisturbed", "meaning": "không bị làm phiền" }
-          ]
+            {
+              "form": "undisturbed",
+              "meaning": "không bị làm phiền"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -805,7 +1168,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174089-29-35-41719cfd",
       "targetLexeme": "elegant palaces",
       "sourceContext": "...people could walk undisturbed between elegant palaces and streets...",
       "phase1Inference": {
@@ -816,9 +1179,20 @@
         "sentiment": "positive",
         "definitionEN": "Graceful and stylishly beautiful large residences, especially of a sovereign or bishop.",
         "translationVI": "Những cung điện thanh lịch",
-        "relatedCollocates": ["grand residences", "stately homes"],
+        "relatedCollocates": [
+          "grand residences",
+          "stately homes"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "elegant", "meaning": "thanh lịch" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "elegant",
+              "meaning": "thanh lịch"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -827,7 +1201,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174089-29-36-4eac2d5a",
       "targetLexeme": "fusion of architecture and engineering",
       "sourceContext": "But the true originality of Leonardo’s vision was its fusion of architecture and engineering.",
       "phase1Inference": {
@@ -843,7 +1217,15 @@
           "synthesis of art and science"
         ],
         "wordForms": {
-          "noun": [{ "form": "fusion", "meaning": "sự hợp nhất" }]
+          "noun": [
+            {
+              "form": "fusion",
+              "meaning": "sự hợp nhất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -852,7 +1234,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174089-29-37-242ba577",
       "targetLexeme": "extensive hydraulic plants",
       "sourceContext": "Leonardo designed extensive hydraulic plants to create artificial canals throughout the city.",
       "phase1Inference": {
@@ -863,9 +1245,20 @@
         "sentiment": "neutral",
         "definitionEN": "Large-scale systems involving the movement and control of water.",
         "translationVI": "Các hệ thống thủy lực lớn",
-        "relatedCollocates": ["water management systems", "canal networks"],
+        "relatedCollocates": [
+          "water management systems",
+          "canal networks"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "hydraulic", "meaning": "thuộc về thủy lực" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "hydraulic",
+              "meaning": "thuộc về thủy lực"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -874,7 +1267,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174089-29-38-4b9f1b5d",
       "targetLexeme": "regulated by clocks and basins",
       "sourceContext": "The canals, regulated by clocks and basins, were supposed to make it easier for boats to navigate inland.",
       "phase1Inference": {
@@ -885,9 +1278,20 @@
         "sentiment": "neutral",
         "definitionEN": "Controlled by time-keeping devices and water-holding reservoirs.",
         "translationVI": "Được điều chỉnh bởi đồng hồ và bể chứa",
-        "relatedCollocates": ["controlled by", "managed with"],
+        "relatedCollocates": [
+          "controlled by",
+          "managed with"
+        ],
         "wordForms": {
-          "verb": [{ "form": "regulate", "meaning": "điều chỉnh" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "regulate",
+              "meaning": "điều chỉnh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -896,7 +1300,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174089-29-39-790bcf86",
       "targetLexeme": "navigate inland",
       "sourceContext": "...were supposed to make it easier for boats to navigate inland.",
       "phase1Inference": {
@@ -907,9 +1311,20 @@
         "sentiment": "neutral",
         "definitionEN": "To find a route and travel on water away from the coast and into the interior of a country.",
         "translationVI": "Đi vào đất liền",
-        "relatedCollocates": ["travel upstream", "inland navigation"],
+        "relatedCollocates": [
+          "travel upstream",
+          "inland navigation"
+        ],
         "wordForms": {
-          "verb": [{ "form": "navigate", "meaning": "điều hướng, đi lại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "navigate",
+              "meaning": "điều hướng, đi lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -918,7 +1333,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174089-29-40-3d3605e8",
       "targetLexeme": "adjacent houses",
       "sourceContext": "...that the width of the streets ought to match the average height of the adjacent houses...",
       "phase1Inference": {
@@ -929,9 +1344,20 @@
         "sentiment": "neutral",
         "definitionEN": "Houses that are next to or adjoining something else.",
         "translationVI": "Những ngôi nhà liền kề",
-        "relatedCollocates": ["neighboring houses", "adjoining properties"],
+        "relatedCollocates": [
+          "neighboring houses",
+          "adjoining properties"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "adjacent", "meaning": "liền kề" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "adjacent",
+              "meaning": "liền kề"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -940,7 +1366,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174089-29-41-4c29e543",
       "targetLexeme": "reduce the risk of damage from earthquakes",
       "sourceContext": "...to allow access to sun and reduce the risk of damage from earthquakes.",
       "phase1Inference": {
@@ -956,7 +1382,15 @@
           "seismic retrofitting"
         ],
         "wordForms": {
-          "verb": [{ "form": "reduce", "meaning": "giảm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "reduce",
+              "meaning": "giảm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -965,7 +1399,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174089-29-42-62c0411f",
       "targetLexeme": "thoroughly technically conceived",
       "sourceContext": "Although some of these features existed in Roman cities, before Leonardo’s drawings there had never been a multi-level, compact modern city which was thoroughly technically conceived.",
       "phase1Inference": {
@@ -981,7 +1415,15 @@
           "meticulously planned"
         ],
         "wordForms": {
-          "verb": [{ "form": "conceive", "meaning": "hình thành, nhận thức" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "conceive",
+              "meaning": "hình thành, nhận thức"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -990,7 +1432,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174089-29-43-1f4b388d",
       "targetLexeme": "subdivision of the city by function",
       "sourceContext": "For example, the subdivision of the city by function – with services and infrastructures located in the lower levels and wide and well-ventilated boulevards and walkways above for residents...",
       "phase1Inference": {
@@ -1001,9 +1443,20 @@
         "sentiment": "neutral",
         "definitionEN": "The division of a city into different zones or areas, each with a specific purpose (e.g., residential, commercial, industrial).",
         "translationVI": "Sự phân chia thành phố theo chức năng",
-        "relatedCollocates": ["zoning", "functional division"],
+        "relatedCollocates": [
+          "zoning",
+          "functional division"
+        ],
         "wordForms": {
-          "noun": [{ "form": "subdivision", "meaning": "sự phân chia" }]
+          "noun": [
+            {
+              "form": "subdivision",
+              "meaning": "sự phân chia"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1012,7 +1465,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174089-29-44-76b465b4",
       "targetLexeme": "well-ventilated boulevards",
       "sourceContext": "...and wide and well-ventilated boulevards and walkways above for residents...",
       "phase1Inference": {
@@ -1023,11 +1476,20 @@
         "sentiment": "positive",
         "definitionEN": "Broad streets, often with trees and greenery, that have a good supply of fresh air.",
         "translationVI": "Các đại lộ thông thoáng",
-        "relatedCollocates": ["wide avenues", "airy streets"],
+        "relatedCollocates": [
+          "wide avenues",
+          "airy streets"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "well-ventilated", "meaning": "thông gió tốt" }
-          ]
+            {
+              "form": "well-ventilated",
+              "meaning": "thông gió tốt"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1036,7 +1498,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174089-29-45-46ed2c00",
       "targetLexeme": "renovation of Paris",
       "sourceContext": "...is an idea that can be found in Georges-Eugène Haussmann’s renovation of Paris under Emperor Napoleon III between 1853 and 1870.",
       "phase1Inference": {
@@ -1047,9 +1509,20 @@
         "sentiment": "neutral",
         "definitionEN": "The large-scale rebuilding and modernization of Paris in the 19th century.",
         "translationVI": "Sự cải tạo Paris",
-        "relatedCollocates": ["urban renewal", "redevelopment"],
+        "relatedCollocates": [
+          "urban renewal",
+          "redevelopment"
+        ],
         "wordForms": {
-          "noun": [{ "form": "renovation", "meaning": "sự cải tạo" }]
+          "noun": [
+            {
+              "form": "renovation",
+              "meaning": "sự cải tạo"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1058,7 +1531,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174089-29-46-4b974a68",
       "targetLexeme": "suggest a way forward for",
       "sourceContext": "Today, Leonardo’s ideas are not simply valid, they actually suggest a way forward for urban planning.",
       "phase1Inference": {
@@ -1074,7 +1547,15 @@
           "offer a path for progress"
         ],
         "wordForms": {
-          "verb": [{ "form": "suggest", "meaning": "gợi ý" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "suggest",
+              "meaning": "gợi ý"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1083,7 +1564,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174089-29-47-208530d8",
       "targetLexeme": "compact city",
       "sourceContext": "Many scholars think that the compact city, built upwards instead of outwards, integrated with nature (especially water systems), with efficient transport infrastructure, could help modern cities become more efficient and sustainable.",
       "phase1Inference": {
@@ -1094,9 +1575,20 @@
         "sentiment": "positive",
         "definitionEN": "An urban planning concept that promotes relatively high residential density with mixed land uses, based on an efficient public transport system.",
         "translationVI": "Thành phố nhỏ gọn",
-        "relatedCollocates": ["dense city", "urban density"],
+        "relatedCollocates": [
+          "dense city",
+          "urban density"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "compact", "meaning": "nhỏ gọn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "compact",
+              "meaning": "nhỏ gọn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1105,7 +1597,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174089-29-48-59a4f097",
       "targetLexeme": "built upwards instead of outwards",
       "sourceContext": "...the compact city, built upwards instead of outwards...",
       "phase1Inference": {
@@ -1122,9 +1614,18 @@
           "urban sprawl (antonym)"
         ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
           "adverb": [
-            { "form": "upwards", "meaning": "hướng lên trên" },
-            { "form": "outwards", "meaning": "hướng ra ngoài" }
+            {
+              "form": "upwards",
+              "meaning": "hướng lên trên"
+            },
+            {
+              "form": "outwards",
+              "meaning": "hướng ra ngoài"
+            }
           ]
         }
       },
@@ -1134,7 +1635,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174089-29-49-43324310",
       "targetLexeme": "integrated with nature",
       "sourceContext": "...integrated with nature (especially water systems)...",
       "phase1Inference": {
@@ -1145,9 +1646,20 @@
         "sentiment": "positive",
         "definitionEN": "Combined with the natural world in a way that makes them part of a whole.",
         "translationVI": "Tích hợp với thiên nhiên",
-        "relatedCollocates": ["in harmony with nature", "biophilic design"],
+        "relatedCollocates": [
+          "in harmony with nature",
+          "biophilic design"
+        ],
         "wordForms": {
-          "verb": [{ "form": "integrate", "meaning": "tích hợp" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "integrate",
+              "meaning": "tích hợp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1156,7 +1668,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174089-29-50-2e409588",
       "targetLexeme": "efficient transport infrastructure",
       "sourceContext": "...with efficient transport infrastructure, could help modern cities become more efficient and sustainable.",
       "phase1Inference": {
@@ -1172,7 +1684,15 @@
           "transport network"
         ],
         "wordForms": {
-          "noun": [{ "form": "infrastructure", "meaning": "cơ sở hạ tầng" }]
+          "noun": [
+            {
+              "form": "infrastructure",
+              "meaning": "cơ sở hạ tầng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1181,7 +1701,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174089-29-51-7df9af84",
       "targetLexeme": "aligned so closely with",
       "sourceContext": "This is yet another reason why Leonardo was aligned so closely with modern urban planning and centuries ahead of his time.",
       "phase1Inference": {
@@ -1192,9 +1712,20 @@
         "sentiment": "positive",
         "definitionEN": "To be in a position of agreement or alliance with something to a great degree.",
         "translationVI": "Tương đồng chặt chẽ với",
-        "relatedCollocates": ["in close agreement with", "very similar to"],
+        "relatedCollocates": [
+          "in close agreement with",
+          "very similar to"
+        ],
         "wordForms": {
-          "verb": [{ "form": "align", "meaning": "sắp thẳng hàng, liên kết" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "align",
+              "meaning": "sắp thẳng hàng, liên kết"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1203,7 +1734,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174089-29-52-510cfd29",
       "targetLexeme": "universally associated with",
       "sourceContext": "The word ‘genius’ is universally associated with the name of Leonardo da Vinci.",
       "phase1Inference": {
@@ -1214,9 +1745,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be connected in people's minds with something all over the world.",
         "translationVI": "Được liên kết phổ biến với",
-        "relatedCollocates": ["widely linked to", "commonly connected with"],
+        "relatedCollocates": [
+          "widely linked to",
+          "commonly connected with"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "universally", "meaning": "một cách phổ quát" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "universally",
+              "meaning": "một cách phổ quát"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1225,7 +1767,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174089-29-53-18e62f0c",
       "targetLexeme": "carried down the centuries",
       "sourceContext": "...his thinking has carried down the centuries and still surprises today.",
       "phase1Inference": {
@@ -1241,7 +1783,15 @@
           "endured through time"
         ],
         "wordForms": {
-          "verb": [{ "form": "carry down", "meaning": "lưu truyền" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "carry down",
+              "meaning": "lưu truyền"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1250,7 +1800,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174089-29-54-6e6cb35a",
       "targetLexeme": "spread of the plague",
       "sourceContext": "...and took place after the spread of the plague in the 14th century...",
       "phase1Inference": {
@@ -1261,9 +1811,20 @@
         "sentiment": "negative",
         "definitionEN": "The expansion of the contagious bacterial disease, especially the Black Death.",
         "translationVI": "Sự lây lan của bệnh dịch hạch",
-        "relatedCollocates": ["outbreak of disease", "pandemic"],
+        "relatedCollocates": [
+          "outbreak of disease",
+          "pandemic"
+        ],
         "wordForms": {
-          "noun": [{ "form": "plague", "meaning": "bệnh dịch hạch" }]
+          "noun": [
+            {
+              "form": "plague",
+              "meaning": "bệnh dịch hạch"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1272,7 +1833,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174089-29-55-45288c1c",
       "targetLexeme": "global crisis",
       "sourceContext": "...which caused a global crisis resulting in some 200 million deaths across Europe and Asia.",
       "phase1Inference": {
@@ -1283,9 +1844,20 @@
         "sentiment": "negative",
         "definitionEN": "A time of intense difficulty, trouble, or danger affecting the entire world.",
         "translationVI": "Cuộc khủng hoảng toàn cầu",
-        "relatedCollocates": ["worldwide emergency", "global catastrophe"],
+        "relatedCollocates": [
+          "worldwide emergency",
+          "global catastrophe"
+        ],
         "wordForms": {
-          "noun": [{ "form": "crisis", "meaning": "khủng hoảng" }]
+          "noun": [
+            {
+              "form": "crisis",
+              "meaning": "khủng hoảng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1294,7 +1866,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174089-29-56-790eeb14",
       "targetLexeme": "turned his thoughts to",
       "sourceContext": "...Leonardo turned his thoughts to urban planning problems.",
       "phase1Inference": {
@@ -1305,9 +1877,20 @@
         "sentiment": "neutral",
         "definitionEN": "To begin to think about or consider a particular subject.",
         "translationVI": "Chuyển suy nghĩ của mình sang",
-        "relatedCollocates": ["began to consider", "focused his attention on"],
+        "relatedCollocates": [
+          "began to consider",
+          "focused his attention on"
+        ],
         "wordForms": {
-          "verb": [{ "form": "turn", "meaning": "xoay, chuyển" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "turn",
+              "meaning": "xoay, chuyển"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1316,7 +1899,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174089-29-57-580498e5",
       "targetLexeme": "academic discipline",
       "sourceContext": "...marked the birth of urbanism as a true academic discipline.",
       "phase1Inference": {
@@ -1327,9 +1910,20 @@
         "sentiment": "neutral",
         "definitionEN": "A branch of knowledge that is taught and researched as part of higher education.",
         "translationVI": "Ngành học thuật",
-        "relatedCollocates": ["field of study", "branch of knowledge"],
+        "relatedCollocates": [
+          "field of study",
+          "branch of knowledge"
+        ],
         "wordForms": {
-          "noun": [{ "form": "discipline", "meaning": "ngành, kỷ luật" }]
+          "noun": [
+            {
+              "form": "discipline",
+              "meaning": "ngành, kỷ luật"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1338,7 +1932,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174089-29-58-0f95f092",
       "targetLexeme": "largely missing in",
       "sourceContext": "The rigour and method behind the conscious conception of a city had been largely missing in Western thought...",
       "phase1Inference": {
@@ -1349,9 +1943,20 @@
         "sentiment": "negative",
         "definitionEN": "Mostly absent from or not present in something.",
         "translationVI": "Phần lớn thiếu vắng trong",
-        "relatedCollocates": ["mostly absent from", "generally lacking in"],
+        "relatedCollocates": [
+          "mostly absent from",
+          "generally lacking in"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "missing", "meaning": "thiếu, mất" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "missing",
+              "meaning": "thiếu, mất"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1360,7 +1965,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174089-29-59-71570881",
       "targetLexeme": "piled against one another",
       "sourceContext": "...with houses piled against one another.",
       "phase1Inference": {
@@ -1371,9 +1976,20 @@
         "sentiment": "negative",
         "definitionEN": "Built very closely together in a disorderly heap.",
         "translationVI": "Chất đống vào nhau",
-        "relatedCollocates": ["crammed together", "huddled together"],
+        "relatedCollocates": [
+          "crammed together",
+          "huddled together"
+        ],
         "wordForms": {
-          "verb": [{ "form": "pile", "meaning": "chất đống" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "pile",
+              "meaning": "chất đống"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1382,7 +1998,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174089-29-60-01947b47",
       "targetLexeme": "papers ever assembled",
       "sourceContext": "But from the largest collection of Leonardo’s papers ever assembled, a series of innovative thoughts can be reconstructed...",
       "phase1Inference": {
@@ -1398,7 +2014,15 @@
           "most complete compilation"
         ],
         "wordForms": {
-          "verb": [{ "form": "assemble", "meaning": "tập hợp" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "assemble",
+              "meaning": "tập hợp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1407,7 +2031,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174089-29-61-35d7dc34",
       "targetLexeme": "implemented",
       "sourceContext": "Indeed, this idea of taking full advantage of the interior spaces wasn’t implemented until the 1920s and 1930s...",
       "phase1Inference": {
@@ -1418,9 +2042,21 @@
         "sentiment": "neutral",
         "definitionEN": "To put a decision, plan, or agreement into effect.",
         "translationVI": "Được thực thi",
-        "relatedCollocates": ["put into practice", "carried out", "executed"],
+        "relatedCollocates": [
+          "put into practice",
+          "carried out",
+          "executed"
+        ],
         "wordForms": {
-          "verb": [{ "form": "implement", "meaning": "thực thi" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "implement",
+              "meaning": "thực thi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1429,7 +2065,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174089-29-62-119eaae0",
       "targetLexeme": "true originality",
       "sourceContext": "But the true originality of Leonardo’s vision was its fusion of architecture and engineering.",
       "phase1Inference": {
@@ -1440,9 +2076,20 @@
         "sentiment": "positive",
         "definitionEN": "The genuine quality of being novel, creative, and not derived from something else.",
         "translationVI": "Sự độc đáo thực sự",
-        "relatedCollocates": ["genuine innovation", "real novelty"],
+        "relatedCollocates": [
+          "genuine innovation",
+          "real novelty"
+        ],
         "wordForms": {
-          "noun": [{ "form": "originality", "meaning": "tính độc đáo" }]
+          "noun": [
+            {
+              "form": "originality",
+              "meaning": "tính độc đáo"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1451,7 +2098,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174089-29-63-1ee61804",
       "targetLexeme": "Roman cities",
       "sourceContext": "Although some of these features existed in Roman cities, before Leonardo’s drawings there had never been a multi-level, compact modern city...",
       "phase1Inference": {
@@ -1462,9 +2109,20 @@
         "sentiment": "neutral",
         "definitionEN": "Cities built during the time of the Roman Empire, often characterized by a grid layout, forums, aqueducts, and public baths.",
         "translationVI": "Các thành phố La Mã",
-        "relatedCollocates": ["ancient Rome", "Roman Empire"],
+        "relatedCollocates": [
+          "ancient Rome",
+          "Roman Empire"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "Roman", "meaning": "thuộc La Mã" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "Roman",
+              "meaning": "thuộc La Mã"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1473,7 +2131,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174089-29-64-4861e23f",
       "targetLexeme": "not simply valid",
       "sourceContext": "Today, Leonardo’s ideas are not simply valid, they actually suggest a way forward for urban planning.",
       "phase1Inference": {
@@ -1484,9 +2142,20 @@
         "sentiment": "positive",
         "definitionEN": "Not just sound, just, or well-founded; having a greater significance.",
         "translationVI": "Không chỉ đơn thuần là hợp lệ",
-        "relatedCollocates": ["not just relevant", "more than just correct"],
+        "relatedCollocates": [
+          "not just relevant",
+          "more than just correct"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "valid", "meaning": "hợp lệ" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "valid",
+              "meaning": "hợp lệ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1495,7 +2164,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174089-29-65-42ae4e7d",
       "targetLexeme": "yet another reason",
       "sourceContext": "This is yet another reason why Leonardo was aligned so closely with modern urban planning...",
       "phase1Inference": {
@@ -1506,9 +2175,20 @@
         "sentiment": "neutral",
         "definitionEN": "One more reason in a series of reasons.",
         "translationVI": "Thêm một lý do nữa",
-        "relatedCollocates": ["one more reason", "an additional reason"],
+        "relatedCollocates": [
+          "one more reason",
+          "an additional reason"
+        ],
         "wordForms": {
-          "noun": [{ "form": "reason", "meaning": "lý do" }]
+          "noun": [
+            {
+              "form": "reason",
+              "meaning": "lý do"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1517,7 +2197,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "1761813174089-29-66-2eb20353",
       "targetLexeme": "scientific spirit",
       "sourceContext": "A true Renaissance man, he embodied scientific spirit, artistic talent and humanist sensibilities.",
       "phase1Inference": {
@@ -1528,9 +2208,20 @@
         "sentiment": "positive",
         "definitionEN": "An attitude of inquiry, curiosity, and reliance on evidence and logical reasoning.",
         "translationVI": "Tinh thần khoa học",
-        "relatedCollocates": ["spirit of inquiry", "rational mindset"],
+        "relatedCollocates": [
+          "spirit of inquiry",
+          "rational mindset"
+        ],
         "wordForms": {
-          "noun": [{ "form": "spirit", "meaning": "tinh thần" }]
+          "noun": [
+            {
+              "form": "spirit",
+              "meaning": "tinh thần"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1539,7 +2230,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "1761813174089-29-67-32b89b75",
       "targetLexeme": "artistic talent",
       "sourceContext": "A true Renaissance man, he embodied scientific spirit, artistic talent and humanist sensibilities.",
       "phase1Inference": {
@@ -1550,9 +2241,20 @@
         "sentiment": "positive",
         "definitionEN": "A natural aptitude or skill in the arts, such as painting, music, or sculpture.",
         "translationVI": "Tài năng nghệ thuật",
-        "relatedCollocates": ["creative ability", "artistic skill"],
+        "relatedCollocates": [
+          "creative ability",
+          "artistic skill"
+        ],
         "wordForms": {
-          "noun": [{ "form": "talent", "meaning": "tài năng" }]
+          "noun": [
+            {
+              "form": "talent",
+              "meaning": "tài năng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1561,7 +2263,7 @@
       }
     },
     {
-      "id": 69,
+      "id": "1761813174089-29-68-42b1e569",
       "targetLexeme": "revolutionise",
       "sourceContext": "...radical solutions were called for to revolutionise the way people lived...",
       "phase1Inference": {
@@ -1572,9 +2274,20 @@
         "sentiment": "positive",
         "definitionEN": "To change something radically or fundamentally.",
         "translationVI": "Cách mạng hóa",
-        "relatedCollocates": ["transform", "radically change"],
+        "relatedCollocates": [
+          "transform",
+          "radically change"
+        ],
         "wordForms": {
-          "noun": [{ "form": "revolution", "meaning": "cuộc cách mạng" }]
+          "noun": [
+            {
+              "form": "revolution",
+              "meaning": "cuộc cách mạng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1583,7 +2296,7 @@
       }
     },
     {
-      "id": 70,
+      "id": "1761813174089-29-69-14b70590",
       "targetLexeme": "urban planning problems",
       "sourceContext": "...Leonardo turned his thoughts to urban planning problems.",
       "phase1Inference": {
@@ -1599,7 +2312,15 @@
           "urban design challenges"
         ],
         "wordForms": {
-          "noun": [{ "form": "urban planning", "meaning": "quy hoạch đô thị" }]
+          "noun": [
+            {
+              "form": "urban planning",
+              "meaning": "quy hoạch đô thị"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1608,7 +2329,7 @@
       }
     },
     {
-      "id": 71,
+      "id": "1761813174089-29-70-17bfff96",
       "targetLexeme": "excessive costs",
       "sourceContext": "Following a typical Renaissance trend, he began to work on an ‘ideal city’ project – due to its excessive costs – would remain unfulfilled.",
       "phase1Inference": {
@@ -1619,9 +2340,20 @@
         "sentiment": "negative",
         "definitionEN": "An amount of money needed for a purpose that is more than is necessary, normal, or desirable.",
         "translationVI": "Chi phí quá cao",
-        "relatedCollocates": ["high expenses", "exorbitant costs"],
+        "relatedCollocates": [
+          "high expenses",
+          "exorbitant costs"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "excessive", "meaning": "quá mức" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "excessive",
+              "meaning": "quá mức"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1630,7 +2362,7 @@
       }
     },
     {
-      "id": 72,
+      "id": "1761813174089-29-71-194323a2",
       "targetLexeme": "remain unfulfilled",
       "sourceContext": "...due to its excessive costs – would remain unfulfilled.",
       "phase1Inference": {
@@ -1641,11 +2373,20 @@
         "sentiment": "negative",
         "definitionEN": "To continue to be not carried out or brought to completion.",
         "translationVI": "Vẫn chưa được thực hiện",
-        "relatedCollocates": ["not realized", "never completed"],
+        "relatedCollocates": [
+          "not realized",
+          "never completed"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "unfulfilled", "meaning": "không được thực hiện" }
-          ]
+            {
+              "form": "unfulfilled",
+              "meaning": "không được thực hiện"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1654,7 +2395,7 @@
       }
     },
     {
-      "id": 73,
+      "id": "1761813174089-29-72-1b2f5ba9",
       "targetLexeme": "large-scale urban projects",
       "sourceContext": "...prominent Renaissance men pushed forward large-scale urban projects in Italy...",
       "phase1Inference": {
@@ -1670,7 +2411,15 @@
           "large-scale construction"
         ],
         "wordForms": {
-          "adjective": [{ "form": "large-scale", "meaning": "quy mô lớn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "large-scale",
+              "meaning": "quy mô lớn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1679,7 +2428,7 @@
       }
     },
     {
-      "id": 74,
+      "id": "1761813174089-29-73-623c82b5",
       "targetLexeme": "rethink the design",
       "sourceContext": "These works surely inspired Leonardo’s decision to rethink the design of medieval cities...",
       "phase1Inference": {
@@ -1690,9 +2439,20 @@
         "sentiment": "neutral",
         "definitionEN": "To think again about a plan, idea, or system in order to change or improve it.",
         "translationVI": "Suy nghĩ lại về thiết kế",
-        "relatedCollocates": ["reconsider the layout", "re-evaluate the plan"],
+        "relatedCollocates": [
+          "reconsider the layout",
+          "re-evaluate the plan"
+        ],
         "wordForms": {
-          "verb": [{ "form": "rethink", "meaning": "suy nghĩ lại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "rethink",
+              "meaning": "suy nghĩ lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1701,7 +2461,7 @@
       }
     },
     {
-      "id": 75,
+      "id": "1761813174089-29-74-566ff7b0",
       "targetLexeme": "sketches",
       "sourceContext": "...because of his disordered way of working with notes and sketches.",
       "phase1Inference": {
@@ -1712,9 +2472,20 @@
         "sentiment": "neutral",
         "definitionEN": "Rough or unfinished drawings or paintings, often made to assist in making a more finished picture.",
         "translationVI": "Các bản phác thảo",
-        "relatedCollocates": ["drawings", "drafts"],
+        "relatedCollocates": [
+          "drawings",
+          "drafts"
+        ],
         "wordForms": {
-          "noun": [{ "form": "sketch", "meaning": "bản phác thảo" }]
+          "noun": [
+            {
+              "form": "sketch",
+              "meaning": "bản phác thảo"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1723,7 +2494,7 @@
       }
     },
     {
-      "id": 76,
+      "id": "1761813174089-29-75-06169da0",
       "targetLexeme": "innovations",
       "sourceContext": "But, in keeping with his personality, Leonardo included several innovations in his urban design.",
       "phase1Inference": {
@@ -1734,9 +2505,21 @@
         "sentiment": "positive",
         "definitionEN": "New methods, ideas, or products.",
         "translationVI": "Những sự đổi mới",
-        "relatedCollocates": ["new ideas", "inventions", "breakthroughs"],
+        "relatedCollocates": [
+          "new ideas",
+          "inventions",
+          "breakthroughs"
+        ],
         "wordForms": {
-          "verb": [{ "form": "innovate", "meaning": "đổi mới" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "innovate",
+              "meaning": "đổi mới"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1745,7 +2528,7 @@
       }
     },
     {
-      "id": 77,
+      "id": "1761813174089-29-76-7cb74fb6",
       "targetLexeme": "interior spaces",
       "sourceContext": "...this idea of taking full advantage of the interior spaces wasn’t implemented until the 1920s and 1930s...",
       "phase1Inference": {
@@ -1756,9 +2539,20 @@
         "sentiment": "neutral",
         "definitionEN": "The areas inside a building.",
         "translationVI": "Không gian nội thất",
-        "relatedCollocates": ["indoor areas", "internal spaces"],
+        "relatedCollocates": [
+          "indoor areas",
+          "internal spaces"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "interior", "meaning": "bên trong" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "interior",
+              "meaning": "bên trong"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1767,7 +2561,7 @@
       }
     },
     {
-      "id": 78,
+      "id": "1761813174089-29-77-7480952b",
       "targetLexeme": "artificial canals",
       "sourceContext": "Leonardo designed extensive hydraulic plants to create artificial canals throughout the city.",
       "phase1Inference": {
@@ -1778,9 +2572,20 @@
         "sentiment": "neutral",
         "definitionEN": "Waterways made by people for boats or for irrigation.",
         "translationVI": "Các kênh đào nhân tạo",
-        "relatedCollocates": ["man-made waterways", "water channels"],
+        "relatedCollocates": [
+          "man-made waterways",
+          "water channels"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "artificial", "meaning": "nhân tạo" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "artificial",
+              "meaning": "nhân tạo"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1789,7 +2594,7 @@
       }
     },
     {
-      "id": 79,
+      "id": "1761813174089-29-78-35efb3ec",
       "targetLexeme": "contemporary cities",
       "sourceContext": "...a rule still followed in many contemporary cities across Italy...",
       "phase1Inference": {
@@ -1800,9 +2605,20 @@
         "sentiment": "neutral",
         "definitionEN": "Cities existing or occurring in the present time.",
         "translationVI": "Các thành phố đương đại",
-        "relatedCollocates": ["modern cities", "present-day cities"],
+        "relatedCollocates": [
+          "modern cities",
+          "present-day cities"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "contemporary", "meaning": "đương đại" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "contemporary",
+              "meaning": "đương đại"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1811,7 +2627,7 @@
       }
     },
     {
-      "id": 80,
+      "id": "1761813174089-29-79-6d8c360e",
       "targetLexeme": "multi-level",
       "sourceContext": "...there had never been a multi-level, compact modern city which was thoroughly technically conceived.",
       "phase1Inference": {
@@ -1822,9 +2638,20 @@
         "sentiment": "neutral",
         "definitionEN": "Having several different floors or layers.",
         "translationVI": "Đa tầng",
-        "relatedCollocates": ["multi-story", "several floors"],
+        "relatedCollocates": [
+          "multi-story",
+          "several floors"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "multi-level", "meaning": "đa tầng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "multi-level",
+              "meaning": "đa tầng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1833,7 +2660,7 @@
       }
     },
     {
-      "id": 81,
+      "id": "1761813174089-29-80-08c188a7",
       "targetLexeme": "infrastructures",
       "sourceContext": "...with services and infrastructures located in the lower levels...",
       "phase1Inference": {
@@ -1844,9 +2671,20 @@
         "sentiment": "neutral",
         "definitionEN": "The basic physical and organizational structures and facilities (e.g., buildings, roads, power supplies) needed for the operation of a society or enterprise.",
         "translationVI": "Các cơ sở hạ tầng",
-        "relatedCollocates": ["public services", "facilities"],
+        "relatedCollocates": [
+          "public services",
+          "facilities"
+        ],
         "wordForms": {
-          "noun": [{ "form": "infrastructure", "meaning": "cơ sở hạ tầng" }]
+          "noun": [
+            {
+              "form": "infrastructure",
+              "meaning": "cơ sở hạ tầng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1855,7 +2693,7 @@
       }
     },
     {
-      "id": 82,
+      "id": "1761813174089-29-81-4b9fc6ec",
       "targetLexeme": "walkways",
       "sourceContext": "...and wide and well-ventilated boulevards and walkways above for residents...",
       "phase1Inference": {
@@ -1866,9 +2704,20 @@
         "sentiment": "neutral",
         "definitionEN": "A passage or path for walking along, especially one that is raised above the ground.",
         "translationVI": "Lối đi bộ",
-        "relatedCollocates": ["footpaths", "pedestrian paths"],
+        "relatedCollocates": [
+          "footpaths",
+          "pedestrian paths"
+        ],
         "wordForms": {
-          "noun": [{ "form": "walkway", "meaning": "lối đi bộ" }]
+          "noun": [
+            {
+              "form": "walkway",
+              "meaning": "lối đi bộ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1877,7 +2726,7 @@
       }
     },
     {
-      "id": 83,
+      "id": "1761813174089-29-82-30f02b48",
       "targetLexeme": "Emperor",
       "sourceContext": "...renovation of Paris under Emperor Napoleon III between 1853 and 1870.",
       "phase1Inference": {
@@ -1888,9 +2737,21 @@
         "sentiment": "neutral",
         "definitionEN": "A sovereign ruler of great power and rank, especially one ruling an empire.",
         "translationVI": "Hoàng đế",
-        "relatedCollocates": ["ruler", "monarch", "king"],
+        "relatedCollocates": [
+          "ruler",
+          "monarch",
+          "king"
+        ],
         "wordForms": {
-          "noun": [{ "form": "emperor", "meaning": "hoàng đế" }]
+          "noun": [
+            {
+              "form": "emperor",
+              "meaning": "hoàng đế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1899,7 +2760,7 @@
       }
     },
     {
-      "id": 84,
+      "id": "1761813174089-29-83-112564b3",
       "targetLexeme": "water systems",
       "sourceContext": "...integrated with nature (especially water systems)...",
       "phase1Inference": {
@@ -1910,9 +2771,21 @@
         "sentiment": "neutral",
         "definitionEN": "The infrastructure for collecting, treating, storing, and distributing water.",
         "translationVI": "Các hệ thống nước",
-        "relatedCollocates": ["canals", "rivers", "hydraulic systems"],
+        "relatedCollocates": [
+          "canals",
+          "rivers",
+          "hydraulic systems"
+        ],
         "wordForms": {
-          "noun": [{ "form": "system", "meaning": "hệ thống" }]
+          "noun": [
+            {
+              "form": "system",
+              "meaning": "hệ thống"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1921,7 +2794,7 @@
       }
     },
     {
-      "id": 85,
+      "id": "1761813174089-29-84-042f3d87",
       "targetLexeme": "modern urban planning",
       "sourceContext": "This is yet another reason why Leonardo was aligned so closely with modern urban planning...",
       "phase1Inference": {
@@ -1932,9 +2805,20 @@
         "sentiment": "neutral",
         "definitionEN": "The contemporary technical and political process concerned with the development and design of land use and the built environment.",
         "translationVI": "Quy hoạch đô thị hiện đại",
-        "relatedCollocates": ["city planning", "urban design"],
+        "relatedCollocates": [
+          "city planning",
+          "urban design"
+        ],
         "wordForms": {
-          "noun": [{ "form": "urban planning", "meaning": "quy hoạch đô thị" }]
+          "noun": [
+            {
+              "form": "urban planning",
+              "meaning": "quy hoạch đô thị"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1943,7 +2827,7 @@
       }
     },
     {
-      "id": 86,
+      "id": "1761813174089-29-85-37ffdb4f",
       "targetLexeme": "widespread displacement",
       "sourceContext": "...which is predicted to cause widespread displacement, extinctions and death, if left unaddressed.",
       "phase1Inference": {
@@ -1954,9 +2838,20 @@
         "sentiment": "negative",
         "definitionEN": "The forcing of a large number of people to leave their homes, typically due to war, persecution, or natural disaster.",
         "translationVI": "Sự di dời/di cư trên diện rộng",
-        "relatedCollocates": ["mass migration", "forced relocation"],
+        "relatedCollocates": [
+          "mass migration",
+          "forced relocation"
+        ],
         "wordForms": {
-          "noun": [{ "form": "displacement", "meaning": "sự di dời" }]
+          "noun": [
+            {
+              "form": "displacement",
+              "meaning": "sự di dời"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1965,7 +2860,7 @@
       }
     },
     {
-      "id": 87,
+      "id": "1761813174089-29-86-2df794a4",
       "targetLexeme": "to modernity",
       "sourceContext": "The Renaissance marked the transition from the 15th century to modernity...",
       "phase1Inference": {
@@ -1976,11 +2871,20 @@
         "sentiment": "neutral",
         "definitionEN": "The quality or condition of being modern; a modern way of thinking, working, etc.",
         "translationVI": "Đến thời kỳ hiện đại/tính chất hiện đại",
-        "relatedCollocates": ["transition to modernity", "era of modernity"],
+        "relatedCollocates": [
+          "transition to modernity",
+          "era of modernity"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "modernity", "meaning": "tính hiện đại, thời hiện đại" }
-          ]
+            {
+              "form": "modernity",
+              "meaning": "tính hiện đại, thời hiện đại"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1989,7 +2893,7 @@
       }
     },
     {
-      "id": 88,
+      "id": "1761813174089-29-87-13ab1975",
       "targetLexeme": "typical Renaissance trend",
       "sourceContext": "Following a typical Renaissance trend, he began to work on an ‘ideal city’ project...",
       "phase1Inference": {
@@ -2005,7 +2909,15 @@
           "characteristic movement"
         ],
         "wordForms": {
-          "noun": [{ "form": "trend", "meaning": "xu hướng" }]
+          "noun": [
+            {
+              "form": "trend",
+              "meaning": "xu hướng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2014,7 +2926,7 @@
       }
     },
     {
-      "id": 89,
+      "id": "1761813174089-29-88-3f64bf38",
       "targetLexeme": "key cause of",
       "sourceContext": "Yet given that unsustainable urban models are a key cause of global climate change today...",
       "phase1Inference": {
@@ -2025,12 +2937,24 @@
         "sentiment": "neutral",
         "definitionEN": "A main or very important reason for something happening.",
         "translationVI": "Nguyên nhân chính của",
-        "relatedCollocates": ["major factor in", "primary reason for"],
+        "relatedCollocates": [
+          "major factor in",
+          "primary reason for"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "key", "meaning": "chìa khóa, yếu tố chính" },
-            { "form": "cause", "meaning": "nguyên nhân" }
-          ]
+            {
+              "form": "key",
+              "meaning": "chìa khóa, yếu tố chính"
+            },
+            {
+              "form": "cause",
+              "meaning": "nguyên nhân"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2039,7 +2963,7 @@
       }
     },
     {
-      "id": 90,
+      "id": "1761813174089-29-89-50619569",
       "targetLexeme": "shape of modern cities",
       "sourceContext": "...it’s only natural to wonder how Leonardo might have changed the shape of modern cities.",
       "phase1Inference": {
@@ -2050,9 +2974,20 @@
         "sentiment": "neutral",
         "definitionEN": "The physical form, layout, or structure of contemporary urban areas.",
         "translationVI": "Hình hài/cấu trúc của các thành phố hiện đại",
-        "relatedCollocates": ["urban landscape", "city design"],
+        "relatedCollocates": [
+          "urban landscape",
+          "city design"
+        ],
         "wordForms": {
-          "noun": [{ "form": "shape", "meaning": "hình dạng, hình hài" }]
+          "noun": [
+            {
+              "form": "shape",
+              "meaning": "hình dạng, hình hài"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2061,7 +2996,7 @@
       }
     },
     {
-      "id": 91,
+      "id": "1761813174089-29-90-0c419d38",
       "targetLexeme": "incredible progress",
       "sourceContext": "Although the Renaissance is renowned as an era of incredible progress in art and architecture...",
       "phase1Inference": {
@@ -2072,9 +3007,20 @@
         "sentiment": "positive",
         "definitionEN": "Extraordinary or unbelievable advancement or development.",
         "translationVI": "Sự tiến bộ đáng kinh ngạc",
-        "relatedCollocates": ["remarkable advancement", "significant strides"],
+        "relatedCollocates": [
+          "remarkable advancement",
+          "significant strides"
+        ],
         "wordForms": {
-          "noun": [{ "form": "progress", "meaning": "sự tiến bộ" }]
+          "noun": [
+            {
+              "form": "progress",
+              "meaning": "sự tiến bộ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2083,7 +3029,7 @@
       }
     },
     {
-      "id": 92,
+      "id": "1761813174089-29-91-14182a5e",
       "targetLexeme": "true academic discipline",
       "sourceContext": "...it is rarely noted that the 15th century also marked the birth of urbanism as a true academic discipline.",
       "phase1Inference": {
@@ -2099,7 +3045,15 @@
           "legitimate area of research"
         ],
         "wordForms": {
-          "noun": [{ "form": "discipline", "meaning": "ngành, môn học" }]
+          "noun": [
+            {
+              "form": "discipline",
+              "meaning": "ngành, môn học"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2108,7 +3062,7 @@
       }
     },
     {
-      "id": 93,
+      "id": "1761813174089-29-92-0b17b602",
       "targetLexeme": "pushed forward",
       "sourceContext": "...until the moment when prominent Renaissance men pushed forward large-scale urban projects in Italy...",
       "phase1Inference": {
@@ -2119,9 +3073,20 @@
         "sentiment": "positive",
         "definitionEN": "To actively promote or advance a plan or project.",
         "translationVI": "Thúc đẩy, đẩy mạnh",
-        "relatedCollocates": ["advanced", "promoted"],
+        "relatedCollocates": [
+          "advanced",
+          "promoted"
+        ],
         "wordForms": {
-          "verb": [{ "form": "push forward", "meaning": "thúc đẩy" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "push forward",
+              "meaning": "thúc đẩy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2130,7 +3095,7 @@
       }
     },
     {
-      "id": 94,
+      "id": "1761813174089-29-93-6dbb0ca5",
       "targetLexeme": "expansion of the city",
       "sourceContext": "...such as the reconfiguration of the town of Pienza and the expansion of the city of Ferrara.",
       "phase1Inference": {
@@ -2141,9 +3106,20 @@
         "sentiment": "neutral",
         "definitionEN": "The action of becoming larger or more extensive in area or scope regarding a city.",
         "translationVI": "Sự mở rộng thành phố",
-        "relatedCollocates": ["urban sprawl", "city growth"],
+        "relatedCollocates": [
+          "urban sprawl",
+          "city growth"
+        ],
         "wordForms": {
-          "noun": [{ "form": "expansion", "meaning": "sự mở rộng" }]
+          "noun": [
+            {
+              "form": "expansion",
+              "meaning": "sự mở rộng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2152,7 +3128,7 @@
       }
     },
     {
-      "id": 95,
+      "id": "1761813174089-29-94-5fee0023",
       "targetLexeme": "foundation of a new city",
       "sourceContext": "...a series of innovative thoughts can be reconstructed regarding the foundation of a new city along the Ticino River...",
       "phase1Inference": {
@@ -2169,8 +3145,14 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "foundation", "meaning": "sự thành lập, nền móng" }
-          ]
+            {
+              "form": "foundation",
+              "meaning": "sự thành lập, nền móng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2179,7 +3161,7 @@
       }
     },
     {
-      "id": 96,
+      "id": "1761813174089-29-95-19d41027",
       "targetLexeme": "transport of goods",
       "sourceContext": "He designed the city for the easy transport of goods and clean urban spaces...",
       "phase1Inference": {
@@ -2190,12 +3172,24 @@
         "sentiment": "neutral",
         "definitionEN": "The movement of commercial items from one place to another.",
         "translationVI": "Vận chuyển hàng hóa",
-        "relatedCollocates": ["freight transport", "logistics"],
+        "relatedCollocates": [
+          "freight transport",
+          "logistics"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "transport", "meaning": "sự vận chuyển" },
-            { "form": "goods", "meaning": "hàng hóa" }
-          ]
+            {
+              "form": "transport",
+              "meaning": "sự vận chuyển"
+            },
+            {
+              "form": "goods",
+              "meaning": "hàng hóa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2204,7 +3198,7 @@
       }
     },
     {
-      "id": 97,
+      "id": "1761813174089-29-96-3b892466",
       "targetLexeme": "clean urban spaces",
       "sourceContext": "He designed the city for the easy transport of goods and clean urban spaces...",
       "phase1Inference": {
@@ -2215,9 +3209,20 @@
         "sentiment": "positive",
         "definitionEN": "Areas within a city that are free from dirt, pollution, or clutter.",
         "translationVI": "Không gian đô thị sạch sẽ",
-        "relatedCollocates": ["hygienic city areas", "tidy public places"],
+        "relatedCollocates": [
+          "hygienic city areas",
+          "tidy public places"
+        ],
         "wordForms": {
-          "noun": [{ "form": "space", "meaning": "không gian" }]
+          "noun": [
+            {
+              "form": "space",
+              "meaning": "không gian"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2226,7 +3231,7 @@
       }
     },
     {
-      "id": 98,
+      "id": "1761813174089-29-97-4de1a8d2",
       "targetLexeme": "necessary and pleasant beauty",
       "sourceContext": "He recommended ‘high, strong walls’, with ‘towers and battlements of all necessary and pleasant beauty’.",
       "phase1Inference": {
@@ -2237,9 +3242,20 @@
         "sentiment": "positive",
         "definitionEN": "Aesthetic appeal that is both functional (required) and enjoyable to look at.",
         "translationVI": "Vẻ đẹp cần thiết và dễ chịu (hài hòa)",
-        "relatedCollocates": ["functional aesthetics", "agreeable appearance"],
+        "relatedCollocates": [
+          "functional aesthetics",
+          "agreeable appearance"
+        ],
         "wordForms": {
-          "noun": [{ "form": "beauty", "meaning": "vẻ đẹp" }]
+          "noun": [
+            {
+              "form": "beauty",
+              "meaning": "vẻ đẹp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2248,7 +3264,7 @@
       }
     },
     {
-      "id": 99,
+      "id": "1761813174089-29-98-199a6af3",
       "targetLexeme": "'rational' city",
       "sourceContext": "His plans for a modern and ‘rational’ city were consistent with Renaissance ideals.",
       "phase1Inference": {
@@ -2259,11 +3275,20 @@
         "sentiment": "positive",
         "definitionEN": "A city designed according to logical principles, order, and reason, rather than organic or chaotic growth.",
         "translationVI": "Thành phố 'hợp lý' (được quy hoạch dựa trên lý tính)",
-        "relatedCollocates": ["planned city", "logical urban design"],
+        "relatedCollocates": [
+          "planned city",
+          "logical urban design"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "rational", "meaning": "hợp lý, dựa trên lý trí" }
-          ]
+            {
+              "form": "rational",
+              "meaning": "hợp lý, dựa trên lý trí"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2272,7 +3297,7 @@
       }
     },
     {
-      "id": 100,
+      "id": "1761813174089-29-99-70621aec",
       "targetLexeme": "in keeping with his personality",
       "sourceContext": "But, in keeping with his personality, Leonardo included several innovations in his urban design.",
       "phase1Inference": {
@@ -2283,9 +3308,20 @@
         "sentiment": "neutral",
         "definitionEN": "Consistent with or typical of his character and usual behavior.",
         "translationVI": "Phù hợp với/Điển hình cho tính cách của ông ấy",
-        "relatedCollocates": ["typical of him", "characteristic of his nature"],
+        "relatedCollocates": [
+          "typical of him",
+          "characteristic of his nature"
+        ],
         "wordForms": {
-          "noun": [{ "form": "personality", "meaning": "tính cách" }]
+          "noun": [
+            {
+              "form": "personality",
+              "meaning": "tính cách"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2294,7 +3330,7 @@
       }
     },
     {
-      "id": 101,
+      "id": "1761813174089-29-100-6afcdc71",
       "targetLexeme": "birth of the Modernist movement",
       "sourceContext": "...wasn’t implemented until the 1920s and 1930s, with the birth of the Modernist movement.",
       "phase1Inference": {
@@ -2310,7 +3346,15 @@
           "emergence of the Modernist style"
         ],
         "wordForms": {
-          "noun": [{ "form": "birth", "meaning": "sự ra đời" }]
+          "noun": [
+            {
+              "form": "birth",
+              "meaning": "sự ra đời"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2319,7 +3363,7 @@
       }
     },
     {
-      "id": 102,
+      "id": "1761813174089-29-101-5aa7b6bc",
       "targetLexeme": "upper layers",
       "sourceContext": "While in the upper layers of the city, people could walk undisturbed between elegant palaces and streets...",
       "phase1Inference": {
@@ -2330,9 +3374,20 @@
         "sentiment": "neutral",
         "definitionEN": "The higher levels or tiers of a multi-level structure (in this context, the city).",
         "translationVI": "Các tầng trên (của thành phố)",
-        "relatedCollocates": ["higher levels", "elevated sections"],
+        "relatedCollocates": [
+          "higher levels",
+          "elevated sections"
+        ],
         "wordForms": {
-          "noun": [{ "form": "layer", "meaning": "tầng, lớp" }]
+          "noun": [
+            {
+              "form": "layer",
+              "meaning": "tầng, lớp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2341,7 +3396,7 @@
       }
     },
     {
-      "id": 103,
+      "id": "1761813174089-29-102-665da756",
       "targetLexeme": "lower layer",
       "sourceContext": "...the lower layer was the place for services, trade, transport and industry.",
       "phase1Inference": {
@@ -2352,9 +3407,20 @@
         "sentiment": "neutral",
         "definitionEN": "The bottom level or tier of a multi-level structure.",
         "translationVI": "Tầng dưới",
-        "relatedCollocates": ["ground level", "subterranean level"],
+        "relatedCollocates": [
+          "ground level",
+          "subterranean level"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "lower", "meaning": "thấp hơn, bên dưới" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "lower",
+              "meaning": "thấp hơn, bên dưới"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2363,7 +3429,7 @@
       }
     },
     {
-      "id": 104,
+      "id": "1761813174089-29-103-46ca9135",
       "targetLexeme": "true originality of Leonardo’s vision",
       "sourceContext": "But the true originality of Leonardo’s vision was its fusion of architecture and engineering.",
       "phase1Inference": {
@@ -2374,9 +3440,20 @@
         "sentiment": "positive",
         "definitionEN": "The genuine uniqueness and innovative nature of Leonardo's ideas for the future.",
         "translationVI": "Sự độc đáo thực sự trong tầm nhìn của Leonardo",
-        "relatedCollocates": ["unique perspective", "innovative foresight"],
+        "relatedCollocates": [
+          "unique perspective",
+          "innovative foresight"
+        ],
         "wordForms": {
-          "noun": [{ "form": "vision", "meaning": "tầm nhìn" }]
+          "noun": [
+            {
+              "form": "vision",
+              "meaning": "tầm nhìn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2385,7 +3462,7 @@
       }
     },
     {
-      "id": 105,
+      "id": "1761813174089-29-104-0a007c76",
       "targetLexeme": "width of the streets",
       "sourceContext": "Leonardo also thought that the width of the streets ought to match the average height of the adjacent houses...",
       "phase1Inference": {
@@ -2396,9 +3473,20 @@
         "sentiment": "neutral",
         "definitionEN": "How wide the roads are from one side to the other.",
         "translationVI": "Chiều rộng của các con đường",
-        "relatedCollocates": ["street width", "road breadth"],
+        "relatedCollocates": [
+          "street width",
+          "road breadth"
+        ],
         "wordForms": {
-          "noun": [{ "form": "width", "meaning": "chiều rộng" }]
+          "noun": [
+            {
+              "form": "width",
+              "meaning": "chiều rộng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2407,7 +3495,7 @@
       }
     },
     {
-      "id": 106,
+      "id": "1761813174089-29-105-2b4eb0ed",
       "targetLexeme": "average height",
       "sourceContext": "...ought to match the average height of the adjacent houses...",
       "phase1Inference": {
@@ -2418,9 +3506,20 @@
         "sentiment": "neutral",
         "definitionEN": "The mean vertical measurement of a group of things (in this case, houses).",
         "translationVI": "Chiều cao trung bình",
-        "relatedCollocates": ["mean height", "typical stature"],
+        "relatedCollocates": [
+          "mean height",
+          "typical stature"
+        ],
         "wordForms": {
-          "noun": [{ "form": "height", "meaning": "chiều cao" }]
+          "noun": [
+            {
+              "form": "height",
+              "meaning": "chiều cao"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2429,7 +3528,7 @@
       }
     },
     {
-      "id": 107,
+      "id": "1761813174089-29-106-231813bb",
       "targetLexeme": "allow access to sun",
       "sourceContext": "...to allow access to sun and reduce the risk of damage from earthquakes.",
       "phase1Inference": {
@@ -2440,9 +3539,20 @@
         "sentiment": "positive",
         "definitionEN": "To ensure that sunlight can reach a certain area (e.g., streets or buildings).",
         "translationVI": "Cho phép tiếp cận ánh nắng mặt trời (đón nắng)",
-        "relatedCollocates": ["let sunlight in", "provide solar access"],
+        "relatedCollocates": [
+          "let sunlight in",
+          "provide solar access"
+        ],
         "wordForms": {
-          "noun": [{ "form": "access", "meaning": "sự tiếp cận" }]
+          "noun": [
+            {
+              "form": "access",
+              "meaning": "sự tiếp cận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2451,7 +3561,7 @@
       }
     },
     {
-      "id": 108,
+      "id": "1761813174089-29-107-03f8137b",
       "targetLexeme": "features existed",
       "sourceContext": "Although some of these features existed in Roman cities...",
       "phase1Inference": {
@@ -2467,7 +3577,15 @@
           "characteristics were found"
         ],
         "wordForms": {
-          "verb": [{ "form": "exist", "meaning": "tồn tại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "exist",
+              "meaning": "tồn tại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2476,7 +3594,7 @@
       }
     },
     {
-      "id": 109,
+      "id": "1761813174089-29-108-05ba0912",
       "targetLexeme": "way forward for urban planning",
       "sourceContext": "Today, Leonardo’s ideas... actually suggest a way forward for urban planning.",
       "phase1Inference": {
@@ -2497,7 +3615,10 @@
               "form": "way forward",
               "meaning": "hướng đi tới, giải pháp tương lai"
             }
-          ]
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2506,7 +3627,7 @@
       }
     },
     {
-      "id": 110,
+      "id": "1761813174089-29-109-1f18c72a",
       "targetLexeme": "efficient and sustainable",
       "sourceContext": "...could help modern cities become more efficient and sustainable.",
       "phase1Inference": {
@@ -2522,10 +3643,19 @@
           "resource-efficient and long-lasting"
         ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "efficient", "meaning": "hiệu quả" },
-            { "form": "sustainable", "meaning": "bền vững" }
-          ]
+            {
+              "form": "efficient",
+              "meaning": "hiệu quả"
+            },
+            {
+              "form": "sustainable",
+              "meaning": "bền vững"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2533,5 +3663,11 @@
         "content": "The goal of the new policy is to make the energy sector more efficient and sustainable."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.089Z",
+    "version": "2.0",
+    "originalCount": 110,
+    "migratedCount": 110
+  }
 }

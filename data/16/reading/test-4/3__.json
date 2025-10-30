@@ -4,7 +4,7 @@
   "totalItems": 75,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174042-11-0-65a17635",
       "targetLexeme": "predict the future",
       "sourceContext": "Artificial intelligence (AI) can already predict the future.",
       "phase1Inference": {
@@ -15,10 +15,25 @@
         "sentiment": "neutral",
         "definitionEN": "To say that an event or action will happen in the future, as a result of knowledge or experience",
         "translationVI": "Dự đoán tương lai",
-        "relatedCollocates": ["forecast the future", "predict an outcome"],
+        "relatedCollocates": [
+          "forecast the future",
+          "predict an outcome"
+        ],
         "wordForms": {
-          "verb": [{ "form": "predict", "meaning": "dự đoán" }],
-          "noun": [{ "form": "prediction", "meaning": "sự dự đoán" }]
+          "noun": [
+            {
+              "form": "prediction",
+              "meaning": "sự dự đoán"
+            }
+          ],
+          "verb": [
+            {
+              "form": "predict",
+              "meaning": "dự đoán"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -27,7 +42,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174042-11-1-7ade7efb",
       "targetLexeme": "unexpected consequences",
       "sourceContext": "Researchers are even trying to give AI imagination so it can plan for unexpected consequences.",
       "phase1Inference": {
@@ -38,9 +53,20 @@
         "sentiment": "negative",
         "definitionEN": "Outcomes or effects that were not anticipated or foreseen",
         "translationVI": "Những hậu quả không lường trước được",
-        "relatedCollocates": ["unforeseen consequences", "unintended results"],
+        "relatedCollocates": [
+          "unforeseen consequences",
+          "unintended results"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "unexpected", "meaning": "bất ngờ" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "unexpected",
+              "meaning": "bất ngờ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -49,7 +75,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174042-11-2-086b8c72",
       "targetLexeme": "technological advances",
       "sourceContext": "Yet for all these technological advances, we still seem to deeply lack confidence in AI predictions.",
       "phase1Inference": {
@@ -60,9 +86,20 @@
         "sentiment": "positive",
         "definitionEN": "Developments or improvements in technology",
         "translationVI": "Những tiến bộ công nghệ",
-        "relatedCollocates": ["scientific advances", "technological progress"],
+        "relatedCollocates": [
+          "scientific advances",
+          "technological progress"
+        ],
         "wordForms": {
-          "noun": [{ "form": "advance", "meaning": "sự tiến bộ" }]
+          "noun": [
+            {
+              "form": "advance",
+              "meaning": "sự tiến bộ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -71,7 +108,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174042-11-3-326ea1db",
       "targetLexeme": "deeply lack confidence in",
       "sourceContext": "...we still seem to deeply lack confidence in AI predictions.",
       "phase1Inference": {
@@ -82,9 +119,20 @@
         "sentiment": "negative",
         "definitionEN": "To have a profound or strong absence of trust or belief in something",
         "translationVI": "Thiếu niềm tin sâu sắc vào",
-        "relatedCollocates": ["have no confidence in", "a complete lack of"],
+        "relatedCollocates": [
+          "have no confidence in",
+          "a complete lack of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "confidence", "meaning": "sự tự tin" }]
+          "noun": [
+            {
+              "form": "confidence",
+              "meaning": "sự tự tin"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -93,7 +141,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174042-11-4-4dbb0721",
       "targetLexeme": "prefer to trust human experts",
       "sourceContext": "Recent cases show that people don’t like relying on AI and prefer to trust human experts, even if these experts are wrong.",
       "phase1Inference": {
@@ -104,9 +152,20 @@
         "sentiment": "neutral",
         "definitionEN": "To choose to believe in the judgement of people rather than machines",
         "translationVI": "Thích tin tưởng các chuyên gia con người hơn",
-        "relatedCollocates": ["rely on experts", "trust in humans"],
+        "relatedCollocates": [
+          "rely on experts",
+          "trust in humans"
+        ],
         "wordForms": {
-          "verb": [{ "form": "prefer", "meaning": "thích hơn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "prefer",
+              "meaning": "thích hơn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -115,7 +174,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174042-11-5-12abfa98",
       "targetLexeme": "reluctant to trust",
       "sourceContext": "To do that, we need to understand why people are so reluctant to trust AI in the first place.",
       "phase1Inference": {
@@ -126,9 +185,20 @@
         "sentiment": "negative",
         "definitionEN": "Unwilling and hesitant to believe in the reliability, truth, or ability of something",
         "translationVI": "Miễn cưỡng tin tưởng",
-        "relatedCollocates": ["hesitant to trust", "unwilling to rely on"],
+        "relatedCollocates": [
+          "hesitant to trust",
+          "unwilling to rely on"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "reluctant", "meaning": "miễn cưỡng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "reluctant",
+              "meaning": "miễn cưỡng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -137,7 +207,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174042-11-6-15873091",
       "targetLexeme": "technology giant",
       "sourceContext": "Take the case of Watson for Oncology, one of technology giant IBM’s supercomputer programs.",
       "phase1Inference": {
@@ -153,7 +223,15 @@
           "multinational corporation"
         ],
         "wordForms": {
-          "noun": [{ "form": "giant", "meaning": "gã khổng lồ" }]
+          "noun": [
+            {
+              "form": "giant",
+              "meaning": "gã khổng lồ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -162,7 +240,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174042-11-7-17c57c75",
       "targetLexeme": "PR disaster",
       "sourceContext": "Their attempt to promote this program to cancer doctors was a PR disaster.",
       "phase1Inference": {
@@ -173,9 +251,20 @@
         "sentiment": "negative",
         "definitionEN": "An event that receives very bad publicity and damages a company's or organization's public image",
         "translationVI": "Thảm họa PR",
-        "relatedCollocates": ["public relations nightmare", "bad publicity"],
+        "relatedCollocates": [
+          "public relations nightmare",
+          "bad publicity"
+        ],
         "wordForms": {
-          "noun": [{ "form": "disaster", "meaning": "thảm họa" }]
+          "noun": [
+            {
+              "form": "disaster",
+              "meaning": "thảm họa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -184,7 +273,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174042-11-8-2fe0a0ec",
       "targetLexeme": "top-quality recommendations",
       "sourceContext": "The AI promised to deliver top-quality recommendations on the treatment of 12 cancers...",
       "phase1Inference": {
@@ -195,11 +284,20 @@
         "sentiment": "positive",
         "definitionEN": "Suggestions or advice of the highest standard",
         "translationVI": "Những khuyến nghị chất lượng hàng đầu",
-        "relatedCollocates": ["high-quality advice", "excellent suggestions"],
+        "relatedCollocates": [
+          "high-quality advice",
+          "excellent suggestions"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "top-quality", "meaning": "chất lượng hàng đầu" }
-          ]
+            {
+              "form": "top-quality",
+              "meaning": "chất lượng hàng đầu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -208,7 +306,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174042-11-9-17d1cea3",
       "targetLexeme": "accounted for",
       "sourceContext": "...12 cancers that accounted for 80% of the world’s cases.",
       "phase1Inference": {
@@ -219,9 +317,20 @@
         "sentiment": "neutral",
         "definitionEN": "To form a particular amount or part of something",
         "translationVI": "Chiếm (tỷ lệ)",
-        "relatedCollocates": ["make up", "constitute"],
+        "relatedCollocates": [
+          "make up",
+          "constitute"
+        ],
         "wordForms": {
-          "verb": [{ "form": "account for", "meaning": "chiếm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "account for",
+              "meaning": "chiếm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -230,7 +339,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174042-11-10-7019766a",
       "targetLexeme": "coincided with their own opinions",
       "sourceContext": "On the one hand, if Watson provided guidance about a treatment that coincided with their own opinions, physicians did not see much point in Watson’s recommendations.",
       "phase1Inference": {
@@ -241,9 +350,20 @@
         "sentiment": "neutral",
         "definitionEN": "To happen at the same time or agree with their own views",
         "translationVI": "Trùng với ý kiến của chính họ",
-        "relatedCollocates": ["agreed with", "matched their opinions"],
+        "relatedCollocates": [
+          "agreed with",
+          "matched their opinions"
+        ],
         "wordForms": {
-          "verb": [{ "form": "coincide", "meaning": "trùng hợp" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "coincide",
+              "meaning": "trùng hợp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -252,7 +372,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174042-11-11-4d2c112a",
       "targetLexeme": "did not see much point in",
       "sourceContext": "...physicians did not see much point in Watson’s recommendations.",
       "phase1Inference": {
@@ -263,9 +383,20 @@
         "sentiment": "negative",
         "definitionEN": "To not understand the purpose or value of something",
         "translationVI": "Không thấy có nhiều ý nghĩa/giá trị",
-        "relatedCollocates": ["see no reason for", "fail to see the value in"],
+        "relatedCollocates": [
+          "see no reason for",
+          "fail to see the value in"
+        ],
         "wordForms": {
-          "noun": [{ "form": "point", "meaning": "quan điểm, ý nghĩa" }]
+          "noun": [
+            {
+              "form": "point",
+              "meaning": "quan điểm, ý nghĩa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -274,7 +405,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174042-11-12-54e49a51",
       "targetLexeme": "contradicted the experts’ opinion",
       "sourceContext": "On the other hand, if Watson generated a recommendation that contradicted the experts’ opinion, doctors would typically conclude that Watson wasn’t competent.",
       "phase1Inference": {
@@ -285,9 +416,20 @@
         "sentiment": "negative",
         "definitionEN": "To be in conflict with the view of the specialists",
         "translationVI": "Mâu thuẫn với ý kiến của chuyên gia",
-        "relatedCollocates": ["go against the opinion", "disagree with"],
+        "relatedCollocates": [
+          "go against the opinion",
+          "disagree with"
+        ],
         "wordForms": {
-          "verb": [{ "form": "contradict", "meaning": "mâu thuẫn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "contradict",
+              "meaning": "mâu thuẫn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -296,7 +438,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174042-11-13-6832d157",
       "targetLexeme": "wasn’t competent",
       "sourceContext": "...doctors would typically conclude that Watson wasn’t competent.",
       "phase1Inference": {
@@ -307,9 +449,20 @@
         "sentiment": "negative",
         "definitionEN": "Not having the necessary ability, knowledge, or skill to do something successfully",
         "translationVI": "Không đủ năng lực",
-        "relatedCollocates": ["incompetent (synonym)", "lacked competence"],
+        "relatedCollocates": [
+          "incompetent (synonym)",
+          "lacked competence"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "competent", "meaning": "có năng lực" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "competent",
+              "meaning": "có năng lực"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -318,7 +471,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174042-11-14-1901109b",
       "targetLexeme": "treatment was plausible",
       "sourceContext": "And the machine wouldn’t be able to explain why its treatment was plausible because its machine-learning algorithms were simply too complex to be fully understood by humans.",
       "phase1Inference": {
@@ -329,9 +482,20 @@
         "sentiment": "positive",
         "definitionEN": "The medical care given was reasonable and likely to be effective",
         "translationVI": "Phương pháp điều trị là hợp lý",
-        "relatedCollocates": ["a plausible explanation", "seems reasonable"],
+        "relatedCollocates": [
+          "a plausible explanation",
+          "seems reasonable"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "plausible", "meaning": "hợp lý" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "plausible",
+              "meaning": "hợp lý"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -340,7 +504,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174042-11-15-711145f0",
       "targetLexeme": "suspicion and disbelief",
       "sourceContext": "Consequently, this has caused even more suspicion and disbelief, leading many doctors to ignore the seemingly outlandish AI recommendations...",
       "phase1Inference": {
@@ -351,12 +515,24 @@
         "sentiment": "negative",
         "definitionEN": "A feeling of doubt or mistrust combined with an inability to believe something",
         "translationVI": "Sự nghi ngờ và không tin tưởng",
-        "relatedCollocates": ["mistrust and doubt", "skepticism"],
+        "relatedCollocates": [
+          "mistrust and doubt",
+          "skepticism"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "suspicion", "meaning": "sự nghi ngờ" },
-            { "form": "disbelief", "meaning": "sự không tin" }
-          ]
+            {
+              "form": "suspicion",
+              "meaning": "sự nghi ngờ"
+            },
+            {
+              "form": "disbelief",
+              "meaning": "sự không tin"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -365,7 +541,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174042-11-16-0e0c5a89",
       "targetLexeme": "seemingly outlandish",
       "sourceContext": "...to ignore the seemingly outlandish AI recommendations and stick to their own expertise.",
       "phase1Inference": {
@@ -376,9 +552,20 @@
         "sentiment": "negative",
         "definitionEN": "Appearing very strange or bizarre",
         "translationVI": "Dường như kỳ quặc",
-        "relatedCollocates": ["seemingly strange", "bizarre"],
+        "relatedCollocates": [
+          "seemingly strange",
+          "bizarre"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "outlandish", "meaning": "kỳ quặc" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "outlandish",
+              "meaning": "kỳ quặc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -387,7 +574,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174042-11-17-2d44f2ae",
       "targetLexeme": "stick to their own expertise",
       "sourceContext": "...and stick to their own expertise.",
       "phase1Inference": {
@@ -403,7 +590,15 @@
           "trust their own judgement"
         ],
         "wordForms": {
-          "verb": [{ "form": "stick to", "meaning": "bám lấy" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "stick to",
+              "meaning": "bám lấy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -412,7 +607,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174042-11-18-78f7c467",
       "targetLexeme": "reluctance to accept",
       "sourceContext": "This is just one example of people’s lack of confidence in AI and their reluctance to accept what AI has to offer.",
       "phase1Inference": {
@@ -423,9 +618,20 @@
         "sentiment": "negative",
         "definitionEN": "An unwillingness to agree to or receive something",
         "translationVI": "Sự miễn cưỡng chấp nhận",
-        "relatedCollocates": ["hesitation to accept", "unwillingness"],
+        "relatedCollocates": [
+          "hesitation to accept",
+          "unwillingness"
+        ],
         "wordForms": {
-          "noun": [{ "form": "reluctance", "meaning": "sự miễn cưỡng" }]
+          "noun": [
+            {
+              "form": "reluctance",
+              "meaning": "sự miễn cưỡng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -434,7 +640,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174042-11-19-5f805142",
       "targetLexeme": "psychological feeling of safety",
       "sourceContext": "This helps create a psychological feeling of safety.",
       "phase1Inference": {
@@ -445,9 +651,20 @@
         "sentiment": "positive",
         "definitionEN": "A mental or emotional state of being protected from harm or danger",
         "translationVI": "Cảm giác an toàn về mặt tâm lý",
-        "relatedCollocates": ["a sense of security", "emotional safety"],
+        "relatedCollocates": [
+          "a sense of security",
+          "emotional safety"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "psychological", "meaning": "thuộc tâm lý" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "psychological",
+              "meaning": "thuộc tâm lý"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -456,7 +673,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174042-11-20-48acab03",
       "targetLexeme": "fairly new and unfamiliar",
       "sourceContext": "AI, on the other hand, is still fairly new and unfamiliar to most people.",
       "phase1Inference": {
@@ -467,9 +684,20 @@
         "sentiment": "neutral",
         "definitionEN": "Quite recent and not well known",
         "translationVI": "Khá mới và xa lạ",
-        "relatedCollocates": ["relatively new", "not well-known"],
+        "relatedCollocates": [
+          "relatively new",
+          "not well-known"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "unfamiliar", "meaning": "không quen thuộc" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "unfamiliar",
+              "meaning": "không quen thuộc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -478,7 +706,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174042-11-21-70419401",
       "targetLexeme": "decision-making process",
       "sourceContext": "Even if it can be technically explained (and that’s not always the case), AI’s decision-making process is usually too difficult for most people to comprehend.",
       "phase1Inference": {
@@ -489,11 +717,20 @@
         "sentiment": "neutral",
         "definitionEN": "The cognitive process of reaching a decision",
         "translationVI": "Quá trình ra quyết định",
-        "relatedCollocates": ["make a decision", "thought process"],
+        "relatedCollocates": [
+          "make a decision",
+          "thought process"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "decision-making", "meaning": "việc ra quyết định" }
-          ]
+            {
+              "form": "decision-making",
+              "meaning": "việc ra quyết định"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -502,7 +739,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174042-11-22-714dd3a3",
       "targetLexeme": "comprehend (v)",
       "sourceContext": "...is usually too difficult for most people to comprehend.",
       "phase1Inference": {
@@ -513,9 +750,21 @@
         "sentiment": "neutral",
         "definitionEN": "To grasp mentally; to understand fully",
         "translationVI": "Hiểu, lĩnh hội",
-        "relatedCollocates": ["understand", "grasp", "fathom"],
+        "relatedCollocates": [
+          "understand",
+          "grasp",
+          "fathom"
+        ],
         "wordForms": {
-          "noun": [{ "form": "comprehension", "meaning": "sự thấu hiểu" }]
+          "noun": [
+            {
+              "form": "comprehension",
+              "meaning": "sự thấu hiểu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -524,7 +773,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174042-11-23-532a859a",
       "targetLexeme": "cause anxiety",
       "sourceContext": "And interacting with something we don’t understand can cause anxiety and give us a sense that we’re losing control.",
       "phase1Inference": {
@@ -535,9 +784,20 @@
         "sentiment": "negative",
         "definitionEN": "To make someone feel worried, nervous, or uneasy",
         "translationVI": "Gây lo lắng",
-        "relatedCollocates": ["induce anxiety", "a source of anxiety"],
+        "relatedCollocates": [
+          "induce anxiety",
+          "a source of anxiety"
+        ],
         "wordForms": {
-          "noun": [{ "form": "anxiety", "meaning": "sự lo lắng" }]
+          "noun": [
+            {
+              "form": "anxiety",
+              "meaning": "sự lo lắng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -546,7 +806,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174042-11-24-0ad31303",
       "targetLexeme": "losing control",
       "sourceContext": "...and give us a sense that we’re losing control.",
       "phase1Inference": {
@@ -557,9 +817,20 @@
         "sentiment": "negative",
         "definitionEN": "To no longer have the power to direct or influence events",
         "translationVI": "Mất kiểm soát",
-        "relatedCollocates": ["out of control", "lose one's grip"],
+        "relatedCollocates": [
+          "out of control",
+          "lose one's grip"
+        ],
         "wordForms": {
-          "verb": [{ "form": "lose control", "meaning": "mất kiểm soát" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "lose control",
+              "meaning": "mất kiểm soát"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -568,7 +839,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174042-11-25-4e5e5b7d",
       "targetLexeme": "not familiar with",
       "sourceContext": "Many people are also often not familiar with many instances of AI actually working...",
       "phase1Inference": {
@@ -579,9 +850,20 @@
         "sentiment": "neutral",
         "definitionEN": "Not having a good knowledge or understanding of something",
         "translationVI": "Không quen thuộc với",
-        "relatedCollocates": ["unfamiliar with", "unaware of"],
+        "relatedCollocates": [
+          "unfamiliar with",
+          "unaware of"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "familiar", "meaning": "quen thuộc" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "familiar",
+              "meaning": "quen thuộc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -590,7 +872,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174042-11-26-73b46e94",
       "targetLexeme": "happens in the background",
       "sourceContext": "...because it often happens in the background.",
       "phase1Inference": {
@@ -601,9 +883,20 @@
         "sentiment": "neutral",
         "definitionEN": "To take place without being the main focus of attention; unobtrusively",
         "translationVI": "Xảy ra ở chế độ nền",
-        "relatedCollocates": ["work in the background", "behind the scenes"],
+        "relatedCollocates": [
+          "work in the background",
+          "behind the scenes"
+        ],
         "wordForms": {
-          "noun": [{ "form": "background", "meaning": "nền" }]
+          "noun": [
+            {
+              "form": "background",
+              "meaning": "nền"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -612,7 +905,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174042-11-27-445bb458",
       "targetLexeme": "acutely aware of",
       "sourceContext": "Instead, they are acutely aware of instances where AI goes wrong.",
       "phase1Inference": {
@@ -623,9 +916,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be very conscious or have a strong realization of something",
         "translationVI": "Nhận thức sâu sắc về",
-        "relatedCollocates": ["keenly aware of", "highly conscious of"],
+        "relatedCollocates": [
+          "keenly aware of",
+          "highly conscious of"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "acutely", "meaning": "sâu sắc" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "acutely",
+              "meaning": "sâu sắc"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -634,7 +938,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174042-11-28-1cb94270",
       "targetLexeme": "AI goes wrong",
       "sourceContext": "...instances where AI goes wrong.",
       "phase1Inference": {
@@ -645,9 +949,21 @@
         "sentiment": "negative",
         "definitionEN": "Situations where artificial intelligence fails, makes a mistake, or produces an undesirable outcome",
         "translationVI": "AI mắc lỗi",
-        "relatedCollocates": ["malfunction", "fail", "make an error"],
+        "relatedCollocates": [
+          "malfunction",
+          "fail",
+          "make an error"
+        ],
         "wordForms": {
-          "verb": [{ "form": "go wrong", "meaning": "mắc lỗi" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "go wrong",
+              "meaning": "mắc lỗi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -656,7 +972,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174042-11-29-6fc14a87",
       "targetLexeme": "disproportionate amount of media attention",
       "sourceContext": "Embarrassing AI failures receive a disproportionate amount of media attention...",
       "phase1Inference": {
@@ -667,11 +983,20 @@
         "sentiment": "negative",
         "definitionEN": "An amount of coverage by the media that is too large or too small in comparison with something else",
         "translationVI": "Lượng chú ý không tương xứng của truyền thông",
-        "relatedCollocates": ["excessive attention", "receive attention"],
+        "relatedCollocates": [
+          "excessive attention",
+          "receive attention"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "disproportionate", "meaning": "không cân xứng" }
-          ]
+            {
+              "form": "disproportionate",
+              "meaning": "không cân xứng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -680,7 +1005,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174042-11-30-71770d02",
       "targetLexeme": "not foolproof",
       "sourceContext": "Machine learning is not foolproof, in part because the humans who design it aren’t.",
       "phase1Inference": {
@@ -691,9 +1016,20 @@
         "sentiment": "negative",
         "definitionEN": "Not incapable of going wrong or being misused",
         "translationVI": "Không tuyệt đối an toàn",
-        "relatedCollocates": ["not infallible", "can fail"],
+        "relatedCollocates": [
+          "not infallible",
+          "can fail"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "foolproof", "meaning": "rõ ràng, dễ làm" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "foolproof",
+              "meaning": "rõ ràng, dễ làm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -702,7 +1038,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174042-11-31-412bb73d",
       "targetLexeme": "run deep",
       "sourceContext": "Feelings about AI run deep.",
       "phase1Inference": {
@@ -713,9 +1049,20 @@
         "sentiment": "neutral",
         "definitionEN": "(Of feelings or beliefs) to be very strong and well established",
         "translationVI": "Ăn sâu, sâu sắc",
-        "relatedCollocates": ["deeply felt", "strong emotions"],
+        "relatedCollocates": [
+          "deeply felt",
+          "strong emotions"
+        ],
         "wordForms": {
-          "verb": [{ "form": "run deep", "meaning": "ăn sâu" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "run deep",
+              "meaning": "ăn sâu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -724,7 +1071,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174042-11-32-72c42b95",
       "targetLexeme": "depicted AI in a positive or negative light",
       "sourceContext": "It was found that, regardless of whether the film they watched depicted AI in a positive or negative light, simply watching a cinematic vision of our technological future polarised the participants’ attitudes.",
       "phase1Inference": {
@@ -735,9 +1082,20 @@
         "sentiment": "neutral",
         "definitionEN": "To represent or show AI in either a favorable or unfavorable way",
         "translationVI": "Mô tả AI theo hướng tích cực hoặc tiêu cực",
-        "relatedCollocates": ["portray in a light", "see in a positive light"],
+        "relatedCollocates": [
+          "portray in a light",
+          "see in a positive light"
+        ],
         "wordForms": {
-          "verb": [{ "form": "depict", "meaning": "mô tả" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "depict",
+              "meaning": "mô tả"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -746,7 +1104,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174042-11-33-6f324c2e",
       "targetLexeme": "polarised the participants’ attitudes",
       "sourceContext": "...simply watching a cinematic vision of our technological future polarised the participants’ attitudes.",
       "phase1Inference": {
@@ -757,9 +1115,20 @@
         "sentiment": "negative",
         "definitionEN": "To cause a group to divide into two opposing sides with very different opinions",
         "translationVI": "Phân cực thái độ của người tham gia",
-        "relatedCollocates": ["divide opinions", "create a split"],
+        "relatedCollocates": [
+          "divide opinions",
+          "create a split"
+        ],
         "wordForms": {
-          "verb": [{ "form": "polarise", "meaning": "phân cực" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "polarise",
+              "meaning": "phân cực"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -768,7 +1137,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174042-11-34-674cb982",
       "targetLexeme": "sceptics became even more guarded",
       "sourceContext": "Optimists became more extreme in their enthusiasm for AI and sceptics became even more guarded.",
       "phase1Inference": {
@@ -779,9 +1148,20 @@
         "sentiment": "negative",
         "definitionEN": "People inclined to question or doubt became even more cautious and reserved",
         "translationVI": "Những người hoài nghi càng trở nên dè dặt hơn",
-        "relatedCollocates": ["more cautious", "more reserved"],
+        "relatedCollocates": [
+          "more cautious",
+          "more reserved"
+        ],
         "wordForms": {
-          "noun": [{ "form": "sceptic", "meaning": "người hoài nghi" }]
+          "noun": [
+            {
+              "form": "sceptic",
+              "meaning": "người hoài nghi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -790,7 +1170,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174042-11-35-0afc9cb1",
       "targetLexeme": "in a biased manner",
       "sourceContext": "This suggests people use relevant evidence about AI in a biased manner to support their existing attitudes...",
       "phase1Inference": {
@@ -801,9 +1181,20 @@
         "sentiment": "negative",
         "definitionEN": "In a way that shows unfair prejudice for or against someone or something",
         "translationVI": "Một cách thiên vị",
-        "relatedCollocates": ["with bias", "unfairly"],
+        "relatedCollocates": [
+          "with bias",
+          "unfairly"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "biased", "meaning": "thiên vị" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "biased",
+              "meaning": "thiên vị"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -812,7 +1203,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174042-11-36-38fbed25",
       "targetLexeme": "deep-rooted human tendency",
       "sourceContext": "...a deep-rooted human tendency known as “confirmation bias”.",
       "phase1Inference": {
@@ -823,9 +1214,20 @@
         "sentiment": "neutral",
         "definitionEN": "A strong and long-standing inclination to behave in a certain way",
         "translationVI": "Khuynh hướng đã ăn sâu của con người",
-        "relatedCollocates": ["ingrained tendency", "deep-seated belief"],
+        "relatedCollocates": [
+          "ingrained tendency",
+          "deep-seated belief"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "deep-rooted", "meaning": "ăn sâu" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "deep-rooted",
+              "meaning": "ăn sâu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -834,7 +1236,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174042-11-37-5e058b97",
       "targetLexeme": "confirmation bias",
       "sourceContext": "...a deep-rooted human tendency known as “confirmation bias”.",
       "phase1Inference": {
@@ -845,9 +1247,20 @@
         "sentiment": "negative",
         "definitionEN": "The tendency to search for, interpret, favor, and recall information in a way that confirms or supports one's preexisting beliefs",
         "translationVI": "Thiên kiến xác nhận",
-        "relatedCollocates": ["cognitive bias", "pre-existing beliefs"],
+        "relatedCollocates": [
+          "cognitive bias",
+          "pre-existing beliefs"
+        ],
         "wordForms": {
-          "noun": [{ "form": "bias", "meaning": "thiên kiến" }]
+          "noun": [
+            {
+              "form": "bias",
+              "meaning": "thiên kiến"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -856,7 +1269,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174042-11-38-425631dd",
       "targetLexeme": "a society split between",
       "sourceContext": "...it could lead to a society split between those who benefit from AI and those who reject it.",
       "phase1Inference": {
@@ -867,9 +1280,20 @@
         "sentiment": "negative",
         "definitionEN": "A community that is divided into two opposing groups",
         "translationVI": "Một xã hội bị chia rẽ giữa",
-        "relatedCollocates": ["a divided society", "a social divide"],
+        "relatedCollocates": [
+          "a divided society",
+          "a social divide"
+        ],
         "wordForms": {
-          "verb": [{ "form": "split", "meaning": "chia rẽ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "split",
+              "meaning": "chia rẽ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -878,7 +1302,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174042-11-39-56649904",
       "targetLexeme": "at a serious disadvantage",
       "sourceContext": "More pertinently, refusing to accept the advantages offered by AI could place a large group of people at a serious disadvantage.",
       "phase1Inference": {
@@ -889,9 +1313,20 @@
         "sentiment": "negative",
         "definitionEN": "In a situation that makes it much harder for one to succeed or have an equal opportunity",
         "translationVI": "Ở thế bất lợi nghiêm trọng",
-        "relatedCollocates": ["put at a disadvantage", "a major disadvantage"],
+        "relatedCollocates": [
+          "put at a disadvantage",
+          "a major disadvantage"
+        ],
         "wordForms": {
-          "noun": [{ "form": "disadvantage", "meaning": "sự bất lợi" }]
+          "noun": [
+            {
+              "form": "disadvantage",
+              "meaning": "sự bất lợi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -900,7 +1335,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174042-11-40-4def71ba",
       "targetLexeme": "previous experience with",
       "sourceContext": "Simply having previous experience with AI can significantly improve people’s opinions about the technology...",
       "phase1Inference": {
@@ -911,9 +1346,20 @@
         "sentiment": "neutral",
         "definitionEN": "Past encounters or familiarity with something",
         "translationVI": "Kinh nghiệm trước đây với",
-        "relatedCollocates": ["prior experience", "first-hand experience"],
+        "relatedCollocates": [
+          "prior experience",
+          "first-hand experience"
+        ],
         "wordForms": {
-          "noun": [{ "form": "experience", "meaning": "kinh nghiệm" }]
+          "noun": [
+            {
+              "form": "experience",
+              "meaning": "kinh nghiệm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -922,7 +1368,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174042-11-41-7768fe53",
       "targetLexeme": "reveal more about",
       "sourceContext": "Another solution may be to reveal more about the algorithms which AI uses and the purposes they serve.",
       "phase1Inference": {
@@ -933,9 +1379,20 @@
         "sentiment": "positive",
         "definitionEN": "To make more known about something that was secret or previously unknown",
         "translationVI": "Tiết lộ thêm về",
-        "relatedCollocates": ["disclose more about", "make public"],
+        "relatedCollocates": [
+          "disclose more about",
+          "make public"
+        ],
         "wordForms": {
-          "verb": [{ "form": "reveal", "meaning": "tiết lộ" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "reveal",
+              "meaning": "tiết lộ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -944,7 +1401,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174042-11-42-152f277a",
       "targetLexeme": "the purposes they serve",
       "sourceContext": "...the algorithms which AI uses and the purposes they serve.",
       "phase1Inference": {
@@ -955,9 +1412,20 @@
         "sentiment": "neutral",
         "definitionEN": "The functions they perform or the goals they are intended to achieve",
         "translationVI": "Mục đích mà chúng phục vụ",
-        "relatedCollocates": ["their function", "the role they play"],
+        "relatedCollocates": [
+          "their function",
+          "the role they play"
+        ],
         "wordForms": {
-          "noun": [{ "form": "purpose", "meaning": "mục đích" }]
+          "noun": [
+            {
+              "form": "purpose",
+              "meaning": "mục đích"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -966,7 +1434,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174042-11-43-37ce4514",
       "targetLexeme": "high-profile social media companies",
       "sourceContext": "Several high-profile social media companies and online marketplaces already release transparency reports...",
       "phase1Inference": {
@@ -977,9 +1445,20 @@
         "sentiment": "neutral",
         "definitionEN": "Very famous and well-known companies in the social media sector",
         "translationVI": "Các công ty truyền thông xã hội nổi tiếng",
-        "relatedCollocates": ["well-known companies", "major players"],
+        "relatedCollocates": [
+          "well-known companies",
+          "major players"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "high-profile", "meaning": "nổi tiếng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "high-profile",
+              "meaning": "nổi tiếng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -988,7 +1467,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174042-11-44-3c59a936",
       "targetLexeme": "transparency reports",
       "sourceContext": "...already release transparency reports about government requests and surveillance disclosures.",
       "phase1Inference": {
@@ -999,9 +1478,20 @@
         "sentiment": "positive",
         "definitionEN": "Public reports issued by companies detailing requests they have received from governments for user data",
         "translationVI": "Báo cáo minh bạch",
-        "relatedCollocates": ["release reports", "increase transparency"],
+        "relatedCollocates": [
+          "release reports",
+          "increase transparency"
+        ],
         "wordForms": {
-          "noun": [{ "form": "transparency", "meaning": "sự minh bạch" }]
+          "noun": [
+            {
+              "form": "transparency",
+              "meaning": "sự minh bạch"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1010,7 +1500,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174042-11-45-7730aa39",
       "targetLexeme": "surveillance disclosures",
       "sourceContext": "...about government requests and surveillance disclosures.",
       "phase1Inference": {
@@ -1021,9 +1511,20 @@
         "sentiment": "neutral",
         "definitionEN": "The act of making information about monitoring and observation public",
         "translationVI": "Việc tiết lộ thông tin giám sát",
-        "relatedCollocates": ["government surveillance", "data disclosure"],
+        "relatedCollocates": [
+          "government surveillance",
+          "data disclosure"
+        ],
         "wordForms": {
-          "noun": [{ "form": "disclosure", "meaning": "sự tiết lộ" }]
+          "noun": [
+            {
+              "form": "disclosure",
+              "meaning": "sự tiết lộ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1032,7 +1533,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174042-11-46-038924e9",
       "targetLexeme": "algorithmic decisions",
       "sourceContext": "A similar practice for AI could help people have a better understanding of the way algorithmic decisions are made.",
       "phase1Inference": {
@@ -1043,11 +1544,20 @@
         "sentiment": "neutral",
         "definitionEN": "Choices or judgments made by an algorithm",
         "translationVI": "Các quyết định theo thuật toán",
-        "relatedCollocates": ["automated decisions", "decision-making"],
+        "relatedCollocates": [
+          "automated decisions",
+          "decision-making"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "algorithmic", "meaning": "thuộc thuật toán" }
-          ]
+            {
+              "form": "algorithmic",
+              "meaning": "thuộc thuật toán"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1056,7 +1566,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174042-11-47-7468ead4",
       "targetLexeme": "enable AI to learn",
       "sourceContext": "Research suggests that allowing people some control over AI decision-making could also improve trust and enable AI to learn from human experience.",
       "phase1Inference": {
@@ -1067,9 +1577,20 @@
         "sentiment": "positive",
         "definitionEN": "To make it possible for artificial intelligence to acquire knowledge or skills",
         "translationVI": "Cho phép AI học hỏi",
-        "relatedCollocates": ["allow AI to learn", "machine learning"],
+        "relatedCollocates": [
+          "allow AI to learn",
+          "machine learning"
+        ],
         "wordForms": {
-          "verb": [{ "form": "enable", "meaning": "cho phép" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "enable",
+              "meaning": "cho phép"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1078,7 +1599,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174042-11-48-21b6564e",
       "targetLexeme": "slightly modify an algorithm",
       "sourceContext": "...when people were allowed the freedom to slightly modify an algorithm, they felt more satisfied with its decisions...",
       "phase1Inference": {
@@ -1089,9 +1610,20 @@
         "sentiment": "neutral",
         "definitionEN": "To make small changes to a set of rules used in calculations",
         "translationVI": "Sửa đổi một chút thuật toán",
-        "relatedCollocates": ["tweak an algorithm", "make minor changes"],
+        "relatedCollocates": [
+          "tweak an algorithm",
+          "make minor changes"
+        ],
         "wordForms": {
-          "verb": [{ "form": "modify", "meaning": "sửa đổi" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "modify",
+              "meaning": "sửa đổi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1100,7 +1632,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174042-11-49-06ba6883",
       "targetLexeme": "felt more satisfied with",
       "sourceContext": "...they felt more satisfied with its decisions...",
       "phase1Inference": {
@@ -1111,9 +1643,20 @@
         "sentiment": "positive",
         "definitionEN": "To feel a greater sense of pleasure or contentment with something",
         "translationVI": "Cảm thấy hài lòng hơn với",
-        "relatedCollocates": ["happier with", "content with"],
+        "relatedCollocates": [
+          "happier with",
+          "content with"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "satisfied", "meaning": "hài lòng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "satisfied",
+              "meaning": "hài lòng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1122,7 +1665,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174042-11-50-35602452",
       "targetLexeme": "more likely to believe it was superior",
       "sourceContext": "...more likely to believe it was superior and more likely to use it in the future.",
       "phase1Inference": {
@@ -1133,9 +1676,20 @@
         "sentiment": "positive",
         "definitionEN": "To have a greater probability of thinking that it was better than others",
         "translationVI": "Có nhiều khả năng tin rằng nó vượt trội hơn",
-        "relatedCollocates": ["believe it was better", "consider it superior"],
+        "relatedCollocates": [
+          "believe it was better",
+          "consider it superior"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "superior", "meaning": "vượt trội" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "superior",
+              "meaning": "vượt trội"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1144,7 +1698,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174042-11-51-74c469fa",
       "targetLexeme": "intricate inner workings",
       "sourceContext": "We don’t need to understand the intricate inner workings of AI systems...",
       "phase1Inference": {
@@ -1155,9 +1709,20 @@
         "sentiment": "neutral",
         "definitionEN": "The very complicated internal mechanisms or processes of how something operates",
         "translationVI": "Cách hoạt động bên trong phức tạp",
-        "relatedCollocates": ["complex mechanisms", "inner workings"],
+        "relatedCollocates": [
+          "complex mechanisms",
+          "inner workings"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "intricate", "meaning": "phức tạp" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "intricate",
+              "meaning": "phức tạp"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1166,7 +1731,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174042-11-52-2a3a0471",
       "targetLexeme": "a degree of responsibility",
       "sourceContext": "...but if people are given a degree of responsibility for how they are implemented, they will be more willing to accept AI into their lives.",
       "phase1Inference": {
@@ -1182,7 +1747,15 @@
           "some responsibility"
         ],
         "wordForms": {
-          "noun": [{ "form": "degree", "meaning": "mức độ" }]
+          "noun": [
+            {
+              "form": "degree",
+              "meaning": "mức độ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1191,7 +1764,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174042-11-53-40d8dc53",
       "targetLexeme": "more willing to accept",
       "sourceContext": "...they will be more willing to accept AI into their lives.",
       "phase1Inference": {
@@ -1202,9 +1775,20 @@
         "sentiment": "positive",
         "definitionEN": "To be more ready or prepared to agree to or receive something",
         "translationVI": "Sẵn lòng chấp nhận hơn",
-        "relatedCollocates": ["more open to", "more receptive to"],
+        "relatedCollocates": [
+          "more open to",
+          "more receptive to"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "willing", "meaning": "sẵn lòng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "willing",
+              "meaning": "sẵn lòng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1213,7 +1797,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174042-11-54-4cbd1d95",
       "targetLexeme": "optimists (n)",
       "sourceContext": "Optimists became more extreme in their enthusiasm for AI and sceptics became even more guarded.",
       "phase1Inference": {
@@ -1224,9 +1808,20 @@
         "sentiment": "positive",
         "definitionEN": "People who tend to be hopeful and confident about the future or the success of something",
         "translationVI": "Những người lạc quan",
-        "relatedCollocates": ["pessimists (antonym)", "enthusiasm"],
+        "relatedCollocates": [
+          "pessimists (antonym)",
+          "enthusiasm"
+        ],
         "wordForms": {
-          "noun": [{ "form": "optimism", "meaning": "sự lạc quan" }]
+          "noun": [
+            {
+              "form": "optimism",
+              "meaning": "sự lạc quan"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1235,7 +1830,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174042-11-55-00d4ccdd",
       "targetLexeme": "sceptics (n)",
       "sourceContext": "...and sceptics became even more guarded.",
       "phase1Inference": {
@@ -1246,9 +1841,20 @@
         "sentiment": "negative",
         "definitionEN": "People inclined to question or doubt all accepted opinions",
         "translationVI": "Những người hoài nghi",
-        "relatedCollocates": ["doubters", "cynics"],
+        "relatedCollocates": [
+          "doubters",
+          "cynics"
+        ],
         "wordForms": {
-          "noun": [{ "form": "scepticism", "meaning": "sự hoài nghi" }]
+          "noun": [
+            {
+              "form": "scepticism",
+              "meaning": "sự hoài nghi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1257,7 +1863,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174042-11-56-1eff4e22",
       "targetLexeme": "pertinently (adv)",
       "sourceContext": "More pertinently, refusing to accept the advantages offered by AI could place a large group of people at a serious disadvantage.",
       "phase1Inference": {
@@ -1268,9 +1874,20 @@
         "sentiment": "neutral",
         "definitionEN": "In a way that relates directly and significantly to the matter at hand",
         "translationVI": "Thích đáng hơn",
-        "relatedCollocates": ["more importantly", "more relevantly"],
+        "relatedCollocates": [
+          "more importantly",
+          "more relevantly"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "pertinent", "meaning": "thích hợp" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "pertinent",
+              "meaning": "thích hợp"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1279,7 +1896,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174042-11-57-5cca0b61",
       "targetLexeme": "refusing to accept",
       "sourceContext": "More pertinently, refusing to accept the advantages offered by AI could place a large group of people at a serious disadvantage.",
       "phase1Inference": {
@@ -1290,9 +1907,20 @@
         "sentiment": "negative",
         "definitionEN": "Indicating or showing that one is not willing to agree to or receive something",
         "translationVI": "Từ chối chấp nhận",
-        "relatedCollocates": ["rejecting", "unwilling to accept"],
+        "relatedCollocates": [
+          "rejecting",
+          "unwilling to accept"
+        ],
         "wordForms": {
-          "verb": [{ "form": "refuse", "meaning": "từ chối" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "refuse",
+              "meaning": "từ chối"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1301,7 +1929,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174042-11-58-5a86bfb7",
       "targetLexeme": "online marketplaces",
       "sourceContext": "Several high-profile social media companies and online marketplaces already release transparency reports...",
       "phase1Inference": {
@@ -1312,9 +1940,21 @@
         "sentiment": "neutral",
         "definitionEN": "E-commerce sites where products or services are provided by multiple third parties",
         "translationVI": "Các sàn giao dịch trực tuyến",
-        "relatedCollocates": ["e-commerce platforms", "Amazon", "eBay"],
+        "relatedCollocates": [
+          "e-commerce platforms",
+          "Amazon",
+          "eBay"
+        ],
         "wordForms": {
-          "noun": [{ "form": "marketplace", "meaning": "sàn giao dịch" }]
+          "noun": [
+            {
+              "form": "marketplace",
+              "meaning": "sàn giao dịch"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1323,7 +1963,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174042-11-59-6b833bae",
       "targetLexeme": "government requests",
       "sourceContext": "...release transparency reports about government requests and surveillance disclosures.",
       "phase1Inference": {
@@ -1334,9 +1974,20 @@
         "sentiment": "neutral",
         "definitionEN": "Official demands made by a government for information or action",
         "translationVI": "Các yêu cầu của chính phủ",
-        "relatedCollocates": ["official requests", "data requests"],
+        "relatedCollocates": [
+          "official requests",
+          "data requests"
+        ],
         "wordForms": {
-          "noun": [{ "form": "request", "meaning": "yêu cầu" }]
+          "noun": [
+            {
+              "form": "request",
+              "meaning": "yêu cầu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1345,7 +1996,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174042-11-60-5ccf86fc",
       "targetLexeme": "a similar practice",
       "sourceContext": "A similar practice for AI could help people have a better understanding...",
       "phase1Inference": {
@@ -1356,9 +2007,20 @@
         "sentiment": "neutral",
         "definitionEN": "A comparable method or customary way of doing something",
         "translationVI": "Một thực tiễn tương tự",
-        "relatedCollocates": ["a similar approach", "a comparable method"],
+        "relatedCollocates": [
+          "a similar approach",
+          "a comparable method"
+        ],
         "wordForms": {
-          "noun": [{ "form": "practice", "meaning": "thực tiễn" }]
+          "noun": [
+            {
+              "form": "practice",
+              "meaning": "thực tiễn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1367,7 +2029,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174042-11-61-0c6fbbf9",
       "targetLexeme": "freedom to slightly modify",
       "sourceContext": "...when people were allowed the freedom to slightly modify an algorithm...",
       "phase1Inference": {
@@ -1378,9 +2040,20 @@
         "sentiment": "positive",
         "definitionEN": "The power or right to make small changes to something",
         "translationVI": "Sự tự do sửa đổi một chút",
-        "relatedCollocates": ["the ability to modify", "freedom to choose"],
+        "relatedCollocates": [
+          "the ability to modify",
+          "freedom to choose"
+        ],
         "wordForms": {
-          "noun": [{ "form": "freedom", "meaning": "sự tự do" }]
+          "noun": [
+            {
+              "form": "freedom",
+              "meaning": "sự tự do"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1389,7 +2062,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174042-11-62-22adc55f",
       "targetLexeme": "implemented (v)",
       "sourceContext": "...if people are given a degree of responsibility for how they are implemented, they will be more willing to accept AI...",
       "phase1Inference": {
@@ -1400,9 +2073,20 @@
         "sentiment": "neutral",
         "definitionEN": "To put a decision, plan, or agreement into effect",
         "translationVI": "Được thực thi/triển khai",
-        "relatedCollocates": ["put into practice", "carried out"],
+        "relatedCollocates": [
+          "put into practice",
+          "carried out"
+        ],
         "wordForms": {
-          "noun": [{ "form": "implementation", "meaning": "sự thực thi" }]
+          "noun": [
+            {
+              "form": "implementation",
+              "meaning": "sự thực thi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1411,7 +2095,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174042-11-63-0bdec1fb",
       "targetLexeme": "accept AI into their lives",
       "sourceContext": "...they will be more willing to accept AI into their lives.",
       "phase1Inference": {
@@ -1422,9 +2106,20 @@
         "sentiment": "positive",
         "definitionEN": "To consent to receive or integrate AI as part of one's daily existence",
         "translationVI": "Chấp nhận AI vào cuộc sống",
-        "relatedCollocates": ["embrace AI", "integrate AI"],
+        "relatedCollocates": [
+          "embrace AI",
+          "integrate AI"
+        ],
         "wordForms": {
-          "verb": [{ "form": "accept", "meaning": "chấp nhận" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "accept",
+              "meaning": "chấp nhận"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1433,7 +2128,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174042-11-64-508322de",
       "targetLexeme": "Police forces",
       "sourceContext": "Police forces are using it to map when and where crime is likely to occur.",
       "phase1Inference": {
@@ -1444,9 +2139,20 @@
         "sentiment": "neutral",
         "definitionEN": "The body of police officers in a particular country or area",
         "translationVI": "Lực lượng cảnh sát",
-        "relatedCollocates": ["law enforcement", "the police"],
+        "relatedCollocates": [
+          "law enforcement",
+          "the police"
+        ],
         "wordForms": {
-          "noun": [{ "form": "police force", "meaning": "lực lượng cảnh sát" }]
+          "noun": [
+            {
+              "form": "police force",
+              "meaning": "lực lượng cảnh sát"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1455,7 +2161,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174042-11-65-2b09495f",
       "targetLexeme": "forecasting (n)",
       "sourceContext": "Many decisions in our lives require a good forecast, and AI is almost always better at forecasting than we are.",
       "phase1Inference": {
@@ -1466,9 +2172,20 @@
         "sentiment": "neutral",
         "definitionEN": "The act of predicting or estimating a future event or trend",
         "translationVI": "Việc dự báo",
-        "relatedCollocates": ["predicting", "making forecasts"],
+        "relatedCollocates": [
+          "predicting",
+          "making forecasts"
+        ],
         "wordForms": {
-          "verb": [{ "form": "forecast", "meaning": "dự báo" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "forecast",
+              "meaning": "dự báo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1477,7 +2194,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "1761813174042-11-66-2dfd655e",
       "targetLexeme": "in the first place",
       "sourceContext": "...reluctant to trust AI in the first place.",
       "phase1Inference": {
@@ -1488,9 +2205,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to introduce the first or most important in a list of reasons or points; from the beginning",
         "translationVI": "Ngay từ đầu",
-        "relatedCollocates": ["from the outset", "to begin with"],
+        "relatedCollocates": [
+          "from the outset",
+          "to begin with"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "in the first place", "meaning": "ngay từ đầu" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "in the first place",
+              "meaning": "ngay từ đầu"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1499,7 +2227,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "1761813174042-11-67-58130e3e",
       "targetLexeme": "on the one hand",
       "sourceContext": "On the one hand, if Watson provided guidance about a treatment that coincided with their own opinions...",
       "phase1Inference": {
@@ -1510,9 +2238,19 @@
         "sentiment": "neutral",
         "definitionEN": "Used to present the first of two contrasting points, facts, or ways of looking at something",
         "translationVI": "Một mặt",
-        "relatedCollocates": ["on the other hand (contrast)"],
+        "relatedCollocates": [
+          "on the other hand (contrast)"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "on the one hand", "meaning": "một mặt" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "on the one hand",
+              "meaning": "một mặt"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1521,7 +2259,7 @@
       }
     },
     {
-      "id": 69,
+      "id": "1761813174042-11-68-62ee83bf",
       "targetLexeme": "on the other hand",
       "sourceContext": "On the other hand, if Watson generated a recommendation that contradicted the experts’ opinion...",
       "phase1Inference": {
@@ -1532,9 +2270,19 @@
         "sentiment": "neutral",
         "definitionEN": "Used to present the second of two contrasting points, facts, or ways of looking at something",
         "translationVI": "Mặt khác",
-        "relatedCollocates": ["on the one hand (contrast)"],
+        "relatedCollocates": [
+          "on the one hand (contrast)"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "on the other hand", "meaning": "mặt khác" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "on the other hand",
+              "meaning": "mặt khác"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1543,7 +2291,7 @@
       }
     },
     {
-      "id": 70,
+      "id": "1761813174042-11-69-3004185f",
       "targetLexeme": "consequently (adv)",
       "sourceContext": "Consequently, this has caused even more suspicion and disbelief...",
       "phase1Inference": {
@@ -1554,9 +2302,21 @@
         "sentiment": "neutral",
         "definitionEN": "As a result; therefore",
         "translationVI": "Do đó",
-        "relatedCollocates": ["as a result", "therefore", "thus"],
+        "relatedCollocates": [
+          "as a result",
+          "therefore",
+          "thus"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "consequently", "meaning": "do đó" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "consequently",
+              "meaning": "do đó"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1565,7 +2325,7 @@
       }
     },
     {
-      "id": 71,
+      "id": "1761813174042-11-70-0a03cded",
       "targetLexeme": "based on our understanding",
       "sourceContext": "Trust in other people is often based on our understanding of how others think and having experience of their reliability.",
       "phase1Inference": {
@@ -1581,7 +2341,15 @@
           "according to our understanding"
         ],
         "wordForms": {
-          "noun": [{ "form": "understanding", "meaning": "sự hiểu biết" }]
+          "noun": [
+            {
+              "form": "understanding",
+              "meaning": "sự hiểu biết"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1590,7 +2358,7 @@
       }
     },
     {
-      "id": 72,
+      "id": "1761813174042-11-71-5de974d7",
       "targetLexeme": "experience of their reliability",
       "sourceContext": "...and having experience of their reliability.",
       "phase1Inference": {
@@ -1606,7 +2374,15 @@
           "proven reliability"
         ],
         "wordForms": {
-          "noun": [{ "form": "reliability", "meaning": "sự đáng tin cậy" }]
+          "noun": [
+            {
+              "form": "reliability",
+              "meaning": "sự đáng tin cậy"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1615,7 +2391,7 @@
       }
     },
     {
-      "id": 73,
+      "id": "1761813174042-11-72-6ae74d78",
       "targetLexeme": "cinematic vision",
       "sourceContext": "...simply watching a cinematic vision of our technological future polarised the participants’ attitudes.",
       "phase1Inference": {
@@ -1626,9 +2402,20 @@
         "sentiment": "neutral",
         "definitionEN": "A depiction or representation of something that is characteristic of films",
         "translationVI": "Tầm nhìn điện ảnh",
-        "relatedCollocates": ["a film's vision", "artistic vision"],
+        "relatedCollocates": [
+          "a film's vision",
+          "artistic vision"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "cinematic", "meaning": "thuộc điện ảnh" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "cinematic",
+              "meaning": "thuộc điện ảnh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1637,7 +2424,7 @@
       }
     },
     {
-      "id": 74,
+      "id": "1761813174042-11-73-23949d3d",
       "targetLexeme": "more extreme in their enthusiasm",
       "sourceContext": "Optimists became more extreme in their enthusiasm for AI...",
       "phase1Inference": {
@@ -1648,9 +2435,20 @@
         "sentiment": "neutral",
         "definitionEN": "To become more intense or radical in one's eager interest",
         "translationVI": "Cực đoan hơn trong sự nhiệt tình",
-        "relatedCollocates": ["more radical", "stronger enthusiasm"],
+        "relatedCollocates": [
+          "more radical",
+          "stronger enthusiasm"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "extreme", "meaning": "cực đoan" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "extreme",
+              "meaning": "cực đoan"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1659,7 +2457,7 @@
       }
     },
     {
-      "id": 75,
+      "id": "1761813174042-11-74-49cb7e7b",
       "targetLexeme": "relevant evidence",
       "sourceContext": "This suggests people use relevant evidence about AI in a biased manner...",
       "phase1Inference": {
@@ -1670,9 +2468,20 @@
         "sentiment": "neutral",
         "definitionEN": "Information or facts that are closely connected or appropriate to what is being done or considered",
         "translationVI": "Bằng chứng liên quan",
-        "relatedCollocates": ["pertinent evidence", "supporting evidence"],
+        "relatedCollocates": [
+          "pertinent evidence",
+          "supporting evidence"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "relevant", "meaning": "có liên quan" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "relevant",
+              "meaning": "có liên quan"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1680,5 +2489,11 @@
         "content": "The lawyer presented relevant evidence to support his client's case."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.042Z",
+    "version": "2.0",
+    "originalCount": 75,
+    "migratedCount": 75
+  }
 }

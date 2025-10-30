@@ -1,10 +1,10 @@
 {
   "logTitle": "IELTS Reading Log: Palm oil (Part 1)",
   "sourceId": "Reading Passage (Image '...16.28.54.png' & '...16.31.27.png')",
-  "totalItems": 89,
+  "totalItems": 105,
   "lexicalItems": [
     {
-      "id": 541,
+      "id": "1761813174063-19-0-3fb2b43f",
       "targetLexeme": "edible oil",
       "sourceContext": "Palm oil is an edible oil derived from the fruit of...",
       "phase1Inference": {
@@ -22,10 +22,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "oil", "meaning": "dầu" },
-            { "form": "edibility", "meaning": "tính ăn được" }
+            {
+              "form": "oil",
+              "meaning": "dầu"
+            },
+            {
+              "form": "edibility",
+              "meaning": "tính ăn được"
+            }
           ],
-          "adjective": [{ "form": "edible", "meaning": "ăn được" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "edible",
+              "meaning": "ăn được"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -34,7 +47,7 @@
       }
     },
     {
-      "id": 542,
+      "id": "1761813174063-19-1-4626e784",
       "targetLexeme": "derived from",
       "sourceContext": "...edible oil derived from the fruit of the African oil palm tree...",
       "phase1Inference": {
@@ -51,9 +64,25 @@
           "derive (pleasure) from"
         ],
         "wordForms": {
-          "noun": [{ "form": "derivation", "meaning": "nguồn gốc" }],
-          "verb": [{ "form": "derive", "meaning": "bắt nguồn" }],
-          "adjective": [{ "form": "derivative", "meaning": "phái sinh" }]
+          "noun": [
+            {
+              "form": "derivation",
+              "meaning": "nguồn gốc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "derive",
+              "meaning": "bắt nguồn"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "derivative",
+              "meaning": "phái sinh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -62,7 +91,7 @@
       }
     },
     {
-      "id": 543,
+      "id": "1761813174063-19-2-621ae76a",
       "targetLexeme": "consumed vegetable oil",
       "sourceContext": "...and is currently the most consumed vegetable oil in the world.",
       "phase1Inference": {
@@ -73,13 +102,29 @@
         "sentiment": "neutral",
         "definitionEN": "Vegetable oil that is eaten or used by people",
         "translationVI": "Dầu thực vật được tiêu thụ",
-        "relatedCollocates": ["food consumption (n)", "consumer (n)"],
+        "relatedCollocates": [
+          "food consumption (n)",
+          "consumer (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "consumption", "meaning": "sự tiêu thụ" },
-            { "form": "consumer", "meaning": "người tiêu dùng" }
+            {
+              "form": "consumption",
+              "meaning": "sự tiêu thụ"
+            },
+            {
+              "form": "consumer",
+              "meaning": "người tiêu dùng"
+            }
           ],
-          "verb": [{ "form": "consume", "meaning": "tiêu thụ" }]
+          "verb": [
+            {
+              "form": "consume",
+              "meaning": "tiêu thụ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -88,7 +133,7 @@
       }
     },
     {
-      "id": 544,
+      "id": "1761813174063-19-3-14d10b57",
       "targetLexeme": "almost certainly",
       "sourceContext": "It's almost certainly in the soap we wash with...",
       "phase1Inference": {
@@ -99,11 +144,23 @@
         "sentiment": "neutral",
         "definitionEN": "Very probably; with very little doubt",
         "translationVI": "Gần như chắc chắn",
-        "relatedCollocates": ["very likely", "highly probable"],
+        "relatedCollocates": [
+          "very likely",
+          "highly probable"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
           "adverb": [
-            { "form": "almost", "meaning": "gần như" },
-            { "form": "certainly", "meaning": "chắc chắn" }
+            {
+              "form": "almost",
+              "meaning": "gần như"
+            },
+            {
+              "form": "certainly",
+              "meaning": "chắc chắn"
+            }
           ]
         }
       },
@@ -113,7 +170,7 @@
       }
     },
     {
-      "id": 545,
+      "id": "1761813174063-19-4-689275da",
       "targetLexeme": "attractive for manufacturers",
       "sourceContext": "Why is palm oil so attractive for manufacturers?",
       "phase1Inference": {
@@ -131,10 +188,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "manufacturer", "meaning": "nhà sản xuất" },
-            { "form": "attraction", "meaning": "sự hấp dẫn" }
+            {
+              "form": "manufacturer",
+              "meaning": "nhà sản xuất"
+            },
+            {
+              "form": "attraction",
+              "meaning": "sự hấp dẫn"
+            }
           ],
-          "adjective": [{ "form": "attractive", "meaning": "hấp dẫn" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "attractive",
+              "meaning": "hấp dẫn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -143,7 +213,7 @@
       }
     },
     {
-      "id": 546,
+      "id": "1761813174063-19-5-5aa9536e",
       "targetLexeme": "unique properties",
       "sourceContext": "Primarily because its unique properties – such as remaining solid...",
       "phase1Inference": {
@@ -159,8 +229,20 @@
           "distinctive characteristics"
         ],
         "wordForms": {
-          "noun": [{ "form": "property", "meaning": "đặc tính" }],
-          "adjective": [{ "form": "unique", "meaning": "độc đáo" }]
+          "noun": [
+            {
+              "form": "property",
+              "meaning": "đặc tính"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "unique",
+              "meaning": "độc đáo"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -169,7 +251,7 @@
       }
     },
     {
-      "id": 547,
+      "id": "1761813174063-19-6-2aaf1486",
       "targetLexeme": "remaining solid at room temperature",
       "sourceContext": "...such as remaining solid at room temperature...",
       "phase1Inference": {
@@ -180,10 +262,25 @@
         "sentiment": "neutral",
         "definitionEN": "Staying in a firm or hard state (not liquid) at a normal indoor temperature",
         "translationVI": "Giữ thể rắn ở nhiệt độ phòng",
-        "relatedCollocates": ["liquid (antonym)", "room temperature (n)"],
+        "relatedCollocates": [
+          "liquid (antonym)",
+          "room temperature (n)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "remain", "meaning": "duy trì" }],
-          "adjective": [{ "form": "solid", "meaning": "rắn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "remain",
+              "meaning": "duy trì"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "solid",
+              "meaning": "rắn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -192,7 +289,7 @@
       }
     },
     {
-      "id": 548,
+      "id": "1761813174063-19-7-3450ee08",
       "targetLexeme": "ideal ingredient",
       "sourceContext": "...make it an ideal ingredient for long-term preservation...",
       "phase1Inference": {
@@ -208,8 +305,20 @@
           "ingredient (for/in sth)"
         ],
         "wordForms": {
-          "noun": [{ "form": "ingredient", "meaning": "thành phần" }],
-          "adjective": [{ "form": "ideal", "meaning": "lý tưởng" }]
+          "noun": [
+            {
+              "form": "ingredient",
+              "meaning": "thành phần"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "ideal",
+              "meaning": "lý tưởng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -218,7 +327,7 @@
       }
     },
     {
-      "id": 549,
+      "id": "1761813174063-19-8-6c9c5117",
       "targetLexeme": "long-term preservation",
       "sourceContext": "...for long-term preservation, allowing many packaged foods...",
       "phase1Inference": {
@@ -235,8 +344,20 @@
           "short-term (antonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "preservation", "meaning": "sự bảo quản" }],
-          "adjective": [{ "form": "long-term", "meaning": "lâu dài" }]
+          "noun": [
+            {
+              "form": "preservation",
+              "meaning": "sự bảo quản"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "long-term",
+              "meaning": "lâu dài"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -245,7 +366,7 @@
       }
     },
     {
-      "id": 550,
+      "id": "1761813174063-19-9-2b61bc30",
       "targetLexeme": "packaged foods",
       "sourceContext": "...allowing many packaged foods on supermarket shelves...",
       "phase1Inference": {
@@ -256,13 +377,29 @@
         "sentiment": "neutral",
         "definitionEN": "Food that is sold in bags, boxes, cans, or other containers",
         "translationVI": "Thực phẩm đóng gói",
-        "relatedCollocates": ["processed foods", "food packaging (n)"],
+        "relatedCollocates": [
+          "processed foods",
+          "food packaging (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "food", "meaning": "thực phẩm" },
-            { "form": "package", "meaning": "gói hàng" }
+            {
+              "form": "food",
+              "meaning": "thực phẩm"
+            },
+            {
+              "form": "package",
+              "meaning": "gói hàng"
+            }
           ],
-          "adjective": [{ "form": "packaged", "meaning": "được đóng gói" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "packaged",
+              "meaning": "được đóng gói"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -271,7 +408,7 @@
       }
     },
     {
-      "id": 551,
+      "id": "1761813174063-19-10-50325acd",
       "targetLexeme": "'best before' dates",
       "sourceContext": "...to have 'best before' dates of months, even years, into the future.",
       "phase1Inference": {
@@ -282,9 +419,20 @@
         "sentiment": "neutral",
         "definitionEN": "The date printed on food packaging that indicates the time by which the food is at its best quality (not necessarily unsafe after)",
         "translationVI": "Hạn 'sử dụng tốt nhất trước'",
-        "relatedCollocates": ["expiry date (related)", "shelf life (n)"],
+        "relatedCollocates": [
+          "expiry date (related)",
+          "shelf life (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "date", "meaning": "ngày, hạn" }]
+          "noun": [
+            {
+              "form": "date",
+              "meaning": "ngày, hạn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -293,7 +441,7 @@
       }
     },
     {
-      "id": 552,
+      "id": "1761813174063-19-11-2d053cac",
       "targetLexeme": "seized the opportunity",
       "sourceContext": "Many farmers have seized the opportunity to maximise the planting...",
       "phase1Inference": {
@@ -304,10 +452,25 @@
         "sentiment": "positive",
         "definitionEN": "To quickly and eagerly take advantage of a chance to do something",
         "translationVI": "Nắm bắt/chớp lấy cơ hội",
-        "relatedCollocates": ["take (the opportunity)", "a golden opportunity"],
+        "relatedCollocates": [
+          "take (the opportunity)",
+          "a golden opportunity"
+        ],
         "wordForms": {
-          "noun": [{ "form": "opportunity", "meaning": "cơ hội" }],
-          "verb": [{ "form": "seize", "meaning": "nắm bắt" }]
+          "noun": [
+            {
+              "form": "opportunity",
+              "meaning": "cơ hội"
+            }
+          ],
+          "verb": [
+            {
+              "form": "seize",
+              "meaning": "nắm bắt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -316,7 +479,7 @@
       }
     },
     {
-      "id": 553,
+      "id": "1761813174063-19-12-661ff119",
       "targetLexeme": "maximise the planting",
       "sourceContext": "...to maximise the planting of oil palm trees.",
       "phase1Inference": {
@@ -327,10 +490,25 @@
         "sentiment": "neutral",
         "definitionEN": "To increase the amount of planting (of oil palm trees) as much as possible",
         "translationVI": "Tối đa hóa việc trồng (cây)",
-        "relatedCollocates": ["maximise (profits)", "minimise (antonym)"],
+        "relatedCollocates": [
+          "maximise (profits)",
+          "minimise (antonym)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "planting", "meaning": "việc trồng" }],
-          "verb": [{ "form": "maximise", "meaning": "tối đa hóa" }]
+          "noun": [
+            {
+              "form": "planting",
+              "meaning": "việc trồng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "maximise",
+              "meaning": "tối đa hóa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -339,7 +517,7 @@
       }
     },
     {
-      "id": 554,
+      "id": "1761813174063-19-13-2e9f647b",
       "targetLexeme": "global land area devoted to",
       "sourceContext": "...the global land area devoted to growing oil palm trees grew from...",
       "phase1Inference": {
@@ -356,10 +534,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "land", "meaning": "đất" },
-            { "form": "area", "meaning": "diện tích" }
+            {
+              "form": "land",
+              "meaning": "đất"
+            },
+            {
+              "form": "area",
+              "meaning": "diện tích"
+            }
           ],
-          "adjective": [{ "form": "devoted", "meaning": "dành cho" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "devoted",
+              "meaning": "dành cho"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -368,7 +559,7 @@
       }
     },
     {
-      "id": 555,
+      "id": "1761813174063-19-14-004483e1",
       "targetLexeme": "accounting for",
       "sourceContext": "...now accounting for around ten percent of total cropland...",
       "phase1Inference": {
@@ -379,10 +570,25 @@
         "sentiment": "neutral",
         "definitionEN": "To form a particular amount or part of something; to make up",
         "translationVI": "Chiếm (bao nhiêu %), giải thích cho",
-        "relatedCollocates": ["make up (synonym)", "constitute (synonym)"],
+        "relatedCollocates": [
+          "make up (synonym)",
+          "constitute (synonym)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "account", "meaning": "bản báo cáo" }],
-          "verb": [{ "form": "account for", "meaning": "chiếm" }]
+          "noun": [
+            {
+              "form": "account",
+              "meaning": "bản báo cáo"
+            }
+          ],
+          "verb": [
+            {
+              "form": "account for",
+              "meaning": "chiếm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -391,7 +597,7 @@
       }
     },
     {
-      "id": 556,
+      "id": "1761813174063-19-15-3ff683cd",
       "targetLexeme": "total cropland",
       "sourceContext": "...ten percent of total cropland in the entire world.",
       "phase1Inference": {
@@ -402,12 +608,24 @@
         "sentiment": "neutral",
         "definitionEN": "The total amount of land that is used for growing crops",
         "translationVI": "Tổng diện tích đất trồng trọt/canh tác",
-        "relatedCollocates": ["agricultural land", "farmland"],
+        "relatedCollocates": [
+          "agricultural land",
+          "farmland"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "crop", "meaning": "mùa màng" },
-            { "form": "land", "meaning": "đất" }
-          ]
+            {
+              "form": "crop",
+              "meaning": "mùa màng"
+            },
+            {
+              "form": "land",
+              "meaning": "đất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -416,7 +634,7 @@
       }
     },
     {
-      "id": 557,
+      "id": "1761813174063-19-16-48cfef51",
       "targetLexeme": "a figure (n)",
       "sourceContext": "...a figure looking likely to double or even triple...",
       "phase1Inference": {
@@ -433,7 +651,15 @@
           "the figure stands at..."
         ],
         "wordForms": {
-          "noun": [{ "form": "figure", "meaning": "con số, số liệu" }]
+          "noun": [
+            {
+              "form": "figure",
+              "meaning": "con số, số liệu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -442,7 +668,7 @@
       }
     },
     {
-      "id": 558,
+      "id": "1761813174063-19-17-4fc8d55e",
       "targetLexeme": "by the middle of the century",
       "sourceContext": "...to double or even triple by the middle of the century.",
       "phase1Inference": {
@@ -453,9 +679,20 @@
         "sentiment": "neutral",
         "definitionEN": "Around the year 2050 (if referring to the 21st century)",
         "translationVI": "Vào giữa thế kỷ (ví dụ: ~2050)",
-        "relatedCollocates": ["by (a time)", "mid-century (n)"],
+        "relatedCollocates": [
+          "by (a time)",
+          "mid-century (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "century", "meaning": "thế kỷ" }]
+          "noun": [
+            {
+              "form": "century",
+              "meaning": "thế kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -464,7 +701,7 @@
       }
     },
     {
-      "id": 559,
+      "id": "1761813174063-19-18-0bfdb791",
       "targetLexeme": "conservationists (n)",
       "sourceContext": "However, there are multiple reasons why conservationists cite...",
       "phase1Inference": {
@@ -481,9 +718,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "conservationist", "meaning": "nhà bảo tồn" },
-            { "form": "conservation", "meaning": "sự bảo tồn" }
-          ]
+            {
+              "form": "conservationist",
+              "meaning": "nhà bảo tồn"
+            },
+            {
+              "form": "conservation",
+              "meaning": "sự bảo tồn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -492,7 +738,7 @@
       }
     },
     {
-      "id": 560,
+      "id": "1761813174063-19-19-5c1f4455",
       "targetLexeme": "rapid spread",
       "sourceContext": "...cite the rapid spread of oil palm plantations as a major concern.",
       "phase1Inference": {
@@ -509,8 +755,20 @@
           "the spread of (a disease)"
         ],
         "wordForms": {
-          "noun": [{ "form": "spread", "meaning": "sự lan rộng" }],
-          "adjective": [{ "form": "rapid", "meaning": "nhanh chóng" }]
+          "noun": [
+            {
+              "form": "spread",
+              "meaning": "sự lan rộng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "rapid",
+              "meaning": "nhanh chóng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -519,7 +777,7 @@
       }
     },
     {
-      "id": 561,
+      "id": "1761813174063-19-20-57d6b499",
       "targetLexeme": "oil palm plantations",
       "sourceContext": "...spread of oil palm plantations as a major concern.",
       "phase1Inference": {
@@ -530,9 +788,20 @@
         "sentiment": "neutral",
         "definitionEN": "Large farms or estates in a tropical country where oil palm trees are grown commercially",
         "translationVI": "Đồn điền cọ dầu",
-        "relatedCollocates": ["plantation (n)", "planting (n)"],
+        "relatedCollocates": [
+          "plantation (n)",
+          "planting (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "plantation", "meaning": "đồn điền" }]
+          "noun": [
+            {
+              "form": "plantation",
+              "meaning": "đồn điền"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -541,7 +810,7 @@
       }
     },
     {
-      "id": 562,
+      "id": "1761813174063-19-21-2a289ede",
       "targetLexeme": "a major concern",
       "sourceContext": "...as a major concern.",
       "phase1Inference": {
@@ -558,8 +827,20 @@
           "a cause for concern"
         ],
         "wordForms": {
-          "noun": [{ "form": "concern", "meaning": "mối lo ngại" }],
-          "adjective": [{ "form": "major", "meaning": "lớn, chính" }]
+          "noun": [
+            {
+              "form": "concern",
+              "meaning": "mối lo ngại"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "major",
+              "meaning": "lớn, chính"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -568,7 +849,7 @@
       }
     },
     {
-      "id": 563,
+      "id": "1761813174063-19-22-05ade187",
       "targetLexeme": "countless (adj)",
       "sourceContext": "There are countless news stories of deforestation...",
       "phase1Inference": {
@@ -585,8 +866,20 @@
           "many (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "count", "meaning": "việc đếm" }],
-          "adjective": [{ "form": "countless", "meaning": "vô số" }]
+          "noun": [
+            {
+              "form": "count",
+              "meaning": "việc đếm"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "countless",
+              "meaning": "vô số"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -595,7 +888,7 @@
       }
     },
     {
-      "id": 564,
+      "id": "1761813174063-19-23-50a93129",
       "targetLexeme": "deforestation (n)",
       "sourceContext": "...countless news stories of deforestation, habitat destruction...",
       "phase1Inference": {
@@ -613,9 +906,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "deforestation", "meaning": "sự phá rừng" },
-            { "form": "forest", "meaning": "khu rừng" }
-          ]
+            {
+              "form": "deforestation",
+              "meaning": "sự phá rừng"
+            },
+            {
+              "form": "forest",
+              "meaning": "khu rừng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -624,7 +926,7 @@
       }
     },
     {
-      "id": 565,
+      "id": "1761813174063-19-24-0dc2955b",
       "targetLexeme": "habitat destruction",
       "sourceContext": "...deforestation, habitat destruction and dwindling species populations...",
       "phase1Inference": {
@@ -641,10 +943,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "habitat", "meaning": "môi trường sống" },
-            { "form": "destruction", "meaning": "sự phá hủy" }
+            {
+              "form": "habitat",
+              "meaning": "môi trường sống"
+            },
+            {
+              "form": "destruction",
+              "meaning": "sự phá hủy"
+            }
           ],
-          "verb": [{ "form": "destroy", "meaning": "phá hủy" }]
+          "verb": [
+            {
+              "form": "destroy",
+              "meaning": "phá hủy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -653,7 +968,7 @@
       }
     },
     {
-      "id": 566,
+      "id": "1761813174063-19-25-59f04ae2",
       "targetLexeme": "dwindling species populations",
       "sourceContext": "...and dwindling species populations, all as a direct result of...",
       "phase1Inference": {
@@ -669,9 +984,25 @@
           "shrinking (populations)"
         ],
         "wordForms": {
-          "noun": [{ "form": "population", "meaning": "quần thể" }],
-          "verb": [{ "form": "dwindle", "meaning": "suy giảm" }],
-          "adjective": [{ "form": "dwindling", "meaning": "đang suy giảm" }]
+          "noun": [
+            {
+              "form": "population",
+              "meaning": "quần thể"
+            }
+          ],
+          "verb": [
+            {
+              "form": "dwindle",
+              "meaning": "suy giảm"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "dwindling",
+              "meaning": "đang suy giảm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -680,7 +1011,7 @@
       }
     },
     {
-      "id": 567,
+      "id": "1761813174063-19-26-47402872",
       "targetLexeme": "a direct result of",
       "sourceContext": "...all as a direct result of land clearing to establish...",
       "phase1Inference": {
@@ -696,8 +1027,20 @@
           "caused directly by"
         ],
         "wordForms": {
-          "noun": [{ "form": "result", "meaning": "kết quả" }],
-          "adjective": [{ "form": "direct", "meaning": "trực tiếp" }]
+          "noun": [
+            {
+              "form": "result",
+              "meaning": "kết quả"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "direct",
+              "meaning": "trực tiếp"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -706,7 +1049,7 @@
       }
     },
     {
-      "id": 568,
+      "id": "1761813174063-19-27-599327ef",
       "targetLexeme": "land clearing",
       "sourceContext": "...a direct result of land clearing to establish oil tree monoculture...",
       "phase1Inference": {
@@ -717,13 +1060,29 @@
         "sentiment": "negative",
         "definitionEN": "The process of removing trees, bushes, and other vegetation from an area of land",
         "translationVI": "Việc phát quang đất/phá rừng",
-        "relatedCollocates": ["deforestation (synonym)", "clearing (land)"],
+        "relatedCollocates": [
+          "deforestation (synonym)",
+          "clearing (land)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "land", "meaning": "đất" },
-            { "form": "clearing", "meaning": "việc dọn dẹp" }
+            {
+              "form": "land",
+              "meaning": "đất"
+            },
+            {
+              "form": "clearing",
+              "meaning": "việc dọn dẹp"
+            }
           ],
-          "verb": [{ "form": "clear", "meaning": "dọn dẹp" }]
+          "verb": [
+            {
+              "form": "clear",
+              "meaning": "dọn dẹp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -732,7 +1091,7 @@
       }
     },
     {
-      "id": 569,
+      "id": "1761813174063-19-28-561ec704",
       "targetLexeme": "monoculture (n)",
       "sourceContext": "...establish oil tree monoculture on an industrial scale...",
       "phase1Inference": {
@@ -748,7 +1107,15 @@
           "biodiversity (antonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "monoculture", "meaning": "độc canh" }]
+          "noun": [
+            {
+              "form": "monoculture",
+              "meaning": "độc canh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -757,7 +1124,7 @@
       }
     },
     {
-      "id": 570,
+      "id": "1761813174063-19-29-7e57fd21",
       "targetLexeme": "on an industrial scale",
       "sourceContext": "...monoculture on an industrial scale, particularly in Malaysia...",
       "phase1Inference": {
@@ -768,10 +1135,25 @@
         "sentiment": "neutral",
         "definitionEN": "In a way that is very large in size, amount, or extent; relating to large-scale manufacturing or production",
         "translationVI": "Trên quy mô công nghiệp",
-        "relatedCollocates": ["on a large scale (synonym)", "mass production"],
+        "relatedCollocates": [
+          "on a large scale (synonym)",
+          "mass production"
+        ],
         "wordForms": {
-          "noun": [{ "form": "scale", "meaning": "quy mô" }],
-          "adjective": [{ "form": "industrial", "meaning": "công nghiệp" }]
+          "noun": [
+            {
+              "form": "scale",
+              "meaning": "quy mô"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "industrial",
+              "meaning": "công nghiệp"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -780,7 +1162,7 @@
       }
     },
     {
-      "id": 571,
+      "id": "1761813174063-19-30-778d5d97",
       "targetLexeme": "numerous other fauna",
       "sourceContext": "...rhinos, elephants, tigers, and numerous other fauna – have suffered...",
       "phase1Inference": {
@@ -797,8 +1179,20 @@
           "numerous (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "fauna", "meaning": "hệ động vật" }],
-          "adjective": [{ "form": "numerous", "meaning": "nhiều" }]
+          "noun": [
+            {
+              "form": "fauna",
+              "meaning": "hệ động vật"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "numerous",
+              "meaning": "nhiều"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -807,7 +1201,7 @@
       }
     },
     {
-      "id": 572,
+      "id": "1761813174063-19-31-09f14f96",
       "targetLexeme": "suffered from (sth)",
       "sourceContext": "...have suffered from the unstoppable spread of oil palm plantations.",
       "phase1Inference": {
@@ -818,10 +1212,25 @@
         "sentiment": "negative",
         "definitionEN": "To experience or be badly affected by something bad (e.g., a disease, a bad situation)",
         "translationVI": "Chịu/bị ảnh hưởng xấu từ",
-        "relatedCollocates": ["suffer (from an illness)", "be affected by"],
+        "relatedCollocates": [
+          "suffer (from an illness)",
+          "be affected by"
+        ],
         "wordForms": {
-          "noun": [{ "form": "suffering", "meaning": "sự đau khổ" }],
-          "verb": [{ "form": "suffer", "meaning": "chịu đựng" }]
+          "noun": [
+            {
+              "form": "suffering",
+              "meaning": "sự đau khổ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "suffer",
+              "meaning": "chịu đựng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -830,7 +1239,7 @@
       }
     },
     {
-      "id": 573,
+      "id": "1761813174063-19-32-267db2a5",
       "targetLexeme": "unstoppable spread",
       "sourceContext": "...the unstoppable spread of oil palm plantations.",
       "phase1Inference": {
@@ -841,10 +1250,25 @@
         "sentiment": "negative",
         "definitionEN": "A rapid increase or expansion that cannot be prevented or stopped",
         "translationVI": "Sự lan rộng/phát tán không thể ngăn cản",
-        "relatedCollocates": ["rapid spread (related)", "inevitable (adj)"],
+        "relatedCollocates": [
+          "rapid spread (related)",
+          "inevitable (adj)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "spread", "meaning": "sự lan rộng" }],
-          "adjective": [{ "form": "unstoppable", "meaning": "không thể cản" }]
+          "noun": [
+            {
+              "form": "spread",
+              "meaning": "sự lan rộng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "unstoppable",
+              "meaning": "không thể cản"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -853,7 +1277,7 @@
       }
     },
     {
-      "id": 574,
+      "id": "1761813174063-19-33-5d39ed5d",
       "targetLexeme": "threats to global biodiversity",
       "sourceContext": "'Palm oil is surely one of the greatest threats to global biodiversity,' declares Dr Farnon...",
       "phase1Inference": {
@@ -871,10 +1295,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "threat", "meaning": "mối đe dọa" },
-            { "form": "biodiversity", "meaning": "đa dạng sinh học" }
+            {
+              "form": "threat",
+              "meaning": "mối đe dọa"
+            },
+            {
+              "form": "biodiversity",
+              "meaning": "đa dạng sinh học"
+            }
           ],
-          "verb": [{ "form": "threaten", "meaning": "đe dọa" }]
+          "verb": [
+            {
+              "form": "threaten",
+              "meaning": "đe dọa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -883,7 +1320,7 @@
       }
     },
     {
-      "id": 575,
+      "id": "1761813174063-19-34-42244d06",
       "targetLexeme": "declares (v)",
       "sourceContext": "...' declares Dr Farnon Ellwood...",
       "phase1Inference": {
@@ -900,8 +1337,20 @@
           "says (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "declaration", "meaning": "lời tuyên bố" }],
-          "verb": [{ "form": "declare", "meaning": "tuyên bố" }]
+          "noun": [
+            {
+              "form": "declaration",
+              "meaning": "lời tuyên bố"
+            }
+          ],
+          "verb": [
+            {
+              "form": "declare",
+              "meaning": "tuyên bố"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -910,7 +1359,7 @@
       }
     },
     {
-      "id": 576,
+      "id": "1761813174063-19-35-1577063c",
       "targetLexeme": "replacing rainforest",
       "sourceContext": "'Palm oil is replacing rainforest, and rainforest is where all the species are.'",
       "phase1Inference": {
@@ -927,10 +1376,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "rainforest", "meaning": "rừng nhiệt đới" },
-            { "form": "replacement", "meaning": "sự thay thế" }
+            {
+              "form": "rainforest",
+              "meaning": "rừng nhiệt đới"
+            },
+            {
+              "form": "replacement",
+              "meaning": "sự thay thế"
+            }
           ],
-          "verb": [{ "form": "replace", "meaning": "thay thế" }]
+          "verb": [
+            {
+              "form": "replace",
+              "meaning": "thay thế"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -939,7 +1401,7 @@
       }
     },
     {
-      "id": 577,
+      "id": "1761813174063-19-36-74beff62",
       "targetLexeme": "environmentalists (n)",
       "sourceContext": "'This has led to some radical questions among environmentalists...'",
       "phase1Inference": {
@@ -950,15 +1412,29 @@
         "sentiment": "neutral",
         "definitionEN": "People who are concerned with or advocate for the protection of the environment",
         "translationVI": "Nhà môi trường học",
-        "relatedCollocates": ["conservationists (related)", "environment (n)"],
+        "relatedCollocates": [
+          "conservationists (related)",
+          "environment (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "environmentalist", "meaning": "nhà môi trường" },
-            { "form": "environment", "meaning": "môi trường" }
+            {
+              "form": "environmentalist",
+              "meaning": "nhà môi trường"
+            },
+            {
+              "form": "environment",
+              "meaning": "môi trường"
+            }
           ],
+          "verb": [],
           "adjective": [
-            { "form": "environmental", "meaning": "thuộc môi trường" }
-          ]
+            {
+              "form": "environmental",
+              "meaning": "thuộc môi trường"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -967,7 +1443,7 @@
       }
     },
     {
-      "id": 578,
+      "id": "1761813174063-19-37-086ef832",
       "targetLexeme": "boycott (v/n)",
       "sourceContext": "...whether consumers should try to boycott palm oil entirely.",
       "phase1Inference": {
@@ -984,8 +1460,20 @@
           "a consumer boycott (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "boycott", "meaning": "sự tẩy chay" }],
-          "verb": [{ "form": "boycott", "meaning": "tẩy chay" }]
+          "noun": [
+            {
+              "form": "boycott",
+              "meaning": "sự tẩy chay"
+            }
+          ],
+          "verb": [
+            {
+              "form": "boycott",
+              "meaning": "tẩy chay"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -994,7 +1482,7 @@
       }
     },
     {
-      "id": 579,
+      "id": "1761813174063-19-38-3c046fb6",
       "targetLexeme": "entirely (adv)",
       "sourceContext": "...boycott palm oil entirely.",
       "phase1Inference": {
@@ -1011,8 +1499,20 @@
           "exclusively (related)"
         ],
         "wordForms": {
-          "adjective": [{ "form": "entire", "meaning": "toàn bộ" }],
-          "adverb": [{ "form": "entirely", "meaning": "hoàn toàn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "entire",
+              "meaning": "toàn bộ"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "entirely",
+              "meaning": "hoàn toàn"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1021,7 +1521,7 @@
       }
     },
     {
-      "id": 580,
+      "id": "1761813174063-19-39-2fe584dc",
       "targetLexeme": "It makes for a more dramatic story",
       "sourceContext": "'It makes for a more dramatic story, and it's very intuitive.'",
       "phase1Inference": {
@@ -1032,9 +1532,20 @@
         "sentiment": "neutral",
         "definitionEN": "An idiom meaning 'it helps to create' or 'it results in' a more exciting or emotional narrative",
         "translationVI": "Nó tạo nên/góp phần tạo nên một câu chuyện kịch tính hơn",
-        "relatedCollocates": ["make for (sth)", "a dramatic (story)"],
+        "relatedCollocates": [
+          "make for (sth)",
+          "a dramatic (story)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "make for", "meaning": "tạo nên" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "make for",
+              "meaning": "tạo nên"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1043,7 +1554,7 @@
       }
     },
     {
-      "id": 581,
+      "id": "1761813174063-19-40-019e6fe9",
       "targetLexeme": "intuitive (adj)",
       "sourceContext": "...and it's very intuitive.",
       "phase1Inference": {
@@ -1059,8 +1570,20 @@
           "counter-intuitive (antonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "intuition", "meaning": "trực giác" }],
-          "adjective": [{ "form": "intuitive", "meaning": "trực quan" }]
+          "noun": [
+            {
+              "form": "intuition",
+              "meaning": "trực giác"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "intuitive",
+              "meaning": "trực quan"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1069,7 +1592,7 @@
       }
     },
     {
-      "id": 582,
+      "id": "1761813174063-19-41-7704ae3a",
       "targetLexeme": "given the complexity of",
       "sourceContext": "But given the complexity of the argument, I think...",
       "phase1Inference": {
@@ -1085,7 +1608,15 @@
           "the complexity (of sth)"
         ],
         "wordForms": {
-          "noun": [{ "form": "complexity", "meaning": "sự phức tạp" }]
+          "noun": [
+            {
+              "form": "complexity",
+              "meaning": "sự phức tạp"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1094,7 +1625,7 @@
       }
     },
     {
-      "id": 583,
+      "id": "1761813174063-19-42-67f25f9c",
       "targetLexeme": "a much more nuanced story",
       "sourceContext": "...a much more nuanced story is closer to the truth.",
       "phase1Inference": {
@@ -1112,10 +1643,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "nuance", "meaning": "sắc thái" },
-            { "form": "story", "meaning": "câu chuyện" }
+            {
+              "form": "nuance",
+              "meaning": "sắc thái"
+            },
+            {
+              "form": "story",
+              "meaning": "câu chuyện"
+            }
           ],
-          "adjective": [{ "form": "nuanced", "meaning": "có nhiều sắc thái" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "nuanced",
+              "meaning": "có nhiều sắc thái"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1124,7 +1668,7 @@
       }
     },
     {
-      "id": 584,
+      "id": "1761813174063-19-43-66476711",
       "targetLexeme": "boycott movement",
       "sourceContext": "One response to the boycott movement has been the argument...",
       "phase1Inference": {
@@ -1135,12 +1679,24 @@
         "sentiment": "neutral",
         "definitionEN": "A widespread, organized campaign in which people refuse to buy or use a particular product as a form of protest",
         "translationVI": "Phong trào tẩy chay",
-        "relatedCollocates": ["consumer boycott (n)", "join a movement"],
+        "relatedCollocates": [
+          "consumer boycott (n)",
+          "join a movement"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "boycott", "meaning": "sự tẩy chay" },
-            { "form": "movement", "meaning": "phong trào" }
-          ]
+            {
+              "form": "boycott",
+              "meaning": "sự tẩy chay"
+            },
+            {
+              "form": "movement",
+              "meaning": "phong trào"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1149,7 +1705,7 @@
       }
     },
     {
-      "id": 585,
+      "id": "1761813174063-19-44-454b2a2b",
       "targetLexeme": "vital role",
       "sourceContext": "...the argument for the vital role palm oil plays in...",
       "phase1Inference": {
@@ -1166,8 +1722,20 @@
           "play a vital role"
         ],
         "wordForms": {
-          "noun": [{ "form": "role", "meaning": "vai trò" }],
-          "adjective": [{ "form": "vital", "meaning": "thiết yếu" }]
+          "noun": [
+            {
+              "form": "role",
+              "meaning": "vai trò"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "vital",
+              "meaning": "thiết yếu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1176,7 +1744,7 @@
       }
     },
     {
-      "id": 586,
+      "id": "1761813174063-19-45-2c1775f3",
       "targetLexeme": "lifting... people out of poverty",
       "sourceContext": "...in lifting many millions of people in the developing world out of poverty.",
       "phase1Inference": {
@@ -1187,10 +1755,25 @@
         "sentiment": "positive",
         "definitionEN": "Helping a large number of people to escape the state of being extremely poor",
         "translationVI": "Giúp/đưa... người thoát nghèo",
-        "relatedCollocates": ["escape poverty", "poverty alleviation (n)"],
+        "relatedCollocates": [
+          "escape poverty",
+          "poverty alleviation (n)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "lift out", "meaning": "nâng ra khỏi" }],
-          "noun": [{ "form": "poverty", "meaning": "sự nghèo đói" }]
+          "noun": [
+            {
+              "form": "poverty",
+              "meaning": "sự nghèo đói"
+            }
+          ],
+          "verb": [
+            {
+              "form": "lift out",
+              "meaning": "nâng ra khỏi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1199,7 +1782,7 @@
       }
     },
     {
-      "id": 587,
+      "id": "1761813174063-19-46-6d145d1e",
       "targetLexeme": "developing world",
       "sourceContext": "...people in the developing world out of poverty.",
       "phase1Inference": {
@@ -1215,8 +1798,20 @@
           "low-income countries"
         ],
         "wordForms": {
-          "noun": [{ "form": "world", "meaning": "thế giới" }],
-          "adjective": [{ "form": "developing", "meaning": "đang phát triển" }]
+          "noun": [
+            {
+              "form": "world",
+              "meaning": "thế giới"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "developing",
+              "meaning": "đang phát triển"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1225,7 +1820,7 @@
       }
     },
     {
-      "id": 588,
+      "id": "1761813174063-19-47-338ad9d5",
       "targetLexeme": "global supply chain",
       "sourceContext": "...eliminated from the global supply chain, given how many...",
       "phase1Inference": {
@@ -1236,12 +1831,24 @@
         "sentiment": "neutral",
         "definitionEN": "The worldwide system of organizations, people, activities, information, and resources involved in moving a product from supplier to customer",
         "translationVI": "Chuỗi cung ứng toàn cầu",
-        "relatedCollocates": ["supply chain (n)", "logistics (n)"],
+        "relatedCollocates": [
+          "supply chain (n)",
+          "logistics (n)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "supply", "meaning": "nguồn cung" },
-            { "form": "chain", "meaning": "chuỗi" }
-          ]
+            {
+              "form": "supply",
+              "meaning": "nguồn cung"
+            },
+            {
+              "form": "chain",
+              "meaning": "chuỗi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1250,7 +1857,7 @@
       }
     },
     {
-      "id": 589,
+      "id": "1761813174063-19-48-2c441cc0",
       "targetLexeme": "livelihoods (n)",
       "sourceContext": "...depend on it for their livelihoods?",
       "phase1Inference": {
@@ -1261,9 +1868,20 @@
         "sentiment": "neutral",
         "definitionEN": "The means of securing the necessities of life (money, food, shelter)",
         "translationVI": "Sinh kế, kế sinh nhai",
-        "relatedCollocates": ["depend on (for livelihood)", "earn a living"],
+        "relatedCollocates": [
+          "depend on (for livelihood)",
+          "earn a living"
+        ],
         "wordForms": {
-          "noun": [{ "form": "livelihood", "meaning": "sinh kế" }]
+          "noun": [
+            {
+              "form": "livelihood",
+              "meaning": "sinh kế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1272,7 +1890,7 @@
       }
     },
     {
-      "id": 590,
+      "id": "1761813174063-19-49-65c9416e",
       "targetLexeme": "strike a utilitarian balance",
       "sourceContext": "How best to strike a utilitarian balance between these competing factors...",
       "phase1Inference": {
@@ -1289,10 +1907,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "balance", "meaning": "sự cân bằng" },
-            { "form": "utilitarianism", "meaning": "chủ nghĩa vị lợi" }
+            {
+              "form": "balance",
+              "meaning": "sự cân bằng"
+            },
+            {
+              "form": "utilitarianism",
+              "meaning": "chủ nghĩa vị lợi"
+            }
           ],
-          "verb": [{ "form": "strike", "meaning": "đạt được" }]
+          "verb": [
+            {
+              "form": "strike",
+              "meaning": "đạt được"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1301,7 +1932,7 @@
       }
     },
     {
-      "id": 591,
+      "id": "1761813174063-19-50-5b0c608d",
       "targetLexeme": "competing factors",
       "sourceContext": "...between these competing factors has become a serious bone of contention.",
       "phase1Inference": {
@@ -1312,10 +1943,25 @@
         "sentiment": "negative",
         "definitionEN": "Elements or influences that are in opposition or conflict with each other",
         "translationVI": "Các yếu tố cạnh tranh/mâu thuẫn/đối chọi",
-        "relatedCollocates": ["conflicting (factors)", "competing (interests)"],
+        "relatedCollocates": [
+          "conflicting (factors)",
+          "competing (interests)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "factor", "meaning": "yếu tố" }],
-          "adjective": [{ "form": "competing", "meaning": "cạnh tranh" }]
+          "noun": [
+            {
+              "form": "factor",
+              "meaning": "yếu tố"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "competing",
+              "meaning": "cạnh tranh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1324,7 +1970,7 @@
       }
     },
     {
-      "id": 592,
+      "id": "1761813174063-19-51-272c94d0",
       "targetLexeme": "a serious bone of contention",
       "sourceContext": "...has become a serious bone of contention.",
       "phase1Inference": {
@@ -1335,12 +1981,24 @@
         "sentiment": "negative",
         "definitionEN": "An idiom for a subject or issue over which there is serious disagreement",
         "translationVI": "Vấn đề/chủ đề gây tranh cãi nghiêm trọng",
-        "relatedCollocates": ["a subject of debate", "a contentious issue"],
+        "relatedCollocates": [
+          "a subject of debate",
+          "a contentious issue"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "bone", "meaning": "cái xương" },
-            { "form": "contention", "meaning": "sự tranh cãi" }
-          ]
+            {
+              "form": "bone",
+              "meaning": "cái xương"
+            },
+            {
+              "form": "contention",
+              "meaning": "sự tranh cãi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1349,7 +2007,7 @@
       }
     },
     {
-      "id": 593,
+      "id": "1761813174063-19-52-297bbc28",
       "targetLexeme": "straightforward (adj)",
       "sourceContext": "Even the deforestation argument isn't as straightforward as it seems.",
       "phase1Inference": {
@@ -1366,7 +2024,15 @@
           "complicated (antonym)"
         ],
         "wordForms": {
-          "adjective": [{ "form": "straightforward", "meaning": "đơn giản" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "straightforward",
+              "meaning": "đơn giản"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1375,7 +2041,7 @@
       }
     },
     {
-      "id": 594,
+      "id": "1761813174063-19-53-1d2fd80c",
       "targetLexeme": "oil per hectare",
       "sourceContext": "...produce at least four and potentially up to ten times more oil per hectare than...",
       "phase1Inference": {
@@ -1386,12 +2052,25 @@
         "sentiment": "neutral",
         "definitionEN": "The amount of oil produced for every 10,000 square meters of land",
         "translationVI": "Dầu trên mỗi héc-ta (năng suất)",
-        "relatedCollocates": ["yield (n)", "hectare (n)", "per (prep)"],
+        "relatedCollocates": [
+          "yield (n)",
+          "hectare (n)",
+          "per (prep)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "oil", "meaning": "dầu" },
-            { "form": "hectare", "meaning": "héc-ta" }
-          ]
+            {
+              "form": "oil",
+              "meaning": "dầu"
+            },
+            {
+              "form": "hectare",
+              "meaning": "héc-ta"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1400,7 +2079,7 @@
       }
     },
     {
-      "id": 595,
+      "id": "1761813174063-19-54-6e880568",
       "targetLexeme": "rapeseed (n)",
       "sourceContext": "...than soybean, rapeseed, sunflower or other competing oils.",
       "phase1Inference": {
@@ -1411,9 +2090,20 @@
         "sentiment": "neutral",
         "definitionEN": "A bright-yellow flowering plant from which oil (canola oil) is obtained",
         "translationVI": "Cây/hạt cải dầu",
-        "relatedCollocates": ["soybean (n)", "sunflower (n)"],
+        "relatedCollocates": [
+          "soybean (n)",
+          "sunflower (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "rapeseed", "meaning": "hạt cải dầu" }]
+          "noun": [
+            {
+              "form": "rapeseed",
+              "meaning": "hạt cải dầu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1422,7 +2112,7 @@
       }
     },
     {
-      "id": 596,
+      "id": "1761813174063-19-55-74f66b7f",
       "targetLexeme": "immensely high yield",
       "sourceContext": "That immensely high yield... is also an ecological benefit.",
       "phase1Inference": {
@@ -1439,8 +2129,20 @@
           "low yield (antonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "yield", "meaning": "năng suất" }],
-          "adverb": [{ "form": "immensely", "meaning": "cực kỳ" }]
+          "noun": [
+            {
+              "form": "yield",
+              "meaning": "năng suất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "immensely",
+              "meaning": "cực kỳ"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1449,7 +2151,7 @@
       }
     },
     {
-      "id": 597,
+      "id": "1761813174063-19-56-4c265ab0",
       "targetLexeme": "predominantly (adv)",
       "sourceContext": "...what makes it so profitable – is predominantly also an ecological benefit.",
       "phase1Inference": {
@@ -1460,10 +2162,25 @@
         "sentiment": "neutral",
         "definitionEN": "Mainly; for the most part; mostly",
         "translationVI": "Chủ yếu, phần lớn",
-        "relatedCollocates": ["mainly (synonym)", "mostly (synonym)"],
+        "relatedCollocates": [
+          "mainly (synonym)",
+          "mostly (synonym)"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "predominant", "meaning": "chiếm ưu thế" }],
-          "adverb": [{ "form": "predominantly", "meaning": "chủ yếu" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "predominant",
+              "meaning": "chiếm ưu thế"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "predominantly",
+              "meaning": "chủ yếu"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1472,7 +2189,7 @@
       }
     },
     {
-      "id": 598,
+      "id": "1761813174063-19-57-1c2914dd",
       "targetLexeme": "ecologically beneficial",
       "sourceContext": "...is predominantly also an ecological benefit.",
       "phase1Inference": {
@@ -1489,8 +2206,20 @@
           "environmentally friendly"
         ],
         "wordForms": {
-          "adjective": [{ "form": "beneficial", "meaning": "có lợi" }],
-          "adverb": [{ "form": "ecologically", "meaning": "về mặt sinh thái" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "beneficial",
+              "meaning": "có lợi"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "ecologically",
+              "meaning": "về mặt sinh thái"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1499,7 +2228,7 @@
       }
     },
     {
-      "id": 599,
+      "id": "1761813174063-19-58-2a2d6b5f",
       "targetLexeme": "patch of land",
       "sourceContext": "...be cleared from a patch of land than any competing oil...",
       "phase1Inference": {
@@ -1510,12 +2239,24 @@
         "sentiment": "neutral",
         "definitionEN": "A small area of land",
         "translationVI": "Mảnh đất, vạt đất",
-        "relatedCollocates": ["a patch of (grass)", "a plot of land"],
+        "relatedCollocates": [
+          "a patch of (grass)",
+          "a plot of land"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "patch", "meaning": "mảnh" },
-            { "form": "land", "meaning": "đất" }
-          ]
+            {
+              "form": "patch",
+              "meaning": "mảnh"
+            },
+            {
+              "form": "land",
+              "meaning": "đất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1524,7 +2265,7 @@
       }
     },
     {
-      "id": 600,
+      "id": "1761813174063-19-59-7543fa31",
       "targetLexeme": "carbon emissions",
       "sourceContext": "As for the question of carbon emissions, the issue really depends on...",
       "phase1Inference": {
@@ -1542,9 +2283,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "carbon", "meaning": "carbon" },
-            { "form": "emission", "meaning": "sự phát thải" }
-          ]
+            {
+              "form": "carbon",
+              "meaning": "carbon"
+            },
+            {
+              "form": "emission",
+              "meaning": "sự phát thải"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1553,7 +2303,7 @@
       }
     },
     {
-      "id": 601,
+      "id": "1761813174063-19-60-57f0c3a8",
       "targetLexeme": "sequester carbon",
       "sourceContext": "...native to the degree to which they sequester carbon...",
       "phase1Inference": {
@@ -1571,10 +2321,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "carbon", "meaning": "carbon" },
-            { "form": "sequestration", "meaning": "sự cô lập" }
+            {
+              "form": "carbon",
+              "meaning": "carbon"
+            },
+            {
+              "form": "sequestration",
+              "meaning": "sự cô lập"
+            }
           ],
-          "verb": [{ "form": "sequester", "meaning": "cô lập" }]
+          "verb": [
+            {
+              "form": "sequester",
+              "meaning": "cô lập"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1583,7 +2346,7 @@
       }
     },
     {
-      "id": 602,
+      "id": "1761813174063-19-61-4d09cf60",
       "targetLexeme": "virgin forest",
       "sourceContext": "...if you're cutting down virgin forest it's terrible...",
       "phase1Inference": {
@@ -1600,10 +2363,20 @@
           "cutting down (forest)"
         ],
         "wordForms": {
-          "noun": [{ "form": "forest", "meaning": "rừng" }],
+          "noun": [
+            {
+              "form": "forest",
+              "meaning": "rừng"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "virgin", "meaning": "nguyên sinh, trinh nguyên" }
-          ]
+            {
+              "form": "virgin",
+              "meaning": "nguyên sinh, trinh nguyên"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1612,7 +2385,7 @@
       }
     },
     {
-      "id": 603,
+      "id": "1761813174063-19-62-42776d21",
       "targetLexeme": "get out of hand",
       "sourceContext": "...it's been allowed to get out of hand. But if it's replacing...",
       "phase1Inference": {
@@ -1623,9 +2396,20 @@
         "sentiment": "negative",
         "definitionEN": "An idiom meaning to become difficult or impossible to control",
         "translationVI": "Vượt ngoài tầm kiểm soát",
-        "relatedCollocates": ["become uncontrollable", "get out of control"],
+        "relatedCollocates": [
+          "become uncontrollable",
+          "get out of control"
+        ],
         "wordForms": {
-          "verb": [{ "form": "get", "meaning": "trở nên" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "get",
+              "meaning": "trở nên"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1634,7 +2418,7 @@
       }
     },
     {
-      "id": 604,
+      "id": "1761813174063-19-63-590d003e",
       "targetLexeme": "regulated (v)",
       "sourceContext": "The industry is now regulated by a group called...",
       "phase1Inference": {
@@ -1651,9 +2435,25 @@
           "regulatory body (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "regulation", "meaning": "quy định" }],
-          "verb": [{ "form": "regulate", "meaning": "quản lý" }],
-          "adjective": [{ "form": "regulatory", "meaning": "thuộc về quản lý" }]
+          "noun": [
+            {
+              "form": "regulation",
+              "meaning": "quy định"
+            }
+          ],
+          "verb": [
+            {
+              "form": "regulate",
+              "meaning": "quản lý"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "regulatory",
+              "meaning": "thuộc về quản lý"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1662,7 +2462,7 @@
       }
     },
     {
-      "id": 605,
+      "id": "1761813174063-19-64-57c6f610",
       "targetLexeme": "consisting of",
       "sourceContext": "...(RSPO), consisting of palm growers, retailers...",
       "phase1Inference": {
@@ -1673,9 +2473,20 @@
         "sentiment": "neutral",
         "definitionEN": "Being composed or made up of",
         "translationVI": "Bao gồm, gồm có",
-        "relatedCollocates": ["composed of (synonym)", "made up of (synonym)"],
+        "relatedCollocates": [
+          "composed of (synonym)",
+          "made up of (synonym)"
+        ],
         "wordForms": {
-          "verb": [{ "form": "consist of", "meaning": "bao gồm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "consist of",
+              "meaning": "bao gồm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1684,7 +2495,7 @@
       }
     },
     {
-      "id": 606,
+      "id": "1761813174063-19-65-718d710b",
       "targetLexeme": "retailers (n)",
       "sourceContext": "...palm growers, retailers, product manufacturers...",
       "phase1Inference": {
@@ -1702,10 +2513,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "retailer", "meaning": "nhà bán lẻ" },
-            { "form": "retail", "meaning": "việc bán lẻ" }
+            {
+              "form": "retailer",
+              "meaning": "nhà bán lẻ"
+            },
+            {
+              "form": "retail",
+              "meaning": "việc bán lẻ"
+            }
           ],
-          "verb": [{ "form": "retail", "meaning": "bán lẻ" }]
+          "verb": [
+            {
+              "form": "retail",
+              "meaning": "bán lẻ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1714,7 +2538,7 @@
       }
     },
     {
-      "id": 607,
+      "id": "1761813174063-19-66-6c8b698e",
       "targetLexeme": "interested parties",
       "sourceContext": "...and other interested parties.",
       "phase1Inference": {
@@ -1725,10 +2549,25 @@
         "sentiment": "neutral",
         "definitionEN": "People or groups who have a connection, stake, or involvement in a particular situation or business",
         "translationVI": "Các bên liên quan, các bên quan tâm",
-        "relatedCollocates": ["stakeholders (synonym)", "all parties involved"],
+        "relatedCollocates": [
+          "stakeholders (synonym)",
+          "all parties involved"
+        ],
         "wordForms": {
-          "noun": [{ "form": "party", "meaning": "bên (trong hợp đồng)" }],
-          "adjective": [{ "form": "interested", "meaning": "có liên quan" }]
+          "noun": [
+            {
+              "form": "party",
+              "meaning": "bên (trong hợp đồng)"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "interested",
+              "meaning": "có liên quan"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1737,7 +2576,7 @@
       }
     },
     {
-      "id": 608,
+      "id": "1761813174063-19-67-331b43bc",
       "targetLexeme": "agreement has gradually been reached",
       "sourceContext": "...an agreement has gradually been reached that standards...",
       "phase1Inference": {
@@ -1754,8 +2593,20 @@
           "consensus (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "agreement", "meaning": "thỏa thuận" }],
-          "verb": [{ "form": "reach", "meaning": "đạt được" }]
+          "noun": [
+            {
+              "form": "agreement",
+              "meaning": "thỏa thuận"
+            }
+          ],
+          "verb": [
+            {
+              "form": "reach",
+              "meaning": "đạt được"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1764,7 +2615,7 @@
       }
     },
     {
-      "id": 609,
+      "id": "1761813174063-19-68-2055d676",
       "targetLexeme": "be regarded as",
       "sourceContext": "...to meet in order for their product to be regarded as 'sustainable'.",
       "phase1Inference": {
@@ -1780,7 +2631,15 @@
           "be seen as (synonym)"
         ],
         "wordForms": {
-          "verb": [{ "form": "regard", "meaning": "coi như" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "regard",
+              "meaning": "coi như"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1789,7 +2648,7 @@
       }
     },
     {
-      "id": 610,
+      "id": "1761813174063-19-69-3de425d1",
       "targetLexeme": "insists upon (sth)",
       "sourceContext": "The RSPO insists upon no virgin forest clearing...",
       "phase1Inference": {
@@ -1800,10 +2659,25 @@
         "sentiment": "positive",
         "definitionEN": "To demand something forcefully, not accepting refusal",
         "translationVI": "Nhấn mạnh/khăng khăng yêu cầu",
-        "relatedCollocates": ["insist on (synonym)", "demand (v)"],
+        "relatedCollocates": [
+          "insist on (synonym)",
+          "demand (v)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "insistence", "meaning": "sự khăng khăng" }],
-          "verb": [{ "form": "insist", "meaning": "khăng khăng" }]
+          "noun": [
+            {
+              "form": "insistence",
+              "meaning": "sự khăng khăng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "insist",
+              "meaning": "khăng khăng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1812,7 +2686,7 @@
       }
     },
     {
-      "id": 611,
+      "id": "1761813174063-19-70-430f381c",
       "targetLexeme": "transparency (n)",
       "sourceContext": "...no virgin forest clearing, transparency and regular assessment...",
       "phase1Inference": {
@@ -1829,8 +2703,20 @@
           "transparent (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "transparency", "meaning": "tính minh bạch" }],
-          "adjective": [{ "form": "transparent", "meaning": "minh bạch" }]
+          "noun": [
+            {
+              "form": "transparency",
+              "meaning": "tính minh bạch"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "transparent",
+              "meaning": "minh bạch"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1839,7 +2725,7 @@
       }
     },
     {
-      "id": 612,
+      "id": "1761813174063-19-71-7f109a37",
       "targetLexeme": "regular assessment",
       "sourceContext": "...transparency and regular assessment of carbon stocks...",
       "phase1Inference": {
@@ -1856,8 +2742,20 @@
           "assess (v)"
         ],
         "wordForms": {
-          "noun": [{ "form": "assessment", "meaning": "sự đánh giá" }],
-          "adjective": [{ "form": "regular", "meaning": "thường xuyên" }]
+          "noun": [
+            {
+              "form": "assessment",
+              "meaning": "sự đánh giá"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "regular",
+              "meaning": "thường xuyên"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1866,7 +2764,7 @@
       }
     },
     {
-      "id": 613,
+      "id": "1761813174063-19-72-31f1f936",
       "targetLexeme": "carbon stocks",
       "sourceContext": "...regular assessment of carbon stocks, among other criteria.",
       "phase1Inference": {
@@ -1877,12 +2775,25 @@
         "sentiment": "neutral",
         "definitionEN": "The amount of carbon stored in an ecosystem (e.g., in trees, soil)",
         "translationVI": "Trữ lượng/kho dự trữ carbon",
-        "relatedCollocates": ["carbon (n)", "stock (n)", "store (v)"],
+        "relatedCollocates": [
+          "carbon (n)",
+          "stock (n)",
+          "store (v)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "carbon", "meaning": "carbon" },
-            { "form": "stock", "meaning": "kho, trữ lượng" }
-          ]
+            {
+              "form": "carbon",
+              "meaning": "carbon"
+            },
+            {
+              "form": "stock",
+              "meaning": "kho, trữ lượng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1891,7 +2802,7 @@
       }
     },
     {
-      "id": 614,
+      "id": "1761813174063-19-73-5d2e9ce0",
       "targetLexeme": "among other criteria",
       "sourceContext": "...of carbon stocks, among other criteria.",
       "phase1Inference": {
@@ -1908,7 +2819,15 @@
           "meet the criteria"
         ],
         "wordForms": {
-          "noun": [{ "form": "criteria", "meaning": "(số nhiều) tiêu chí" }]
+          "noun": [
+            {
+              "form": "criteria",
+              "meaning": "(số nhiều) tiêu chí"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1917,7 +2836,7 @@
       }
     },
     {
-      "id": 615,
+      "id": "1761813174063-19-74-558205c7",
       "targetLexeme": "fully satisfied",
       "sourceContext": "Only once these requirements are fully satisfied is the oil allowed...",
       "phase1Inference": {
@@ -1934,8 +2853,20 @@
           "partially (antonym)"
         ],
         "wordForms": {
-          "verb": [{ "form": "satisfy", "meaning": "thỏa mãn" }],
-          "adverb": [{ "form": "fully", "meaning": "hoàn toàn" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "satisfy",
+              "meaning": "thỏa mãn"
+            }
+          ],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "fully",
+              "meaning": "hoàn toàn"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1944,7 +2875,7 @@
       }
     },
     {
-      "id": 616,
+      "id": "1761813174063-19-75-799fec82",
       "targetLexeme": "certified sustainable palm oil (CSPO)",
       "sourceContext": "...be sold as certified sustainable palm oil (CSPO).",
       "phase1Inference": {
@@ -1961,11 +2892,24 @@
           "certification (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "certification", "meaning": "sự chứng nhận" }],
+          "noun": [
+            {
+              "form": "certification",
+              "meaning": "sự chứng nhận"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "certified", "meaning": "được chứng nhận" },
-            { "form": "sustainable", "meaning": "bền vững" }
-          ]
+            {
+              "form": "certified",
+              "meaning": "được chứng nhận"
+            },
+            {
+              "form": "sustainable",
+              "meaning": "bền vững"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1974,7 +2918,7 @@
       }
     },
     {
-      "id": 617,
+      "id": "1761813174063-19-76-2dbe1f79",
       "targetLexeme": "certifies (v)",
       "sourceContext": "Recent figures show that the RSPO now certifies around 12 million tonnes...",
       "phase1Inference": {
@@ -1991,8 +2935,20 @@
           "officially (recognize)"
         ],
         "wordForms": {
-          "noun": [{ "form": "certification", "meaning": "sự chứng nhận" }],
-          "verb": [{ "form": "certify", "meaning": "chứng nhận" }]
+          "noun": [
+            {
+              "form": "certification",
+              "meaning": "sự chứng nhận"
+            }
+          ],
+          "verb": [
+            {
+              "form": "certify",
+              "meaning": "chứng nhận"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2001,7 +2957,7 @@
       }
     },
     {
-      "id": 618,
+      "id": "1761813174063-19-77-4a2eaf17",
       "targetLexeme": "annually (adv)",
       "sourceContext": "...12 million tonnes of palm oil annually, equivalent to...",
       "phase1Inference": {
@@ -2012,11 +2968,30 @@
         "sentiment": "neutral",
         "definitionEN": "Once every year; yearly",
         "translationVI": "Hàng năm",
-        "relatedCollocates": ["yearly (synonym)", "per year"],
+        "relatedCollocates": [
+          "yearly (synonym)",
+          "per year"
+        ],
         "wordForms": {
-          "noun": [{ "form": "annual", "meaning": "thường niên" }],
-          "adjective": [{ "form": "annual", "meaning": "hàng năm" }],
-          "adverb": [{ "form": "annually", "meaning": "hàng năm" }]
+          "noun": [
+            {
+              "form": "annual",
+              "meaning": "thường niên"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "annual",
+              "meaning": "hàng năm"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "annually",
+              "meaning": "hàng năm"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2025,7 +3000,7 @@
       }
     },
     {
-      "id": 619,
+      "id": "1761813174063-19-78-70192f91",
       "targetLexeme": "equivalent to",
       "sourceContext": "...annually, equivalent to roughly 21 percent of...",
       "phase1Inference": {
@@ -2036,10 +3011,25 @@
         "sentiment": "neutral",
         "definitionEN": "Equal in value, amount, function, or meaning",
         "translationVI": "Tương đương với",
-        "relatedCollocates": ["equal to (synonym)", "the equivalent of (n)"],
+        "relatedCollocates": [
+          "equal to (synonym)",
+          "the equivalent of (n)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "equivalent", "meaning": "vật tương đương" }],
-          "adjective": [{ "form": "equivalent", "meaning": "tương đương" }]
+          "noun": [
+            {
+              "form": "equivalent",
+              "meaning": "vật tương đương"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "equivalent",
+              "meaning": "tương đương"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2048,7 +3038,7 @@
       }
     },
     {
-      "id": 620,
+      "id": "1761813174063-19-79-3c8f3729",
       "targetLexeme": "sterile monocultures",
       "sourceContext": "...not need to be such sterile monocultures, or 'green deserts'...",
       "phase1Inference": {
@@ -2065,8 +3055,20 @@
           "'green deserts' (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "monoculture", "meaning": "độc canh" }],
-          "adjective": [{ "form": "sterile", "meaning": "cằn cỗi, vô trùng" }]
+          "noun": [
+            {
+              "form": "monoculture",
+              "meaning": "độc canh"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "sterile",
+              "meaning": "cằn cỗi, vô trùng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2075,7 +3077,7 @@
       }
     },
     {
-      "id": 621,
+      "id": "1761813174063-19-80-16dd4ef2",
       "targetLexeme": "hints at (sth)",
       "sourceContext": "...Ellwood's lab hints at one plant which might make all the difference.",
       "phase1Inference": {
@@ -2092,8 +3094,20 @@
           "a broad hint"
         ],
         "wordForms": {
-          "noun": [{ "form": "hint", "meaning": "lời gợi ý" }],
-          "verb": [{ "form": "hint", "meaning": "gợi ý" }]
+          "noun": [
+            {
+              "form": "hint",
+              "meaning": "lời gợi ý"
+            }
+          ],
+          "verb": [
+            {
+              "form": "hint",
+              "meaning": "gợi ý"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2102,7 +3116,7 @@
       }
     },
     {
-      "id": 622,
+      "id": "1761813174063-19-81-106eccdc",
       "targetLexeme": "epiphytic fashion",
       "sourceContext": "...grows on trees in an epiphytic fashion...",
       "phase1Inference": {
@@ -2113,13 +3127,29 @@
         "sentiment": "neutral",
         "definitionEN": "In a way that relates to being an epiphyte, a plant that grows harmlessly on another plant (like a tree)",
         "translationVI": "Theo kiểu biểu sinh (sống bám)",
-        "relatedCollocates": ["epiphyte (n)", "in a... fashion (idiom)"],
+        "relatedCollocates": [
+          "epiphyte (n)",
+          "in a... fashion (idiom)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "fashion", "meaning": "cách thức" },
-            { "form": "epiphyte", "meaning": "cây biểu sinh" }
+            {
+              "form": "fashion",
+              "meaning": "cách thức"
+            },
+            {
+              "form": "epiphyte",
+              "meaning": "cây biểu sinh"
+            }
           ],
-          "adjective": [{ "form": "epiphytic", "meaning": "biểu sinh" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "epiphytic",
+              "meaning": "biểu sinh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2128,7 +3158,7 @@
       }
     },
     {
-      "id": 623,
+      "id": "1761813174063-19-82-63506d33",
       "targetLexeme": "nutrients (n)",
       "sourceContext": "...dependent on the tree only for support, not for nutrients...",
       "phase1Inference": {
@@ -2146,10 +3176,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "nutrient", "meaning": "chất dinh dưỡng" },
-            { "form": "nutrition", "meaning": "dinh dưỡng" }
+            {
+              "form": "nutrient",
+              "meaning": "chất dinh dưỡng"
+            },
+            {
+              "form": "nutrition",
+              "meaning": "dinh dưỡng"
+            }
           ],
-          "adjective": [{ "form": "nutritious", "meaning": "bổ dưỡng" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "nutritious",
+              "meaning": "bổ dưỡng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2158,7 +3201,7 @@
       }
     },
     {
-      "id": 624,
+      "id": "1761813174063-19-83-6340ee2c",
       "targetLexeme": "native to (a region)",
       "sourceContext": "...and is native to many tropical regions, where...",
       "phase1Inference": {
@@ -2175,8 +3218,20 @@
           "a native species"
         ],
         "wordForms": {
-          "noun": [{ "form": "native", "meaning": "người bản địa" }],
-          "adjective": [{ "form": "native", "meaning": "bản địa" }]
+          "noun": [
+            {
+              "form": "native",
+              "meaning": "người bản địa"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "native",
+              "meaning": "bản địa"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2185,7 +3240,7 @@
       }
     },
     {
-      "id": 625,
+      "id": "1761813174063-19-84-2a0b04c3",
       "targetLexeme": "keystone species",
       "sourceContext": "...where it performs a vital ecological role as a keystone species.",
       "phase1Inference": {
@@ -2202,9 +3257,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "keystone", "meaning": "đá đỉnh vòm" },
-            { "form": "species", "meaning": "loài" }
-          ]
+            {
+              "form": "keystone",
+              "meaning": "đá đỉnh vòm"
+            },
+            {
+              "form": "species",
+              "meaning": "loài"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2213,7 +3277,7 @@
       }
     },
     {
-      "id": 626,
+      "id": "1761813174063-19-85-47acf48c",
       "targetLexeme": "vital ecological role",
       "sourceContext": "...performs a vital ecological role as a keystone species.",
       "phase1Inference": {
@@ -2230,11 +3294,24 @@
           "perform a role"
         ],
         "wordForms": {
-          "noun": [{ "form": "role", "meaning": "vai trò" }],
+          "noun": [
+            {
+              "form": "role",
+              "meaning": "vai trò"
+            }
+          ],
+          "verb": [],
           "adjective": [
-            { "form": "vital", "meaning": "sống còn" },
-            { "form": "ecological", "meaning": "thuộc sinh thái" }
-          ]
+            {
+              "form": "vital",
+              "meaning": "sống còn"
+            },
+            {
+              "form": "ecological",
+              "meaning": "thuộc sinh thái"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2243,7 +3320,7 @@
       }
     },
     {
-      "id": 627,
+      "id": "1761813174063-19-86-5171bba1",
       "targetLexeme": "reintroducing (v)",
       "sourceContext": "Ellwood believes that reintroducing the bird's nest fern into...",
       "phase1Inference": {
@@ -2260,8 +3337,20 @@
           "introduce (v)"
         ],
         "wordForms": {
-          "noun": [{ "form": "reintroduction", "meaning": "sự tái du nhập" }],
-          "verb": [{ "form": "reintroduce", "meaning": "tái du nhập" }]
+          "noun": [
+            {
+              "form": "reintroduction",
+              "meaning": "sự tái du nhập"
+            }
+          ],
+          "verb": [
+            {
+              "form": "reintroduce",
+              "meaning": "tái du nhập"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2270,7 +3359,7 @@
       }
     },
     {
-      "id": 628,
+      "id": "1761813174063-19-87-452c6911",
       "targetLexeme": "recover their biodiversity",
       "sourceContext": "...allow these areas to recover their biodiversity, providing...",
       "phase1Inference": {
@@ -2288,10 +3377,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "recovery", "meaning": "sự phục hồi" },
-            { "form": "biodiversity", "meaning": "đa dạng sinh học" }
+            {
+              "form": "recovery",
+              "meaning": "sự phục hồi"
+            },
+            {
+              "form": "biodiversity",
+              "meaning": "đa dạng sinh học"
+            }
           ],
-          "verb": [{ "form": "recover", "meaning": "phục hồi" }]
+          "verb": [
+            {
+              "form": "recover",
+              "meaning": "phục hồi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2300,7 +3402,7 @@
       }
     },
     {
-      "id": 629,
+      "id": "1761813174063-19-88-5487bbe9",
       "targetLexeme": "all manner of species",
       "sourceContext": "...providing a home for all manner of species, from fungi...",
       "phase1Inference": {
@@ -2318,9 +3420,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "manner", "meaning": "loại, kiểu" },
-            { "form": "species", "meaning": "loài" }
-          ]
+            {
+              "form": "manner",
+              "meaning": "loại, kiểu"
+            },
+            {
+              "form": "species",
+              "meaning": "loài"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2329,7 +3440,7 @@
       }
     },
     {
-      "id": 630,
+      "id": "1761813174063-19-89-510e4af8",
       "targetLexeme": "invertebrates (n)",
       "sourceContext": "...to invertebrates such as insects, amphibians, reptiles...",
       "phase1Inference": {
@@ -2346,7 +3457,15 @@
           "mammals (related)"
         ],
         "wordForms": {
-          "noun": [{ "form": "invertebrate", "meaning": "ĐV không xương sống" }]
+          "noun": [
+            {
+              "form": "invertebrate",
+              "meaning": "ĐV không xương sống"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2355,7 +3474,7 @@
       }
     },
     {
-      "id": 631,
+      "id": "1761813174063-19-90-60d6ff50",
       "targetLexeme": "amphibians (n)",
       "sourceContext": "...such as insects, amphibians, reptiles, and even mammals.",
       "phase1Inference": {
@@ -2366,10 +3485,26 @@
         "sentiment": "neutral",
         "definitionEN": "Cold-blooded animals (like frogs) that live both on land and in water",
         "translationVI": "Động vật lưỡng cư",
-        "relatedCollocates": ["reptiles (n)", "mammals (n)", "frogs (example)"],
+        "relatedCollocates": [
+          "reptiles (n)",
+          "mammals (n)",
+          "frogs (example)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "amphibian", "meaning": "lưỡng cư" }],
-          "adjective": [{ "form": "amphibious", "meaning": "lưỡng cư" }]
+          "noun": [
+            {
+              "form": "amphibian",
+              "meaning": "lưỡng cư"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "amphibious",
+              "meaning": "lưỡng cư"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2378,7 +3513,7 @@
       }
     },
     {
-      "id": 632,
+      "id": "1761813174063-19-91-7582728a",
       "targetLexeme": "reptiles (n)",
       "sourceContext": "...insects, amphibians, reptiles, and even mammals.",
       "phase1Inference": {
@@ -2395,7 +3530,15 @@
           "snakes (example)"
         ],
         "wordForms": {
-          "noun": [{ "form": "reptile", "meaning": "bò sát" }]
+          "noun": [
+            {
+              "form": "reptile",
+              "meaning": "bò sát"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2404,7 +3547,7 @@
       }
     },
     {
-      "id": 633,
+      "id": "1761813174063-19-92-67dc1d97",
       "targetLexeme": "potential environmental advantages",
       "sourceContext": "Q14 (Matching Headings): examples of a range of potential environmental advantages of oil palm tree cultivation",
       "phase1Inference": {
@@ -2426,7 +3569,7 @@
       }
     },
     {
-      "id": 634,
+      "id": "1761813174063-19-93-0af55dec",
       "targetLexeme": "controls the environmental impact",
       "sourceContext": "Q15 (Matching Headings): description of an organisation which controls the environmental impact of palm oil production",
       "phase1Inference": {
@@ -2449,7 +3592,7 @@
       }
     },
     {
-      "id": 635,
+      "id": "1761813174063-19-94-3d77fcf3",
       "targetLexeme": "widespread global use",
       "sourceContext": "Q16 (Matching Headings): examples of the widespread global use of palm oil",
       "phase1Inference": {
@@ -2471,7 +3614,7 @@
       }
     },
     {
-      "id": 636,
+      "id": "1761813174063-19-95-31d4cc57",
       "targetLexeme": "benefit the ecosystem",
       "sourceContext": "Q17 (Matching Headings): reference to a particular species which could benefit the ecosystem of oil palm plantations",
       "phase1Inference": {
@@ -2495,7 +3638,7 @@
       }
     },
     {
-      "id": 637,
+      "id": "1761813174063-19-96-4c2d3d0c",
       "targetLexeme": "illustrating the rapid expansion",
       "sourceContext": "Q18 (Matching Headings): figures illustrating the rapid expansion of the palm oil industry",
       "phase1Inference": {
@@ -2518,7 +3661,7 @@
       }
     },
     {
-      "id": 638,
+      "id": "1761813174063-19-97-638505b0",
       "targetLexeme": "economic justification",
       "sourceContext": "Q19 (Matching Headings): an economic justification for not opposing the palm oil industry",
       "phase1Inference": {
@@ -2540,7 +3683,7 @@
       }
     },
     {
-      "id": 639,
+      "id": "1761813174063-19-98-6e25c855",
       "targetLexeme": "creatures badly affected",
       "sourceContext": "Q20 (Matching Headings): examples of creatures badly affected by the establishment of oil palm plantations",
       "phase1Inference": {
@@ -2565,7 +3708,7 @@
       }
     },
     {
-      "id": 640,
+      "id": "1761813174063-19-99-00432273",
       "targetLexeme": "open and honest",
       "sourceContext": "Q21/22 (Multiple Choice - RSPO): B It demands that certified producers be open and honest about their practices.",
       "phase1Inference": {
@@ -2576,7 +3719,10 @@
         "sentiment": "positive",
         "definitionEN": "Focus: Compares 'open and honest' with 'transparency'",
         "translationVI": "Trọng tâm: So sánh 'open and honest' (cởi mở và trung thực) với 'transparency' (tính minh bạch)",
-        "relatedCollocates": ["transparency (synonym)", "insists upon..."]
+        "relatedCollocates": [
+          "transparency (synonym)",
+          "insists upon..."
+        ]
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
@@ -2584,7 +3730,7 @@
       }
     },
     {
-      "id": 641,
+      "id": "1761813174063-19-100-1a488cc6",
       "targetLexeme": "establish its set of criteria",
       "sourceContext": "Q21/22 (Multiple Choice - RSPO): C It took several years to establish its set of criteria for sustainable palm oil certification.",
       "phase1Inference": {
@@ -2607,7 +3753,7 @@
       }
     },
     {
-      "id": 642,
+      "id": "1761813174063-19-101-429dc22a",
       "targetLexeme": "stays ....... even when not refrigerated",
       "sourceContext": "Q23 (Sentence Completion): One advantage... is that it stays ....... even when not refrigerated. (Answer: solid)",
       "phase1Inference": {
@@ -2618,7 +3764,9 @@
         "sentiment": "neutral",
         "definitionEN": "Focus: Compares 'stays... even when not refrigerated' with 'remaining solid at room temperature'",
         "translationVI": "Trọng tâm: So sánh 'stays... even when not refrigerated' (giữ trạng thái... ngay cả khi không làm lạnh) với 'remaining solid at room temperature' (giữ thể rắn ở nhiệt độ phòng)",
-        "relatedCollocates": ["remaining solid at room temperature"]
+        "relatedCollocates": [
+          "remaining solid at room temperature"
+        ]
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
@@ -2626,7 +3774,7 @@
       }
     },
     {
-      "id": 643,
+      "id": "1761813174063-19-102-3aba99be",
       "targetLexeme": "best known of the animals suffering habitat loss",
       "sourceContext": "Q24 (Sentence Completion): The ....... is the best known of the animals suffering habitat loss as a result of the spread of oil palm plantations. (Answer: orangutan)",
       "phase1Inference": {
@@ -2649,7 +3797,7 @@
       }
     },
     {
-      "id": 644,
+      "id": "1761813174063-19-103-689b277e",
       "targetLexeme": "check ....... on a routine basis",
       "sourceContext": "Q25 (Sentence Completion): ...the RSPO insists that growers check ....... on a routine basis. (Answer: carbon stocks)",
       "phase1Inference": {
@@ -2671,7 +3819,7 @@
       }
     },
     {
-      "id": 645,
+      "id": "1761813174063-19-104-185df0bb",
       "targetLexeme": "restore ....... in areas where oil palm trees are grown",
       "sourceContext": "Q26 (Sentence Completion): Ellwood... looking into whether the bird's nest fern could restore ....... in areas where oil palm trees are grown. (Answer: biodiversity)",
       "phase1Inference": {
@@ -2691,5 +3839,11 @@
         "content": "Question: 'restore...' \n<->\nPassage: 'reintroducing... allow these areas to recover their biodiversity'"
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.063Z",
+    "version": "2.0",
+    "originalCount": 105,
+    "migratedCount": 105
+  }
 }

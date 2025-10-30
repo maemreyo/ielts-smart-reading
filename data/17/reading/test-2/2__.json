@@ -1,10 +1,10 @@
 {
   "logTitle": "IELTS Reading Log: A second attempt at domesticating the tomato (Part 1)",
   "sourceId": "Reading Passage (Image 'image_871b09.png' & 'CleanShot 2025-10-25...')",
-  "totalItems": 67,
+  "totalItems": 80,
   "lexicalItems": [
     {
-      "id": 295,
+      "id": "1761813174055-16-0-00afa3f4",
       "targetLexeme": "domesticate (v)",
       "sourceContext": "...to learn how to domesticate the wild tomato and cultivate it for food.",
       "phase1Inference": {
@@ -21,13 +21,29 @@
           "domestication (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "domestication", "meaning": "sự thuần hóa" }],
-          "verb": [{ "form": "domesticate", "meaning": "thuần hóa" }],
-          "adjective": [
-            { "form": "domestic", "meaning": "nội địa, trong nhà" },
-            { "form": "domesticated", "meaning": "đã được thuần hóa" }
+          "noun": [
+            {
+              "form": "domestication",
+              "meaning": "sự thuần hóa"
+            }
           ],
-          "adverb": null
+          "verb": [
+            {
+              "form": "domesticate",
+              "meaning": "thuần hóa"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "domestic",
+              "meaning": "nội địa, trong nhà"
+            },
+            {
+              "form": "domesticated",
+              "meaning": "đã được thuần hóa"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -36,7 +52,7 @@
       }
     },
     {
-      "id": 296,
+      "id": "1761813174055-16-1-1760b332",
       "targetLexeme": "cultivate (v)",
       "sourceContext": "...domesticate the wild tomato and cultivate it for food.",
       "phase1Inference": {
@@ -54,12 +70,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "cultivation", "meaning": "sự trồng trọt" },
-            { "form": "cultivator", "meaning": "người trồng trọt" }
+            {
+              "form": "cultivation",
+              "meaning": "sự trồng trọt"
+            },
+            {
+              "form": "cultivator",
+              "meaning": "người trồng trọt"
+            }
           ],
-          "verb": [{ "form": "cultivate", "meaning": "trồng trọt" }],
-          "adjective": [{ "form": "cultivated", "meaning": "được trồng trọt" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "cultivate",
+              "meaning": "trồng trọt"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "cultivated",
+              "meaning": "được trồng trọt"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -68,7 +100,7 @@
       }
     },
     {
-      "id": 297,
+      "id": "1761813174055-16-2-49a7e92e",
       "targetLexeme": "re-domesticated (adj)",
       "sourceContext": "...as the re-domesticated tomatoes are more nutritious...",
       "phase1Inference": {
@@ -86,13 +118,24 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "re-domestication", "meaning": "sự thuần hóa lại" }
+            {
+              "form": "re-domestication",
+              "meaning": "sự thuần hóa lại"
+            }
           ],
-          "verb": [{ "form": "re-domesticate", "meaning": "thuần hóa lại" }],
+          "verb": [
+            {
+              "form": "re-domesticate",
+              "meaning": "thuần hóa lại"
+            }
+          ],
           "adjective": [
-            { "form": "re-domesticated", "meaning": "được thuần hóa lại" }
+            {
+              "form": "re-domesticated",
+              "meaning": "được thuần hóa lại"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -101,7 +144,7 @@
       }
     },
     {
-      "id": 298,
+      "id": "1761813174055-16-3-2d0da99f",
       "targetLexeme": "nutritious (adj)",
       "sourceContext": "...are more nutritious than the ones we eat at present.",
       "phase1Inference": {
@@ -119,13 +162,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "nutrition", "meaning": "dinh dưỡng" },
-            { "form": "nutrient", "meaning": "chất dinh dưỡng" }
+            {
+              "form": "nutrition",
+              "meaning": "dinh dưỡng"
+            },
+            {
+              "form": "nutrient",
+              "meaning": "chất dinh dưỡng"
+            }
           ],
-          "verb": [{ "form": "nourish", "meaning": "nuôi dưỡng" }],
-          "adjective": [{ "form": "nutritious", "meaning": "bổ dưỡng" }],
+          "verb": [
+            {
+              "form": "nourish",
+              "meaning": "nuôi dưỡng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "nutritious",
+              "meaning": "bổ dưỡng"
+            }
+          ],
           "adverb": [
-            { "form": "nutritiously", "meaning": "(một cách) bổ dưỡng" }
+            {
+              "form": "nutritiously",
+              "meaning": "(một cách) bổ dưỡng"
+            }
           ]
         }
       },
@@ -135,7 +197,7 @@
       }
     },
     {
-      "id": 299,
+      "id": "1761813174055-16-4-06c129b3",
       "targetLexeme": "relies on (phr. v)",
       "sourceContext": "This approach relies on the revolutionary CRISPR genome editing technique...",
       "phase1Inference": {
@@ -152,10 +214,25 @@
           "reliable (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "reliance", "meaning": "sự phụ thuộc" }],
-          "verb": [{ "form": "rely (on)", "meaning": "dựa vào" }],
-          "adjective": [{ "form": "reliable", "meaning": "đáng tin cậy" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "reliance",
+              "meaning": "sự phụ thuộc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "rely (on)",
+              "meaning": "dựa vào"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "reliable",
+              "meaning": "đáng tin cậy"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -164,7 +241,7 @@
       }
     },
     {
-      "id": 300,
+      "id": "1761813174055-16-5-64610e36",
       "targetLexeme": "revolutionary (adj)",
       "sourceContext": "...the revolutionary CRISPR genome editing technique...",
       "phase1Inference": {
@@ -181,12 +258,25 @@
           "revolution (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "revolution", "meaning": "cuộc cách mạng" }],
-          "verb": [{ "form": "revolutionize", "meaning": "cách mạng hóa" }],
-          "adjective": [
-            { "form": "revolutionary", "meaning": "mang tính cách mạng" }
+          "noun": [
+            {
+              "form": "revolution",
+              "meaning": "cuộc cách mạng"
+            }
           ],
-          "adverb": null
+          "verb": [
+            {
+              "form": "revolutionize",
+              "meaning": "cách mạng hóa"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "revolutionary",
+              "meaning": "mang tính cách mạng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -195,7 +285,7 @@
       }
     },
     {
-      "id": 301,
+      "id": "1761813174055-16-6-40eb770e",
       "targetLexeme": "genome editing (n)",
       "sourceContext": "...the revolutionary CRISPR genome editing technique...",
       "phase1Inference": {
@@ -206,17 +296,30 @@
         "sentiment": "neutral",
         "definitionEN": "A group of technologies that give scientists the ability to change an organism's DNA",
         "translationVI": "Chỉnh sửa hệ gen",
-        "relatedCollocates": ["CRISPR", "gene editing", "DNA"],
+        "relatedCollocates": [
+          "CRISPR",
+          "gene editing",
+          "DNA"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "genome", "meaning": "hệ gen" },
-            { "form": "editing", "meaning": "việc chỉnh sửa" }
+            {
+              "form": "genome",
+              "meaning": "hệ gen"
+            },
+            {
+              "form": "editing",
+              "meaning": "việc chỉnh sửa"
+            }
           ],
           "verb": [
-            { "form": "edit (a genome)", "meaning": "chỉnh sửa (hệ gen)" }
+            {
+              "form": "edit (a genome)",
+              "meaning": "chỉnh sửa (hệ gen)"
+            }
           ],
-          "adjective": null,
-          "adverb": null
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -225,7 +328,7 @@
       }
     },
     {
-      "id": 302,
+      "id": "1761813174055-16-7-30e5815c",
       "targetLexeme": "deliberately (adv)",
       "sourceContext": "...in which changes are deliberately made to the DNA...",
       "phase1Inference": {
@@ -242,10 +345,30 @@
           "a deliberate (act)"
         ],
         "wordForms": {
-          "noun": [{ "form": "deliberation", "meaning": "sự cân nhắc" }],
-          "verb": [{ "form": "deliberate", "meaning": "cân nhắc" }],
-          "adjective": [{ "form": "deliberate", "meaning": "cố ý" }],
-          "adverb": [{ "form": "deliberately", "meaning": "(một cách) cố ý" }]
+          "noun": [
+            {
+              "form": "deliberation",
+              "meaning": "sự cân nhắc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "deliberate",
+              "meaning": "cân nhắc"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "deliberate",
+              "meaning": "cố ý"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "deliberately",
+              "meaning": "(một cách) cố ý"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -254,7 +377,7 @@
       }
     },
     {
-      "id": 303,
+      "id": "1761813174055-16-8-6be5d91a",
       "targetLexeme": "genetic material (n)",
       "sourceContext": "...allowing genetic material to be added, removed or altered.",
       "phase1Inference": {
@@ -265,15 +388,35 @@
         "sentiment": "neutral",
         "definitionEN": "The material used to store genetic information in the nucleus of a cell (e.g., DNA or RNA)",
         "translationVI": "Vật liệu di truyền (DNA, RNA)",
-        "relatedCollocates": ["DNA", "gene", "genome"],
+        "relatedCollocates": [
+          "DNA",
+          "gene",
+          "genome"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "gene", "meaning": "gen" },
-            { "form": "material", "meaning": "vật liệu" }
+            {
+              "form": "gene",
+              "meaning": "gen"
+            },
+            {
+              "form": "material",
+              "meaning": "vật liệu"
+            }
           ],
-          "verb": null,
-          "adjective": [{ "form": "genetic", "meaning": "thuộc di truyền" }],
-          "adverb": [{ "form": "genetically", "meaning": "về mặt di truyền" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "genetic",
+              "meaning": "thuộc di truyền"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "genetically",
+              "meaning": "về mặt di truyền"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -282,7 +425,7 @@
       }
     },
     {
-      "id": 304,
+      "id": "1761813174055-16-9-52e5f88b",
       "targetLexeme": "altered (v)",
       "sourceContext": "...added, removed or altered.",
       "phase1Inference": {
@@ -299,13 +442,29 @@
           "alteration (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "alteration", "meaning": "sự thay đổi" }],
-          "verb": [{ "form": "alter", "meaning": "thay đổi" }],
-          "adjective": [
-            { "form": "altered", "meaning": "bị thay đổi" },
-            { "form": "unaltered", "meaning": "không thay đổi" }
+          "noun": [
+            {
+              "form": "alteration",
+              "meaning": "sự thay đổi"
+            }
           ],
-          "adverb": null
+          "verb": [
+            {
+              "form": "alter",
+              "meaning": "thay đổi"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "altered",
+              "meaning": "bị thay đổi"
+            },
+            {
+              "form": "unaltered",
+              "meaning": "không thay đổi"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -314,7 +473,7 @@
       }
     },
     {
-      "id": 305,
+      "id": "1761813174055-16-10-51c76132",
       "targetLexeme": "appealing (adj)",
       "sourceContext": "...turn thousands of wild plants into useful and appealing foods.",
       "phase1Inference": {
@@ -331,13 +490,34 @@
           "appeal to (sb)"
         ],
         "wordForms": {
-          "noun": [{ "form": "appeal", "meaning": "sự hấp dẫn" }],
-          "verb": [{ "form": "appeal (to)", "meaning": "hấp dẫn" }],
-          "adjective": [
-            { "form": "appealing", "meaning": "hấp dẫn" },
-            { "form": "unappealing", "meaning": "không hấp dẫn" }
+          "noun": [
+            {
+              "form": "appeal",
+              "meaning": "sự hấp dẫn"
+            }
           ],
-          "adverb": [{ "form": "appealingly", "meaning": "(một cách) hấp dẫn" }]
+          "verb": [
+            {
+              "form": "appeal (to)",
+              "meaning": "hấp dẫn"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "appealing",
+              "meaning": "hấp dẫn"
+            },
+            {
+              "form": "unappealing",
+              "meaning": "không hấp dẫn"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "appealingly",
+              "meaning": "(một cách) hấp dẫn"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -346,7 +526,7 @@
       }
     },
     {
-      "id": 306,
+      "id": "1761813174055-16-11-6dc4aaeb",
       "targetLexeme": "a relative of (n. phrase)",
       "sourceContext": "...with a relative of the tomato called the groundcherry.",
       "phase1Inference": {
@@ -363,10 +543,25 @@
           "related to (adj)"
         ],
         "wordForms": {
-          "noun": [{ "form": "relative", "meaning": "họ hàng" }],
-          "verb": [{ "form": "relate", "meaning": "liên quan" }],
-          "adjective": [{ "form": "related", "meaning": "có liên quan" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "relative",
+              "meaning": "họ hàng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "relate",
+              "meaning": "liên quan"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "related",
+              "meaning": "có liên quan"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -375,7 +570,7 @@
       }
     },
     {
-      "id": 307,
+      "id": "1761813174055-16-12-357acd33",
       "targetLexeme": "fast-track domestication (n)",
       "sourceContext": "This fast-track domestication could help make the world's...",
       "phase1Inference": {
@@ -392,10 +587,25 @@
           "accelerate (v)"
         ],
         "wordForms": {
-          "noun": [{ "form": "fast track", "meaning": "lộ trình nhanh" }],
-          "verb": [{ "form": "fast-track", "meaning": "đẩy nhanh" }],
-          "adjective": [{ "form": "fast-track", "meaning": "cấp tốc" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "fast track",
+              "meaning": "lộ trình nhanh"
+            }
+          ],
+          "verb": [
+            {
+              "form": "fast-track",
+              "meaning": "đẩy nhanh"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "fast-track",
+              "meaning": "cấp tốc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -404,7 +614,7 @@
       }
     },
     {
-      "id": 308,
+      "id": "1761813174055-16-13-2d7efeee",
       "targetLexeme": "food supply (n)",
       "sourceContext": "...make the world's food supply healthier...",
       "phase1Inference": {
@@ -422,12 +632,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "food", "meaning": "thực phẩm" },
-            { "form": "supply", "meaning": "nguồn cung" }
+            {
+              "form": "food",
+              "meaning": "thực phẩm"
+            },
+            {
+              "form": "supply",
+              "meaning": "nguồn cung"
+            }
           ],
-          "verb": [{ "form": "supply", "meaning": "cung cấp" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "supply",
+              "meaning": "cung cấp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -436,7 +657,7 @@
       }
     },
     {
-      "id": 309,
+      "id": "1761813174055-16-14-18c82235",
       "targetLexeme": "resistant to (adj)",
       "sourceContext": "...and far more resistant to diseases, such as the rust fungus...",
       "phase1Inference": {
@@ -453,10 +674,25 @@
           "resistance (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "resistance", "meaning": "sự kháng cự" }],
-          "verb": [{ "form": "resist", "meaning": "chống cự" }],
-          "adjective": [{ "form": "resistant", "meaning": "có sức kháng" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "resistance",
+              "meaning": "sự kháng cự"
+            }
+          ],
+          "verb": [
+            {
+              "form": "resist",
+              "meaning": "chống cự"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "resistant",
+              "meaning": "có sức kháng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -465,7 +701,7 @@
       }
     },
     {
-      "id": 310,
+      "id": "1761813174055-16-15-7c6dc2d4",
       "targetLexeme": "devastating (adj)",
       "sourceContext": "...rust fungus devastating wheat crops.",
       "phase1Inference": {
@@ -482,14 +718,33 @@
           "devastate (v)"
         ],
         "wordForms": {
-          "noun": [{ "form": "devastation", "meaning": "sự tàn phá" }],
-          "verb": [{ "form": "devastate", "meaning": "tàn phá" }],
+          "noun": [
+            {
+              "form": "devastation",
+              "meaning": "sự tàn phá"
+            }
+          ],
+          "verb": [
+            {
+              "form": "devastate",
+              "meaning": "tàn phá"
+            }
+          ],
           "adjective": [
-            { "form": "devastating", "meaning": "mang tính tàn phá" },
-            { "form": "devastated", "meaning": "bị tàn phá" }
+            {
+              "form": "devastating",
+              "meaning": "mang tính tàn phá"
+            },
+            {
+              "form": "devastated",
+              "meaning": "bị tàn phá"
+            }
           ],
           "adverb": [
-            { "form": "devastatingly", "meaning": "(một cách) tàn phá" }
+            {
+              "form": "devastatingly",
+              "meaning": "(một cách) tàn phá"
+            }
           ]
         }
       },
@@ -499,7 +754,7 @@
       }
     },
     {
-      "id": 311,
+      "id": "1761813174055-16-16-5bc4a0a4",
       "targetLexeme": "transform (v)",
       "sourceContext": "'This could transform what we eat,' says Jorg Kudla...",
       "phase1Inference": {
@@ -516,12 +771,25 @@
           "transform (sth) into (sth)"
         ],
         "wordForms": {
-          "noun": [{ "form": "transformation", "meaning": "sự biến đổi" }],
-          "verb": [{ "form": "transform", "meaning": "biến đổi" }],
-          "adjective": [
-            { "form": "transformative", "meaning": "mang tính biến đổi" }
+          "noun": [
+            {
+              "form": "transformation",
+              "meaning": "sự biến đổi"
+            }
           ],
-          "adverb": null
+          "verb": [
+            {
+              "form": "transform",
+              "meaning": "biến đổi"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "transformative",
+              "meaning": "mang tính biến đổi"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -530,7 +798,7 @@
       }
     },
     {
-      "id": 312,
+      "id": "1761813174055-16-17-5a75f8b0",
       "targetLexeme": "edible plants (n)",
       "sourceContext": "'There are 50,000 edible plants in the world...'",
       "phase1Inference": {
@@ -548,15 +816,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "plant", "meaning": "thực vật" },
-            { "form": "edibility", "meaning": "việc ăn được" }
+            {
+              "form": "plant",
+              "meaning": "thực vật"
+            },
+            {
+              "form": "edibility",
+              "meaning": "việc ăn được"
+            }
           ],
-          "verb": null,
+          "verb": [],
           "adjective": [
-            { "form": "edible", "meaning": "ăn được" },
-            { "form": "inedible", "meaning": "không ăn được" }
+            {
+              "form": "edible",
+              "meaning": "ăn được"
+            },
+            {
+              "form": "inedible",
+              "meaning": "không ăn được"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -565,7 +845,7 @@
       }
     },
     {
-      "id": 313,
+      "id": "1761813174055-16-18-6a5311bb",
       "targetLexeme": "(energy) comes from (phr. v)",
       "sourceContext": "...but 90 percent of our energy comes from just 15 crops.'",
       "phase1Inference": {
@@ -582,10 +862,15 @@
           "source (n)"
         ],
         "wordForms": {
-          "noun": null,
-          "verb": [{ "form": "come (from)", "meaning": "đến từ" }],
-          "adjective": null,
-          "adverb": null
+          "noun": [],
+          "verb": [
+            {
+              "form": "come (from)",
+              "meaning": "đến từ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -594,7 +879,7 @@
       }
     },
     {
-      "id": 314,
+      "id": "1761813174055-16-19-23a356be",
       "targetLexeme": "mimic (v)",
       "sourceContext": "'We can now mimic the known domestication course of major crops...'",
       "phase1Inference": {
@@ -612,12 +897,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "mimic", "meaning": "người bắt chước" },
-            { "form": "mimicry", "meaning": "sự bắt chước" }
+            {
+              "form": "mimic",
+              "meaning": "người bắt chước"
+            },
+            {
+              "form": "mimicry",
+              "meaning": "sự bắt chước"
+            }
           ],
-          "verb": [{ "form": "mimic", "meaning": "bắt chước" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "mimic",
+              "meaning": "bắt chước"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -626,7 +922,7 @@
       }
     },
     {
-      "id": 315,
+      "id": "1761813174055-16-20-3f90dadf",
       "targetLexeme": "domestication course (n)",
       "sourceContext": "...mimic the known domestication course of major crops...",
       "phase1Inference": {
@@ -644,12 +940,18 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "domestication", "meaning": "sự thuần hóa" },
-            { "form": "course", "meaning": "quá trình, tiến trình" }
+            {
+              "form": "domestication",
+              "meaning": "sự thuần hóa"
+            },
+            {
+              "form": "course",
+              "meaning": "quá trình, tiến trình"
+            }
           ],
-          "verb": null,
-          "adjective": null,
-          "adverb": null
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -658,7 +960,7 @@
       }
     },
     {
-      "id": 316,
+      "id": "1761813174055-16-21-20477f18",
       "targetLexeme": "major crops (n)",
       "sourceContext": "...domestication course of major crops like rice, maize, sorghum...",
       "phase1Inference": {
@@ -675,12 +977,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "crop", "meaning": "cây trồng" },
-            { "form": "majority", "meaning": "phần lớn" }
+            {
+              "form": "crop",
+              "meaning": "cây trồng"
+            },
+            {
+              "form": "majority",
+              "meaning": "phần lớn"
+            }
           ],
-          "verb": null,
-          "adjective": [{ "form": "major", "meaning": "chính" }],
-          "adverb": null
+          "verb": [],
+          "adjective": [
+            {
+              "form": "major",
+              "meaning": "chính"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -689,7 +1002,7 @@
       }
     },
     {
-      "id": 317,
+      "id": "1761813174055-16-22-5a9f4f15",
       "targetLexeme": "native to (adj)",
       "sourceContext": "Wild tomatoes, which are native to the Andes region in South America...",
       "phase1Inference": {
@@ -700,12 +1013,25 @@
         "sentiment": "neutral",
         "definitionEN": "Originating from or belonging naturally to a particular place",
         "translationVI": "Bản địa, có nguồn gốc từ",
-        "relatedCollocates": ["indigenous to (synonym)", "a native (species)"],
+        "relatedCollocates": [
+          "indigenous to (synonym)",
+          "a native (species)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "native", "meaning": "người bản địa" }],
-          "verb": null,
-          "adjective": [{ "form": "native", "meaning": "bản địa" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "native",
+              "meaning": "người bản địa"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "native",
+              "meaning": "bản địa"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -714,7 +1040,7 @@
       }
     },
     {
-      "id": 318,
+      "id": "1761813174055-16-23-7f3a9840",
       "targetLexeme": "pea-sized (adj)",
       "sourceContext": "...produce pea-sized fruits.",
       "phase1Inference": {
@@ -725,12 +1051,26 @@
         "sentiment": "neutral",
         "definitionEN": "Having the same small, round size as a pea",
         "translationVI": "Cỡ/Kích thước bằng hạt đậu",
-        "relatedCollocates": ["-sized (suffix)", "bite-sized", "full-sized"],
+        "relatedCollocates": [
+          "-sized (suffix)",
+          "bite-sized",
+          "full-sized"
+        ],
         "wordForms": {
-          "noun": [{ "form": "pea", "meaning": "hạt đậu" }],
-          "verb": null,
-          "adjective": [{ "form": "pea-sized", "meaning": "cỡ hạt đậu" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "pea",
+              "meaning": "hạt đậu"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "pea-sized",
+              "meaning": "cỡ hạt đậu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -739,7 +1079,7 @@
       }
     },
     {
-      "id": 319,
+      "id": "1761813174055-16-24-050f0aa5",
       "targetLexeme": "breeding (plants) (v/n)",
       "sourceContext": "...by selecting and breeding plants with mutations*...",
       "phase1Inference": {
@@ -757,12 +1097,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "breeding", "meaning": "sự nhân giống" },
-            { "form": "breed", "meaning": "giống" }
+            {
+              "form": "breeding",
+              "meaning": "sự nhân giống"
+            },
+            {
+              "form": "breed",
+              "meaning": "giống"
+            }
           ],
-          "verb": [{ "form": "breed", "meaning": "nhân giống" }],
-          "adjective": null,
-          "adverb": null
+          "verb": [
+            {
+              "form": "breed",
+              "meaning": "nhân giống"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -771,7 +1122,7 @@
       }
     },
     {
-      "id": 320,
+      "id": "1761813174055-16-25-6d9bfc19",
       "targetLexeme": "mutations (n)",
       "sourceContext": "...breeding plants with mutations* in their genetic structure...",
       "phase1Inference": {
@@ -788,10 +1139,25 @@
           "mutate (v)"
         ],
         "wordForms": {
-          "noun": [{ "form": "mutation", "meaning": "đột biến" }],
-          "verb": [{ "form": "mutate", "meaning": "đột biến" }],
-          "adjective": [{ "form": "mutant", "meaning": "bị đột biến" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "mutation",
+              "meaning": "đột biến"
+            }
+          ],
+          "verb": [
+            {
+              "form": "mutate",
+              "meaning": "đột biến"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "mutant",
+              "meaning": "bị đột biến"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -800,7 +1166,7 @@
       }
     },
     {
-      "id": 321,
+      "id": "1761813174055-16-26-21e131f2",
       "targetLexeme": "genetic structure (n)",
       "sourceContext": "...mutations* in their genetic structure...",
       "phase1Inference": {
@@ -818,12 +1184,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "gene", "meaning": "gen" },
-            { "form": "structure", "meaning": "cấu trúc" }
+            {
+              "form": "gene",
+              "meaning": "gen"
+            },
+            {
+              "form": "structure",
+              "meaning": "cấu trúc"
+            }
           ],
-          "verb": null,
-          "adjective": [{ "form": "genetic", "meaning": "thuộc di truyền" }],
-          "adverb": [{ "form": "genetically", "meaning": "về mặt di truyền" }]
+          "verb": [],
+          "adjective": [
+            {
+              "form": "genetic",
+              "meaning": "thuộc di truyền"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "genetically",
+              "meaning": "về mặt di truyền"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -832,7 +1214,7 @@
       }
     },
     {
-      "id": 322,
+      "id": "1761813174055-16-27-07d55cd4",
       "targetLexeme": "desirable traits (n)",
       "sourceContext": "...which resulted in desirable traits such as larger fruit.",
       "phase1Inference": {
@@ -850,12 +1232,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "trait", "meaning": "đặc điểm" },
-            { "form": "desire", "meaning": "sự mong muốn" }
+            {
+              "form": "trait",
+              "meaning": "đặc điểm"
+            },
+            {
+              "form": "desire",
+              "meaning": "sự mong muốn"
+            }
           ],
-          "verb": [{ "form": "desire", "meaning": "mong muốn" }],
-          "adjective": [{ "form": "desirable", "meaning": "đáng mong muốn" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "desire",
+              "meaning": "mong muốn"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "desirable",
+              "meaning": "đáng mong muốn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -864,7 +1262,7 @@
       }
     },
     {
-      "id": 323,
+      "id": "1761813174055-16-28-33862779",
       "targetLexeme": "genetic diversity (n)",
       "sourceContext": "...but every time a single plant with a mutation is taken... genetic diversity is lost.",
       "phase1Inference": {
@@ -882,15 +1280,37 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "gene", "meaning": "gen" },
-            { "form": "diversity", "meaning": "sự đa dạng" }
+            {
+              "form": "gene",
+              "meaning": "gen"
+            },
+            {
+              "form": "diversity",
+              "meaning": "sự đa dạng"
+            }
           ],
-          "verb": [{ "form": "diversify", "meaning": "đa dạng hóa" }],
+          "verb": [
+            {
+              "form": "diversify",
+              "meaning": "đa dạng hóa"
+            }
+          ],
           "adjective": [
-            { "form": "genetic", "meaning": "thuộc di truyền" },
-            { "form": "diverse", "meaning": "đa dạng" }
+            {
+              "form": "genetic",
+              "meaning": "thuộc di truyền"
+            },
+            {
+              "form": "diverse",
+              "meaning": "đa dạng"
+            }
           ],
-          "adverb": [{ "form": "genetically", "meaning": "về mặt di truyền" }]
+          "adverb": [
+            {
+              "form": "genetically",
+              "meaning": "về mặt di truyền"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -899,7 +1319,7 @@
       }
     },
     {
-      "id": 324,
+      "id": "1761813174055-16-29-762c0067",
       "targetLexeme": "altogether (adv)",
       "sourceContext": "Kudla's team made six changes altogether.",
       "phase1Inference": {
@@ -916,10 +1336,15 @@
           "six changes in total"
         ],
         "wordForms": {
-          "noun": null,
-          "verb": null,
-          "adjective": null,
-          "adverb": [{ "form": "altogether", "meaning": "tổng cộng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "altogether",
+              "meaning": "tổng cộng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -928,7 +1353,7 @@
       }
     },
     {
-      "id": 325,
+      "id": "1761813174055-16-30-5624757d",
       "targetLexeme": "tripled the size (v. phrase)",
       "sourceContext": "...they tripled the size of fruit by editing a gene...",
       "phase1Inference": {
@@ -939,12 +1364,30 @@
         "sentiment": "positive",
         "definitionEN": "To make something three times as large",
         "translationVI": "Tăng (kích thước) lên gấp ba",
-        "relatedCollocates": ["double the size", "increase threefold"],
+        "relatedCollocates": [
+          "double the size",
+          "increase threefold"
+        ],
         "wordForms": {
-          "noun": [{ "form": "size", "meaning": "kích thước" }],
-          "verb": [{ "form": "triple", "meaning": "làm gấp ba" }],
-          "adjective": [{ "form": "triple", "meaning": "gấp ba" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "size",
+              "meaning": "kích thước"
+            }
+          ],
+          "verb": [
+            {
+              "form": "triple",
+              "meaning": "làm gấp ba"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "triple",
+              "meaning": "gấp ba"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -953,7 +1396,7 @@
       }
     },
     {
-      "id": 326,
+      "id": "1761813174055-16-31-6f83b2ff",
       "targetLexeme": "increased the number of (v. phrase)",
       "sourceContext": "...and increased the number of tomatoes per truss...",
       "phase1Inference": {
@@ -970,12 +1413,33 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "increase", "meaning": "sự gia tăng" },
-            { "form": "number", "meaning": "số lượng" }
+            {
+              "form": "increase",
+              "meaning": "sự gia tăng"
+            },
+            {
+              "form": "number",
+              "meaning": "số lượng"
+            }
           ],
-          "verb": [{ "form": "increase", "meaning": "tăng" }],
-          "adjective": [{ "form": "increasing", "meaning": "đang tăng" }],
-          "adverb": [{ "form": "increasingly", "meaning": "ngày càng" }]
+          "verb": [
+            {
+              "form": "increase",
+              "meaning": "tăng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "increasing",
+              "meaning": "đang tăng"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "increasingly",
+              "meaning": "ngày càng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -984,7 +1448,7 @@
       }
     },
     {
-      "id": 327,
+      "id": "1761813174055-16-32-2ff99930",
       "targetLexeme": "per truss (n. phrase)",
       "sourceContext": "...increased the number of tomatoes per truss...",
       "phase1Inference": {
@@ -995,12 +1459,20 @@
         "sentiment": "neutral",
         "definitionEN": "On each cluster of flowers or fruit that grows on a plant",
         "translationVI": "Trên mỗi chùm (hoa/quả)",
-        "relatedCollocates": ["a truss of tomatoes", "per (unit)"],
+        "relatedCollocates": [
+          "a truss of tomatoes",
+          "per (unit)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "truss", "meaning": "chùm, cụm" }],
-          "verb": null,
-          "adjective": null,
-          "adverb": null
+          "noun": [
+            {
+              "form": "truss",
+              "meaning": "chùm, cụm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1009,7 +1481,7 @@
       }
     },
     {
-      "id": 328,
+      "id": "1761813174055-16-33-4c731001",
       "targetLexeme": "historical domestication (n)",
       "sourceContext": "While the historical domestication of tomatoes reduced levels...",
       "phase1Inference": {
@@ -1025,10 +1497,25 @@
           "modern (domestication)"
         ],
         "wordForms": {
-          "noun": [{ "form": "domestication", "meaning": "sự thuần hóa" }],
-          "verb": null,
-          "adjective": [{ "form": "historical", "meaning": "thuộc lịch sử" }],
-          "adverb": [{ "form": "historically", "meaning": "về mặt lịch sử" }]
+          "noun": [
+            {
+              "form": "domestication",
+              "meaning": "sự thuần hóa"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "historical",
+              "meaning": "thuộc lịch sử"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "historically",
+              "meaning": "về mặt lịch sử"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1037,7 +1524,7 @@
       }
     },
     {
-      "id": 329,
+      "id": "1761813174055-16-34-4e07e008",
       "targetLexeme": "red pigment (n)",
       "sourceContext": "...reduced levels of the red pigment lycopene...",
       "phase1Inference": {
@@ -1048,12 +1535,26 @@
         "sentiment": "neutral",
         "definitionEN": "A natural substance that gives a red color to plants or animals",
         "translationVI": "Sắc tố đỏ",
-        "relatedCollocates": ["pigment (n)", "color (n)", "lycopene (example)"],
+        "relatedCollocates": [
+          "pigment (n)",
+          "color (n)",
+          "lycopene (example)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "pigment", "meaning": "sắc tố" }],
-          "verb": null,
-          "adjective": [{ "form": "red", "meaning": "đỏ" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "pigment",
+              "meaning": "sắc tố"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "red",
+              "meaning": "đỏ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1062,7 +1563,7 @@
       }
     },
     {
-      "id": 330,
+      "id": "1761813174055-16-35-28adab6b",
       "targetLexeme": "boost (v)",
       "sourceContext": "...the team in Brazil managed to boost it instead.",
       "phase1Inference": {
@@ -1079,10 +1580,20 @@
           "give (sth) a boost"
         ],
         "wordForms": {
-          "noun": [{ "form": "boost", "meaning": "sự thúc đẩy" }],
-          "verb": [{ "form": "boost", "meaning": "tăng cường" }],
-          "adjective": null,
-          "adverb": null
+          "noun": [
+            {
+              "form": "boost",
+              "meaning": "sự thúc đẩy"
+            }
+          ],
+          "verb": [
+            {
+              "form": "boost",
+              "meaning": "tăng cường"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1091,7 +1602,7 @@
       }
     },
     {
-      "id": 331,
+      "id": "1761813174055-16-36-5c9473cb",
       "targetLexeme": "cultivated ones (n. phrase)",
       "sourceContext": "...twice as much lycopene as cultivated ones...",
       "phase1Inference": {
@@ -1102,12 +1613,20 @@
         "sentiment": "neutral",
         "definitionEN": "The domesticated versions of a plant that are grown by farmers (as opposed to wild ones)",
         "translationVI": "Các loại/giống (được) trồng trọt",
-        "relatedCollocates": ["wild ones (antonym)", "domesticated (plants)"],
+        "relatedCollocates": [
+          "wild ones (antonym)",
+          "domesticated (plants)"
+        ],
         "wordForms": {
-          "noun": null,
-          "verb": null,
-          "adjective": [{ "form": "cultivated", "meaning": "được trồng trọt" }],
-          "adverb": null
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "cultivated",
+              "meaning": "được trồng trọt"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1116,7 +1635,7 @@
       }
     },
     {
-      "id": 332,
+      "id": "1761813174055-16-37-6a404a9d",
       "targetLexeme": "tasty (adj)",
       "sourceContext": "'They are quite tasty,' says Kudla.",
       "phase1Inference": {
@@ -1133,10 +1652,25 @@
           "very tasty"
         ],
         "wordForms": {
-          "noun": [{ "form": "taste", "meaning": "vị" }],
-          "verb": [{ "form": "taste", "meaning": "nếm" }],
-          "adjective": [{ "form": "tasty", "meaning": "ngon" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "taste",
+              "meaning": "vị"
+            }
+          ],
+          "verb": [
+            {
+              "form": "taste",
+              "meaning": "nếm"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "tasty",
+              "meaning": "ngon"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1145,7 +1679,7 @@
       }
     },
     {
-      "id": 333,
+      "id": "1761813174055-16-38-4ea26b54",
       "targetLexeme": "strong (adj - flavour)",
       "sourceContext": "'A little bit strong. And very aromatic.'",
       "phase1Inference": {
@@ -1162,10 +1696,30 @@
           "mild (antonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "strength", "meaning": "độ mạnh" }],
-          "verb": [{ "form": "strengthen", "meaning": "làm mạnh" }],
-          "adjective": [{ "form": "strong", "meaning": "nồng, đậm" }],
-          "adverb": [{ "form": "strongly", "meaning": "(một cách) mạnh mẽ" }]
+          "noun": [
+            {
+              "form": "strength",
+              "meaning": "độ mạnh"
+            }
+          ],
+          "verb": [
+            {
+              "form": "strengthen",
+              "meaning": "làm mạnh"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "strong",
+              "meaning": "nồng, đậm"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "strongly",
+              "meaning": "(một cách) mạnh mẽ"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1174,7 +1728,7 @@
       }
     },
     {
-      "id": 334,
+      "id": "1761813174055-16-39-2e20ea77",
       "targetLexeme": "aromatic (adj)",
       "sourceContext": "'And very aromatic.'",
       "phase1Inference": {
@@ -1191,10 +1745,20 @@
           "aroma (n)"
         ],
         "wordForms": {
-          "noun": [{ "form": "aroma", "meaning": "mùi thơm" }],
-          "verb": null,
-          "adjective": [{ "form": "aromatic", "meaning": "thơm" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "aroma",
+              "meaning": "mùi thơm"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "aromatic",
+              "meaning": "thơm"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1203,7 +1767,7 @@
       }
     },
     {
-      "id": 335,
+      "id": "1761813174055-16-40-12ecd558",
       "targetLexeme": "strains (n)",
       "sourceContext": "The team in China re-domesticated several strains of wild tomatoes...",
       "phase1Inference": {
@@ -1220,10 +1784,15 @@
           "variety (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "strain", "meaning": "chủng, dòng" }],
-          "verb": null,
-          "adjective": null,
-          "adverb": null
+          "noun": [
+            {
+              "form": "strain",
+              "meaning": "chủng, dòng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1232,7 +1801,7 @@
       }
     },
     {
-      "id": 336,
+      "id": "1761813174055-16-41-0b2eaf01",
       "targetLexeme": "resistant to a common disease",
       "sourceContext": "...create a strain resistant to a common disease called bacterial spot...",
       "phase1Inference": {
@@ -1243,18 +1812,38 @@
         "sentiment": "positive",
         "definitionEN": "Able to withstand or fight off a widespread illness",
         "translationVI": "Kháng một bệnh thông thường",
-        "relatedCollocates": ["disease-resistant", "resistant to (insects)"],
+        "relatedCollocates": [
+          "disease-resistant",
+          "resistant to (insects)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "resistance", "meaning": "sự kháng" },
-            { "form": "disease", "meaning": "bệnh" }
+            {
+              "form": "resistance",
+              "meaning": "sự kháng"
+            },
+            {
+              "form": "disease",
+              "meaning": "bệnh"
+            }
           ],
-          "verb": [{ "form": "resist", "meaning": "kháng" }],
+          "verb": [
+            {
+              "form": "resist",
+              "meaning": "kháng"
+            }
+          ],
           "adjective": [
-            { "form": "resistant", "meaning": "có tính kháng" },
-            { "form": "common", "meaning": "thông thường" }
+            {
+              "form": "resistant",
+              "meaning": "có tính kháng"
+            },
+            {
+              "form": "common",
+              "meaning": "thông thường"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1263,7 +1852,7 @@
       }
     },
     {
-      "id": 337,
+      "id": "1761813174055-16-42-7c2cfdbf",
       "targetLexeme": "devastate yields (v. phrase)",
       "sourceContext": "...which can devastate yields.",
       "phase1Inference": {
@@ -1281,17 +1870,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "yield", "meaning": "năng suất" },
-            { "form": "devastation", "meaning": "sự tàn phá" }
+            {
+              "form": "yield",
+              "meaning": "năng suất"
+            },
+            {
+              "form": "devastation",
+              "meaning": "sự tàn phá"
+            }
           ],
           "verb": [
-            { "form": "devastate", "meaning": "tàn phá" },
-            { "form": "yield", "meaning": "mang lại (năng suất)" }
+            {
+              "form": "devastate",
+              "meaning": "tàn phá"
+            },
+            {
+              "form": "yield",
+              "meaning": "mang lại (năng suất)"
+            }
           ],
           "adjective": [
-            { "form": "devastating", "meaning": "mang tính tàn phá" }
+            {
+              "form": "devastating",
+              "meaning": "mang tính tàn phá"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1300,7 +1904,7 @@
       }
     },
     {
-      "id": 338,
+      "id": "1761813174055-16-43-45241ea2",
       "targetLexeme": "salt tolerant (adj)",
       "sourceContext": "They also created another strain that is more salt tolerant...",
       "phase1Inference": {
@@ -1318,15 +1922,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "salt", "meaning": "muối" },
-            { "form": "tolerance", "meaning": "sự chịu đựng" }
+            {
+              "form": "salt",
+              "meaning": "muối"
+            },
+            {
+              "form": "tolerance",
+              "meaning": "sự chịu đựng"
+            }
           ],
-          "verb": [{ "form": "tolerate", "meaning": "chịu đựng" }],
+          "verb": [
+            {
+              "form": "tolerate",
+              "meaning": "chịu đựng"
+            }
+          ],
           "adjective": [
-            { "form": "tolerant", "meaning": "có tính chịu đựng" },
-            { "form": "salty", "meaning": "mặn" }
+            {
+              "form": "tolerant",
+              "meaning": "có tính chịu đựng"
+            },
+            {
+              "form": "salty",
+              "meaning": "mặn"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1335,7 +1956,7 @@
       }
     },
     {
-      "id": 339,
+      "id": "1761813174055-16-44-57d7f4c5",
       "targetLexeme": "Institute (n)",
       "sourceContext": "...Joyce Van Eck at the Boyce Thompson Institute in New York...",
       "phase1Inference": {
@@ -1352,14 +1973,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "institute", "meaning": "viện" },
-            { "form": "institution", "meaning": "tổ chức" }
+            {
+              "form": "institute",
+              "meaning": "viện"
+            },
+            {
+              "form": "institution",
+              "meaning": "tổ chức"
+            }
           ],
-          "verb": [{ "form": "institute", "meaning": "thiết lập" }],
+          "verb": [
+            {
+              "form": "institute",
+              "meaning": "thiết lập"
+            }
+          ],
           "adjective": [
-            { "form": "institutional", "meaning": "thuộc tổ chức" }
+            {
+              "form": "institutional",
+              "meaning": "thuộc tổ chức"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1368,7 +2003,7 @@
       }
     },
     {
-      "id": 340,
+      "id": "1761813174055-16-45-1ba72b12",
       "targetLexeme": "for the first time (adv. phrase)",
       "sourceContext": "...to domesticate the groundcherry or goldenberry for the first time.",
       "phase1Inference": {
@@ -1379,12 +2014,25 @@
         "sentiment": "neutral",
         "definitionEN": "On the first occasion; never before",
         "translationVI": "Lần đầu tiên",
-        "relatedCollocates": ["the very first time", "for the last time"],
+        "relatedCollocates": [
+          "the very first time",
+          "for the last time"
+        ],
         "wordForms": {
-          "noun": [{ "form": "time", "meaning": "lần" }],
-          "verb": null,
-          "adjective": [{ "form": "first", "meaning": "đầu tiên" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "time",
+              "meaning": "lần"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "first",
+              "meaning": "đầu tiên"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1393,7 +2041,7 @@
       }
     },
     {
-      "id": 341,
+      "id": "1761813174055-16-46-7f907b6c",
       "targetLexeme": "closely related (adj. phrase)",
       "sourceContext": "...looks similar to the closely related Cape gooseberry...",
       "phase1Inference": {
@@ -1409,10 +2057,30 @@
           "a close relative"
         ],
         "wordForms": {
-          "noun": [{ "form": "relation", "meaning": "mối quan hệ" }],
-          "verb": [{ "form": "relate", "meaning": "liên quan" }],
-          "adjective": [{ "form": "related", "meaning": "có liên quan" }],
-          "adverb": [{ "form": "closely", "meaning": "gần gũi" }]
+          "noun": [
+            {
+              "form": "relation",
+              "meaning": "mối quan hệ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "relate",
+              "meaning": "liên quan"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "related",
+              "meaning": "có liên quan"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "closely",
+              "meaning": "gần gũi"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1421,7 +2089,7 @@
       }
     },
     {
-      "id": 342,
+      "id": "1761813174055-16-47-45d0bf6c",
       "targetLexeme": "to a limited extent (adv. phrase)",
       "sourceContext": "Groundcherries are already sold to a limited extent in the US...",
       "phase1Inference": {
@@ -1432,12 +2100,30 @@
         "sentiment": "neutral",
         "definitionEN": "In a way that is small in amount, range, or degree",
         "translationVI": "Ở một mức độ/quy mô hạn chế",
-        "relatedCollocates": ["to some extent", "to a large extent"],
+        "relatedCollocates": [
+          "to some extent",
+          "to a large extent"
+        ],
         "wordForms": {
-          "noun": [{ "form": "extent", "meaning": "mức độ" }],
-          "verb": [{ "form": "limit", "meaning": "giới hạn" }],
-          "adjective": [{ "form": "limited", "meaning": "bị giới hạn" }],
-          "adverb": null
+          "noun": [
+            {
+              "form": "extent",
+              "meaning": "mức độ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "limit",
+              "meaning": "giới hạn"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "limited",
+              "meaning": "bị giới hạn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1446,7 +2132,7 @@
       }
     },
     {
-      "id": 343,
+      "id": "1761813174055-16-48-4c6ef4f7",
       "targetLexeme": "sprawling growth habit (n. phrase)",
       "sourceContext": "...the plant has a sprawling growth habit...",
       "phase1Inference": {
@@ -1464,12 +2150,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "sprawl", "meaning": "sự bò lan" },
-            { "form": "habit", "meaning": "thói quen, dáng" }
+            {
+              "form": "sprawl",
+              "meaning": "sự bò lan"
+            },
+            {
+              "form": "habit",
+              "meaning": "thói quen, dáng"
+            }
           ],
-          "verb": [{ "form": "sprawl", "meaning": "bò lan" }],
-          "adjective": [{ "form": "sprawling", "meaning": "bò lan" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "sprawl",
+              "meaning": "bò lan"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "sprawling",
+              "meaning": "bò lan"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1478,7 +2180,7 @@
       }
     },
     {
-      "id": 344,
+      "id": "1761813174055-16-49-0e0ad342",
       "targetLexeme": "ripe (adj)",
       "sourceContext": "...fall off the branches when ripe.",
       "phase1Inference": {
@@ -1489,15 +2191,35 @@
         "sentiment": "positive",
         "definitionEN": "(Of fruit or crops) fully developed and ready to be eaten or harvested",
         "translationVI": "Chín (trái cây)",
-        "relatedCollocates": ["unripe (antonym)", "fully ripe", "ripen (v)"],
+        "relatedCollocates": [
+          "unripe (antonym)",
+          "fully ripe",
+          "ripen (v)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "ripeness", "meaning": "sự chín" }],
-          "verb": [{ "form": "ripen", "meaning": "làm chín" }],
-          "adjective": [
-            { "form": "ripe", "meaning": "chín" },
-            { "form": "unripe", "meaning": "chưa chín" }
+          "noun": [
+            {
+              "form": "ripeness",
+              "meaning": "sự chín"
+            }
           ],
-          "adverb": null
+          "verb": [
+            {
+              "form": "ripen",
+              "meaning": "làm chín"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "ripe",
+              "meaning": "chín"
+            },
+            {
+              "form": "unripe",
+              "meaning": "chưa chín"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1506,7 +2228,7 @@
       }
     },
     {
-      "id": 345,
+      "id": "1761813174055-16-50-072dc328",
       "targetLexeme": "more compact (adj)",
       "sourceContext": "...make their growth more compact and to stop fruits dropping.",
       "phase1Inference": {
@@ -1517,12 +2239,35 @@
         "sentiment": "positive",
         "definitionEN": "Denser and more neatly arranged in a small space; not sprawling",
         "translationVI": "Gọn gàng hơn, đặc hơn",
-        "relatedCollocates": ["sprawling (antonym)", "a compact (design)"],
+        "relatedCollocates": [
+          "sprawling (antonym)",
+          "a compact (design)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "compactness", "meaning": "sự gọn gàng" }],
-          "verb": [{ "form": "compact", "meaning": "nén lại" }],
-          "adjective": [{ "form": "compact", "meaning": "gọn" }],
-          "adverb": [{ "form": "compactly", "meaning": "(một cách) gọn gàng" }]
+          "noun": [
+            {
+              "form": "compactness",
+              "meaning": "sự gọn gàng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "compact",
+              "meaning": "nén lại"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "compact",
+              "meaning": "gọn"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "compactly",
+              "meaning": "(một cách) gọn gàng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1531,7 +2276,7 @@
       }
     },
     {
-      "id": 346,
+      "id": "1761813174055-16-51-552dcc79",
       "targetLexeme": "potential (n)",
       "sourceContext": "'There's potential for this to be a commercial crop,'...",
       "phase1Inference": {
@@ -1548,11 +2293,24 @@
           "a potential (benefit)"
         ],
         "wordForms": {
-          "noun": [{ "form": "potential", "meaning": "tiềm năng" }],
-          "verb": null,
-          "adjective": [{ "form": "potential", "meaning": "tiềm năng" }],
+          "noun": [
+            {
+              "form": "potential",
+              "meaning": "tiềm năng"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "potential",
+              "meaning": "tiềm năng"
+            }
+          ],
           "adverb": [
-            { "form": "potentially", "meaning": "(một cách) tiềm năng" }
+            {
+              "form": "potentially",
+              "meaning": "(một cách) tiềm năng"
+            }
           ]
         }
       },
@@ -1562,7 +2320,7 @@
       }
     },
     {
-      "id": 347,
+      "id": "1761813174055-16-52-69e547bb",
       "targetLexeme": "commercial crop (n)",
       "sourceContext": "...potential for this to be a commercial crop,'...",
       "phase1Inference": {
@@ -1573,17 +2331,39 @@
         "sentiment": "neutral",
         "definitionEN": "A crop (like wheat or cotton) that is grown in large quantities to be sold, rather than for the farmer's own use",
         "translationVI": "Cây trồng thương mại (để bán)",
-        "relatedCollocates": ["cash crop (synonym)", "commercial (use)"],
+        "relatedCollocates": [
+          "cash crop (synonym)",
+          "commercial (use)"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "crop", "meaning": "cây trồng" },
-            { "form": "commerce", "meaning": "thương mại" }
+            {
+              "form": "crop",
+              "meaning": "cây trồng"
+            },
+            {
+              "form": "commerce",
+              "meaning": "thương mại"
+            }
           ],
-          "verb": [{ "form": "commercialize", "meaning": "thương mại hóa" }],
+          "verb": [
+            {
+              "form": "commercialize",
+              "meaning": "thương mại hóa"
+            }
+          ],
           "adjective": [
-            { "form": "commercial", "meaning": "thuộc thương mại" }
+            {
+              "form": "commercial",
+              "meaning": "thuộc thương mại"
+            }
           ],
-          "adverb": [{ "form": "commercially", "meaning": "về mặt thương mại" }]
+          "adverb": [
+            {
+              "form": "commercially",
+              "meaning": "về mặt thương mại"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1592,7 +2372,7 @@
       }
     },
     {
-      "id": 348,
+      "id": "1761813174055-16-53-4e9eae8e",
       "targetLexeme": "licence (n)",
       "sourceContext": "...pay for a licence for the CRISPR technology...",
       "phase1Inference": {
@@ -1610,12 +2390,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "licence", "meaning": "giấy phép (UK)" },
-            { "form": "license", "meaning": "giấy phép (US)" }
+            {
+              "form": "licence",
+              "meaning": "giấy phép (UK)"
+            },
+            {
+              "form": "license",
+              "meaning": "giấy phép (US)"
+            }
           ],
-          "verb": [{ "form": "license", "meaning": "cấp phép" }],
-          "adjective": [{ "form": "licensed", "meaning": "được cấp phép" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "license",
+              "meaning": "cấp phép"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "licensed",
+              "meaning": "được cấp phép"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1624,7 +2420,7 @@
       }
     },
     {
-      "id": 349,
+      "id": "1761813174055-16-54-06ff18a1",
       "targetLexeme": "regulatory approval (n)",
       "sourceContext": "...and get regulatory approval.",
       "phase1Inference": {
@@ -1642,16 +2438,36 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "approval", "meaning": "sự chấp thuận" },
-            { "form": "regulation", "meaning": "quy định" },
-            { "form": "regulator", "meaning": "cơ quan quản lý" }
+            {
+              "form": "approval",
+              "meaning": "sự chấp thuận"
+            },
+            {
+              "form": "regulation",
+              "meaning": "quy định"
+            },
+            {
+              "form": "regulator",
+              "meaning": "cơ quan quản lý"
+            }
           ],
           "verb": [
-            { "form": "approve", "meaning": "chấp thuận" },
-            { "form": "regulate", "meaning": "quản lý" }
+            {
+              "form": "approve",
+              "meaning": "chấp thuận"
+            },
+            {
+              "form": "regulate",
+              "meaning": "quản lý"
+            }
           ],
-          "adjective": [{ "form": "regulatory", "meaning": "thuộc quản lý" }],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "regulatory",
+              "meaning": "thuộc quản lý"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1660,7 +2476,7 @@
       }
     },
     {
-      "id": 350,
+      "id": "1761813174055-16-55-6558380e",
       "targetLexeme": "boost the use (v. phrase)",
       "sourceContext": "This approach could boost the use of many obscure plants...",
       "phase1Inference": {
@@ -1678,15 +2494,27 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "boost", "meaning": "sự thúc đẩy" },
-            { "form": "use", "meaning": "việc sử dụng" }
+            {
+              "form": "boost",
+              "meaning": "sự thúc đẩy"
+            },
+            {
+              "form": "use",
+              "meaning": "việc sử dụng"
+            }
           ],
           "verb": [
-            { "form": "boost", "meaning": "thúc đẩy" },
-            { "form": "use", "meaning": "sử dụng" }
+            {
+              "form": "boost",
+              "meaning": "thúc đẩy"
+            },
+            {
+              "form": "use",
+              "meaning": "sử dụng"
+            }
           ],
-          "adjective": null,
-          "adverb": null
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1695,7 +2523,7 @@
       }
     },
     {
-      "id": 351,
+      "id": "1761813174055-16-56-2bd6560e",
       "targetLexeme": "obscure plants (n. phrase)",
       "sourceContext": "...boost the use of many obscure plants...",
       "phase1Inference": {
@@ -1713,12 +2541,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "plant", "meaning": "thực vật" },
-            { "form": "obscurity", "meaning": "sự vô danh" }
+            {
+              "form": "plant",
+              "meaning": "thực vật"
+            },
+            {
+              "form": "obscurity",
+              "meaning": "sự vô danh"
+            }
           ],
-          "verb": [{ "form": "obscure", "meaning": "che khuất" }],
-          "adjective": [{ "form": "obscure", "meaning": "vô danh, khó hiểu" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "obscure",
+              "meaning": "che khuất"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "obscure",
+              "meaning": "vô danh, khó hiểu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1727,7 +2571,7 @@
       }
     },
     {
-      "id": 352,
+      "id": "1761813174055-16-57-430aeb2a",
       "targetLexeme": "grow popular with (v. phrase)",
       "sourceContext": "...hard for new foods to grow so popular with farmers and consumers...",
       "phase1Inference": {
@@ -1738,12 +2582,35 @@
         "sentiment": "positive",
         "definitionEN": "To become increasingly liked or supported by a particular group of people",
         "translationVI": "Trở nên phổ biến với (ai đó)",
-        "relatedCollocates": ["become popular", "gain popularity"],
+        "relatedCollocates": [
+          "become popular",
+          "gain popularity"
+        ],
         "wordForms": {
-          "noun": [{ "form": "popularity", "meaning": "sự phổ biến" }],
-          "verb": [{ "form": "grow", "meaning": "trở nên" }],
-          "adjective": [{ "form": "popular", "meaning": "phổ biến" }],
-          "adverb": [{ "form": "popularly", "meaning": "(một cách) phổ biến" }]
+          "noun": [
+            {
+              "form": "popularity",
+              "meaning": "sự phổ biến"
+            }
+          ],
+          "verb": [
+            {
+              "form": "grow",
+              "meaning": "trở nên"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "popular",
+              "meaning": "phổ biến"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "popularly",
+              "meaning": "(một cách) phổ biến"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1752,7 +2619,7 @@
       }
     },
     {
-      "id": 353,
+      "id": "1761813174055-16-58-0c89bb6e",
       "targetLexeme": "staple crops (n)",
       "sourceContext": "...that they become new staple crops, he thinks.",
       "phase1Inference": {
@@ -1770,12 +2637,23 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "staple", "meaning": "lương thực chính" },
-            { "form": "crop", "meaning": "cây trồng" }
+            {
+              "form": "staple",
+              "meaning": "lương thực chính"
+            },
+            {
+              "form": "crop",
+              "meaning": "cây trồng"
+            }
           ],
-          "verb": null,
-          "adjective": [{ "form": "staple", "meaning": "chủ yếu" }],
-          "adverb": null
+          "verb": [],
+          "adjective": [
+            {
+              "form": "staple",
+              "meaning": "chủ yếu"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1784,7 +2662,7 @@
       }
     },
     {
-      "id": 354,
+      "id": "1761813174055-16-59-751887c2",
       "targetLexeme": "have their eye on (idiom)",
       "sourceContext": "The three teams already have their eye on other plants...",
       "phase1Inference": {
@@ -1795,12 +2673,25 @@
         "sentiment": "neutral",
         "definitionEN": "To be watching something or someone with interest; to be considering something as a future possibility",
         "translationVI": "Để mắt đến, nhắm đến, để ý đến",
-        "relatedCollocates": ["keep an eye on", "be in (sb's) sights"],
+        "relatedCollocates": [
+          "keep an eye on",
+          "be in (sb's) sights"
+        ],
         "wordForms": {
-          "noun": [{ "form": "eye", "meaning": "mắt" }],
-          "verb": [{ "form": "eye", "meaning": "để ý" }],
-          "adjective": null,
-          "adverb": null
+          "noun": [
+            {
+              "form": "eye",
+              "meaning": "mắt"
+            }
+          ],
+          "verb": [
+            {
+              "form": "eye",
+              "meaning": "để ý"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1809,7 +2700,7 @@
       }
     },
     {
-      "id": 355,
+      "id": "1761813174055-16-60-51cc0016",
       "targetLexeme": "catapulted into the mainstream (idiom)",
       "sourceContext": "...plants that could be 'catapulted into the mainstream'...",
       "phase1Inference": {
@@ -1827,14 +2718,28 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "catapult", "meaning": "máy bắn đá" },
-            { "form": "mainstream", "meaning": "dòng chính" }
+            {
+              "form": "catapult",
+              "meaning": "máy bắn đá"
+            },
+            {
+              "form": "mainstream",
+              "meaning": "dòng chính"
+            }
           ],
-          "verb": [{ "form": "catapult", "meaning": "bắn, phóng" }],
+          "verb": [
+            {
+              "form": "catapult",
+              "meaning": "bắn, phóng"
+            }
+          ],
           "adjective": [
-            { "form": "mainstream", "meaning": "thuộc dòng chính" }
+            {
+              "form": "mainstream",
+              "meaning": "thuộc dòng chính"
+            }
           ],
-          "adverb": null
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1843,7 +2748,7 @@
       }
     },
     {
-      "id": 356,
+      "id": "1761813174055-16-61-2dbf2d3f",
       "targetLexeme": "drought or heat tolerant (adj. phrase)",
       "sourceContext": "...wild plants that are drought or heat tolerant...",
       "phase1Inference": {
@@ -1861,13 +2766,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "drought", "meaning": "hạn hán" },
-            { "form": "heat", "meaning": "nhiệt" },
-            { "form": "tolerance", "meaning": "sự chịu đựng" }
+            {
+              "form": "drought",
+              "meaning": "hạn hán"
+            },
+            {
+              "form": "heat",
+              "meaning": "nhiệt"
+            },
+            {
+              "form": "tolerance",
+              "meaning": "sự chịu đựng"
+            }
           ],
-          "verb": [{ "form": "tolerate", "meaning": "chịu đựng" }],
-          "adjective": [{ "form": "tolerant", "meaning": "có tính chịu đựng" }],
-          "adverb": null
+          "verb": [
+            {
+              "form": "tolerate",
+              "meaning": "chịu đựng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "tolerant",
+              "meaning": "có tính chịu đựng"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1876,7 +2800,7 @@
       }
     },
     {
-      "id": 357,
+      "id": "1761813174055-16-62-6139277d",
       "targetLexeme": "thrive (v)",
       "sourceContext": "...we could create crops that will thrive even as the planet warms.",
       "phase1Inference": {
@@ -1893,12 +2817,20 @@
           "thriving (adj)"
         ],
         "wordForms": {
-          "noun": null,
-          "verb": [{ "form": "thrive", "meaning": "phát triển mạnh" }],
-          "adjective": [
-            { "form": "thriving", "meaning": "đang phát triển mạnh" }
+          "noun": [],
+          "verb": [
+            {
+              "form": "thrive",
+              "meaning": "phát triển mạnh"
+            }
           ],
-          "adverb": null
+          "adjective": [
+            {
+              "form": "thriving",
+              "meaning": "đang phát triển mạnh"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1907,7 +2839,7 @@
       }
     },
     {
-      "id": 358,
+      "id": "1761813174055-16-63-6592d501",
       "targetLexeme": "warms (v)",
       "sourceContext": "...even as the planet warms.",
       "phase1Inference": {
@@ -1918,12 +2850,35 @@
         "sentiment": "negative",
         "definitionEN": "To become higher in temperature",
         "translationVI": "Ấm lên, nóng lên",
-        "relatedCollocates": ["global warming (n)", "cools (antonym)"],
+        "relatedCollocates": [
+          "global warming (n)",
+          "cools (antonym)"
+        ],
         "wordForms": {
-          "noun": [{ "form": "warmth", "meaning": "sự ấm áp" }],
-          "verb": [{ "form": "warm", "meaning": "làm ấm, ấm lên" }],
-          "adjective": [{ "form": "warm", "meaning": "ấm áp" }],
-          "adverb": [{ "form": "warmly", "meaning": "(một cách) ấm áp" }]
+          "noun": [
+            {
+              "form": "warmth",
+              "meaning": "sự ấm áp"
+            }
+          ],
+          "verb": [
+            {
+              "form": "warm",
+              "meaning": "làm ấm, ấm lên"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "warm",
+              "meaning": "ấm áp"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "warmly",
+              "meaning": "(một cách) ấm áp"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1932,7 +2887,7 @@
       }
     },
     {
-      "id": 359,
+      "id": "1761813174055-16-64-2f08f870",
       "targetLexeme": "reveal (v)",
       "sourceContext": "But Kudla didn't want to reveal which species were...",
       "phase1Inference": {
@@ -1949,12 +2904,25 @@
           "conceal (antonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "revelation", "meaning": "sự tiết lộ" }],
-          "verb": [{ "form": "reveal", "meaning": "tiết lộ" }],
-          "adjective": [
-            { "form": "revealing", "meaning": "mang tính tiết lộ" }
+          "noun": [
+            {
+              "form": "revelation",
+              "meaning": "sự tiết lộ"
+            }
           ],
-          "adverb": null
+          "verb": [
+            {
+              "form": "reveal",
+              "meaning": "tiết lộ"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "revealing",
+              "meaning": "mang tính tiết lộ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1963,7 +2931,7 @@
       }
     },
     {
-      "id": 360,
+      "id": "1761813174055-16-65-260d32e0",
       "targetLexeme": "(in sb's) sights (n. phrase)",
       "sourceContext": "...which species were in his team's sights...",
       "phase1Inference": {
@@ -1979,10 +2947,20 @@
           "have (one's) eye on (synonym)"
         ],
         "wordForms": {
-          "noun": [{ "form": "sight", "meaning": "tầm nhìn, tầm ngắm" }],
-          "verb": [{ "form": "sight", "meaning": "nhìn thấy" }],
-          "adjective": null,
-          "adverb": null
+          "noun": [
+            {
+              "form": "sight",
+              "meaning": "tầm nhìn, tầm ngắm"
+            }
+          ],
+          "verb": [
+            {
+              "form": "sight",
+              "meaning": "nhìn thấy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1991,7 +2969,7 @@
       }
     },
     {
-      "id": 361,
+      "id": "1761813174055-16-66-496d97de",
       "targetLexeme": "right skills (n. phrase)",
       "sourceContext": "'Any one with the right skills could go to their lab and do this.'",
       "phase1Inference": {
@@ -2009,15 +2987,32 @@
         ],
         "wordForms": {
           "noun": [
-            { "form": "skill", "meaning": "kỹ năng" },
-            { "form": "right", "meaning": "điều đúng" }
+            {
+              "form": "skill",
+              "meaning": "kỹ năng"
+            },
+            {
+              "form": "right",
+              "meaning": "điều đúng"
+            }
           ],
-          "verb": null,
+          "verb": [],
           "adjective": [
-            { "form": "right", "meaning": "đúng, phù hợp" },
-            { "form": "skilled", "meaning": "có kỹ năng" }
+            {
+              "form": "right",
+              "meaning": "đúng, phù hợp"
+            },
+            {
+              "form": "skilled",
+              "meaning": "có kỹ năng"
+            }
           ],
-          "adverb": [{ "form": "rightly", "meaning": "(một cách) đúng đắn" }]
+          "adverb": [
+            {
+              "form": "rightly",
+              "meaning": "(một cách) đúng đắn"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2026,7 +3021,7 @@
       }
     },
     {
-      "id": 362,
+      "id": "1761813174055-16-67-194791a7",
       "targetLexeme": "a dangerous infection",
       "sourceContext": "Q14: ...resist a dangerous infection",
       "phase1Inference": {
@@ -2049,7 +3044,7 @@
       }
     },
     {
-      "id": 363,
+      "id": "1761813174055-16-68-5100d2c5",
       "targetLexeme": "focusing only on a certain type",
       "sourceContext": "Q15: ...problems can arise from focusing only on a certain type...",
       "phase1Inference": {
@@ -2073,7 +3068,7 @@
       }
     },
     {
-      "id": 364,
+      "id": "1761813174055-16-69-146897d3",
       "targetLexeme": "not cultivated at present",
       "sourceContext": "Q16: ...plants that are not cultivated at present but could be useful...",
       "phase1Inference": {
@@ -2096,7 +3091,7 @@
       }
     },
     {
-      "id": 365,
+      "id": "1761813174055-16-70-5459f5a7",
       "targetLexeme": "early domestication... and more recent research",
       "sourceContext": "Q17: a comparison between the early domestication... and more recent research",
       "phase1Inference": {
@@ -2120,7 +3115,7 @@
       }
     },
     {
-      "id": 366,
+      "id": "1761813174055-16-71-53fcad4c",
       "targetLexeme": "a personal reaction to the flavour",
       "sourceContext": "Q18: a personal reaction to the flavour...",
       "phase1Inference": {
@@ -2143,7 +3138,7 @@
       }
     },
     {
-      "id": 367,
+      "id": "1761813174055-16-72-5c3184ed",
       "targetLexeme": "future environmental challenges",
       "sourceContext": "Q19: (Gao) ...adapt to future environmental challenges.",
       "phase1Inference": {
@@ -2154,7 +3149,10 @@
         "sentiment": "negative",
         "definitionEN": "A paraphrase for specific examples like 'drought or heat tolerant' and 'as the planet warms'",
         "translationVI": "Paraphrase cho các ví dụ cụ thể: 'chịu hạn/nhiệt' (drought or heat tolerant) và 'khi hành tinh ấm lên' (as the planet warms)",
-        "relatedCollocates": ["drought or heat tolerant", "as the planet warms"]
+        "relatedCollocates": [
+          "drought or heat tolerant",
+          "as the planet warms"
+        ]
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
@@ -2162,7 +3160,7 @@
       }
     },
     {
-      "id": 368,
+      "id": "1761813174055-16-73-458890b8",
       "targetLexeme": "not be accepted on a large scale",
       "sourceContext": "Q20: (Jones) ...unusual foods may not be accepted on a large scale.",
       "phase1Inference": {
@@ -2185,7 +3183,7 @@
       }
     },
     {
-      "id": 369,
+      "id": "1761813174055-16-74-7775cda5",
       "targetLexeme": "not... be made public",
       "sourceContext": "Q21: (Kudla) ...not advisable for the future direction... to be made public.",
       "phase1Inference": {
@@ -2196,7 +3194,10 @@
         "sentiment": "neutral",
         "definitionEN": "A paraphrase for 'didn't want to reveal'",
         "translationVI": "Paraphrase cho: 'không muốn tiết lộ' (didn't want to reveal)",
-        "relatedCollocates": ["didn't want to reveal", "in his team's sights"]
+        "relatedCollocates": [
+          "didn't want to reveal",
+          "in his team's sights"
+        ]
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
@@ -2204,7 +3205,7 @@
       }
     },
     {
-      "id": 370,
+      "id": "1761813174055-16-75-5fcc6988",
       "targetLexeme": "limited by the costs involved",
       "sourceContext": "Q22: (Van Eck) Present efforts... are limited by the costs involved.",
       "phase1Inference": {
@@ -2214,7 +3215,8 @@
         "phonetic": "/ˈlɪmɪtɪd baɪ ðə kɒsts ɪnˈvɒlvd/",
         "sentiment": "negative",
         "definitionEN": "A paraphrase for 'would be expensive because of the need to pay for...",
-        "translationVI": "Paraphrase cho: 'sẽ đắt đỏ bởi vì cần phải trả tiền cho...."
+        "translationVI": "Paraphrase cho: 'sẽ đắt đỏ bởi vì cần phải trả tiền cho....",
+        "relatedCollocates": []
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
@@ -2222,7 +3224,7 @@
       }
     },
     {
-      "id": 371,
+      "id": "1761813174055-16-76-7b23cbb1",
       "targetLexeme": "a small proportion",
       "sourceContext": "Q23: (Kudla) Humans only make use of a small proportion of the plant food available...",
       "phase1Inference": {
@@ -2233,7 +3235,10 @@
         "sentiment": "neutral",
         "definitionEN": "A conceptual paraphrase for the comparison between '15 crops' and '50,000 edible plants'",
         "translationVI": "Paraphrase mang tính suy luận: sự so sánh giữa '15 cây trồng' và '50,000 cây ăn được'",
-        "relatedCollocates": ["50,000 edible plants", "just 15 crops"]
+        "relatedCollocates": [
+          "50,000 edible plants",
+          "just 15 crops"
+        ]
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
@@ -2241,7 +3246,7 @@
       }
     },
     {
-      "id": 372,
+      "id": "1761813174055-16-77-62390637",
       "targetLexeme": "loss of ...",
       "sourceContext": "Q24: An undesirable trait such as loss of ... may be caused by a mutation...",
       "phase1Inference": {
@@ -2263,7 +3268,7 @@
       }
     },
     {
-      "id": 373,
+      "id": "1761813174055-16-78-6996bc6e",
       "targetLexeme": "three times its original ...",
       "sourceContext": "Q25: ...researchers made the tomato three times its original ...",
       "phase1Inference": {
@@ -2274,7 +3279,9 @@
         "sentiment": "neutral",
         "definitionEN": "A paraphrase for the verb 'tripled the...",
         "translationVI": "Paraphrase cho động từ 'tripled the...",
-        "relatedCollocates": ["tripled the size"]
+        "relatedCollocates": [
+          "tripled the size"
+        ]
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
@@ -2282,7 +3289,7 @@
       }
     },
     {
-      "id": 374,
+      "id": "1761813174055-16-79-34be8f5f",
       "targetLexeme": "not badly affected by ...",
       "sourceContext": "Q26: A type of tomato which was not badly affected by ... and was rich in vitamin C...",
       "phase1Inference": {
@@ -2293,12 +3300,20 @@
         "sentiment": "positive",
         "definitionEN": "A paraphrase for the adjective 'resistant to...",
         "translationVI": "Paraphrase cho tính từ 'resistant to...",
-        "relatedCollocates": ["resistant to a common disease"]
+        "relatedCollocates": [
+          "resistant to a common disease"
+        ]
       },
       "phase3Production": {
         "taskType": "PARAPHRASE_COMPARISON",
         "content": "Question: 'not badly affected by...' (không bị ảnh hưởng nặng) \n<->\nPassage (C): 'resistant to...' (kháng...)."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.055Z",
+    "version": "2.0",
+    "originalCount": 80,
+    "migratedCount": 80
+  }
 }

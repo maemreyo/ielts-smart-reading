@@ -1,0 +1,3038 @@
+{
+  "logTitle": "IELTS Reading Log: Building the Skyline (Part 1)",
+  "sourceId": "Reading Passage (Image '...16.37.45.png')",
+  "totalItems": 43,
+  "lexicalItems": [
+    {
+      "id": 646,
+      "targetLexeme": "development of (a city)",
+      "sourceContext": "...about the development of New York City.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'phát triển' (development) 'của' (of) một 'thành phố' (city)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈveləpmənt əv ə ˈsɪti/",
+        "sentiment": "neutral",
+        "definitionEN": "The process of a city growing or changing and becoming more advanced",
+        "translationVI": "Sự phát triển của (một thành phố)",
+        "relatedCollocates": [
+          "urban development (synonym)",
+          "the growth of (a city)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "development", "meaning": "sự phát triển" }],
+          "verb": [{ "form": "develop", "meaning": "phát triển" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The book details the rapid development of Dubai over the last 50 years."
+      }
+    },
+    {
+      "id": 647,
+      "targetLexeme": "detailed history",
+      "sourceContext": "...takes the reader through a detailed history of New York City.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'lịch sử' (history) 'chi tiết' (detailed)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdiːteɪld ˈhɪstri/",
+        "sentiment": "neutral",
+        "definitionEN": "An account of past events that includes a lot of specific information and facts",
+        "translationVI": "Lịch sử chi tiết",
+        "relatedCollocates": ["a comprehensive (history)", "in detail (adv)"],
+        "wordForms": {
+          "noun": [{ "form": "history", "meaning": "lịch sử" }],
+          "adjective": [{ "form": "detailed", "meaning": "chi tiết" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The museum provides a detailed history of the local area."
+      }
+    },
+    {
+      "id": 648,
+      "targetLexeme": "combines (geology, history, etc.)",
+      "sourceContext": "The book combines geology, history, economics, and a lot of data...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Kết hợp' (combines) 'địa chất' (geology), 'lịch sử' (history).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/kəmˈbaɪnz/",
+        "sentiment": "neutral",
+        "definitionEN": "To put together or join different elements (like academic subjects) into one",
+        "translationVI": "Kết hợp (địa chất, lịch sử, v.v.)",
+        "relatedCollocates": ["a combination of (n)", "integrate (synonym)"],
+        "wordForms": {
+          "noun": [{ "form": "combination", "meaning": "sự kết hợp" }],
+          "verb": [{ "form": "combine", "meaning": "kết hợp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new course combines biology and computer science."
+      }
+    },
+    {
+      "id": 649,
+      "targetLexeme": "business clusters",
+      "sourceContext": "...explain why business clusters developed where they did...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'cụm' (clusters) 'doanh nghiệp' (business)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbɪznəs ˈklʌstəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Geographic concentrations of interconnected companies and institutions in a particular field",
+        "translationVI": "Các cụm/khu doanh nghiệp",
+        "relatedCollocates": ["clusters (n)", "a cluster of (firms)"],
+        "wordForms": {
+          "noun": [
+            { "form": "business", "meaning": "doanh nghiệp" },
+            { "form": "cluster", "meaning": "cụm" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Silicon Valley is the most famous example of a technology business cluster."
+      }
+    },
+    {
+      "id": 650,
+      "targetLexeme": "shaped the skyline",
+      "sourceContext": "...and how the early decisions of workers and firms shaped the skyline we see today.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đã 'định hình' (shaped) 'đường chân trời' (skyline)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ʃeɪpt ðə ˈskaɪlaɪn/",
+        "sentiment": "neutral",
+        "definitionEN": "To have a major influence on the appearance or form of the outline of buildings seen against the sky",
+        "translationVI": "Định hình đường chân trời",
+        "relatedCollocates": ["shape (v)", "skyline (n)", "Manhattan skyline"],
+        "wordForms": {
+          "noun": [
+            { "form": "skyline", "meaning": "đường chân trời" },
+            { "form": "shape", "meaning": "hình dạng" }
+          ],
+          "verb": [{ "form": "shape", "meaning": "định hình" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The construction of new skyscrapers has dramatically shaped the city's skyline."
+      }
+    },
+    {
+      "id": 651,
+      "targetLexeme": "organized into two distinct parts",
+      "sourceContext": "...is organized into two distinct parts.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được 'tổ chức/chia' (organized) 'thành' (into) 'hai' (two) 'phần' (parts) 'riêng biệt' (distinct)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɔːɡənaɪzd ˈɪntuː tuː dɪˈstɪŋkt pɑːts/",
+        "sentiment": "neutral",
+        "definitionEN": "Structured or arranged in two separate and clearly different sections",
+        "translationVI": "Được chia thành hai phần riêng biệt",
+        "relatedCollocates": [
+          "distinct (adj)",
+          "separate (parts)",
+          "organization (n)"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "distinct", "meaning": "riêng biệt" }],
+          "verb": [{ "form": "organize", "meaning": "tổ chức" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The book is organized into two distinct parts: theory and practice."
+      }
+    },
+    {
+      "id": 652,
+      "targetLexeme": "deals primarily with",
+      "sourceContext": "the second deals primarily with the 20th century...",
+      "phase1Inference": {
+        "contextualGuessVI": "Phần thứ hai 'giải quyết/đề cập' (deals with) 'chủ yếu' (primarily) 'về' (with) thế kỷ 20"
+      },
+      "phase2Annotation": {
+        "phonetic": "/diːlz ˈpraɪmərəli wɪð/",
+        "sentiment": "neutral",
+        "definitionEN": "To be mainly about; to focus on as the main subject",
+        "translationVI": "Đề cập/giải quyết chủ yếu về",
+        "relatedCollocates": [
+          "focuses on (synonym)",
+          "is about (synonym)",
+          "primarily (adv)"
+        ],
+        "wordForms": {
+          "verb": [{ "form": "deal with", "meaning": "đề cập" }],
+          "adverb": [{ "form": "primarily", "meaning": "chủ yếu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Her research deals primarily with ancient Roman history."
+      }
+    },
+    {
+      "id": 653,
+      "targetLexeme": "a compilation of chapters",
+      "sourceContext": "...and is a compilation of chapters commenting on different aspects...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'tuyển tập/tổng hợp' (compilation) 'các chương' (of chapters)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˌkɒmpɪˈleɪʃən əv ˈtʃæptəz/",
+        "sentiment": "neutral",
+        "definitionEN": "A collection of different pieces of writing (chapters) brought together in one book",
+        "translationVI": "Một tập hợp/tuyển tập các chương",
+        "relatedCollocates": ["a collection of (synonym)", "compile (v)"],
+        "wordForms": {
+          "noun": [
+            { "form": "compilation", "meaning": "sự tổng hợp" },
+            { "form": "chapter", "meaning": "chương" }
+          ],
+          "verb": [{ "form": "compile", "meaning": "biên soạn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new textbook is a compilation of chapters from various experts in the field."
+      }
+    },
+    {
+      "id": 654,
+      "targetLexeme": "commenting on (different aspects)",
+      "sourceContext": "...chapters commenting on different aspects of New York's urban development.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Bình luận về' (commenting on) các 'khía cạnh' (aspects) 'khác nhau' (different)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkɒmentɪŋ ɒn/",
+        "sentiment": "neutral",
+        "definitionEN": "Giving opinions or explanations about various parts or features of something",
+        "translationVI": "Bình luận về (các khía cạnh khác nhau)",
+        "relatedCollocates": [
+          "comment on (v)",
+          "different aspects (n)",
+          "a comment (n)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "comment", "meaning": "lời bình luận" }],
+          "verb": [{ "form": "comment", "meaning": "bình luận" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The documentary features experts commenting on the environmental crisis."
+      }
+    },
+    {
+      "id": 655,
+      "targetLexeme": "urban development",
+      "sourceContext": "...different aspects of New York's urban development.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'phát triển' (development) 'đô thị' (urban)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɜːbən dɪˈveləpmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "The growth and development of cities, including buildings, infrastructure, and population",
+        "translationVI": "Sự phát triển đô thị",
+        "relatedCollocates": [
+          "development of (a city) (synonym)",
+          "urban planning (n)",
+          "urban (adj)",
+          "rural (antonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "development", "meaning": "sự phát triển" }],
+          "adjective": [{ "form": "urban", "meaning": "thuộc đô thị" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Urban development has led to the loss of green spaces in the city."
+      }
+    },
+    {
+      "id": 656,
+      "targetLexeme": "tone and organization",
+      "sourceContext": "The tone and organization of the book changes somewhat...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Giọng văn' (tone) 'và' (and) 'cách tổ chức/bố cục' (organization)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/təʊn ənd ˌɔːɡənaɪˈzeɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "The general style/feeling of the writing and the way its parts are structured or arranged",
+        "translationVI": "Giọng văn/văn phong và bố cục",
+        "relatedCollocates": ["tone (n)", "organization (n)", "structure (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "tone", "meaning": "giọng văn" },
+            { "form": "organization", "meaning": "bố cục, tổ chức" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The serious tone and organization of the report made it difficult to read."
+      }
+    },
+    {
+      "id": 657,
+      "targetLexeme": "incorporate aspects of",
+      "sourceContext": "...as the latter chapters incorporate aspects of Barr's related research papers.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Kết hợp/tích hợp' (incorporate) 'các khía cạnh' (aspects) 'của' (of) các bài báo"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈkɔːpəreɪt ˈæspekts əv/",
+        "sentiment": "neutral",
+        "definitionEN": "To include features or parts of something else as part of a whole",
+        "translationVI": "Kết hợp/tích hợp các khía cạnh của",
+        "relatedCollocates": [
+          "include (synonym)",
+          "aspects (of sth)",
+          "incorporate (into sth)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "incorporation", "meaning": "sự kết hợp" }],
+          "verb": [{ "form": "incorporate", "meaning": "kết hợp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new design will incorporate aspects of traditional architecture."
+      }
+    },
+    {
+      "id": 658,
+      "targetLexeme": "related research papers",
+      "sourceContext": "...Barr's related research papers.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'bài báo/bài nghiên cứu' (research papers) 'liên quan' (related)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈleɪtɪd rɪˈsɜːtʃ ˈpeɪpəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Academic articles or studies that are connected to the main topic",
+        "translationVI": "Các bài báo/công trình nghiên cứu liên quan",
+        "relatedCollocates": [
+          "academic papers (n)",
+          "research (n)",
+          "related (adj)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "research", "meaning": "nghiên cứu" },
+            { "form": "paper", "meaning": "bài báo" }
+          ],
+          "adjective": [{ "form": "related", "meaning": "liên quan" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He cited several related research papers in his thesis."
+      }
+    },
+    {
+      "id": 659,
+      "targetLexeme": "helicopter time-machine ride",
+      "sourceContext": "...on a 'helicopter time-machine' ride – giving a fascinating account of...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'chuyến đi' (ride) 'bằng máy quay thời gian' (time-machine) 'trên trực thăng' (helicopter) (ẩn dụ)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhelɪkɒptə taɪm məˈʃiːn raɪd/",
+        "sentiment": "positive",
+        "definitionEN": "A metaphorical description of a journey that uses imagination (like a helicopter + time machine) to see the past",
+        "translationVI": "Chuyến du hành thời gian bằng trực thăng (ẩn dụ)",
+        "relatedCollocates": ["metaphor (n)", "fascinating account (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "helicopter", "meaning": "trực thăng" },
+            { "form": "time-machine", "meaning": "máy thời gian" },
+            { "form": "ride", "meaning": "chuyến đi" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The museum's new exhibit is like a virtual time-machine ride into ancient Egypt."
+      }
+    },
+    {
+      "id": 660,
+      "targetLexeme": "fascinating account of",
+      "sourceContext": "...giving a fascinating account of how the New York landscape in 1609...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'bản tường thuật/mô tả' (account) 'hấp dẫn' (fascinating) 'về' (of) việc.."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfæsɪneɪtɪŋ əˈkaʊnt əv/",
+        "sentiment": "positive",
+        "definitionEN": "A very interesting or captivating description of an event or situation",
+        "translationVI": "Bản tường thuật/mô tả hấp dẫn về",
+        "relatedCollocates": [
+          "a detailed account",
+          "a fascinating (story)",
+          "account (n)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "account", "meaning": "bản tường thuật" }],
+          "adjective": [{ "form": "fascinating", "meaning": "hấp dẫn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The explorer gave a fascinating account of his journey to the Amazon."
+      }
+    },
+    {
+      "id": 661,
+      "targetLexeme": "landscape (n)",
+      "sourceContext": "...how the New York landscape in 1609 might have looked...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Phong cảnh' (landscape) của New York"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlændskeɪp/",
+        "sentiment": "neutral",
+        "definitionEN": "The visible features of an area of land, often considered in terms of their aesthetic appeal",
+        "translationVI": "Phong cảnh, cảnh quan",
+        "relatedCollocates": [
+          "urban landscape",
+          "natural landscape",
+          "scenery (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "landscape", "meaning": "phong cảnh" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The flat landscape of the region is broken only by a few hills."
+      }
+    },
+    {
+      "id": 662,
+      "targetLexeme": "subterranean (adj)",
+      "sourceContext": "...a subterranean walking tour of the city, indicating the location of...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một chuyến đi bộ 'dưới lòng đất' (subterranean)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌsʌbtəˈreɪniən/",
+        "sentiment": "neutral",
+        "definitionEN": "Existing, situated, or operating below the surface of the earth; underground",
+        "translationVI": "Dưới lòng đất, ngầm",
+        "relatedCollocates": ["underground (synonym)", "a subterranean (cave)"],
+        "wordForms": {
+          "adjective": [{ "form": "subterranean", "meaning": "dưới lòng đất" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The city has a vast subterranean network of tunnels and sewers."
+      }
+    },
+    {
+      "id": 663,
+      "targetLexeme": "indicating the location of",
+      "sourceContext": "...indicating the location of rock and water below the subsoil...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Chỉ ra' (indicating) 'vị trí' (the location) 'của' (of) đá và nước"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɪndɪkeɪtɪŋ ðə ləʊˈkeɪʃən əv/",
+        "sentiment": "neutral",
+        "definitionEN": "Showing or pointing out where something is situated",
+        "translationVI": "Chỉ ra vị trí của",
+        "relatedCollocates": ["show (the location)", "point to (the location)"],
+        "wordForms": {
+          "noun": [
+            { "form": "indication", "meaning": "sự chỉ dẫn" },
+            { "form": "location", "meaning": "vị trí" }
+          ],
+          "verb": [{ "form": "indicate", "meaning": "chỉ ra" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The map uses a red 'X' for indicating the location of the treasure."
+      }
+    },
+    {
+      "id": 664,
+      "targetLexeme": "subsoil (n)",
+      "sourceContext": "...rock and water below the subsoil, before taking the reader back...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bên dưới 'lớp đất mặt' / 'lớp đất cái' (subsoil)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsʌbsɔɪl/",
+        "sentiment": "neutral",
+        "definitionEN": "The layer of soil that is under the topsoil (the top layer)",
+        "translationVI": "Lớp đất cái, tầng đất sâu",
+        "relatedCollocates": ["topsoil (antonym)", "soil (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "subsoil", "meaning": "lớp đất cái" },
+            { "form": "soil", "meaning": "đất" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The tree's roots reached deep into the subsoil."
+      }
+    },
+    {
+      "id": 665,
+      "targetLexeme": "early 19th-century",
+      "sourceContext": "...early 19th-century vice-president Aaron Burr...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đầu 'thế kỷ 19' (19th-century)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɜːli naɪnˈtiːnθ ˈsentʃəri/",
+        "sentiment": "neutral",
+        "definitionEN": "Relating to the period between approximately 1800 and 1830",
+        "translationVI": "(Thuộc) đầu thế kỷ 19",
+        "relatedCollocates": ["late 19th-century", "mid-19th-century"],
+        "wordForms": {
+          "adjective": [
+            { "form": "early 19th-century", "meaning": "đầu TK 19" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The novel is set in early 19th-century England."
+      }
+    },
+    {
+      "id": 666,
+      "targetLexeme": "legends (about the city)",
+      "sourceContext": "...as well as a number of legends about the city.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhiều 'truyền thuyết' (legends) 'về thành phố' (about the city)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈledʒəndz/",
+        "sentiment": "neutral",
+        "definitionEN": "Traditional stories, often popularly regarded as historical but not fully authenticated",
+        "translationVI": "Các truyền thuyết (về thành phố)",
+        "relatedCollocates": ["urban legends (n)", "myths (n)"],
+        "wordForms": {
+          "noun": [{ "form": "legend", "meaning": "truyền thuyết" }],
+          "adjective": [
+            { "form": "legendary", "meaning": "thuộc truyền thuyết" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There are many local legends about the old castle on the hill."
+      }
+    },
+    {
+      "id": 667,
+      "targetLexeme": "the Civil War",
+      "sourceContext": "Chapters two and three take the reader up to the Civil War (1861–1865)...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cuộc 'Nội chiến' (Civil War) (ở Mỹ)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈsɪvl wɔː/",
+        "sentiment": "negative",
+        "definitionEN": "The American Civil War (1861-1865), fought between the Union (the North) and the Confederacy (the South)",
+        "translationVI": "(Cuộc) Nội chiến (Mỹ)",
+        "relatedCollocates": ["post-Civil War era", "before the war"],
+        "wordForms": {
+          "noun": [{ "form": "Civil War", "meaning": "Nội chiến" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The US economy changed dramatically after the Civil War."
+      }
+    },
+    {
+      "id": 668,
+      "targetLexeme": "early development of land",
+      "sourceContext": "...focusing on the early development of land and the implementation of...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'phát triển đất đai' (development of land) 'thời kỳ đầu' (early)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɜːli dɪˈveləpmənt əv lænd/",
+        "sentiment": "neutral",
+        "definitionEN": "The initial stages of preparing and using land for building or farming",
+        "translationVI": "Sự phát triển/khai thác đất đai thời kỳ đầu",
+        "relatedCollocates": ["land use (n)", "land development (n)"],
+        "wordForms": {
+          "noun": [{ "form": "development", "meaning": "sự phát triển" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The book examines the early development of land in the western territories."
+      }
+    },
+    {
+      "id": 669,
+      "targetLexeme": "implementation of a grid system",
+      "sourceContext": "...and the implementation of a grid system in 1811.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'thực thi/áp dụng' (implementation) 'hệ thống' (system) 'lưới/ô cờ' (grid) (cho đường phố)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌɪmplɪmenˈteɪʃən əv ə ɡrɪd ˈsɪstəm/",
+        "sentiment": "neutral",
+        "definitionEN": "The process of putting a street layout based on a pattern of parallel lines and right angles into effect",
+        "translationVI": "Việc áp dụng/triển khai hệ thống (đường) ô cờ",
+        "relatedCollocates": [
+          "implement (v)",
+          "grid system (n)",
+          "street grid"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "implementation", "meaning": "sự triển khai" },
+            { "form": "grid", "meaning": "lưới" }
+          ],
+          "verb": [{ "form": "implement", "meaning": "triển khai" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The implementation of a grid system made navigating the new city much easier."
+      }
+    },
+    {
+      "id": 670,
+      "targetLexeme": "land use",
+      "sourceContext": "Chapter three focuses on land use before the Civil War.",
+      "phase1Inference": {
+        "contextualGuessVI": "Việc 'sử dụng đất đai' (land use)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/lænd juːs/",
+        "sentiment": "neutral",
+        "definitionEN": "The way that land is used in a particular area (e.g., for farming, housing, industry)",
+        "translationVI": "(Việc) sử dụng đất",
+        "relatedCollocates": ["land use (patterns)", "zoning (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "land", "meaning": "đất" },
+            { "form": "use", "meaning": "việc sử dụng" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The city council is developing a new plan for land use in the downtown area."
+      }
+    },
+    {
+      "id": 671,
+      "targetLexeme": "informative and well researched",
+      "sourceContext": "Both chapters are informative and well researched...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Nhiều thông tin' (informative) 'và' (and) 'được nghiên cứu kỹ lưỡng' (well researched)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈfɔːmətɪv ənd wel rɪˈsɜːtʃt/",
+        "sentiment": "positive",
+        "definitionEN": "Providing useful information and based on careful, thorough investigation",
+        "translationVI": "Giàu thông tin và được nghiên cứu kỹ",
+        "relatedCollocates": [
+          "informative (adj)",
+          "well researched (adj)",
+          "thorough (adj)"
+        ],
+        "wordForms": {
+          "adjective": [
+            { "form": "informative", "meaning": "giàu thông tin" },
+            { "form": "well-researched", "meaning": "được nghiên cứu kỹ" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Her presentation was both informative and well researched."
+      }
+    },
+    {
+      "id": 672,
+      "targetLexeme": "set the stage for",
+      "sourceContext": "...and set the stage for the economic analysis that comes later...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Chuẩn bị/tạo tiền đề cho' (set the stage for) việc phân tích kinh tế"
+      },
+      "phase2Annotation": {
+        "phonetic": "/set ðə steɪdʒ fɔː/",
+        "sentiment": "neutral",
+        "definitionEN": "An idiom meaning to create the conditions or prepare the situation for something to happen",
+        "translationVI": "Tạo tiền đề cho, chuẩn bị cho",
+        "relatedCollocates": ["prepare (the way for)", "pave the way for"],
+        "wordForms": {
+          "verb": [{ "form": "set", "meaning": "đặt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The initial discoveries set the stage for a major scientific breakthrough."
+      }
+    },
+    {
+      "id": 673,
+      "targetLexeme": "economic analysis",
+      "sourceContext": "...for the economic analysis that comes later in the book.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'phân tích' (analysis) 'kinh tế' (economic)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈnɒmɪk əˈnæləsɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "The study and examination of an economy or economic systems",
+        "translationVI": "Phân tích kinh tế",
+        "relatedCollocates": ["economic (adj)", "analysis (n)", "analyze (v)"],
+        "wordForms": {
+          "noun": [
+            { "form": "economy", "meaning": "nền kinh tế" },
+            { "form": "analysis", "meaning": "sự phân tích" }
+          ],
+          "adjective": [{ "form": "economic", "meaning": "thuộc kinh tế" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The report provides a detailed economic analysis of the new policy."
+      }
+    },
+    {
+      "id": 674,
+      "targetLexeme": "expand upon his claim",
+      "sourceContext": "I would have liked Barr to expand upon his claim that...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Mở rộng/giải thích thêm' (expand upon) 'tuyên bố/nhận định' (his claim) 'của ông ấy' (his)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪkˈspænd əˈpɒn hɪz kleɪm/",
+        "sentiment": "neutral",
+        "definitionEN": "To give more details or speak/write at greater length about a statement or assertion",
+        "translationVI": "Mở rộng/giải thích thêm về tuyên bố của mình",
+        "relatedCollocates": [
+          "elaborate on (synonym)",
+          "make a claim",
+          "expand on"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "claim", "meaning": "tuyên bố" }],
+          "verb": [{ "form": "expand (upon)", "meaning": "mở rộng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Could you expand upon your claim that the data is flawed?"
+      }
+    },
+    {
+      "id": 675,
+      "targetLexeme": "tenements (n)",
+      "sourceContext": "...existing tenements* prevented skyscrapers in certain neighborhoods...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'khu nhà/nhà tập thể' (tenements) 'cũ nát/ổ chuột' (theo chú thích)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtenəmənts/",
+        "sentiment": "negative",
+        "definitionEN": "A multi-occupancy building of any sort, but particularly a run-down apartment building or slum building",
+        "translationVI": "Khu nhà ở/nhà tập thể (thường là cũ nát, khu ổ chuột)",
+        "relatedCollocates": [
+          "multi-occupancy building",
+          "run-down apartment",
+          "slum building"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "tenement", "meaning": "khu nhà tập thể" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many immigrants lived in crowded tenements on the Lower East Side."
+      }
+    },
+    {
+      "id": 676,
+      "targetLexeme": "certain neighborhoods",
+      "sourceContext": "...in certain neighborhoods because 'likely no skyscraper developer...'",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'khu dân cư' (neighborhoods) 'nhất định' (certain)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsɜːtn ˈneɪbəhʊdz/",
+        "sentiment": "neutral",
+        "definitionEN": "Specific districts or areas within a city",
+        "translationVI": "Các khu dân cư/khu vực nhất định",
+        "relatedCollocates": [
+          "in (a neighborhood)",
+          "a residential (neighborhood)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "neighborhood", "meaning": "khu dân cư" }],
+          "adjective": [{ "form": "certain", "meaning": "nhất định" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Property prices are extremely high in certain neighborhoods of the city."
+      }
+    },
+    {
+      "id": 677,
+      "targetLexeme": "slum clearance",
+      "sourceContext": "...was interested in performing the necessary 'slum clearance'.",
+      "phase1Inference": {
+        "contextualGuessVI": "Việc 'giải tỏa' (clearance) 'khu ổ chuột' (slum)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/slʌm ˈklɪərəns/",
+        "sentiment": "negative",
+        "definitionEN": "The act of removing or demolishing old, run-down buildings (slums) from an area, often to build new ones",
+        "translationVI": "Việc giải tỏa/phá dỡ khu ổ chuột",
+        "relatedCollocates": [
+          "slum (n)",
+          "clearance (n)",
+          "tenements (related)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "slum", "meaning": "khu ổ chuột" },
+            { "form": "clearance", "meaning": "sự giải tỏa" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The city's 'slum clearance' program in the 1960s is now controversial."
+      }
+    },
+    {
+      "id": 678,
+      "targetLexeme": "depth of bedrock",
+      "sourceContext": "...the claim that the depth of bedrock** was not a limiting factor...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Độ sâu' (depth) 'của' (of) 'đá gốc/đá nền' (bedrock)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/depθ əv ˈbedrɒk/",
+        "sentiment": "neutral",
+        "definitionEN": "How far down one must dig to reach the solid, hard rock that lies under the loose soil",
+        "translationVI": "Độ sâu của đá nền",
+        "relatedCollocates": ["bedrock (n)", "depth (n)", "solid rock"],
+        "wordForms": {
+          "noun": [
+            { "form": "depth", "meaning": "độ sâu" },
+            { "form": "bedrock", "meaning": "đá nền" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The depth of bedrock varies greatly across the island."
+      }
+    },
+    {
+      "id": 679,
+      "targetLexeme": "limiting factor",
+      "sourceContext": "...was not a limiting factor for developers...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'yếu tố' (factor) 'hạn chế/giới hạn' (limiting)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlɪmɪtɪŋ ˈfæktə/",
+        "sentiment": "negative",
+        "definitionEN": "A variable or condition that restricts or prevents the growth, abundance, or development of something",
+        "translationVI": "Yếu tố hạn chế/giới hạn",
+        "relatedCollocates": ["a constraint (n)", "limit (v/n)"],
+        "wordForms": {
+          "noun": [{ "form": "factor", "meaning": "yếu tố" }],
+          "adjective": [{ "form": "limiting", "meaning": "mang tính hạn chế" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Lack of water is the main limiting factor for agriculture in this desert region."
+      }
+    },
+    {
+      "id": 680,
+      "targetLexeme": "foundation costs",
+      "sourceContext": "...as foundation costs were a small fraction of the cost...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Chi phí' (costs) 'làm móng' (foundation)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/faʊnˈdeɪʃən kɒsts/",
+        "sentiment": "neutral",
+        "definitionEN": "The expenses associated with building the base of a structure, which supports the building",
+        "translationVI": "Chi phí làm móng (xây dựng)",
+        "relatedCollocates": ["construction costs", "foundation (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "foundation", "meaning": "móng" },
+            { "form": "cost", "meaning": "chi phí" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Due to the soft soil, the foundation costs for the new building will be very high."
+      }
+    },
+    {
+      "id": 681,
+      "targetLexeme": "a small fraction of",
+      "sourceContext": "...were a small fraction of the cost of development.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'phần nhỏ' (small fraction) 'của' (of) chi phí"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə smɔːl ˈfrækʃən əv/",
+        "sentiment": "neutral",
+        "definitionEN": "A very small part or amount of a whole",
+        "translationVI": "Một phần nhỏ của",
+        "relatedCollocates": ["a tiny (fraction)", "a fraction of (the price)"],
+        "wordForms": {
+          "noun": [{ "form": "fraction", "meaning": "phần" }],
+          "adjective": [{ "form": "small", "meaning": "nhỏ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company's profits are only a small fraction of what they were last year."
+      }
+    },
+    {
+      "id": 682,
+      "targetLexeme": "At first glance",
+      "sourceContext": "At first glance, it is not obvious why slum clearance...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Thoạt nhìn/nhìn thoáng qua' (At first glance)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ət fɜːst ɡlɑːns/",
+        "sentiment": "neutral",
+        "definitionEN": "An idiom meaning 'when you first look at or think about something'",
+        "translationVI": "Thoạt nhìn, mới nhìn qua",
+        "relatedCollocates": ["at a glance", "on first impression"],
+        "wordForms": {
+          "noun": [{ "form": "glance", "meaning": "cái nhìn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "At first glance, the problem seems simple, but it's actually very complex."
+      }
+    },
+    {
+      "id": 683,
+      "targetLexeme": "it is not obvious why",
+      "sourceContext": "...it is not obvious why slum clearance would be limiting...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Không rõ ràng/không dễ hiểu' (it is not obvious) 'tại sao' (why)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪt ɪz nɒt ˈɒbviəs waɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "It is not clear or easy to understand the reason for something",
+        "translationVI": "Không rõ/không dễ hiểu tại sao",
+        "relatedCollocates": ["not immediately clear", "obvious (adj)"],
+        "wordForms": {
+          "adjective": [{ "form": "obvious", "meaning": "rõ ràng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is not obvious why he decided to quit his job so suddenly."
+      }
+    },
+    {
+      "id": 684,
+      "targetLexeme": "multi-occupancy building",
+      "sourceContext": "*(footnote) a tenement: a multi-occupancy building of any sort...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'tòa nhà' (building) 'có nhiều người ở/nhiều hộ' (multi-occupancy)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌmʌlti ˈɒkjəpənsi ˈbɪldɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "A building that is occupied or lived in by multiple people or families (e.g., an apartment building)",
+        "translationVI": "Tòa nhà có nhiều hộ/nhiều người ở",
+        "relatedCollocates": [
+          "tenement (synonym)",
+          "apartment building (example)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "occupancy", "meaning": "sự cư ngụ" },
+            { "form": "building", "meaning": "tòa nhà" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The city has strict fire safety codes for multi-occupancy buildings."
+      }
+    },
+    {
+      "id": 685,
+      "targetLexeme": "run-down (adj)",
+      "sourceContext": "...a run-down apartment building or slum building",
+      "phase1Inference": {
+        "contextualGuessVI": "Một tòa nhà 'xuống cấp, tồi tàn' (run-down)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌrʌn ˈdaʊn/",
+        "sentiment": "negative",
+        "definitionEN": "In very bad condition; dilapidated",
+        "translationVI": "Xuống cấp, xập xệ, tồi tàn",
+        "relatedCollocates": [
+          "a run-down (area)",
+          "dilapidated (synonym)",
+          "in poor condition"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "run-down", "meaning": "xuống cấp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "They bought a run-down old house and spent years renovating it."
+      }
+    },
+    {
+      "id": 686,
+      "targetLexeme": "slum building",
+      "sourceContext": "...a run-down apartment building or slum building",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'tòa nhà' (building) 'trong khu ổ chuột' (slum)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/slʌm ˈbɪldɪŋ/",
+        "sentiment": "negative",
+        "definitionEN": "A building in a poor, crowded, and run-down urban area",
+        "translationVI": "Tòa nhà trong khu ổ chuột",
+        "relatedCollocates": [
+          "slum (n)",
+          "tenement (related)",
+          "run-down (adj)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "slum", "meaning": "khu ổ chuột" },
+            { "form": "building", "meaning": "tòa nhà" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The charity works to improve living conditions in slum buildings."
+      }
+    },
+    {
+      "id": 687,
+      "targetLexeme": "solid, hard rock",
+      "sourceContext": "**(footnote) bedrock: the solid, hard rock that lies under...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đá' (rock) 'cứng, đặc' (solid, hard)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsɒlɪd hɑːd rɒk/",
+        "sentiment": "neutral",
+        "definitionEN": "A description of rock that is firm, stable, and not soft or fragmented",
+        "translationVI": "Đá đặc, cứng",
+        "relatedCollocates": ["bedrock (synonym)", "solid (adj)", "hard (adj)"],
+        "wordForms": {
+          "noun": [{ "form": "rock", "meaning": "đá" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The miners had to blast through solid, hard rock."
+      }
+    },
+    {
+      "id": 688,
+      "targetLexeme": "a loose layer of soil",
+      "sourceContext": "...that lies under a loose layer of soil",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'lớp' (layer) 'đất' (of soil) 'mềm/xốp' (loose)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə luːs ˈleɪər əv sɔɪl/",
+        "sentiment": "neutral",
+        "definitionEN": "A level of soil that is not compacted or firm",
+        "translationVI": "Một lớp đất tơi xốp/mềm",
+        "relatedCollocates": [
+          "loose (soil)",
+          "a layer (of sth)",
+          "topsoil (related)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "layer", "meaning": "lớp" },
+            { "form": "soil", "meaning": "đất" }
+          ],
+          "adjective": [{ "form": "loose", "meaning": "lỏng, xốp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The seeds were planted in a loose layer of soil."
+      }
+    },
+    {
+      "id": 689,
+      "targetLexeme": "immigration (n)",
+      "sourceContext": "Chapter four focuses on immigration and the location of neighborhoods...",
+      "phase1Inference": {
+        "contextualGuessVI": "Tập trung vào 'nhập cư' (immigration) và vị trí các khu dân cư"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌɪmɪˈɡreɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "The process of people coming to live permanently in a foreign country",
+        "translationVI": "Sự/nạn nhập cư",
+        "relatedCollocates": [
+          "mass immigration",
+          "immigration (policy)",
+          "immigrant (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "immigration", "meaning": "sự nhập cư" },
+            { "form": "immigrant", "meaning": "người nhập cư" }
+          ],
+          "verb": [{ "form": "immigrate", "meaning": "nhập cư" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The city's culture has been shaped by waves of immigration."
+      }
+    },
+    {
+      "id": 690,
+      "targetLexeme": "primary immigrant enclaves",
+      "sourceContext": "...identifies four primary immigrant enclaves and analyzes their locations...",
+      "phase1Inference": {
+        "contextualGuessVI": "Bốn 'khu/vùng' (enclaves) 'nhập cư' (immigrant) 'chính' (primary)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpraɪməri ˈɪmɪɡrənt ˈenkleɪvz/",
+        "sentiment": "neutral",
+        "definitionEN": "The main areas or neighborhoods within a larger city that are inhabited chiefly by a particular ethnic or cultural group",
+        "translationVI": "Các khu vực/cộng đồng dân nhập cư chính",
+        "relatedCollocates": [
+          "ethnic enclaves",
+          "primary (adj)",
+          "enclave (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "immigrant", "meaning": "người nhập cư" },
+            { "form": "enclave", "meaning": "khu vực (bị bao bọc)" }
+          ],
+          "adjective": [{ "form": "primary", "meaning": "chính" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Chinatown and Little Italy are well-known ethnic enclaves in New York City."
+      }
+    },
+    {
+      "id": 691,
+      "targetLexeme": "in terms of (sth)",
+      "sourceContext": "...analyzes their locations in terms of the amenities available...",
+      "phase1Inference": {
+        "contextualGuessVI": "Phân tích vị trí 'dựa trên/về mặt' (in terms of) các 'tiện ích' (amenities)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn tɜːmz əv/",
+        "sentiment": "neutral",
+        "definitionEN": "With regard or respect to a particular aspect or subject",
+        "translationVI": "Về mặt, xét về mặt, dựa trên",
+        "relatedCollocates": ["in terms of (price)", "in terms of (quality)"],
+        "wordForms": {
+          "noun": [{ "form": "term", "meaning": "thuật ngữ, khía cạnh" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The two phones are very similar in terms of features and performance."
+      }
+    },
+    {
+      "id": 692,
+      "targetLexeme": "amenities (n)",
+      "sourceContext": "...in terms of the amenities available in the area.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'tiện nghi, tiện ích' (amenities) 'có sẵn' (available) trong khu vực"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈmiːnətiz/",
+        "sentiment": "positive",
+        "definitionEN": "Useful or desirable features or facilities of a place (e.g., parks, public transport, shops)",
+        "translationVI": "Các tiện nghi, tiện ích",
+        "relatedCollocates": [
+          "local amenities",
+          "basic amenities",
+          "facilities (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "amenity", "meaning": "tiện nghi" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The hotel has excellent amenities, including a pool and a fitness center."
+      }
+    },
+    {
+      "id": 693,
+      "targetLexeme": "valuable land",
+      "sourceContext": "...were located on the least valuable land, between the industries...",
+      "phase1Inference": {
+        "contextualGuessVI": "Khu 'đất' (land) 'ít' (least) 'giá trị' (valuable) 'nhất' (least)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈvæljuəbl lænd/",
+        "sentiment": "positive",
+        "definitionEN": "Land that has a high monetary or strategic worth",
+        "translationVI": "Đất đai có giá trị",
+        "relatedCollocates": [
+          "valuable (adj)",
+          "land (n)",
+          "high-value (land)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "land", "meaning": "đất" }],
+          "adjective": [{ "form": "valuable", "meaning": "có giá trị" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "That waterfront property is some of the most valuable land in the city."
+      }
+    },
+    {
+      "id": 694,
+      "targetLexeme": "waterfront (n)",
+      "sourceContext": "...industries located on the waterfront and the wealthy neighborhoods...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các ngành công nghiệp nằm ở 'bờ sông/bến cảng' (waterfront)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwɔːtəfrʌnt/",
+        "sentiment": "neutral",
+        "definitionEN": "A part of a town or city that is next to an area of water (such as a river or harbor)",
+        "translationVI": "Khu bờ sông, khu bến cảng",
+        "relatedCollocates": ["waterfront (development)", "on the waterfront"],
+        "wordForms": {
+          "noun": [{ "form": "waterfront", "meaning": "bờ sông/cảng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The old industrial waterfront is being redeveloped with new apartments and parks."
+      }
+    },
+    {
+      "id": 695,
+      "targetLexeme": "wealthy neighborhoods",
+      "sourceContext": "...and the wealthy neighborhoods bordering Central Park.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'khu' (neighborhoods) 'giàu có' (wealthy) 'giáp' (bordering) Công viên Trung tâm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwelθi ˈneɪbəhʊdz/",
+        "sentiment": "positive",
+        "definitionEN": "Areas in a city where rich people live",
+        "translationVI": "Các khu dân cư giàu có",
+        "relatedCollocates": [
+          "affluent (neighborhoods) (synonym)",
+          "poor neighborhoods (antonym)",
+          "bordering (v)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "wealth", "meaning": "sự giàu có" },
+            { "form": "neighborhood", "meaning": "khu dân cư" }
+          ],
+          "adjective": [{ "form": "wealthy", "meaning": "giàu có" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Beverly Hills is one of the most wealthy neighborhoods in the world."
+      }
+    },
+    {
+      "id": 696,
+      "targetLexeme": "economics of skyscraper height",
+      "sourceContext": "Part two... begins with a discussion of the economics of skyscraper height.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Các khía cạnh kinh tế' (economics) 'của' (of) 'chiều cao' (height) 'nhà chọc trời' (skyscraper)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈnɒmɪks əv ˈskaɪskreɪpə haɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "The financial principles, costs, and benefits related to how tall skyscrapers are built",
+        "translationVI": "Các khía cạnh kinh tế của chiều cao nhà chọc trời",
+        "relatedCollocates": ["economics (n)", "skyscraper (n)", "height (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "economics", "meaning": "kinh tế học" },
+            { "form": "skyscraper", "meaning": "nhà chọc trời" },
+            { "form": "height", "meaning": "chiều cao" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The professor gave a lecture on the economics of skyscraper height, focusing on land value."
+      }
+    },
+    {
+      "id": 697,
+      "targetLexeme": "distinguishes between",
+      "sourceContext": "Barr distinguishes between engineering height, economic height, and developer height...",
+      "phase1Inference": {
+        "contextualGuessVI": "Barr 'phân biệt giữa' (distinguishes between) chiều cao kỹ thuật, chiều cao kinh tế.."
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈstɪŋɡwɪʃɪz bɪˈtwiːn/",
+        "sentiment": "neutral",
+        "definitionEN": "To recognize or point out the difference between two or more things",
+        "translationVI": "Phân biệt giữa (A và B)",
+        "relatedCollocates": [
+          "differentiate between (synonym)",
+          "distinguish (A from B)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "distinction", "meaning": "sự khác biệt" }],
+          "verb": [{ "form": "distinguish", "meaning": "phân biệt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is important to distinguish between legal and ethical obligations."
+      }
+    },
+    {
+      "id": 698,
+      "targetLexeme": "engineering height",
+      "sourceContext": "...engineering height is the tallest building that can be safely made...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chiều cao 'kỹ thuật' (engineering) (chiều cao tối đa có thể xây dựng an toàn)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌendʒɪˈnɪərɪŋ haɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "The maximum height a building can be constructed safely, based on technology and materials",
+        "translationVI": "Chiều cao (tối đa về) kỹ thuật",
+        "relatedCollocates": [
+          "economic height",
+          "developer height",
+          "safely made"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "engineering", "meaning": "kỹ thuật" },
+            { "form": "height", "meaning": "chiều cao" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The engineering height of buildings has increased dramatically with new materials."
+      }
+    },
+    {
+      "id": 699,
+      "targetLexeme": "economic height",
+      "sourceContext": "...economic height is the height that is most efficient from society's point of view...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chiều cao 'kinh tế' (economic) (chiều cao hiệu quả nhất cho xã hội)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈnɒmɪk haɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "The height that is most efficient or beneficial for society as a whole",
+        "translationVI": "Chiều cao (tối ưu về) kinh tế (cho xã hội)",
+        "relatedCollocates": [
+          "engineering height",
+          "developer height",
+          "society's point of view"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "height", "meaning": "chiều cao" },
+            { "form": "economy", "meaning": "kinh tế" }
+          ],
+          "adjective": [{ "form": "economic", "meaning": "thuộc kinh tế" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The economic height of a building balances construction costs against the value of the extra space."
+      }
+    },
+    {
+      "id": 700,
+      "targetLexeme": "society's point of view",
+      "sourceContext": "...from society's point of view...",
+      "phase1Inference": {
+        "contextualGuessVI": "Từ 'góc nhìn' (point of view) 'của xã hội' (society's)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/səˈsaɪətiz pɔɪnt əv vjuː/",
+        "sentiment": "neutral",
+        "definitionEN": "From the perspective or standpoint of the community or public as a whole",
+        "translationVI": "Từ góc nhìn/quan điểm của xã hội",
+        "relatedCollocates": [
+          "from (sb's) point of view",
+          "perspective (synonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "society", "meaning": "xã hội" },
+            { "form": "point of view", "meaning": "quan điểm" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "From society's point of view, investing in education benefits everyone."
+      }
+    },
+    {
+      "id": 701,
+      "targetLexeme": "developer height",
+      "sourceContext": "...and developer height is the actual height chosen by the developer...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chiều cao 'của nhà phát triển' (developer) (chiều cao thực tế họ chọn)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈveləpə haɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "The height that the property developer actually chooses, often to maximize profit",
+        "translationVI": "Chiều cao (theo) chủ đầu tư/nhà phát triển",
+        "relatedCollocates": [
+          "engineering height",
+          "economic height",
+          "return on investment"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "developer", "meaning": "nhà phát triển" },
+            { "form": "height", "meaning": "chiều cao" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The developer height was lower than the maximum engineering height allowed."
+      }
+    },
+    {
+      "id": 702,
+      "targetLexeme": "maximize return on investment",
+      "sourceContext": "...attempting to maximize return on investment.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cố gắng 'tối đa hóa' (maximize) 'lợi tức đầu tư/lợi nhuận' (return on investment)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmæksɪmaɪz rɪˈtɜːn ɒn ɪnˈvestmənt/",
+        "sentiment": "positive",
+        "definitionEN": "To get the largest possible profit from the money, time, and effort put into a project",
+        "translationVI": "Tối đa hóa lợi tức/lợi nhuận đầu tư (ROI)",
+        "relatedCollocates": [
+          "maximize (profits)",
+          "return on investment (ROI)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "return", "meaning": "lợi nhuận" },
+            { "form": "investment", "meaning": "sự đầu tư" }
+          ],
+          "verb": [{ "form": "maximize", "meaning": "tối đa hóa" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company's main goal is to maximize return on investment for its shareholders."
+      }
+    },
+    {
+      "id": 703,
+      "targetLexeme": "technological advances",
+      "sourceContext": "...discussion of the technological advances that led to the construction of skyscrapers.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'tiến bộ' (advances) 'công nghệ' (technological)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌteknəˈlɒdʒɪkl ədˈvɑːnsɪz/",
+        "sentiment": "positive",
+        "definitionEN": "Developments or improvements in technology",
+        "translationVI": "Các tiến bộ công nghệ",
+        "relatedCollocates": [
+          "scientific advances",
+          "technological (innovation)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "technology", "meaning": "công nghệ" },
+            { "form": "advance", "meaning": "tiến bộ" }
+          ],
+          "adjective": [
+            { "form": "technological", "meaning": "thuộc công nghệ" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Technological advances in medicine have saved millions of lives."
+      }
+    },
+    {
+      "id": 704,
+      "targetLexeme": "skeletal frames",
+      "sourceContext": "...the introduction of iron and steel skeletal frames made...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'khung' (frames) 'xương' (skeletal) (khung chịu lực) bằng sắt và thép"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈskelətl freɪmz/",
+        "sentiment": "neutral",
+        "definitionEN": "The supporting framework (like a skeleton) of a building, made of materials like iron and steel, which bears the building's weight",
+        "translationVI": "Hệ khung xương (chịu lực)",
+        "relatedCollocates": ["steel frames", "load-bearing (walls)"],
+        "wordForms": {
+          "noun": [
+            { "form": "skeleton", "meaning": "bộ xương" },
+            { "form": "frame", "meaning": "khung" }
+          ],
+          "adjective": [{ "form": "skeletal", "meaning": "thuộc bộ xương" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Modern skyscrapers are built using steel skeletal frames."
+      }
+    },
+    {
+      "id": 705,
+      "targetLexeme": "load-bearing walls",
+      "sourceContext": "...thick, load-bearing walls unnecessary, expanding the usable square footage...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'bức tường' (walls) 'chịu lực' (load-bearing) 'dày' (thick)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈləʊd ˌbeərɪŋ wɔːlz/",
+        "sentiment": "neutral",
+        "definitionEN": "Walls that support the weight of the structure above them (e.g., the roof or upper floors)",
+        "translationVI": "Tường chịu lực",
+        "relatedCollocates": [
+          "skeletal frames (antonym concept)",
+          "support (v)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "load", "meaning": "tải trọng" },
+            { "form": "wall", "meaning": "tường" }
+          ],
+          "adjective": [{ "form": "load-bearing", "meaning": "chịu lực" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In old buildings, the thick, load-bearing walls cannot be removed."
+      }
+    },
+    {
+      "id": 706,
+      "targetLexeme": "usable square footage",
+      "sourceContext": "...expanding the usable square footage of buildings...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Diện tích' (square footage) 'có thể sử dụng' (usable)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈjuːzəbl skweə ˈfʊtɪdʒ/",
+        "sentiment": "positive",
+        "definitionEN": "The amount of floor space (measured in square feet) that is available to be used",
+        "translationVI": "Diện tích sàn sử dụng được",
+        "relatedCollocates": [
+          "square footage (n)",
+          "usable (space)",
+          "floor area"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "footage", "meaning": "diện tích (tính bằng feet)" }
+          ],
+          "adjective": [{ "form": "usable", "meaning": "có thể dùng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Removing the load-bearing walls significantly increased the usable square footage."
+      }
+    },
+    {
+      "id": 707,
+      "targetLexeme": "natural light",
+      "sourceContext": "...and increasing the use of windows and availability of natural light.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'sẵn có' (availability) 'của' (of) 'ánh sáng tự nhiên' (natural light)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈnætʃrəl laɪt/",
+        "sentiment": "positive",
+        "definitionEN": "Light that comes from the sun (as opposed to artificial light from bulbs)",
+        "translationVI": "Ánh sáng tự nhiên",
+        "relatedCollocates": [
+          "artificial light (antonym)",
+          "sunlight (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "light", "meaning": "ánh sáng" }],
+          "adjective": [{ "form": "natural", "meaning": "tự nhiên" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The large windows provide plenty of natural light, reducing electricity costs."
+      }
+    },
+    {
+      "id": 708,
+      "targetLexeme": "presents data on",
+      "sourceContext": "Chapter six then presents data on building height throughout the 20th century...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Trình bày' (presents) 'dữ liệu' (data) 'về' (on) chiều cao tòa nhà"
+      },
+      "phase2Annotation": {
+        "phonetic": "/prɪˈzents ˈdeɪtə ɒn/",
+        "sentiment": "neutral",
+        "definitionEN": "To show or offer information (data) for others to consider",
+        "translationVI": "Trình bày/đưa ra dữ liệu về",
+        "relatedCollocates": [
+          "show (data)",
+          "data (on sth)",
+          "present (findings)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "data", "meaning": "dữ liệu" },
+            { "form": "presentation", "meaning": "bài thuyết trình" }
+          ],
+          "verb": [{ "form": "present", "meaning": "trình bày" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The report presents data on sales trends over the last five years."
+      }
+    },
+    {
+      "id": 709,
+      "targetLexeme": "predict building construction",
+      "sourceContext": "...and uses regression analysis to 'predict' building construction.",
+      "phase1Inference": {
+        "contextualGuessVI": "Dùng phân tích hồi quy để 'dự đoán' (predict) 'việc xây dựng' (building construction)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/prɪˈdɪkt ˈbɪldɪŋ kənˈstrʌkʃn/",
+        "sentiment": "neutral",
+        "definitionEN": "To forecast or estimate future activity in the building industry",
+        "translationVI": "Dự đoán việc xây dựng",
+        "relatedCollocates": [
+          "predict (v)",
+          "prediction (n)",
+          "construction (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "construction", "meaning": "sự xây dựng" },
+            { "form": "prediction", "meaning": "sự dự đoán" }
+          ],
+          "verb": [{ "form": "predict", "meaning": "dự đoán" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Economists use various models to predict building construction trends."
+      }
+    },
+    {
+      "id": 710,
+      "targetLexeme": "technical (adj)",
+      "sourceContext": "While less technical than the research paper... it is probably more technical than would be preferred...",
+      "phase1Inference": {
+        "contextualGuessVI": "Mang tính 'chuyên môn/kỹ thuật' (technical) 'hơn' (more) 'mức' (than) 'mong muốn' (would be preferred)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈteknɪkl/",
+        "sentiment": "neutral",
+        "definitionEN": "Relating to the complex, practical, and mechanical details of a subject or machine",
+        "translationVI": "(Mang tính) kỹ thuật, chuyên môn",
+        "relatedCollocates": [
+          "highly technical",
+          "technical (details)",
+          "general (antonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "technique", "meaning": "kỹ thuật" },
+            { "form": "technicality", "meaning": "tính chuyên môn" }
+          ],
+          "adjective": [{ "form": "technical", "meaning": "thuộc kỹ thuật" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The instruction manual was too technical for me to understand."
+      }
+    },
+    {
+      "id": 711,
+      "targetLexeme": "general audience",
+      "sourceContext": "...than would be preferred by a general audience.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'khán giả/độc giả' (audience) 'đại chúng/phổ thông' (general)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdʒenrəl ˈɔːdiəns/",
+        "sentiment": "neutral",
+        "definitionEN": "The ordinary people who are reading a book or watching a show, not experts or specialists",
+        "translationVI": "Khán giả/độc giả đại chúng/phổ thông",
+        "relatedCollocates": [
+          "specialist audience (antonym)",
+          "the general public"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "audience", "meaning": "khán giả" }],
+          "adjective": [{ "form": "general", "meaning": "chung, phổ thông" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The book was written for a general audience, not for scientists."
+      }
+    },
+    {
+      "id": 712,
+      "targetLexeme": "tackles (v)",
+      "sourceContext": "Chapter seven tackles the 'bedrock myth', the assumption that...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chương 7 'giải quyết/xử lý' (tackles) 'huyền thoại đá nền' (bedrock myth)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtæklz/",
+        "sentiment": "neutral",
+        "definitionEN": "To make a determined effort to deal with a difficult problem or task",
+        "translationVI": "Giải quyết, xử lý (một vấn đề khó)",
+        "relatedCollocates": [
+          "tackle (a problem)",
+          "address (an issue)",
+          "deal with (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "tackle", "meaning": "cú xử lý" }],
+          "verb": [{ "form": "tackle", "meaning": "giải quyết" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government needs to tackle the problem of rising unemployment."
+      }
+    },
+    {
+      "id": 713,
+      "targetLexeme": "assumption (n)",
+      "sourceContext": "...the 'bedrock myth', the assumption that the absence of bedrock...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Giả định/quan niệm' (assumption) 'rằng' (that) 'sự vắng mặt' (absence) 'của đá nền' (of bedrock).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈsʌmpʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "A thing that is accepted as true or as certain to happen, without proof",
+        "translationVI": "Giả định, quan niệm (cho là đúng)",
+        "relatedCollocates": ["make an assumption", "a false assumption"],
+        "wordForms": {
+          "noun": [{ "form": "assumption", "meaning": "giả định" }],
+          "verb": [{ "form": "assume", "meaning": "cho rằng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We are working on the assumption that the project will be completed by Friday."
+      }
+    },
+    {
+      "id": 714,
+      "targetLexeme": "absence of (sth)",
+      "sourceContext": "...the assumption that the absence of bedrock close to the surface...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'vắng mặt/thiếu' (absence) 'của' (of) đá nền"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈæbsəns əv/",
+        "sentiment": "negative",
+        "definitionEN": "The state of not existing or not being present",
+        "translationVI": "Sự vắng mặt, sự thiếu hụt",
+        "relatedCollocates": [
+          "lack of (synonym)",
+          "in the absence of",
+          "presence (antonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "absence", "meaning": "sự vắng mặt" }],
+          "adjective": [{ "form": "absent", "meaning": "vắng mặt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The absence of rain for two months caused a severe drought."
+      }
+    },
+    {
+      "id": 715,
+      "targetLexeme": "prohibitively (adv)",
+      "sourceContext": "...costs were neither prohibitively high nor were they large...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chi phí 'không' (neither) 'cao' (high) 'một cách cấm đoán/quá mức' (prohibitively)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/prəˈhɪbətɪvli/",
+        "sentiment": "negative",
+        "definitionEN": "To an extent that prevents something from being done or bought, usually because it is too expensive",
+        "translationVI": "(Cao) đến mức không thể chấp nhận/mua được, quá đắt",
+        "relatedCollocates": [
+          "prohibitively (expensive)",
+          "prohibitive (cost)"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "prohibitive", "meaning": "quá đắt" }],
+          "adverb": [{ "form": "prohibitively", "meaning": "quá đắt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The cost of housing in the city center is prohibitively expensive for most people."
+      }
+    },
+    {
+      "id": 716,
+      "targetLexeme": "large compared to",
+      "sourceContext": "...nor were they large compared to the overall cost of building...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cũng 'không' (nor) 'lớn' (large) 'so với' (compared to) tổng chi phí"
+      },
+      "phase2Annotation": {
+        "phonetic": "/lɑːdʒ kəmˈpeəd tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "Big in relation or proportion to something else",
+        "translationVI": "Lớn/đáng kể so với",
+        "relatedCollocates": ["small compared to", "in comparison with"],
+        "wordForms": {
+          "adjective": [{ "form": "large", "meaning": "lớn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His salary is large compared to mine."
+      }
+    },
+    {
+      "id": 717,
+      "targetLexeme": "overall cost",
+      "sourceContext": "...compared to the overall cost of building a skyscraper.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Tổng' (overall) 'chi phí' (cost)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈəʊvərɔːl kɒst/",
+        "sentiment": "neutral",
+        "definitionEN": "The total amount of money needed for a particular project or activity",
+        "translationVI": "Tổng chi phí",
+        "relatedCollocates": ["total cost (synonym)", "the overall (picture)"],
+        "wordForms": {
+          "noun": [{ "form": "cost", "meaning": "chi phí" }],
+          "adjective": [{ "form": "overall", "meaning": "tổng thể" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The overall cost of the project was much higher than originally estimated."
+      }
+    },
+    {
+      "id": 718,
+      "targetLexeme": "caissons (n)",
+      "sourceContext": "He describes the use of caissons, which enable workers to dig down...",
+      "phase1Inference": {
+        "contextualGuessVI": "Việc sử dụng 'giếng chìm/thùng lặn' (caissons) (một thiết bị xây dựng)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkeɪsənz/",
+        "sentiment": "neutral",
+        "definitionEN": "A large watertight chamber, open at the bottom, from which water is kept out by air pressure and in which construction work may be carried out under water",
+        "translationVI": "Giếng chìm, thùng lặn (xây dựng)",
+        "relatedCollocates": ["dig down", "water table", "bedrock"],
+        "wordForms": {
+          "noun": [{ "form": "caisson", "meaning": "giếng chìm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Building the bridge's foundations required the use of caissons deep below the riverbed."
+      }
+    },
+    {
+      "id": 719,
+      "targetLexeme": "considerable distances",
+      "sourceContext": "...to dig down for considerable distances, often below the water table...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đào xuống 'khoảng cách' (distances) 'đáng kể' (considerable)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kənˈsɪdərəbl ˈdɪstənsɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "A long way down; a significant depth",
+        "translationVI": "Những khoảng cách/độ sâu đáng kể",
+        "relatedCollocates": [
+          "a considerable (amount)",
+          "significant (distances)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "distance", "meaning": "khoảng cách" }],
+          "adjective": [{ "form": "considerable", "meaning": "đáng kể" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The sound can be heard over considerable distances."
+      }
+    },
+    {
+      "id": 720,
+      "targetLexeme": "water table",
+      "sourceContext": "...often below the water table, until they reach bedrock.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thường bên dưới 'mực nước ngầm' (water table)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwɔːtə ˈteɪbl/",
+        "sentiment": "neutral",
+        "definitionEN": "The level below the ground at which the soil is saturated with water",
+        "translationVI": "Mực nước ngầm",
+        "relatedCollocates": ["below (the water table)", "groundwater (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "water", "meaning": "nước" },
+            { "form": "table", "meaning": "bảng" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After heavy rain, the water table rises."
+      }
+    },
+    {
+      "id": 721,
+      "targetLexeme": "thorough (adj)",
+      "sourceContext": "Barr's thorough technological history discusses not only how...",
+      "phase1Inference": {
+        "contextualGuessVI": "Lịch sử công nghệ 'kỹ lưỡng, thấu đáo' (thorough) của Barr"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈθʌrə/",
+        "sentiment": "positive",
+        "definitionEN": "Complete with regard to every detail; not superficial",
+        "translationVI": "Kỹ lưỡng, thấu đáo, cặn kẽ",
+        "relatedCollocates": [
+          "a thorough (analysis)",
+          "a thorough (investigation)",
+          "detailed (synonym)"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "thorough", "meaning": "kỹ lưỡng" }],
+          "adverb": [{ "form": "thoroughly", "meaning": "một cách kỹ lưỡng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The police conducted a thorough search of the area."
+      }
+    },
+    {
+      "id": 722,
+      "targetLexeme": "empirical research papers",
+      "sourceContext": "...references empirical research papers, it is a relatively easy read.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trích dẫn các 'bài báo/nghiên cứu' (research papers) 'thực nghiệm' (empirical)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪmˈpɪrɪkl rɪˈsɜːtʃ ˈpeɪpəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Academic articles that are based on observation, experience, or experiment rather than just theory",
+        "translationVI": "Các bài báo/công trình nghiên cứu thực nghiệm",
+        "relatedCollocates": [
+          "empirical (evidence)",
+          "empirical (study)",
+          "research papers (n)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "research", "meaning": "nghiên cứu" }],
+          "adjective": [{ "form": "empirical", "meaning": "thực nghiệm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Her conclusions are supported by data from several empirical research papers."
+      }
+    },
+    {
+      "id": 723,
+      "targetLexeme": "relatively (adv)",
+      "sourceContext": "...it is a relatively easy read.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một bài đọc 'tương đối' (relatively) 'dễ' (easy)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈrelətɪvli/",
+        "sentiment": "neutral",
+        "definitionEN": "In relation, comparison, or proportion to something else; quite",
+        "translationVI": "Tương đối, khá là",
+        "relatedCollocates": [
+          "relatively (easy)",
+          "relatively (new)",
+          "comparatively (synonym)"
+        ],
+        "wordForms": {
+          "adjective": [{ "form": "relative", "meaning": "tương đối" }],
+          "adverb": [{ "form": "relatively", "meaning": "tương đối" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The exam was relatively easy, considering how difficult the course is."
+      }
+    },
+    {
+      "id": 724,
+      "targetLexeme": "lengthy (adj)",
+      "sourceContext": "Chapters eight and nine contain lengthy discussions of urban economic theory...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'thảo luận' (discussions) 'dài dòng' (lengthy)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈleŋθi/",
+        "sentiment": "negative",
+        "definitionEN": "Continuing for a long time; very long",
+        "translationVI": "Dài dòng, kéo dài",
+        "relatedCollocates": [
+          "a lengthy (process)",
+          "a lengthy (delay)",
+          "long (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "length", "meaning": "độ dài" }],
+          "adjective": [{ "form": "lengthy", "meaning": "dài dòng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After a lengthy debate, the committee finally reached a decision."
+      }
+    },
+    {
+      "id": 725,
+      "targetLexeme": "urban economic theory",
+      "sourceContext": "...lengthy discussions of urban economic theory that may serve as...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Lý thuyết' (theory) 'kinh tế' (economic) 'đô thị' (urban)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɜːbən ˌiːkəˈnɒmɪk ˈθɪəri/",
+        "sentiment": "neutral",
+        "definitionEN": "The academic study of the economy of cities, including topics like location, land use, and housing",
+        "translationVI": "Lý thuyết kinh tế đô thị",
+        "relatedCollocates": ["urban (adj)", "economic (adj)", "theory (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "urbanism", "meaning": "ngành đô thị học" },
+            { "form": "economics", "meaning": "kinh tế học" },
+            { "form": "theory", "meaning": "lý thuyết" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Urban economic theory helps explain why cities exist and how they grow."
+      }
+    },
+    {
+      "id": 726,
+      "targetLexeme": "serve as a distraction",
+      "sourceContext": "...that may serve as a distraction to readers primarily interested in...",
+      "phase1Inference": {
+        "contextualGuessVI": "Có thể 'đóng vai trò như' (serve as) 'một sự xao lãng/lạc đề' (a distraction)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/sɜːv əz ə dɪˈstrækʃən/",
+        "sentiment": "negative",
+        "definitionEN": "To act as something that prevents someone from giving their full attention to the main subject",
+        "translationVI": "Gây xao lãng, làm lạc đề",
+        "relatedCollocates": [
+          "a distraction (from sth)",
+          "distract (v)",
+          "serve as (sth)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "distraction", "meaning": "sự xao lãng" }],
+          "verb": [{ "form": "distract", "meaning": "làm xao lãng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His constant questions served as a distraction from the important meeting."
+      }
+    },
+    {
+      "id": 727,
+      "targetLexeme": "primarily interested in",
+      "sourceContext": "...readers primarily interested in the New York...",
+      "phase1Inference": {
+        "contextualGuessVI": "Độc giả 'quan tâm' (interested in) 'chủ yếu' (primarily) 'đến' (in).."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpraɪmərəli ˈɪntrəstɪd ɪn/",
+        "sentiment": "neutral",
+        "definitionEN": "Mainly focused on or wanting to know about a specific topic",
+        "translationVI": "Quan tâm chủ yếu đến",
+        "relatedCollocates": ["mainly (interested)", "interested in (sth)"],
+        "wordForms": {
+          "adjective": [{ "form": "interested", "meaning": "quan tâm" }],
+          "adverb": [{ "form": "primarily", "meaning": "chủ yếu" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I am primarily interested in modern art, but I appreciate classical painting too."
+      }
+    },
+    {
+      "id": 728,
+      "targetLexeme": "well-suited for",
+      "sourceContext": "However, they would be well-suited for undergraduates learning about...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sẽ 'rất phù hợp' (well-suited) 'cho' (for) 'sinh viên đại học' (undergraduates)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wel ˈsuːtɪd fɔː/",
+        "sentiment": "positive",
+        "definitionEN": "Very appropriate or fitting for a particular person, purpose, or situation",
+        "translationVI": "Rất phù hợp, rất thích hợp cho",
+        "relatedCollocates": ["suitable for (synonym)", "ill-suited (antonym)"],
+        "wordForms": {
+          "adjective": [{ "form": "well-suited", "meaning": "phù hợp" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "This textbook is well-suited for beginners."
+      }
+    },
+    {
+      "id": 729,
+      "targetLexeme": "undergraduates (n)",
+      "sourceContext": "...well-suited for undergraduates learning about the economics of cities.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Sinh viên đại học' (undergraduates) (chưa tốt nghiệp)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌʌndəˈɡrædʒuəts/",
+        "sentiment": "neutral",
+        "definitionEN": "A university student who has not yet taken their first degree",
+        "translationVI": "Sinh viên đại học (chưa tốt nghiệp)",
+        "relatedCollocates": ["graduates (antonym)", "students (n)"],
+        "wordForms": {
+          "noun": [{ "form": "undergraduate", "meaning": "sinh viên ĐH" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The course is open to both undergraduates and graduate students."
+      }
+    },
+    {
+      "id": 730,
+      "targetLexeme": "primary explanations",
+      "sourceContext": "...considers two of the primary explanations for the building boom...",
+      "phase1Inference": {
+        "contextualGuessVI": "Hai trong số các 'lời giải thích' (explanations) 'chính' (primary)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpraɪməri ˌekspləˈneɪʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "The main or most important reasons given for why something happened",
+        "translationVI": "Các lời giải thích/lý do chính",
+        "relatedCollocates": [
+          "main (explanations)",
+          "primary (reason)",
+          "explanation (for sth)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "explanation", "meaning": "lời giải thích" }],
+          "adjective": [{ "form": "primary", "meaning": "chính" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There are two primary explanations for the company's success."
+      }
+    },
+    {
+      "id": 731,
+      "targetLexeme": "building boom",
+      "sourceContext": "...for the building boom of the 1920s – the first being exuberance...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự 'bùng nổ' (boom) 'xây dựng' (building) của những năm 1920"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbɪldɪŋ buːm/",
+        "sentiment": "neutral",
+        "definitionEN": "A period of rapid growth and increased activity in the construction industry",
+        "translationVI": "Sự bùng nổ xây dựng",
+        "relatedCollocates": ["construction boom (synonym)", "economic boom"],
+        "wordForms": {
+          "noun": [
+            { "form": "building", "meaning": "việc xây dựng" },
+            { "form": "boom", "meaning": "sự bùng nổ" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The city is experiencing a building boom, with new towers appearing everywhere."
+      }
+    },
+    {
+      "id": 732,
+      "targetLexeme": "exuberance (n)",
+      "sourceContext": "...the first being exuberance, and the second being financing.",
+      "phase1Inference": {
+        "contextualGuessVI": "Lý do đầu tiên là 'sự hưng phấn/phấn khích' (exuberance)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪɡˈzjuːbərəns/",
+        "sentiment": "neutral",
+        "definitionEN": "The quality of being full of energy, excitement, and cheerfulness; (in economics) excessive optimism or confidence",
+        "translationVI": "Sự hưng phấn, sự phấn khích (thái quá)",
+        "relatedCollocates": ["irrational exuberance (econ.)", "optimism (n)"],
+        "wordForms": {
+          "noun": [{ "form": "exuberance", "meaning": "sự hưng phấn" }],
+          "adjective": [{ "form": "exuberant", "meaning": "hưng phấn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The stock market crash was preceded by a period of irrational exuberance."
+      }
+    },
+    {
+      "id": 733,
+      "targetLexeme": "financing (n)",
+      "sourceContext": "...and the second being financing.",
+      "phase1Inference": {
+        "contextualGuessVI": "Lý do thứ hai là 'việc cấp vốn/tài chính' (financing)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfaɪnænsɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "The act of providing money (capital) for a project or activity",
+        "translationVI": "(Sự/nguồn) tài chính, việc cấp vốn",
+        "relatedCollocates": ["finance (n/v)", "funding (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "financing", "meaning": "sự cấp vốn" },
+            { "form": "finance", "meaning": "tài chính" }
+          ],
+          "verb": [{ "form": "finance", "meaning": "cấp vốn" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "They are seeking financing for their new business venture."
+      }
+    },
+    {
+      "id": 734,
+      "targetLexeme": "assess the viability of",
+      "sourceContext": "He uses data to assess the viability of these two explanations...",
+      "phase1Inference": {
+        "contextualGuessVI": "Ông dùng dữ liệu để 'đánh giá' (assess) 'tính khả thi/hợp lý' (the viability) 'của' (of) hai lời giải thích"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈses ðə ˌvaɪəˈbɪləti əv/",
+        "sentiment": "neutral",
+        "definitionEN": "To evaluate or estimate the ability of something (like an explanation or plan) to work successfully or be valid",
+        "translationVI": "Đánh giá tính khả thi/hợp lý của",
+        "relatedCollocates": [
+          "assess (v)",
+          "viability (n)",
+          "evaluate (synonym)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "assessment", "meaning": "sự đánh giá" },
+            { "form": "viability", "meaning": "tính khả thi" }
+          ],
+          "verb": [{ "form": "assess", "meaning": "đánh giá" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We need to assess the viability of this project before we invest any more money."
+      }
+    },
+    {
+      "id": 735,
+      "targetLexeme": "supply and demand factors",
+      "sourceContext": "...and finds that supply and demand factors explain much of the development...",
+      "phase1Inference": {
+        "contextualGuessVI": "Các 'yếu tố' (factors) 'cung' (supply) 'và' (and) 'cầu' (demand)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/səˈplaɪ ənd dɪˈmɑːnd ˈfæktəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Economic forces related to the availability of a product (supply) and the desire of buyers for it (demand)",
+        "translationVI": "Các yếu tố cung và cầu",
+        "relatedCollocates": ["supply (n)", "demand (n)", "economic factors"],
+        "wordForms": {
+          "noun": [
+            { "form": "supply", "meaning": "cung" },
+            { "form": "demand", "meaning": "cầu" },
+            { "form": "factor", "meaning": "yếu tố" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The price of oil is determined by global supply and demand factors."
+      }
+    },
+    {
+      "id": 736,
+      "targetLexeme": "cheap credit",
+      "sourceContext": "...though it enabled the boom, cheap credit was not, he argues, the primary cause.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Tín dụng' (credit) 'giá rẻ' (cheap) (vay tiền dễ/lãi suất thấp)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tʃiːp ˈkredɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "Money that can be borrowed at a low interest rate, making it easy for people or companies to get loans",
+        "translationVI": "Tín dụng giá rẻ",
+        "relatedCollocates": [
+          "easy credit",
+          "low interest rates",
+          "financing (related)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "credit", "meaning": "tín dụng" }],
+          "adjective": [{ "form": "cheap", "meaning": "rẻ" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The housing bubble was fueled by years of cheap credit."
+      }
+    },
+    {
+      "id": 737,
+      "targetLexeme": "the primary cause",
+      "sourceContext": "...was not, he argues, the primary cause.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không phải là 'nguyên nhân' (cause) 'chính' (primary)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈpraɪməri kɔːz/",
+        "sentiment": "neutral",
+        "definitionEN": "The main or most important reason why something happens",
+        "translationVI": "Nguyên nhân chính/chủ yếu",
+        "relatedCollocates": ["the main cause (synonym)", "the root cause"],
+        "wordForms": {
+          "noun": [{ "form": "cause", "meaning": "nguyên nhân" }],
+          "adjective": [{ "form": "primary", "meaning": "chính" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Driver error was found to be the primary cause of the accident."
+      }
+    },
+    {
+      "id": 738,
+      "targetLexeme": "empirical papers",
+      "sourceContext": "...discusses another of his empirical papers that estimates...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một 'bài báo/nghiên cứu' (papers) 'thực nghiệm' (empirical) 'khác' (another) 'của ông' (his)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪmˈpɪrɪkl ˈpeɪpəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Academic articles based on data, observation, or experiment",
+        "translationVI": "Các bài báo/công trình thực nghiệm",
+        "relatedCollocates": [
+          "empirical (research)",
+          "research papers (synonym)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "paper", "meaning": "bài báo" }],
+          "adjective": [{ "form": "empirical", "meaning": "thực nghiệm" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His theory is backed up by several empirical papers."
+      }
+    },
+    {
+      "id": 739,
+      "targetLexeme": "estimates (v)",
+      "sourceContext": "...that estimates Manhattan land values from the mid-19th century to...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một bài báo 'ước tính' (estimates) 'giá trị' (values) 'đất' (land) Manhattan"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈestɪmeɪts/",
+        "sentiment": "neutral",
+        "definitionEN": "To judge or calculate the approximate cost, size, or value of something",
+        "translationVI": "Ước tính",
+        "relatedCollocates": ["estimate (n)", "calculate (v)"],
+        "wordForms": {
+          "noun": [{ "form": "estimate", "meaning": "bản ước tính" }],
+          "verb": [{ "form": "estimate", "meaning": "ước tính" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The expert estimates the painting is worth over a million dollars."
+      }
+    },
+    {
+      "id": 740,
+      "targetLexeme": "land values",
+      "sourceContext": "...estimates Manhattan land values...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Giá trị' (values) 'đất đai' (land)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/lænd ˈvæljuːz/",
+        "sentiment": "neutral",
+        "definitionEN": "The monetary worth of a piece of land",
+        "translationVI": "Giá trị đất, giá đất",
+        "relatedCollocates": [
+          "property values (synonym)",
+          "high (land values)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "land", "meaning": "đất" },
+            { "form": "value", "meaning": "giá trị" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Rising land values have made it difficult for young people to buy homes."
+      }
+    },
+    {
+      "id": 741,
+      "targetLexeme": "mid-19th century",
+      "sourceContext": "...from the mid-19th century to the present day.",
+      "phase1Inference": {
+        "contextualGuessVI": "Từ 'giữa thế kỷ 19' (mid-19th century) (khoảng 1840-1860)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/mɪd naɪnˈtiːnθ ˈsentʃəri/",
+        "sentiment": "neutral",
+        "definitionEN": "The period roughly from 1840 to 1860",
+        "translationVI": "(Thuộc) giữa thế kỷ 19",
+        "relatedCollocates": ["early 19th-century", "late 19th-century"],
+        "wordForms": {
+          "adjective": [{ "form": "mid-19th-century", "meaning": "giữa TK 19" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The photograph was taken in the mid-19th century."
+      }
+    },
+    {
+      "id": 742,
+      "targetLexeme": "data work",
+      "sourceContext": "The data work that went into these estimations is particularly impressive.",
+      "phase1Inference": {
+        "contextualGuessVI": "Phần 'công việc' (work) 'xử lý/thu thập' (work) 'dữ liệu' (data) 'để' (that went into) 'có được' (that went into) các ước tính này"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdeɪtə wɜːk/",
+        "sentiment": "neutral",
+        "definitionEN": "The effort, time, and processes involved in collecting, processing, and analyzing data",
+        "translationVI": "Công việc (xử lý/thu thập) dữ liệu",
+        "relatedCollocates": [
+          "data analysis",
+          "data collection",
+          "work (that went into sth)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "data", "meaning": "dữ liệu" },
+            { "form": "work", "meaning": "công việc" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The amount of data work required for this project is enormous."
+      }
+    },
+    {
+      "id": 743,
+      "targetLexeme": "particularly (adv)",
+      "sourceContext": "...is particularly impressive.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Đặc biệt' (particularly) 'ấn tượng' (impressive)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pəˈtɪkjələli/",
+        "sentiment": "neutral",
+        "definitionEN": "Especially; more than usual",
+        "translationVI": "Đặc biệt, nhất là",
+        "relatedCollocates": ["especially (synonym)", "particularly (good)"],
+        "wordForms": {
+          "adjective": [{ "form": "particular", "meaning": "cụ thể" }],
+          "adverb": [{ "form": "particularly", "meaning": "đặc biệt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I enjoyed the whole movie, but the ending was particularly impressive."
+      }
+    },
+    {
+      "id": 744,
+      "targetLexeme": "assesses (v)",
+      "sourceContext": "...Barr assesses 'whether skyscrapers are a cause or an effect of high land values'.",
+      "phase1Inference": {
+        "contextualGuessVI": "Barr 'đánh giá/xem xét' (assesses) 'liệu' (whether) nhà chọc trời là 'nguyên nhân' (cause) 'hay' (or) 'hệ quả' (effect) 'của' (of) giá đất cao"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈsesɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "To judge or decide the amount, value, quality, or importance of something; to evaluate",
+        "translationVI": "Đánh giá, xem xét",
+        "relatedCollocates": [
+          "evaluate (synonym)",
+          "assess (the impact)",
+          "assessment (n)"
+        ],
+        "wordForms": {
+          "noun": [{ "form": "assessment", "meaning": "sự đánh giá" }],
+          "verb": [{ "form": "assess", "meaning": "đánh giá" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The committee will assess the candidates based on their experience."
+      }
+    },
+    {
+      "id": 745,
+      "targetLexeme": "a cause or an effect of",
+      "sourceContext": "...a cause or an effect of high land values'.",
+      "phase1Inference": {
+        "contextualGuessVI": "Là 'nguyên nhân' (a cause) 'hay' (or) 'hệ quả' (an effect) 'của' (of) giá đất cao"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə kɔːz ɔːr ən ɪˈfekt əv/",
+        "sentiment": "neutral",
+        "definitionEN": "The relationship between two things, where one (the cause) makes the other (the effect) happen, or vice versa",
+        "translationVI": "Nguyên nhân hay hệ quả của",
+        "relatedCollocates": ["cause and effect", "cause (n)", "effect (n)"],
+        "wordForms": {
+          "noun": [
+            { "form": "cause", "meaning": "nguyên nhân" },
+            { "form": "effect", "meaning": "hệ quả" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "They are studying whether poverty is a cause or an effect of poor education."
+      }
+    },
+    {
+      "id": 746,
+      "targetLexeme": "predict (v)",
+      "sourceContext": "He finds that changes in land values predict future building height...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự thay đổi về giá đất 'dự đoán' (predict) chiều cao tòa nhà trong tương lai"
+      },
+      "phase2Annotation": {
+        "phonetic": "/prɪˈdɪkt/",
+        "sentiment": "neutral",
+        "definitionEN": "To say that an event or action will happen in the future, often as a result of knowledge or experience",
+        "translationVI": "Dự đoán, tiên đoán",
+        "relatedCollocates": ["forecast (synonym)", "prediction (n)"],
+        "wordForms": {
+          "noun": [{ "form": "prediction", "meaning": "sự dự đoán" }],
+          "verb": [{ "form": "predict", "meaning": "dự đoán" }],
+          "adjective": [{ "form": "predictable", "meaning": "có thể đoán" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is impossible to predict the future with complete accuracy."
+      }
+    },
+    {
+      "id": 747,
+      "targetLexeme": "the reverse is not true",
+      "sourceContext": "...but the reverse is not true.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhưng 'điều ngược lại' (the reverse) 'thì không đúng' (is not true)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə rɪˈvɜːs ɪz nɒt truː/",
+        "sentiment": "neutral",
+        "definitionEN": "The opposite situation is not correct",
+        "translationVI": "Điều ngược lại thì không đúng",
+        "relatedCollocates": ["the opposite is true", "vice versa (related)"],
+        "wordForms": {
+          "noun": [{ "form": "reverse", "meaning": "điều ngược lại" }],
+          "adjective": [{ "form": "true", "meaning": "đúng" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "All squares are rectangles, but the reverse is not true: not all rectangles are squares."
+      }
+    },
+    {
+      "id": 748,
+      "targetLexeme": "epilogue (n)",
+      "sourceContext": "The book ends with an epilogue, in which Barr discusses...",
+      "phase1Inference": {
+        "contextualGuessVI": "Kết thúc bằng một 'phần kết/vĩ thanh' (epilogue)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈepɪlɒɡ/",
+        "sentiment": "neutral",
+        "definitionEN": "A short section at the end of a book, play, or movie that comments on or concludes the story",
+        "translationVI": "Phần kết, lời bạt, vĩ thanh",
+        "relatedCollocates": ["prologue (antonym)", "conclusion (n)"],
+        "wordForms": {
+          "noun": [{ "form": "epilogue", "meaning": "lời bạt" }]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The epilogue of the novel describes what happened to the characters ten years later."
+      }
+    },
+    {
+      "id": 749,
+      "targetLexeme": "impact of climate change",
+      "sourceContext": "...discusses the impact of climate change on the city...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Tác động' (impact) 'của' (of) 'biến đổi khí hậu' (climate change)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɪmpækt əv ˈklaɪmət tʃeɪndʒ/",
+        "sentiment": "negative",
+        "definitionEN": "The effect that changes in global weather patterns have on a specific area",
+        "translationVI": "Tác động của biến đổi khí hậu",
+        "relatedCollocates": [
+          "the effect of (synonym)",
+          "climate change (n)",
+          "global warming (related)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "impact", "meaning": "tác động" },
+            { "form": "climate change", "meaning": "biến đổi khí hậu" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Coastal cities are very vulnerable to the impact of climate change, such as rising sea levels."
+      }
+    },
+    {
+      "id": 750,
+      "targetLexeme": "policy suggestions",
+      "sourceContext": "...and makes policy suggestions for New York going forward.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đưa ra các 'đề xuất' (suggestions) 'về chính sách' (policy)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpɒləsi səˈdʒestʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "Ideas or proposals for official plans or courses of action (e.g., by a government)",
+        "translationVI": "Các đề xuất/gợi ý (về) chính sách",
+        "relatedCollocates": [
+          "policy (recommendations)",
+          "make (suggestions)",
+          "policy (n)"
+        ],
+        "wordForms": {
+          "noun": [
+            { "form": "policy", "meaning": "chính sách" },
+            { "form": "suggestion", "meaning": "sự đề xuất" }
+          ]
+        }
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The report concludes with several policy suggestions for improving public transport."
+      }
+    },
+    {
+      "id": 751,
+      "targetLexeme": "Elements of... research papers are incorporated",
+      "sourceContext": "Q27 (Multiple Choice): B Elements of Barr's research papers are incorporated throughout the book.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Các yếu tố' (Elements) 'của các bài báo nghiên cứu' (of... research papers) 'được tích hợp' (are incorporated)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'Elements... are incorporated' with 'incorporate aspects of...'",
+        "translationVI": "Trọng tâm: So sánh 'Elements... are incorporated' (Các yếu tố... được tích hợp) với 'incorporate aspects of' (tích hợp các khía cạnh của...)",
+        "relatedCollocates": [
+          "incorporate aspects of (synonym)",
+          "latter chapters (location)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'Elements of... research papers are incorporated' \n<->\nPassage: 'the latter chapters incorporate aspects of Barr's related research papers'"
+      }
+    },
+    {
+      "id": 752,
+      "targetLexeme": "covers a range of factors",
+      "sourceContext": "Q27 (Multiple Choice): D It covers a range of factors that affected the development of New York.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Bao gồm' (covers) 'một loạt các yếu tố' (a range of factors)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'covers a range of factors' with 'combines geology, history, economics, and... data'",
+        "translationVI": "Trọng tâm: So sánh 'covers a range of factors' (bao gồm nhiều yếu tố) với 'combines geology, history, economics, and... data' (kết hợp địa chất, lịch sử, kinh tế, và... dữ liệu)",
+        "relatedCollocates": [
+          "combines (geology, history, economics) (synonym)",
+          "different aspects (related)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'covers a range of factors that affected the development' \n<->\nPassage: 'combines geology, history, economics, and a lot of data to explain... development'"
+      }
+    },
+    {
+      "id": 753,
+      "targetLexeme": "She finds a potential problem with Barr's analysis.",
+      "sourceContext": "Q28 (Multiple Choice): B She finds a potential problem with Barr's analysis.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cô ấy (Shester) 'phát hiện một vấn đề tiềm ẩn' (finds a potential problem) 'với phân tích của Barr' (with Barr's analysis)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'finds a potential problem' with 'I would have liked Barr to expand upon his claim...'",
+        "translationVI": "Trọng tâm: So sánh 'finds a potential problem' (phát hiện vấn đề) với 'I would have liked Barr to expand...' (Tôi đã muốn Barr mở rộng/làm rõ hơn...)",
+        "relatedCollocates": [
+          "I would have liked... to expand upon his claim (synonym)",
+          "it is not obvious why... (related)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'She finds a potential problem with Barr's analysis' \n<->\nPassage: 'I would have liked Barr to expand upon his claim... At first glance, it is not obvious why...'"
+      }
+    },
+    {
+      "id": 754,
+      "targetLexeme": "It contains conflicting data.",
+      "sourceContext": "Q29 (Multiple Choice): A It contains conflicting data.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nó (Chương 6) 'chứa dữ liệu mâu thuẫn' (contains conflicting data)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'conflicting data' with 'presents data... uses regression analysis'",
+        "translationVI": "Trọng tâm: So sánh 'conflicting data' (dữ liệu mâu thuẫn) với 'presents data... uses regression analysis' (trình bày dữ liệu... dùng phân tích hồi quy)",
+        "relatedCollocates": [
+          "presents data (no mention of conflict)",
+          "uses regression analysis (no mention of conflict)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'conflicting data' \n<->\nPassage: 'presents data... and uses regression analysis' (Context implies analysis, not conflict)"
+      }
+    },
+    {
+      "id": 755,
+      "targetLexeme": "It is too specialised for most readers.",
+      "sourceContext": "Q29 (Multiple Choice): C It is too specialised for most readers.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nó 'quá chuyên ngành/chuyên sâu' (too specialised) 'đối với hầu hết độc giả' (for most readers)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'too specialised for most readers' with 'more technical than would be preferred by a general audience'",
+        "translationVI": "Trọng tâm: So sánh 'too specialised for most readers' (quá chuyên sâu cho hầu hết độc giả) với 'more technical than would be preferred by a general audience' (mang tính kỹ thuật hơn mức độc giả đại chúng mong muốn)",
+        "relatedCollocates": [
+          "more technical (synonym for specialised)",
+          "general audience (synonym for most readers)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'too specialised for most readers' \n<->\nPassage: 'more technical than would be preferred by a general audience'"
+      }
+    },
+    {
+      "id": 756,
+      "targetLexeme": "It draws on research that is out of date.",
+      "sourceContext": "Q29 (Multiple Choice): D It draws on research that is out of date.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nó 'dựa trên' (draws on) 'nghiên cứu' (research) 'đã lỗi thời' (that is out of date)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'research that is out of date' with 'research paper on which the chapter is based'",
+        "translationVI": "Trọng tâm: So sánh 'research that is out of date' (nghiên cứu lỗi thời) với 'research paper on which the chapter is based' (bài báo nghiên cứu mà chương này dựa trên)",
+        "relatedCollocates": ["research paper (no mention of 'out of date')"]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'research that is out of date' \n<->\nPassage: 'the research paper on which the chapter is based' (No information about it being old)"
+      }
+    },
+    {
+      "id": 757,
+      "targetLexeme": "The information should have been organised differently.",
+      "sourceContext": "Q30 (Multiple Choice): A The information should have been organised differently.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thông tin 'lẽ ra nên được' (should have been) 'sắp xếp' (organised) 'theo cách khác' (differently)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'organised differently' with 'may serve as a distraction'",
+        "translationVI": "Trọng tâm: So sánh 'organised differently' (sắp xếp khác) với 'may serve as a distraction' (có thể gây xao lãng) - đây là một lời phàn nàn về cấu trúc/tổ chức",
+        "relatedCollocates": ["serve as a distraction (related criticism)"]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'information should have been organised differently' \n<->\nPassage: 'may serve as a distraction to readers...'"
+      }
+    },
+    {
+      "id": 758,
+      "targetLexeme": "The explanation... is unlikely.",
+      "sourceContext": "Q30 (Multiple Choice): C The explanation... is unlikely.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Lời giải thích' (The explanation) ... 'là không thể/không có khả năng' (is unlikely)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'explanation... is unlikely' with 'cheap credit was not... the primary cause'",
+        "translationVI": "Trọng tâm: So sánh 'explanation... is unlikely' (lời giải thích... không thể) với 'cheap credit was not... the primary cause' (tín dụng giá rẻ không phải là nguyên nhân chính)",
+        "relatedCollocates": [
+          "cheap credit was not... the primary cause (synonym for one explanation being unlikely/wrong)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'The explanation that [cheap credit] is given for the building boom is unlikely' \n<->\nPassage: 'cheap credit was not... the primary cause'"
+      }
+    },
+    {
+      "id": 759,
+      "targetLexeme": "Some parts will have limited appeal to certain people.",
+      "sourceContext": "Q30 (Multiple Choice): D Some parts will have limited appeal to certain people.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một số phần (Some parts) sẽ 'có sức hấp dẫn hạn chế' (will have limited appeal) 'với một số người nhất định' (to certain people)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'limited appeal to certain people' with 'serve as a distraction to readers primarily interested in...'",
+        "translationVI": "Trọng tâm: So sánh 'limited appeal to certain people' (sức hấp dẫn hạn chế với người nhất định) với 'serve as a distraction to readers primarily interested in...' (gây xao lãng cho độc giả chủ yếu quan tâm đến...)",
+        "relatedCollocates": [
+          "serve as a distraction (synonym)",
+          "readers primarily interested in... (synonym for certain people)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'Some parts will have limited appeal to certain people' \n<->\nPassage: 'may serve as a distraction to readers primarily interested in New York'"
+      }
+    },
+    {
+      "id": 760,
+      "targetLexeme": "the broad time period",
+      "sourceContext": "Q31 (Multiple Choice): A the broad time period that is covered",
+      "phase1Inference": {
+        "contextualGuessVI": "'Khoảng thời gian' (time period) 'rộng' (broad) 'được bao phủ' (that is covered)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'broad time period' with 'from the mid-19th century to the present day'",
+        "translationVI": "Trọng tâm: So sánh 'broad time period' (khoảng thời gian rộng) với 'from the mid-19th century to the present day' (từ giữa thế kỷ 19 đến nay)",
+        "relatedCollocates": [
+          "from the mid-19th century to the present day (synonym)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'the broad time period' \n<->\nPassage: 'from the mid-19th century to the present day'"
+      }
+    },
+    {
+      "id": 761,
+      "targetLexeme": "the interesting questions that Barr asks",
+      "sourceContext": "Q31 (Multiple Choice): B the interesting questions that Barr asks",
+      "phase1Inference": {
+        "contextualGuessVI": "Những 'câu hỏi thú vị' (interesting questions) 'mà Barr đặt ra' (that Barr asks)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'interesting questions... Barr asks' with 'Barr assesses 'whether skyscrapers are a cause or an effect...'",
+        "translationVI": "Trọng tâm: So sánh 'interesting questions... Barr asks' (câu hỏi thú vị... Barr đặt ra) với 'Barr assesses 'whether skyscrapers are a cause or an effect...'' (Barr đánh giá 'liệu nhà chọc trời là nguyên nhân hay hệ quả...')",
+        "relatedCollocates": [
+          "assesses 'whether... a cause or an effect' (synonym)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'the interesting questions that Barr asks' \n<->\nPassage: 'Barr assesses 'whether skyscrapers are a cause or an effect...''"
+      }
+    },
+    {
+      "id": 762,
+      "targetLexeme": "the nature of the research",
+      "sourceContext": "Q31 (Multiple Choice): C the nature of the research into the topic",
+      "phase1Inference": {
+        "contextualGuessVI": "'Bản chất' (nature) 'của' (of) 'việc nghiên cứu' (the research) 'về chủ đề' (into the topic)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'nature of the research' with 'The data work that went into these estimations...'",
+        "translationVI": "Trọng tâm: So sánh 'nature of the research' (bản chất của nghiên cứu) với 'The data work that went into these estimations...' (Công việc dữ liệu để tạo ra các ước tính này...)",
+        "relatedCollocates": [
+          "The data work that went into... (synonym)",
+          "particularly impressive (Shester's opinion)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'the nature of the research' (that impresses Shester) \n<->\nPassage: 'The data work that went into these estimations is particularly impressive.'"
+      }
+    },
+    {
+      "id": 763,
+      "targetLexeme": "lacks interest",
+      "sourceContext": "Q32 (T/F/NG): The description... lacks interest.",
+      "phase1Inference": {
+        "contextualGuessVI": "Phần mô tả... 'thiếu sự thú vị' (lacks interest)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'lacks interest' with 'fascinating account'",
+        "translationVI": "Trọng tâm: So sánh 'lacks interest' (thiếu thú vị) (tiêu cực) với 'fascinating account' (bản tường thuật hấp dẫn) (tích cực)",
+        "relatedCollocates": ["fascinating account (antonym)"]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'lacks interest' \n<->\nPassage: 'giving a fascinating account of...'"
+      }
+    },
+    {
+      "id": 764,
+      "targetLexeme": "prepare the reader well",
+      "sourceContext": "Q33 (T/F/NG): Chapters two and three prepare the reader well for material yet to come.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Chuẩn bị tốt cho người đọc' (prepare the reader well) 'cho phần nội dung sắp tới' (for material yet to come)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'prepare the reader well for material yet to come' with 'set the stage for the economic analysis that comes later'",
+        "translationVI": "Trọng tâm: So sánh 'prepare the reader well...' (chuẩn bị tốt cho người đọc...) với 'set the stage for the economic analysis that comes later' (tạo tiền đề cho phân tích kinh tế về sau)",
+        "relatedCollocates": ["set the stage for... that comes later (synonym)"]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'prepare the reader well for material yet to come' \n<->\nPassage: 'set the stage for the economic analysis that comes later'"
+      }
+    },
+    {
+      "id": 765,
+      "targetLexeme": "lack of amenities",
+      "sourceContext": "Q34 (T/F/NG): ...immigrant neighbourhoods was a lack of amenities.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vấn đề là 'sự thiếu hụt tiện nghi' (lack of amenities)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'lack of amenities' with 'analyzes their locations in terms of the amenities available'",
+        "translationVI": "Trọng tâm: So sánh 'lack of amenities' (thiếu tiện nghi) với 'analyzes their locations in terms of the amenities available' (phân tích vị trí... về mặt các tiện nghi có sẵn)",
+        "relatedCollocates": [
+          "in terms of the amenities available (related concept, but doesn't explicitly say 'lack of')"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'lack of amenities' \n<->\nPassage: 'analyzes their locations in terms of the amenities available'"
+      }
+    },
+    {
+      "id": 766,
+      "targetLexeme": "tended to concentrate around the harbour",
+      "sourceContext": "Q35 (T/F/NG): ...immigrant neighbourhoods tended to concentrate around the harbour.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Có xu hướng' (tended to) 'tập trung' (concentrate) 'quanh bến cảng' (around the harbour)"
+      },
+      "phase2Annotation": {
+        "definitionEN": "Focus: Compares 'concentrate around the harbour' with 'located on the... land, between the industries located on the waterfront'",
+        "translationVI": "Trọng tâm: So sánh 'concentrate around the harbour' (tập trung quanh bến cảng) với 'located on the... land, between the industries located on the waterfront' (nằm trên... đất, giữa các ngành công nghiệp nằm ở bờ sông/bến cảng)",
+        "relatedCollocates": [
+          "located on the waterfront (synonym for harbour)",
+          "between the industries (location detail)"
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE_COMPARISON",
+        "content": "Question: 'concentrate around the harbour' \n<->\nPassage: 'located... between the industries located on the waterfront'"
+      }
+    }
+  ]
+}

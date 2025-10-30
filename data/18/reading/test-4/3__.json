@@ -1,10 +1,10 @@
 {
   "logTitle": "IELTS Reading Log: Alfred Wegener and continental drift",
   "sourceId": "Reading Passage (Image)",
-  "totalItems": 85,
+  "totalItems": 110,
   "lexicalItems": [
     {
-      "id": 1,
+      "id": "1761813174106-35-0-36a87edf",
       "targetLexeme": "reputation today rests with",
       "sourceContext": "This is a book about the life and scientific work of Alfred Wegener, whose reputation today rests with his theory of continental displacements, better known as ‘continental drift’.",
       "phase1Inference": {
@@ -15,9 +15,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be based on or dependent on a particular achievement or idea for one's fame or public image.",
         "translationVI": "Danh tiếng ngày nay gắn liền với",
-        "relatedCollocates": ["is based on", "is founded upon"],
+        "relatedCollocates": [
+          "is based on",
+          "is founded upon"
+        ],
         "wordForms": {
-          "noun": [{ "form": "reputation", "meaning": "danh tiếng" }]
+          "noun": [
+            {
+              "form": "reputation",
+              "meaning": "danh tiếng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -26,7 +37,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "1761813174106-35-1-7f27e9ea",
       "targetLexeme": "continental displacements",
       "sourceContext": "...his theory of continental displacements, better known as ‘continental drift’.",
       "phase1Inference": {
@@ -37,9 +48,20 @@
         "sentiment": "neutral",
         "definitionEN": "The movement of the Earth's continents relative to each other.",
         "translationVI": "Sự dịch chuyển lục địa",
-        "relatedCollocates": ["continental drift", "plate tectonics"],
+        "relatedCollocates": [
+          "continental drift",
+          "plate tectonics"
+        ],
         "wordForms": {
-          "noun": [{ "form": "displacement", "meaning": "sự dịch chuyển" }]
+          "noun": [
+            {
+              "form": "displacement",
+              "meaning": "sự dịch chuyển"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -48,7 +70,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "1761813174106-35-2-3a55efbe",
       "targetLexeme": "developed it extensively",
       "sourceContext": "Wegener proposed this theory in 1912 and developed it extensively for nearly 20 years.",
       "phase1Inference": {
@@ -59,9 +81,20 @@
         "sentiment": "positive",
         "definitionEN": "To elaborate on or expand something in great detail and scope over a period of time.",
         "translationVI": "Phát triển nó một cách sâu rộng",
-        "relatedCollocates": ["elaborated on", "expanded greatly"],
+        "relatedCollocates": [
+          "elaborated on",
+          "expanded greatly"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "extensively", "meaning": "một cách sâu rộng" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "extensively",
+              "meaning": "một cách sâu rộng"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -70,7 +103,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "1761813174106-35-3-49544bf1",
       "targetLexeme": "international controversy",
       "sourceContext": "His book on the subject, The Origin of Continents and Oceans, went through four editions and was the focus of an international controversy in his lifetime and for some years after his death.",
       "phase1Inference": {
@@ -81,9 +114,20 @@
         "sentiment": "negative",
         "definitionEN": "A prolonged public disagreement or heated discussion that involves multiple countries.",
         "translationVI": "Cuộc tranh cãi quốc tế",
-        "relatedCollocates": ["global debate", "widespread disagreement"],
+        "relatedCollocates": [
+          "global debate",
+          "widespread disagreement"
+        ],
         "wordForms": {
-          "noun": [{ "form": "controversy", "meaning": "cuộc tranh cãi" }]
+          "noun": [
+            {
+              "form": "controversy",
+              "meaning": "cuộc tranh cãi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -92,7 +136,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "1761813174106-35-4-1713d182",
       "targetLexeme": "moved laterally",
       "sourceContext": "Wegener’s basic idea was that many mysteries about the Earth’s history could be solved if one supposed that the continents moved laterally, rather than supposing that they remained fixed in place.",
       "phase1Inference": {
@@ -103,9 +147,20 @@
         "sentiment": "neutral",
         "definitionEN": "To move from side to side.",
         "translationVI": "Di chuyển theo chiều ngang",
-        "relatedCollocates": ["shifted sideways", "horizontal movement"],
+        "relatedCollocates": [
+          "shifted sideways",
+          "horizontal movement"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "laterally", "meaning": "theo chiều ngang" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "laterally",
+              "meaning": "theo chiều ngang"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -114,7 +169,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "1761813174106-35-5-6953db6a",
       "targetLexeme": "remained fixed in place",
       "sourceContext": "...rather than supposing that they remained fixed in place.",
       "phase1Inference": {
@@ -125,9 +180,20 @@
         "sentiment": "neutral",
         "definitionEN": "To stay in one position without moving.",
         "translationVI": "Vẫn cố định tại chỗ",
-        "relatedCollocates": ["stayed stationary", "were immobile"],
+        "relatedCollocates": [
+          "stayed stationary",
+          "were immobile"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "fixed", "meaning": "cố định" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "fixed",
+              "meaning": "cố định"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -136,7 +202,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "1761813174106-35-6-4fbdefea",
       "targetLexeme": "plausible",
       "sourceContext": "Wegener showed in great detail how such continental movements were plausible...",
       "phase1Inference": {
@@ -147,9 +213,21 @@
         "sentiment": "positive",
         "definitionEN": "(of an argument or statement) seeming reasonable or probable.",
         "translationVI": "Hợp lý",
-        "relatedCollocates": ["believable", "credible", "reasonable"],
+        "relatedCollocates": [
+          "believable",
+          "credible",
+          "reasonable"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "plausible", "meaning": "hợp lý" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "plausible",
+              "meaning": "hợp lý"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -158,7 +236,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "1761813174106-35-7-662eca83",
       "targetLexeme": "geophysics, paleontology, and climatology",
       "sourceContext": "...using evidence from a large number of sciences including geology, geophysics, paleontology, and climatology.",
       "phase1Inference": {
@@ -169,13 +247,28 @@
         "sentiment": "neutral",
         "definitionEN": "The physics of the earth; the study of fossils; and the scientific study of climates.",
         "translationVI": "Địa vật lý, cổ sinh vật học và khí hậu học",
-        "relatedCollocates": ["earth sciences", "geological studies"],
+        "relatedCollocates": [
+          "earth sciences",
+          "geological studies"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "geophysics", "meaning": "địa vật lý" },
-            { "form": "paleontology", "meaning": "cổ sinh vật học" },
-            { "form": "climatology", "meaning": "khí hậu học" }
-          ]
+            {
+              "form": "geophysics",
+              "meaning": "địa vật lý"
+            },
+            {
+              "form": "paleontology",
+              "meaning": "cổ sinh vật học"
+            },
+            {
+              "form": "climatology",
+              "meaning": "khí hậu học"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -184,7 +277,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "1761813174106-35-8-2ca2f6c5",
       "targetLexeme": "at the heart of the theory",
       "sourceContext": "Wegener’s idea – that the continents move – is at the heart of the theory that guides Earth sciences today: namely plate tectonics.",
       "phase1Inference": {
@@ -195,9 +288,20 @@
         "sentiment": "neutral",
         "definitionEN": "The most central or important part of an idea or theory.",
         "translationVI": "Là cốt lõi của lý thuyết",
-        "relatedCollocates": ["the core of", "the essence of"],
+        "relatedCollocates": [
+          "the core of",
+          "the essence of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "heart", "meaning": "trái tim, trung tâm" }]
+          "noun": [
+            {
+              "form": "heart",
+              "meaning": "trái tim, trung tâm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -206,7 +310,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "1761813174106-35-9-04be74ef",
       "targetLexeme": "plate tectonics",
       "sourceContext": "Wegener’s idea... is at the heart of the theory that guides Earth sciences today: namely plate tectonics.",
       "phase1Inference": {
@@ -217,9 +321,20 @@
         "sentiment": "neutral",
         "definitionEN": "A theory explaining the structure of the earth's crust and many associated phenomena as resulting from the interaction of rigid lithospheric plates which move slowly over the underlying mantle.",
         "translationVI": "Thuyết kiến tạo mảng",
-        "relatedCollocates": ["continental drift", "geology"],
+        "relatedCollocates": [
+          "continental drift",
+          "geology"
+        ],
         "wordForms": {
-          "noun": [{ "form": "tectonics", "meaning": "kiến tạo" }]
+          "noun": [
+            {
+              "form": "tectonics",
+              "meaning": "kiến tạo"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -228,7 +343,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "1761813174106-35-10-2e4153c0",
       "targetLexeme": "in many respects",
       "sourceContext": "Plate tectonics is in many respects quite different from Wegener’s proposal...",
       "phase1Inference": {
@@ -239,9 +354,20 @@
         "sentiment": "neutral",
         "definitionEN": "In many ways or aspects.",
         "translationVI": "Về nhiều mặt",
-        "relatedCollocates": ["in many ways", "in several aspects"],
+        "relatedCollocates": [
+          "in many ways",
+          "in several aspects"
+        ],
         "wordForms": {
-          "noun": [{ "form": "respect", "meaning": "phương diện, khía cạnh" }]
+          "noun": [
+            {
+              "form": "respect",
+              "meaning": "phương diện, khía cạnh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -250,7 +376,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "1761813174106-35-11-5519aaf4",
       "targetLexeme": "a descendant of",
       "sourceContext": "Yet plate tectonics is a descendant of Alfred Wegener’s theory of continental drift...",
       "phase1Inference": {
@@ -261,9 +387,20 @@
         "sentiment": "neutral",
         "definitionEN": "Something that has developed from an earlier form.",
         "translationVI": "Là hậu duệ của",
-        "relatedCollocates": ["derived from", "an offshoot of"],
+        "relatedCollocates": [
+          "derived from",
+          "an offshoot of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "descendant", "meaning": "hậu duệ, con cháu" }]
+          "noun": [
+            {
+              "form": "descendant",
+              "meaning": "hậu duệ, con cháu"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -272,7 +409,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "1761813174106-35-12-535ba4d9",
       "targetLexeme": "natural selection",
       "sourceContext": "...in quite the same way that modern evolutionary theory is a descendant of Darwin’s theory of natural selection.",
       "phase1Inference": {
@@ -283,9 +420,20 @@
         "sentiment": "neutral",
         "definitionEN": "The process whereby organisms better adapted to their environment tend to survive and produce more offspring.",
         "translationVI": "Chọn lọc tự nhiên",
-        "relatedCollocates": ["evolution", "survival of the fittest"],
+        "relatedCollocates": [
+          "evolution",
+          "survival of the fittest"
+        ],
         "wordForms": {
-          "noun": [{ "form": "selection", "meaning": "sự chọn lọc" }]
+          "noun": [
+            {
+              "form": "selection",
+              "meaning": "sự chọn lọc"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -294,7 +442,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "1761813174106-35-13-4248abfd",
       "targetLexeme": "most intriguing things",
       "sourceContext": "When I started writing about Wegener’s life and work, one of the most intriguing things about him for me was that, although he came up with a theory on continental drift, he was not a geologist.",
       "phase1Inference": {
@@ -305,11 +453,20 @@
         "sentiment": "positive",
         "definitionEN": "The most fascinating or curiosity-arousing aspects.",
         "translationVI": "Những điều hấp dẫn nhất",
-        "relatedCollocates": ["most fascinating aspects", "most curious facts"],
+        "relatedCollocates": [
+          "most fascinating aspects",
+          "most curious facts"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "intriguing", "meaning": "hấp dẫn, gợi tò mò" }
-          ]
+            {
+              "form": "intriguing",
+              "meaning": "hấp dẫn, gợi tò mò"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -318,7 +475,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "1761813174106-35-14-6b16e23a",
       "targetLexeme": "pursued a career in",
       "sourceContext": "He trained as an astronomer and pursued a career in atmospheric physics.",
       "phase1Inference": {
@@ -329,9 +486,20 @@
         "sentiment": "neutral",
         "definitionEN": "To follow a particular profession or field of work over a long period.",
         "translationVI": "Theo đuổi sự nghiệp trong lĩnh vực",
-        "relatedCollocates": ["worked in", "had a career in"],
+        "relatedCollocates": [
+          "worked in",
+          "had a career in"
+        ],
         "wordForms": {
-          "verb": [{ "form": "pursue", "meaning": "theo đuổi" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "pursue",
+              "meaning": "theo đuổi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -340,7 +508,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "1761813174106-35-15-6dbd72b3",
       "targetLexeme": "atmospheric physics",
       "sourceContext": "He trained as an astronomer and pursued a career in atmospheric physics.",
       "phase1Inference": {
@@ -351,9 +519,20 @@
         "sentiment": "neutral",
         "definitionEN": "The branch of physics that deals with the Earth's atmosphere and its phenomena.",
         "translationVI": "Vật lý khí quyển",
-        "relatedCollocates": ["meteorology", "climatology"],
+        "relatedCollocates": [
+          "meteorology",
+          "climatology"
+        ],
         "wordForms": {
-          "noun": [{ "form": "physics", "meaning": "vật lý" }]
+          "noun": [
+            {
+              "form": "physics",
+              "meaning": "vật lý"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -362,7 +541,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "1761813174106-35-16-0d8fc4a1",
       "targetLexeme": "highly publicized",
       "sourceContext": "Between 1906 and 1908 he had taken part in a highly publicized and extremely dangerous expedition to the coast of northeast Greenland.",
       "phase1Inference": {
@@ -373,9 +552,20 @@
         "sentiment": "neutral",
         "definitionEN": "Having received a lot of attention in the media.",
         "translationVI": "Được công bố rộng rãi",
-        "relatedCollocates": ["well-publicized", "widely reported"],
+        "relatedCollocates": [
+          "well-publicized",
+          "widely reported"
+        ],
         "wordForms": {
-          "verb": [{ "form": "publicize", "meaning": "công khai" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "publicize",
+              "meaning": "công khai"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -384,7 +574,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "1761813174106-35-17-7bd8caa5",
       "targetLexeme": "made a name for himself",
       "sourceContext": "He had also made a name for himself amongst a small circle of meteorologists and atmospheric physicists in Germany...",
       "phase1Inference": {
@@ -395,9 +585,20 @@
         "sentiment": "positive",
         "definitionEN": "To become famous or well-known for doing something.",
         "translationVI": "Tạo dựng tên tuổi",
-        "relatedCollocates": ["became famous", "gained a reputation"],
+        "relatedCollocates": [
+          "became famous",
+          "gained a reputation"
+        ],
         "wordForms": {
-          "verb": [{ "form": "make a name", "meaning": "tạo dựng tên tuổi" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "make a name",
+              "meaning": "tạo dựng tên tuổi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -406,7 +607,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "1761813174106-35-18-3fd914dc",
       "targetLexeme": "author of a textbook",
       "sourceContext": "...and of a number of interesting scientific papers.",
       "phase1Inference": {
@@ -417,9 +618,20 @@
         "sentiment": "neutral",
         "definitionEN": "The writer of a book used as a standard work for the study of a particular subject.",
         "translationVI": "Tác giả của một cuốn sách giáo khoa",
-        "relatedCollocates": ["wrote a textbook", "textbook author"],
+        "relatedCollocates": [
+          "wrote a textbook",
+          "textbook author"
+        ],
         "wordForms": {
-          "noun": [{ "form": "author", "meaning": "tác giả" }]
+          "noun": [
+            {
+              "form": "author",
+              "meaning": "tác giả"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -428,7 +640,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "1761813174106-35-19-3f9492b4",
       "targetLexeme": "has turned out to be",
       "sourceContext": "As important as Wegener’s work on continental drift has turned out to be, it was largely a sideline to his interest in atmospheric physics, geophysics, and paleoclimatology.",
       "phase1Inference": {
@@ -439,9 +651,20 @@
         "sentiment": "neutral",
         "definitionEN": "To prove to be the case; to be discovered to be.",
         "translationVI": "Hóa ra là",
-        "relatedCollocates": ["proved to be", "ended up being"],
+        "relatedCollocates": [
+          "proved to be",
+          "ended up being"
+        ],
         "wordForms": {
-          "verb": [{ "form": "turn out", "meaning": "hóa ra" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "turn out",
+              "meaning": "hóa ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -450,7 +673,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "1761813174106-35-20-0ac14dec",
       "targetLexeme": "largely a sideline to",
       "sourceContext": "...it was largely a sideline to his interest in atmospheric physics, geophysics, and paleoclimatology.",
       "phase1Inference": {
@@ -461,9 +684,20 @@
         "sentiment": "neutral",
         "definitionEN": "Mostly a secondary interest or activity, not one's main focus.",
         "translationVI": "Phần lớn là một mối quan tâm phụ",
-        "relatedCollocates": ["a secondary interest", "a minor pursuit"],
+        "relatedCollocates": [
+          "a secondary interest",
+          "a minor pursuit"
+        ],
         "wordForms": {
-          "noun": [{ "form": "sideline", "meaning": "nghề tay trái, việc phụ" }]
+          "noun": [
+            {
+              "form": "sideline",
+              "meaning": "nghề tay trái, việc phụ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -472,7 +706,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "1761813174106-35-21-02fa9ef4",
       "targetLexeme": "paleoclimatology",
       "sourceContext": "...his interest in atmospheric physics, geophysics, and paleoclimatology.",
       "phase1Inference": {
@@ -483,9 +717,20 @@
         "sentiment": "neutral",
         "definitionEN": "The study of climates of the past.",
         "translationVI": "Cổ khí hậu học",
-        "relatedCollocates": ["past climates", "geological history"],
+        "relatedCollocates": [
+          "past climates",
+          "geological history"
+        ],
         "wordForms": {
-          "noun": [{ "form": "paleoclimatology", "meaning": "cổ khí hậu học" }]
+          "noun": [
+            {
+              "form": "paleoclimatology",
+              "meaning": "cổ khí hậu học"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -494,7 +739,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "1761813174106-35-22-7125c461",
       "targetLexeme": "have been at great pains to",
       "sourceContext": "As a sideline I have been at great pains to put Wegener’s work on continental drift in the larger context of his other scientific work...",
       "phase1Inference": {
@@ -505,9 +750,20 @@
         "sentiment": "neutral",
         "definitionEN": "To have tried very hard to do something.",
         "translationVI": "Đã rất nỗ lực để",
-        "relatedCollocates": ["made a great effort to", "took great care to"],
+        "relatedCollocates": [
+          "made a great effort to",
+          "took great care to"
+        ],
         "wordForms": {
-          "noun": [{ "form": "pains", "meaning": "sự cố gắng, nỗ lực" }]
+          "noun": [
+            {
+              "form": "pains",
+              "meaning": "sự cố gắng, nỗ lực"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -516,7 +772,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "1761813174106-35-23-393d59ad",
       "targetLexeme": "in the larger context of",
       "sourceContext": "...to put Wegener’s work on continental drift in the larger context of his other scientific work...",
       "phase1Inference": {
@@ -527,9 +783,20 @@
         "sentiment": "neutral",
         "definitionEN": "Within the broader situation, events, or information related to something.",
         "translationVI": "Trong bối cảnh rộng hơn của",
-        "relatedCollocates": ["within the broader framework of", "as part of"],
+        "relatedCollocates": [
+          "within the broader framework of",
+          "as part of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "context", "meaning": "bối cảnh" }]
+          "noun": [
+            {
+              "form": "context",
+              "meaning": "bối cảnh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -538,7 +805,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "1761813174106-35-24-1329f63f",
       "targetLexeme": "to the extent that",
       "sourceContext": "This is a ‘continental drift book’ only to the extent that Wegener was interested in that topic and later became famous for it.",
       "phase1Inference": {
@@ -549,9 +816,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to indicate the degree to which something is true or the situation in which it is true.",
         "translationVI": "Đến mức độ mà",
-        "relatedCollocates": ["in so far as", "to the degree that"],
+        "relatedCollocates": [
+          "in so far as",
+          "to the degree that"
+        ],
         "wordForms": {
-          "noun": [{ "form": "extent", "meaning": "mức độ" }]
+          "noun": [
+            {
+              "form": "extent",
+              "meaning": "mức độ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -560,7 +838,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "1761813174106-35-25-7af891e3",
       "targetLexeme": "no less detailed",
       "sourceContext": "My treatment of his other scientific work is no less detailed, though I certainly have devoted more attention to the reception of his ideas on continental displacement...",
       "phase1Inference": {
@@ -571,9 +849,20 @@
         "sentiment": "positive",
         "definitionEN": "Equally detailed; not detailed to a lesser degree.",
         "translationVI": "Không kém chi tiết",
-        "relatedCollocates": ["just as detailed", "equally thorough"],
+        "relatedCollocates": [
+          "just as detailed",
+          "equally thorough"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "detailed", "meaning": "chi tiết" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "detailed",
+              "meaning": "chi tiết"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -582,7 +871,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "1761813174106-35-26-438a5746",
       "targetLexeme": "devoted more attention to",
       "sourceContext": "...though I certainly have devoted more attention to the reception of his ideas on continental displacement...",
       "phase1Inference": {
@@ -593,9 +882,20 @@
         "sentiment": "neutral",
         "definitionEN": "To have given more time, effort, or focus to something.",
         "translationVI": "Dành nhiều sự chú ý hơn cho",
-        "relatedCollocates": ["focused more on", "paid more attention to"],
+        "relatedCollocates": [
+          "focused more on",
+          "paid more attention to"
+        ],
         "wordForms": {
-          "verb": [{ "form": "devote", "meaning": "cống hiến, dành cho" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "devote",
+              "meaning": "cống hiến, dành cho"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -604,7 +904,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "1761813174106-35-27-5f20f332",
       "targetLexeme": "reception of his ideas",
       "sourceContext": "...the reception of his ideas on continental displacement, as they were much more controversial than his other work.",
       "phase1Inference": {
@@ -615,9 +915,20 @@
         "sentiment": "neutral",
         "definitionEN": "The way in which his ideas were received or regarded by people.",
         "translationVI": "Sự đón nhận các ý tưởng của ông",
-        "relatedCollocates": ["reaction to his ideas", "public response"],
+        "relatedCollocates": [
+          "reaction to his ideas",
+          "public response"
+        ],
         "wordForms": {
-          "noun": [{ "form": "reception", "meaning": "sự đón nhận" }]
+          "noun": [
+            {
+              "form": "reception",
+              "meaning": "sự đón nhận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -626,7 +937,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "1761813174106-35-28-387c827d",
       "targetLexeme": "pursuing a given line of investigation",
       "sourceContext": "Readers interested in the specific detail of Wegener’s career will see that he often stopped pursuing a given line of investigation (sometimes for years on end), only to pick it up later.",
       "phase1Inference": {
@@ -642,7 +953,15 @@
           "researching a topic"
         ],
         "wordForms": {
-          "noun": [{ "form": "investigation", "meaning": "cuộc điều tra" }]
+          "noun": [
+            {
+              "form": "investigation",
+              "meaning": "cuộc điều tra"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -651,7 +970,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "1761813174106-35-29-35b2e072",
       "targetLexeme": "provide guideposts",
       "sourceContext": "I have tried to provide guideposts to his rapidly shifting interests by characterizing different phases of his life as careers in different sciences...",
       "phase1Inference": {
@@ -662,9 +981,20 @@
         "sentiment": "positive",
         "definitionEN": "To offer information or signs that help someone understand a complex situation or make a decision.",
         "translationVI": "Cung cấp các biển chỉ dẫn",
-        "relatedCollocates": ["offer guidance", "provide direction"],
+        "relatedCollocates": [
+          "offer guidance",
+          "provide direction"
+        ],
         "wordForms": {
-          "noun": [{ "form": "guidepost", "meaning": "cột chỉ đường" }]
+          "noun": [
+            {
+              "form": "guidepost",
+              "meaning": "cột chỉ đường"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -673,7 +1003,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "1761813174106-35-30-33abb4c5",
       "targetLexeme": "rapidly shifting interests",
       "sourceContext": "I have tried to provide guideposts to his rapidly shifting interests...",
       "phase1Inference": {
@@ -684,9 +1014,20 @@
         "sentiment": "neutral",
         "definitionEN": "Areas of curiosity or concern that change very quickly.",
         "translationVI": "Những mối quan tâm thay đổi nhanh chóng",
-        "relatedCollocates": ["quickly changing focus", "evolving interests"],
+        "relatedCollocates": [
+          "quickly changing focus",
+          "evolving interests"
+        ],
         "wordForms": {
-          "verb": [{ "form": "shift", "meaning": "thay đổi, dịch chuyển" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "shift",
+              "meaning": "thay đổi, dịch chuyển"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -695,7 +1036,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "1761813174106-35-31-215d0095",
       "targetLexeme": "characterizing different phases",
       "sourceContext": "...by characterizing different phases of his life as careers in different sciences...",
       "phase1Inference": {
@@ -706,9 +1047,20 @@
         "sentiment": "neutral",
         "definitionEN": "Describing the distinctive nature or features of various stages in a process or period of time.",
         "translationVI": "Đặc tả các giai đoạn khác nhau",
-        "relatedCollocates": ["describing stages", "defining periods"],
+        "relatedCollocates": [
+          "describing stages",
+          "defining periods"
+        ],
         "wordForms": {
-          "verb": [{ "form": "characterize", "meaning": "đặc tả, mô tả" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "characterize",
+              "meaning": "đặc tả, mô tả"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -717,7 +1069,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "1761813174106-35-32-06266d37",
       "targetLexeme": "a sufficient guide",
       "sourceContext": "Thus, the index should be a sufficient guide for those interested in a particular aspect of Wegener’s life but perhaps not all of it.",
       "phase1Inference": {
@@ -728,9 +1080,20 @@
         "sentiment": "positive",
         "definitionEN": "An adequate or enough source of information or direction.",
         "translationVI": "Một hướng dẫn đầy đủ",
-        "relatedCollocates": ["an adequate reference", "enough information"],
+        "relatedCollocates": [
+          "an adequate reference",
+          "enough information"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "sufficient", "meaning": "đủ" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "sufficient",
+              "meaning": "đủ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -739,7 +1102,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "1761813174106-35-33-0d3d6eaa",
       "targetLexeme": "make as much sense on their own",
       "sourceContext": "My own feeling, however, is that the parts do not make as much sense on their own as do all of his activities taken together.",
       "phase1Inference": {
@@ -755,7 +1118,15 @@
           "harder to understand in isolation"
         ],
         "wordForms": {
-          "verb": [{ "form": "make sense", "meaning": "có lý, có nghĩa" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "make sense",
+              "meaning": "có lý, có nghĩa"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -764,7 +1135,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "1761813174106-35-34-376c2384",
       "targetLexeme": "taken together",
       "sourceContext": "...as do all of his activities taken together.",
       "phase1Inference": {
@@ -775,9 +1146,20 @@
         "sentiment": "neutral",
         "definitionEN": "When considered as a whole or as a group.",
         "translationVI": "Khi được xem xét cùng nhau",
-        "relatedCollocates": ["viewed collectively", "considered as a whole"],
+        "relatedCollocates": [
+          "viewed collectively",
+          "considered as a whole"
+        ],
         "wordForms": {
-          "verb": [{ "form": "take", "meaning": "lấy, xem xét" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "take",
+              "meaning": "lấy, xem xét"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -786,7 +1168,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "1761813174106-35-35-37bf4ddb",
       "targetLexeme": "In this respect",
       "sourceContext": "In this respect I urge readers to try to experience Wegener’s life as he lived it...",
       "phase1Inference": {
@@ -797,9 +1179,20 @@
         "sentiment": "neutral",
         "definitionEN": "Regarding this particular point or aspect.",
         "translationVI": "Về mặt này",
-        "relatedCollocates": ["in this regard", "on this point"],
+        "relatedCollocates": [
+          "in this regard",
+          "on this point"
+        ],
         "wordForms": {
-          "noun": [{ "form": "respect", "meaning": "phương diện, khía cạnh" }]
+          "noun": [
+            {
+              "form": "respect",
+              "meaning": "phương diện, khía cạnh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -808,7 +1201,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "1761813174106-35-36-60893691",
       "targetLexeme": "renewed efforts",
       "sourceContext": "...with all the interruptions, changes of mind, and renewed efforts this entailed.",
       "phase1Inference": {
@@ -819,9 +1212,20 @@
         "sentiment": "positive",
         "definitionEN": "Fresh or repeated attempts to do something, often with new energy or determination.",
         "translationVI": "Những nỗ lực mới",
-        "relatedCollocates": ["fresh attempts", "restarted efforts"],
+        "relatedCollocates": [
+          "fresh attempts",
+          "restarted efforts"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "renewed", "meaning": "được làm mới" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "renewed",
+              "meaning": "được làm mới"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -830,7 +1234,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "1761813174106-35-37-19a43f07",
       "targetLexeme": "this entailed",
       "sourceContext": "...and renewed efforts this entailed.",
       "phase1Inference": {
@@ -841,9 +1245,20 @@
         "sentiment": "neutral",
         "definitionEN": "What this involved or made necessary as a consequence.",
         "translationVI": "Điều này đòi hỏi",
-        "relatedCollocates": ["this involved", "this required"],
+        "relatedCollocates": [
+          "this involved",
+          "this required"
+        ],
         "wordForms": {
-          "verb": [{ "form": "entail", "meaning": "đòi hỏi, kéo theo" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "entail",
+              "meaning": "đòi hỏi, kéo theo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -852,7 +1267,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "1761813174106-35-38-3e3f52e1",
       "targetLexeme": "as was standard practice",
       "sourceContext": "Wegener left behind a few published works but, as was standard practice, these reported the results of his work – not the journey he took to reach that point.",
       "phase1Inference": {
@@ -863,9 +1278,20 @@
         "sentiment": "neutral",
         "definitionEN": "In the way that was usual or customary at the time.",
         "translationVI": "Như một thông lệ",
-        "relatedCollocates": ["as was customary", "typically"],
+        "relatedCollocates": [
+          "as was customary",
+          "typically"
+        ],
         "wordForms": {
-          "noun": [{ "form": "standard practice", "meaning": "thông lệ" }]
+          "noun": [
+            {
+              "form": "standard practice",
+              "meaning": "thông lệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -874,7 +1300,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "1761813174106-35-39-4b153c90",
       "targetLexeme": "reach that point",
       "sourceContext": "...not the journey he took to reach that point.",
       "phase1Inference": {
@@ -885,9 +1311,20 @@
         "sentiment": "neutral",
         "definitionEN": "To arrive at that particular stage or conclusion.",
         "translationVI": "Đạt đến điểm đó",
-        "relatedCollocates": ["arrive at that stage", "get there"],
+        "relatedCollocates": [
+          "arrive at that stage",
+          "get there"
+        ],
         "wordForms": {
-          "verb": [{ "form": "reach", "meaning": "đạt tới" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "reach",
+              "meaning": "đạt tới"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -896,7 +1333,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "1761813174106-35-40-1e256ef3",
       "targetLexeme": "with a few exceptions",
       "sourceContext": "He was not active (with a few exceptions) in scientific societies...",
       "phase1Inference": {
@@ -907,9 +1344,20 @@
         "sentiment": "neutral",
         "definitionEN": "Apart from a small number of cases.",
         "translationVI": "Với một vài ngoại lệ",
-        "relatedCollocates": ["apart from a few cases", "with rare exceptions"],
+        "relatedCollocates": [
+          "apart from a few cases",
+          "with rare exceptions"
+        ],
         "wordForms": {
-          "noun": [{ "form": "exception", "meaning": "ngoại lệ" }]
+          "noun": [
+            {
+              "form": "exception",
+              "meaning": "ngoại lệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -918,7 +1366,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "1761813174106-35-41-7534f210",
       "targetLexeme": "advance his ideas",
       "sourceContext": "...and did not seek to find influence or advance his ideas through professional contacts and politics...",
       "phase1Inference": {
@@ -929,9 +1377,20 @@
         "sentiment": "positive",
         "definitionEN": "To promote or further the progress of one's concepts or theories.",
         "translationVI": "Thúc đẩy các ý tưởng của mình",
-        "relatedCollocates": ["promote his theories", "further his concepts"],
+        "relatedCollocates": [
+          "promote his theories",
+          "further his concepts"
+        ],
         "wordForms": {
-          "verb": [{ "form": "advance", "meaning": "tiến bộ, thúc đẩy" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "advance",
+              "meaning": "tiến bộ, thúc đẩy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -940,7 +1399,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "1761813174106-35-42-18343adc",
       "targetLexeme": "professional contacts",
       "sourceContext": "...through professional contacts and politics...",
       "phase1Inference": {
@@ -951,9 +1410,20 @@
         "sentiment": "neutral",
         "definitionEN": "People you know as a result of your job or profession, who can help you in your work.",
         "translationVI": "Các mối quan hệ nghề nghiệp",
-        "relatedCollocates": ["networking", "business connections"],
+        "relatedCollocates": [
+          "networking",
+          "business connections"
+        ],
         "wordForms": {
-          "noun": [{ "form": "contact", "meaning": "mối liên hệ" }]
+          "noun": [
+            {
+              "form": "contact",
+              "meaning": "mối liên hệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -962,7 +1432,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "1761813174106-35-43-47596f67",
       "targetLexeme": "field collecting observations",
       "sourceContext": "...or in the field collecting observations.",
       "phase1Inference": {
@@ -973,9 +1443,20 @@
         "sentiment": "neutral",
         "definitionEN": "Gathering data and information by observing things in their natural environment.",
         "translationVI": "Thu thập các quan sát thực địa",
-        "relatedCollocates": ["fieldwork", "gathering data"],
+        "relatedCollocates": [
+          "fieldwork",
+          "gathering data"
+        ],
         "wordForms": {
-          "noun": [{ "form": "observation", "meaning": "sự quan sát" }]
+          "noun": [
+            {
+              "form": "observation",
+              "meaning": "sự quan sát"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -984,7 +1465,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "1761813174106-35-44-1ab0a6ad",
       "targetLexeme": "left mountains of written material behind",
       "sourceContext": "Some famous scientists, such as Newton, Darwin, and Einstein, left mountains of written material behind, hundreds of notebooks and letters numbering in the tens of thousands.",
       "phase1Inference": {
@@ -995,11 +1476,20 @@
         "sentiment": "neutral",
         "definitionEN": "An idiom meaning to have left a very large quantity of documents, notes, and letters.",
         "translationVI": "Để lại hàng núi tài liệu viết tay",
-        "relatedCollocates": ["a vast archive", "a huge volume of writing"],
+        "relatedCollocates": [
+          "a vast archive",
+          "a huge volume of writing"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "mountain", "meaning": "núi (nghĩa bóng: rất nhiều)" }
-          ]
+            {
+              "form": "mountain",
+              "meaning": "núi (nghĩa bóng: rất nhiều)"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1008,7 +1498,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "1761813174106-35-45-6abd1874",
       "targetLexeme": "numbering in the tens of thousands",
       "sourceContext": "...hundreds of notebooks and letters numbering in the tens of thousands.",
       "phase1Inference": {
@@ -1024,7 +1514,15 @@
           "a very large number"
         ],
         "wordForms": {
-          "verb": [{ "form": "number", "meaning": "lên đến con số" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "number",
+              "meaning": "lên đến con số"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1033,7 +1531,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "1761813174106-35-46-000bcfac",
       "targetLexeme": "thoughts and speculations",
       "sourceContext": "Others, like Michael Faraday, left extensive journals of their thoughts and speculations, parallel to their scientific notebooks.",
       "phase1Inference": {
@@ -1049,7 +1547,15 @@
           "musings and conjectures"
         ],
         "wordForms": {
-          "noun": [{ "form": "speculation", "meaning": "sự phỏng đoán" }]
+          "noun": [
+            {
+              "form": "speculation",
+              "meaning": "sự phỏng đoán"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1058,7 +1564,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "1761813174106-35-47-3c23ca14",
       "targetLexeme": "forming an accurate picture of",
       "sourceContext": "The more such material a scientist leaves behind, the better chance a biographer has of forming an accurate picture of how a scientist’s ideas took shape and evolved.",
       "phase1Inference": {
@@ -1074,7 +1580,15 @@
           "building a true impression of"
         ],
         "wordForms": {
-          "verb": [{ "form": "form", "meaning": "hình thành" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "form",
+              "meaning": "hình thành"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1083,7 +1597,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "1761813174106-35-48-369d17de",
       "targetLexeme": "took shape and evolved",
       "sourceContext": "...how a scientist’s ideas took shape and evolved.",
       "phase1Inference": {
@@ -1094,12 +1608,24 @@
         "sentiment": "neutral",
         "definitionEN": "How something began to develop a clear form and then changed or developed over time.",
         "translationVI": "Hình thành và phát triển",
-        "relatedCollocates": ["developed and changed", "formed and grew"],
+        "relatedCollocates": [
+          "developed and changed",
+          "formed and grew"
+        ],
         "wordForms": {
+          "noun": [],
           "verb": [
-            { "form": "take shape", "meaning": "hình thành" },
-            { "form": "evolve", "meaning": "tiến hóa, phát triển" }
-          ]
+            {
+              "form": "take shape",
+              "meaning": "hình thành"
+            },
+            {
+              "form": "evolve",
+              "meaning": "tiến hóa, phát triển"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1108,7 +1634,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "1761813174106-35-49-325cc183",
       "targetLexeme": "firmly of the opinion that",
       "sourceContext": "I am firmly of the opinion that most of us, Wegener included, are not in any real sense the authors of our own lives.",
       "phase1Inference": {
@@ -1119,9 +1645,20 @@
         "sentiment": "neutral",
         "definitionEN": "To have a strong and unwavering belief about something.",
         "translationVI": "Tin chắc rằng",
-        "relatedCollocates": ["strongly believe that", "convinced that"],
+        "relatedCollocates": [
+          "strongly believe that",
+          "convinced that"
+        ],
         "wordForms": {
-          "noun": [{ "form": "opinion", "meaning": "ý kiến" }]
+          "noun": [
+            {
+              "form": "opinion",
+              "meaning": "ý kiến"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1130,7 +1667,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "1761813174106-35-50-22fa35aa",
       "targetLexeme": "in any real sense",
       "sourceContext": "...are not in any real sense the authors of our own lives.",
       "phase1Inference": {
@@ -1141,9 +1678,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to emphasize that something is not true in any important or meaningful way.",
         "translationVI": "Theo bất kỳ ý nghĩa thực sự nào",
-        "relatedCollocates": ["truly", "in any meaningful way"],
+        "relatedCollocates": [
+          "truly",
+          "in any meaningful way"
+        ],
         "wordForms": {
-          "noun": [{ "form": "sense", "meaning": "ý nghĩa, giác quan" }]
+          "noun": [
+            {
+              "form": "sense",
+              "meaning": "ý nghĩa, giác quan"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1152,7 +1700,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "1761813174106-35-51-31ad9ead",
       "targetLexeme": "act with apparent freedom",
       "sourceContext": "We plan, think, and act, often with apparent freedom...",
       "phase1Inference": {
@@ -1163,9 +1711,20 @@
         "sentiment": "neutral",
         "definitionEN": "To behave in a way that seems to be free and unrestricted, though it may not be in reality.",
         "translationVI": "Hành động với sự tự do biểu kiến",
-        "relatedCollocates": ["seemingly free will", "ostensible autonomy"],
+        "relatedCollocates": [
+          "seemingly free will",
+          "ostensible autonomy"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "apparent", "meaning": "rõ ràng, có vẻ" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "apparent",
+              "meaning": "rõ ràng, có vẻ"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1174,7 +1733,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "1761813174106-35-52-689b85ad",
       "targetLexeme": "happen to us",
       "sourceContext": "...but most of the time our lives ‘happen to us’...",
       "phase1Inference": {
@@ -1185,9 +1744,20 @@
         "sentiment": "neutral",
         "definitionEN": "A philosophical idea that events in our lives occur by chance or external forces, rather than by our own design.",
         "translationVI": "Xảy đến với chúng ta",
-        "relatedCollocates": ["things that occur by chance", "life's events"],
+        "relatedCollocates": [
+          "things that occur by chance",
+          "life's events"
+        ],
         "wordForms": {
-          "verb": [{ "form": "happen", "meaning": "xảy ra" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "happen",
+              "meaning": "xảy ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1196,7 +1766,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "1761813174106-35-53-2b19ef9a",
       "targetLexeme": "retrospectively turn this happenstance into",
       "sourceContext": "...and we only retrospectively turn this happenstance into a coherent narrative of fulfilled intentions.",
       "phase1Inference": {
@@ -1212,8 +1782,14 @@
           "create a narrative in hindsight"
         ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
           "adverb": [
-            { "form": "retrospectively", "meaning": "nhìn lại quá khứ" }
+            {
+              "form": "retrospectively",
+              "meaning": "nhìn lại quá khứ"
+            }
           ]
         }
       },
@@ -1223,7 +1799,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "1761813174106-35-54-35ccd593",
       "targetLexeme": "a coherent narrative",
       "sourceContext": "...a coherent narrative of fulfilled intentions.",
       "phase1Inference": {
@@ -1234,9 +1810,20 @@
         "sentiment": "positive",
         "definitionEN": "A story or account that is logical, consistent, and easy to understand.",
         "translationVI": "Một câu chuyện mạch lạc",
-        "relatedCollocates": ["a logical story", "a consistent account"],
+        "relatedCollocates": [
+          "a logical story",
+          "a consistent account"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "coherent", "meaning": "mạch lạc" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "coherent",
+              "meaning": "mạch lạc"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1245,7 +1832,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "1761813174106-35-55-7ea46ca1",
       "targetLexeme": "fulfilled intentions",
       "sourceContext": "...a coherent narrative of fulfilled intentions.",
       "phase1Inference": {
@@ -1256,9 +1843,20 @@
         "sentiment": "positive",
         "definitionEN": "Aims or plans that have been successfully realized or achieved.",
         "translationVI": "Những ý định đã được thực hiện",
-        "relatedCollocates": ["achieved goals", "realized plans"],
+        "relatedCollocates": [
+          "achieved goals",
+          "realized plans"
+        ],
         "wordForms": {
-          "verb": [{ "form": "fulfill", "meaning": "hoàn thành, thực hiện" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "fulfill",
+              "meaning": "hoàn thành, thực hiện"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1267,7 +1865,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "1761813174106-35-56-3ae00374",
       "targetLexeme": "planned and intended",
       "sourceContext": "This book, therefore, is a story both of the life and scientific work that Alfred Wegener planned and intended and of the life and scientific work that actually ‘happened to him’.",
       "phase1Inference": {
@@ -1278,12 +1876,24 @@
         "sentiment": "neutral",
         "definitionEN": "Things that were deliberately arranged and meant to happen.",
         "translationVI": "Đã lên kế hoạch và dự định",
-        "relatedCollocates": ["deliberate and purposeful", "by design"],
+        "relatedCollocates": [
+          "deliberate and purposeful",
+          "by design"
+        ],
         "wordForms": {
+          "noun": [],
           "verb": [
-            { "form": "plan", "meaning": "lên kế hoạch" },
-            { "form": "intend", "meaning": "dự định" }
-          ]
+            {
+              "form": "plan",
+              "meaning": "lên kế hoạch"
+            },
+            {
+              "form": "intend",
+              "meaning": "dự định"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1292,7 +1902,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "1761813174106-35-57-5ab392d8",
       "targetLexeme": "not always the same",
       "sourceContext": "These are, as I think you will soon see, not always the same.",
       "phase1Inference": {
@@ -1303,9 +1913,20 @@
         "sentiment": "neutral",
         "definitionEN": "Not identical or consistent on every occasion.",
         "translationVI": "Không phải lúc nào cũng giống nhau",
-        "relatedCollocates": ["often different", "can vary"],
+        "relatedCollocates": [
+          "often different",
+          "can vary"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "always", "meaning": "luôn luôn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "always",
+              "meaning": "luôn luôn"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1314,7 +1935,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "1761813174106-35-58-436175d6",
       "targetLexeme": "scientific societies",
       "sourceContext": "He was not active (with a few exceptions) in scientific societies...",
       "phase1Inference": {
@@ -1325,9 +1946,20 @@
         "sentiment": "neutral",
         "definitionEN": "Organizations of scientists that promote cooperation and the advancement of a particular scientific discipline.",
         "translationVI": "Các hiệp hội khoa học",
-        "relatedCollocates": ["academic organizations", "learned societies"],
+        "relatedCollocates": [
+          "academic organizations",
+          "learned societies"
+        ],
         "wordForms": {
-          "noun": [{ "form": "society", "meaning": "hiệp hội, xã hội" }]
+          "noun": [
+            {
+              "form": "society",
+              "meaning": "hiệp hội, xã hội"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1336,7 +1968,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "1761813174106-35-59-412cfc96",
       "targetLexeme": "biographer",
       "sourceContext": "The more such material a scientist leaves behind, the better chance a biographer has of forming an accurate picture...",
       "phase1Inference": {
@@ -1347,9 +1979,20 @@
         "sentiment": "neutral",
         "definitionEN": "A person who writes an account of someone else's life.",
         "translationVI": "Người viết tiểu sử",
-        "relatedCollocates": ["historian", "author"],
+        "relatedCollocates": [
+          "historian",
+          "author"
+        ],
         "wordForms": {
-          "noun": [{ "form": "biography", "meaning": "tiểu sử" }]
+          "noun": [
+            {
+              "form": "biography",
+              "meaning": "tiểu sử"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1358,7 +2001,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "1761813174106-35-60-54275e66",
       "targetLexeme": "happenstance",
       "sourceContext": "...we only retrospectively turn this happenstance into a coherent narrative of fulfilled intentions.",
       "phase1Inference": {
@@ -1369,9 +2012,21 @@
         "sentiment": "neutral",
         "definitionEN": "Coincidence or chance.",
         "translationVI": "Sự tình cờ",
-        "relatedCollocates": ["chance", "coincidence", "serendipity"],
+        "relatedCollocates": [
+          "chance",
+          "coincidence",
+          "serendipity"
+        ],
         "wordForms": {
-          "noun": [{ "form": "happenstance", "meaning": "sự tình cờ" }]
+          "noun": [
+            {
+              "form": "happenstance",
+              "meaning": "sự tình cờ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1380,7 +2035,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "1761813174106-35-61-1d673957",
       "targetLexeme": "for years on end",
       "sourceContext": "...he often stopped pursuing a given line of investigation (sometimes for years on end), only to pick it up later.",
       "phase1Inference": {
@@ -1396,7 +2051,15 @@
           "continuously for years"
         ],
         "wordForms": {
-          "noun": [{ "form": "year", "meaning": "năm" }]
+          "noun": [
+            {
+              "form": "year",
+              "meaning": "năm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1405,7 +2068,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "1761813174106-35-62-71be0244",
       "targetLexeme": "pick it up later",
       "sourceContext": "...only to pick it up later.",
       "phase1Inference": {
@@ -1416,9 +2079,20 @@
         "sentiment": "neutral",
         "definitionEN": "To resume or continue something after a pause or interruption.",
         "translationVI": "Tiếp tục lại sau",
-        "relatedCollocates": ["resume later", "continue again"],
+        "relatedCollocates": [
+          "resume later",
+          "continue again"
+        ],
         "wordForms": {
-          "verb": [{ "form": "pick up", "meaning": "tiếp tục, nhặt lên" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "pick up",
+              "meaning": "tiếp tục, nhặt lên"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1427,7 +2101,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "1761813174106-35-63-5ae7205e",
       "targetLexeme": "changes of mind",
       "sourceContext": "...with all the interruptions, changes of mind, and renewed efforts this entailed.",
       "phase1Inference": {
@@ -1438,11 +2112,20 @@
         "sentiment": "neutral",
         "definitionEN": "Decisions to do something different from what had been decided before.",
         "translationVI": "Những thay đổi trong suy nghĩ",
-        "relatedCollocates": ["reconsiderations", "second thoughts"],
+        "relatedCollocates": [
+          "reconsiderations",
+          "second thoughts"
+        ],
         "wordForms": {
           "noun": [
-            { "form": "change of mind", "meaning": "sự thay đổi ý định" }
-          ]
+            {
+              "form": "change of mind",
+              "meaning": "sự thay đổi ý định"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1451,7 +2134,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "1761813174106-35-64-2f31d7c5",
       "targetLexeme": "published works",
       "sourceContext": "Wegener left behind a few published works but, as was standard practice, these reported the results of his work...",
       "phase1Inference": {
@@ -1462,9 +2145,20 @@
         "sentiment": "neutral",
         "definitionEN": "Books, articles, or other texts that have been printed and made available to the public.",
         "translationVI": "Các công trình đã xuất bản",
-        "relatedCollocates": ["publications", "published writings"],
+        "relatedCollocates": [
+          "publications",
+          "published writings"
+        ],
         "wordForms": {
-          "noun": [{ "form": "work", "meaning": "tác phẩm, công trình" }]
+          "noun": [
+            {
+              "form": "work",
+              "meaning": "tác phẩm, công trình"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1473,7 +2167,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "1761813174106-35-65-05a016a6",
       "targetLexeme": "the journey he took",
       "sourceContext": "...these reported the results of his work – not the journey he took to reach that point.",
       "phase1Inference": {
@@ -1484,9 +2178,20 @@
         "sentiment": "neutral",
         "definitionEN": "The process, struggles, and experiences he went through to achieve something.",
         "translationVI": "Hành trình ông đã đi",
-        "relatedCollocates": ["the process he went through", "his path"],
+        "relatedCollocates": [
+          "the process he went through",
+          "his path"
+        ],
         "wordForms": {
-          "noun": [{ "form": "journey", "meaning": "hành trình" }]
+          "noun": [
+            {
+              "form": "journey",
+              "meaning": "hành trình"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1495,7 +2200,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "1761813174106-35-66-24bdc4f9",
       "targetLexeme": "parallel to",
       "sourceContext": "Others, like Michael Faraday, left extensive journals of their thoughts and speculations, parallel to their scientific notebooks.",
       "phase1Inference": {
@@ -1506,9 +2211,20 @@
         "sentiment": "neutral",
         "definitionEN": "Occurring or existing at the same time or in a similar way; alongside.",
         "translationVI": "Song song với",
-        "relatedCollocates": ["alongside", "in conjunction with"],
+        "relatedCollocates": [
+          "alongside",
+          "in conjunction with"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "parallel", "meaning": "song song" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "parallel",
+              "meaning": "song song"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1517,7 +2233,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "1761813174106-35-67-52c9c2c8",
       "targetLexeme": "the authors of our own lives",
       "sourceContext": "I am firmly of the opinion that most of us, Wegener included, are not in any real sense the authors of our own lives.",
       "phase1Inference": {
@@ -1533,7 +2249,15 @@
           "in control of our destiny"
         ],
         "wordForms": {
-          "noun": [{ "form": "author", "meaning": "tác giả" }]
+          "noun": [
+            {
+              "form": "author",
+              "meaning": "tác giả"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1542,7 +2266,7 @@
       }
     },
     {
-      "id": 69,
+      "id": "1761813174106-35-68-67a85291",
       "targetLexeme": "in his lifetime",
       "sourceContext": "...was the focus of an international controversy in his lifetime and for some years after his death.",
       "phase1Inference": {
@@ -1553,9 +2277,20 @@
         "sentiment": "neutral",
         "definitionEN": "During the period of time that he was alive.",
         "translationVI": "Khi ông còn sống",
-        "relatedCollocates": ["during his life", "while he was alive"],
+        "relatedCollocates": [
+          "during his life",
+          "while he was alive"
+        ],
         "wordForms": {
-          "noun": [{ "form": "lifetime", "meaning": "cuộc đời" }]
+          "noun": [
+            {
+              "form": "lifetime",
+              "meaning": "cuộc đời"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1564,7 +2299,7 @@
       }
     },
     {
-      "id": 70,
+      "id": "1761813174106-35-69-340b4d2e",
       "targetLexeme": "in southern Germany",
       "sourceContext": "When he proposed the theory of continental displacements in 1912, he was a lecturer in physics and astronomy at the University of Marburg, in southern Germany.",
       "phase1Inference": {
@@ -1575,9 +2310,20 @@
         "sentiment": "neutral",
         "definitionEN": "Located in the southern part of the country of Germany.",
         "translationVI": "Ở miền nam nước Đức",
-        "relatedCollocates": ["the south of Germany", "Bavaria"],
+        "relatedCollocates": [
+          "the south of Germany",
+          "Bavaria"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "southern", "meaning": "phía nam" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "southern",
+              "meaning": "phía nam"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1586,7 +2332,7 @@
       }
     },
     {
-      "id": 71,
+      "id": "1761813174106-35-70-59d921d2",
       "targetLexeme": "a lecturer in physics",
       "sourceContext": "...he was a lecturer in physics and astronomy at the University of Marburg...",
       "phase1Inference": {
@@ -1597,9 +2343,20 @@
         "sentiment": "neutral",
         "definitionEN": "A person who gives lectures at a university or college on the subject of physics.",
         "translationVI": "Một giảng viên vật lý",
-        "relatedCollocates": ["physics professor", "academic"],
+        "relatedCollocates": [
+          "physics professor",
+          "academic"
+        ],
         "wordForms": {
-          "noun": [{ "form": "lecturer", "meaning": "giảng viên" }]
+          "noun": [
+            {
+              "form": "lecturer",
+              "meaning": "giảng viên"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1608,7 +2365,7 @@
       }
     },
     {
-      "id": 72,
+      "id": "1761813174106-35-71-1d600918",
       "targetLexeme": "a small circle of",
       "sourceContext": "He had also made a name for himself amongst a small circle of meteorologists and atmospheric physicists in Germany...",
       "phase1Inference": {
@@ -1619,9 +2376,20 @@
         "sentiment": "neutral",
         "definitionEN": "A small, exclusive group of people with a shared interest or profession.",
         "translationVI": "Một nhóm nhỏ",
-        "relatedCollocates": ["a small group of", "an exclusive group of"],
+        "relatedCollocates": [
+          "a small group of",
+          "an exclusive group of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "circle", "meaning": "vòng tròn, nhóm" }]
+          "noun": [
+            {
+              "form": "circle",
+              "meaning": "vòng tròn, nhóm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1630,7 +2398,7 @@
       }
     },
     {
-      "id": 73,
+      "id": "1761813174106-35-72-6c3b79c8",
       "targetLexeme": "a particular aspect of",
       "sourceContext": "...a sufficient guide for those interested in a particular aspect of Wegener’s life...",
       "phase1Inference": {
@@ -1641,9 +2409,20 @@
         "sentiment": "neutral",
         "definitionEN": "One specific part or feature of something.",
         "translationVI": "Một khía cạnh cụ thể của",
-        "relatedCollocates": ["a specific feature of", "one part of"],
+        "relatedCollocates": [
+          "a specific feature of",
+          "one part of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "aspect", "meaning": "khía cạnh" }]
+          "noun": [
+            {
+              "form": "aspect",
+              "meaning": "khía cạnh"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1652,7 +2431,7 @@
       }
     },
     {
-      "id": 74,
+      "id": "1761813174106-35-73-5c300452",
       "targetLexeme": "urge readers to",
       "sourceContext": "In this respect I urge readers to try to experience Wegener’s life as he lived it...",
       "phase1Inference": {
@@ -1668,7 +2447,15 @@
           "strongly advise readers to"
         ],
         "wordForms": {
-          "verb": [{ "form": "urge", "meaning": "thúc giục" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "urge",
+              "meaning": "thúc giục"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1677,7 +2464,7 @@
       }
     },
     {
-      "id": 75,
+      "id": "1761813174106-35-74-665d6ace",
       "targetLexeme": "as he lived it",
       "sourceContext": "...to experience Wegener’s life as he lived it...",
       "phase1Inference": {
@@ -1688,9 +2475,20 @@
         "sentiment": "neutral",
         "definitionEN": "In the way that he actually experienced it, with all its complexities and uncertainties.",
         "translationVI": "Như cách ông đã sống",
-        "relatedCollocates": ["from his perspective", "in real-time"],
+        "relatedCollocates": [
+          "from his perspective",
+          "in real-time"
+        ],
         "wordForms": {
-          "verb": [{ "form": "live", "meaning": "sống" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "live",
+              "meaning": "sống"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1699,7 +2497,7 @@
       }
     },
     {
-      "id": 76,
+      "id": "1761813174106-35-75-39f2a731",
       "targetLexeme": "interruptions",
       "sourceContext": "...with all the interruptions, changes of mind, and renewed efforts this entailed.",
       "phase1Inference": {
@@ -1710,9 +2508,20 @@
         "sentiment": "negative",
         "definitionEN": "Things that temporarily stop an activity or process.",
         "translationVI": "Những gián đoạn",
-        "relatedCollocates": ["disruptions", "breaks"],
+        "relatedCollocates": [
+          "disruptions",
+          "breaks"
+        ],
         "wordForms": {
-          "noun": [{ "form": "interruption", "meaning": "sự gián đoạn" }]
+          "noun": [
+            {
+              "form": "interruption",
+              "meaning": "sự gián đoạn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1721,7 +2530,7 @@
       }
     },
     {
-      "id": 77,
+      "id": "1761813174106-35-76-63ee1389",
       "targetLexeme": "spending most of his time",
       "sourceContext": "...spending most of his time at home in his study reading and writing, or in the field collecting observations.",
       "phase1Inference": {
@@ -1737,7 +2546,15 @@
           "primarily engaged in"
         ],
         "wordForms": {
-          "verb": [{ "form": "spend", "meaning": "dành, tiêu" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "spend",
+              "meaning": "dành, tiêu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1746,7 +2563,7 @@
       }
     },
     {
-      "id": 78,
+      "id": "1761813174106-35-77-22534498",
       "targetLexeme": "in his study",
       "sourceContext": "...at home in his study reading and writing...",
       "phase1Inference": {
@@ -1757,9 +2574,20 @@
         "sentiment": "neutral",
         "definitionEN": "In a room in a house used for quiet work such as reading or writing.",
         "translationVI": "Trong phòng làm việc của ông",
-        "relatedCollocates": ["in his office", "in his library"],
+        "relatedCollocates": [
+          "in his office",
+          "in his library"
+        ],
         "wordForms": {
-          "noun": [{ "form": "study", "meaning": "phòng làm việc" }]
+          "noun": [
+            {
+              "form": "study",
+              "meaning": "phòng làm việc"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1768,7 +2596,7 @@
       }
     },
     {
-      "id": 79,
+      "id": "1761813174106-35-78-6b786408",
       "targetLexeme": "extensive journals",
       "sourceContext": "Others, like Michael Faraday, left extensive journals of their thoughts and speculations...",
       "phase1Inference": {
@@ -1779,11 +2607,20 @@
         "sentiment": "neutral",
         "definitionEN": "Very detailed and comprehensive personal records of events, thoughts, and feelings.",
         "translationVI": "Những cuốn nhật ký chi tiết",
-        "relatedCollocates": ["detailed diaries", "comprehensive logs"],
+        "relatedCollocates": [
+          "detailed diaries",
+          "comprehensive logs"
+        ],
         "wordForms": {
+          "noun": [],
+          "verb": [],
           "adjective": [
-            { "form": "extensive", "meaning": "sâu rộng, chi tiết" }
-          ]
+            {
+              "form": "extensive",
+              "meaning": "sâu rộng, chi tiết"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1792,7 +2629,7 @@
       }
     },
     {
-      "id": 80,
+      "id": "1761813174106-35-79-46c16961",
       "targetLexeme": "Wegener included",
       "sourceContext": "I am firmly of the opinion that most of us, Wegener included, are not in any real sense the authors of our own lives.",
       "phase1Inference": {
@@ -1803,9 +2640,20 @@
         "sentiment": "neutral",
         "definitionEN": "Including Wegener as part of the group being discussed.",
         "translationVI": "Bao gồm cả Wegener",
-        "relatedCollocates": ["including Wegener", "Wegener as well"],
+        "relatedCollocates": [
+          "including Wegener",
+          "Wegener as well"
+        ],
         "wordForms": {
-          "verb": [{ "form": "include", "meaning": "bao gồm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "include",
+              "meaning": "bao gồm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1814,7 +2662,7 @@
       }
     },
     {
-      "id": 81,
+      "id": "1761813174106-35-80-54086889",
       "targetLexeme": "basic idea",
       "sourceContext": "Wegener’s basic idea was that many mysteries about the Earth’s history could be solved if one supposed that the continents moved laterally...",
       "phase1Inference": {
@@ -1825,9 +2673,20 @@
         "sentiment": "neutral",
         "definitionEN": "The fundamental or main concept.",
         "translationVI": "Ý tưởng cơ bản",
-        "relatedCollocates": ["fundamental concept", "core idea"],
+        "relatedCollocates": [
+          "fundamental concept",
+          "core idea"
+        ],
         "wordForms": {
-          "adjective": [{ "form": "basic", "meaning": "cơ bản" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "basic",
+              "meaning": "cơ bản"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1836,7 +2695,7 @@
       }
     },
     {
-      "id": 82,
+      "id": "1761813174106-35-81-515b7f71",
       "targetLexeme": "in great detail",
       "sourceContext": "Wegener showed in great detail how such continental movements were plausible...",
       "phase1Inference": {
@@ -1847,9 +2706,21 @@
         "sentiment": "neutral",
         "definitionEN": "Including many facts or aspects of a situation; thoroughly.",
         "translationVI": "Rất chi tiết",
-        "relatedCollocates": ["in detail", "thoroughly", "comprehensively"],
+        "relatedCollocates": [
+          "in detail",
+          "thoroughly",
+          "comprehensively"
+        ],
         "wordForms": {
-          "noun": [{ "form": "detail", "meaning": "chi tiết" }]
+          "noun": [
+            {
+              "form": "detail",
+              "meaning": "chi tiết"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1858,7 +2729,7 @@
       }
     },
     {
-      "id": 83,
+      "id": "1761813174106-35-82-6aaaa831",
       "targetLexeme": "namely",
       "sourceContext": "...the theory that guides Earth sciences today: namely plate tectonics.",
       "phase1Inference": {
@@ -1869,9 +2740,20 @@
         "sentiment": "neutral",
         "definitionEN": "Used to introduce more specific information about something you have just mentioned.",
         "translationVI": "Cụ thể là",
-        "relatedCollocates": ["that is to say", "specifically"],
+        "relatedCollocates": [
+          "that is to say",
+          "specifically"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "namely", "meaning": "cụ thể là" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "namely",
+              "meaning": "cụ thể là"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -1880,7 +2762,7 @@
       }
     },
     {
-      "id": 84,
+      "id": "1761813174106-35-83-7c2f53c8",
       "targetLexeme": "in quite the same way that",
       "sourceContext": "...in quite the same way that modern evolutionary theory is a descendant of Darwin’s theory...",
       "phase1Inference": {
@@ -1891,9 +2773,20 @@
         "sentiment": "neutral",
         "definitionEN": "In exactly the same manner as.",
         "translationVI": "Theo đúng cách mà",
-        "relatedCollocates": ["in exactly the same way", "just as"],
+        "relatedCollocates": [
+          "in exactly the same way",
+          "just as"
+        ],
         "wordForms": {
-          "noun": [{ "form": "way", "meaning": "cách" }]
+          "noun": [
+            {
+              "form": "way",
+              "meaning": "cách"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1902,7 +2795,7 @@
       }
     },
     {
-      "id": 85,
+      "id": "1761813174106-35-84-033ccdce",
       "targetLexeme": "came up with a theory",
       "sourceContext": "...although he came up with a theory on continental drift, he was not a geologist.",
       "phase1Inference": {
@@ -1913,9 +2806,20 @@
         "sentiment": "positive",
         "definitionEN": "To have thought of or suggested a new idea or explanation.",
         "translationVI": "Nảy ra một lý thuyết",
-        "relatedCollocates": ["devised a theory", "proposed a theory"],
+        "relatedCollocates": [
+          "devised a theory",
+          "proposed a theory"
+        ],
         "wordForms": {
-          "verb": [{ "form": "come up with", "meaning": "nảy ra" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "come up with",
+              "meaning": "nảy ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1924,7 +2828,7 @@
       }
     },
     {
-      "id": 86,
+      "id": "1761813174106-35-85-0f13e7df",
       "targetLexeme": "scientific work",
       "sourceContext": "This is a book about the life and scientific work of Alfred Wegener...",
       "phase1Inference": {
@@ -1935,9 +2839,21 @@
         "sentiment": "neutral",
         "definitionEN": "Research and activity that is done as part of a scientific field of study.",
         "translationVI": "Công trình khoa học",
-        "relatedCollocates": ["research", "studies", "academic work"],
+        "relatedCollocates": [
+          "research",
+          "studies",
+          "academic work"
+        ],
         "wordForms": {
-          "noun": [{ "form": "work", "meaning": "công trình, công việc" }]
+          "noun": [
+            {
+              "form": "work",
+              "meaning": "công trình, công việc"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1946,7 +2862,7 @@
       }
     },
     {
-      "id": 87,
+      "id": "1761813174106-35-86-783757a9",
       "targetLexeme": "went through four editions",
       "sourceContext": "His book on the subject... went through four editions and was the focus of an international controversy...",
       "phase1Inference": {
@@ -1957,9 +2873,20 @@
         "sentiment": "neutral",
         "definitionEN": "To be published four separate times, often with updates or revisions in each new version.",
         "translationVI": "Trải qua bốn lần xuất bản",
-        "relatedCollocates": ["was reprinted", "revised edition"],
+        "relatedCollocates": [
+          "was reprinted",
+          "revised edition"
+        ],
         "wordForms": {
-          "noun": [{ "form": "edition", "meaning": "lần xuất bản" }]
+          "noun": [
+            {
+              "form": "edition",
+              "meaning": "lần xuất bản"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1968,7 +2895,7 @@
       }
     },
     {
-      "id": 88,
+      "id": "1761813174106-35-87-16a9afc8",
       "targetLexeme": "the focus of",
       "sourceContext": "...was the focus of an international controversy in his lifetime...",
       "phase1Inference": {
@@ -1979,9 +2906,20 @@
         "sentiment": "neutral",
         "definitionEN": "The central point of attention or activity.",
         "translationVI": "Tâm điểm của",
-        "relatedCollocates": ["the center of", "the main subject of"],
+        "relatedCollocates": [
+          "the center of",
+          "the main subject of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "focus", "meaning": "sự tập trung, tâm điểm" }]
+          "noun": [
+            {
+              "form": "focus",
+              "meaning": "sự tập trung, tâm điểm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -1990,7 +2928,7 @@
       }
     },
     {
-      "id": 89,
+      "id": "1761813174106-35-88-3fd64cee",
       "targetLexeme": "mysteries about",
       "sourceContext": "Wegener’s basic idea was that many mysteries about the Earth’s history could be solved...",
       "phase1Inference": {
@@ -2001,9 +2939,20 @@
         "sentiment": "neutral",
         "definitionEN": "Things that are difficult or impossible to understand or explain concerning a particular subject.",
         "translationVI": "Những bí ẩn về",
-        "relatedCollocates": ["puzzles surrounding", "unexplained aspects of"],
+        "relatedCollocates": [
+          "puzzles surrounding",
+          "unexplained aspects of"
+        ],
         "wordForms": {
-          "noun": [{ "form": "mystery", "meaning": "bí ẩn" }]
+          "noun": [
+            {
+              "form": "mystery",
+              "meaning": "bí ẩn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2012,7 +2961,7 @@
       }
     },
     {
-      "id": 90,
+      "id": "1761813174106-35-89-0a68342d",
       "targetLexeme": "if one supposed that",
       "sourceContext": "...if one supposed that the continents moved laterally...",
       "phase1Inference": {
@@ -2023,9 +2972,20 @@
         "sentiment": "neutral",
         "definitionEN": "A formal way of introducing a hypothetical condition or assumption for the sake of argument.",
         "translationVI": "Nếu người ta cho rằng",
-        "relatedCollocates": ["if we assume that", "on the hypothesis that"],
+        "relatedCollocates": [
+          "if we assume that",
+          "on the hypothesis that"
+        ],
         "wordForms": {
-          "verb": [{ "form": "suppose", "meaning": "giả sử, cho rằng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "suppose",
+              "meaning": "giả sử, cho rằng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2034,7 +2994,7 @@
       }
     },
     {
-      "id": 91,
+      "id": "1761813174106-35-90-0d5a5f7c",
       "targetLexeme": "guides Earth sciences",
       "sourceContext": "...the theory that guides Earth sciences today: namely plate tectonics.",
       "phase1Inference": {
@@ -2045,9 +3005,20 @@
         "sentiment": "positive",
         "definitionEN": "To serve as the fundamental principle or model that directs research and understanding in the fields of Earth science.",
         "translationVI": "Định hướng các ngành khoa học Trái Đất",
-        "relatedCollocates": ["underpins", "forms the basis of"],
+        "relatedCollocates": [
+          "underpins",
+          "forms the basis of"
+        ],
         "wordForms": {
-          "verb": [{ "form": "guide", "meaning": "hướng dẫn, định hướng" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "guide",
+              "meaning": "hướng dẫn, định hướng"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2056,7 +3027,7 @@
       }
     },
     {
-      "id": 92,
+      "id": "1761813174106-35-91-6678d42f",
       "targetLexeme": "evolutionary theory",
       "sourceContext": "...modern evolutionary theory is a descendant of Darwin’s theory of natural selection.",
       "phase1Inference": {
@@ -2067,9 +3038,20 @@
         "sentiment": "neutral",
         "definitionEN": "The scientific theory that explains the origin and development of species through processes like natural selection and genetic variation.",
         "translationVI": "Thuyết tiến hóa",
-        "relatedCollocates": ["theory of evolution", "Darwinism"],
+        "relatedCollocates": [
+          "theory of evolution",
+          "Darwinism"
+        ],
         "wordForms": {
-          "noun": [{ "form": "evolution", "meaning": "sự tiến hóa" }]
+          "noun": [
+            {
+              "form": "evolution",
+              "meaning": "sự tiến hóa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2078,7 +3060,7 @@
       }
     },
     {
-      "id": 93,
+      "id": "1761813174106-35-92-33b36a7c",
       "targetLexeme": "trained as an",
       "sourceContext": "He trained as an astronomer and pursued a career in atmospheric physics.",
       "phase1Inference": {
@@ -2089,9 +3071,20 @@
         "sentiment": "neutral",
         "definitionEN": "To have received education and instruction to become a particular type of professional.",
         "translationVI": "Được đào tạo như một",
-        "relatedCollocates": ["educated as", "qualified as"],
+        "relatedCollocates": [
+          "educated as",
+          "qualified as"
+        ],
         "wordForms": {
-          "verb": [{ "form": "train", "meaning": "đào tạo" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "train",
+              "meaning": "đào tạo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2100,7 +3093,7 @@
       }
     },
     {
-      "id": 94,
+      "id": "1761813174106-35-93-319e5c7e",
       "targetLexeme": "set a world record",
       "sourceContext": "In 1906 he had set a world record (with his brother Kurt) for time aloft in a hot-air balloon: 52 hours.",
       "phase1Inference": {
@@ -2111,9 +3104,20 @@
         "sentiment": "positive",
         "definitionEN": "To achieve the best performance in the world in a particular activity.",
         "translationVI": "Lập kỷ lục thế giới",
-        "relatedCollocates": ["break a record", "achieve a record"],
+        "relatedCollocates": [
+          "break a record",
+          "achieve a record"
+        ],
         "wordForms": {
-          "noun": [{ "form": "record", "meaning": "kỷ lục" }]
+          "noun": [
+            {
+              "form": "record",
+              "meaning": "kỷ lục"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2122,7 +3126,7 @@
       }
     },
     {
-      "id": 95,
+      "id": "1761813174106-35-94-1efce5b4",
       "targetLexeme": "time aloft",
       "sourceContext": "...for time aloft in a hot-air balloon: 52 hours.",
       "phase1Inference": {
@@ -2133,9 +3137,20 @@
         "sentiment": "neutral",
         "definitionEN": "The duration spent in the air or flying.",
         "translationVI": "Thời gian ở trên không",
-        "relatedCollocates": ["flight duration", "time in the air"],
+        "relatedCollocates": [
+          "flight duration",
+          "time in the air"
+        ],
         "wordForms": {
-          "adverb": [{ "form": "aloft", "meaning": "ở trên cao" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "aloft",
+              "meaning": "ở trên cao"
+            }
+          ]
         }
       },
       "phase3Production": {
@@ -2144,7 +3159,7 @@
       }
     },
     {
-      "id": 96,
+      "id": "1761813174106-35-95-07d1d400",
       "targetLexeme": "dangerous expedition",
       "sourceContext": "...he had taken part in a highly publicized and extremely dangerous expedition to the coast of northeast Greenland.",
       "phase1Inference": {
@@ -2155,9 +3170,20 @@
         "sentiment": "negative",
         "definitionEN": "A journey undertaken by a group of people with a particular purpose, especially that of exploration or research, which involves great risk.",
         "translationVI": "Chuyến thám hiểm nguy hiểm",
-        "relatedCollocates": ["perilous journey", "hazardous voyage"],
+        "relatedCollocates": [
+          "perilous journey",
+          "hazardous voyage"
+        ],
         "wordForms": {
-          "noun": [{ "form": "expedition", "meaning": "chuyến thám hiểm" }]
+          "noun": [
+            {
+              "form": "expedition",
+              "meaning": "chuyến thám hiểm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2166,7 +3192,7 @@
       }
     },
     {
-      "id": 97,
+      "id": "1761813174106-35-96-53316db7",
       "targetLexeme": "meteorologists",
       "sourceContext": "...amongst a small circle of meteorologists and atmospheric physicists in Germany...",
       "phase1Inference": {
@@ -2177,9 +3203,20 @@
         "sentiment": "neutral",
         "definitionEN": "Scientists who study meteorology, the science dealing with the atmosphere and its phenomena, including weather and climate.",
         "translationVI": "Các nhà khí tượng học",
-        "relatedCollocates": ["weather forecasters", "climatologists"],
+        "relatedCollocates": [
+          "weather forecasters",
+          "climatologists"
+        ],
         "wordForms": {
-          "noun": [{ "form": "meteorology", "meaning": "khí tượng học" }]
+          "noun": [
+            {
+              "form": "meteorology",
+              "meaning": "khí tượng học"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2188,7 +3225,7 @@
       }
     },
     {
-      "id": 98,
+      "id": "1761813174106-35-97-495766ba",
       "targetLexeme": "scientific papers",
       "sourceContext": "...and of a number of interesting scientific papers.",
       "phase1Inference": {
@@ -2205,7 +3242,15 @@
           "publications"
         ],
         "wordForms": {
-          "noun": [{ "form": "paper", "meaning": "bài báo" }]
+          "noun": [
+            {
+              "form": "paper",
+              "meaning": "bài báo"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2214,7 +3259,7 @@
       }
     },
     {
-      "id": 99,
+      "id": "1761813174106-35-98-5b34b33f",
       "targetLexeme": "atmospheric sciences",
       "sourceContext": "...and even the larger context of atmospheric sciences in his lifetime.",
       "phase1Inference": {
@@ -2225,9 +3270,21 @@
         "sentiment": "neutral",
         "definitionEN": "The group of scientific disciplines that study the Earth's atmosphere, its processes, and its effects.",
         "translationVI": "Các ngành khoa học khí quyển",
-        "relatedCollocates": ["meteorology", "climatology", "aeronomy"],
+        "relatedCollocates": [
+          "meteorology",
+          "climatology",
+          "aeronomy"
+        ],
         "wordForms": {
-          "noun": [{ "form": "science", "meaning": "khoa học" }]
+          "noun": [
+            {
+              "form": "science",
+              "meaning": "khoa học"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2236,7 +3293,7 @@
       }
     },
     {
-      "id": 100,
+      "id": "1761813174106-35-99-1ccfa965",
       "targetLexeme": "My treatment of",
       "sourceContext": "My treatment of his other scientific work is no less detailed...",
       "phase1Inference": {
@@ -2253,7 +3310,15 @@
           "my approach to"
         ],
         "wordForms": {
-          "noun": [{ "form": "treatment", "meaning": "sự xử lý, sự trình bày" }]
+          "noun": [
+            {
+              "form": "treatment",
+              "meaning": "sự xử lý, sự trình bày"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2262,7 +3327,7 @@
       }
     },
     {
-      "id": 101,
+      "id": "1761813174106-35-100-045a2e67",
       "targetLexeme": "reported the results",
       "sourceContext": "...these reported the results of his work – not the journey he took to reach that point.",
       "phase1Inference": {
@@ -2278,7 +3343,15 @@
           "published the outcomes"
         ],
         "wordForms": {
-          "verb": [{ "form": "report", "meaning": "báo cáo" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "report",
+              "meaning": "báo cáo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2287,7 +3360,7 @@
       }
     },
     {
-      "id": 102,
+      "id": "1761813174106-35-101-3f887455",
       "targetLexeme": "recorded his life",
       "sourceContext": "...and he didn’t keep notebooks or diaries that recorded his life and activities.",
       "phase1Inference": {
@@ -2303,7 +3376,15 @@
           "chronicled his activities"
         ],
         "wordForms": {
-          "verb": [{ "form": "record", "meaning": "ghi lại" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "record",
+              "meaning": "ghi lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2312,7 +3393,7 @@
       }
     },
     {
-      "id": 103,
+      "id": "1761813174106-35-102-0094a47b",
       "targetLexeme": "seek to find influence",
       "sourceContext": "...and did not seek to find influence or advance his ideas through professional contacts and politics...",
       "phase1Inference": {
@@ -2323,9 +3404,20 @@
         "sentiment": "neutral",
         "definitionEN": "To try to gain the power to have an effect on people or events.",
         "translationVI": "Tìm kiếm sự ảnh hưởng",
-        "relatedCollocates": ["try to gain power", "look for leverage"],
+        "relatedCollocates": [
+          "try to gain power",
+          "look for leverage"
+        ],
         "wordForms": {
-          "verb": [{ "form": "seek", "meaning": "tìm kiếm" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "seek",
+              "meaning": "tìm kiếm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2334,7 +3426,7 @@
       }
     },
     {
-      "id": 104,
+      "id": "1761813174106-35-103-66554db3",
       "targetLexeme": "in the field",
       "sourceContext": "...or in the field collecting observations.",
       "phase1Inference": {
@@ -2345,9 +3437,20 @@
         "sentiment": "neutral",
         "definitionEN": "Working in the natural environment for research, as opposed to in a laboratory or office.",
         "translationVI": "Trên thực địa",
-        "relatedCollocates": ["on location", "doing fieldwork"],
+        "relatedCollocates": [
+          "on location",
+          "doing fieldwork"
+        ],
         "wordForms": {
-          "noun": [{ "form": "field", "meaning": "lĩnh vực, thực địa" }]
+          "noun": [
+            {
+              "form": "field",
+              "meaning": "lĩnh vực, thực địa"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2356,7 +3459,7 @@
       }
     },
     {
-      "id": 105,
+      "id": "1761813174106-35-104-629a3862",
       "targetLexeme": "scientific notebooks",
       "sourceContext": "...parallel to their scientific notebooks.",
       "phase1Inference": {
@@ -2367,9 +3470,20 @@
         "sentiment": "neutral",
         "definitionEN": "Books in which scientists record their experiments, observations, data, and ideas.",
         "translationVI": "Sổ tay khoa học",
-        "relatedCollocates": ["lab journals", "research logs"],
+        "relatedCollocates": [
+          "lab journals",
+          "research logs"
+        ],
         "wordForms": {
-          "noun": [{ "form": "notebook", "meaning": "sổ tay" }]
+          "noun": [
+            {
+              "form": "notebook",
+              "meaning": "sổ tay"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2378,7 +3492,7 @@
       }
     },
     {
-      "id": 106,
+      "id": "1761813174106-35-105-1b1903ba",
       "targetLexeme": "the better chance",
       "sourceContext": "The more such material a scientist leaves behind, the better chance a biographer has of forming an accurate picture...",
       "phase1Inference": {
@@ -2389,9 +3503,20 @@
         "sentiment": "positive",
         "definitionEN": "A greater likelihood or opportunity for something to happen.",
         "translationVI": "Cơ hội tốt hơn",
-        "relatedCollocates": ["a greater likelihood", "a higher probability"],
+        "relatedCollocates": [
+          "a greater likelihood",
+          "a higher probability"
+        ],
         "wordForms": {
-          "noun": [{ "form": "chance", "meaning": "cơ hội" }]
+          "noun": [
+            {
+              "form": "chance",
+              "meaning": "cơ hội"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2400,7 +3525,7 @@
       }
     },
     {
-      "id": 107,
+      "id": "1761813174106-35-106-2d276a6d",
       "targetLexeme": "actually ‘happened to him’",
       "sourceContext": "...and of the life and scientific work that actually ‘happened to him’.",
       "phase1Inference": {
@@ -2411,9 +3536,20 @@
         "sentiment": "neutral",
         "definitionEN": "A phrase suggesting that events occurred due to chance or external circumstances rather than his own deliberate planning.",
         "translationVI": "Thực sự 'xảy đến với ông'",
-        "relatedCollocates": ["occurred by chance", "happened by circumstance"],
+        "relatedCollocates": [
+          "occurred by chance",
+          "happened by circumstance"
+        ],
         "wordForms": {
-          "verb": [{ "form": "happen", "meaning": "xảy ra" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "happen",
+              "meaning": "xảy ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2422,7 +3558,7 @@
       }
     },
     {
-      "id": 108,
+      "id": "1761813174106-35-107-19fb9d3e",
       "targetLexeme": "as you will soon see",
       "sourceContext": "These are, as I think you will soon see, not always the same.",
       "phase1Inference": {
@@ -2433,9 +3569,20 @@
         "sentiment": "neutral",
         "definitionEN": "A phrase used by an author to signal to the reader that a point will be demonstrated or explained shortly.",
         "translationVI": "Như bạn sẽ sớm thấy",
-        "relatedCollocates": ["as we will discover", "as will become clear"],
+        "relatedCollocates": [
+          "as we will discover",
+          "as will become clear"
+        ],
         "wordForms": {
-          "verb": [{ "form": "see", "meaning": "thấy" }]
+          "noun": [],
+          "verb": [
+            {
+              "form": "see",
+              "meaning": "thấy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2444,7 +3591,7 @@
       }
     },
     {
-      "id": 109,
+      "id": "1761813174106-35-108-0a2a83bb",
       "targetLexeme": "in the even larger context of",
       "sourceContext": "...and in the even larger context of atmospheric sciences in his lifetime.",
       "phase1Inference": {
@@ -2460,7 +3607,15 @@
           "on an even grander scale"
         ],
         "wordForms": {
-          "adjective": [{ "form": "large", "meaning": "lớn" }]
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "large",
+              "meaning": "lớn"
+            }
+          ],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2469,7 +3624,7 @@
       }
     },
     {
-      "id": 110,
+      "id": "1761813174106-35-109-7899e8d6",
       "targetLexeme": "My own feeling, however, is that",
       "sourceContext": "My own feeling, however, is that the parts do not make as much sense on their own...",
       "phase1Inference": {
@@ -2485,7 +3640,15 @@
           "personally, I believe that"
         ],
         "wordForms": {
-          "noun": [{ "form": "feeling", "meaning": "cảm giác, cảm nhận" }]
+          "noun": [
+            {
+              "form": "feeling",
+              "meaning": "cảm giác, cảm nhận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
         }
       },
       "phase3Production": {
@@ -2493,5 +3656,11 @@
         "content": "Many experts disagree. My own feeling, however, is that the new policy will ultimately succeed."
       }
     }
-  ]
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T08:32:54.106Z",
+    "version": "2.0",
+    "originalCount": 110,
+    "migratedCount": 110
+  }
 }
