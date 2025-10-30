@@ -558,30 +558,22 @@ export function LexicalItem({
                                                 </div>
                                                 <motion.button
                                                     whileHover={{ scale: 1.05 }}
-                                                    whileTap={{ scale: 0.95 }}
+                                                    whileTap={{ scale: 0.95, rotate: 180 }}
                                                     onClick={() => setUsageNotesLanguage(usageNotesLanguage === 'en' ? 'vi' : 'en')}
                                                     className={cn(
-                                                        "flex flex-col rounded-lg transition-colors h-8 w-8 items-center justify-center text-xs font-medium",
-                                                        "bg-emerald-100 text-emerald-700 hover:bg-emerald-200 border border-emerald-300"
+                                                        "p-2 rounded-lg transition-colors h-[32px] w-[32px] flex items-center justify-center",
+                                                        usageNotesLanguage === 'vi'
+                                                            ? "bg-emerald-600 text-white"
+                                                            : "bg-emerald-100 text-emerald-700 hover:bg-emerald-200"
                                                     )}
-                                                    title={usageNotesLanguage === 'en' ? "Switch to Tiếng Việt" : "Switch to English"}
+                                                    title={`Usage Notes: ${usageNotesLanguage === 'en' ? 'English' : 'Tiếng Việt'} - Click to switch`}
                                                 >
-                                                    <span className={cn(
-                                                        "transition-all duration-200",
-                                                        usageNotesLanguage === 'en' ? "font-bold text-emerald-900" : "text-emerald-600"
-                                                    )}>
-                                                        EN
-                                                    </span>
-                                                    <div className={cn(
-                                                        "w-full h-0.5 rounded-full transition-all duration-200",
-                                                        usageNotesLanguage === 'en' ? "bg-emerald-600" : "bg-emerald-300"
-                                                    )}></div>
-                                                    <span className={cn(
-                                                        "transition-all duration-200",
-                                                        usageNotesLanguage === 'vi' ? "font-bold text-emerald-900" : "text-emerald-600"
-                                                    )}>
-                                                        VI
-                                                    </span>
+                                                    <div className="flex flex-col items-center gap-0.5">
+                                                        <span className="text-xs font-medium">
+                                                            {usageNotesLanguage === 'en' ? 'EN' : 'VI'}
+                                                        </span>
+                                                        <div className="w-1 h-1 bg-current rounded-full opacity-50"></div>
+                                                    </div>
                                                 </motion.button>
                                             </div>
                                             <div className="space-y-2">
@@ -611,30 +603,22 @@ export function LexicalItem({
                                                 </div>
                                                 <motion.button
                                                     whileHover={{ scale: 1.05 }}
-                                                    whileTap={{ scale: 0.95 }}
+                                                    whileTap={{ scale: 0.95, rotate: 180 }}
                                                     onClick={() => setConnotationLanguage(connotationLanguage === 'en' ? 'vi' : 'en')}
                                                     className={cn(
-                                                        "flex flex-col rounded-lg transition-colors h-8 w-8 items-center justify-center text-xs font-medium",
-                                                        "bg-indigo-100 text-indigo-700 hover:bg-indigo-200 border border-indigo-300"
+                                                        "p-2 rounded-lg transition-colors h-[32px] w-[32px] flex items-center justify-center",
+                                                        connotationLanguage === 'vi'
+                                                            ? "bg-indigo-600 text-white"
+                                                            : "bg-indigo-100 text-indigo-700 hover:bg-indigo-200"
                                                     )}
-                                                    title={connotationLanguage === 'en' ? "Switch to Tiếng Việt" : "Switch to English"}
+                                                    title={`Connotation: ${connotationLanguage === 'en' ? 'English' : 'Tiếng Việt'} - Click to switch`}
                                                 >
-                                                    <span className={cn(
-                                                        "transition-all duration-200",
-                                                        connotationLanguage === 'en' ? "font-bold text-indigo-900" : "text-indigo-600"
-                                                    )}>
-                                                        EN
-                                                    </span>
-                                                    <div className={cn(
-                                                        "w-full h-0.5 rounded-full transition-all duration-200",
-                                                        connotationLanguage === 'en' ? "bg-indigo-600" : "bg-indigo-300"
-                                                    )}></div>
-                                                    <span className={cn(
-                                                        "transition-all duration-200",
-                                                        connotationLanguage === 'vi' ? "font-bold text-indigo-900" : "text-indigo-600"
-                                                    )}>
-                                                        VI
-                                                    </span>
+                                                    <div className="flex flex-col items-center gap-0.5">
+                                                        <span className="text-xs font-medium">
+                                                            {connotationLanguage === 'en' ? 'EN' : 'VI'}
+                                                        </span>
+                                                        <div className="w-1 h-1 bg-current rounded-full opacity-50"></div>
+                                                    </div>
                                                 </motion.button>
                                             </div>
                                             {connotation.map((note, index) => (
