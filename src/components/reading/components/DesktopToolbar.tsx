@@ -148,7 +148,7 @@ export function DesktopToolbar({
     <div className="hidden md:flex items-center gap-3 flex-wrap">
 
       {/* Reading Controls */}
-      <div className="flex items-center gap-1">
+      <div className="flex items-center gap-1 h-[48px]">
         {/* Unified Speech Control Button */}
         {speechSupported ? (
           <motion.button
@@ -156,7 +156,7 @@ export function DesktopToolbar({
             whileTap={{ scale: 0.95 }}
             onClick={isSpeaking ? (isPaused ? onResumeSpeech : onPauseSpeech) : onStartSpeech}
             className={cn(
-              "p-2 rounded-lg transition-colors",
+              "p-2 rounded-lg transition-colors h-[40px] w-[40px] flex items-center justify-center",
               isSpeaking && !isPaused
                 ? "bg-orange-500 text-white hover:bg-orange-600" // Speaking
                 : isSpeaking && isPaused
@@ -197,7 +197,7 @@ export function DesktopToolbar({
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             onClick={onStopSpeech}
-            className="p-2 rounded-lg bg-red-500 text-white hover:bg-red-600"
+            className="p-2 rounded-lg bg-red-500 text-white hover:bg-red-600 h-[40px] w-[40px] flex items-center justify-center"
             title="Stop Speech (Shift+S)"
           >
             <VolumeX size={18} />
@@ -208,7 +208,7 @@ export function DesktopToolbar({
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
           onClick={resetReading}
-          className="p-2 rounded-lg hover:bg-muted"
+          className="p-2 rounded-lg hover:bg-muted h-[40px] w-[40px] flex items-center justify-center"
           title="Reset Reading Position (Esc)"
         >
           <RotateCcw size={18} />

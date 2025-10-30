@@ -142,7 +142,7 @@ export function ReadingToolbar({
       transition={{ duration: 0.3, ease: "easeInOut" }}
       className="min-h-[60px] p-3 bg-background/95 backdrop-blur-md sticky top-16 z-30 border-b shadow-sm"
     >
-      <div className="flex items-center justify-center gap-2 md:gap-3 flex-wrap">
+      <div className="flex items-center justify-center gap-2 md:gap-3 flex-wrap h-[48px]">
         {/* Mobile Compact View */}
         <MobileToolbar
           theme={theme}
