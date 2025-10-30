@@ -1,0 +1,43 @@
+Lexical item này:
+```
+ {
+      "id": "1761844277087",
+      "targetLexeme": "carriers of malaria",
+      "sourceContext": "...Malagasy bats also prey on the mosquitoes that are carriers of malaria, Rift Valley fever virus and elephantiasis...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những vật chủ mang mầm bệnh sốt rét. 'Carriers' là người/vật mang mầm bệnh."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkæriəz əv məˈleəriə/",
+        "sentiment": "negative",
+        "definitionEN": "Organisms that carry and can transmit the parasite that causes malaria, without necessarily showing symptoms themselves.",
+        "translationVI": "Vật chủ mang mầm bệnh sốt rét",
+        "relatedCollocates": [
+          {
+            "form": "malaria vectors",
+            "meaning": "véc-tơ truyền bệnh sốt rét"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Disease, public health, vector.",
+            "connotationVI": "Bệnh tật, sức khỏe cộng đồng, véc-tơ."
+          }
+        ],
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Certain species of mosquitoes are known carriers of malaria."
+      }
+    },
+```
+usage notes không có thì ẩn phần Usage Notes đi: src/components/lexical-item-v2.tsx
