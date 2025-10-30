@@ -1,0 +1,1798 @@
+{
+    "batchInfo": {
+        "filename": "batch-01-of-04.json",
+        "batchNumber": 1,
+        "totalBatches": 4,
+        "itemCount": 30,
+        "createdFromMaster": "master-vocabulary.json"
+    },
+    "items": [
+        {
+            "id": "1761815817250",
+            "targetLexeme": "Palm oil",
+            "sourceContext": "Palm oil is an edible oil derived from the fruit of the African oil palm tree, and is...",
+            "phase1Inference": {
+                "contextualGuessVI": "Dựa vào ngữ cảnh 'an edible oil derived from the fruit of the... oil palm tree', có thể đoán đây là 'dầu cọ'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/pɑːm ɔɪl/",
+                "sentiment": "neutral",
+                "definitionEN": "An edible vegetable oil derived from the mesocarp (reddish pulp) of the fruit of oil palms.",
+                "translationVI": "Dầu cọ",
+                "relatedCollocates": [
+                    {
+                        "form": "vegetable oil",
+                        "meaning": "dầu thực vật"
+                    },
+                    {
+                        "form": "coconut oil",
+                        "meaning": "dầu dừa"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Associated with mass production and significant environmental concerns like deforestation.",
+                        "connotationVI": "Gắn liền với sản xuất hàng loạt và các mối lo ngại lớn về môi trường như phá rừng."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Many processed foods, from biscuits to margarine, contain palm oil as a key ingredient."
+            }
+        },
+        {
+            "id": "1761815820452",
+            "targetLexeme": "an edible oil",
+            "sourceContext": "Palm oil is an edible oil derived from the fruit of the African oil palm tree, and is...",
+            "phase1Inference": {
+                "contextualGuessVI": "Dầu cọ là một loại dầu... có thể ăn được. Đoán là 'dầu ăn được'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ən ˈɛdɪbl ɔɪl/",
+                "sentiment": "neutral",
+                "definitionEN": "An oil that is fit or suitable to be eaten.",
+                "translationVI": "một loại dầu ăn được",
+                "relatedCollocates": [
+                    {
+                        "form": "cooking oil",
+                        "meaning": "dầu ăn (dùng để nấu)"
+                    },
+                    {
+                        "form": "vegetable oil",
+                        "meaning": "dầu thực vật"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "edibility",
+                            "meaning": "tính ăn được"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "edible",
+                            "meaning": "có thể ăn được"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Culinary, food-related.",
+                        "connotationVI": "Thuộc về ẩm thực, liên quan đến thực phẩm."
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "Contrasts with oils used for industrial or cosmetic purposes, such as motor oil or essential oils for fragrance.",
+                        "noteVI": "Trái ngược với các loại dầu dùng cho mục đích công nghiệp hoặc mỹ phẩm, chẳng hạn như dầu động cơ hoặc tinh dầu tạo hương."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "inedible oil",
+                        "meaning": "dầu không ăn được"
+                    },
+                    {
+                        "form": "industrial oil",
+                        "meaning": "dầu công nghiệp"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Olive oil is a popular edible oil known for its health benefits."
+            }
+        },
+        {
+            "id": "1761815826117",
+            "targetLexeme": "derived from",
+            "sourceContext": "Palm oil is an edible oil derived from the fruit of the African oil palm tree, and is...",
+            "phase1Inference": {
+                "contextualGuessVI": "Dầu được 'derived from' quả cây, có nghĩa là 'bắt nguồn từ' hoặc 'chiết xuất từ'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/dɪˈraɪvd frəm/",
+                "sentiment": "neutral",
+                "definitionEN": "To be obtained from something; to originate from something.",
+                "translationVI": "bắt nguồn từ, được chiết xuất từ",
+                "relatedCollocates": [
+                    {
+                        "form": "obtained from",
+                        "meaning": "thu được từ"
+                    },
+                    {
+                        "form": "extracted from",
+                        "meaning": "được chiết xuất từ"
+                    },
+                    {
+                        "form": "originating from",
+                        "meaning": "bắt nguồn từ"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "derivation",
+                            "meaning": "sự bắt nguồn, nguồn gốc"
+                        },
+                        {
+                            "form": "derivative",
+                            "meaning": "chất dẫn xuất, sản phẩm phái sinh"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "derive",
+                            "meaning": "bắt nguồn, nhận được từ"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Indicates origin or source, often in a scientific or technical context.",
+                        "connotationVI": "Chỉ nguồn gốc hoặc xuất xứ, thường trong bối cảnh khoa học hoặc kỹ thuật."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "to lead to",
+                        "meaning": "dẫn đến"
+                    },
+                    {
+                        "form": "to result in",
+                        "meaning": "gây ra, có kết quả là"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Many valuable medicines are derived from rare plants found in the rainforest."
+            }
+        },
+        {
+            "id": "1761815836111",
+            "targetLexeme": "the African oil palm tree",
+            "sourceContext": "Palm oil is an edible oil derived from the fruit of the African oil palm tree, and is...",
+            "phase1Inference": {
+                "contextualGuessVI": "Đây là tên một loại cây, cụ thể là 'cây cọ dầu châu Phi'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ði ˈæfrɪkən ɔɪl pɑːm triː/",
+                "sentiment": "neutral",
+                "definitionEN": "A species of palm (Elaeis guineensis) native to West and Southwest Africa, which is the principal source of palm oil.",
+                "translationVI": "cây cọ dầu châu Phi",
+                "relatedCollocates": [
+                    {
+                        "form": "palm plantation",
+                        "meaning": "đồn điền cọ"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Botanical, agricultural source.",
+                        "connotationVI": "Thuộc về thực vật học, nguồn gốc nông nghiệp."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The African oil palm tree is incredibly efficient, producing more oil per land area than any other equivalent vegetable crop."
+            }
+        },
+        {
+            "id": "1761815870724",
+            "targetLexeme": "snack on",
+            "sourceContext": "It's almost certainly in the soap we wash with in the morning, the sandwich we have for lunch and the biscuits we snack on in the afternoon.",
+            "phase1Inference": {
+                "contextualGuessVI": "Dùng với bánh quy vào buổi chiều, có thể là 'ăn vặt', 'ăn nhẹ'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/snæk ɒn/",
+                "sentiment": "neutral",
+                "definitionEN": "To eat a small amount of food between main meals.",
+                "translationVI": "ăn vặt, ăn nhẹ (cái gì đó)",
+                "relatedCollocates": [
+                    {
+                        "form": "nibble on",
+                        "meaning": "nhấm nháp"
+                    },
+                    {
+                        "form": "munch on",
+                        "meaning": "ăn (tạo ra tiếng)"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "snack",
+                            "meaning": "đồ ăn vặt"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "snack",
+                            "meaning": "ăn vặt"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "informal",
+                "connotation": [
+                    {
+                        "connotationEN": "Casual eating, often between meals.",
+                        "connotationVI": "Việc ăn uống thông thường, thường là giữa các bữa chính."
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "A phrasal verb. 'Snack' can be a verb alone (I like to snack), but 'snack on' is followed by the food item.",
+                        "noteVI": "Là một cụm động từ. 'Snack' có thể là động từ đứng một mình (Tôi thích ăn vặt), nhưng 'snack on' được theo sau bởi món ăn."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "have a full meal",
+                        "meaning": "ăn một bữa đầy đủ"
+                    },
+                    {
+                        "form": "feast on",
+                        "meaning": "ăn tiệc, ăn thịnh soạn"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Instead of chips, I try to snack on healthier options like carrots and hummus."
+            }
+        },
+        {
+            "id": "1761815876618",
+            "targetLexeme": "attractive for",
+            "sourceContext": "Why is palm oil so attractive for manufacturers?",
+            "phase1Inference": {
+                "contextualGuessVI": "Tại sao dầu cọ lại 'hấp dẫn đối với' các nhà sản xuất?"
+            },
+            "phase2Annotation": {
+                "phonetic": "/əˈtræktɪv fɔː/",
+                "sentiment": "positive",
+                "definitionEN": "Appealing or interesting to a particular person or group.",
+                "translationVI": "hấp dẫn đối với, thu hút đối với",
+                "relatedCollocates": [
+                    {
+                        "form": "appealing to",
+                        "meaning": "hấp dẫn đối với"
+                    },
+                    {
+                        "form": "desirable for",
+                        "meaning": "đáng ao ước đối với"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "attraction",
+                            "meaning": "sự thu hút"
+                        },
+                        {
+                            "form": "attractiveness",
+                            "meaning": "sự hấp dẫn, vẻ hấp dẫn"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "attract",
+                            "meaning": "thu hút"
+                        }
+                    ],
+                    "adjective": [
+                        {
+                            "form": "attractive",
+                            "meaning": "hấp dẫn, thu hút"
+                        }
+                    ],
+                    "adverb": [
+                        {
+                            "form": "attractively",
+                            "meaning": "một cách hấp dẫn"
+                        }
+                    ]
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Implies having qualities that are beneficial or advantageous.",
+                        "connotationVI": "Hàm ý có những phẩm chất có lợi hoặc ưu việt."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "unattractive for",
+                        "meaning": "không hấp dẫn đối với"
+                    },
+                    {
+                        "form": "unappealing to",
+                        "meaning": "không lôi cuốn đối với"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The city's low taxes and skilled workforce make it an attractive location for tech startups."
+            }
+        },
+        {
+            "id": "1761815881377",
+            "targetLexeme": "manufacturer",
+            "sourceContext": "Why is palm oil so attractive for manufacturers?",
+            "phase1Inference": {
+                "contextualGuessVI": "Người hoặc công ty sản xuất hàng hóa. Đoán là 'nhà sản xuất'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˌmænjʊˈfækʧərə/",
+                "sentiment": "neutral",
+                "definitionEN": "A person or company that produces goods in large quantities.",
+                "translationVI": "nhà sản xuất",
+                "relatedCollocates": [
+                    {
+                        "form": "producer",
+                        "meaning": "nhà sản xuất"
+                    },
+                    {
+                        "form": "maker",
+                        "meaning": "người chế tạo"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "manufacture",
+                            "meaning": "sự sản xuất"
+                        },
+                        {
+                            "form": "manufacturing",
+                            "meaning": "ngành sản xuất, sự sản xuất"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "manufacture",
+                            "meaning": "sản xuất, chế tạo"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Industrial, large-scale production.",
+                        "connotationVI": "Thuộc về công nghiệp, sản xuất quy mô lớn."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "consumer",
+                        "meaning": "người tiêu dùng"
+                    },
+                    {
+                        "form": "retailer",
+                        "meaning": "nhà bán lẻ"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The clothing manufacturer was criticized for its poor factory working conditions."
+            }
+        },
+        {
+            "id": "1761815886943",
+            "targetLexeme": "Primarily",
+            "sourceContext": "Primarily because its unique properties – such as remaining solid at room temperature – make it an ideal...",
+            "phase1Inference": {
+                "contextualGuessVI": "Đứng đầu câu để giải thích lý do, có nghĩa là 'chủ yếu là vì', 'trước hết là'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈpraɪmərɪli/ or /praɪˈmɛrəli/",
+                "sentiment": "neutral",
+                "definitionEN": "For the most part; mainly.",
+                "translationVI": "chủ yếu, chính",
+                "relatedCollocates": [
+                    {
+                        "form": "mainly",
+                        "meaning": "chủ yếu"
+                    },
+                    {
+                        "form": "chiefly",
+                        "meaning": "chủ yếu, chính"
+                    },
+                    {
+                        "form": "principally",
+                        "meaning": "chủ yếu, về cơ bản"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "primary",
+                            "meaning": "chính, chủ yếu"
+                        }
+                    ],
+                    "adverb": [
+                        {
+                            "form": "primarily",
+                            "meaning": "chủ yếu, chính"
+                        }
+                    ]
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Emphasizes the main or most important reason.",
+                        "connotationVI": "Nhấn mạnh lý do chính hoặc quan trọng nhất."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "secondarily",
+                        "meaning": "thứ yếu"
+                    },
+                    {
+                        "form": "partially",
+                        "meaning": "một phần"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The course is primarily designed for beginners, although experienced students can also benefit."
+            }
+        },
+        {
+            "id": "1761815895320",
+            "targetLexeme": "unique properties",
+            "sourceContext": "Primarily because its unique properties – such as remaining solid at room temperature – make it an ideal...",
+            "phase1Inference": {
+                "contextualGuessVI": "Những đặc tính độc đáo, đặc biệt của nó."
+            },
+            "phase2Annotation": {
+                "phonetic": "/juːˈniːk ˈprɒpətiz/",
+                "sentiment": "neutral",
+                "definitionEN": "Special qualities or characteristics that make something different from others.",
+                "translationVI": "những đặc tính độc đáo",
+                "relatedCollocates": [
+                    {
+                        "form": "distinctive features",
+                        "meaning": "những đặc điểm nổi bật"
+                    },
+                    {
+                        "form": "special characteristics",
+                        "meaning": "những đặc tính đặc biệt"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "uniqueness",
+                            "meaning": "sự độc đáo"
+                        },
+                        {
+                            "form": "property",
+                            "meaning": "đặc tính"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "unique",
+                            "meaning": "độc đáo"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Scientific, one-of-a-kind, special.",
+                        "connotationVI": "Mang tính khoa học, có một không hai, đặc biệt."
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "'Properties' in this context refers to the physical or chemical characteristics of a substance.",
+                        "noteVI": "'Properties' trong ngữ cảnh này đề cập đến các đặc tính vật lý hoặc hóa học của một chất."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "common features",
+                        "meaning": "những đặc điểm chung"
+                    },
+                    {
+                        "form": "general characteristics",
+                        "meaning": "những đặc tính chung"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Graphene has unique properties that make it incredibly strong and an excellent conductor of electricity."
+            }
+        },
+        {
+            "id": "1761815904383",
+            "targetLexeme": "an ideal ingredient",
+            "sourceContext": "Primarily because its unique properties – such as remaining solid at room temperature – make it an ideal ingredient for long-term preservation...",
+            "phase1Inference": {
+                "contextualGuessVI": "Khiến nó trở thành một 'thành phần lý tưởng'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ən aɪˈdɪəl ɪnˈgriːdiənt/",
+                "sentiment": "positive",
+                "definitionEN": "A component that is perfectly suited for a particular purpose.",
+                "translationVI": "một thành phần/nguyên liệu lý tưởng",
+                "relatedCollocates": [
+                    {
+                        "form": "a perfect component",
+                        "meaning": "một thành phần hoàn hảo"
+                    },
+                    {
+                        "form": "a suitable element",
+                        "meaning": "một yếu tố phù hợp"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "ideal",
+                            "meaning": "hình mẫu lý tưởng"
+                        },
+                        {
+                            "form": "ingredient",
+                            "meaning": "thành phần, nguyên liệu"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "ideal",
+                            "meaning": "lý tưởng"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Perfection, suitability, best choice.",
+                        "connotationVI": "Sự hoàn hảo, sự phù hợp, lựa chọn tốt nhất."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "an unsuitable ingredient",
+                        "meaning": "một thành phần không phù hợp"
+                    },
+                    {
+                        "form": "a poor component",
+                        "meaning": "một thành phần kém chất lượng"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Coconut milk is an ideal ingredient for creating creamy and flavorful curries."
+            }
+        },
+        {
+            "id": "1761815911621",
+            "targetLexeme": "long-term preservation",
+            "sourceContext": "...make it an ideal ingredient for long-term preservation of many of the packaged foods on supermarket shelves.",
+            "phase1Inference": {
+                "contextualGuessVI": "Thành phần lý tưởng cho việc 'bảo quản lâu dài' thực phẩm."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˌlɒŋtɜːm ˌprɛzəˈveɪʃən/",
+                "sentiment": "positive",
+                "definitionEN": "The act of keeping something in its original state or in good condition for a long period.",
+                "translationVI": "sự bảo quản lâu dài",
+                "relatedCollocates": [
+                    {
+                        "form": "extended storage",
+                        "meaning": "lưu trữ kéo dài"
+                    },
+                    {
+                        "form": "longevity",
+                        "meaning": "tuổi thọ, sự tồn tại lâu dài"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "preservation",
+                            "meaning": "sự bảo quản"
+                        },
+                        {
+                            "form": "preservative",
+                            "meaning": "chất bảo quản"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "preserve",
+                            "meaning": "bảo quản"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Durability, stability, preventing decay.",
+                        "connotationVI": "Độ bền, sự ổn định, chống hư hỏng."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "spoilage",
+                        "meaning": "sự hư hỏng (thức ăn)"
+                    },
+                    {
+                        "form": "decay",
+                        "meaning": "sự phân rã, mục nát"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Salting and drying meat are ancient methods of long-term preservation."
+            }
+        },
+        {
+            "id": "1761815950592",
+            "targetLexeme": "packaged foods",
+            "sourceContext": "...long-term preservation of many of the packaged foods on supermarket shelves.",
+            "phase1Inference": {
+                "contextualGuessVI": "Những loại thực phẩm được đóng gói sẵn, tức là 'thực phẩm đóng gói'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈpækɪʤd fuːdz/",
+                "sentiment": "neutral",
+                "definitionEN": "Food products that are enclosed in packaging before being offered for sale.",
+                "translationVI": "thực phẩm đóng gói",
+                "relatedCollocates": [
+                    {
+                        "form": "processed foods",
+                        "meaning": "thực phẩm chế biến sẵn"
+                    },
+                    {
+                        "form": "convenience foods",
+                        "meaning": "thực phẩm tiện lợi"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "package",
+                            "meaning": "gói hàng, bao bì"
+                        },
+                        {
+                            "form": "packaging",
+                            "meaning": "bao bì, việc đóng gói"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "package",
+                            "meaning": "đóng gói"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Convenience, long shelf-life, often processed.",
+                        "connotationVI": "Tiện lợi, hạn sử dụng dài, thường đã qua chế biến."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "fresh produce",
+                        "meaning": "nông sản tươi"
+                    },
+                    {
+                        "form": "whole foods",
+                        "meaning": "thực phẩm nguyên chất"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "It's important to read the nutritional labels on packaged foods to understand what you're eating."
+            }
+        },
+        {
+            "id": "1761815955454",
+            "targetLexeme": "supermarket shelves",
+            "sourceContext": "...many of the packaged foods on supermarket shelves.",
+            "phase1Inference": {
+                "contextualGuessVI": "Nơi trưng bày thực phẩm đóng gói, tức là 'các kệ hàng siêu thị'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈsuːpəˌmɑːkɪt ʃɛlvz/",
+                "sentiment": "neutral",
+                "definitionEN": "The shelves in a large self-service store on which products are displayed for sale.",
+                "translationVI": "các kệ hàng siêu thị",
+                "relatedCollocates": [
+                    {
+                        "form": "store shelves",
+                        "meaning": "kệ hàng cửa hàng"
+                    },
+                    {
+                        "form": "grocery aisles",
+                        "meaning": "các lối đi trong tiệm tạp hóa"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Represents consumer product availability.",
+                        "connotationVI": "Đại diện cho sự sẵn có của sản phẩm tiêu dùng."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Competition is fierce for new products trying to get a spot on supermarket shelves."
+            }
+        },
+        {
+            "id": "1761815970361",
+            "targetLexeme": "seized the opportunity",
+            "sourceContext": "As demand grew, manufacturers seized the opportunity to expand production.",
+            "phase1Inference": {
+                "contextualGuessVI": "Khi nhu cầu tăng, các nhà sản xuất đã 'nắm bắt cơ hội' để mở rộng sản xuất."
+            },
+            "phase2Annotation": {
+                "phonetic": "/siːzd ði ˌɒpəˈtjuːnɪti/",
+                "sentiment": "positive",
+                "definitionEN": "To take advantage of a chance to do something quickly and eagerly.",
+                "translationVI": "nắm bắt cơ hội",
+                "relatedCollocates": [
+                    {
+                        "form": "grabbed the chance",
+                        "meaning": "chộp lấy cơ hội"
+                    },
+                    {
+                        "form": "jumped at the opportunity",
+                        "meaning": "nhảy vào cơ hội"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "seizure",
+                            "meaning": "sự chiếm lấy, sự nắm bắt"
+                        },
+                        {
+                            "form": "opportunity",
+                            "meaning": "cơ hội"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "seize",
+                            "meaning": "nắm bắt, chộp lấy"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Proactive, decisive, taking initiative.",
+                        "connotationVI": "Chủ động, quyết đoán, khởi xướng."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "missed the opportunity",
+                        "meaning": "bỏ lỡ cơ hội"
+                    },
+                    {
+                        "form": "let the chance slip by",
+                        "meaning": "để cơ hội trôi qua"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "When she heard about the job opening abroad, she immediately seized the opportunity to apply."
+            }
+        },
+        {
+            "id": "1761815996417",
+            "targetLexeme": "the global land area",
+            "sourceContext": "Between 1990 and 2012, the global land area devoted to growing oil palm trees grew from 6 to 17 million hectares...",
+            "phase1Inference": {
+                "contextualGuessVI": "Tổng diện tích đất trên toàn thế giới, tức là 'diện tích đất toàn cầu'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ðə ˈgləʊbəl lænd ˈeərɪə/",
+                "sentiment": "neutral",
+                "definitionEN": "The total surface of the Earth that is land, as opposed to water.",
+                "translationVI": "diện tích đất toàn cầu",
+                "relatedCollocates": [
+                    {
+                        "form": "total landmass",
+                        "meaning": "tổng khối lượng đất liền"
+                    },
+                    {
+                        "form": "terrestrial area",
+                        "meaning": "khu vực trên cạn"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Planet-wide scale, geographical.",
+                        "connotationVI": "Quy mô toàn hành tinh, thuộc về địa lý."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "global ocean area",
+                        "meaning": "diện tích đại dương toàn cầu"
+                    },
+                    {
+                        "form": "local area",
+                        "meaning": "khu vực địa phương"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Forests cover approximately 31 percent of the global land area."
+            }
+        },
+        {
+            "id": "1761815998935",
+            "targetLexeme": "devoted to",
+            "sourceContext": "Between 1990 and 2012, the global land area devoted to growing oil palm trees grew from 6 to...",
+            "phase1Inference": {
+                "contextualGuessVI": "Diện tích đất 'dành cho' việc trồng cọ dầu."
+            },
+            "phase2Annotation": {
+                "phonetic": "/dɪˈvəʊtɪd tuː/",
+                "sentiment": "neutral",
+                "definitionEN": "To be used for a particular purpose; dedicated to.",
+                "translationVI": "dành cho, dành riêng cho",
+                "relatedCollocates": [
+                    {
+                        "form": "dedicated to",
+                        "meaning": "chuyên dùng cho"
+                    },
+                    {
+                        "form": "allocated for",
+                        "meaning": "được phân bổ cho"
+                    },
+                    {
+                        "form": "set aside for",
+                        "meaning": "để dành cho"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "devotion",
+                            "meaning": "sự tận tâm, sự cống hiến"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "devote",
+                            "meaning": "cống hiến, dành cho"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Purpose, allocation, commitment.",
+                        "connotationVI": "Mục đích, sự phân bổ, sự cam kết."
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "Can be used for physical spaces (land), time, or effort.",
+                        "noteVI": "Có thể được sử dụng cho không gian vật lý (đất đai), thời gian, hoặc công sức."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "She devoted her life to helping underprivileged children."
+            }
+        },
+        {
+            "id": "1761816011358",
+            "targetLexeme": "hectares",
+            "sourceContext": "Between 1990 and 2012, the global land area devoted to growing oil palm trees grew from 6 to 17 million hectares...",
+            "phase1Inference": {
+                "contextualGuessVI": "Một đơn vị đo diện tích, tương đương 'héc-ta'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈhɛkteəz/",
+                "sentiment": "neutral",
+                "definitionEN": "A metric unit of square measure, equal to 10,000 square meters (2.471 acres).",
+                "translationVI": "héc-ta",
+                "relatedCollocates": [
+                    {
+                        "form": "acres",
+                        "meaning": "mẫu Anh"
+                    },
+                    {
+                        "form": "square kilometers",
+                        "meaning": "ki-lô-mét vuông"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "hectare",
+                            "meaning": "héc-ta (số ít)"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Land measurement, agriculture, large scale.",
+                        "connotationVI": "Đo lường đất đai, nông nghiệp, quy mô lớn."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The national park covers over 50,000 hectares of protected forest."
+            }
+        },
+        {
+            "id": "1761816018122",
+            "targetLexeme": "accounting for",
+            "sourceContext": "...17 million hectares, accounting for about 10% of global cropland.",
+            "phase1Inference": {
+                "contextualGuessVI": "17 triệu héc-ta, 'chiếm khoảng' 10% đất trồng trọt toàn cầu."
+            },
+            "phase2Annotation": {
+                "phonetic": "/əˈkaʊntɪŋ fɔː/",
+                "sentiment": "neutral",
+                "definitionEN": "To form a particular amount or part of something.",
+                "translationVI": "chiếm (tỷ lệ)",
+                "relatedCollocates": [
+                    {
+                        "form": "making up",
+                        "meaning": "chiếm, cấu thành"
+                    },
+                    {
+                        "form": "comprising",
+                        "meaning": "bao gồm, chiếm"
+                    },
+                    {
+                        "form": "constituting",
+                        "meaning": "cấu thành, tạo thành"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [
+                        {
+                            "form": "account for",
+                            "meaning": "chiếm, giải thích cho"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Data analysis, proportion, explanation.",
+                        "connotationVI": "Phân tích dữ liệu, tỷ lệ, sự giải thích."
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "Can also mean 'to be the reason for something'. Ex: 'Bad weather accounted for the delay.'",
+                        "noteVI": "Cũng có thể có nghĩa là 'là lý do cho một cái gì đó'. Ví dụ: 'Thời tiết xấu là nguyên nhân của sự chậm trễ.'"
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Students account for the vast majority of our customers."
+            }
+        },
+        {
+            "id": "1761816025287",
+            "targetLexeme": "cropland",
+            "sourceContext": "...accounting for about 10% of global cropland.",
+            "phase1Inference": {
+                "contextualGuessVI": "Loại đất được dùng để trồng cây, tức là 'đất trồng trọt', 'đất canh tác'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈkrɒplænd/",
+                "sentiment": "neutral",
+                "definitionEN": "Land used for growing crops.",
+                "translationVI": "đất trồng trọt, đất canh tác",
+                "relatedCollocates": [
+                    {
+                        "form": "farmland",
+                        "meaning": "đất nông nghiệp"
+                    },
+                    {
+                        "form": "arable land",
+                        "meaning": "đất có thể trồng trọt"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Agriculture, farming, food production.",
+                        "connotationVI": "Nông nghiệp, canh tác, sản xuất lương thực."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "pastureland",
+                        "meaning": "đồng cỏ, bãi chăn thả"
+                    },
+                    {
+                        "form": "forest",
+                        "meaning": "rừng"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The expansion of cities often leads to the loss of valuable cropland."
+            }
+        },
+        {
+            "id": "1761816041432",
+            "targetLexeme": "a mere two million tonnes",
+            "sourceContext": "From a mere two million tonnes of palm oil being produced annually globally 50 years ago, there are...",
+            "phase1Inference": {
+                "contextualGuessVI": "Từ 'chỉ vỏn vẹn' hai triệu tấn. 'Mere' nhấn mạnh con số này là nhỏ."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ə mɪə tuː ˈmɪljən tʌnz/",
+                "sentiment": "neutral",
+                "definitionEN": "Used to emphasize how small or insignificant an amount is.",
+                "translationVI": "chỉ vỏn vẹn hai triệu tấn",
+                "relatedCollocates": [
+                    {
+                        "form": "just",
+                        "meaning": "chỉ"
+                    },
+                    {
+                        "form": "only",
+                        "meaning": "chỉ"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "mere",
+                            "meaning": "chỉ là, đơn thuần"
+                        }
+                    ],
+                    "adverb": [
+                        {
+                            "form": "merely",
+                            "meaning": "chỉ, đơn thuần"
+                        }
+                    ]
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Emphasizes smallness or insignificance in a particular context.",
+                        "connotationVI": "Nhấn mạnh sự nhỏ bé hoặc không đáng kể trong một bối cảnh cụ thể."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "a massive",
+                        "meaning": "khổng lồ"
+                    },
+                    {
+                        "form": "a whopping",
+                        "meaning": "to lớn (một cách đáng kinh ngạc)"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "It's not a major problem; it's a mere inconvenience."
+            }
+        },
+        {
+            "id": "1761816068058",
+            "targetLexeme": "being produced annually globally",
+            "sourceContext": "From a mere two million tonnes of palm oil being produced annually globally 50 years ago, there are...",
+            "phase1Inference": {
+                "contextualGuessVI": "Cụm từ mô tả việc sản xuất: 'được sản xuất hàng năm trên toàn cầu'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈbiːɪŋ prəˈdjuːst ˈænjʊəli ˈgləʊbəli/",
+                "sentiment": "neutral",
+                "definitionEN": "Being manufactured or created each year across the entire world.",
+                "translationVI": "được sản xuất hàng năm trên toàn cầu",
+                "relatedCollocates": [
+                    {
+                        "form": "worldwide annual production",
+                        "meaning": "sản lượng hàng năm trên toàn thế giới"
+                    },
+                    {
+                        "form": "global yearly output",
+                        "meaning": "sản lượng toàn cầu hàng năm"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Statistical, large-scale, economic.",
+                        "connotationVI": "Mang tính thống kê, quy mô lớn, kinh tế."
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "This passive voice structure emphasizes the quantity and scale of production.",
+                        "noteVI": "Cấu trúc bị động này nhấn mạnh số lượng và quy mô sản xuất."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "being produced locally/monthly",
+                        "meaning": "được sản xuất tại địa phương/hàng tháng"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "PARAPHRASE",
+                "content": "The amount of coffee produced globally each year is enormous."
+            }
+        },
+        {
+            "id": "1761816211749",
+            "targetLexeme": "to double or even triple by",
+            "sourceContext": "...there are now 70 million, a figure that is predicted to double or even triple by 2050.",
+            "phase1Inference": {
+                "contextualGuessVI": "Một con số được dự đoán sẽ 'tăng gấp đôi hoặc thậm chí gấp ba vào' năm 2050."
+            },
+            "phase2Annotation": {
+                "phonetic": "/tə ˈdʌbl ɔːr ˈiːvən ˈtrɪpl baɪ/",
+                "sentiment": "neutral",
+                "definitionEN": "To increase to twice or three times the original amount by a specific point in time.",
+                "translationVI": "tăng gấp đôi hoặc thậm chí gấp ba vào (thời điểm)",
+                "relatedCollocates": [
+                    {
+                        "form": "to increase twofold",
+                        "meaning": "tăng gấp hai lần"
+                    },
+                    {
+                        "form": "to multiply threefold",
+                        "meaning": "tăng gấp ba lần"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [
+                        {
+                            "form": "double",
+                            "meaning": "làm gấp đôi"
+                        },
+                        {
+                            "form": "triple",
+                            "meaning": "làm gấp ba"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Rapid growth, exponential increase, projection.",
+                        "connotationVI": "Tăng trưởng nhanh, tăng theo cấp số nhân, sự dự báo."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "to halve by",
+                        "meaning": "giảm đi một nửa vào"
+                    },
+                    {
+                        "form": "to remain stable by",
+                        "meaning": "giữ ổn định vào"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The company aims to double its revenue by the end of next year."
+            }
+        },
+        {
+            "id": "1761816249968",
+            "targetLexeme": "conservationists cite",
+            "sourceContext": "This is a major concern that conservationists cite as a direct result of land clearing...",
+            "phase1Inference": {
+                "contextualGuessVI": "Đây là mối lo ngại mà 'các nhà bảo tồn trích dẫn/đề cập đến'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˌkɒnsəˈveɪʃənɪsts saɪt/",
+                "sentiment": "neutral",
+                "definitionEN": "When experts in protecting the environment mention something as an example or proof.",
+                "translationVI": "các nhà bảo tồn trích dẫn/đề cập",
+                "relatedCollocates": [
+                    {
+                        "form": "environmentalists point to",
+                        "meaning": "các nhà môi trường học chỉ ra"
+                    },
+                    {
+                        "form": "experts mention",
+                        "meaning": "các chuyên gia đề cập"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "conservationist",
+                            "meaning": "nhà bảo tồn"
+                        },
+                        {
+                            "form": "citation",
+                            "meaning": "sự trích dẫn"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "cite",
+                            "meaning": "trích dẫn"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Expert opinion, evidence, environmental issue.",
+                        "connotationVI": "Ý kiến chuyên gia, bằng chứng, vấn đề môi trường."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "critics dismiss",
+                        "meaning": "các nhà phê bình bác bỏ"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "In their reports, conservationists cite pollution as a key threat to marine life."
+            }
+        },
+        {
+            "id": "1761816258528",
+            "targetLexeme": "a major concern",
+            "sourceContext": "This is a major concern that conservationists cite...",
+            "phase1Inference": {
+                "contextualGuessVI": "Một vấn đề quan trọng gây lo lắng, tức là 'một mối lo ngại lớn'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ə ˈmeɪʤə kənˈsɜːn/",
+                "sentiment": "negative",
+                "definitionEN": "A significant worry or an important issue that causes anxiety.",
+                "translationVI": "một mối lo ngại lớn",
+                "relatedCollocates": [
+                    {
+                        "form": "a serious issue",
+                        "meaning": "một vấn đề nghiêm trọng"
+                    },
+                    {
+                        "form": "a significant problem",
+                        "meaning": "một vấn đề đáng kể"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "concern",
+                            "meaning": "mối lo ngại"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Problem, worry, seriousness.",
+                        "connotationVI": "Vấn đề, sự lo lắng, tính nghiêm trọng."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "a minor issue",
+                        "meaning": "một vấn đề nhỏ"
+                    },
+                    {
+                        "form": "a trivial matter",
+                        "meaning": "một vấn đề tầm thường"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The lack of clean drinking water in the region is a major concern for health officials."
+            }
+        },
+        {
+            "id": "1761816273497",
+            "targetLexeme": "countless",
+            "sourceContext": "There are countless news stories of deforestation, habitat destruction and dwindling species populations, all as a direct result...",
+            "phase1Inference": {
+                "contextualGuessVI": "Có rất nhiều, không thể đếm được, tức là 'vô số'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈkaʊntləs/",
+                "sentiment": "neutral",
+                "definitionEN": "Too many to be counted; very many.",
+                "translationVI": "vô số, không đếm xuể",
+                "relatedCollocates": [
+                    {
+                        "form": "innumerable",
+                        "meaning": "vô số, không đếm được"
+                    },
+                    {
+                        "form": "myriad",
+                        "meaning": "vô số"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "countless",
+                            "meaning": "vô số"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Hyperbole, overwhelming number.",
+                        "connotationVI": "Sự phóng đại, số lượng quá lớn."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "few",
+                        "meaning": "một vài"
+                    },
+                    {
+                        "form": "a handful of",
+                        "meaning": "một số ít"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The artist has created countless masterpieces throughout his long career."
+            }
+        },
+        {
+            "id": "1761816325776",
+            "targetLexeme": "news stories of deforestation",
+            "sourceContext": "There are countless news stories of deforestation, habitat destruction and dwindling species populations, all as a direct result...",
+            "phase1Inference": {
+                "contextualGuessVI": "Các bài báo, bản tin về việc phá rừng, tức là 'các bản tin về nạn phá rừng'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/njuːz ˈstɔːriz əv diːˌfɒrɪˈsteɪʃən/",
+                "sentiment": "negative",
+                "definitionEN": "Reports in the media about the clearing of wide areas of trees.",
+                "translationVI": "các bản tin về nạn phá rừng",
+                "relatedCollocates": [
+                    {
+                        "form": "reports on deforestation",
+                        "meaning": "các báo cáo về nạn phá rừng"
+                    },
+                    {
+                        "form": "articles about forest clearing",
+                        "meaning": "các bài báo về việc phát quang rừng"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "deforestation",
+                            "meaning": "nạn phá rừng"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "deforest",
+                            "meaning": "phá rừng"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Environmental damage, media coverage.",
+                        "connotationVI": "Thiệt hại môi trường, sự đưa tin của truyền thông."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "news stories of reforestation",
+                        "meaning": "các bản tin về việc tái trồng rừng"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "We often see heartbreaking news stories of deforestation and its impact on wildlife."
+            }
+        },
+        {
+            "id": "1761816330015",
+            "targetLexeme": "habitat destruction",
+            "sourceContext": "There are countless news stories of deforestation, habitat destruction and dwindling species populations, all as a direct result...",
+            "phase1Inference": {
+                "contextualGuessVI": "Việc phá hủy nơi ở của sinh vật, tức là 'sự phá hủy môi trường sống'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈhæbɪtæt dɪsˈtrʌkʃən/",
+                "sentiment": "negative",
+                "definitionEN": "The process by which a natural habitat is rendered unable to support the species present.",
+                "translationVI": "sự phá hủy môi trường sống",
+                "relatedCollocates": [
+                    {
+                        "form": "habitat loss",
+                        "meaning": "sự mất môi trường sống"
+                    },
+                    {
+                        "form": "environmental degradation",
+                        "meaning": "sự suy thoái môi trường"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "destruction",
+                            "meaning": "sự phá hủy"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "destroy",
+                            "meaning": "phá hủy"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Endangerment, extinction, environmental crisis.",
+                        "connotationVI": "Sự nguy cấp, tuyệt chủng, khủng hoảng môi trường."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "habitat restoration",
+                        "meaning": "sự phục hồi môi trường sống"
+                    },
+                    {
+                        "form": "conservation",
+                        "meaning": "sự bảo tồn"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Habitat destruction is the leading cause of species extinction worldwide."
+            }
+        },
+        {
+            "id": "1761816335528",
+            "targetLexeme": "dwindling species populations",
+            "sourceContext": "There are countless news stories of deforestation, habitat destruction and dwindling species populations, all as a direct result...",
+            "phase1Inference": {
+                "contextualGuessVI": "Số lượng các loài đang giảm dần, tức là 'quần thể các loài đang suy giảm'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈdwɪndlɪŋ ˈspiːʃiːz ˌpɒpjʊˈleɪʃənz/",
+                "sentiment": "negative",
+                "definitionEN": "The populations of different types of animals or plants becoming gradually smaller.",
+                "translationVI": "quần thể các loài đang suy giảm",
+                "relatedCollocates": [
+                    {
+                        "form": "declining populations",
+                        "meaning": "quần thể đang suy giảm"
+                    },
+                    {
+                        "form": "shrinking numbers",
+                        "meaning": "số lượng đang thu hẹp"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [
+                        {
+                            "form": "dwindle",
+                            "meaning": "suy giảm, nhỏ lại"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Biodiversity loss, risk of extinction.",
+                        "connotationVI": "Mất đa dạng sinh học, nguy cơ tuyệt chủng."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "thriving species populations",
+                        "meaning": "quần thể các loài phát triển mạnh"
+                    },
+                    {
+                        "form": "recovering populations",
+                        "meaning": "quần thể đang phục hồi"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Charities are raising funds to protect dwindling species populations like the giant panda."
+            }
+        },
+        {
+            "id": "1761816344192",
+            "targetLexeme": "land clearing",
+            "sourceContext": "...all as a direct result of land clearing for oil palm monoculture.",
+            "phase1Inference": {
+                "contextualGuessVI": "Hành động dọn dẹp đất đai để trồng cọ, tức là 'việc phát quang/giải phóng mặt bằng'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/lænd ˈklɪərɪŋ/",
+                "sentiment": "negative",
+                "definitionEN": "The process of removing trees, stumps, and other obstacles from an area to make it suitable for other uses like agriculture.",
+                "translationVI": "việc phát quang, giải phóng mặt bằng",
+                "relatedCollocates": [
+                    {
+                        "form": "deforestation",
+                        "meaning": "nạn phá rừng"
+                    },
+                    {
+                        "form": "clearcutting",
+                        "meaning": "chặt phá trắng (toàn bộ cây)"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Often associated with environmental destruction for agricultural expansion.",
+                        "connotationVI": "Thường gắn liền với sự tàn phá môi trường để mở rộng nông nghiệp."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "reforestation",
+                        "meaning": "tái trồng rừng"
+                    },
+                    {
+                        "form": "land restoration",
+                        "meaning": "phục hồi đất đai"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Extensive land clearing was necessary before construction of the new airport could begin."
+            }
+        },
+        {
+            "id": "1761816355246",
+            "targetLexeme": "monoculture",
+            "sourceContext": "...all as a direct result of land clearing for oil palm monoculture.",
+            "phase1Inference": {
+                "contextualGuessVI": "Trồng duy nhất một loại cây (cọ dầu) trên một diện tích lớn, tức là 'độc canh'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈmɒnəʊˌkʌlʧə/",
+                "sentiment": "negative",
+                "definitionEN": "The cultivation of a single crop in a given area.",
+                "translationVI": "độc canh",
+                "relatedCollocates": [
+                    {
+                        "form": "single-crop farming",
+                        "meaning": "canh tác một vụ"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "monoculture",
+                            "meaning": "nền độc canh"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "monocultural",
+                            "meaning": "thuộc về độc canh"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Low biodiversity, industrial agriculture, vulnerability to pests.",
+                        "connotationVI": "Đa dạng sinh học thấp, nông nghiệp công nghiệp, dễ bị sâu bệnh tấn công."
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "Often used in ecological and agricultural discussions to highlight a lack of diversity.",
+                        "noteVI": "Thường được sử dụng trong các cuộc thảo luận về sinh thái và nông nghiệp để nhấn mạnh sự thiếu đa dạng."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "polyculture",
+                        "meaning": "đa canh"
+                    },
+                    {
+                        "form": "biodiverse farming",
+                        "meaning": "canh tác đa dạng sinh học"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The shift towards monoculture has made our food system more efficient but also more fragile."
+            }
+        }
+    ]
+}

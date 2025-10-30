@@ -1,0 +1,1620 @@
+{
+    "batchInfo": {
+        "filename": "batch-02-of-04.json",
+        "batchNumber": 2,
+        "totalBatches": 4,
+        "itemCount": 30,
+        "createdFromMaster": "master-vocabulary.json"
+    },
+    "items": [
+        {
+            "id": "1761816359853",
+            "targetLexeme": "an industrial scale",
+            "sourceContext": "There are countless news stories of deforestation, habitat destruction and dwindling species populations, all as a direct result of palm oil being produced on an industrial scale.",
+            "phase1Inference": {
+                "contextualGuessVI": "Cụm từ này có nghĩa là một quy mô rất lớn, hàng loạt, giống như trong sản xuất công nghiệp."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ən ɪnˈdʌs.tri.əl skeɪl/",
+                "sentiment": "neutral",
+                "definitionEN": "In large amounts or numbers; in a way that is suitable for industry.",
+                "translationVI": "trên quy mô công nghiệp, với số lượng lớn",
+                "relatedCollocates": [
+                    {
+                        "form": "on a massive scale",
+                        "meaning": "trên quy mô lớn"
+                    },
+                    {
+                        "form": "large-scale production",
+                        "meaning": "sản xuất quy mô lớn"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Implies mass production, efficiency, and often, a significant environmental or social impact.",
+                        "connotationVI": "Ngụ ý sản xuất hàng loạt, hiệu quả, và thường đi kèm với tác động xã hội hoặc môi trường đáng kể."
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "Used to describe the magnitude of an activity, not just manufacturing.",
+                        "noteVI": "Dùng để mô tả mức độ của một hoạt động, không chỉ riêng trong sản xuất."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "on a small scale",
+                        "meaning": "trên quy mô nhỏ"
+                    },
+                    {
+                        "form": "artisanal",
+                        "meaning": "thủ công"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The company is now manufacturing electric car batteries on an industrial scale."
+            }
+        },
+        {
+            "id": "1761816362384",
+            "targetLexeme": "particularly",
+            "sourceContext": "This is particularly true in Indonesia and Malaysia, where the vast majority of palm oil is produced.",
+            "phase1Inference": {
+                "contextualGuessVI": "Có nghĩa là 'đặc biệt là', dùng để nhấn mạnh một điều gì đó."
+            },
+            "phase2Annotation": {
+                "phonetic": "/pərˈtɪk.jə.lɚ.li/",
+                "sentiment": "neutral",
+                "definitionEN": "Especially, or more than usual.",
+                "translationVI": "đặc biệt là, một cách đặc biệt",
+                "relatedCollocates": [
+                    {
+                        "form": "especially",
+                        "meaning": "đặc biệt là"
+                    },
+                    {
+                        "form": "in particular",
+                        "meaning": "cụ thể là"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "particularity",
+                            "meaning": "tính cụ thể, đặc trưng"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "particular",
+                            "meaning": "cụ thể, riêng biệt"
+                        }
+                    ],
+                    "adverb": [
+                        {
+                            "form": "particularly",
+                            "meaning": "một cách đặc biệt"
+                        }
+                    ]
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": [
+                    {
+                        "noteEN": "Used to emphasize that something is true in one case more than in others.",
+                        "noteVI": "Dùng để nhấn mạnh rằng điều gì đó đúng trong một trường hợp cụ thể hơn là các trường hợp khác."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "generally",
+                        "meaning": "nói chung"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "I love all kinds of desserts, but I'm particularly fond of chocolate cake."
+            }
+        },
+        {
+            "id": "1761816366352",
+            "targetLexeme": "Endangered species",
+            "sourceContext": "Endangered species – most famously the Sumatran orangutan, but also rhinos, elephants, tigers, and numerous other fauna – are losing their habitats at an alarming rate.",
+            "phase1Inference": {
+                "contextualGuessVI": "Các loài động vật đang có nguy cơ bị tuyệt chủng."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ɪnˈdeɪn.dʒɚd ˈspiː.ʃiːz/",
+                "sentiment": "negative",
+                "definitionEN": "A species of animal or plant that is seriously at risk of extinction.",
+                "translationVI": "các loài có nguy cơ tuyệt chủng",
+                "relatedCollocates": [
+                    {
+                        "form": "threatened species",
+                        "meaning": "các loài bị đe dọa"
+                    },
+                    {
+                        "form": "critically endangered",
+                        "meaning": "cực kỳ nguy cấp"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "endangerment",
+                            "meaning": "sự gây nguy hiểm, tình trạng nguy cấp"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "endanger",
+                            "meaning": "gây nguy hiểm"
+                        }
+                    ],
+                    "adjective": [
+                        {
+                            "form": "endangered",
+                            "meaning": "bị đe dọa, có nguy cơ tuyệt chủng"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Carries a strong sense of urgency and calls for conservation efforts.",
+                        "connotationVI": "Mang hàm ý khẩn cấp và kêu gọi các nỗ lực bảo tồn."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "thriving species",
+                        "meaning": "các loài phát triển mạnh"
+                    },
+                    {
+                        "form": "least-concern species",
+                        "meaning": "các loài ít được quan tâm (vì số lượng lớn)"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Many organizations are dedicated to protecting endangered species from illegal hunting."
+            }
+        },
+        {
+            "id": "1761816373361",
+            "targetLexeme": "the Sumatran orangutan",
+            "sourceContext": "Endangered species – most famously the Sumatran orangutan, but also rhinos, elephants, tigers, and numerous other fauna – are losing their habitats at an alarming rate.",
+            "phase1Inference": {
+                "contextualGuessVI": "Một loài đười ươi sống ở Sumatra."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ðə suːˈmɑː.trən əˈræŋ.ə.tæn/",
+                "sentiment": "neutral",
+                "definitionEN": "A species of orangutan native to the Indonesian island of Sumatra, which is critically endangered.",
+                "translationVI": "đười ươi Sumatra",
+                "relatedCollocates": [
+                    {
+                        "form": "primate",
+                        "meaning": "động vật linh trưởng"
+                    },
+                    {
+                        "form": "great ape",
+                        "meaning": "vượn lớn"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Often used as a symbol for the negative impacts of palm oil production on wildlife.",
+                        "connotationVI": "Thường được dùng như một biểu tượng cho các tác động tiêu cực của việc sản xuất dầu cọ đối với động vật hoang dã."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Conservation centers are working to rehabilitate and release the Sumatran orangutan back into protected forests."
+            }
+        },
+        {
+            "id": "1761816376328",
+            "targetLexeme": "rhinos",
+            "sourceContext": "Endangered species – most famously the Sumatran orangutan, but also rhinos, elephants, tigers, and numerous other fauna – are losing their habitats at an alarming rate.",
+            "phase1Inference": {
+                "contextualGuessVI": "Con tê giác."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈraɪ.noʊz/",
+                "sentiment": "neutral",
+                "definitionEN": "Large, thick-skinned herbivorous mammals of Africa and Asia that have one or two horns on the snout.",
+                "translationVI": "tê giác",
+                "relatedCollocates": [
+                    {
+                        "form": "poaching",
+                        "meaning": "săn trộm"
+                    },
+                    {
+                        "form": "horn",
+                        "meaning": "sừng"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "rhinoceros (singular)",
+                            "meaning": "con tê giác"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Strongly associated with the issue of illegal poaching for their horns.",
+                        "connotationVI": "Gắn liền mạnh mẽ với vấn đề săn trộm trái phép để lấy sừng."
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "'Rhino' is the common, shortened form of 'rhinoceros'.",
+                        "noteVI": "'Rhino' là dạng rút gọn phổ biến của 'rhinoceros'."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Strict anti-poaching laws are in place to protect the few remaining rhinos in the wild."
+            }
+        },
+        {
+            "id": "1761816391428",
+            "targetLexeme": "fauna",
+            "sourceContext": "Endangered species – most famously the Sumatran orangutan, but also rhinos, elephants, tigers, and numerous other fauna – are losing their habitats at an alarming rate.",
+            "phase1Inference": {
+                "contextualGuessVI": "Hệ động vật, tất cả các loài động vật trong một khu vực."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈfɔː.nə/",
+                "sentiment": "neutral",
+                "definitionEN": "All the animals of a particular area or period of time.",
+                "translationVI": "hệ động vật",
+                "relatedCollocates": [
+                    {
+                        "form": "flora",
+                        "meaning": "hệ thực vật"
+                    },
+                    {
+                        "form": "wildlife",
+                        "meaning": "động vật hoang dã"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "A scientific or academic term.",
+                        "connotationVI": "Một thuật ngữ khoa học hoặc học thuật."
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "Often used together with 'flora' as in 'the flora and fauna' of a region.",
+                        "noteVI": "Thường được dùng cùng với 'flora' trong cụm 'the flora and fauna' (hệ thực vật và động vật) của một vùng."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "flora",
+                        "meaning": "hệ thực vật"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The documentary explored the unique flora and fauna of the Galapagos Islands."
+            }
+        },
+        {
+            "id": "1761816413085",
+            "targetLexeme": "the greatest threats",
+            "sourceContext": "Palm oil production is considered one of the greatest threats to global biodiversity.",
+            "phase1Inference": {
+                "contextualGuessVI": "Những mối đe dọa lớn nhất."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ðə ˈɡreɪ.tɪst θrets/",
+                "sentiment": "negative",
+                "definitionEN": "The most significant dangers or risks to something.",
+                "translationVI": "những mối đe dọa lớn nhất",
+                "relatedCollocates": [
+                    {
+                        "form": "major challenge",
+                        "meaning": "thách thức lớn"
+                    },
+                    {
+                        "form": "serious risk",
+                        "meaning": "rủi ro nghiêm trọng"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "threat",
+                            "meaning": "mối đe dọa"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "threaten",
+                            "meaning": "đe dọa"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "the biggest opportunities",
+                        "meaning": "những cơ hội lớn nhất"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Climate change is one of the greatest threats facing humanity today."
+            }
+        },
+        {
+            "id": "1761816415932",
+            "targetLexeme": "global biodiversity",
+            "sourceContext": "Palm oil production is considered one of the greatest threats to global biodiversity.",
+            "phase1Inference": {
+                "contextualGuessVI": "Sự đa dạng sinh học trên toàn cầu."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈɡloʊ.bəl ˌbaɪ.oʊ.dɪˈvɝː.sə.t̬i/",
+                "sentiment": "positive",
+                "definitionEN": "The variety of life on Earth, at all its levels, from genes to ecosystems, across the entire planet.",
+                "translationVI": "đa dạng sinh học toàn cầu",
+                "relatedCollocates": [
+                    {
+                        "form": "ecosystem",
+                        "meaning": "hệ sinh thái"
+                    },
+                    {
+                        "form": "conservation",
+                        "meaning": "bảo tồn"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "biodiversity",
+                            "meaning": "đa dạng sinh học"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "biodiverse",
+                            "meaning": "đa dạng sinh học"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Refers to the health and richness of the planet's living systems.",
+                        "connotationVI": "Đề cập đến sức khỏe và sự phong phú của các hệ thống sống trên hành tinh."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "monoculture",
+                        "meaning": "độc canh"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Protecting rainforests is crucial for maintaining global biodiversity."
+            }
+        },
+        {
+            "id": "1761816430931",
+            "targetLexeme": "led to",
+            "sourceContext": "This has led to some radical questions among environmentalists, such as whether consumers should try to boycott palm oil entirely.",
+            "phase1Inference": {
+                "contextualGuessVI": "Đã dẫn đến, gây ra."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈled tuː/",
+                "sentiment": "neutral",
+                "definitionEN": "To cause something to happen or exist.",
+                "translationVI": "dẫn đến, gây ra",
+                "relatedCollocates": [
+                    {
+                        "form": "resulted in",
+                        "meaning": "dẫn đến kết quả là"
+                    },
+                    {
+                        "form": "caused",
+                        "meaning": "gây ra"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [
+                        {
+                            "form": "lead to (present tense)",
+                            "meaning": "dẫn đến"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": [
+                    {
+                        "noteEN": "This is the past tense of the phrasal verb 'lead to'.",
+                        "noteVI": "Đây là thì quá khứ của cụm động từ 'lead to'."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The heavy rain led to severe flooding in the coastal towns."
+            }
+        },
+        {
+            "id": "1761816433658",
+            "targetLexeme": "radical questions",
+            "sourceContext": "This has led to some radical questions among environmentalists, such as whether consumers should try to boycott palm oil entirely.",
+            "phase1Inference": {
+                "contextualGuessVI": "Những câu hỏi mang tính nền tảng, cơ bản, hoặc cực đoan."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈræd.ɪ.kəl ˈkwes.tʃənz/",
+                "sentiment": "neutral",
+                "definitionEN": "Questions that are very new and different from the usual, often challenging fundamental beliefs or practices.",
+                "translationVI": "những câu hỏi cấp tiến, triệt để",
+                "relatedCollocates": [
+                    {
+                        "form": "fundamental questions",
+                        "meaning": "những câu hỏi cơ bản"
+                    },
+                    {
+                        "form": "provocative ideas",
+                        "meaning": "những ý tưởng khiêu khích"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "radicalism",
+                            "meaning": "chủ nghĩa cấp tiến"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "radical",
+                            "meaning": "cấp tiến, triệt để"
+                        }
+                    ],
+                    "adverb": [
+                        {
+                            "form": "radically",
+                            "meaning": "một cách triệt để"
+                        }
+                    ]
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Suggests a departure from traditional thinking and a willingness to consider extreme solutions.",
+                        "connotationVI": "Gợi ý một sự thoát ly khỏi tư duy truyền thống và sẵn sàng xem xét các giải pháp cực đoan."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "conventional questions",
+                        "meaning": "những câu hỏi thông thường"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The philosopher's book posed radical questions about the nature of consciousness."
+            }
+        },
+        {
+            "id": "1761816440310",
+            "targetLexeme": "among environmentalists",
+            "sourceContext": "This has led to some radical questions among environmentalists, such as whether consumers should try to boycott palm oil entirely.",
+            "phase1Inference": {
+                "contextualGuessVI": "Trong giới các nhà môi trường học."
+            },
+            "phase2Annotation": {
+                "phonetic": "/əˈmʌŋ ɪnˌvaɪ.rənˈmen.t̬əl.ɪsts/",
+                "sentiment": "neutral",
+                "definitionEN": "Within the group of people who are environmentalists.",
+                "translationVI": "trong giới/cộng đồng các nhà môi trường học",
+                "relatedCollocates": [
+                    {
+                        "form": "within the scientific community",
+                        "meaning": "trong cộng đồng khoa học"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "environmentalist",
+                            "meaning": "nhà môi trường học"
+                        },
+                        {
+                            "form": "environment",
+                            "meaning": "môi trường"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": [
+                    {
+                        "noteEN": "'Among' is used to indicate something is part of a group or surrounded by other things.",
+                        "noteVI": "'Among' được dùng để chỉ điều gì đó là một phần của một nhóm hoặc được bao quanh bởi những thứ khác."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "There is a growing consensus among environmentalists that urgent action on climate change is needed."
+            }
+        },
+        {
+            "id": "1761816451563",
+            "targetLexeme": "boycott palm oil entirely",
+            "sourceContext": "This has led to some radical questions among environmentalists, such as whether consumers should try to boycott palm oil entirely.",
+            "phase1Inference": {
+                "contextualGuessVI": "Tẩy chay dầu cọ một cách hoàn toàn."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈbɔɪ.kɑːt pɑːm ɔɪl ɪnˈtaɪr.li/",
+                "sentiment": "negative",
+                "definitionEN": "To completely refuse to buy, use, or participate in something (palm oil) as a way of protesting.",
+                "translationVI": "tẩy chay hoàn toàn dầu cọ",
+                "relatedCollocates": [
+                    {
+                        "form": "refuse to buy",
+                        "meaning": "từ chối mua"
+                    },
+                    {
+                        "form": "protest against",
+                        "meaning": "phản đối"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "boycott",
+                            "meaning": "sự tẩy chay"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "boycott",
+                            "meaning": "tẩy chay"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": [
+                        {
+                            "form": "entirely",
+                            "meaning": "một cách hoàn toàn"
+                        }
+                    ]
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Implies a strong form of consumer activism and moral disapproval.",
+                        "connotationVI": "Ngụ ý một hình thức hoạt động mạnh mẽ của người tiêu dùng và sự phản đối về mặt đạo đức."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "support the industry",
+                        "meaning": "ủng hộ ngành công nghiệp"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Activists called on consumers to boycott palm oil entirely to pressure companies into adopting sustainable practices."
+            }
+        },
+        {
+            "id": "1761816466751",
+            "targetLexeme": "makes for",
+            "sourceContext": "It makes for a more dramatic story, and it's very intuitive.",
+            "phase1Inference": {
+                "contextualGuessVI": "Tạo ra, làm cho cái gì đó trở nên như thế nào."
+            },
+            "phase2Annotation": {
+                "phonetic": "/meɪks fɔːr/",
+                "sentiment": "neutral",
+                "definitionEN": "To result in or create a particular situation or quality.",
+                "translationVI": "tạo nên, làm cho",
+                "relatedCollocates": [
+                    {
+                        "form": "results in",
+                        "meaning": "dẫn đến"
+                    },
+                    {
+                        "form": "contributes to",
+                        "meaning": "góp phần vào"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": [
+                    {
+                        "noteEN": "A phrasal verb that connects a cause with an effect or outcome.",
+                        "noteVI": "Một cụm động từ nối một nguyên nhân với một kết quả hoặc hệ quả."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Having all the family together at Christmas makes for a very special occasion."
+            }
+        },
+        {
+            "id": "1761816469753",
+            "targetLexeme": "a more dramatic story",
+            "sourceContext": "It makes for a more dramatic story, and it's very intuitive.",
+            "phase1Inference": {
+                "contextualGuessVI": "Một câu chuyện kịch tính hơn, hấp dẫn hơn."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ə mɔːr drəˈmæt.ɪk ˈstɔː.ri/",
+                "sentiment": "neutral",
+                "definitionEN": "A narrative that is more exciting, emotional, or impressive.",
+                "translationVI": "một câu chuyện kịch tính hơn",
+                "relatedCollocates": [
+                    {
+                        "form": "a compelling narrative",
+                        "meaning": "một câu chuyện hấp dẫn"
+                    },
+                    {
+                        "form": "an emotional tale",
+                        "meaning": "một câu chuyện cảm động"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "drama",
+                            "meaning": "kịch tính"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "dramatic",
+                            "meaning": "kịch tính"
+                        }
+                    ],
+                    "adverb": [
+                        {
+                            "form": "dramatically",
+                            "meaning": "một cách kịch tính"
+                        }
+                    ]
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "a mundane story",
+                        "meaning": "một câu chuyện trần tục, nhàm chán"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The journalist was accused of exaggerating the facts to create a more dramatic story."
+            }
+        },
+        {
+            "id": "1761816474640",
+            "targetLexeme": "intuitive",
+            "sourceContext": "It makes for a more dramatic story, and it's very intuitive.",
+            "phase1Inference": {
+                "contextualGuessVI": "Dễ hiểu, dựa vào trực giác, không cần suy luận nhiều."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ɪnˈtuː.ɪ.t̬ɪv/",
+                "sentiment": "positive",
+                "definitionEN": "Easy to understand or operate without explicit instruction; based on feelings rather than facts or proof.",
+                "translationVI": "trực quan, thuộc về trực giác",
+                "relatedCollocates": [
+                    {
+                        "form": "instinctive",
+                        "meaning": "theo bản năng"
+                    },
+                    {
+                        "form": "user-friendly",
+                        "meaning": "thân thiện với người dùng"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "intuition",
+                            "meaning": "trực giác"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "intuitive",
+                            "meaning": "trực quan"
+                        }
+                    ],
+                    "adverb": [
+                        {
+                            "form": "intuitively",
+                            "meaning": "một cách trực giác"
+                        }
+                    ]
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "counter-intuitive",
+                        "meaning": "phản trực giác"
+                    },
+                    {
+                        "form": "analytical",
+                        "meaning": "mang tính phân tích"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The new software has a very intuitive interface that is easy for beginners to learn."
+            }
+        },
+        {
+            "id": "1761816486432",
+            "targetLexeme": "the complexity of the argument",
+            "sourceContext": "But given the complexity of the argument, I think a much more nuanced story is closer to the truth.",
+            "phase1Inference": {
+                "contextualGuessVI": "Sự phức tạp của lập luận."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ðə kəmˈplek.sə.t̬i əv ði ˈɑːrɡ.jə.mənt/",
+                "sentiment": "neutral",
+                "definitionEN": "The state of having many different parts connected in a way that is difficult to understand.",
+                "translationVI": "sự phức tạp của lập luận",
+                "relatedCollocates": [
+                    {
+                        "form": "intricacy",
+                        "meaning": "sự phức tạp, rắc rối"
+                    },
+                    {
+                        "form": "sophistication",
+                        "meaning": "sự tinh vi"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "complexity",
+                            "meaning": "sự phức tạp"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "complex",
+                            "meaning": "phức tạp"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "the simplicity of the argument",
+                        "meaning": "sự đơn giản của lập luận"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The professor tried to explain the complexity of the argument in a way that everyone could understand."
+            }
+        },
+        {
+            "id": "1761816494173",
+            "targetLexeme": "a much more nuanced story",
+            "sourceContext": "But given the complexity of the argument, I think a much more nuanced story is closer to the truth.",
+            "phase1Inference": {
+                "contextualGuessVI": "Một câu chuyện có nhiều sắc thái hơn, tinh tế hơn, không đơn giản đen-trắng."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ə mʌtʃ mɔːr ˈnuː.ɑːnst ˈstɔː.ri/",
+                "sentiment": "positive",
+                "definitionEN": "A narrative that has subtle differences in meaning, opinion, or attitude; not simple or straightforward.",
+                "translationVI": "một câu chuyện nhiều sắc thái hơn",
+                "relatedCollocates": [
+                    {
+                        "form": "a subtle distinction",
+                        "meaning": "một sự khác biệt tinh tế"
+                    },
+                    {
+                        "form": "a sophisticated view",
+                        "meaning": "một cái nhìn tinh vi"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "nuance",
+                            "meaning": "sắc thái"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "nuanced",
+                            "meaning": "có nhiều sắc thái"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Implies a deeper, more thoughtful, and more accurate understanding of a situation.",
+                        "connotationVI": "Ngụ ý một sự hiểu biết sâu sắc hơn, chu đáo hơn và chính xác hơn về một tình huống."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "a simplistic story",
+                        "meaning": "một câu chuyện đơn giản hóa"
+                    },
+                    {
+                        "form": "a black-and-white view",
+                        "meaning": "một cái nhìn đen trắng"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Her analysis provided a much more nuanced story of the historical event, considering various perspectives."
+            }
+        },
+        {
+            "id": "1761816500855",
+            "targetLexeme": "the boycott movement",
+            "sourceContext": "The boycott movement is well-intentioned, but it may be causing more harm than good.",
+            "phase1Inference": {
+                "contextualGuessVI": "Phong trào tẩy chay."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ðə ˈbɔɪ.kɑːt ˈmuːv.mənt/",
+                "sentiment": "neutral",
+                "definitionEN": "A collective effort by a group of people to protest something by refusing to buy, use, or participate in it.",
+                "translationVI": "phong trào tẩy chay",
+                "relatedCollocates": [
+                    {
+                        "form": "protest movement",
+                        "meaning": "phong trào phản đối"
+                    },
+                    {
+                        "form": "consumer activism",
+                        "meaning": "hoạt động của người tiêu dùng"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "boycott",
+                            "meaning": "sự tẩy chay"
+                        },
+                        {
+                            "form": "movement",
+                            "meaning": "phong trào"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The boycott movement against the company grew after the news of its unethical labor practices was revealed."
+            }
+        },
+        {
+            "id": "1761816526216",
+            "targetLexeme": "lifting many millions of people",
+            "sourceContext": "Palm oil has been credited with lifting many millions of people in Indonesia and Malaysia out of poverty.",
+            "phase1Inference": {
+                "contextualGuessVI": "Giúp hàng triệu người thoát khỏi cái gì đó, ở đây là thoát nghèo."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈlɪf.tɪŋ ˈmen.i ˈmɪl.jənz əv ˈpiː.pəl/",
+                "sentiment": "positive",
+                "definitionEN": "Helping a very large number of people to improve their situation, especially to escape from a bad condition like poverty.",
+                "translationVI": "giúp hàng triệu người vươn lên",
+                "relatedCollocates": [
+                    {
+                        "form": "raise out of poverty",
+                        "meaning": "đưa ra khỏi đói nghèo"
+                    },
+                    {
+                        "form": "improve living standards",
+                        "meaning": "cải thiện mức sống"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [
+                        {
+                            "form": "lift",
+                            "meaning": "nâng lên, giúp đỡ"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "A powerful metaphor for economic and social improvement.",
+                        "connotationVI": "Một ẩn dụ mạnh mẽ cho sự cải thiện về kinh tế và xã hội."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "plunging into poverty",
+                        "meaning": "đẩy vào cảnh đói nghèo"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Access to education is a key factor in lifting many millions of people out of poverty."
+            }
+        },
+        {
+            "id": "1761816543322",
+            "targetLexeme": "out of poverty",
+            "sourceContext": "Palm oil has been credited with lifting many millions of people in Indonesia and Malaysia out of poverty.",
+            "phase1Inference": {
+                "contextualGuessVI": "Thoát khỏi cảnh nghèo đói."
+            },
+            "phase2Annotation": {
+                "phonetic": "/aʊt əv ˈpɑː.vɚ.t̬i/",
+                "sentiment": "positive",
+                "definitionEN": "To a state where one is no longer poor.",
+                "translationVI": "thoát nghèo",
+                "relatedCollocates": [
+                    {
+                        "form": "escape poverty",
+                        "meaning": "thoát nghèo"
+                    },
+                    {
+                        "form": "alleviate poverty",
+                        "meaning": "giảm nghèo"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "poverty",
+                            "meaning": "sự nghèo đói"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": [
+                    {
+                        "noteEN": "Commonly used with verbs like 'lift', 'climb', 'get', 'pull'.",
+                        "noteVI": "Thường được dùng với các động từ như 'lift', 'climb', 'get', 'pull'."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "into poverty",
+                        "meaning": "rơi vào cảnh nghèo đói"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The government's new economic policies aim to help more families get out of poverty."
+            }
+        },
+        {
+            "id": "1761816551024",
+            "targetLexeme": "desirable to",
+            "sourceContext": "Is it desirable to have palm oil boycotted, replaced, eliminated from the global supply chain, given how many livelihoods depend on it?",
+            "phase1Inference": {
+                "contextualGuessVI": "Có đáng mong muốn không, có nên làm không."
+            },
+            "phase2Annotation": {
+                "phonetic": "/dɪˈzaɪr.ə.bəl tuː/",
+                "sentiment": "positive",
+                "definitionEN": "Worth having or doing; pleasing, attractive, or wanted.",
+                "translationVI": "đáng mong muốn, đáng ao ước",
+                "relatedCollocates": [
+                    {
+                        "form": "advisable to",
+                        "meaning": "nên làm"
+                    },
+                    {
+                        "form": "beneficial to",
+                        "meaning": "có lợi"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "desire",
+                            "meaning": "sự mong muốn"
+                        },
+                        {
+                            "form": "desirability",
+                            "meaning": "sự đáng ao ước"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "desire",
+                            "meaning": "mong muốn"
+                        }
+                    ],
+                    "adjective": [
+                        {
+                            "form": "desirable",
+                            "meaning": "đáng mong muốn"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "undesirable to",
+                        "meaning": "không mong muốn"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "It is desirable to have a backup plan in case the first one fails."
+            }
+        },
+        {
+            "id": "1761816558654",
+            "targetLexeme": "boycotted, replaced, eliminated",
+            "sourceContext": "Is it desirable to have palm oil boycotted, replaced, eliminated from the global supply chain, given how many livelihoods depend on it?",
+            "phase1Inference": {
+                "contextualGuessVI": "Bị tẩy chay, bị thay thế, bị loại bỏ."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈbɔɪ.kɑː.t̬ɪd, rɪˈpleɪst, ɪˈlɪm.ə.neɪ.t̬ɪd/",
+                "sentiment": "negative",
+                "definitionEN": "A series of actions: to be refused to be bought, to be substituted with something else, and to be completely removed.",
+                "translationVI": "bị tẩy chay, bị thay thế, bị loại bỏ",
+                "relatedCollocates": [
+                    {
+                        "form": "removed",
+                        "meaning": "bị loại bỏ"
+                    },
+                    {
+                        "form": "excluded",
+                        "meaning": "bị loại trừ"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [
+                        {
+                            "form": "boycott, replace, eliminate",
+                            "meaning": "tẩy chay, thay thế, loại bỏ"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "This sequence implies a complete and total removal from a system.",
+                        "connotationVI": "Chuỗi hành động này ngụ ý một sự loại bỏ hoàn toàn và toàn diện khỏi một hệ thống."
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "These are past participles used in a passive construction ('to have something done').",
+                        "noteVI": "Đây là các động từ ở dạng quá khứ phân từ được sử dụng trong cấu trúc bị động ('to have something done')."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "supported, maintained, integrated",
+                        "meaning": "được ủng hộ, duy trì, tích hợp"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The outdated technology was eventually replaced and eliminated from the production line."
+            }
+        },
+        {
+            "id": "1761816562772",
+            "targetLexeme": "the global supply chain",
+            "sourceContext": "Is it desirable to have palm oil boycotted, replaced, eliminated from the global supply chain, given how many livelihoods depend on it?",
+            "phase1Inference": {
+                "contextualGuessVI": "Chuỗi cung ứng toàn cầu."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ðə ˈɡloʊ.bəl səˈplaɪ tʃeɪn/",
+                "sentiment": "neutral",
+                "definitionEN": "The worldwide system of organizations, people, activities, information, and resources involved in moving a product or service from supplier to customer.",
+                "translationVI": "chuỗi cung ứng toàn cầu",
+                "relatedCollocates": [
+                    {
+                        "form": "logistics",
+                        "meaning": "hậu cần"
+                    },
+                    {
+                        "form": "international trade",
+                        "meaning": "thương mại quốc tế"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "local supply chain",
+                        "meaning": "chuỗi cung ứng địa phương"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The pandemic caused major disruptions to the global supply chain, leading to shortages of many goods."
+            }
+        },
+        {
+            "id": "1761816572321",
+            "targetLexeme": "livelihoods",
+            "sourceContext": "Is it desirable to have palm oil boycotted, replaced, eliminated from the global supply chain, given how many livelihoods depend on it?",
+            "phase1Inference": {
+                "contextualGuessVI": "Kế sinh nhai, công việc kiếm sống."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈlaɪv.li.hʊdz/",
+                "sentiment": "positive",
+                "definitionEN": "A means of securing the necessities of life; a person's way of earning money.",
+                "translationVI": "kế sinh nhai, sinh kế",
+                "relatedCollocates": [
+                    {
+                        "form": "income",
+                        "meaning": "thu nhập"
+                    },
+                    {
+                        "form": "employment",
+                        "meaning": "việc làm"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "livelihood",
+                            "meaning": "kế sinh nhai"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Refers not just to a job, but to the entire means of supporting oneself and one's family.",
+                        "connotationVI": "Không chỉ đề cập đến một công việc, mà là toàn bộ phương tiện để nuôi sống bản thân và gia đình."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The fishing community's livelihoods are threatened by industrial pollution in the river."
+            }
+        },
+        {
+            "id": "1761816577182",
+            "targetLexeme": "How best to strike",
+            "sourceContext": "How best to strike a utilitarian balance between these competing factors has become a serious bone of contention.",
+            "phase1Inference": {
+                "contextualGuessVI": "Làm thế nào để đạt được, tạo ra một cái gì đó tốt nhất."
+            },
+            "phase2Annotation": {
+                "phonetic": "/haʊ best tuː straɪk/",
+                "sentiment": "neutral",
+                "definitionEN": "The best way to achieve or find something, especially a balance or agreement.",
+                "translationVI": "làm thế nào để đạt được (một sự cân bằng)",
+                "relatedCollocates": [
+                    {
+                        "form": "how to achieve",
+                        "meaning": "làm thế nào để đạt được"
+                    },
+                    {
+                        "form": "how to find",
+                        "meaning": "làm thế nào để tìm thấy"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": null,
+                "usageNotes": [
+                    {
+                        "noteEN": "The verb 'strike' is often used with abstract nouns like 'balance', 'deal', or 'bargain'.",
+                        "noteVI": "Động từ 'strike' thường được dùng với các danh từ trừu tượng như 'balance' (sự cân bằng), 'deal' (thỏa thuận), hoặc 'bargain' (sự mặc cả)."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The government is debating how best to strike a balance between economic growth and environmental protection."
+            }
+        },
+        {
+            "id": "1761816580484",
+            "targetLexeme": "a utilitarian balance",
+            "sourceContext": "How best to strike a utilitarian balance between these competing factors has become a serious bone of contention.",
+            "phase1Inference": {
+                "contextualGuessVI": "Một sự cân bằng mang tính vị lợi, thực dụng, hướng đến lợi ích cho số đông."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ə juːˌtɪl.ɪˈter.i.ən ˈbæl.əns/",
+                "sentiment": "neutral",
+                "definitionEN": "A state of equilibrium that is designed to be useful or practical rather than attractive, aiming for the greatest good for the greatest number of people.",
+                "translationVI": "sự cân bằng vị lợi",
+                "relatedCollocates": [
+                    {
+                        "form": "a practical compromise",
+                        "meaning": "một sự thỏa hiệp thực tế"
+                    },
+                    {
+                        "form": "the greater good",
+                        "meaning": "lợi ích lớn hơn cho số đông"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "utilitarianism",
+                            "meaning": "chủ nghĩa vị lợi"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "utilitarian",
+                            "meaning": "vị lợi, thực dụng"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Philosophical and academic. Implies a decision-making process based on outcomes and consequences rather than principles or rights.",
+                        "connotationVI": "Mang tính triết học và học thuật. Ngụ ý một quá trình ra quyết định dựa trên kết quả và hậu quả hơn là các nguyên tắc hay quyền lợi."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "an ideological stance",
+                        "meaning": "một lập trường ý thức hệ"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The city planner aimed for a utilitarian balance, prioritizing affordable housing over aesthetic park spaces."
+            }
+        },
+        {
+            "id": "1761816651962",
+            "targetLexeme": "competing factors",
+            "sourceContext": "How best to strike a utilitarian balance between these competing factors has become a serious bone of contention.",
+            "phase1Inference": {
+                "contextualGuessVI": "Các yếu tố cạnh tranh, mâu thuẫn với nhau."
+            },
+            "phase2Annotation": {
+                "phonetic": "/kəmˈpiː.t̬ɪŋ ˈfæk.tɚz/",
+                "sentiment": "neutral",
+                "definitionEN": "Different elements or considerations that are in opposition to each other and cannot all be fully satisfied at the same time.",
+                "translationVI": "các yếu tố cạnh tranh",
+                "relatedCollocates": [
+                    {
+                        "form": "conflicting interests",
+                        "meaning": "các lợi ích xung đột"
+                    },
+                    {
+                        "form": "opposing forces",
+                        "meaning": "các lực lượng đối lập"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "competition",
+                            "meaning": "sự cạnh tranh"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "compete",
+                            "meaning": "cạnh tranh"
+                        }
+                    ],
+                    "adjective": [
+                        {
+                            "form": "competing",
+                            "meaning": "cạnh tranh"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "aligned factors",
+                        "meaning": "các yếu tố đồng nhất"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "When choosing a new car, you have to weigh the competing factors of price, fuel efficiency, and size."
+            }
+        },
+        {
+            "id": "1761816658567",
+            "targetLexeme": "a serious bone of contention",
+            "sourceContext": "How best to strike a utilitarian balance between these competing factors has become a serious bone of contention.",
+            "phase1Inference": {
+                "contextualGuessVI": "Một vấn đề gây tranh cãi nghiêm trọng."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ə ˈsɪr.i.əs boʊn əv kənˈten.ʃən/",
+                "sentiment": "negative",
+                "definitionEN": "A subject or issue over which there is continuing disagreement.",
+                "translationVI": "một vấn đề gây tranh cãi nghiêm trọng",
+                "relatedCollocates": [
+                    {
+                        "form": "a point of disagreement",
+                        "meaning": "một điểm bất đồng"
+                    },
+                    {
+                        "form": "a source of conflict",
+                        "meaning": "một nguồn xung đột"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "informal",
+                "connotation": [
+                    {
+                        "connotationEN": "An idiom that suggests a persistent and often heated argument.",
+                        "connotationVI": "Một thành ngữ gợi ý một cuộc tranh cãi dai dẳng và thường là nảy lửa."
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "a point of agreement",
+                        "meaning": "một điểm đồng thuận"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The allocation of the budget has always been a serious bone of contention between the two departments."
+            }
+        },
+        {
+            "id": "1761816680474",
+            "targetLexeme": "isn't as straightforward as it seems",
+            "sourceContext": "Even the solution of replacing palm oil with other vegetable oils isn't as straightforward as it seems.",
+            "phase1Inference": {
+                "contextualGuessVI": "Không đơn giản, không dễ dàng như vẻ bề ngoài."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈɪz.ənt æz ˌstreɪtˈfɔːr.wɚd æz ɪt siːmz/",
+                "sentiment": "neutral",
+                "definitionEN": "Is not as simple or easy to understand or do as it first appears.",
+                "translationVI": "không đơn giản như vẻ bề ngoài",
+                "relatedCollocates": [
+                    {
+                        "form": "more complicated than it looks",
+                        "meaning": "phức tạp hơn vẻ ngoài"
+                    },
+                    {
+                        "form": "deceptively simple",
+                        "meaning": "đơn giản một cách dễ gây hiểu lầm"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": [
+                    {
+                        "noteEN": "A common phrase used to introduce complexity or hidden difficulties.",
+                        "noteVI": "Một cụm từ phổ biến được dùng để giới thiệu sự phức tạp hoặc những khó khăn tiềm ẩn."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "is exactly as it seems",
+                        "meaning": "đúng như vẻ bề ngoài"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Learning a new language isn't as straightforward as it seems; it requires consistent practice and dedication."
+            }
+        },
+        {
+            "id": "1761816703284",
+            "targetLexeme": "soybean",
+            "sourceContext": "Oil palm plantations produce at least four and potentially up to ten times more oil per hectare than soybean, rapeseed, or sunflower crops.",
+            "phase1Inference": {
+                "contextualGuessVI": "Đậu nành, đậu tương."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈsɔɪ.biːn/",
+                "sentiment": "neutral",
+                "definitionEN": "A type of bean, grown for its edible seeds and for oil and other products.",
+                "translationVI": "đậu nành, đậu tương",
+                "relatedCollocates": [
+                    {
+                        "form": "soy milk",
+                        "meaning": "sữa đậu nành"
+                    },
+                    {
+                        "form": "tofu",
+                        "meaning": "đậu phụ"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "soybean",
+                            "meaning": "đậu nành"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Many vegetarian products are made from soybean because it is a good source of protein."
+            }
+        }
+    ]
+}

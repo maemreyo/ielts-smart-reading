@@ -1,0 +1,1120 @@
+{
+    "batchInfo": {
+        "filename": "batch-04-of-04.json",
+        "batchNumber": 4,
+        "totalBatches": 4,
+        "itemCount": 20,
+        "createdFromMaster": "master-vocabulary.json"
+    },
+    "items": [
+        {
+            "id": "1761817022766",
+            "targetLexeme": "roughly",
+            "sourceContext": "Recent figures show that the RSPO now certifies around 12 million tonnes of palm oil annually, equivalent to roughly 19% of the global supply.",
+            "phase1Inference": {
+                "contextualGuessVI": "Dựa vào từ 'around' và 'equivalent to', 'roughly' có nghĩa là 'khoảng', 'xấp xỉ', dùng để đưa ra một con số không hoàn toàn chính xác."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈrʌfli/",
+                "sentiment": "neutral",
+                "definitionEN": "In a way that is not exact or detailed; approximately.",
+                "translationVI": "Khoảng, xấp xỉ, đại khái.",
+                "relatedCollocates": [
+                    {
+                        "form": "approximately",
+                        "meaning": "xấp xỉ"
+                    },
+                    {
+                        "form": "about / around",
+                        "meaning": "khoảng"
+                    },
+                    {
+                        "form": "more or less",
+                        "meaning": "ít nhiều, xấp xỉ"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "roughness",
+                            "meaning": "sự thô ráp, sự gồ ghề"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "rough",
+                            "meaning": "thô, sơ bộ, gồ ghề"
+                        }
+                    ],
+                    "adverb": [
+                        {
+                            "form": "roughly",
+                            "meaning": "một cách sơ bộ, khoảng"
+                        }
+                    ]
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": [
+                    {
+                        "noteEN": "Used to give an estimate rather than a precise figure. Can also mean 'in a violent or careless way'.",
+                        "noteVI": "Dùng để đưa ra một con số ước lượng thay vì chính xác. Cũng có thể có nghĩa là 'một cách thô bạo hoặc bất cẩn'."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "exactly",
+                        "meaning": "chính xác"
+                    },
+                    {
+                        "form": "precisely",
+                        "meaning": "một cách chính xác"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The project will take roughly six months to complete."
+            }
+        },
+        {
+            "id": "1761817031986",
+            "targetLexeme": "There is even hope that",
+            "sourceContext": "There is even hope that oil palm plantations can be used to help regenerate depleted rainforest.",
+            "phase1Inference": {
+                "contextualGuessVI": "Cụm từ này dùng để giới thiệu một khả năng tích cực, một niềm hy vọng, đặc biệt là một điều có vẻ đáng ngạc nhiên hoặc khó tin. Nghĩa là 'Thậm chí còn có hy vọng rằng'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ðər ɪz ˈiːvən hoʊp ðæt/",
+                "sentiment": "positive",
+                "definitionEN": "Used to introduce a surprising or optimistic possibility or belief about the future.",
+                "translationVI": "Thậm chí còn có hy vọng rằng.",
+                "relatedCollocates": [
+                    {
+                        "form": "It is hoped that",
+                        "meaning": "Người ta hy vọng rằng"
+                    },
+                    {
+                        "form": "There is a chance that",
+                        "meaning": "Có khả năng là"
+                    }
+                ],
+                "wordForms": {},
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Optimistic, forward-looking",
+                        "connotationVI": "Lạc quan, hướng về tương lai"
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Despite the severity of the drought, there is even hope that some crops might survive."
+            }
+        },
+        {
+            "id": "1761817041676",
+            "targetLexeme": "to be such sterile monocultures",
+            "sourceContext": "The problem is that oil palm plantations tend to be such sterile monocultures.",
+            "phase1Inference": {
+                "contextualGuessVI": "'sterile' là cằn cỗi, vô trùng. 'monocultures' là độc canh. Cụm từ này mô tả các đồn điền chỉ trồng một loại cây, thiếu sự đa dạng và sức sống, giống như một môi trường 'vô trùng'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/tuː biː sʌtʃ ˈstɛraɪl ˈmɒnəʊˌkʌltʃərz/",
+                "sentiment": "negative",
+                "definitionEN": "To be agricultural systems that consist of only one crop, resulting in a lack of biodiversity and appearing lifeless or barren.",
+                "translationVI": "Là những khu độc canh cằn cỗi/thiếu sức sống.",
+                "relatedCollocates": [
+                    {
+                        "form": "barren landscapes",
+                        "meaning": "cảnh quan cằn cỗi"
+                    },
+                    {
+                        "form": "lack of biodiversity",
+                        "meaning": "thiếu đa dạng sinh học"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "sterility",
+                            "meaning": "sự cằn cỗi, sự vô trùng"
+                        },
+                        {
+                            "form": "monoculture",
+                            "meaning": "sự độc canh"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "sterilize",
+                            "meaning": "làm cho vô trùng, triệt sản"
+                        }
+                    ],
+                    "adjective": [
+                        {
+                            "form": "sterile",
+                            "meaning": "cằn cỗi, vô trùng"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Lifeless, unnatural, ecologically poor",
+                        "connotationVI": "Vô hồn, không tự nhiên, nghèo nàn về mặt sinh thái"
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "biodiverse ecosystems",
+                        "meaning": "hệ sinh thái đa dạng sinh học"
+                    },
+                    {
+                        "form": "thriving habitats",
+                        "meaning": "môi trường sống phát triển mạnh"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Environmentalists criticize these farms because they are such sterile monocultures, offering no habitat for local wildlife."
+            }
+        },
+        {
+            "id": "1761817071092",
+            "targetLexeme": "'green deserts'",
+            "sourceContext": "These plantations are often referred to by ecologists as 'green deserts'.",
+            "phase1Inference": {
+                "contextualGuessVI": "Sa mạc xanh. Đây là một cụm từ ẩn dụ, chỉ những khu vực trông có vẻ xanh (vì cây cối) nhưng lại thiếu sự đa dạng sinh học và sự sống, giống như một sa mạc."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ɡriːn ˈdɛzərts/",
+                "sentiment": "negative",
+                "definitionEN": "A metaphorical term for a large area of land with a single plant species (a monoculture) that supports very little wildlife, making it ecologically barren despite its green appearance.",
+                "translationVI": "Sa mạc xanh (thuật ngữ chỉ khu vực độc canh, trông xanh tươi nhưng nghèo nàn về đa dạng sinh học).",
+                "relatedCollocates": [
+                    {
+                        "form": "monoculture plantation",
+                        "meaning": "đồn điền độc canh"
+                    },
+                    {
+                        "form": "ecological wasteland",
+                        "meaning": "vùng đất hoang về mặt sinh thái"
+                    }
+                ],
+                "wordForms": {},
+                "register": "informal",
+                "connotation": [
+                    {
+                        "connotationEN": "Deceptive, ecologically barren, lifeless",
+                        "connotationVI": "Gây hiểu lầm, cằn cỗi về mặt sinh thái, thiếu sức sống"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "This is an oxymoron used in environmental discourse to highlight the lack of biodiversity in monoculture forests or plantations.",
+                        "noteVI": "Đây là một phép nghịch hợp được sử dụng trong các diễn ngôn về môi trường để nhấn mạnh sự thiếu đa dạng sinh học trong các khu rừng hoặc đồn điền độc canh."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "rich ecosystem",
+                        "meaning": "hệ sinh thái phong phú"
+                    },
+                    {
+                        "form": "biodiversity hotspot",
+                        "meaning": "điểm nóng đa dạng sinh học"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The endless rows of a single crop turned the once-vibrant landscape into a 'green desert'."
+            }
+        },
+        {
+            "id": "1761817079239",
+            "targetLexeme": "hints at",
+            "sourceContext": "New research at Ellwood's lab hints at one plant which might make all the difference.",
+            "phase1Inference": {
+                "contextualGuessVI": "Nghiên cứu mới 'gợi ý về' một loài thực vật. Cụm từ này có nghĩa là gợi ý, ám chỉ một cách gián tiếp."
+            },
+            "phase2Annotation": {
+                "phonetic": "/hɪnts æt/",
+                "sentiment": "neutral",
+                "definitionEN": "To suggest or indicate something in an indirect or subtle way.",
+                "translationVI": "Gợi ý, ám chỉ, hé lộ.",
+                "relatedCollocates": [
+                    {
+                        "form": "suggests",
+                        "meaning": "gợi ý"
+                    },
+                    {
+                        "form": "implies",
+                        "meaning": "ngụ ý"
+                    },
+                    {
+                        "form": "points towards",
+                        "meaning": "hướng tới"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "hint",
+                            "meaning": "sự gợi ý, dấu hiệu"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "to hint",
+                            "meaning": "gợi ý, ra hiệu"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "states explicitly",
+                        "meaning": "nêu rõ ràng"
+                    },
+                    {
+                        "form": "proves conclusively",
+                        "meaning": "chứng minh một cách thuyết phục"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The weariness in her voice hints at a long and difficult day."
+            }
+        },
+        {
+            "id": "1761817086900",
+            "targetLexeme": "The bird's nest fern (Asplenium nidus)",
+            "sourceContext": "The bird's nest fern (Asplenium nidus) grows on trees in an epiphytic fashion (meaning it's dependent on the tree for support but not for nutrients).",
+            "phase1Inference": {
+                "contextualGuessVI": "Tên một loài thực vật. 'fern' là dương xỉ, 'bird's nest' là tổ chim. Đây là cây dương xỉ tổ chim, có tên khoa học là Asplenium nidus."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ðə bɜːrdz nɛst fɜːrn/",
+                "sentiment": "neutral",
+                "definitionEN": "A species of epiphytic fern in the family Aspleniaceae, characterized by its rosette of large, simple fronds that resemble a bird's nest.",
+                "translationVI": "Cây dương xỉ tổ chim (tên khoa học: Asplenium nidus).",
+                "relatedCollocates": [
+                    {
+                        "form": "epiphyte",
+                        "meaning": "cây biểu sinh"
+                    },
+                    {
+                        "form": "tropical plant",
+                        "meaning": "cây nhiệt đới"
+                    }
+                ],
+                "wordForms": {},
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The bird's nest fern is a popular houseplant because it thrives in low-light conditions."
+            }
+        },
+        {
+            "id": "1761817094010",
+            "targetLexeme": "an epiphytic fashion",
+            "sourceContext": "The bird's nest fern (Asplenium nidus) grows on trees in an epiphytic fashion (meaning it's dependent on the tree for support but not for nutrients).",
+            "phase1Inference": {
+                "contextualGuessVI": "Mọc trên cây 'theo một kiểu biểu sinh'. 'epiphytic' mô tả cách một loài cây sống bám trên cây khác để được nâng đỡ, chứ không phải để hút chất dinh dưỡng."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ən ˌɛpɪˈfɪtɪk ˈfæʃən/",
+                "sentiment": "neutral",
+                "definitionEN": "In a manner characteristic of an epiphyte, a plant that grows on another plant for physical support but does not take nutrients from it.",
+                "translationVI": "Theo kiểu biểu sinh (sống bám trên cây khác nhưng không ký sinh).",
+                "relatedCollocates": [
+                    {
+                        "form": "grows on another plant",
+                        "meaning": "mọc trên cây khác"
+                    },
+                    {
+                        "form": "non-parasitic",
+                        "meaning": "không ký sinh"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "epiphyte",
+                            "meaning": "cây biểu sinh"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "epiphytic",
+                            "meaning": "có tính biểu sinh"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Scientific, botanical",
+                        "connotationVI": "Khoa học, thực vật học"
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "a parasitic manner",
+                        "meaning": "theo kiểu ký sinh"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Many orchids and bromeliads live in an epiphytic fashion, attached to the bark of rainforest trees."
+            }
+        },
+        {
+            "id": "1761817100633",
+            "targetLexeme": "nutrients",
+            "sourceContext": "The bird's nest fern (Asplenium nidus) grows on trees in an epiphytic fashion (meaning it's dependent on the tree for support but not for nutrients).",
+            "phase1Inference": {
+                "contextualGuessVI": "Cây không phụ thuộc vào cây chủ để lấy 'chất dinh dưỡng'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈnuːtriənts/",
+                "sentiment": "neutral",
+                "definitionEN": "Substances that provide nourishment essential for the maintenance of life and for growth.",
+                "translationVI": "Chất dinh dưỡng.",
+                "relatedCollocates": [
+                    {
+                        "form": "vitamins",
+                        "meaning": "vitamin"
+                    },
+                    {
+                        "form": "minerals",
+                        "meaning": "khoáng chất"
+                    },
+                    {
+                        "form": "nourishment",
+                        "meaning": "sự nuôi dưỡng"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "nutrient",
+                            "meaning": "chất dinh dưỡng"
+                        },
+                        {
+                            "form": "nutrition",
+                            "meaning": "dinh dưỡng"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "nutritious",
+                            "meaning": "bổ dưỡng"
+                        },
+                        {
+                            "form": "nutritional",
+                            "meaning": "thuộc về dinh dưỡng"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "toxins",
+                        "meaning": "chất độc"
+                    },
+                    {
+                        "form": "waste products",
+                        "meaning": "chất thải"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Fertilizer provides essential nutrients to help plants grow strong."
+            }
+        },
+        {
+            "id": "1761817110587",
+            "targetLexeme": "native to many tropical regions",
+            "sourceContext": "The bird's nest fern is native to many tropical regions, including Southeast Asia.",
+            "phase1Inference": {
+                "contextualGuessVI": "Có nguồn gốc/xuất xứ từ nhiều vùng nhiệt đới."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈneɪtɪv tuː ˈmɛni ˈtrɒpɪkəl ˈriːdʒənz/",
+                "sentiment": "neutral",
+                "definitionEN": "Originating from or indigenous to numerous areas within the tropics.",
+                "translationVI": "Bản địa/có nguồn gốc ở nhiều vùng nhiệt đới.",
+                "relatedCollocates": [
+                    {
+                        "form": "indigenous to",
+                        "meaning": "bản địa của"
+                    },
+                    {
+                        "form": "originating from",
+                        "meaning": "bắt nguồn từ"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "native",
+                            "meaning": "người bản địa, loài bản địa"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "native",
+                            "meaning": "bản địa, bẩm sinh"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "foreign to",
+                        "meaning": "xa lạ với"
+                    },
+                    {
+                        "form": "introduced to",
+                        "meaning": "được du nhập vào"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The cacao tree, from which we get chocolate, is native to many tropical regions of the Americas."
+            }
+        },
+        {
+            "id": "1761817118417",
+            "targetLexeme": "a vital ecological role",
+            "sourceContext": "In its natural habitat, the fern plays a vital ecological role.",
+            "phase1Inference": {
+                "contextualGuessVI": "Một vai trò sinh thái quan trọng, thiết yếu."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ə ˈvaɪtəl ˌiːkəˈlɒdʒɪkəl roʊl/",
+                "sentiment": "positive",
+                "definitionEN": "A very important or essential function within an ecosystem.",
+                "translationVI": "Một vai trò sinh thái thiết yếu.",
+                "relatedCollocates": [
+                    {
+                        "form": "a crucial part",
+                        "meaning": "một phần quan trọng"
+                    },
+                    {
+                        "form": "an essential function",
+                        "meaning": "một chức năng thiết yếu"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "vitality",
+                            "meaning": "sức sống"
+                        },
+                        {
+                            "form": "ecology",
+                            "meaning": "sinh thái học"
+                        },
+                        {
+                            "form": "role",
+                            "meaning": "vai trò"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "vital",
+                            "meaning": "thiết yếu"
+                        },
+                        {
+                            "form": "ecological",
+                            "meaning": "thuộc về sinh thái"
+                        }
+                    ],
+                    "adverb": [
+                        {
+                            "form": "vitally",
+                            "meaning": "một cách thiết yếu"
+                        },
+                        {
+                            "form": "ecologically",
+                            "meaning": "về mặt sinh thái"
+                        }
+                    ]
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "an insignificant role",
+                        "meaning": "một vai trò không đáng kể"
+                    },
+                    {
+                        "form": "a detrimental effect",
+                        "meaning": "một ảnh hưởng có hại"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Earthworms play a vital ecological role by aerating and enriching the soil."
+            }
+        },
+        {
+            "id": "1761817124669",
+            "targetLexeme": "reintroducing",
+            "sourceContext": "Ellwood believes that reintroducing the bird's nest fern into oil palm plantations could potentially allow these areas to recover their biodiversity.",
+            "phase1Inference": {
+                "contextualGuessVI": "'re-' có nghĩa là 'lại', 'introducing' là 'đưa vào'. Vậy 'reintroducing' có nghĩa là 'tái du nhập', 'đưa trở lại' một nơi nào đó."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˌriːɪntrəˈduːsɪŋ/",
+                "sentiment": "positive",
+                "definitionEN": "The act of putting a type of animal, plant, or person back into a former habitat or position.",
+                "translationVI": "Tái du nhập, đưa trở lại.",
+                "relatedCollocates": [
+                    {
+                        "form": "restoring",
+                        "meaning": "phục hồi"
+                    },
+                    {
+                        "form": "bringing back",
+                        "meaning": "mang trở lại"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "reintroduction",
+                            "meaning": "sự tái du nhập"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "reintroduce",
+                            "meaning": "tái du nhập"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Restorative, conservation-focused",
+                        "connotationVI": "Mang tính phục hồi, tập trung vào bảo tồn"
+                    }
+                ],
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "eradicating",
+                        "meaning": "loại bỏ, diệt trừ"
+                    },
+                    {
+                        "form": "removing",
+                        "meaning": "loại bỏ"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The program for reintroducing the native bird species has been a great success."
+            }
+        },
+        {
+            "id": "1761817132418",
+            "targetLexeme": "recover their biodiversity",
+            "sourceContext": "Ellwood believes that reintroducing the bird's nest fern into oil palm plantations could potentially allow these areas to recover their biodiversity.",
+            "phase1Inference": {
+                "contextualGuessVI": "'recover' là 'phục hồi', 'biodiversity' là 'đa dạng sinh học'. Cụm từ có nghĩa là 'phục hồi lại sự đa dạng sinh học của chúng'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/rɪˈkʌvər ðɛər ˌbaɪoʊdaɪˈvɜːrsəti/",
+                "sentiment": "positive",
+                "definitionEN": "To restore the variety of plant and animal life in a particular habitat.",
+                "translationVI": "Phục hồi sự đa dạng sinh học.",
+                "relatedCollocates": [
+                    {
+                        "form": "restore ecological balance",
+                        "meaning": "khôi phục cân bằng sinh thái"
+                    },
+                    {
+                        "form": "increase species richness",
+                        "meaning": "tăng sự phong phú của các loài"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "recovery",
+                            "meaning": "sự phục hồi"
+                        },
+                        {
+                            "form": "biodiversity",
+                            "meaning": "đa dạng sinh học"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "recover",
+                            "meaning": "phục hồi"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "lose biodiversity",
+                        "meaning": "mất đa dạng sinh học"
+                    },
+                    {
+                        "form": "suffer habitat degradation",
+                        "meaning": "chịu sự suy thoái môi trường sống"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "It will take many years for the damaged coral reef to recover its biodiversity."
+            }
+        },
+        {
+            "id": "1761817138840",
+            "targetLexeme": "manner of species",
+            "sourceContext": "The fern provides a habitat for all manner of species, from fungi and bacteria to invertebrates and even reptiles.",
+            "phase1Inference": {
+                "contextualGuessVI": "Cụm từ 'all manner of' có nghĩa là 'đủ mọi loại'. Vậy 'manner of species' ở đây có nghĩa là 'các loại/giống loài'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈmænər əv ˈspiːʃiːz/",
+                "sentiment": "neutral",
+                "definitionEN": "A variety or type of species. Often used in the phrase 'all manner of species' to mean a wide variety of different species.",
+                "translationVI": "Các loại/giống loài.",
+                "relatedCollocates": [
+                    {
+                        "form": "all kinds of species",
+                        "meaning": "tất cả các loại loài"
+                    },
+                    {
+                        "form": "a variety of species",
+                        "meaning": "một sự đa dạng các loài"
+                    }
+                ],
+                "wordForms": {},
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": [
+                    {
+                        "noteEN": "The phrase 'all manner of' is a slightly formal way of saying 'many different kinds of'.",
+                        "noteVI": "Cụm từ 'all manner of' là một cách nói hơi trang trọng của 'nhiều loại khác nhau'."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The ancient forest provides a home for all manner of species, both big and small."
+            }
+        },
+        {
+            "id": "1761817148048",
+            "targetLexeme": "fungi",
+            "sourceContext": "The fern provides a habitat for all manner of species, from fungi and bacteria to invertebrates...",
+            "phase1Inference": {
+                "contextualGuessVI": "Nằm trong danh sách các loài, 'fungi' là một dạng sinh vật. Đây là dạng số nhiều của 'fungus', có nghĩa là nấm."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈfʌŋɡaɪ/ or /ˈfʌndʒaɪ/",
+                "sentiment": "neutral",
+                "definitionEN": "Plural of fungus; a group of spore-producing organisms that feed on organic matter, including molds, yeast, and mushrooms.",
+                "translationVI": "Nấm (số nhiều).",
+                "relatedCollocates": [
+                    {
+                        "form": "mushrooms",
+                        "meaning": "nấm (loại có mũ)"
+                    },
+                    {
+                        "form": "mold",
+                        "meaning": "nấm mốc"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "fungus",
+                            "meaning": "nấm (số ít)"
+                        },
+                        {
+                            "form": "fungi",
+                            "meaning": "nấm (số nhiều)"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "fungal",
+                            "meaning": "thuộc về nấm"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Fungi are essential to the ecosystem as they break down dead organic material."
+            }
+        },
+        {
+            "id": "1761817155064",
+            "targetLexeme": "bacteria",
+            "sourceContext": "The fern provides a habitat for all manner of species, from fungi and bacteria to invertebrates...",
+            "phase1Inference": {
+                "contextualGuessVI": "Nằm trong danh sách các loài, 'bacteria' là một dạng sinh vật. Đây là dạng số nhiều của 'bacterium', có nghĩa là vi khuẩn."
+            },
+            "phase2Annotation": {
+                "phonetic": "/bækˈtɪəriə/",
+                "sentiment": "neutral",
+                "definitionEN": "Plural of bacterium; a large group of unicellular microorganisms that have cell walls but lack an organized nucleus.",
+                "translationVI": "Vi khuẩn (số nhiều).",
+                "relatedCollocates": [
+                    {
+                        "form": "microbes",
+                        "meaning": "vi sinh vật"
+                    },
+                    {
+                        "form": "germs",
+                        "meaning": "mầm bệnh"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "bacterium",
+                            "meaning": "vi khuẩn (số ít)"
+                        },
+                        {
+                            "form": "bacteria",
+                            "meaning": "vi khuẩn (số nhiều)"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "bacterial",
+                            "meaning": "thuộc về vi khuẩn"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": [
+                    {
+                        "noteEN": "'Bacteria' is a plural noun. The singular form is 'bacterium'.",
+                        "noteVI": "'Bacteria' là danh từ số nhiều. Dạng số ít là 'bacterium'."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Yogurt is made using beneficial bacteria that ferment milk."
+            }
+        },
+        {
+            "id": "1761817159075",
+            "targetLexeme": "invertebrates",
+            "sourceContext": "The fern provides a habitat for all manner of species, from fungi and bacteria to invertebrates...",
+            "phase1Inference": {
+                "contextualGuessVI": "Nằm trong danh sách các loài, 'invertebrates' là một nhóm động vật. 'Vertebrate' là động vật có xương sống, vậy 'invertebrate' là động vật không xương sống."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ɪnˈvɜːrtɪbrəts/",
+                "sentiment": "neutral",
+                "definitionEN": "Animals that do not have a backbone or spinal column.",
+                "translationVI": "Động vật không xương sống.",
+                "relatedCollocates": [
+                    {
+                        "form": "insects",
+                        "meaning": "côn trùng"
+                    },
+                    {
+                        "form": "worms",
+                        "meaning": "giun"
+                    },
+                    {
+                        "form": "spiders",
+                        "meaning": "nhện"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "invertebrate",
+                            "meaning": "động vật không xương sống"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": [
+                    {
+                        "form": "vertebrates",
+                        "meaning": "động vật có xương sống"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Insects, crabs, and snails are all examples of invertebrates."
+            }
+        },
+        {
+            "id": "1761817163290",
+            "targetLexeme": "insects",
+            "sourceContext": "The fern provides a habitat for all manner of species, including insects, amphibians, and reptiles.",
+            "phase1Inference": {
+                "contextualGuessVI": "Một loại động vật, có nghĩa là côn trùng."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈɪnsɛkts/",
+                "sentiment": "neutral",
+                "definitionEN": "A small arthropod animal that has six legs and generally one or two pairs of wings.",
+                "translationVI": "Côn trùng.",
+                "relatedCollocates": [
+                    {
+                        "form": "bugs",
+                        "meaning": "bọ (thân mật)"
+                    },
+                    {
+                        "form": "beetles",
+                        "meaning": "bọ cánh cứng"
+                    },
+                    {
+                        "form": "ants",
+                        "meaning": "kiến"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "insect",
+                            "meaning": "côn trùng"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "A spider is an arachnid, not one of the insects."
+            }
+        },
+        {
+            "id": "1761817166147",
+            "targetLexeme": "amphibians",
+            "sourceContext": "The fern provides a habitat for all manner of species, including insects, amphibians, and reptiles.",
+            "phase1Inference": {
+                "contextualGuessVI": "Một loại động vật, có nghĩa là động vật lưỡng cư (như ếch, nhái)."
+            },
+            "phase2Annotation": {
+                "phonetic": "/æmˈfɪbiənz/",
+                "sentiment": "neutral",
+                "definitionEN": "Cold-blooded vertebrates such as frogs, toads, newts, and salamanders, distinguished by having an aquatic gill-breathing larval stage followed by a terrestrial lung-breathing adult stage.",
+                "translationVI": "Động vật lưỡng cư.",
+                "relatedCollocates": [
+                    {
+                        "form": "frogs",
+                        "meaning": "ếch"
+                    },
+                    {
+                        "form": "salamanders",
+                        "meaning": "kỳ nhông"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "amphibian",
+                            "meaning": "động vật lưỡng cư"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "amphibious",
+                            "meaning": "lưỡng cư"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Many amphibians lay their eggs in water."
+            }
+        },
+        {
+            "id": "1761817168986",
+            "targetLexeme": "reptiles",
+            "sourceContext": "The fern provides a habitat for all manner of species, including insects, amphibians, and reptiles.",
+            "phase1Inference": {
+                "contextualGuessVI": "Một loại động vật, có nghĩa là động vật bò sát (như rắn, thằn lằn)."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈrɛptaɪlz/",
+                "sentiment": "neutral",
+                "definitionEN": "A vertebrate animal of a class that includes snakes, lizards, crocodiles, turtles, or tortoises, distinguished by having a dry scaly skin and typically laying soft-shelled eggs on land.",
+                "translationVI": "Động vật bò sát.",
+                "relatedCollocates": [
+                    {
+                        "form": "snakes",
+                        "meaning": "rắn"
+                    },
+                    {
+                        "form": "lizards",
+                        "meaning": "thằn lằn"
+                    },
+                    {
+                        "form": "turtles",
+                        "meaning": "rùa"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "reptile",
+                            "meaning": "động vật bò sát"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "reptilian",
+                            "meaning": "thuộc loài bò sát"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Snakes and lizards are both classified as reptiles."
+            }
+        },
+        {
+            "id": "1761817171171",
+            "targetLexeme": "mammals",
+            "sourceContext": "The rich ecosystem supports a wide variety of mammals, from small rodents to large deer.",
+            "phase1Inference": {
+                "contextualGuessVI": "Một loại động vật, có nghĩa là động vật có vú."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈmæməlz/",
+                "sentiment": "neutral",
+                "definitionEN": "A warm-blooded vertebrate animal of a class that is distinguished by the possession of hair or fur, the secretion of milk by females for the nourishment of the young, and (typically) the birth of live young.",
+                "translationVI": "Động vật có vú.",
+                "relatedCollocates": [
+                    {
+                        "form": "humans",
+                        "meaning": "con người"
+                    },
+                    {
+                        "form": "whales",
+                        "meaning": "cá voi"
+                    },
+                    {
+                        "form": "bats",
+                        "meaning": "dơi"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "mammal",
+                            "meaning": "động vật có vú"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "mammalian",
+                            "meaning": "thuộc lớp thú"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": null,
+                "usageNotes": null,
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Although they live in the ocean, dolphins are mammals, not fish."
+            }
+        }
+    ]
+}

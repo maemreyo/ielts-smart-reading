@@ -12,16 +12,21 @@ Hoàn thiện file JSON với mục tiêu fill các fields như được mô t�
         "sentiment": "Sắc thái cơ bản của từ (positive, negative, neutral).",
         "definitionEN": "Định nghĩa bằng tiếng Anh (English-English). Cực kỳ quan trọng để xây dựng tư duy bằng tiếng Anh.",
         "translationVI": "Định nghĩa bằng tiếng Việt. Dùng để 'chốt' lại nghĩa và đảm bảo bạn hiểu đúng 100%.",
-        "relatedCollocates": "Danh sách các cụm từ liên quan, đồng nghĩa, hoặc thường đi chung (collocations) để mở rộng vốn từ.",
+        "relatedCollocates": [
+            {
+                "form": "từ/cụm từ đồng nghĩa 1",
+                "meaning": "nghĩa 1"
+            },
+            {
+                "form": "từ/cụm từ liên quan 2",
+                "meaning": "nghĩa 2"
+            }
+        ],
         "wordForms": {
             "noun": [
                 {
-                    "form": "dạng danh từ 1",
-                    "meaning": "nghĩa của dạng danh từ 1"
-                },
-                {
-                    "form": "dạng danh từ 2",
-                    "meaning": "nghĩa của dạng danh từ 2"
+                    "form": "dạng danh từ",
+                    "meaning": "nghĩa của dạng danh từ"
                 }
             ],
             "verb": [
@@ -44,9 +49,28 @@ Hoàn thiện file JSON với mục tiêu fill các fields như được mô t�
             ]
         },
         "register": "Văn phong sử dụng (ví dụ: 'formal' - trang trọng, 'informal' - thân mật, 'neutral' - trung tính). Giúp bạn biết dùng từ đúng hoàn cảnh.",
-        "connotation": "Hàm ý, sắc thái sâu hơn (ví dụ: 'academic' - học thuật, 'dismissive' - có ý xem nhẹ). Đây là bản nâng cấp của 'sentiment'.",
-        "usageNotes": "Ghi chú đặc biệt về cách dùng, các lỗi sai phổ biến, hoặc các cấu trúc/giới từ bắt buộc đi kèm (ví dụ: 'resemblance TO', không phải 'WITH').",
-        "contrastingCollocates": "Các cụm từ tương phản hoặc trái nghĩa. Giúp hiểu rõ ranh giới ý nghĩa của từ."
+        "connotation": [
+            {
+                "connotationEN": "Deeper nuance or implication (e.g., 'academic', 'dismissive').",
+                "connotationVI": "Hàm ý, sắc thái sâu hơn (ví dụ: 'academic' - học thuật, 'dismissive' - có ý xem nhẹ)."
+            }
+        ],
+        "usageNotes": [
+            {
+                "noteEN": "A special usage note in English.",
+                "noteVI": "Một ghi chú sử dụng đặc biệt bằng tiếng Việt."
+            }
+        ],
+        "contrastingCollocates": [
+            {
+                "form": "từ/cụm từ trái nghĩa 1",
+                "meaning": "nghĩa 1"
+            },
+            {
+                "form": "từ/cụm từ trái nghĩa 2",
+                "meaning": "nghĩa 2"
+            }
+        ]
     },
     "phase3Production": {
         "taskType": "Loại bài tập bạn sẽ làm để củng cố (ví dụ: 'SENTENCE_CREATION', 'PARAPHRASE', 'TRANSLATE_VI_EN').",

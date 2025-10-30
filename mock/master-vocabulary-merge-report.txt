@@ -1,0 +1,27 @@
+Vocabulary Merge Report
+=====================
+
+Source Directory: mock
+Output File: mock/master-vocabulary.json
+Merge Date: 2025-10-30T13:10:06.275Z
+
+Input Files:
+  - batch-01-of-04.json
+  - batch-02-of-04.json
+  - batch-03-of-04.json
+  - batch-04-of-04.json
+
+Statistics:
+- Total input files: 4
+- Successfully processed: 4
+- Total items found: 110
+- Unique items: 110
+- Duplicates removed: 0
+- Output file size: 208.03 KB
+
+Next Steps:
+1. Review the merged file: mock/master-vocabulary.json
+2. Check for any data inconsistencies
+3. Update your application to use the merged file if needed
+
+Generated: 2025-10-30T13:10:06.276Z

@@ -1,0 +1,70 @@
+1 lexical item mới có dạng này:
+```
+ {
+      "id": "1761815911621",
+      "targetLexeme": "long-term preservation",
+      "sourceContext": "...make it an ideal ingredient for long-term preservation of many of the packaged foods on supermarket shelves.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thành phần lý tưởng cho việc 'bảo quản lâu dài' thực phẩm."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌlɒŋtɜːm ˌprɛzəˈveɪʃən/",
+        "sentiment": "positive",
+        "definitionEN": "The act of keeping something in its original state or in good condition for a long period.",
+        "translationVI": "sự bảo quản lâu dài",
+        "relatedCollocates": [
+          {
+            "form": "extended storage",
+            "meaning": "lưu trữ kéo dài"
+          },
+          {
+            "form": "longevity",
+            "meaning": "tuổi thọ, sự tồn tại lâu dài"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "preservation",
+              "meaning": "sự bảo quản"
+            },
+            {
+              "form": "preservative",
+              "meaning": "chất bảo quản"
+            }
+          ],
+          "verb": [
+            {
+              "form": "preserve",
+              "meaning": "bảo quản"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Durability, stability, preventing decay.",
+            "connotationVI": "Độ bền, sự ổn định, chống hư hỏng."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "spoilage",
+            "meaning": "sự hư hỏng (thức ăn)"
+          },
+          {
+            "form": "decay",
+            "meaning": "sự phân rã, mục nát"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Salting and drying meat are ancient methods of long-term preservation."
+      }
+    },
+```
+hãy sửa lại cấu trúc của `src/components/lexical-item-v2.tsx` để nó show đúng dữ liệu

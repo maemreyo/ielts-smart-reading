@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { type LexicalItem } from "../../reading/utils/textProcessing";
+import { type LexicalItem, isCollocateArray, type CollocateObject } from "@/types/lexical";
 
 interface ExpansionPhaseProps {
   cleanTargetWord: string;
@@ -77,19 +77,36 @@ export function ExpansionPhase({
           {expandedMeaning && lexicalItem.phase2Annotation?.relatedCollocates && (
             <div className="mt-10 p-8 bg-gradient-to-br from-emerald-100 to-cyan-100 rounded-2xl animate-knowledge-panel border-4 border-emerald-300 shadow-2xl">
               <div className="flex flex-wrap gap-4 justify-center">
-                {(Array.isArray(lexicalItem.phase2Annotation.relatedCollocates)
-                  ? lexicalItem.phase2Annotation.relatedCollocates
-                  : [lexicalItem.phase2Annotation.relatedCollocates]
-                ).map((collocation, index) => (
-                  <Badge
-                    key={index}
-                    variant="outline"
-                    className="text-lg px-4 py-2 border-2 border-emerald-400 bg-white/80 hover:bg-emerald-100 transform hover:scale-110 transition-all duration-300 animate-collocation-float shadow-lg"
-                    style={{ animationDelay: `${index * 0.2}s` }}
-                  >
-                    {collocation}
-                  </Badge>
-                ))}
+                {(() => {
+                  const collocates = lexicalItem.phase2Annotation.relatedCollocates;
+                  let collocationList: Array<{ form: string; meaning?: string }> = [];
+
+                  if (isCollocateArray(collocates)) {
+                    // New format: Array of CollocateObject
+                    collocationList = collocates;
+                  } else if (Array.isArray(collocates)) {
+                    // Old format: Array of strings
+                    collocationList = collocates.map(c => ({ form: c }));
+                  } else if (typeof collocates === 'string') {
+                    // Old format: Single string
+                    collocationList = [{ form: collocates }];
+                  }
+
+                  return collocationList.map((collocation, index) => (
+                    <Badge
+                      key={index}
+                      variant="outline"
+                      className="text-lg px-4 py-2 border-2 border-emerald-400 bg-white/80 hover:bg-emerald-100 transform hover:scale-110 transition-all duration-300 animate-collocation-float shadow-lg"
+                      style={{ animationDelay: `${index * 0.2}s` }}
+                      title={collocation.meaning}
+                    >
+                      {collocation.form}
+                      {collocation.meaning && (
+                        <span className="ml-2 text-xs text-emerald-600">({collocation.meaning})</span>
+                      )}
+                    </Badge>
+                  ));
+                })()}
               </div>
             </div>
           )}

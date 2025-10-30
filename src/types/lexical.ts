@@ -10,6 +10,22 @@ export interface WordForms {
   adverb?: WordForm[];
 }
 
+// New object types for enhanced lexical structure
+export interface CollocateObject {
+  form: string;
+  meaning: string;
+}
+
+export interface UsageNoteObject {
+  noteEN: string;
+  noteVI: string;
+}
+
+export interface ConnotationObject {
+  noteEN: string;
+  noteVI: string;
+}
+
 export interface Phase1Inference {
   contextualGuessVI?: string;
 }
@@ -19,12 +35,12 @@ export interface Phase2Annotation {
   sentiment?: "positive" | "negative" | "neutral";
   definitionEN: string;
   translationVI: string;
-  relatedCollocates?: string[] | string;
+  relatedCollocates?: CollocateObject[] | string[] | string; // Support both old and new formats
   wordForms?: WordForms;
   register?: "formal" | "informal" | "neutral" | "";
-  connotation?: string;
-  usageNotes?: string;
-  contrastingCollocates?: string[];
+  connotation?: ConnotationObject[] | string; // Support both old string and new array formats
+  usageNotes?: UsageNoteObject[] | string; // Support both old and new formats
+  contrastingCollocates?: CollocateObject[] | string[]; // Support both old and new formats
 }
 
 export interface Phase3Production {
@@ -70,6 +86,22 @@ export function isLegacyLexicalItem(item: any): item is LegacyLexicalItem {
 
 export function isNewLexicalItem(item: any): item is LexicalItem {
   return typeof item?.id === 'string';
+}
+
+// Type guard functions for new object structures
+export function isCollocateArray(collocates: any): collocates is CollocateObject[] {
+  return Array.isArray(collocates) && collocates.length > 0 &&
+         typeof collocates[0] === 'object' && 'form' in collocates[0];
+}
+
+export function isUsageNoteArray(notes: any): notes is UsageNoteObject[] {
+  return Array.isArray(notes) && notes.length > 0 &&
+         typeof notes[0] === 'object' && 'noteEN' in notes[0];
+}
+
+export function isConnotationArray(connotations: any): connotations is ConnotationObject[] {
+  return Array.isArray(connotations) && connotations.length > 0 &&
+         typeof connotations[0] === 'object' && 'noteEN' in connotations[0];
 }
 
 // Migration function type

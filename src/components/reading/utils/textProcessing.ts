@@ -1,9 +1,9 @@
 import React from "react";
-import { LexicalItem, LegacyLexicalItem, isLegacyLexicalItem, isNewLexicalItem } from "@/types/lexical";
+import { LexicalItem, LegacyLexicalItem, isLegacyLexicalItem, isNewLexicalItem, isCollocateArray, isUsageNoteArray, isConnotationArray, type CollocateObject, type UsageNoteObject, type ConnotationObject } from "@/types/lexical";
 
 // Re-export for backward compatibility
-export type { LexicalItem, LegacyLexicalItem };
-export { isLegacyLexicalItem, isNewLexicalItem };
+export type { LexicalItem, LegacyLexicalItem, CollocateObject, UsageNoteObject, ConnotationObject };
+export { isLegacyLexicalItem, isNewLexicalItem, isCollocateArray, isUsageNoteArray, isConnotationArray };
 
 // Cache the LexicalItem component to prevent re-imports
 const LexicalItemComponent = React.lazy(() =>

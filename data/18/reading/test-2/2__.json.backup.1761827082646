@@ -1,0 +1,4990 @@
+{
+  "logTitle": "IELTS Reading Log: Living with artificial intelligence",
+  "sourceId": "Reading Passage (Image)",
+  "totalItems": 115,
+  "lexicalItems": [
+    {
+      "id": "1761813618701-28-0-2283e30b",
+      "targetLexeme": "reliably aligned with human values",
+      "sourceContext": "Powerful artificial intelligence (AI) needs to be reliably aligned with human values, but does this mean AI will eventually have to police those values?",
+      "phase1Inference": {
+        "contextualGuessVI": "Được điều chỉnh một cách đáng tin cậy với các giá trị của con người"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈlaɪəbli əˈlaɪnd wɪð ˈhjuːmən ˈvæljuːz/",
+        "sentiment": "positive",
+        "definitionEN": "To be dependably designed or programmed to operate in accordance with the principles and moral standards of humanity.",
+        "translationVI": "Được điều chỉnh một cách đáng tin cậy theo các giá trị của con người",
+        "relatedCollocates": [
+          {
+            "form": "value alignment",
+            "meaning": ""
+          },
+          {
+            "form": "ethical AI",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "align",
+              "meaning": "căn chỉnh, điều chỉnh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The primary challenge for AI developers is to create a system that is reliably aligned with human values to prevent unintended harm."
+      }
+    },
+    {
+      "id": "1761813618702-28-1-48a3562c",
+      "targetLexeme": "police those values",
+      "sourceContext": "...but does this mean AI will eventually have to police those values?",
+      "phase1Inference": {
+        "contextualGuessVI": "Giám sát những giá trị đó"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pəˈliːs ðəʊz ˈvæljuːz/",
+        "sentiment": "neutral",
+        "definitionEN": "To enforce or ensure that certain moral standards or principles are adhered to.",
+        "translationVI": "Giám sát những giá trị đó",
+        "relatedCollocates": [
+          {
+            "form": "enforce standards",
+            "meaning": ""
+          },
+          {
+            "form": "monitor behavior",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "police",
+              "meaning": "giám sát, kiểm soát"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is not the government's job to police the personal values of its citizens."
+      }
+    },
+    {
+      "id": "1761813618702-28-2-1f4f02f6",
+      "targetLexeme": "astonishing feat",
+      "sourceContext": "This has been the decade of AI, with one astonishing feat after another.",
+      "phase1Inference": {
+        "contextualGuessVI": "Kỳ công đáng kinh ngạc"
+      },
+      "phase2Annotation": {
+        "phonetic": "/əˈstɒnɪʃɪŋ fiːt/",
+        "sentiment": "positive",
+        "definitionEN": "A remarkable or impressive achievement that causes great surprise.",
+        "translationVI": "Kỳ công đáng kinh ngạc",
+        "relatedCollocates": [
+          {
+            "form": "remarkable achievement",
+            "meaning": ""
+          },
+          {
+            "form": "incredible accomplishment",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "feat",
+              "meaning": "kỳ công"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Climbing Mount Everest without oxygen was an astonishing feat of human endurance."
+      }
+    },
+    {
+      "id": "1761813618702-28-3-5618c7ef",
+      "targetLexeme": "human-programmed chess machines",
+      "sourceContext": "A chess-playing AI that can defeat not only all human chess players, but also all previous human-programmed chess machines, after learning the game in just four hours?",
+      "phase1Inference": {
+        "contextualGuessVI": "Các máy chơi cờ vua do con người lập trình"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhjuːmən-ˈprəʊɡræmd tʃes məˈʃiːnz/",
+        "sentiment": "neutral",
+        "definitionEN": "Chess-playing computers whose strategies and rules are explicitly coded by human developers.",
+        "translationVI": "Các máy chơi cờ vua do con người lập trình",
+        "relatedCollocates": [
+          {
+            "form": "conventional AI",
+            "meaning": ""
+          },
+          {
+            "form": "expert systems",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "human-programmed",
+              "meaning": "do con người lập trình"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new AI learned to play the game far better than any of the older, human-programmed chess machines."
+      }
+    },
+    {
+      "id": "1761813618702-28-4-68481e90",
+      "targetLexeme": "prodigious accomplishments",
+      "sourceContext": "These prodigious accomplishments are all in so-called narrow AI, where machines perform highly specialised tasks.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những thành tựu phi thường"
+      },
+      "phase2Annotation": {
+        "phonetic": "/prəˈdɪdʒəs əˈkʌmplɪʃmənts/",
+        "sentiment": "positive",
+        "definitionEN": "Impressively great achievements in extent, size, or degree.",
+        "translationVI": "Những thành tựu phi thường",
+        "relatedCollocates": [
+          {
+            "form": "extraordinary achievements",
+            "meaning": ""
+          },
+          {
+            "form": "remarkable feats",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "prodigious",
+              "meaning": "phi thường, to lớn"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Mozart's prodigious accomplishments as a child composer are legendary."
+      }
+    },
+    {
+      "id": "1761813618702-28-5-7fb47fef",
+      "targetLexeme": "narrow AI",
+      "sourceContext": "These prodigious accomplishments are all in so-called narrow AI, where machines perform highly specialised tasks.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trí tuệ nhân tạo hẹp"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈnærəʊ ˌeɪˈaɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "Artificial intelligence that is designed and trained for one particular, specific task.",
+        "translationVI": "Trí tuệ nhân tạo hẹp",
+        "relatedCollocates": [
+          {
+            "form": "weak AI",
+            "meaning": ""
+          },
+          {
+            "form": "specialised AI",
+            "meaning": ""
+          },
+          {
+            "form": "AGI (antonym)",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "narrow",
+              "meaning": "hẹp"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Virtual assistants like Siri and Alexa are examples of narrow AI."
+      }
+    },
+    {
+      "id": "1761813618702-28-6-6535e2c7",
+      "targetLexeme": "highly specialised tasks",
+      "sourceContext": "...where machines perform highly specialised tasks.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các nhiệm vụ chuyên môn hóa cao"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhaɪli ˈspeʃəlaɪzd tɑːsks/",
+        "sentiment": "neutral",
+        "definitionEN": "Jobs or functions that require a very specific and advanced set of skills or knowledge.",
+        "translationVI": "Các nhiệm vụ chuyên môn hóa cao",
+        "relatedCollocates": [
+          {
+            "form": "specific functions",
+            "meaning": ""
+          },
+          {
+            "form": "niche tasks",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "specialised",
+              "meaning": "chuyên môn hóa"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A bomb disposal robot is designed to perform highly specialised tasks that are too dangerous for humans."
+      }
+    },
+    {
+      "id": "1761813618702-28-7-1a9f30ee",
+      "targetLexeme": "artificial general intelligence (AGI)",
+      "sourceContext": "By mid-century, we may have artificial general intelligence (AGI) – machines that can achieve human-level performance on the full range of tasks that we ourselves can tackle.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trí tuệ nhân tạo tổng quát"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌɑːtɪˈfɪʃl ˈdʒenrəl ɪnˈtelɪdʒəns/",
+        "sentiment": "neutral",
+        "definitionEN": "A type of artificial intelligence that has the ability to understand, learn, and apply its intelligence to solve any problem that a human being can.",
+        "translationVI": "Trí tuệ nhân tạo tổng quát",
+        "relatedCollocates": [
+          {
+            "form": "strong AI",
+            "meaning": ""
+          },
+          {
+            "form": "human-level AI",
+            "meaning": ""
+          },
+          {
+            "form": "narrow AI (antonym)",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "intelligence",
+              "meaning": "trí tuệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The development of true artificial general intelligence would be a transformative event in human history."
+      }
+    },
+    {
+      "id": "1761813618702-28-8-60447703",
+      "targetLexeme": "human-level performance",
+      "sourceContext": "...machines that can achieve human-level performance on the full range of tasks that we ourselves can tackle.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hiệu suất ngang tầm con người"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhjuːmən-ˈlevl pəˈfɔːməns/",
+        "sentiment": "neutral",
+        "definitionEN": "The ability to perform tasks as well as a typical human.",
+        "translationVI": "Hiệu suất ngang tầm con người",
+        "relatedCollocates": [
+          {
+            "form": "human parity",
+            "meaning": ""
+          },
+          {
+            "form": "human-like ability",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "performance",
+              "meaning": "hiệu suất"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new AI system has achieved human-level performance in translating complex legal documents."
+      }
+    },
+    {
+      "id": "1761813618702-28-9-47c76c20",
+      "targetLexeme": "physical constraints",
+      "sourceContext": "Machines will be free of many of the physical constraints on human intelligence.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những hạn chế về mặt vật lý"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfɪzɪkl kənˈstreɪnts/",
+        "sentiment": "neutral",
+        "definitionEN": "Limitations related to the body or the laws of physics.",
+        "translationVI": "Những hạn chế về mặt vật lý",
+        "relatedCollocates": [
+          {
+            "form": "biological limitations",
+            "meaning": ""
+          },
+          {
+            "form": "physical restrictions",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "constraint",
+              "meaning": "sự hạn chế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Unlike software, human athletes are bound by the physical constraints of their bodies."
+      }
+    },
+    {
+      "id": "1761813618702-28-10-47d3a952",
+      "targetLexeme": "biochemical processing speeds",
+      "sourceContext": "Our brains run at slow biochemical processing speeds on the power of a light bulb...",
+      "phase1Inference": {
+        "contextualGuessVI": "Tốc độ xử lý sinh hóa"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌbaɪəʊˈkemɪkl ˈprəʊsesɪŋ spiːdz/",
+        "sentiment": "neutral",
+        "definitionEN": "The speed at which chemical reactions occur within a living organism to process information.",
+        "translationVI": "Tốc độ xử lý sinh hóa",
+        "relatedCollocates": [
+          {
+            "form": "neural processing",
+            "meaning": ""
+          },
+          {
+            "form": "computational speed",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "biochemical",
+              "meaning": "thuộc về sinh hóa"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Computers can perform calculations far faster than the human brain's biochemical processing speeds."
+      }
+    },
+    {
+      "id": "1761813618702-28-11-31cfcc07",
+      "targetLexeme": "human birth canal",
+      "sourceContext": "...and their size is restricted by the dimensions of the human birth canal.",
+      "phase1Inference": {
+        "contextualGuessVI": "Ống sinh của con người"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhjuːmən bɜːθ kəˈnæl/",
+        "sentiment": "neutral",
+        "definitionEN": "The passage in a woman's body through which a baby is born.",
+        "translationVI": "Ống sinh của con người",
+        "relatedCollocates": [
+          {
+            "form": "childbirth",
+            "meaning": ""
+          },
+          {
+            "form": "pelvis",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "canal",
+              "meaning": "kênh, ống"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The size of a baby's head is a critical factor for passing through the human birth canal."
+      }
+    },
+    {
+      "id": "1761813618702-28-12-66ee2aac",
+      "targetLexeme": "given these handicaps",
+      "sourceContext": "It is remarkable what they accomplish, given these handicaps.",
+      "phase1Inference": {
+        "contextualGuessVI": "Với những bất lợi này"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɡɪvn ðiːz ˈhændikæps/",
+        "sentiment": "neutral",
+        "definitionEN": "Considering these disadvantages or limitations.",
+        "translationVI": "Với những bất lợi này",
+        "relatedCollocates": [
+          {
+            "form": "despite these limitations",
+            "meaning": ""
+          },
+          {
+            "form": "considering these disadvantages",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "handicap",
+              "meaning": "sự cản trở, bất lợi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She achieved incredible success, which is even more impressive given these handicaps she faced early in life."
+      }
+    },
+    {
+      "id": "1761813618702-28-13-33f9c5c0",
+      "targetLexeme": "coexistence",
+      "sourceContext": "Could we ensure a safe and worthwhile coexistence with such machines?",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự cùng tồn tại"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌkəʊɪɡˈzɪstəns/",
+        "sentiment": "positive",
+        "definitionEN": "The state or fact of living or existing at the same time or in the same place.",
+        "translationVI": "Sự cùng tồn tại",
+        "relatedCollocates": [
+          {
+            "form": "living together",
+            "meaning": ""
+          },
+          {
+            "form": "peaceful relations",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "coexist",
+              "meaning": "cùng tồn tại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The national park is a model for the peaceful coexistence of wildlife and human communities."
+      }
+    },
+    {
+      "id": "1761813618702-28-14-0978cbc7",
+      "targetLexeme": "on the plus side",
+      "sourceContext": "On the plus side, AI is already useful and profitable for many things, and super AI might be expected to be super useful, and super profitable.",
+      "phase1Inference": {
+        "contextualGuessVI": "Về mặt tích cực"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɒn ðə plʌs saɪd/",
+        "sentiment": "positive",
+        "definitionEN": "Considering the positive aspects of a situation.",
+        "translationVI": "Về mặt tích cực",
+        "relatedCollocates": [
+          {
+            "form": "on the bright side",
+            "meaning": ""
+          },
+          {
+            "form": "the advantage is",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "plus",
+              "meaning": "điểm cộng, ưu điểm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The job requires long hours, but on the plus side, the salary is excellent."
+      }
+    },
+    {
+      "id": "1761813618702-28-15-16aea999",
+      "targetLexeme": "specify its goals with great care",
+      "sourceContext": "But the more powerful AI becomes, the more important it will be to specify its goals with great care.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chỉ định mục tiêu của nó một cách cẩn thận"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈspesɪfaɪ ɪts ɡəʊlz wɪð ɡreɪt keə/",
+        "sentiment": "neutral",
+        "definitionEN": "To define its objectives very precisely and thoughtfully.",
+        "translationVI": "Chỉ định mục tiêu của nó một cách hết sức cẩn thận",
+        "relatedCollocates": [
+          {
+            "form": "define objectives carefully",
+            "meaning": ""
+          },
+          {
+            "form": "set precise goals",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "specify",
+              "meaning": "chỉ rõ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "When programming the robot, you must specify its goals with great care to avoid accidents."
+      }
+    },
+    {
+      "id": "1761813618702-28-16-1d95001b",
+      "targetLexeme": "folklore",
+      "sourceContext": "Folklore is full of tales of people who ask for the wrong thing, with disastrous consequences – King Midas, for example...",
+      "phase1Inference": {
+        "contextualGuessVI": "Văn hóa dân gian"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfəʊklɔː/",
+        "sentiment": "neutral",
+        "definitionEN": "The traditional beliefs, customs, and stories of a community, passed through the generations by word of mouth.",
+        "translationVI": "Văn hóa dân gian",
+        "relatedCollocates": [
+          {
+            "form": "myths and legends",
+            "meaning": ""
+          },
+          {
+            "form": "traditional stories",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "folklore",
+              "meaning": "văn hóa dân gian"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "According to local folklore, a friendly ghost haunts the old castle."
+      }
+    },
+    {
+      "id": "1761813618702-28-17-0cbad306",
+      "targetLexeme": "disastrous consequences",
+      "sourceContext": "Folklore is full of tales of people who ask for the wrong thing, with disastrous consequences...",
+      "phase1Inference": {
+        "contextualGuessVI": "Hậu quả thảm khốc"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈzɑːstrəs ˈkɒnsɪkwənsɪz/",
+        "sentiment": "negative",
+        "definitionEN": "Extremely bad or unsuccessful results of a particular action or situation.",
+        "translationVI": "Hậu quả thảm khốc",
+        "relatedCollocates": [
+          {
+            "form": "catastrophic results",
+            "meaning": ""
+          },
+          {
+            "form": "dire outcomes",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "disastrous",
+              "meaning": "thảm khốc"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The decision to ignore the warnings led to disastrous consequences."
+      }
+    },
+    {
+      "id": "1761813618702-28-18-09db8fd3",
+      "targetLexeme": "superintelligent machines",
+      "sourceContext": "If superintelligent machines don’t do a lot better than us, we’ll be in deep trouble.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các cỗ máy siêu thông minh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌsuːpərɪnˈtelɪdʒənt məˈʃiːnz/",
+        "sentiment": "neutral",
+        "definitionEN": "Hypothetical machines that possess intelligence far surpassing that of the brightest and most gifted human minds.",
+        "translationVI": "Các cỗ máy siêu thông minh",
+        "relatedCollocates": [
+          {
+            "form": "superintelligence",
+            "meaning": ""
+          },
+          {
+            "form": "advanced AI",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "superintelligent",
+              "meaning": "siêu thông minh"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ethical implications of creating superintelligent machines are a major topic of debate."
+      }
+    },
+    {
+      "id": "1761813618702-28-19-0965307c",
+      "targetLexeme": "in deep trouble",
+      "sourceContext": "If superintelligent machines don’t do a lot better than us, we’ll be in deep trouble.",
+      "phase1Inference": {
+        "contextualGuessVI": "Gặp rắc rối to"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn diːp ˈtrʌbl/",
+        "sentiment": "negative",
+        "definitionEN": "In a very difficult or dangerous situation.",
+        "translationVI": "Gặp rắc rối to",
+        "relatedCollocates": [
+          {
+            "form": "in a serious predicament",
+            "meaning": ""
+          },
+          {
+            "form": "in hot water",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "trouble",
+              "meaning": "rắc rối"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "If you don't file your taxes on time, you could be in deep trouble with the government."
+      }
+    },
+    {
+      "id": "1761813618702-28-20-0995bebb",
+      "targetLexeme": "amplifying the dark sides",
+      "sourceContext": "We’ll have powerful new intelligence amplifying the dark sides of our own fallible natures.",
+      "phase1Inference": {
+        "contextualGuessVI": "Khuếch đại những mặt tối"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈæmplɪfaɪɪŋ ðə dɑːk saɪdz/",
+        "sentiment": "negative",
+        "definitionEN": "To increase the strength or effect of the negative or evil aspects of something.",
+        "translationVI": "Khuếch đại những mặt tối",
+        "relatedCollocates": [
+          {
+            "form": "magnifying the negative aspects",
+            "meaning": ""
+          },
+          {
+            "form": "intensifying the flaws",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "amplify",
+              "meaning": "khuếch đại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Social media can have the effect of amplifying the dark sides of human behavior, such as envy and anger."
+      }
+    },
+    {
+      "id": "1761813618702-28-21-224757e2",
+      "targetLexeme": "fallible natures",
+      "sourceContext": "...amplifying the dark sides of our own fallible natures.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bản chất dễ sai lầm của chúng ta"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈfæləbl ˈneɪtʃəz/",
+        "sentiment": "negative",
+        "definitionEN": "The inherent characteristic of being capable of making mistakes or being wrong.",
+        "translationVI": "Bản chất dễ sai lầm",
+        "relatedCollocates": [
+          {
+            "form": "human imperfection",
+            "meaning": ""
+          },
+          {
+            "form": "propensity for error",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "fallible",
+              "meaning": "có thể sai lầm"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We must create systems with checks and balances to account for our fallible natures."
+      }
+    },
+    {
+      "id": "1761813618702-28-22-27c46dd7",
+      "targetLexeme": "for safety's sake",
+      "sourceContext": "For safety’s sake, then, we want the machines to be ethically as well as cognitively superhuman.",
+      "phase1Inference": {
+        "contextualGuessVI": "Vì sự an toàn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fə ˈseɪftiz seɪk/",
+        "sentiment": "positive",
+        "definitionEN": "In order to be safe or to prevent danger.",
+        "translationVI": "Vì sự an toàn",
+        "relatedCollocates": [
+          {
+            "form": "for the sake of safety",
+            "meaning": ""
+          },
+          {
+            "form": "as a precaution",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "sake",
+              "meaning": "lợi ích"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Please wear a helmet when you ride your bike, for safety's sake."
+      }
+    },
+    {
+      "id": "1761813618702-28-23-79ad0d79",
+      "targetLexeme": "ethically as well as cognitively superhuman",
+      "sourceContext": "...we want the machines to be ethically as well as cognitively superhuman.",
+      "phase1Inference": {
+        "contextualGuessVI": "Siêu phàm về mặt đạo đức cũng như nhận thức"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈeθɪkli æz wel æz ˈkɒɡnətɪvli ˌsuːpəˈhjuːmən/",
+        "sentiment": "positive",
+        "definitionEN": "To have abilities in both moral reasoning and intellectual capacity that far exceed those of any human.",
+        "translationVI": "Siêu phàm về mặt đạo đức cũng như nhận thức",
+        "relatedCollocates": [
+          {
+            "form": "morally and intellectually superior",
+            "meaning": ""
+          },
+          {
+            "form": "superhuman ethics and cognition",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "superhuman",
+              "meaning": "siêu phàm"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The goal is to create an AI that is not just intelligent, but ethically as well as cognitively superhuman."
+      }
+    },
+    {
+      "id": "1761813618702-28-24-7f3ca043",
+      "targetLexeme": "aim for the moral high ground",
+      "sourceContext": "We want them to aim for the moral high ground, not for the troughs in which many of us spend some of our time.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nhắm đến nền tảng đạo đức cao"
+      },
+      "phase2Annotation": {
+        "phonetic": "/eɪm fə ðə ˈmɒrəl haɪ ɡraʊnd/",
+        "sentiment": "positive",
+        "definitionEN": "To try to behave in a way that is more moral or principled than other people.",
+        "translationVI": "Nhắm đến nền tảng đạo đức cao",
+        "relatedCollocates": [
+          {
+            "form": "take the high road",
+            "meaning": ""
+          },
+          {
+            "form": "act with integrity",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "moral high ground",
+              "meaning": "nền tảng đạo đức cao"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In any disagreement, it's always best to aim for the moral high ground and treat others with respect."
+      }
+    },
+    {
+      "id": "1761813618702-28-25-7ebaaf65",
+      "targetLexeme": "troughs",
+      "sourceContext": "...not for the troughs in which many of us spend some of our time.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những chỗ trũng, điểm thấp"
+      },
+      "phase2Annotation": {
+        "phonetic": "/trɒfs/",
+        "sentiment": "negative",
+        "definitionEN": "A low point in a process of variation; a period of depression or low activity (used metaphorically for low moral states).",
+        "translationVI": "Những điểm trũng (về đạo đức)",
+        "relatedCollocates": [
+          {
+            "form": "low points",
+            "meaning": ""
+          },
+          {
+            "form": "moral failings",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "trough",
+              "meaning": "điểm đáy, máng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Everyone's life has peaks and troughs; the important thing is to keep moving forward."
+      }
+    },
+    {
+      "id": "1761813618702-28-26-61046c47",
+      "targetLexeme": "steering us in the right direction",
+      "sourceContext": "Luckily they’ll be smart enough for us at finding them, and steering us in the right direction.",
+      "phase1Inference": {
+        "contextualGuessVI": "Lèo lái chúng ta đi đúng hướng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈstɪərɪŋ əs ɪn ðə raɪt dəˈrekʃn/",
+        "sentiment": "positive",
+        "definitionEN": "Guiding us towards a correct or desirable course of action.",
+        "translationVI": "Lèo lái chúng ta đi đúng hướng",
+        "relatedCollocates": [
+          {
+            "form": "guiding us correctly",
+            "meaning": ""
+          },
+          {
+            "form": "pointing the way",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "steer",
+              "meaning": "lái, hướng dẫn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A good mentor can be invaluable in steering us in the right direction in our careers."
+      }
+    },
+    {
+      "id": "1761813618702-28-27-11d544d6",
+      "targetLexeme": "utopian vision",
+      "sourceContext": "However, there are two big problems with this utopian vision.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tầm nhìn không tưởng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/juːˈtəʊpiən ˈvɪʒn/",
+        "sentiment": "neutral",
+        "definitionEN": "An imagined place or state of things in which everything is perfect.",
+        "translationVI": "Tầm nhìn không tưởng",
+        "relatedCollocates": [
+          {
+            "form": "idealistic view",
+            "meaning": ""
+          },
+          {
+            "form": "perfect world scenario",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "utopian",
+              "meaning": "không tưởng"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "While a world without conflict is a beautiful utopian vision, it may not be realistic."
+      }
+    },
+    {
+      "id": "1761813618702-28-28-59f8d5a5",
+      "targetLexeme": "sufficient clarity",
+      "sourceContext": "The ‘getting started’ problem is that we need to tell the machines what they’re looking for with sufficient clarity that we can be confident they will find it...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự rõ ràng đầy đủ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/səˈfɪʃnt ˈklærəti/",
+        "sentiment": "positive",
+        "definitionEN": "The quality of being coherent and intelligible to a necessary degree.",
+        "translationVI": "Sự rõ ràng đầy đủ",
+        "relatedCollocates": [
+          {
+            "form": "enough clarity",
+            "meaning": ""
+          },
+          {
+            "form": "clear instructions",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "clarity",
+              "meaning": "sự rõ ràng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The instructions were written with sufficient clarity for anyone to understand."
+      }
+    },
+    {
+      "id": "1761813618702-28-29-28996e3c",
+      "targetLexeme": "tribal creatures",
+      "sourceContext": "This won’t be easy, given that we are tribal creatures and conflicted about the ideals ourselves.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những sinh vật mang tính bộ lạc"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtraɪbl ˈkriːtʃəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Beings that are characterized by strong loyalty to their own social group or tribe.",
+        "translationVI": "Những sinh vật mang tính bộ lạc",
+        "relatedCollocates": [
+          {
+            "form": "group-oriented beings",
+            "meaning": ""
+          },
+          {
+            "form": "social animals",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "tribal",
+              "meaning": "thuộc về bộ lạc"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Humans are fundamentally tribal creatures, often forming strong bonds with their in-group."
+      }
+    },
+    {
+      "id": "1761813618702-28-30-0747fc65",
+      "targetLexeme": "conflicted about the ideals",
+      "sourceContext": "...we are tribal creatures and conflicted about the ideals ourselves.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mâu thuẫn về các lý tưởng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kənˈflɪktɪd əˈbaʊt ði aɪˈdɪəlz/",
+        "sentiment": "negative",
+        "definitionEN": "Having uncertain or opposing feelings about the principles or values that are considered perfect.",
+        "translationVI": "Mâu thuẫn về các lý tưởng",
+        "relatedCollocates": [
+          {
+            "form": "ambivalent about principles",
+            "meaning": ""
+          },
+          {
+            "form": "uncertain about values",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "conflicted",
+              "meaning": "mâu thuẫn"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She was conflicted about the ideals of the organization, agreeing with its goals but not its methods."
+      }
+    },
+    {
+      "id": "1761813618702-28-31-4c6538a0",
+      "targetLexeme": "ignore the suffering of strangers",
+      "sourceContext": "We often ignore the suffering of strangers, and even contribute to it, at least indirectly.",
+      "phase1Inference": {
+        "contextualGuessVI": "Phớt lờ sự đau khổ của người lạ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪɡˈnɔː ðə ˈsʌfərɪŋ əv ˈstreɪndʒəz/",
+        "sentiment": "negative",
+        "definitionEN": "To deliberately pay no attention to the pain or distress of people one does not know.",
+        "translationVI": "Phớt lờ sự đau khổ của người lạ",
+        "relatedCollocates": [
+          {
+            "form": "disregard the pain of others",
+            "meaning": ""
+          },
+          {
+            "form": "be indifferent to suffering",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "ignore",
+              "meaning": "phớt lờ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is a sad reality that people often ignore the suffering of strangers in faraway countries."
+      }
+    },
+    {
+      "id": "1761813618702-28-32-27bfb762",
+      "targetLexeme": "moral guides and gatekeepers",
+      "sourceContext": "As for the ‘destination’ problem, we might, by putting ourselves in the hands of these moral guides and gatekeepers, be sacrificing our own autonomy...",
+      "phase1Inference": {
+        "contextualGuessVI": "Những người hướng dẫn và canh gác đạo đức"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmɒrəl ɡaɪdz ənd ˈɡeɪtkiːpəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Entities or individuals that provide ethical direction and control access to certain actions or decisions.",
+        "translationVI": "Những người hướng dẫn và canh gác đạo đức",
+        "relatedCollocates": [
+          {
+            "form": "ethical guardians",
+            "meaning": ""
+          },
+          {
+            "form": "moral arbiters",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "guide",
+              "meaning": "người hướng dẫn"
+            },
+            {
+              "form": "gatekeeper",
+              "meaning": "người gác cổng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Parents act as the primary moral guides and gatekeepers for their young children."
+      }
+    },
+    {
+      "id": "1761813618702-28-33-1e94c9be",
+      "targetLexeme": "sacrificing our own autonomy",
+      "sourceContext": "...be sacrificing our own autonomy – an important part of what makes us human.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hy sinh quyền tự chủ của chính chúng ta"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsækrɪfaɪsɪŋ ɑːr əʊn ɔːˈtɒnəmi/",
+        "sentiment": "negative",
+        "definitionEN": "Giving up our ability to make our own decisions and be self-governing.",
+        "translationVI": "Hy sinh quyền tự chủ của chính chúng ta",
+        "relatedCollocates": [
+          {
+            "form": "giving up independence",
+            "meaning": ""
+          },
+          {
+            "form": "relinquishing self-governance",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "autonomy",
+              "meaning": "quyền tự chủ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Joining the large corporation meant sacrificing some of his creative autonomy."
+      }
+    },
+    {
+      "id": "1761813618702-28-34-1461b22e",
+      "targetLexeme": "lapses",
+      "sourceContext": "Machines who are better than us at sticking to the moral high ground may be expected to discourage some of the lapses we presently take for granted.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những sai lầm, sa ngã"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlæpsɪz/",
+        "sentiment": "negative",
+        "definitionEN": "A temporary failure of concentration, memory, or judgment; a weak or careless mistake.",
+        "translationVI": "Những sai lầm, sa ngã",
+        "relatedCollocates": [
+          {
+            "form": "moral failures",
+            "meaning": ""
+          },
+          {
+            "form": "errors in judgment",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "lapse",
+              "meaning": "sự sai lầm"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite his best efforts, he had occasional lapses in his diet."
+      }
+    },
+    {
+      "id": "1761813618702-28-35-3947c7d7",
+      "targetLexeme": "take for granted",
+      "sourceContext": "...discourage some of the lapses we presently take for granted.",
+      "phase1Inference": {
+        "contextualGuessVI": "Coi là điều hiển nhiên"
+      },
+      "phase2Annotation": {
+        "phonetic": "/teɪk fə ˈɡrɑːntɪd/",
+        "sentiment": "negative",
+        "definitionEN": "To fail to properly appreciate someone or something, especially as a result of familiarity.",
+        "translationVI": "Coi là điều hiển nhiên",
+        "relatedCollocates": [
+          {
+            "form": "underappreciate",
+            "meaning": ""
+          },
+          {
+            "form": "not value",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "take for granted",
+              "meaning": "coi là điều hiển nhiên"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We often take for granted the clean water that comes out of our taps."
+      }
+    },
+    {
+      "id": "1761813618702-28-36-4587dddb",
+      "targetLexeme": "discriminate in favour of",
+      "sourceContext": "We might lose our freedom to discriminate in favour of our own communities, for example.",
+      "phase1Inference": {
+        "contextualGuessVI": "Phân biệt đối xử để thiên vị"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈskrɪmɪneɪt ɪn ˈfeɪvər əv/",
+        "sentiment": "negative",
+        "definitionEN": "To make an unjust or prejudicial distinction in the treatment of different categories of people, giving preference to one group.",
+        "translationVI": "Phân biệt đối xử để thiên vị",
+        "relatedCollocates": [
+          {
+            "form": "show favoritism",
+            "meaning": ""
+          },
+          {
+            "form": "be biased towards",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "discriminate",
+              "meaning": "phân biệt đối xử"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The hiring policy was criticized because it seemed to discriminate in favour of younger applicants."
+      }
+    },
+    {
+      "id": "1761813618702-28-37-26aadec4",
+      "targetLexeme": "ethical silicon police",
+      "sourceContext": "But are we ready for ethical silicon police limiting our options?",
+      "phase1Inference": {
+        "contextualGuessVI": "Cảnh sát đạo đức bằng silicon"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈeθɪkl ˈsɪlɪkən pəˈliːs/",
+        "sentiment": "negative",
+        "definitionEN": "A metaphorical term for AI systems (made from silicon chips) that enforce moral rules and restrict human choices.",
+        "translationVI": "Cảnh sát đạo đức bằng silicon",
+        "relatedCollocates": [
+          {
+            "form": "AI governance",
+            "meaning": ""
+          },
+          {
+            "form": "moral enforcement",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "silicon",
+              "meaning": "silicon"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The idea of an 'ethical silicon police' raises serious questions about freedom and control."
+      }
+    },
+    {
+      "id": "1761813618702-28-38-53d110a4",
+      "targetLexeme": "welcome such a future",
+      "sourceContext": "They might be so good at doing it that we won’t notice them; but few of us are likely to welcome such a future.",
+      "phase1Inference": {
+        "contextualGuessVI": "Chào đón một tương lai như vậy"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwelkəm sʌtʃ ə ˈfjuːtʃə/",
+        "sentiment": "negative",
+        "definitionEN": "To be glad to accept or experience a future of that kind.",
+        "translationVI": "Chào đón một tương lai như vậy",
+        "relatedCollocates": [
+          {
+            "form": "embrace that future",
+            "meaning": ""
+          },
+          {
+            "form": "look forward to",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "welcome",
+              "meaning": "chào đón"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Not everyone would welcome a future where all decisions are made by algorithms."
+      }
+    },
+    {
+      "id": "1761813618702-28-39-69d3ddb3",
+      "targetLexeme": "far-fetched",
+      "sourceContext": "These issues might seem far-fetched, but they are to some extent already here.",
+      "phase1Inference": {
+        "contextualGuessVI": "Xa vời, khó tin"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌfɑːˈfetʃt/",
+        "sentiment": "neutral",
+        "definitionEN": "Unlikely and unconvincing; difficult to believe.",
+        "translationVI": "Xa vời, khó tin",
+        "relatedCollocates": [
+          {
+            "form": "implausible",
+            "meaning": ""
+          },
+          {
+            "form": "unlikely",
+            "meaning": ""
+          },
+          {
+            "form": "improbable",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "far-fetched",
+              "meaning": "xa vời"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "His explanation for being late was so far-fetched that nobody believed him."
+      }
+    },
+    {
+      "id": "1761813618702-28-40-225b52f0",
+      "targetLexeme": "to some extent",
+      "sourceContext": "...but they are to some extent already here.",
+      "phase1Inference": {
+        "contextualGuessVI": "Ở một mức độ nào đó"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tuː səm ɪkˈstent/",
+        "sentiment": "neutral",
+        "definitionEN": "Partly; to a certain degree.",
+        "translationVI": "Ở một mức độ nào đó",
+        "relatedCollocates": [
+          {
+            "form": "partially",
+            "meaning": ""
+          },
+          {
+            "form": "to a degree",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "extent",
+              "meaning": "mức độ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "I agree with your point of view to some extent, but I have some reservations."
+      }
+    },
+    {
+      "id": "1761813618702-28-41-1cf978f5",
+      "targetLexeme": "act in the interests of",
+      "sourceContext": "If it was given a greater role, it might do so much more efficiently than humans can manage, and act in the interests of taxpayers and those who use the health system.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hành động vì lợi ích của"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ækt ɪn ði ˈɪntrəsts əv/",
+        "sentiment": "positive",
+        "definitionEN": "To behave or take action in a way that benefits a particular person or group.",
+        "translationVI": "Hành động vì lợi ích của",
+        "relatedCollocates": [
+          {
+            "form": "work for the benefit of",
+            "meaning": ""
+          },
+          {
+            "form": "serve the interests of",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "act",
+              "meaning": "hành động"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A good government should always act in the interests of its citizens."
+      }
+    },
+    {
+      "id": "1761813618702-28-42-6edc43e2",
+      "targetLexeme": "depriving some humans",
+      "sourceContext": "However, we’d be depriving some humans (e.g. senior doctors) of the control they presently enjoy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tước đoạt của một số người"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈpraɪvɪŋ səm ˈhjuːmənz/",
+        "sentiment": "negative",
+        "definitionEN": "To prevent some people from having or using something.",
+        "translationVI": "Tước đoạt của một số người",
+        "relatedCollocates": [
+          {
+            "form": "taking away from",
+            "meaning": ""
+          },
+          {
+            "form": "denying access to",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "deprive",
+              "meaning": "tước đoạt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new law was criticized for depriving some humans of their basic rights."
+      }
+    },
+    {
+      "id": "1761813618702-28-43-1d699d20",
+      "targetLexeme": "treated equally and policies are fair",
+      "sourceContext": "Since we’d want to ensure that people are treated equally and policies are fair, the goals of AI would need to be specified correctly.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được đối xử bình đẳng và các chính sách công bằng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtriːtɪd ˈiːkwəli ənd ˈpɒləsiz ə feə/",
+        "sentiment": "positive",
+        "definitionEN": "When people are given the same rights and opportunities, and the rules or courses of action are just and reasonable.",
+        "translationVI": "Được đối xử bình đẳng và các chính sách công bằng",
+        "relatedCollocates": [
+          {
+            "form": "equal treatment",
+            "meaning": ""
+          },
+          {
+            "form": "fair policies",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "equal",
+              "meaning": "bình đẳng"
+            },
+            {
+              "form": "fair",
+              "meaning": "công bằng"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A just society is one where all citizens are treated equally and policies are fair."
+      }
+    },
+    {
+      "id": "1761813618702-28-44-2fb29967",
+      "targetLexeme": "cooperative spirit",
+      "sourceContext": "It is not yet clear whether this is possible, but if it is, it will require a cooperative spirit, and a willingness to set aside self-interest.",
+      "phase1Inference": {
+        "contextualGuessVI": "Tinh thần hợp tác"
+      },
+      "phase2Annotation": {
+        "phonetic": "/kəʊˈɒpərətɪv ˈspɪrɪt/",
+        "sentiment": "positive",
+        "definitionEN": "An attitude of mutual assistance and working together towards a common goal.",
+        "translationVI": "Tinh thần hợp tác",
+        "relatedCollocates": [
+          {
+            "form": "collaborative attitude",
+            "meaning": ""
+          },
+          {
+            "form": "team spirit",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "cooperative",
+              "meaning": "hợp tác"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Solving this global crisis will require a great deal of international cooperative spirit."
+      }
+    },
+    {
+      "id": "1761813618702-28-45-5a7944f5",
+      "targetLexeme": "set aside self-interest",
+      "sourceContext": "...it will require a cooperative spirit, and a willingness to set aside self-interest.",
+      "phase1Inference": {
+        "contextualGuessVI": "Gạt bỏ lợi ích cá nhân"
+      },
+      "phase2Annotation": {
+        "phonetic": "/set əˈsaɪd ˈselfˈɪntrəst/",
+        "sentiment": "positive",
+        "definitionEN": "To disregard or ignore one's own personal advantage for the sake of a greater good.",
+        "translationVI": "Gạt bỏ lợi ích cá nhân",
+        "relatedCollocates": [
+          {
+            "form": "put aside personal gain",
+            "meaning": ""
+          },
+          {
+            "form": "disregard one's own interests",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "set aside",
+              "meaning": "để sang một bên"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "For the team to succeed, individual players must be willing to set aside self-interest."
+      }
+    },
+    {
+      "id": "1761813618702-28-46-18ddcd50",
+      "targetLexeme": "moral reasoning",
+      "sourceContext": "Both general intelligence and moral reasoning are often thought to be uniquely human capacities.",
+      "phase1Inference": {
+        "contextualGuessVI": "Lập luận đạo đức"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmɒrəl ˈriːzənɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "The process through which individuals try to determine the difference between what is right and what is wrong by using logic.",
+        "translationVI": "Lập luận đạo đức",
+        "relatedCollocates": [
+          {
+            "form": "ethical reasoning",
+            "meaning": ""
+          },
+          {
+            "form": "moral judgment",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "reasoning",
+              "meaning": "sự lập luận"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Developing strong moral reasoning is a key part of a child's education."
+      }
+    },
+    {
+      "id": "1761813618702-28-47-54fd2723",
+      "targetLexeme": "uniquely human capacities",
+      "sourceContext": "Both general intelligence and moral reasoning are often thought to be uniquely human capacities.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những năng lực chỉ có ở con người"
+      },
+      "phase2Annotation": {
+        "phonetic": "/juːˈniːkli ˈhjuːmən kəˈpæsətiz/",
+        "sentiment": "neutral",
+        "definitionEN": "Abilities or qualities that are exclusive to the human species.",
+        "translationVI": "Những năng lực chỉ có ở con người",
+        "relatedCollocates": [
+          {
+            "form": "exclusively human traits",
+            "meaning": ""
+          },
+          {
+            "form": "human-specific abilities",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "capacity",
+              "meaning": "năng lực"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Complex language and abstract thought are often considered to be uniquely human capacities."
+      }
+    },
+    {
+      "id": "1761813618702-28-48-6307d8ee",
+      "targetLexeme": "think of them as a package",
+      "sourceContext": "But safety seems to require that we think of them as a package: if we are to give general intelligence to machines, we’ll need to give them moral authority, too.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nghĩ về chúng như một gói"
+      },
+      "phase2Annotation": {
+        "phonetic": "/θɪŋk əv ðəm æz ə ˈpækɪdʒ/",
+        "sentiment": "neutral",
+        "definitionEN": "To consider multiple items as a single, inseparable unit.",
+        "translationVI": "Coi chúng như một gói tổng thể",
+        "relatedCollocates": [
+          {
+            "form": "view them as a whole",
+            "meaning": ""
+          },
+          {
+            "form": "consider them together",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "package",
+              "meaning": "gói, kiện hàng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "You can't just focus on the salary; you need to think of the job offer as a package, including benefits and work-life balance."
+      }
+    },
+    {
+      "id": "1761813618702-28-49-7b32f63a",
+      "targetLexeme": "moral authority",
+      "sourceContext": "...if we are to give general intelligence to machines, we’ll need to give them moral authority, too.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thẩm quyền đạo đức"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmɒrəl ɔːˈθɒrəti/",
+        "sentiment": "neutral",
+        "definitionEN": "The power or right to give orders, make decisions, and enforce obedience based on principles of right and wrong.",
+        "translationVI": "Thẩm quyền đạo đức",
+        "relatedCollocates": [
+          {
+            "form": "ethical command",
+            "meaning": ""
+          },
+          {
+            "form": "moral standing",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "authority",
+              "meaning": "thẩm quyền"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A judge must have both legal and moral authority to be respected."
+      }
+    },
+    {
+      "id": "1761813618702-28-50-44704840",
+      "targetLexeme": "all the more reason to",
+      "sourceContext": "All the more reason to think about the destination now, and to be careful about what we wish for.",
+      "phase1Inference": {
+        "contextualGuessVI": "Càng có thêm lý do để"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɔːl ðə mɔː ˈriːzn tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "Used to say that there is an even better reason to do something.",
+        "translationVI": "Càng có thêm lý do để",
+        "relatedCollocates": [
+          {
+            "form": "an even better reason",
+            "meaning": ""
+          },
+          {
+            "form": "provides more justification to",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "reason",
+              "meaning": "lý do"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The forecast for rain is all the more reason to bring an umbrella."
+      }
+    },
+    {
+      "id": "1761813618702-28-51-47328191",
+      "targetLexeme": "be careful about what we wish for",
+      "sourceContext": "All the more reason to think about the destination now, and to be careful about what we wish for.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cẩn thận với những gì chúng ta mong ước"
+      },
+      "phase2Annotation": {
+        "phonetic": "/biː ˈkeəfəl əˈbaʊt wɒt wiː wɪʃ fɔː/",
+        "sentiment": "neutral",
+        "definitionEN": "A proverb warning that the things one desires may have unforeseen and unpleasant consequences.",
+        "translationVI": "Cẩn thận với những gì chúng ta mong ước",
+        "relatedCollocates": [
+          {
+            "form": "unintended consequences",
+            "meaning": ""
+          },
+          {
+            "form": "be careful what you ask for",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "wish",
+              "meaning": "ước"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He wanted to be famous, but now he has no privacy; it's a case of 'be careful about what you wish for'."
+      }
+    },
+    {
+      "id": "1761813618702-28-52-611532f4",
+      "targetLexeme": "little reason to think",
+      "sourceContext": "If so, there’s little reason to think it will stop there.",
+      "phase1Inference": {
+        "contextualGuessVI": "Ít có lý do để nghĩ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlɪtl ˈriːzn tuː θɪŋk/",
+        "sentiment": "neutral",
+        "definitionEN": "Not much logical justification to believe something.",
+        "translationVI": "Ít có lý do để nghĩ",
+        "relatedCollocates": [
+          {
+            "form": "not much evidence to suggest",
+            "meaning": ""
+          },
+          {
+            "form": "unlikely to believe",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "reason",
+              "meaning": "lý do"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Given his past performance, there is little reason to think he will succeed this time."
+      }
+    },
+    {
+      "id": "1761813618702-28-53-49f8885c",
+      "targetLexeme": "far from the physical limits",
+      "sourceContext": "But they may be as far from the physical limits of thought as our eyes are from the incredibly powerful Webb Space Telescope.",
+      "phase1Inference": {
+        "contextualGuessVI": "Còn xa mới đến giới hạn vật lý"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fɑː frəm ðə ˈfɪzɪkl ˈlɪmɪts/",
+        "sentiment": "neutral",
+        "definitionEN": "A long way from reaching the ultimate boundaries imposed by the laws of physics.",
+        "translationVI": "Còn xa mới đến giới hạn vật lý",
+        "relatedCollocates": [
+          {
+            "form": "nowhere near the ultimate boundary",
+            "meaning": ""
+          },
+          {
+            "form": "far from the maximum potential",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "limit",
+              "meaning": "giới hạn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Current computer processors are powerful, but they are still far from the physical limits of computation."
+      }
+    },
+    {
+      "id": "1761813618702-28-54-4b40b2ca",
+      "targetLexeme": "worthwhile",
+      "sourceContext": "Could we ensure a safe and worthwhile coexistence with such machines?",
+      "phase1Inference": {
+        "contextualGuessVI": "Đáng giá, bổ ích"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwɜːθwaɪl/",
+        "sentiment": "positive",
+        "definitionEN": "Worth the time, money, or effort spent; of value or importance.",
+        "translationVI": "Đáng giá, bổ ích",
+        "relatedCollocates": [
+          {
+            "form": "beneficial",
+            "meaning": ""
+          },
+          {
+            "form": "valuable",
+            "meaning": ""
+          },
+          {
+            "form": "rewarding",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "worthwhile",
+              "meaning": "đáng giá"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Volunteering for a local charity can be a very worthwhile experience."
+      }
+    },
+    {
+      "id": "1761813618702-28-55-3a532c4a",
+      "targetLexeme": "creatures with whom we share the planet",
+      "sourceContext": "We do many terrible things to each other and to many other creatures with whom we share the planet.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những sinh vật mà chúng ta cùng chia sẻ hành tinh"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkriːtʃəz wɪð huːm wiː ʃeə ðə ˈplænɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "Other living beings that exist on Earth alongside humans.",
+        "translationVI": "Những sinh vật mà chúng ta cùng chia sẻ hành tinh",
+        "relatedCollocates": [
+          {
+            "form": "fellow inhabitants",
+            "meaning": ""
+          },
+          {
+            "form": "other species",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "creature",
+              "meaning": "sinh vật"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We have a responsibility to protect the many creatures with whom we share the planet."
+      }
+    },
+    {
+      "id": "1761813618702-28-56-40baf360",
+      "targetLexeme": "at finding them",
+      "sourceContext": "Luckily they’ll be smart enough for us at finding them, and steering us in the right direction.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong việc tìm ra chúng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/æt ˈfaɪndɪŋ ðəm/",
+        "sentiment": "neutral",
+        "definitionEN": "Skilled in the act of locating or discovering certain things.",
+        "translationVI": "Trong việc tìm ra chúng",
+        "relatedCollocates": [
+          {
+            "form": "good at locating",
+            "meaning": ""
+          },
+          {
+            "form": "skilled in discovering",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "find",
+              "meaning": "tìm thấy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "My dog is very good at finding his favorite toy, no matter where I hide it."
+      }
+    },
+    {
+      "id": "1761813618702-28-57-33cc0d3b",
+      "targetLexeme": "at least indirectly",
+      "sourceContext": "We often ignore the suffering of strangers, and even contribute to it, at least indirectly.",
+      "phase1Inference": {
+        "contextualGuessVI": "Ít nhất là một cách gián tiếp"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ət liːst ˌɪndəˈrektli/",
+        "sentiment": "neutral",
+        "definitionEN": "Not in a direct way, but through a series of connections or consequences.",
+        "translationVI": "Ít nhất là một cách gián tiếp",
+        "relatedCollocates": [
+          {
+            "form": "indirectly, if not directly",
+            "meaning": ""
+          },
+          {
+            "form": "in an indirect manner",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "indirectly",
+              "meaning": "một cách gián tiếp"
+            }
+          ]
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "By buying cheap clothes, we may be contributing to poor working conditions, at least indirectly."
+      }
+    },
+    {
+      "id": "1761813618702-28-58-3971e75a",
+      "targetLexeme": "behave badly",
+      "sourceContext": "Loss of freedom to behave badly isn’t always a bad thing, of course: denying ourselves the freedom to put children to work in factories, or to smoke in restaurants are signs of progress.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cư xử tồi tệ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/bɪˈheɪv ˈbædli/",
+        "sentiment": "negative",
+        "definitionEN": "To act in a way that is not acceptable or is morally wrong.",
+        "translationVI": "Cư xử tồi tệ",
+        "relatedCollocates": [
+          {
+            "form": "misbehave",
+            "meaning": ""
+          },
+          {
+            "form": "act improperly",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "behave",
+              "meaning": "cư xử"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The students were punished for choosing to behave badly during the school assembly."
+      }
+    },
+    {
+      "id": "1761813618702-28-59-44d4e2b8",
+      "targetLexeme": "signs of progress",
+      "sourceContext": "...denying ourselves the freedom to put children to work in factories, or to smoke in restaurants are signs of progress.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những dấu hiệu của sự tiến bộ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/saɪnz əv ˈprəʊɡres/",
+        "sentiment": "positive",
+        "definitionEN": "Indications that development towards an improved or more advanced condition is happening.",
+        "translationVI": "Những dấu hiệu của sự tiến bộ",
+        "relatedCollocates": [
+          {
+            "form": "indications of improvement",
+            "meaning": ""
+          },
+          {
+            "form": "evidence of advancement",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "progress",
+              "meaning": "sự tiến bộ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Increased literacy rates and lower infant mortality are clear signs of progress in a developing country."
+      }
+    },
+    {
+      "id": "1761813618702-28-60-1757a8b2",
+      "targetLexeme": "has some input into",
+      "sourceContext": "AI already has some input into how resources are used in our National Health Service (NHS) here in the UK, for example.",
+      "phase1Inference": {
+        "contextualGuessVI": "Có một số đóng góp vào"
+      },
+      "phase2Annotation": {
+        "phonetic": "/hæz səm ˈɪnpʊt ˈɪntuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To have some influence or contribution to a decision or process.",
+        "translationVI": "Có một số đóng góp vào",
+        "relatedCollocates": [
+          {
+            "form": "contributes to",
+            "meaning": ""
+          },
+          {
+            "form": "has a say in",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "input",
+              "meaning": "sự đóng góp, đầu vào"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The public was invited to have some input into the design of the new city park."
+      }
+    },
+    {
+      "id": "1761813618702-28-61-5cbd8d37",
+      "targetLexeme": "a greater role",
+      "sourceContext": "If it was given a greater role, it might do so much more efficiently than humans can manage...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một vai trò lớn hơn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈɡreɪtə rəʊl/",
+        "sentiment": "neutral",
+        "definitionEN": "A more significant or important function or part to play.",
+        "translationVI": "Một vai trò lớn hơn",
+        "relatedCollocates": [
+          {
+            "form": "a more significant part",
+            "meaning": ""
+          },
+          {
+            "form": "a larger function",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "role",
+              "meaning": "vai trò"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She is expected to take on a greater role in the company after her promotion."
+      }
+    },
+    {
+      "id": "1761813618702-28-62-5b9bc455",
+      "targetLexeme": "presently enjoy",
+      "sourceContext": "However, we’d be depriving some humans (e.g. senior doctors) of the control they presently enjoy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hiện đang có được"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈprezntli ɪnˈdʒɔɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "To have the benefit or pleasure of something at the present time.",
+        "translationVI": "Hiện đang có được",
+        "relatedCollocates": [
+          {
+            "form": "currently have",
+            "meaning": ""
+          },
+          {
+            "form": "now possess",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "presently",
+              "meaning": "hiện tại"
+            }
+          ]
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We should appreciate the freedoms we presently enjoy, as they were not always guaranteed."
+      }
+    },
+    {
+      "id": "1761813618702-28-63-72fde168",
+      "targetLexeme": "ensure that",
+      "sourceContext": "Since we’d want to ensure that people are treated equally and policies are fair...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đảm bảo rằng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈʃʊə ðæt/",
+        "sentiment": "positive",
+        "definitionEN": "To make certain that something will happen or be the case.",
+        "translationVI": "Đảm bảo rằng",
+        "relatedCollocates": [
+          {
+            "form": "make sure that",
+            "meaning": ""
+          },
+          {
+            "form": "guarantee that",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "ensure",
+              "meaning": "đảm bảo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Please double-check your work to ensure that there are no mistakes."
+      }
+    },
+    {
+      "id": "1761813618702-28-64-3d7c5061",
+      "targetLexeme": "a new way of thinking",
+      "sourceContext": "We have a new powerful technology to deal with – itself, literally, a new way of thinking.",
+      "phase1Inference": {
+        "contextualGuessVI": "Một cách tư duy mới"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə njuː weɪ əv ˈθɪŋkɪŋ/",
+        "sentiment": "positive",
+        "definitionEN": "A different or innovative approach to thought and problem-solving.",
+        "translationVI": "Một cách tư duy mới",
+        "relatedCollocates": [
+          {
+            "form": "a new mindset",
+            "meaning": ""
+          },
+          {
+            "form": "a different perspective",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "thinking",
+              "meaning": "tư duy"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The internet introduced a new way of thinking about communication and information sharing."
+      }
+    },
+    {
+      "id": "1761813618702-28-65-26c0f6e8",
+      "targetLexeme": "act well for us",
+      "sourceContext": "For our own safety, we need to point these new thinkers in the right direction, and get them to act well for us.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hành động tốt cho chúng ta"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ækt wel fər əs/",
+        "sentiment": "positive",
+        "definitionEN": "To behave in a way that is beneficial and morally right for our interests.",
+        "translationVI": "Hành động tốt cho chúng ta",
+        "relatedCollocates": [
+          {
+            "form": "act in our best interest",
+            "meaning": ""
+          },
+          {
+            "form": "behave beneficially",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "act",
+              "meaning": "hành động"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We trust our leaders to act well for us and make decisions that benefit the whole country."
+      }
+    },
+    {
+      "id": "1761813618702-28-66-60243edd",
+      "targetLexeme": "it is not yet clear",
+      "sourceContext": "It is not yet clear whether this is possible, but if it is, it will require a cooperative spirit...",
+      "phase1Inference": {
+        "contextualGuessVI": "Vẫn chưa rõ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪt ɪz nɒt jet klɪə/",
+        "sentiment": "neutral",
+        "definitionEN": "It is not known or certain at the present time.",
+        "translationVI": "Vẫn chưa rõ",
+        "relatedCollocates": [
+          {
+            "form": "it remains uncertain",
+            "meaning": ""
+          },
+          {
+            "form": "it is still unknown",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "clear",
+              "meaning": "rõ ràng"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It is not yet clear who will win the election."
+      }
+    },
+    {
+      "id": "1761813618702-28-67-0dbc0d16",
+      "targetLexeme": "if we are to",
+      "sourceContext": "if we are to give general intelligence to machines, we’ll need to give them moral authority, too.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nếu chúng ta định"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪf wiː ə tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "Used to say what must be done to achieve a particular thing.",
+        "translationVI": "Nếu chúng ta định/muốn",
+        "relatedCollocates": [
+          {
+            "form": "if we want to",
+            "meaning": ""
+          },
+          {
+            "form": "in order to",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "If we are to solve this problem, we must all work together."
+      }
+    },
+    {
+      "id": "1761813618702-28-68-34765f91",
+      "targetLexeme": "where exactly would that leave human beings",
+      "sourceContext": "And where exactly would that leave human beings?",
+      "phase1Inference": {
+        "contextualGuessVI": "Điều đó sẽ đẩy con người vào vị trí nào"
+      },
+      "phase2Annotation": {
+        "phonetic": "/weər ɪɡˈzæktli wʊd ðæt liːv ˈhjuːmən ˈbiːɪŋz/",
+        "sentiment": "neutral",
+        "definitionEN": "A rhetorical question asking what the position or role of humans would be in that situation.",
+        "translationVI": "Điều đó sẽ đẩy con người vào vị trí nào",
+        "relatedCollocates": [
+          {
+            "form": "what would become of humanity",
+            "meaning": ""
+          },
+          {
+            "form": "what would our role be",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "leave",
+              "meaning": "để lại"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "If robots can do all our jobs, where exactly would that leave human beings?"
+      }
+    },
+    {
+      "id": "1761813618702-28-69-7a992fb4",
+      "targetLexeme": "think about the destination",
+      "sourceContext": "All the more reason to think about the destination now, and to be careful about what we wish for.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nghĩ về đích đến"
+      },
+      "phase2Annotation": {
+        "phonetic": "/θɪŋk əˈbaʊt ðə ˌdestɪˈneɪʃn/",
+        "sentiment": "neutral",
+        "definitionEN": "To consider the final goal or the ultimate outcome of a process.",
+        "translationVI": "Nghĩ về đích đến",
+        "relatedCollocates": [
+          {
+            "form": "consider the end goal",
+            "meaning": ""
+          },
+          {
+            "form": "think about the outcome",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "destination",
+              "meaning": "điểm đến"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Before starting a long journey, it's important to think about the destination and plan your route."
+      }
+    },
+    {
+      "id": "1761813618702-28-70-1802abd7",
+      "targetLexeme": "one after another",
+      "sourceContext": "This has been the decade of AI, with one astonishing feat after another.",
+      "phase1Inference": {
+        "contextualGuessVI": "Cái này nối tiếp cái khác"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wʌn ˈɑːftər əˈnʌðə/",
+        "sentiment": "neutral",
+        "definitionEN": "In a continuous sequence; one following the other.",
+        "translationVI": "Cái này nối tiếp cái khác",
+        "relatedCollocates": [
+          {
+            "form": "in succession",
+            "meaning": ""
+          },
+          {
+            "form": "sequentially",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "one after another",
+              "meaning": "lần lượt"
+            }
+          ]
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The dominoes fell one after another in a perfect line."
+      }
+    },
+    {
+      "id": "1761813618702-28-71-4a08f9be",
+      "targetLexeme": "so-called",
+      "sourceContext": "These prodigious accomplishments are all in so-called narrow AI...",
+      "phase1Inference": {
+        "contextualGuessVI": "Cái gọi là"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsəʊ kɔːld/",
+        "sentiment": "neutral",
+        "definitionEN": "Used to show that you think a word or phrase used to describe someone or something is not suitable or not true.",
+        "translationVI": "Cái gọi là",
+        "relatedCollocates": [
+          {
+            "form": "supposed",
+            "meaning": ""
+          },
+          {
+            "form": "alleged",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "so-called",
+              "meaning": "cái gọi là"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He was arrested for selling a so-called miracle cure that had no real effect."
+      }
+    },
+    {
+      "id": "1761813618702-28-72-09f67805",
+      "targetLexeme": "mid-century",
+      "sourceContext": "By mid-century, we may have artificial general intelligence (AGI)...",
+      "phase1Inference": {
+        "contextualGuessVI": "Giữa thế kỷ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌmɪdˈsentʃəri/",
+        "sentiment": "neutral",
+        "definitionEN": "The middle of a century, for example the period around 1950 or 2050.",
+        "translationVI": "Giữa thế kỷ",
+        "relatedCollocates": [
+          {
+            "form": "the 2050s",
+            "meaning": ""
+          },
+          {
+            "form": "the middle of the century",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "century",
+              "meaning": "thế kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The house was decorated in a classic mid-century modern style."
+      }
+    },
+    {
+      "id": "1761813618702-28-73-01f9914e",
+      "targetLexeme": "full range of tasks",
+      "sourceContext": "...human-level performance on the full range of tasks that we ourselves can tackle.",
+      "phase1Inference": {
+        "contextualGuessVI": "Toàn bộ các nhiệm vụ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fʊl reɪndʒ əv tɑːsks/",
+        "sentiment": "neutral",
+        "definitionEN": "The complete set of all possible jobs or activities.",
+        "translationVI": "Toàn bộ các nhiệm vụ",
+        "relatedCollocates": [
+          {
+            "form": "the entire spectrum of activities",
+            "meaning": ""
+          },
+          {
+            "form": "all possible tasks",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "range",
+              "meaning": "phạm vi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A modern smartphone is capable of performing a full range of tasks, from making calls to editing videos."
+      }
+    },
+    {
+      "id": "1761813618702-28-74-4c446901",
+      "targetLexeme": "power of a light bulb",
+      "sourceContext": "Our brains run at slow biochemical processing speeds on the power of a light bulb...",
+      "phase1Inference": {
+        "contextualGuessVI": "Năng lượng của một bóng đèn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpaʊər əv ə laɪt bʌlb/",
+        "sentiment": "neutral",
+        "definitionEN": "A small amount of electrical energy, typically used as a point of comparison for the low energy consumption of the human brain (around 20 watts).",
+        "translationVI": "Năng lượng của một bóng đèn",
+        "relatedCollocates": [
+          {
+            "form": "low energy consumption",
+            "meaning": ""
+          },
+          {
+            "form": "minimal power",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "power",
+              "meaning": "năng lượng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It's amazing that the human brain can perform so many complex functions on just the power of a light bulb."
+      }
+    },
+    {
+      "id": "1761813618702-28-75-7d66ecca",
+      "targetLexeme": "might be expected to be",
+      "sourceContext": "...and super AI might be expected to be super useful, and super profitable.",
+      "phase1Inference": {
+        "contextualGuessVI": "Có thể được kỳ vọng là"
+      },
+      "phase2Annotation": {
+        "phonetic": "/maɪt biː ɪkˈspektɪd tuː biː/",
+        "sentiment": "neutral",
+        "definitionEN": "It would be reasonable to assume that it will be.",
+        "translationVI": "Có thể được kỳ vọng là",
+        "relatedCollocates": [
+          {
+            "form": "it is likely to be",
+            "meaning": ""
+          },
+          {
+            "form": "one would assume it will be",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "expect",
+              "meaning": "mong đợi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A student who studies diligently might be expected to get good grades."
+      }
+    },
+    {
+      "id": "1761813618702-28-76-535b66e5",
+      "targetLexeme": "do a lot better than us",
+      "sourceContext": "If superintelligent machines don’t do a lot better than us, we’ll be in deep trouble.",
+      "phase1Inference": {
+        "contextualGuessVI": "Làm tốt hơn chúng ta rất nhiều"
+      },
+      "phase2Annotation": {
+        "phonetic": "/duː ə lɒt ˈbetə ðæn əs/",
+        "sentiment": "neutral",
+        "definitionEN": "To perform significantly better or act in a much more morally correct way than humans do.",
+        "translationVI": "Làm tốt hơn chúng ta rất nhiều",
+        "relatedCollocates": [
+          {
+            "form": "outperform us significantly",
+            "meaning": ""
+          },
+          {
+            "form": "behave far more ethically",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "better",
+              "meaning": "tốt hơn"
+            }
+          ]
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "With his years of experience, he can do a lot better than a novice at this task."
+      }
+    },
+    {
+      "id": "1761813618702-28-77-3089455b",
+      "targetLexeme": "big problems with",
+      "sourceContext": "However, there are two big problems with this utopian vision.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những vấn đề lớn với"
+      },
+      "phase2Annotation": {
+        "phonetic": "/bɪɡ ˈprɒbləmz wɪð/",
+        "sentiment": "negative",
+        "definitionEN": "Major difficulties or flaws associated with something.",
+        "translationVI": "Những vấn đề lớn với",
+        "relatedCollocates": [
+          {
+            "form": "major issues",
+            "meaning": ""
+          },
+          {
+            "form": "significant challenges",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "problem",
+              "meaning": "vấn đề"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "There are two big problems with your plan: it's too expensive and it will take too long."
+      }
+    },
+    {
+      "id": "1761813618702-28-78-6bcb47ba",
+      "targetLexeme": "on the journey",
+      "sourceContext": "One is how we get the machines started on the journey, the other is what it would mean to reach this destination.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trên hành trình"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɒn ðə ˈdʒɜːni/",
+        "sentiment": "neutral",
+        "definitionEN": "During the process of travelling from one place (or state) to another.",
+        "translationVI": "Trên hành trình",
+        "relatedCollocates": [
+          {
+            "form": "during the process",
+            "meaning": ""
+          },
+          {
+            "form": "along the way",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "journey",
+              "meaning": "hành trình"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "It's important to have good friends to support you on the journey through life."
+      }
+    },
+    {
+      "id": "1761813618702-28-79-1d5bc9bf",
+      "targetLexeme": "what it would mean to",
+      "sourceContext": "...the other is what it would mean to reach this destination.",
+      "phase1Inference": {
+        "contextualGuessVI": "Nó sẽ có ý nghĩa gì khi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɒt ɪt wʊd miːn tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "What the implications or consequences of doing something would be.",
+        "translationVI": "Nó sẽ có ý nghĩa gì khi",
+        "relatedCollocates": [
+          {
+            "form": "the implications of",
+            "meaning": ""
+          },
+          {
+            "form": "the consequences of",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "mean",
+              "meaning": "có nghĩa là"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Before quitting your job, you should consider what it would mean to be unemployed."
+      }
+    },
+    {
+      "id": "1761813618702-28-80-39655b50",
+      "targetLexeme": "putting ourselves in the hands of",
+      "sourceContext": "...we might, by putting ourselves in the hands of these moral guides and gatekeepers, be sacrificing our own autonomy...",
+      "phase1Inference": {
+        "contextualGuessVI": "Đặt mình vào tay của"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpʊtɪŋ ɑːˈselvz ɪn ðə hændz əv/",
+        "sentiment": "neutral",
+        "definitionEN": "To give control or responsibility for oneself to someone else.",
+        "translationVI": "Đặt mình vào tay của",
+        "relatedCollocates": [
+          {
+            "form": "entrusting ourselves to",
+            "meaning": ""
+          },
+          {
+            "form": "giving control to",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "put",
+              "meaning": "đặt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "When you board an airplane, you are putting yourselves in the hands of the pilot and crew."
+      }
+    },
+    {
+      "id": "1761813618702-28-81-46a4b878",
+      "targetLexeme": "sticking to",
+      "sourceContext": "Machines who are better than us at sticking to the moral high ground may be expected to discourage some of the lapses...",
+      "phase1Inference": {
+        "contextualGuessVI": "Tuân thủ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈstɪkɪŋ tuː/",
+        "sentiment": "positive",
+        "definitionEN": "To continue to do or use something and not change it.",
+        "translationVI": "Tuân thủ",
+        "relatedCollocates": [
+          {
+            "form": "adhering to",
+            "meaning": ""
+          },
+          {
+            "form": "following",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "stick to",
+              "meaning": "tuân thủ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "If you want to lose weight, sticking to a healthy diet is essential."
+      }
+    },
+    {
+      "id": "1761813618702-28-82-69bc194e",
+      "targetLexeme": "limiting our options",
+      "sourceContext": "But are we ready for ethical silicon police limiting our options?",
+      "phase1Inference": {
+        "contextualGuessVI": "Hạn chế các lựa chọn của chúng ta"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlɪmɪtɪŋ ɑːr ˈɒpʃənz/",
+        "sentiment": "negative",
+        "definitionEN": "Restricting the range of choices available to us.",
+        "translationVI": "Hạn chế các lựa chọn của chúng ta",
+        "relatedCollocates": [
+          {
+            "form": "restricting our choices",
+            "meaning": ""
+          },
+          {
+            "form": "reducing our freedom",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "limit",
+              "meaning": "hạn chế"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A small budget is limiting our options for a vacation destination."
+      }
+    },
+    {
+      "id": "1761813618702-28-83-50b3fd87",
+      "targetLexeme": "won’t notice them",
+      "sourceContext": "They might be so good at doing it that we won’t notice them...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sẽ không nhận ra chúng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wəʊnt ˈnəʊtɪs ðəm/",
+        "sentiment": "neutral",
+        "definitionEN": "Will not become aware of their presence or actions.",
+        "translationVI": "Sẽ không nhận ra chúng",
+        "relatedCollocates": [
+          {
+            "form": "be unaware of them",
+            "meaning": ""
+          },
+          {
+            "form": "not perceive them",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "notice",
+              "meaning": "nhận thấy"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The changes were so subtle that most people won't notice them."
+      }
+    },
+    {
+      "id": "1761813618702-28-84-6d698f6c",
+      "targetLexeme": "deal with",
+      "sourceContext": "We have a new powerful technology to deal with – itself, literally, a new way of thinking.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đối phó với"
+      },
+      "phase2Annotation": {
+        "phonetic": "/diːl wɪð/",
+        "sentiment": "neutral",
+        "definitionEN": "To take action in order to achieve something or in order to solve a problem.",
+        "translationVI": "Đối phó với",
+        "relatedCollocates": [
+          {
+            "form": "handle",
+            "meaning": ""
+          },
+          {
+            "form": "manage",
+            "meaning": ""
+          },
+          {
+            "form": "cope with",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "deal with",
+              "meaning": "đối phó với"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The customer service department is trained to deal with complaints effectively."
+      }
+    },
+    {
+      "id": "1761813618702-28-85-453d10ff",
+      "targetLexeme": "decade of AI",
+      "sourceContext": "This has been the decade of AI, with one astonishing feat after another.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thập kỷ của AI"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdekeɪd əv ˌeɪˈaɪ/",
+        "sentiment": "positive",
+        "definitionEN": "A ten-year period characterized by significant advancements and public focus on Artificial Intelligence.",
+        "translationVI": "Thập kỷ của AI",
+        "relatedCollocates": [
+          {
+            "form": "era of AI",
+            "meaning": ""
+          },
+          {
+            "form": "AI boom",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "decade",
+              "meaning": "thập kỷ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The 2010s can be considered the decade of AI, where machine learning became mainstream."
+      }
+    },
+    {
+      "id": "1761813618702-28-86-1737ef56",
+      "targetLexeme": "temporary restriction",
+      "sourceContext": "But many experts believe this restriction is very temporary.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự hạn chế tạm thời"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtempərəri rɪˈstrɪkʃn/",
+        "sentiment": "neutral",
+        "definitionEN": "A limitation that is not permanent and will only last for a short time.",
+        "translationVI": "Sự hạn chế tạm thời",
+        "relatedCollocates": [
+          {
+            "form": "short-term limitation",
+            "meaning": ""
+          },
+          {
+            "form": "provisional constraint",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "restriction",
+              "meaning": "sự hạn chế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The road closure is a temporary restriction while the bridge is being repaired."
+      }
+    },
+    {
+      "id": "1761813618702-28-87-3b2a98bf",
+      "targetLexeme": "tackle",
+      "sourceContext": "...the full range of tasks that we ourselves can tackle.",
+      "phase1Inference": {
+        "contextualGuessVI": "Giải quyết, xử lý"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtækl/",
+        "sentiment": "neutral",
+        "definitionEN": "To make determined efforts to deal with a difficult problem or task.",
+        "translationVI": "Giải quyết, xử lý",
+        "relatedCollocates": [
+          {
+            "form": "deal with",
+            "meaning": ""
+          },
+          {
+            "form": "address",
+            "meaning": ""
+          },
+          {
+            "form": "handle",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "tackle",
+              "meaning": "giải quyết"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government needs to find a better way to tackle the problem of unemployment."
+      }
+    },
+    {
+      "id": "1761813618702-28-88-0287c965",
+      "targetLexeme": "free of",
+      "sourceContext": "Machines will be free of many of the physical constraints on human intelligence.",
+      "phase1Inference": {
+        "contextualGuessVI": "Không bị ràng buộc bởi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/friː əv/",
+        "sentiment": "positive",
+        "definitionEN": "Not containing or affected by a particular undesirable thing.",
+        "translationVI": "Không bị ràng buộc bởi",
+        "relatedCollocates": [
+          {
+            "form": "unconstrained by",
+            "meaning": ""
+          },
+          {
+            "form": "without the limitations of",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "free",
+              "meaning": "tự do"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new software is free of the bugs that plagued the previous version."
+      }
+    },
+    {
+      "id": "1761813618702-28-89-2267770d",
+      "targetLexeme": "designing even smarter machines",
+      "sourceContext": "Once machines are better than us at designing even smarter machines, progress towards these limits could accelerate.",
+      "phase1Inference": {
+        "contextualGuessVI": "Thiết kế những cỗ máy còn thông minh hơn"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈzaɪnɪŋ ˈiːvən ˈsmɑːtə məˈʃiːnz/",
+        "sentiment": "neutral",
+        "definitionEN": "The process of creating machines with greater intelligence, leading to a cycle of rapid improvement.",
+        "translationVI": "Thiết kế những cỗ máy còn thông minh hơn",
+        "relatedCollocates": [
+          {
+            "form": "recursive self-improvement",
+            "meaning": ""
+          },
+          {
+            "form": "intelligence explosion",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "design",
+              "meaning": "thiết kế"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ultimate goal for some AI researchers is to create an AI capable of designing even smarter machines."
+      }
+    },
+    {
+      "id": "1761813618702-28-90-3b4977b3",
+      "targetLexeme": "progress... could accelerate",
+      "sourceContext": "...progress towards these limits could accelerate.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự tiến bộ có thể tăng tốc"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈprəʊɡres kʊd əkˈseləreɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "The process of developing or moving towards a more advanced state could speed up.",
+        "translationVI": "Sự tiến bộ có thể tăng tốc",
+        "relatedCollocates": [
+          {
+            "form": "development could speed up",
+            "meaning": ""
+          },
+          {
+            "form": "advancement could quicken",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "accelerate",
+              "meaning": "tăng tốc"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "With the new funding, progress on the research project could accelerate significantly."
+      }
+    },
+    {
+      "id": "1761813618702-28-91-5e10d707",
+      "targetLexeme": "worthwhile coexistence",
+      "sourceContext": "Could we ensure a safe and worthwhile coexistence with such machines?",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự cùng tồn tại đáng giá"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwɜːθwaɪl ˌkəʊɪɡˈzɪstəns/",
+        "sentiment": "positive",
+        "definitionEN": "A state of existing together that is valuable, beneficial, and worth the effort.",
+        "translationVI": "Sự cùng tồn tại đáng giá",
+        "relatedCollocates": [
+          {
+            "form": "beneficial coexistence",
+            "meaning": ""
+          },
+          {
+            "form": "valuable partnership",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "worthwhile",
+              "meaning": "đáng giá"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Achieving a worthwhile coexistence between humanity and nature is the goal of conservation."
+      }
+    },
+    {
+      "id": "1761813618702-28-92-77a31680",
+      "targetLexeme": "ask for the wrong thing",
+      "sourceContext": "Folklore is full of tales of people who ask for the wrong thing, with disastrous consequences...",
+      "phase1Inference": {
+        "contextualGuessVI": "Yêu cầu sai điều"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɑːsk fə ðə rɒŋ θɪŋ/",
+        "sentiment": "negative",
+        "definitionEN": "To make a request that, due to poor wording or lack of foresight, leads to an undesirable outcome.",
+        "translationVI": "Yêu cầu sai điều",
+        "relatedCollocates": [
+          {
+            "form": "unintended consequences",
+            "meaning": ""
+          },
+          {
+            "form": "poorly specified goals",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "ask",
+              "meaning": "yêu cầu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "When dealing with a powerful genie, you must be very careful not to ask for the wrong thing."
+      }
+    },
+    {
+      "id": "1761813618702-28-93-682bf78a",
+      "targetLexeme": "reliably human-friendly ourselves",
+      "sourceContext": "One thing that makes this task difficult is that we are far from reliably human-friendly ourselves.",
+      "phase1Inference": {
+        "contextualGuessVI": "Bản thân chúng ta thân thiện với con người một cách đáng tin cậy"
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈlaɪəbli ˈhjuːmən-ˈfrendli ɑːˈselvz/",
+        "sentiment": "negative",
+        "definitionEN": "A phrase suggesting that humans themselves do not consistently act in a way that is kind or beneficial to other humans.",
+        "translationVI": "Bản thân chúng ta cũng không phải lúc nào cũng thân thiện",
+        "relatedCollocates": [
+          {
+            "form": "human fallibility",
+            "meaning": ""
+          },
+          {
+            "form": "moral inconsistency",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "human-friendly",
+              "meaning": "thân thiện với con người"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Before we can program ethics into AI, we must admit that we are not reliably human-friendly ourselves."
+      }
+    },
+    {
+      "id": "1761813618702-28-94-071ffec6",
+      "targetLexeme": "do many terrible things to each other",
+      "sourceContext": "We do many terrible things to each other and to many other creatures with whom we share the planet.",
+      "phase1Inference": {
+        "contextualGuessVI": "Làm nhiều điều khủng khiếp với nhau"
+      },
+      "phase2Annotation": {
+        "phonetic": "/duː ˈmeni ˈterəbl θɪŋz tuː iːtʃ ˈʌðə/",
+        "sentiment": "negative",
+        "definitionEN": "To commit harmful, cruel, or immoral acts against one another.",
+        "translationVI": "Đối xử tồi tệ với nhau",
+        "relatedCollocates": [
+          {
+            "form": "inflict harm on one another",
+            "meaning": ""
+          },
+          {
+            "form": "human cruelty",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "terrible",
+              "meaning": "khủng khiếp"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Throughout history, humans have shown the capacity to do many terrible things to each other during times of war."
+      }
+    },
+    {
+      "id": "1761813618702-28-95-4e6570a1",
+      "targetLexeme": "what makes us human",
+      "sourceContext": "...sacrificing our own autonomy – an important part of what makes us human.",
+      "phase1Inference": {
+        "contextualGuessVI": "Điều làm nên con người chúng ta"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɒt meɪks əs ˈhjuːmən/",
+        "sentiment": "neutral",
+        "definitionEN": "The essential qualities and characteristics that define humanity, such as consciousness, free will, and emotion.",
+        "translationVI": "Điều làm nên con người chúng ta",
+        "relatedCollocates": [
+          {
+            "form": "the essence of humanity",
+            "meaning": ""
+          },
+          {
+            "form": "human nature",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "human",
+              "meaning": "thuộc về con người"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The ability to create art and appreciate beauty is part of what makes us human."
+      }
+    },
+    {
+      "id": "1761813618702-28-96-33299706",
+      "targetLexeme": "discourage some of the lapses",
+      "sourceContext": "Machines who are better than us at sticking to the moral high ground may be expected to discourage some of the lapses we presently take for granted.",
+      "phase1Inference": {
+        "contextualGuessVI": "Ngăn cản một số sai lầm"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈskʌrɪdʒ səm əv ðə ˈlæpsɪz/",
+        "sentiment": "positive",
+        "definitionEN": "To prevent or persuade against certain moral failures or errors in judgment.",
+        "translationVI": "Ngăn cản một số sai lầm",
+        "relatedCollocates": [
+          {
+            "form": "prevent moral failures",
+            "meaning": ""
+          },
+          {
+            "form": "deter errors",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "discourage",
+              "meaning": "làm nản lòng, ngăn cản"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A good leader should encourage ethical behavior and discourage any lapses in integrity."
+      }
+    },
+    {
+      "id": "1761813618702-28-97-3e818891",
+      "targetLexeme": "lose our freedom to",
+      "sourceContext": "We might lose our freedom to discriminate in favour of our own communities, for example.",
+      "phase1Inference": {
+        "contextualGuessVI": "Mất đi sự tự do để"
+      },
+      "phase2Annotation": {
+        "phonetic": "/luːz ɑː ˈfriːdəm tuː/",
+        "sentiment": "negative",
+        "definitionEN": "To no longer have the right or ability to do something.",
+        "translationVI": "Mất đi sự tự do để",
+        "relatedCollocates": [
+          {
+            "form": "be deprived of the ability to",
+            "meaning": ""
+          },
+          {
+            "form": "no longer be able to",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "freedom",
+              "meaning": "sự tự do"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "If we don't protect our privacy, we might lose our freedom to express ourselves without fear."
+      }
+    },
+    {
+      "id": "1761813618702-28-98-6fde9d59",
+      "targetLexeme": "denying ourselves the freedom to",
+      "sourceContext": "...denying ourselves the freedom to put children to work in factories, or to smoke in restaurants are signs of progress.",
+      "phase1Inference": {
+        "contextualGuessVI": "Từ chối cho bản thân quyền tự do"
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈnaɪɪŋ ɑːˈselvz ðə ˈfriːdəm tuː/",
+        "sentiment": "positive",
+        "definitionEN": "To voluntarily give up the right or ability to do something, often for a greater good.",
+        "translationVI": "Từ chối cho bản thân quyền tự do",
+        "relatedCollocates": [
+          {
+            "form": "restricting our own liberty",
+            "meaning": ""
+          },
+          {
+            "form": "self-imposing limits",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "deny",
+              "meaning": "từ chối"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "By choosing to recycle, we are denying ourselves the freedom to be wasteful for the benefit of the planet."
+      }
+    },
+    {
+      "id": "1761813618702-28-99-274282de",
+      "targetLexeme": "National Health Service (NHS)",
+      "sourceContext": "AI already has some input into how resources are used in our National Health Service (NHS) here in the UK...",
+      "phase1Inference": {
+        "contextualGuessVI": "Dịch vụ Y tế Quốc gia (Anh)"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈnæʃnəl helθ ˈsɜːvɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "The publicly funded healthcare system in the United Kingdom.",
+        "translationVI": "Dịch vụ Y tế Quốc gia (Anh)",
+        "relatedCollocates": [
+          {
+            "form": "public healthcare",
+            "meaning": ""
+          },
+          {
+            "form": "UK healthcare system",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "service",
+              "meaning": "dịch vụ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The National Health Service is a cherished institution in the UK, providing free healthcare to all residents."
+      }
+    },
+    {
+      "id": "1761813618702-28-100-4c3fca96",
+      "targetLexeme": "taxpayers",
+      "sourceContext": "...and act in the interests of taxpayers and those who use the health system.",
+      "phase1Inference": {
+        "contextualGuessVI": "Những người nộp thuế"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈtæksˌpeɪəz/",
+        "sentiment": "neutral",
+        "definitionEN": "People who pay tax to the government.",
+        "translationVI": "Những người nộp thuế",
+        "relatedCollocates": [
+          {
+            "form": "citizens",
+            "meaning": ""
+          },
+          {
+            "form": "the public",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "taxpayer",
+              "meaning": "người nộp thuế"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new public library was funded by local taxpayers."
+      }
+    },
+    {
+      "id": "1761813618702-28-101-12eeb780",
+      "targetLexeme": "specified correctly",
+      "sourceContext": "...the goals of AI would need to be specified correctly.",
+      "phase1Inference": {
+        "contextualGuessVI": "Được chỉ định một cách chính xác"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈspesɪfaɪd kəˈrektli/",
+        "sentiment": "positive",
+        "definitionEN": "To be stated or defined in a way that is accurate and without error.",
+        "translationVI": "Được chỉ định một cách chính xác",
+        "relatedCollocates": [
+          {
+            "form": "defined accurately",
+            "meaning": ""
+          },
+          {
+            "form": "clearly articulated",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "specify",
+              "meaning": "chỉ rõ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "For the experiment to work, the parameters must be specified correctly in the software."
+      }
+    },
+    {
+      "id": "1761813618702-28-102-42aa6313",
+      "targetLexeme": "point... in the right direction",
+      "sourceContext": "For our own safety, we need to point these new thinkers in the right direction...",
+      "phase1Inference": {
+        "contextualGuessVI": "Chỉ... đi đúng hướng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/pɔɪnt ɪn ðə raɪt dəˈrekʃn/",
+        "sentiment": "positive",
+        "definitionEN": "To guide someone or something towards a desirable path or outcome.",
+        "translationVI": "Chỉ... đi đúng hướng",
+        "relatedCollocates": [
+          {
+            "form": "guide",
+            "meaning": ""
+          },
+          {
+            "form": "steer",
+            "meaning": ""
+          },
+          {
+            "form": "direct",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "point",
+              "meaning": "chỉ, trỏ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A good teacher can point students in the right direction for their future careers."
+      }
+    },
+    {
+      "id": "1761813618702-28-103-547e7111",
+      "targetLexeme": "willingness to",
+      "sourceContext": "...it will require a cooperative spirit, and a willingness to set aside self-interest.",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự sẵn lòng để"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwɪlɪŋnəs tuː/",
+        "sentiment": "positive",
+        "definitionEN": "The quality or state of being prepared or ready to do something.",
+        "translationVI": "Sự sẵn lòng để",
+        "relatedCollocates": [
+          {
+            "form": "readiness to",
+            "meaning": ""
+          },
+          {
+            "form": "being prepared to",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "willing",
+              "meaning": "sẵn lòng"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Success in any team project depends on each member's willingness to cooperate."
+      }
+    },
+    {
+      "id": "1761813618702-28-104-381eb679",
+      "targetLexeme": "literally",
+      "sourceContext": "We have a new powerful technology to deal with – itself, literally, a new way of thinking.",
+      "phase1Inference": {
+        "contextualGuessVI": "Theo đúng nghĩa đen"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlɪtərəli/",
+        "sentiment": "neutral",
+        "definitionEN": "In a literal manner or sense; exactly. Used for emphasis.",
+        "translationVI": "Theo đúng nghĩa đen",
+        "relatedCollocates": [
+          {
+            "form": "actually",
+            "meaning": ""
+          },
+          {
+            "form": "in actual fact",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "literal",
+              "meaning": "theo nghĩa đen"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After the marathon, I was so tired I literally couldn't move."
+      }
+    },
+    {
+      "id": "1761813618702-28-105-1c8bee6e",
+      "targetLexeme": "safety seems to require that",
+      "sourceContext": "But safety seems to require that we think of them as a package...",
+      "phase1Inference": {
+        "contextualGuessVI": "Sự an toàn dường như đòi hỏi rằng"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈseɪfti siːmz tuː rɪˈkwaɪə ðæt/",
+        "sentiment": "neutral",
+        "definitionEN": "It appears that for safety to be ensured, a particular condition must be met.",
+        "translationVI": "Sự an toàn dường như đòi hỏi rằng",
+        "relatedCollocates": [
+          {
+            "form": "safety necessitates",
+            "meaning": ""
+          },
+          {
+            "form": "it is necessary for safety",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "require",
+              "meaning": "đòi hỏi, yêu cầu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "When handling chemicals, safety seems to require that you always wear protective gloves."
+      }
+    },
+    {
+      "id": "1761813618702-28-106-7040fe7d",
+      "targetLexeme": "that's yesterday's news",
+      "sourceContext": "A chess-playing AI that can defeat not only all human chess players, but also all previous human-programmed chess machines, after learning the game in just four hours? That’s yesterday’s news.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đó là chuyện của ngày hôm qua rồi"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðæts ˈjestədeɪz njuːz/",
+        "sentiment": "neutral",
+        "definitionEN": "An idiom meaning that something is no longer new, interesting, or relevant.",
+        "translationVI": "Đó là chuyện của ngày hôm qua rồi",
+        "relatedCollocates": [
+          {
+            "form": "old news",
+            "meaning": ""
+          },
+          {
+            "form": "outdated information",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "news",
+              "meaning": "tin tức"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "You're just hearing about that company's merger now? That's yesterday's news."
+      }
+    },
+    {
+      "id": "1761813618702-28-107-482f1b7b",
+      "targetLexeme": "What's next?",
+      "sourceContext": "That’s yesterday’s news, what’s next?",
+      "phase1Inference": {
+        "contextualGuessVI": "Tiếp theo là gì?"
+      },
+      "phase2Annotation": {
+        "phonetic": "/wɒts nekst/",
+        "sentiment": "neutral",
+        "definitionEN": "A question asking what will happen or be done in the future, following a recent event.",
+        "translationVI": "Tiếp theo là gì?",
+        "relatedCollocates": [
+          {
+            "form": "what's on the horizon",
+            "meaning": ""
+          },
+          {
+            "form": "what comes after this",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "next",
+              "meaning": "tiếp theo"
+            }
+          ]
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We've finished the first phase of the project, so the big question is: what's next?"
+      }
+    },
+    {
+      "id": "1761813618702-28-108-5f0b43ce",
+      "targetLexeme": "intend this to apply to",
+      "sourceContext": "...might have wished that everything he touched turned to gold, but didn’t really intend this to apply to his breakfast.",
+      "phase1Inference": {
+        "contextualGuessVI": "Có ý định điều này áp dụng cho"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈtend ðɪs tuː əˈplaɪ tuː/",
+        "sentiment": "neutral",
+        "definitionEN": "To have a particular rule or effect in mind for a specific situation.",
+        "translationVI": "Có ý định điều này áp dụng cho",
+        "relatedCollocates": [
+          {
+            "form": "mean for this to affect",
+            "meaning": ""
+          },
+          {
+            "form": "want this to be relevant to",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "intend",
+              "meaning": "có ý định"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new rule is for all employees, but I don't think they intend this to apply to senior management."
+      }
+    },
+    {
+      "id": "1761813618702-28-109-395d3a36",
+      "targetLexeme": "for our own safety",
+      "sourceContext": "For our own safety, we need to point these new thinkers in the right direction...",
+      "phase1Inference": {
+        "contextualGuessVI": "Vì sự an toàn của chính chúng ta"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fər ɑːr əʊn ˈseɪfti/",
+        "sentiment": "positive",
+        "definitionEN": "For the purpose of protecting ourselves from harm or danger.",
+        "translationVI": "Vì sự an toàn của chính chúng ta",
+        "relatedCollocates": [
+          {
+            "form": "for our own protection",
+            "meaning": ""
+          },
+          {
+            "form": "to keep ourselves safe",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "safety",
+              "meaning": "sự an toàn"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "We should all learn basic first aid for our own safety and the safety of others."
+      }
+    },
+    {
+      "id": "1761813618702-28-110-3ed25479",
+      "targetLexeme": "a bad thing",
+      "sourceContext": "Loss of freedom to behave badly isn’t always a bad thing, of course...",
+      "phase1Inference": {
+        "contextualGuessVI": "Một điều tồi tệ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə bæd θɪŋ/",
+        "sentiment": "negative",
+        "definitionEN": "Something that is undesirable, unpleasant, or morally wrong.",
+        "translationVI": "Một điều tồi tệ",
+        "relatedCollocates": [
+          {
+            "form": "a negative thing",
+            "meaning": ""
+          },
+          {
+            "form": "an undesirable outcome",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "bad",
+              "meaning": "tồi tệ"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Forgetting your friend's birthday is not a good thing, but it isn't necessarily a bad thing if you make it up to them."
+      }
+    },
+    {
+      "id": "1761813618702-28-111-24f644fb",
+      "targetLexeme": "senior doctors",
+      "sourceContext": "...depriving some humans (e.g. senior doctors) of the control they presently enjoy.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các bác sĩ cao cấp"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsiːniə ˈdɒktəz/",
+        "sentiment": "neutral",
+        "definitionEN": "Doctors who are of a high or the highest rank in their profession, often with many years of experience.",
+        "translationVI": "Các bác sĩ cao cấp",
+        "relatedCollocates": [
+          {
+            "form": "experienced physicians",
+            "meaning": ""
+          },
+          {
+            "form": "consultants",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "senior",
+              "meaning": "cao cấp"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The complex surgery was performed by a team of senior doctors."
+      }
+    },
+    {
+      "id": "1761813618702-28-112-0bea9d51",
+      "targetLexeme": "turns out to be",
+      "sourceContext": "The ‘getting started’ problem is that we need to tell the machines what they’re looking for with sufficient clarity that we can be confident they will find it – whatever ‘it’ actually turns out to be.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hóa ra là"
+      },
+      "phase2Annotation": {
+        "phonetic": "/tɜːnz aʊt tuː biː/",
+        "sentiment": "neutral",
+        "definitionEN": "To prove to be the case; to be discovered to be.",
+        "translationVI": "Hóa ra là",
+        "relatedCollocates": [
+          {
+            "form": "proves to be",
+            "meaning": ""
+          },
+          {
+            "form": "is found to be",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "turn out",
+              "meaning": "hóa ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The mysterious noise turns out to be just the cat playing with a toy."
+      }
+    },
+    {
+      "id": "1761813618702-28-113-31372c8e",
+      "targetLexeme": "in favour of",
+      "sourceContext": "We might lose our freedom to discriminate in favour of our own communities...",
+      "phase1Inference": {
+        "contextualGuessVI": "Thiên vị, ủng hộ"
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪn ˈfeɪvər əv/",
+        "sentiment": "neutral",
+        "definitionEN": "To the advantage of; in support of.",
+        "translationVI": "Thiên vị, ủng hộ",
+        "relatedCollocates": [
+          {
+            "form": "in support of",
+            "meaning": ""
+          },
+          {
+            "form": "showing preference for",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "favour",
+              "meaning": "sự thiên vị"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The judge ruled in favour of the defendant."
+      }
+    },
+    {
+      "id": "1761813618702-28-114-36025aac",
+      "targetLexeme": "few of us",
+      "sourceContext": "...but few of us are likely to welcome such a future.",
+      "phase1Inference": {
+        "contextualGuessVI": "Rất ít người trong chúng ta"
+      },
+      "phase2Annotation": {
+        "phonetic": "/fjuː əv əs/",
+        "sentiment": "neutral",
+        "definitionEN": "Not many of us; a small number of our group.",
+        "translationVI": "Rất ít người trong chúng ta",
+        "relatedCollocates": [
+          {
+            "form": "not many people",
+            "meaning": ""
+          },
+          {
+            "form": "a minority of us",
+            "meaning": ""
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "few",
+              "meaning": "một vài, ít"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "",
+        "connotation": null,
+        "usageNotes": [],
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many people were invited, but few of us actually attended the event."
+      }
+    }
+  ],
+  "migrationInfo": {
+    "migratedAt": "2025-10-30T12:15:16.025Z",
+    "version": "2.1",
+    "originalCount": 115,
+    "migratedCount": 115,
+    "migrationType": "current-to-enhanced"
+  }
+}

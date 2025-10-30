@@ -23,13 +23,14 @@ import {
     CheckCircle2,
     Lightbulb,
     Pencil,
-    X
+    X,
+    Globe
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { PhoneticZoom } from "./phonetic-zoom";
 import { useGuessStore } from "./reading/hooks/useGuessStore";
 import { useSpeech } from "@/hooks/use-speech";
-import { type LexicalItem, type LegacyLexicalItem, isLegacyLexicalItem } from "./reading/utils/textProcessing";
+import { type LexicalItem, type LegacyLexicalItem, isLegacyLexicalItem, isCollocateArray, isUsageNoteArray, isConnotationArray, type CollocateObject, type UsageNoteObject, type ConnotationObject } from "@/types/lexical";
 
 interface LexicalItemProps {
     item: LexicalItem | LegacyLexicalItem;
@@ -48,6 +49,8 @@ export function LexicalItem({
 }: LexicalItemProps) {
     const [open, setOpen] = useState(false);
     const [revealLevel, setRevealLevel] = useState(0);
+    const [usageNotesLanguage, setUsageNotesLanguage] = useState<'en' | 'vi'>('en');
+    const [connotationLanguage, setConnotationLanguage] = useState<'en' | 'vi'>('en');
     const { getGuess, setGuess } = useGuessStore();
     const { isSpeaking, speak } = useSpeech({ rate: 0.8 });
 
@@ -62,6 +65,33 @@ export function LexicalItem({
         return data;
     };
 
+    const normalizeCollocates = (collocates?: CollocateObject[] | string[] | string): string[] => {
+        if (!collocates) return [];
+        if (typeof collocates === 'string') return [collocates];
+        if (isCollocateArray(collocates)) {
+            return collocates.map(c => c.form);
+        }
+        return collocates as string[];
+    };
+
+    const normalizeUsageNotes = (notes?: UsageNoteObject[] | string): UsageNoteObject[] => {
+        if (!notes) return [];
+        if (typeof notes === 'string') return [{ noteEN: notes, noteVI: '' }];
+        if (isUsageNoteArray(notes)) {
+            return notes;
+        }
+        return [{ noteEN: String(notes), noteVI: '' }];
+    };
+
+    const normalizeConnotation = (connotation?: ConnotationObject[] | string | null): ConnotationObject[] => {
+        if (!connotation) return [];
+        if (typeof connotation === 'string') return [{ noteEN: connotation, noteVI: '' }];
+        if (isConnotationArray(connotation)) {
+            return connotation;
+        }
+        return [];
+    };
+
     // Extract data
     const {
         targetLexeme,
@@ -74,12 +104,12 @@ export function LexicalItem({
     const sentiment = (phase2Annotation as any).sentiment;
     const definitionEN = (phase2Annotation as any).definitionEN;
     const translationVI = (phase2Annotation as any).translationVI;
-    const relatedCollocates = normalizeArray((phase2Annotation as any).relatedCollocates);
+    const relatedCollocates = normalizeCollocates((phase2Annotation as any).relatedCollocates);
     const wordForms = (phase2Annotation as any).wordForms;
     const register = (phase2Annotation as any).register;
-    const connotation = (phase2Annotation as any).connotation;
-    const usageNotes = (phase2Annotation as any).usageNotes;
-    const contrastingCollocates = normalizeArray((phase2Annotation as any).contrastingCollocates);
+    const connotation = normalizeConnotation((phase2Annotation as any).connotation);
+    const usageNotes = normalizeUsageNotes((phase2Annotation as any).usageNotes);
+    const contrastingCollocates = normalizeCollocates((phase2Annotation as any).contrastingCollocates);
 
     const itemId = getItemId(item);
     const formattedTranslation = translationVI.charAt(0).toLowerCase() + translationVI.slice(1);
@@ -370,7 +400,7 @@ export function LexicalItem({
                             /* Normal Mode Content */
                             <div className="space-y-3 sm:space-y-4">
                                 {/* Word Forms - Linear Layout */}
-                                {wordForms && wordForms.length > 0 && (
+                                {wordForms && (
                                     <div className={cn(
                                         "rounded-xl p-2 sm:p-4 border",
                                         theme === "sepia"
@@ -427,7 +457,7 @@ export function LexicalItem({
                                             <div className="flex items-center gap-2 mb-2 md:mb-3">
                                                 <Spline className="h-5 w-5 text-blue-600 dark:text-blue-400" />
                                                 <h3 className="font-semibold text-blue-900 dark:text-blue-300">
-                                                    Collocations
+                                                    Related Collocations
                                                 </h3>
                                                 {relatedCollocates.length > 0 && (
                                                     <span className="text-xs bg-blue-200 dark:bg-blue-800 text-blue-800 dark:text-blue-200 px-2 py-0.5 rounded-full">
@@ -435,20 +465,23 @@ export function LexicalItem({
                                                     </span>
                                                 )}
                                             </div>
-                                            <div className="flex flex-wrap gap-2">
+                                            <div className="space-y-3">
                                                 {relatedCollocates.length > 0 ? (
                                                     relatedCollocates.map((collocate, idx) => (
-                                                        <button
-                                                            key={idx}
-                                                            onClick={() => speakText(collocate)}
-                                                            className="group inline-flex items-center gap-1.5 px-3 py-2 bg-white dark:bg-blue-900/30 hover:bg-blue-100 dark:hover:bg-blue-800/50 text-blue-700 dark:text-blue-300 border border-blue-300 dark:border-blue-700 rounded-lg text-sm font-medium transition-all hover:shadow-md hover:scale-105"
-                                                        >
-                                                            <span >{collocate}</span>
-                                                            <Volume2 className="h-3 w-3 opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0" />
-                                                        </button>
+                                                        <div key={idx} className="flex items-center justify-between">
+                                                            <span className="text-sm text-blue-900 dark:text-blue-200 font-medium">
+                                                                {collocate}
+                                                            </span>
+                                                            <button
+                                                                onClick={() => speakText(collocate)}
+                                                                className="group p-1.5 bg-blue-100 dark:bg-blue-800/50 hover:bg-blue-200 dark:hover:bg-blue-700 rounded-lg transition-all"
+                                                            >
+                                                                <Volume2 className="h-3 w-3 text-blue-700 dark:text-blue-300" />
+                                                            </button>
+                                                        </div>
                                                     ))
                                                 ) : (
-                                                    <p className="text-sm text-blue-700 dark:text-blue-300 italic">No collocations available</p>
+                                                    <p className="text-sm text-blue-700 dark:text-blue-300 italic">No related collocations available</p>
                                                 )}
                                             </div>
                                         </div>
@@ -465,7 +498,7 @@ export function LexicalItem({
                                             <div className="flex items-center gap-2 mb-2 md:mb-3">
                                                 <FlipHorizontal className="h-5 w-5 text-rose-600 dark:text-rose-400" />
                                                 <h3 className="font-semibold text-rose-900 dark:text-rose-300">
-                                                    Contrasting Phrases
+                                                    Contrasting Collocations
                                                 </h3>
                                                 {contrastingCollocates.length > 0 && (
                                                     <span className="text-xs bg-rose-200 dark:bg-rose-800 text-rose-800 dark:text-rose-200 px-2 py-0.5 rounded-full">
@@ -473,20 +506,23 @@ export function LexicalItem({
                                                     </span>
                                                 )}
                                             </div>
-                                            <div className="flex flex-wrap gap-2">
+                                            <div className="space-y-3">
                                                 {contrastingCollocates.length > 0 ? (
                                                     contrastingCollocates.map((collocate, idx) => (
-                                                        <button
-                                                            key={idx}
-                                                            onClick={() => speakText(collocate)}
-                                                            className="group inline-flex items-center gap-1.5 px-3 py-2 bg-white dark:bg-rose-900/30 hover:bg-rose-100 dark:hover:bg-rose-800/50 text-rose-700 dark:text-rose-300 border border-rose-300 dark:border-rose-700 rounded-lg text-sm font-medium transition-all hover:shadow-md hover:scale-105"
-                                                        >
-                                                            <span >{collocate}</span>
-                                                            <Volume2 className="h-3 w-3 opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0" />
-                                                        </button>
+                                                        <div key={idx} className="flex items-center justify-between">
+                                                            <span className="text-sm text-rose-900 dark:text-rose-200 font-medium">
+                                                                {collocate}
+                                                            </span>
+                                                            <button
+                                                                onClick={() => speakText(collocate)}
+                                                                className="group p-1.5 bg-rose-100 dark:bg-rose-800/50 hover:bg-rose-200 dark:hover:bg-rose-700 rounded-lg transition-all"
+                                                            >
+                                                                <Volume2 className="h-3 w-3 text-rose-700 dark:text-rose-300" />
+                                                            </button>
+                                                        </div>
                                                     ))
                                                 ) : (
-                                                    <p className="text-sm text-rose-700 dark:text-rose-300 italic">No contrasting phrases available</p>
+                                                    <p className="text-sm text-rose-700 dark:text-rose-300 italic">No contrasting collocations available</p>
                                                 )}
                                             </div>
                                         </div>
@@ -496,7 +532,7 @@ export function LexicalItem({
                                 {/* Usage Notes and Connotation - 2 Columns */}
                                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                                     {/* Usage Notes */}
-                                    {usageNotes && (
+                                    {usageNotes && usageNotes.length > 0 && (
                                         <div className={cn(
                                             "rounded-xl p-2 sm:p-4 border",
                                             theme === "sepia"
@@ -505,13 +541,50 @@ export function LexicalItem({
                                                     ? "bg-emerald-50 border-emerald-200"
                                                     : "bg-emerald-950/30 border-emerald-800"
                                         )}>
-                                            <div className="flex items-center gap-2 mb-2 md:mb-3">
-                                                <Lightbulb className="h-5 w-5 text-emerald-600 dark:text-emerald-400" />
-                                                <h3 className="font-semibold text-emerald-900 dark:text-emerald-300">Usage Notes</h3>
+                                            <div className="flex items-center justify-between mb-2 md:mb-3">
+                                                <div className="flex items-center gap-2">
+                                                    <Lightbulb className="h-5 w-5 text-emerald-600 dark:text-emerald-400" />
+                                                    <h3 className="font-semibold text-emerald-900 dark:text-emerald-300">
+                                                        Usage Notes
+                                                        {usageNotes.length > 1 && (
+                                                            <span className="ml-2 text-xs bg-emerald-200 dark:bg-emerald-800 text-emerald-800 dark:text-emerald-200 px-2 py-0.5 rounded-full">
+                                                                {usageNotes.length}
+                                                            </span>
+                                                        )}
+                                                    </h3>
+                                                </div>
+                                                <div className="flex items-center gap-1">
+                                                    <button
+                                                        onClick={() => setUsageNotesLanguage('en')}
+                                                        className={cn(
+                                                            "px-2 py-1 text-xs font-medium rounded transition-colors",
+                                                            usageNotesLanguage === 'en'
+                                                                ? "bg-emerald-600 text-white"
+                                                                : "bg-emerald-200 text-emerald-700 hover:bg-emerald-300"
+                                                        )}
+                                                    >
+                                                        EN
+                                                    </button>
+                                                    <button
+                                                        onClick={() => setUsageNotesLanguage('vi')}
+                                                        className={cn(
+                                                            "px-2 py-1 text-xs font-medium rounded transition-colors",
+                                                            usageNotesLanguage === 'vi'
+                                                                ? "bg-emerald-600 text-white"
+                                                                : "bg-emerald-200 text-emerald-700 hover:bg-emerald-300"
+                                                        )}
+                                                    >
+                                                        VI
+                                                    </button>
+                                                </div>
                                             </div>
-                                            <p className="text-sm leading-relaxed text-emerald-900 dark:text-emerald-200">
-                                                {usageNotes}
-                                            </p>
+                                            <div className="space-y-2">
+                                                {usageNotes.map((note, idx) => (
+                                                    <p key={idx} className="text-sm leading-relaxed text-emerald-900 dark:text-emerald-200">
+                                                        {usageNotesLanguage === 'en' ? note.noteEN : note.noteVI}
+                                                    </p>
+                                                ))}
+                                            </div>
                                         </div>
                                     )}
 
@@ -525,11 +598,41 @@ export function LexicalItem({
                                                     ? "bg-indigo-50 border-indigo-200"
                                                     : "bg-indigo-950/30 border-indigo-800"
                                         )}>
-                                            <div className="flex items-center gap-2 mb-2 md:mb-3">
-                                                <Sparkles className="h-5 w-5 text-indigo-600 dark:text-indigo-400" />
-                                                <h3 className="font-semibold text-indigo-900 dark:text-indigo-300">Connotation</h3>
+                                            <div className="flex items-center justify-between mb-2 md:mb-3">
+                                                <div className="flex items-center gap-2">
+                                                    <Sparkles className="h-5 w-5 text-indigo-600 dark:text-indigo-400" />
+                                                    <h3 className="font-semibold text-indigo-900 dark:text-indigo-300">Connotation</h3>
+                                                </div>
+                                                <div className="flex items-center gap-1">
+                                                    <button
+                                                        onClick={() => setConnotationLanguage('en')}
+                                                        className={cn(
+                                                            "px-2 py-1 text-xs font-medium rounded transition-colors",
+                                                            connotationLanguage === 'en'
+                                                                ? "bg-indigo-600 text-white"
+                                                                : "bg-indigo-200 text-indigo-700 hover:bg-indigo-300"
+                                                        )}
+                                                    >
+                                                        EN
+                                                    </button>
+                                                    <button
+                                                        onClick={() => setConnotationLanguage('vi')}
+                                                        className={cn(
+                                                            "px-2 py-1 text-xs font-medium rounded transition-colors",
+                                                            connotationLanguage === 'vi'
+                                                                ? "bg-indigo-600 text-white"
+                                                                : "bg-indigo-200 text-indigo-700 hover:bg-indigo-300"
+                                                        )}
+                                                    >
+                                                        VI
+                                                    </button>
+                                                </div>
                                             </div>
-                                            <p className="text-sm leading-relaxed text-indigo-900 dark:text-indigo-200">{connotation}</p>
+                                            {connotation.map((note, index) => (
+                                                <p key={index} className="text-sm leading-relaxed text-indigo-900 dark:text-indigo-200">
+                                                    {connotationLanguage === 'en' ? note.noteEN : note.noteVI}
+                                                </p>
+                                            ))}
                                         </div>
                                     )}
 

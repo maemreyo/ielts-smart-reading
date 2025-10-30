@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef } from "react";
 import { Card } from "@/components/ui/card";
-import { type LexicalItem } from "../reading/utils/textProcessing";
+import { type LexicalItem } from "@/types/lexical";
 import { AudioEffectsManager } from "./audio/AudioEffects";
 import { generateCardPattern, selectPattern, type DrillingInstance, type IntensityPhase } from "./patterns/CardPatternGenerator";
 import { Target, Badge, Volume2, ArrowLeft } from "lucide-react";

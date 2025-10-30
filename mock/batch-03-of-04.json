@@ -1,0 +1,1592 @@
+{
+    "batchInfo": {
+        "filename": "batch-03-of-04.json",
+        "batchNumber": 3,
+        "totalBatches": 4,
+        "itemCount": 30,
+        "createdFromMaster": "master-vocabulary.json"
+    },
+    "items": [
+        {
+            "id": "1761816705417",
+            "targetLexeme": "rapeseed",
+            "sourceContext": "Oil palm plantations produce at least four and potentially up to ten times more oil per hectare than rapeseed, soya beans or sunflowers.",
+            "phase1Inference": {
+                "contextualGuessVI": "Dựa vào ngữ cảnh so sánh với 'soya beans' (đậu nành) và 'sunflowers' (hướng dương) là các loại cây cho dầu, 'rapeseed' có lẽ là một loại cây có hạt dùng để ép dầu."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈreɪp.siːd/",
+                "sentiment": "neutral",
+                "definitionEN": "A bright-yellow flowering plant of the cabbage family, cultivated mainly for its oil-rich seed.",
+                "translationVI": "Cây cải dầu",
+                "relatedCollocates": [
+                    {
+                        "form": "canola",
+                        "meaning": "Một loại cây cải dầu được lai tạo đặc biệt để có hàm lượng axit erucic thấp, an toàn cho người tiêu dùng."
+                    },
+                    {
+                        "form": "oilseed crop",
+                        "meaning": "Cây trồng lấy dầu"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "rapeseed",
+                            "meaning": "Cây cải dầu, hạt cải dầu"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Agricultural, industrial",
+                        "connotationVI": "Thuộc về nông nghiệp, công nghiệp"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "In North America, oil from a specific type of rapeseed is called 'canola oil' and is more common for cooking than 'rapeseed oil'.",
+                        "noteVI": "Ở Bắc Mỹ, dầu từ một loại cải dầu cụ thể được gọi là 'dầu canola' và phổ biến trong nấu ăn hơn là 'dầu hạt cải'."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Rapeseed oil is not only used for cooking but also for producing biodiesel fuel."
+            }
+        },
+        {
+            "id": "1761816716361",
+            "targetLexeme": "immensely high yield",
+            "sourceContext": "That immensely high yield – which is predominantly what makes it so profitable – is potentially also an ecological benefit.",
+            "phase1Inference": {
+                "contextualGuessVI": "Năng suất cực kỳ cao. 'Immensely' có nghĩa là 'vô cùng', 'high yield' là 'năng suất cao'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ɪˈmensli haɪ jiːld/",
+                "sentiment": "positive",
+                "definitionEN": "An extremely large amount of a product (such as a crop) that is produced.",
+                "translationVI": "Năng suất/sản lượng cực kỳ cao",
+                "relatedCollocates": [
+                    {
+                        "form": "massive output",
+                        "meaning": "Sản lượng khổng lồ"
+                    },
+                    {
+                        "form": "exceptional productivity",
+                        "meaning": "Năng suất vượt trội"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Economic, agricultural",
+                        "connotationVI": "Thuộc về kinh tế, nông nghiệp"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "'Immensely' is a strong intensifier used to emphasize the very large scale of the yield.",
+                        "noteVI": "'Immensely' là một từ nhấn mạnh được dùng để chỉ mức độ rất lớn của sản lượng."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "low yield",
+                        "meaning": "Năng suất thấp"
+                    },
+                    {
+                        "form": "poor harvest",
+                        "meaning": "Vụ mùa thất bát"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The new irrigation system led to an immensely high yield, doubling the farm's profits."
+            }
+        },
+        {
+            "id": "1761816722248",
+            "targetLexeme": "predominantly",
+            "sourceContext": "That immensely high yield – which is predominantly what makes it so profitable – is potentially also an ecological benefit.",
+            "phase1Inference": {
+                "contextualGuessVI": "Chủ yếu, phần lớn. Câu này có nghĩa năng suất cao là lý do 'chủ yếu' khiến nó sinh lời."
+            },
+            "phase2Annotation": {
+                "phonetic": "/prɪˈdɒm.ɪ.nənt.li/",
+                "sentiment": "neutral",
+                "definitionEN": "Mainly; for the most part.",
+                "translationVI": "Chủ yếu, phần lớn, phần đông",
+                "relatedCollocates": [
+                    {
+                        "form": "mainly",
+                        "meaning": "chủ yếu"
+                    },
+                    {
+                        "form": "largely",
+                        "meaning": "phần lớn"
+                    },
+                    {
+                        "form": "primarily",
+                        "meaning": "chủ yếu, trước hết"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "predominance",
+                            "meaning": "sự chiếm ưu thế, sự vượt trội"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "predominate",
+                            "meaning": "chiếm ưu thế, trội hơn"
+                        }
+                    ],
+                    "adjective": [
+                        {
+                            "form": "predominant",
+                            "meaning": "chiếm ưu thế, trội hơn"
+                        }
+                    ],
+                    "adverb": [
+                        {
+                            "form": "predominantly",
+                            "meaning": "một cách chủ yếu, phần lớn"
+                        }
+                    ]
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Analytical, descriptive",
+                        "connotationVI": "Mang tính phân tích, mô tả"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "Used to highlight the most important or common element among others.",
+                        "noteVI": "Dùng để nhấn mạnh yếu tố quan trọng nhất hoặc phổ biến nhất trong số các yếu tố khác."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "partially",
+                        "meaning": "một phần"
+                    },
+                    {
+                        "form": "minorly",
+                        "meaning": "không đáng kể"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The workforce in this industry is predominantly male, but the number of female engineers is growing."
+            }
+        },
+        {
+            "id": "1761816728886",
+            "targetLexeme": "an ecological benefit",
+            "sourceContext": "That immensely high yield – which is predominantly what makes it so profitable – is potentially also an ecological benefit.",
+            "phase1Inference": {
+                "contextualGuessVI": "Một lợi ích về mặt sinh thái. 'Ecological' liên quan đến sinh thái, 'benefit' là lợi ích."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ən ˌiː.kəˈlɒdʒ.ɪ.kəl ˈben.ɪ.fɪt/",
+                "sentiment": "positive",
+                "definitionEN": "An advantage or positive effect relating to the environment and the way that plants, animals, and people are related to each other and to their environment.",
+                "translationVI": "Một lợi ích về mặt sinh thái",
+                "relatedCollocates": [
+                    {
+                        "form": "an environmental advantage",
+                        "meaning": "Một lợi thế về môi trường"
+                    },
+                    {
+                        "form": "a positive impact on the ecosystem",
+                        "meaning": "Một tác động tích cực đến hệ sinh thái"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Scientific, environmentalism",
+                        "connotationVI": "Khoa học, chủ nghĩa môi trường"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": [
+                    {
+                        "form": "an ecological harm",
+                        "meaning": "Một tác hại về mặt sinh thái"
+                    },
+                    {
+                        "form": "environmental damage",
+                        "meaning": "Thiệt hại môi trường"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Creating green spaces in cities offers a significant ecological benefit by supporting local wildlife."
+            }
+        },
+        {
+            "id": "1761816744977",
+            "targetLexeme": "a patch of land",
+            "sourceContext": "If ten times more palm oil can be produced from a patch of land than any competing oil, then this potentially frees up land for other uses...",
+            "phase1Inference": {
+                "contextualGuessVI": "Một mảnh đất, một khoảnh đất."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ə pætʃ əv lænd/",
+                "sentiment": "neutral",
+                "definitionEN": "A small area of land.",
+                "translationVI": "Một mảnh đất, một khoảnh đất",
+                "relatedCollocates": [
+                    {
+                        "form": "a plot of land",
+                        "meaning": "Một lô đất"
+                    },
+                    {
+                        "form": "a parcel of land",
+                        "meaning": "Một thửa đất"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Often implies a small or specific area.",
+                        "connotationVI": "Thường ngụ ý một khu vực nhỏ hoặc cụ thể."
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": [
+                    {
+                        "form": "a vast expanse of land",
+                        "meaning": "Một vùng đất rộng lớn"
+                    },
+                    {
+                        "form": "a large territory",
+                        "meaning": "Một lãnh thổ rộng lớn"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "My grandfather owns a small patch of land where he grows his own vegetables."
+            }
+        },
+        {
+            "id": "1761816759704",
+            "targetLexeme": "As for the question",
+            "sourceContext": "As for the question of carbon emissions, the issue is not so clear-cut.",
+            "phase1Inference": {
+                "contextualGuessVI": "Về câu hỏi, về vấn đề. Đây là cụm từ dùng để chuyển sang một chủ đề mới."
+            },
+            "phase2Annotation": {
+                "phonetic": "/æz fɔː ðə ˈkwes.tʃən/",
+                "sentiment": "neutral",
+                "definitionEN": "A phrase used to introduce a new topic or to shift the focus of the conversation to a specific point or question.",
+                "translationVI": "Về câu hỏi/vấn đề...",
+                "relatedCollocates": [
+                    {
+                        "form": "Regarding the issue of...",
+                        "meaning": "Liên quan đến vấn đề..."
+                    },
+                    {
+                        "form": "In terms of...",
+                        "meaning": "Xét về mặt..."
+                    },
+                    {
+                        "form": "With respect to...",
+                        "meaning": "Đối với..."
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Discourse marker, topic shifter",
+                        "connotationVI": "Dấu hiệu diễn ngôn, chuyển chủ đề"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "It's a useful way to structure an argument or response by addressing different points one by one.",
+                        "noteVI": "Đây là một cách hữu ích để cấu trúc một lập luận hoặc câu trả lời bằng cách giải quyết từng điểm một."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "We have finalized the budget. As for the question of the project deadline, we still need to discuss it."
+            }
+        },
+        {
+            "id": "1761816762274",
+            "targetLexeme": "carbon emissions",
+            "sourceContext": "As for the question of carbon emissions, the issue is not so clear-cut.",
+            "phase1Inference": {
+                "contextualGuessVI": "Khí thải carbon. 'Carbon' là carbon, 'emission' là sự phát thải."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈkɑː.bən ɪˌmɪʃ.ənz/",
+                "sentiment": "negative",
+                "definitionEN": "The release of carbon dioxide and other carbon compounds into the atmosphere, which is believed to contribute to global warming.",
+                "translationVI": "Khí thải carbon",
+                "relatedCollocates": [
+                    {
+                        "form": "greenhouse gases",
+                        "meaning": "Khí nhà kính"
+                    },
+                    {
+                        "form": "CO2 footprint",
+                        "meaning": "Dấu chân carbon"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Environmental, climate change",
+                        "connotationVI": "Thuộc về môi trường, biến đổi khí hậu"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": [
+                    {
+                        "form": "carbon capture",
+                        "meaning": "Thu giữ carbon"
+                    },
+                    {
+                        "form": "carbon sequestration",
+                        "meaning": "Cô lập carbon"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The government has implemented new policies to reduce industrial carbon emissions."
+            }
+        },
+        {
+            "id": "1761816794416",
+            "targetLexeme": "vary in the degree to which",
+            "sourceContext": "Crops vary in the degree to which they sequester carbon – in other words, the amount of carbon they capture from the atmosphere.",
+            "phase1Inference": {
+                "contextualGuessVI": "Khác nhau về mức độ mà chúng... 'Vary' là khác nhau, 'degree' là mức độ."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈveə.ri ɪn ðə dɪˈɡriː tuː wɪtʃ/",
+                "sentiment": "neutral",
+                "definitionEN": "To differ in the extent or amount of a particular quality or action.",
+                "translationVI": "Khác nhau về mức độ mà",
+                "relatedCollocates": [
+                    {
+                        "form": "differ in the extent to which",
+                        "meaning": "Khác nhau về phạm vi mà"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Analytical, comparative",
+                        "connotationVI": "Mang tính phân tích, so sánh"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "This is a formal structure used to specify the exact aspect in which things differ.",
+                        "noteVI": "Đây là một cấu trúc trang trọng được sử dụng để chỉ rõ khía cạnh chính xác mà mọi thứ khác nhau."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "are consistent in",
+                        "meaning": "nhất quán trong việc"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Students vary in the degree to which they are motivated by exams."
+            }
+        },
+        {
+            "id": "1761816800061",
+            "targetLexeme": "sequester carbon",
+            "sourceContext": "Crops vary in the degree to which they sequester carbon – in other words, the amount of carbon they capture from the atmosphere.",
+            "phase1Inference": {
+                "contextualGuessVI": "Cô lập, thu giữ carbon. Câu sau giải thích là 'capture from the atmosphere' (thu giữ từ khí quyển)."
+            },
+            "phase2Annotation": {
+                "phonetic": "/sɪˈkwes.tə ˈkɑː.bən/",
+                "sentiment": "positive",
+                "definitionEN": "To capture and store atmospheric carbon dioxide as a way of reducing the amount of carbon in the atmosphere.",
+                "translationVI": "Cô lập carbon, hấp thụ carbon",
+                "relatedCollocates": [
+                    {
+                        "form": "capture carbon",
+                        "meaning": "Thu giữ carbon"
+                    },
+                    {
+                        "form": "carbon sink",
+                        "meaning": "Bể chứa carbon (ví dụ: rừng, đại dương)"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "carbon sequestration",
+                            "meaning": "Sự cô lập carbon"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Scientific, environmental solution",
+                        "connotationVI": "Khoa học, giải pháp môi trường"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": [
+                    {
+                        "form": "release carbon",
+                        "meaning": "Thải carbon"
+                    },
+                    {
+                        "form": "emit carbon",
+                        "meaning": "Phát thải carbon"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Oceans and forests are natural systems that sequester carbon on a massive scale."
+            }
+        },
+        {
+            "id": "1761816804650",
+            "targetLexeme": "in other words",
+            "sourceContext": "Crops vary in the degree to which they sequester carbon – in other words, the amount of carbon they capture from the atmosphere.",
+            "phase1Inference": {
+                "contextualGuessVI": "Nói cách khác. Cụm từ này dùng để giải thích lại ý vừa nói."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ɪn ˈʌð.ə wɜːdz/",
+                "sentiment": "neutral",
+                "definitionEN": "Used to introduce a statement that repeats what has just been said, but in a different, usually simpler, way.",
+                "translationVI": "Nói cách khác",
+                "relatedCollocates": [
+                    {
+                        "form": "that is to say",
+                        "meaning": "tức là"
+                    },
+                    {
+                        "form": "to put it another way",
+                        "meaning": "nói theo cách khác"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Clarifying, explanatory",
+                        "connotationVI": "Làm rõ, giải thích"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The system is failing to meet its objectives; in other words, it doesn't work."
+            }
+        },
+        {
+            "id": "1761816812397",
+            "targetLexeme": "capture from",
+            "sourceContext": "Crops vary in the degree to which they sequester carbon – in other words, the amount of carbon they capture from the atmosphere.",
+            "phase1Inference": {
+                "contextualGuessVI": "Thu giữ từ, lấy từ. Đây là hành động lấy carbon từ khí quyển."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈkæp.tʃə frɒm/",
+                "sentiment": "neutral",
+                "definitionEN": "To take something from a particular place or source, often by using skill or force.",
+                "translationVI": "Thu giữ từ, bắt giữ từ",
+                "relatedCollocates": [
+                    {
+                        "form": "extract from",
+                        "meaning": "Chiết xuất từ"
+                    },
+                    {
+                        "form": "absorb from",
+                        "meaning": "Hấp thụ từ"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Scientific, active process",
+                        "connotationVI": "Khoa học, quá trình chủ động"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": [
+                    {
+                        "form": "release into",
+                        "meaning": "Thải vào"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Solar panels are designed to capture energy from sunlight."
+            }
+        },
+        {
+            "id": "1761816815916",
+            "targetLexeme": "atmosphere",
+            "sourceContext": "Crops vary in the degree to which they sequester carbon – in other words, the amount of carbon they capture from the atmosphere.",
+            "phase1Inference": {
+                "contextualGuessVI": "Bầu khí quyển."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈæt.mə.sfɪər/",
+                "sentiment": "neutral",
+                "definitionEN": "The mixture of gases that surrounds the Earth or another planet.",
+                "translationVI": "Bầu khí quyển",
+                "relatedCollocates": [
+                    {
+                        "form": "air",
+                        "meaning": "Không khí"
+                    },
+                    {
+                        "form": "sky",
+                        "meaning": "Bầu trời"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "atmosphere",
+                            "meaning": "bầu khí quyển, không khí"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "atmospheric",
+                            "meaning": "thuộc về khí quyển"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [],
+                "usageNotes": [
+                    {
+                        "noteEN": "Can also refer to the mood or feeling of a place, e.g., 'a festive atmosphere'.",
+                        "noteVI": "Cũng có thể chỉ tâm trạng hoặc cảm giác của một nơi, ví dụ: 'không khí lễ hội'."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Pollutants released into the atmosphere can travel long distances."
+            }
+        },
+        {
+            "id": "1761816868396",
+            "targetLexeme": "The more carbon a plant sequesters, the more it reduces",
+            "sourceContext": "The more carbon a plant sequesters, the more it reduces the effect of climate change.",
+            "phase1Inference": {
+                "contextualGuessVI": "Cây càng hấp thụ nhiều carbon, thì nó càng làm giảm... Đây là cấu trúc so sánh kép 'càng... càng...'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ðə mɔː ˈkɑː.bən ə plɑːnt sɪˈkwes.təz, ðə mɔːr ɪt rɪˈdʒuː.sɪz/",
+                "sentiment": "positive",
+                "definitionEN": "A comparative correlative structure indicating a direct relationship: as the amount of carbon stored by a plant increases, the amount of reduction also increases.",
+                "translationVI": "Cây càng cô lập nhiều carbon, thì nó càng làm giảm",
+                "relatedCollocates": [],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Cause-and-effect, scientific principle",
+                        "connotationVI": "Nguyên nhân-kết quả, nguyên lý khoa học"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "The 'the + comparative, the + comparative' structure is common for showing that two things change together.",
+                        "noteVI": "Cấu trúc 'the + so sánh hơn, the + so sánh hơn' rất phổ biến để diễn tả hai sự việc thay đổi cùng nhau."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "The less... the less...",
+                        "meaning": "Càng ít... thì càng ít..."
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The more you practice, the more you improve your skills."
+            }
+        },
+        {
+            "id": "1761816884845",
+            "targetLexeme": "cutting down",
+            "sourceContext": "[...] Of course, if you're cutting down virgin forest it's terrible – that's what's happening in Indonesia and Malaysia...",
+            "phase1Inference": {
+                "contextualGuessVI": "Chặt hạ, đốn hạ. 'Cutting down forest' là chặt phá rừng."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈkʌt.ɪŋ daʊn/",
+                "sentiment": "negative",
+                "definitionEN": "To make a tree or other plant fall to the ground by cutting it near the base.",
+                "translationVI": "Chặt hạ, đốn hạ",
+                "relatedCollocates": [
+                    {
+                        "form": "felling trees",
+                        "meaning": "Đốn cây"
+                    },
+                    {
+                        "form": "logging",
+                        "meaning": "Khai thác gỗ"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Destruction, deforestation",
+                        "connotationVI": "Sự phá hủy, nạn phá rừng"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "Can also mean 'reducing the amount of something', e.g., 'cutting down on expenses'.",
+                        "noteVI": "Cũng có thể có nghĩa là 'giảm lượng của một thứ gì đó', ví dụ: 'cắt giảm chi tiêu'."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "planting trees",
+                        "meaning": "Trồng cây"
+                    },
+                    {
+                        "form": "reforestation",
+                        "meaning": "Tái trồng rừng"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "They were fined for cutting down trees in a protected area."
+            }
+        },
+        {
+            "id": "1761816887174",
+            "targetLexeme": "virgin forest",
+            "sourceContext": "[...] Of course, if you're cutting down virgin forest it's terrible – that's what's happening in Indonesia and Malaysia...",
+            "phase1Inference": {
+                "contextualGuessVI": "Rừng nguyên sinh. 'Virgin' có nghĩa là nguyên sơ, chưa bị tác động."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈvɜː.dʒɪn ˈfɒr.ɪst/",
+                "sentiment": "positive",
+                "definitionEN": "A forest that is in its natural state and has not been disturbed or changed by human activity.",
+                "translationVI": "Rừng nguyên sinh",
+                "relatedCollocates": [
+                    {
+                        "form": "primary forest",
+                        "meaning": "Rừng nguyên sinh"
+                    },
+                    {
+                        "form": "old-growth forest",
+                        "meaning": "Rừng già"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Pristine, untouched, ecologically valuable",
+                        "connotationVI": "Nguyên sơ, chưa bị tác động, có giá trị sinh thái"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": [
+                    {
+                        "form": "secondary forest",
+                        "meaning": "Rừng thứ sinh"
+                    },
+                    {
+                        "form": "plantation",
+                        "meaning": "Rừng trồng"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The Amazon is home to the world's largest remaining virgin forest."
+            }
+        },
+        {
+            "id": "1761816894531",
+            "targetLexeme": "allowed to",
+            "sourceContext": "Only once these requirements are fully satisfied is the oil allowed to be sold as certified sustainable palm oil.",
+            "phase1Inference": {
+                "contextualGuessVI": "Được phép làm gì đó."
+            },
+            "phase2Annotation": {
+                "phonetic": "/əˈlaʊd tuː/",
+                "sentiment": "neutral",
+                "definitionEN": "Given permission or the opportunity to do something.",
+                "translationVI": "Được phép (làm gì)",
+                "relatedCollocates": [
+                    {
+                        "form": "permitted to",
+                        "meaning": "Được cho phép"
+                    },
+                    {
+                        "form": "authorized to",
+                        "meaning": "Được ủy quyền"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Permission, regulation",
+                        "connotationVI": "Sự cho phép, quy định"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "This is the passive form of the verb 'allow'.",
+                        "noteVI": "Đây là dạng bị động của động từ 'allow'."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "forbidden to",
+                        "meaning": "Bị cấm"
+                    },
+                    {
+                        "form": "prohibited from",
+                        "meaning": "Bị ngăn cấm"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Children are not allowed to watch this movie without parental guidance."
+            }
+        },
+        {
+            "id": "1761816897876",
+            "targetLexeme": "get out of hand",
+            "sourceContext": "...that's what's happening in Indonesia and Malaysia, where it's not allowed to get out of hand.",
+            "phase1Inference": {
+                "contextualGuessVI": "Vượt khỏi tầm kiểm soát. 'Out of hand' nghĩa là không thể kiểm soát được nữa."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ɡet aʊt əv hænd/",
+                "sentiment": "negative",
+                "definitionEN": "To become difficult or impossible to control.",
+                "translationVI": "Vượt khỏi tầm kiểm soát",
+                "relatedCollocates": [
+                    {
+                        "form": "get out of control",
+                        "meaning": "Mất kiểm soát"
+                    },
+                    {
+                        "form": "spiral out of control",
+                        "meaning": "Vượt khỏi tầm kiểm soát một cách nhanh chóng"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "informal",
+                "connotation": [
+                    {
+                        "connotationEN": "Chaos, disorder",
+                        "connotationVI": "Sự hỗn loạn, mất trật tự"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": [
+                    {
+                        "form": "be under control",
+                        "meaning": "Trong tầm kiểm soát"
+                    },
+                    {
+                        "form": "be managed",
+                        "meaning": "Được quản lý"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The party started to get out of hand after midnight."
+            }
+        },
+        {
+            "id": "1761816908638",
+            "targetLexeme": "regulated by",
+            "sourceContext": "But if it's replacing rice, for example, it might actually sequester more carbon.'The industry is now regulated by the Roundtable on Sustainable Palm Oil (RSPO)...",
+            "phase1Inference": {
+                "contextualGuessVI": "Được quản lý/điều chỉnh bởi. 'Regulate' là quản lý, điều tiết."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈreɡ.jə.leɪ.tɪd baɪ/",
+                "sentiment": "neutral",
+                "definitionEN": "Controlled or managed according to a particular set of rules or by a specific authority.",
+                "translationVI": "Được quản lý bởi, được quy định bởi",
+                "relatedCollocates": [
+                    {
+                        "form": "governed by",
+                        "meaning": "Được quản trị bởi"
+                    },
+                    {
+                        "form": "controlled by",
+                        "meaning": "Được kiểm soát bởi"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "regulation",
+                            "meaning": "quy định"
+                        },
+                        {
+                            "form": "regulator",
+                            "meaning": "cơ quan quản lý, người quản lý"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "regulate",
+                            "meaning": "quản lý, điều chỉnh"
+                        }
+                    ],
+                    "adjective": [
+                        {
+                            "form": "regulatory",
+                            "meaning": "thuộc về quản lý, quy định"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Official, legal, authoritative",
+                        "connotationVI": "Chính thức, pháp lý, có thẩm quyền"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": [
+                    {
+                        "form": "unregulated",
+                        "meaning": "Không được quản lý"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The use of certain chemicals in food production is strictly regulated by the government."
+            }
+        },
+        {
+            "id": "1761816915119",
+            "targetLexeme": "the Roundtable on Sustainable Palm Oil (RSPO)",
+            "sourceContext": "The industry is now regulated by the Roundtable on Sustainable Palm Oil (RSPO), a body consisting of palm oil producers, retailers, investors and conservation groups.",
+            "phase1Inference": {
+                "contextualGuessVI": "Đây là tên một tổ chức, có lẽ là 'Hội nghị Bàn tròn về Dầu cọ Bền vững'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ðə ˈraʊndˌteɪ.bəl ɒn səsˈteɪ.nə.bəl pɑːm ɔɪl/",
+                "sentiment": "neutral",
+                "definitionEN": "A global multi-stakeholder initiative that aims to promote the growth and use of sustainable palm oil products through credible global standards and engagement of stakeholders.",
+                "translationVI": "Hội nghị Bàn tròn về Dầu cọ Bền vững (RSPO)",
+                "relatedCollocates": [
+                    {
+                        "form": "certification body",
+                        "meaning": "Tổ chức chứng nhận"
+                    },
+                    {
+                        "form": "sustainability standard",
+                        "meaning": "Tiêu chuẩn bền vững"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Sustainability, certification, industry standard",
+                        "connotationVI": "Bền vững, chứng nhận, tiêu chuẩn ngành"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Many major food companies have committed to using only palm oil certified by the RSPO."
+            }
+        },
+        {
+            "id": "1761816918372",
+            "targetLexeme": "consisting of",
+            "sourceContext": "The industry is now regulated by the Roundtable on Sustainable Palm Oil (RSPO), a body consisting of palm oil producers, retailers, investors and conservation groups.",
+            "phase1Inference": {
+                "contextualGuessVI": "Bao gồm, gồm có. Dùng để liệt kê các thành phần của 'a body' (một cơ quan)."
+            },
+            "phase2Annotation": {
+                "phonetic": "/kənˈsɪs.tɪŋ əv/",
+                "sentiment": "neutral",
+                "definitionEN": "To be made of or formed from something.",
+                "translationVI": "Bao gồm, gồm có",
+                "relatedCollocates": [
+                    {
+                        "form": "comprising",
+                        "meaning": "bao gồm"
+                    },
+                    {
+                        "form": "made up of",
+                        "meaning": "được tạo thành từ"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [
+                        {
+                            "form": "consist of",
+                            "meaning": "bao gồm"
+                        }
+                    ],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Compositional, descriptive",
+                        "connotationVI": "Mang tính cấu thành, mô tả"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "Used to list the parts that form a whole. It is a common error to say 'consists of of'.",
+                        "noteVI": "Dùng để liệt kê các bộ phận tạo nên một tổng thể. Một lỗi phổ biến là nói 'consists of of'."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The team, consisting of scientists from three different countries, published their findings today."
+            }
+        },
+        {
+            "id": "1761816934081",
+            "targetLexeme": "Over the past decade or so",
+            "sourceContext": "Over the past decade or so, an agreement has gradually been reached regarding standards that producers of palm oil must meet...",
+            "phase1Inference": {
+                "contextualGuessVI": "Trong khoảng một thập kỷ qua. 'Decade' là thập kỷ, 'or so' là 'khoảng'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈəʊ.və ðə pɑːst ˈdek.eɪd ɔː səʊ/",
+                "sentiment": "neutral",
+                "definitionEN": "During the period of approximately the last ten years.",
+                "translationVI": "Trong khoảng một thập kỷ qua",
+                "relatedCollocates": [
+                    {
+                        "form": "in the last ten years or so",
+                        "meaning": "Trong khoảng mười năm gần đây"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "neutral",
+                "connotation": [
+                    {
+                        "connotationEN": "Recent history, trend",
+                        "connotationVI": "Lịch sử gần đây, xu hướng"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "The phrase 'or so' adds a degree of approximation, making the time frame less exact.",
+                        "noteVI": "Cụm từ 'or so' thêm vào một mức độ ước chừng, làm cho khung thời gian kém chính xác hơn."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "in the distant past",
+                        "meaning": "Trong quá khứ xa xôi"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Over the past decade or so, online shopping has become incredibly popular."
+            }
+        },
+        {
+            "id": "1761816943429",
+            "targetLexeme": "gradually been reached",
+            "sourceContext": "Over the past decade or so, an agreement has gradually been reached regarding standards that producers of palm oil must meet...",
+            "phase1Inference": {
+                "contextualGuessVI": "Đã dần dần được đạt được. 'Gradually' là dần dần, 'reach an agreement' là đạt được thỏa thuận."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈɡrædʒ.u.ə.li biːn riːtʃt/",
+                "sentiment": "neutral",
+                "definitionEN": "To have been achieved slowly and in stages over a period of time.",
+                "translationVI": "Đã dần dần được đạt tới/đạt được",
+                "relatedCollocates": [
+                    {
+                        "form": "slowly achieved",
+                        "meaning": "Đạt được một cách chậm rãi"
+                    },
+                    {
+                        "form": "progressively attained",
+                        "meaning": "Đạt được một cách từ từ"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Slow progress, consensus-building",
+                        "connotationVI": "Tiến triển chậm, xây dựng sự đồng thuận"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "This passive construction emphasizes the result (the agreement) rather than the people who reached it.",
+                        "noteVI": "Cấu trúc bị động này nhấn mạnh kết quả (thỏa thuận) hơn là những người đã đạt được nó."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "quickly decided",
+                        "meaning": "Được quyết định nhanh chóng"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "After months of discussion, a consensus on the new policy has gradually been reached."
+            }
+        },
+        {
+            "id": "1761816950745",
+            "targetLexeme": "regarding standards",
+            "sourceContext": "Over the past decade or so, an agreement has gradually been reached regarding standards that producers of palm oil must meet...",
+            "phase1Inference": {
+                "contextualGuessVI": "Liên quan đến các tiêu chuẩn. 'Regarding' là về, liên quan đến, 'standards' là tiêu chuẩn."
+            },
+            "phase2Annotation": {
+                "phonetic": "/rɪˈɡɑː.dɪŋ ˈstæn.dədz/",
+                "sentiment": "neutral",
+                "definitionEN": "Concerning or in relation to the levels of quality that are considered acceptable.",
+                "translationVI": "Về các tiêu chuẩn, liên quan đến các tiêu chuẩn",
+                "relatedCollocates": [
+                    {
+                        "form": "concerning criteria",
+                        "meaning": "Liên quan đến các tiêu chí"
+                    },
+                    {
+                        "form": "about requirements",
+                        "meaning": "Về các yêu cầu"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Technical, regulatory",
+                        "connotationVI": "Kỹ thuật, thuộc về quy định"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "There was a long debate regarding standards for the new building code."
+            }
+        },
+        {
+            "id": "1761816963838",
+            "targetLexeme": "to be regarded as officially 'sustainable'",
+            "sourceContext": "...standards that producers of palm oil must meet in order to be regarded as officially 'sustainable'.",
+            "phase1Inference": {
+                "contextualGuessVI": "Được xem là 'bền vững' một cách chính thức. 'Regarded as' là được xem như, 'officially' là chính thức."
+            },
+            "phase2Annotation": {
+                "phonetic": "/tuː biː rɪˈɡɑː.dɪd æz əˈfɪʃ.ə.li səsˈteɪ.nə.bəl/",
+                "sentiment": "positive",
+                "definitionEN": "To be considered and formally recognized as being able to continue over a period of time without causing damage to the environment.",
+                "translationVI": "Được xem là 'bền vững' một cách chính thức",
+                "relatedCollocates": [
+                    {
+                        "form": "to be officially certified as eco-friendly",
+                        "meaning": "Được chứng nhận chính thức là thân thiện với môi trường"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Certification, approval, environmentalism",
+                        "connotationVI": "Chứng nhận, sự chấp thuận, chủ nghĩa môi trường"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": [
+                    {
+                        "form": "to be deemed unsustainable",
+                        "meaning": "Bị cho là không bền vững"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "A company must pass a rigorous audit to be regarded as officially 'sustainable'."
+            }
+        },
+        {
+            "id": "1761816969561",
+            "targetLexeme": "insists upon",
+            "sourceContext": "The RSPO insists upon no virgin forest clearing, transparency and regular assessment of carbon stocks, among other criteria.",
+            "phase1Inference": {
+                "contextualGuessVI": "Nhấn mạnh yêu cầu, khăng khăng đòi. 'Insist' là khăng khăng, 'upon' là giới từ trang trọng hơn 'on'."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ɪnˈsɪsts əˈpɒn/",
+                "sentiment": "neutral",
+                "definitionEN": "To demand something forcefully and not accept refusal.",
+                "translationVI": "Nhấn mạnh yêu cầu, khăng khăng đòi",
+                "relatedCollocates": [
+                    {
+                        "form": "demands",
+                        "meaning": "đòi hỏi"
+                    },
+                    {
+                        "form": "requires",
+                        "meaning": "yêu cầu"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "insistence",
+                            "meaning": "sự khăng khăng, sự nhấn mạnh"
+                        }
+                    ],
+                    "verb": [
+                        {
+                            "form": "insist",
+                            "meaning": "khăng khăng, nhấn mạnh"
+                        }
+                    ],
+                    "adjective": [
+                        {
+                            "form": "insistent",
+                            "meaning": "khăng khăng, năn nỉ"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Forceful, non-negotiable",
+                        "connotationVI": "Mạnh mẽ, không thể thương lượng"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "'Insist upon' is slightly more formal and emphatic than 'insist on'.",
+                        "noteVI": "'Insist upon' trang trọng và nhấn mạnh hơn một chút so với 'insist on'."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "suggests",
+                        "meaning": "gợi ý"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The teacher insists upon silence during the examination."
+            }
+        },
+        {
+            "id": "1761816972626",
+            "targetLexeme": "no virgin forest clearing",
+            "sourceContext": "The RSPO insists upon no virgin forest clearing, transparency and regular assessment of carbon stocks, among other criteria.",
+            "phase1Inference": {
+                "contextualGuessVI": "Không phá rừng nguyên sinh. Đây là một yêu cầu, một quy định."
+            },
+            "phase2Annotation": {
+                "phonetic": "/nəʊ ˈvɜː.dʒɪn ˈfɒr.ɪst ˈklɪə.rɪŋ/",
+                "sentiment": "positive",
+                "definitionEN": "A rule or principle that prohibits the act of cutting down and removing all the trees from an untouched, primary forest.",
+                "translationVI": "Không phát quang/phá rừng nguyên sinh",
+                "relatedCollocates": [
+                    {
+                        "form": "a ban on deforestation",
+                        "meaning": "Lệnh cấm phá rừng"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Conservation, environmental protection",
+                        "connotationVI": "Bảo tồn, bảo vệ môi trường"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": [
+                    {
+                        "form": "deforestation",
+                        "meaning": "Nạn phá rừng"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "One of the core principles of the agreement is no virgin forest clearing for new plantations."
+            }
+        },
+        {
+            "id": "1761816976905",
+            "targetLexeme": "transparency",
+            "sourceContext": "The RSPO insists upon no virgin forest clearing, transparency and regular assessment of carbon stocks, among other criteria.",
+            "phase1Inference": {
+                "contextualGuessVI": "Sự minh bạch. Đây là một trong những tiêu chí được yêu cầu."
+            },
+            "phase2Annotation": {
+                "phonetic": "/trænˈspær.ən.si/",
+                "sentiment": "positive",
+                "definitionEN": "The quality of being open, honest, and not secretive, especially in business or government.",
+                "translationVI": "Sự minh bạch, tính minh bạch",
+                "relatedCollocates": [
+                    {
+                        "form": "openness",
+                        "meaning": "Sự cởi mở"
+                    },
+                    {
+                        "form": "accountability",
+                        "meaning": "Trách nhiệm giải trình"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [
+                        {
+                            "form": "transparency",
+                            "meaning": "sự minh bạch"
+                        }
+                    ],
+                    "verb": [],
+                    "adjective": [
+                        {
+                            "form": "transparent",
+                            "meaning": "minh bạch, trong suốt"
+                        }
+                    ],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Honesty, trust, good governance",
+                        "connotationVI": "Sự trung thực, lòng tin, quản trị tốt"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": [
+                    {
+                        "form": "secrecy",
+                        "meaning": "Sự bí mật"
+                    },
+                    {
+                        "form": "opacity",
+                        "meaning": "Sự mờ đục, thiếu minh bạch"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "Shareholders are demanding greater transparency in the company's financial reporting."
+            }
+        },
+        {
+            "id": "1761816987058",
+            "targetLexeme": "regular assessment of carbon stocks",
+            "sourceContext": "The RSPO insists upon no virgin forest clearing, transparency and regular assessment of carbon stocks, among other criteria.",
+            "phase1Inference": {
+                "contextualGuessVI": "Đánh giá thường xuyên trữ lượng carbon. 'Regular' là thường xuyên, 'assessment' là đánh giá, 'carbon stocks' là trữ lượng carbon."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈreɡ.jə.lər əˈses.mənt əv ˈkɑː.bən stɒks/",
+                "sentiment": "neutral",
+                "definitionEN": "The periodic and systematic evaluation of the amount of carbon stored in an ecosystem (e.g., in trees and soil).",
+                "translationVI": "Đánh giá định kỳ trữ lượng carbon",
+                "relatedCollocates": [
+                    {
+                        "form": "periodic monitoring of carbon levels",
+                        "meaning": "Giám sát định kỳ mức carbon"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Scientific, monitoring, environmental management",
+                        "connotationVI": "Khoa học, giám sát, quản lý môi trường"
+                    }
+                ],
+                "usageNotes": [],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "A key part of the climate action plan is the regular assessment of carbon stocks in national forests."
+            }
+        },
+        {
+            "id": "1761816993224",
+            "targetLexeme": "among other criteria",
+            "sourceContext": "The RSPO insists upon no virgin forest clearing, transparency and regular assessment of carbon stocks, among other criteria.",
+            "phase1Inference": {
+                "contextualGuessVI": "Cùng với các tiêu chí khác. Cụm từ này cho thấy danh sách liệt kê trước đó chưa đầy đủ."
+            },
+            "phase2Annotation": {
+                "phonetic": "/əˈmʌŋ ˈʌð.ə kraɪˈtɪə.ri.ə/",
+                "sentiment": "neutral",
+                "definitionEN": "In addition to other standards or principles by which something is judged.",
+                "translationVI": "Cùng với các tiêu chí khác",
+                "relatedCollocates": [
+                    {
+                        "form": "among other things",
+                        "meaning": "cùng với những thứ khác"
+                    },
+                    {
+                        "form": "in addition to other factors",
+                        "meaning": "ngoài các yếu tố khác"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Indicates an incomplete list.",
+                        "connotationVI": "Cho biết danh sách chưa đầy đủ."
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "This phrase is typically used at the end of a list.",
+                        "noteVI": "Cụm từ này thường được sử dụng ở cuối một danh sách."
+                    }
+                ],
+                "contrastingCollocates": []
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The successful candidate must have strong communication skills and relevant experience, among other criteria."
+            }
+        },
+        {
+            "id": "1761816998708",
+            "targetLexeme": "fully satisfied",
+            "sourceContext": "Only once these requirements are fully satisfied is the oil allowed to be sold as certified sustainable palm oil.",
+            "phase1Inference": {
+                "contextualGuessVI": "Được đáp ứng đầy đủ/hoàn toàn. 'Fully' là hoàn toàn, 'satisfied' trong ngữ cảnh này là đáp ứng (yêu cầu)."
+            },
+            "phase2Annotation": {
+                "phonetic": "/ˈfʊl.i ˈsæt.ɪs.faɪd/",
+                "sentiment": "positive",
+                "definitionEN": "Completely met or fulfilled (in the context of requirements, conditions, or demands).",
+                "translationVI": "Được đáp ứng đầy đủ, được thỏa mãn hoàn toàn",
+                "relatedCollocates": [
+                    {
+                        "form": "completely met",
+                        "meaning": "Được đáp ứng hoàn toàn"
+                    },
+                    {
+                        "form": "entirely fulfilled",
+                        "meaning": "Được thực hiện trọn vẹn"
+                    }
+                ],
+                "wordForms": {
+                    "noun": [],
+                    "verb": [],
+                    "adjective": [],
+                    "adverb": []
+                },
+                "register": "formal",
+                "connotation": [
+                    {
+                        "connotationEN": "Completion, compliance, meeting a standard",
+                        "connotationVI": "Sự hoàn thành, sự tuân thủ, đáp ứng tiêu chuẩn"
+                    }
+                ],
+                "usageNotes": [
+                    {
+                        "noteEN": "The sentence uses inversion ('is the oil allowed...') after 'Only once...' for emphasis.",
+                        "noteVI": "Câu này sử dụng phép đảo ngữ ('is the oil allowed...') sau 'Only once...' để nhấn mạnh."
+                    }
+                ],
+                "contrastingCollocates": [
+                    {
+                        "form": "partially met",
+                        "meaning": "Được đáp ứng một phần"
+                    },
+                    {
+                        "form": "unfulfilled",
+                        "meaning": "Không được đáp ứng"
+                    }
+                ]
+            },
+            "phase3Production": {
+                "taskType": "SENTENCE_CREATION",
+                "content": "The contract will only become valid after all legal requirements are fully satisfied."
+            }
+        }
+    ]
+}
