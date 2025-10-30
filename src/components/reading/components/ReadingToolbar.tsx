@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import { MobileToolbar } from "./MobileToolbar";
 import { DesktopToolbar } from "./DesktopToolbar";
-import { SettingsDropdown } from "./SettingsDropdown";
+import { SettingsDialog } from "./SettingsDialog";
 
 interface ReadingToolbarProps {
   toolbarVisible: boolean;
@@ -222,7 +222,7 @@ export function ReadingToolbar({
 
         {/* Desktop Settings */}
         <div className="hidden md:block">
-          <SettingsDropdown
+          <SettingsDialog
             fontFamily={fontFamily}
             setFontFamily={setFontFamily}
             fontSize={fontSize}
