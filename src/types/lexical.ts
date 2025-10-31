@@ -92,19 +92,15 @@ export function isNewLexicalItem(item: any): item is LexicalItem {
 
 // Type guard functions for new object structures
 export function isCollocateArray(collocates: any): collocates is CollocateObject[] {
-  return Array.isArray(collocates) && collocates.length > 0 &&
-         typeof collocates[0] === 'object' && 'form' in collocates[0];
+  return Array.isArray(collocates) && (collocates.length === 0 || (typeof collocates[0] === 'object' && 'form' in collocates[0]));
 }
 
 export function isUsageNoteArray(notes: any): notes is UsageNoteObject[] {
-  return Array.isArray(notes) && notes.length > 0 &&
-         typeof notes[0] === 'object' && 'noteEN' in notes[0];
+  return Array.isArray(notes) && (notes.length === 0 || (typeof notes[0] === 'object' && 'noteEN' in notes[0]));
 }
 
 export function isConnotationArray(connotations: any): connotations is ConnotationObject[] {
-  return Array.isArray(connotations) && connotations.length > 0 &&
-         typeof connotations[0] === 'object' &&
-         ('noteEN' in connotations[0] || 'connotationEN' in connotations[0]);
+  return Array.isArray(connotations) && (connotations.length === 0 || (typeof connotations[0] === 'object' && ('noteEN' in connotations[0] || 'connotationEN' in connotations[0])));
 }
 
 // Migration function type

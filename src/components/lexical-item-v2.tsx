@@ -83,11 +83,13 @@ export function LexicalItem({
 
     const normalizeUsageNotes = (notes?: UsageNoteObject[] | string): UsageNoteObject[] => {
         if (!notes) return [];
-        if (typeof notes === 'string') return [{ noteEN: notes, noteVI: '' }];
-        if (isUsageNoteArray(notes)) {
+        if (typeof notes === 'string') {
+            return notes ? [{ noteEN: notes, noteVI: '' }] : [];
+        }
+        if (Array.isArray(notes)) {
             return notes;
         }
-        return [{ noteEN: String(notes), noteVI: '' }];
+        return [];
     };
 
     const normalizeConnotation = (connotation?: ConnotationObject[] | string | null): ConnotationObject[] => {
@@ -411,63 +413,67 @@ export function LexicalItem({
                         ) : (
                             /* Normal Mode Content */
                             <div className="space-y-3 sm:space-y-4">
-                                {/* Word Family - Linear Layout */}
-                                {(wordForms && hasWordForms(wordForms)) || phase1Inference?.contextualGuessVI && (
+                                {/* New Contextual Guess Block */}
+                                {phase1Inference?.contextualGuessVI && (
                                     <div className={cn(
                                         "rounded-xl p-2 sm:p-4 border",
                                         theme === "sepia"
-                                            ? "bg-purple-50 border-purple-200"
+                                            ? "bg-yellow-50 border-yellow-300"
                                             : theme === "light"
-                                                ? "bg-purple-50 border-purple-200"
-                                                : "bg-purple-950/30 border-purple-800"
+                                                ? "bg-yellow-50 border-yellow-200"
+                                                : "bg-yellow-900/20 border-yellow-800"
                                     )}>
                                         <div className="flex items-center gap-2 mb-2 md:mb-3">
-                                            <Wand2 className="h-5 w-5 text-purple-600 dark:text-purple-400" />
-                                            <h3 className="font-semibold text-purple-900 dark:text-purple-300">Word Family</h3>
+                                            <Lightbulb className="h-5 w-5 text-yellow-600 dark:text-yellow-400" />
+                                            <h3 className="font-semibold text-yellow-900 dark:text-yellow-300">Contextual Guess</h3>
                                         </div>
-                                        <div className="space-y-4">
-                                            {/* Contextual Guess */}
-                                            {phase1Inference?.contextualGuessVI && (
-                                                <div className="space-y-2">
-                                                    <div className="flex items-center gap-2">
-                                                        <span className="text-sm font-bold text-purple-700 dark:text-purple-400 uppercase">
-                                                            Contextual Guess
-                                                        </span>
-                                                        <div className="h-px bg-purple-300 dark:bg-purple-600 flex-1"></div>
-                                                    </div>
-                                                    <p className="text-sm text-purple-900 dark:text-purple-200 italic">
-                                                        "{phase1Inference.contextualGuessVI}"
-                                                    </p>
-                                                </div>
-                                            )}
-
-                                            {/* Word Forms as Horizontal Row */}
-                                            <div className="flex flex-wrap gap-4 items-start">
-                                                {Object.entries(wordForms).map(([type, forms]) =>
-                                                    forms && (forms as any[]).length > 0 && (
-                                                        <div key={type} className="flex-1 min-w-[200px]">
-                                                            <div className="flex items-center gap-2 mb-2">
-                                                                <span className="text-sm font-bold text-purple-700 dark:text-purple-400 uppercase">
-                                                                    {type}
-                                                                </span>
-                                                                <div className="h-px bg-purple-300 dark:bg-purple-600 flex-1"></div>
-                                                            </div>
-                                                            {/* Multiple forms as column within this word type */}
-                                                            <div className="space-y-1">
-                                                                {(forms as any[]).map((form, idx) => (
-                                                                    <div key={idx} className="text-sm text-purple-900 dark:text-purple-200">
-                                                                        <span className="font-medium">{form.form}</span>
-                                                                        <span className={cn("ml-1", themeClasses.muted)}>({form.meaning})</span>
-                                                                    </div>
-                                                                ))}
-                                                            </div>
-                                                        </div>
-                                                    )
-                                                )}
-                                            </div>
-                                        </div>
+                                        <p className="text-sm leading-relaxed text-yellow-900 dark:text-yellow-200 italic">
+                                            "{phase1Inference.contextualGuessVI}"
+                                        </p>
                                     </div>
                                 )}
+                                                                {/* Word Family - Linear Layout */}
+                                                                {(wordForms && hasWordForms(wordForms)) && (
+                                                                    <div className={cn(
+                                                                        "rounded-xl p-2 sm:p-4 border",
+                                                                        theme === "sepia"
+                                                                            ? "bg-purple-50 border-purple-200"
+                                                                            : theme === "light"
+                                                                                ? "bg-purple-50 border-purple-200"
+                                                                                : "bg-purple-950/30 border-purple-800"
+                                                                    )}>
+                                                                        <div className="flex items-center gap-2 mb-2 md:mb-3">
+                                                                            <Wand2 className="h-5 w-5 text-purple-600 dark:text-purple-400" />
+                                                                            <h3 className="font-semibold text-purple-900 dark:text-purple-300">Word Family</h3>
+                                                                        </div>
+                                                                        <div className="space-y-4">
+                                                                            {/* Word Forms as Horizontal Row */}
+                                                                            <div className="flex flex-wrap gap-4 items-start">
+                                                                                {Object.entries(wordForms).map(([type, forms]) =>
+                                                                                    forms && (forms as any[]).length > 0 && (
+                                                                                        <div key={type} className="flex-1 min-w-[200px]">
+                                                                                            <div className="flex items-center gap-2 mb-2">
+                                                                                                <span className="text-sm font-bold text-purple-700 dark:text-purple-400 uppercase">
+                                                                                                    {type}
+                                                                                                </span>
+                                                                                                <div className="h-px bg-purple-300 dark:bg-purple-600 flex-1"></div>
+                                                                                            </div>
+                                                                                            {/* Multiple forms as column within this word type */}
+                                                                                            <div className="space-y-1">
+                                                                                                {(forms as any[]).map((form, idx) => (
+                                                                                                    <div key={idx} className="text-sm text-purple-900 dark:text-purple-200">
+                                                                                                        <span className="font-medium">{form.form}</span>
+                                                                                                        <span className={cn("ml-1", themeClasses.muted)}>({form.meaning})</span>
+                                                                                                    </div>
+                                                                                                ))}
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    )
+                                                                                )}
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                )}
 
                                 {/* Collocations - Horizontal Row Layout */}
                                 {(relatedCollocates.length > 0 || contrastingCollocates.length > 0) && (
@@ -606,7 +612,7 @@ export function LexicalItem({
                                     )}
 
                                     {/* Connotation */}
-                                    {connotation && (
+                                    {connotation && connotation.length > 0 && (
                                         <div className={cn(
                                             "rounded-xl p-2 sm:p-4 border",
                                             theme === "sepia"
