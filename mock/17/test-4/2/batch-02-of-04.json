@@ -1,0 +1,1607 @@
+{
+  "batchInfo": {
+    "filename": "batch-02-of-04.json",
+    "batchNumber": 2,
+    "totalBatches": 4,
+    "itemCount": 25,
+    "createdFromMaster": "master-vocabulary.json"
+  },
+  "items": [
+    {
+      "id": "1761884062876",
+      "targetLexeme": "literacy rates",
+      "sourceContext": "During this period, Germany and Scandinavia had excellent literacy rates, but their economies grew slowly and they industrialised...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Literacy' liên quan đến việc đọc và viết, 'rates' là tỷ lệ. Trong ngữ cảnh, 'excellent literacy rates' có nghĩa là tỷ lệ người dân biết đọc biết viết ở Đức và Scandinavia rất cao. Do đó, 'literacy rates' có nghĩa là 'tỷ lệ biết chữ'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlɪtərəsi reɪts/",
+        "sentiment": "neutral",
+        "definitionEN": "The percentage of a population, usually of a specific age group, that has the ability to read and write.",
+        "translationVI": "Tỷ lệ biết chữ",
+        "relatedCollocates": [
+          {
+            "form": "high/low literacy rates",
+            "meaning": "tỷ lệ biết chữ cao/thấp"
+          },
+          {
+            "form": "adult literacy rates",
+            "meaning": "tỷ lệ biết chữ của người trưởng thành"
+          },
+          {
+            "form": "improve/increase literacy rates",
+            "meaning": "cải thiện/tăng tỷ lệ biết chữ"
+          },
+          {
+            "form": "national literacy rate",
+            "meaning": "tỷ lệ biết chữ quốc gia"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "literacy",
+              "meaning": "sự biết chữ, trình độ học vấn"
+            },
+            {
+              "form": "rate",
+              "meaning": "tỷ lệ"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "literate",
+              "meaning": "biết chữ"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "A key indicator of social and economic development.",
+            "connotationVI": "Một chỉ số quan trọng về sự phát triển kinh tế và xã hội."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "illiteracy rates",
+            "meaning": "tỷ lệ mù chữ"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government has implemented new educational programs to boost literacy rates in remote areas."
+      }
+    },
+    {
+      "id": "1761884077526",
+      "targetLexeme": "Modern cross-country",
+      "sourceContext": "‘Modern cross-country analyses have also struggled to find evidence that education causes economic growth, even though there is...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Modern' là hiện đại. 'Cross-country' có nghĩa là 'xuyên quốc gia' hoặc 'liên quốc gia'. 'Analyses' là các phân tích. Ghép lại, cụm từ này trong ngữ cảnh nghiên cứu có nghĩa là 'các phân tích so sánh giữa nhiều quốc gia khác nhau trong thời kỳ hiện đại'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmɒdərn ˌkrɔːsˈkʌntri/",
+        "sentiment": "neutral",
+        "definitionEN": "Relating to contemporary comparative studies or analyses that involve multiple different countries.",
+        "translationVI": "Liên quốc gia hiện đại, xuyên quốc gia hiện đại",
+        "relatedCollocates": [
+          {
+            "form": "cross-country analysis",
+            "meaning": "phân tích liên quốc gia"
+          },
+          {
+            "form": "cross-country comparison",
+            "meaning": "so sánh liên quốc gia"
+          },
+          {
+            "form": "cross-country data",
+            "meaning": "dữ liệu liên quốc gia"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "modern",
+              "meaning": "hiện đại"
+            },
+            {
+              "form": "cross-country",
+              "meaning": "liên quốc gia, xuyên quốc gia"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "academic",
+        "connotation": [
+          {
+            "connotationEN": "Implies a large-scale, comparative, and empirical approach to research.",
+            "connotationVI": "Hàm ý một phương pháp nghiên cứu mang tính thực nghiệm, so sánh trên quy mô lớn."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE",
+        "content": "Recent comparative studies across different nations have also found it difficult to establish a causal link between education and economic growth."
+      }
+    },
+    {
+      "id": "1761884087927",
+      "targetLexeme": "struggled to",
+      "sourceContext": "‘Modern cross-country analyses have also struggled to find evidence that education causes economic growth, even though there is...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Struggle' có nghĩa là vật lộn, đấu tranh. 'Struggled to find evidence' có nghĩa là đã phải vật lộn, tốn nhiều công sức để tìm ra bằng chứng. Suy ra, 'struggled to' có nghĩa là 'gặp khó khăn để' hoặc 'chật vật để' làm một việc gì đó."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈstrʌɡəld tu/",
+        "sentiment": "negative",
+        "definitionEN": "To experience difficulty and make a very great effort in order to do something.",
+        "translationVI": "Gặp khó khăn, chật vật để (làm gì)",
+        "relatedCollocates": [
+          {
+            "form": "struggle to understand",
+            "meaning": "chật vật để hiểu"
+          },
+          {
+            "form": "struggle to make ends meet",
+            "meaning": "chật vật kiếm sống qua ngày"
+          },
+          {
+            "form": "struggle to survive",
+            "meaning": "vật lộn để sinh tồn"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "struggle",
+              "meaning": "cuộc đấu tranh, sự vật lộn"
+            }
+          ],
+          "verb": [
+            {
+              "form": "struggle",
+              "meaning": "vật lộn, đấu tranh"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Implies significant effort against an opposing force or difficulty.",
+            "connotationVI": "Hàm ý sự nỗ lực đáng kể để chống lại một lực cản hoặc một khó khăn."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "found it easy to",
+            "meaning": "thấy dễ dàng để"
+          },
+          {
+            "form": "managed to",
+            "meaning": "xoay xở được để"
+          },
+          {
+            "form": "succeeded in",
+            "meaning": "thành công trong việc"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The small business struggled to compete with the large multinational corporations."
+      }
+    },
+    {
+      "id": "1761884100228",
+      "targetLexeme": "plenty of",
+      "sourceContext": "‘Modern cross-country analyses have also struggled to find evidence that education causes economic growth, even though there is plenty of evidence that schooling increases the wages of individuals.",
+      "phase1Inference": {
+        "contextualGuessVI": "Câu này có cấu trúc 'even though' (mặc dù), tạo sự tương phản. Vế trước nói 'struggled to find evidence' (khó tìm bằng chứng), vế sau phải có nghĩa ngược lại. Vậy 'plenty of evidence' có nghĩa là 'nhiều bằng chứng'. Suy ra 'plenty of' có nghĩa là 'nhiều'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈplenti əv/",
+        "sentiment": "neutral",
+        "definitionEN": "A large or sufficient amount or quantity; more than enough.",
+        "translationVI": "Nhiều, dồi dào",
+        "relatedCollocates": [
+          {
+            "form": "plenty of time",
+            "meaning": "nhiều thời gian"
+          },
+          {
+            "form": "plenty of room",
+            "meaning": "nhiều chỗ trống"
+          },
+          {
+            "form": "plenty of opportunities",
+            "meaning": "nhiều cơ hội"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "plenty",
+              "meaning": "sự sung túc, sự dồi dào"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "informal",
+        "connotation": null,
+        "usageNotes": [
+          {
+            "noteEN": "Often used in informal or spoken English. In formal writing, 'a great deal of', 'a large amount of', or 'numerous' are often preferred.",
+            "noteVI": "Thường được dùng trong văn nói hoặc văn phong thân mật. Trong văn viết trang trọng, người ta thường ưu tiên dùng 'a great deal of', 'a large amount of', hoặc 'numerous'."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "a lack of",
+            "meaning": "sự thiếu hụt"
+          },
+          {
+            "form": "a shortage of",
+            "meaning": "sự thiếu thốn"
+          },
+          {
+            "form": "scarcity of",
+            "meaning": "sự khan hiếm"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Make sure you drink plenty of water before going for a run on a hot day."
+      }
+    },
+    {
+      "id": "1761884120393",
+      "targetLexeme": "handwritten inventories",
+      "sourceContext": "The project is based on nearly 4,000 handwritten inventories of the worldly goods of villagers in one German-speaking region of south-west Germany from 1600 to 1900.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Handwritten' là được viết bằng tay. 'Inventories' là các bảng kiểm kê, danh mục. 'Inventories of worldly goods' là bảng kiểm kê tài sản. Vậy 'handwritten inventories' là 'các bảng kiểm kê được viết tay'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌhændˈrɪtn ˈɪnvəntɔːriz/",
+        "sentiment": "neutral",
+        "definitionEN": "Detailed lists of goods, property, or possessions that have been written by hand rather than being typed or printed.",
+        "translationVI": "Bảng kiểm kê viết tay",
+        "relatedCollocates": [
+          {
+            "form": "detailed inventories",
+            "meaning": "bảng kiểm kê chi tiết"
+          },
+          {
+            "form": "historical inventories",
+            "meaning": "bảng kiểm kê lịch sử"
+          },
+          {
+            "form": "take an inventory",
+            "meaning": "thực hiện kiểm kê"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "inventory",
+              "meaning": "bảng kiểm kê, hàng tồn kho"
+            }
+          ],
+          "verb": [
+            {
+              "form": "inventory",
+              "meaning": "kiểm kê"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "handwritten",
+              "meaning": "viết tay"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Evokes a sense of historical authenticity and a pre-digital era.",
+            "connotationVI": "Gợi lên cảm giác về tính xác thực lịch sử và một thời đại tiền kỹ thuật số."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "digital inventories",
+            "meaning": "bảng kiểm kê kỹ thuật số"
+          },
+          {
+            "form": "printed lists",
+            "meaning": "danh sách in"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The archivist spent months deciphering the faded ink on the 18th-century handwritten inventories."
+      }
+    },
+    {
+      "id": "1761884131966",
+      "targetLexeme": "badger skin",
+      "sourceContext": "From badger skins to Bibles, sewing machines to scarlet bodices – the villagers' entire worldly goods are included.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Badger' là một loài động vật, con lửng. 'Skin' là da. Vậy 'badger skin' là 'da lửng'. Đây là một trong những tài sản của dân làng được liệt kê."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈbædʒər skɪn/",
+        "sentiment": "neutral",
+        "definitionEN": "The hide or pelt of a badger, a burrowing mammal.",
+        "translationVI": "Da lửng",
+        "relatedCollocates": [
+          {
+            "form": "animal hide",
+            "meaning": "da động vật"
+          },
+          {
+            "form": "fox fur",
+            "meaning": "lông cáo"
+          },
+          {
+            "form": "leather",
+            "meaning": "da thuộc"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "badger",
+              "meaning": "con lửng"
+            },
+            {
+              "form": "skin",
+              "meaning": "da"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In the past, a pouch made from badger skin was considered very durable."
+      }
+    },
+    {
+      "id": "1761884137605",
+      "targetLexeme": "sewing machine",
+      "sourceContext": "From badger skins to Bibles, sewing machines to scarlet bodices – the villagers' entire worldly goods are included.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Sewing' là hành động may vá. 'Machine' là cái máy. Ghép lại, 'sewing machine' là một cái máy dùng để may vá, tức là 'máy may'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsoʊɪŋ məˌʃiːn/",
+        "sentiment": "neutral",
+        "definitionEN": "A machine used for stitching cloth and other materials together with thread.",
+        "translationVI": "Máy may",
+        "relatedCollocates": [
+          {
+            "form": "electric sewing machine",
+            "meaning": "máy may điện"
+          },
+          {
+            "form": "industrial sewing machine",
+            "meaning": "máy may công nghiệp"
+          },
+          {
+            "form": "use a sewing machine",
+            "meaning": "sử dụng máy may"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "sewing",
+              "meaning": "sự may vá"
+            },
+            {
+              "form": "machine",
+              "meaning": "cái máy"
+            }
+          ],
+          "verb": [
+            {
+              "form": "sew",
+              "meaning": "may, khâu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "My grandmother still uses her old-fashioned, pedal-operated sewing machine."
+      }
+    },
+    {
+      "id": "1761884148858",
+      "targetLexeme": "scarlet bodices",
+      "sourceContext": "From badger skins to Bibles, sewing machines to scarlet bodices – the villagers' entire worldly goods are included.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Scarlet' là màu đỏ tươi, đỏ thắm. 'Bodices' là một loại trang phục, cụ thể là phần thân trên của váy phụ nữ. Vậy 'scarlet bodices' là 'những chiếc thân áo màu đỏ tươi'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈskɑːrlət ˈbɒdɪsɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "The upper part of a woman's dress, from the shoulders to the waist, that is a brilliant red color.",
+        "translationVI": "Thân áo trên màu đỏ tươi",
+        "relatedCollocates": [
+          {
+            "form": "laced bodice",
+            "meaning": "thân áo có dây buộc"
+          },
+          {
+            "form": "velvet bodice",
+            "meaning": "thân áo nhung"
+          },
+          {
+            "form": "corset",
+            "meaning": "áo coóc-xê, áo nịt ngực"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "bodice",
+              "meaning": "thân áo trên"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "scarlet",
+              "meaning": "màu đỏ tươi"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The traditional folk costume was famous for its beautifully embroidered scarlet bodices."
+      }
+    },
+    {
+      "id": "1761884159437",
+      "targetLexeme": "worldly",
+      "sourceContext": "From badger skins to Bibles, sewing machines to scarlet bodices – the villagers' entire worldly goods are included.",
+      "phase1Inference": {
+        "contextualGuessVI": "Từ này đi với 'goods' (hàng hóa, của cải). Cụm 'worldly goods' liệt kê những thứ vật chất như da lửng, máy may. 'Worldly' có gốc từ 'world' (thế giới, trần gian). Vậy 'worldly' có nghĩa là thuộc về vật chất, trần thế."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwɜːrldli/",
+        "sentiment": "neutral",
+        "definitionEN": "Relating to or concerned with material values or ordinary life rather than a spiritual existence.",
+        "translationVI": "(Thuộc về) trần tục, vật chất",
+        "relatedCollocates": [
+          {
+            "form": "worldly possessions",
+            "meaning": "của cải vật chất"
+          },
+          {
+            "form": "worldly success",
+            "meaning": "thành công nơi trần thế"
+          },
+          {
+            "form": "worldly experience",
+            "meaning": "kinh nghiệm sống"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "world",
+              "meaning": "thế giới"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "worldly",
+              "meaning": "thuộc về trần tục"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Can sometimes imply a focus on material things over spiritual ones, but in 'worldly goods' it is neutral.",
+            "connotationVI": "Đôi khi có thể ám chỉ sự tập trung vào vật chất hơn là tinh thần, nhưng trong cụm 'worldly goods' thì nó mang nghĩa trung tính."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "spiritual",
+            "meaning": "thuộc về tinh thần"
+          },
+          {
+            "form": "ethereal",
+            "meaning": "thanh tao, thoát tục"
+          },
+          {
+            "form": "unworldly",
+            "meaning": "không màng đến vật chất, thoát tục"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "After a long career in business, she decided to renounce her worldly ambitions and focus on charity work."
+      }
+    },
+    {
+      "id": "1761884180776",
+      "targetLexeme": "agricultural equipment",
+      "sourceContext": "Inventories of agricultural equipment and craft tools reveal economic activities; ownership of books and education-related objects like pens...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Agricultural' có nghĩa là thuộc về nông nghiệp. 'Equipment' là thiết bị, dụng cụ. Ghép lại, 'agricultural equipment' có nghĩa là 'thiết bị nông nghiệp' hay 'nông cụ'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌæɡrɪˈkʌltʃərəl ɪˈkwɪpmənt/",
+        "sentiment": "neutral",
+        "definitionEN": "Machinery, tools, and other devices used in farming and agriculture.",
+        "translationVI": "Thiết bị nông nghiệp, nông cụ",
+        "relatedCollocates": [
+          {
+            "form": "farm machinery",
+            "meaning": "máy móc nông trại"
+          },
+          {
+            "form": "heavy equipment",
+            "meaning": "thiết bị hạng nặng"
+          },
+          {
+            "form": "modern agricultural equipment",
+            "meaning": "thiết bị nông nghiệp hiện đại"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "agriculture",
+              "meaning": "nông nghiệp"
+            },
+            {
+              "form": "equipment",
+              "meaning": "thiết bị"
+            }
+          ],
+          "verb": [
+            {
+              "form": "equip",
+              "meaning": "trang bị"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "agricultural",
+              "meaning": "thuộc về nông nghiệp"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The farmer invested in new agricultural equipment like a modern tractor and harvester to improve efficiency."
+      }
+    },
+    {
+      "id": "1761884183101",
+      "targetLexeme": "craft tools",
+      "sourceContext": "Inventories of agricultural equipment and craft tools reveal economic activities; ownership of books and education-related objects like pens...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Craft' là nghề thủ công. 'Tools' là dụng cụ, công cụ. Vậy 'craft tools' là 'dụng cụ thủ công', dùng cho các hoạt động sản xuất bằng tay."
+      },
+      "phase2Annotation": {
+        "phonetic": "/kræft tuːlz/",
+        "sentiment": "neutral",
+        "definitionEN": "Implements and devices used for a particular skill or activity that involves making things by hand.",
+        "translationVI": "Dụng cụ thủ công",
+        "relatedCollocates": [
+          {
+            "form": "woodworking tools",
+            "meaning": "dụng cụ làm mộc"
+          },
+          {
+            "form": "pottery tools",
+            "meaning": "dụng cụ làm gốm"
+          },
+          {
+            "form": "artisan tools",
+            "meaning": "dụng cụ của thợ thủ công"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "craft",
+              "meaning": "nghề thủ công"
+            },
+            {
+              "form": "tool",
+              "meaning": "dụng cụ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "industrial machinery",
+            "meaning": "máy móc công nghiệp"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The leatherworker's bench was neatly organized with a wide array of specialized craft tools."
+      }
+    },
+    {
+      "id": "1761884190517",
+      "targetLexeme": "slates",
+      "sourceContext": "Inventories of agricultural equipment and craft tools reveal economic activities; ownership of books and education-related objects like pens, ink, paper and slates indicates literacy and numeracy levels.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Slates' được liệt kê cùng với 'pens, ink, paper' (bút, mực, giấy) là những đồ vật liên quan đến giáo dục ('education-related objects'). Ngày xưa, học sinh thường dùng một tấm bảng nhỏ để viết. Vậy 'slates' là 'bảng đá phiến' (dùng để viết)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/sleɪts/",
+        "sentiment": "neutral",
+        "definitionEN": "A small, thin piece of slate (a type of rock) in a frame, formerly used in schools for writing on with a piece of chalk or a slate pencil.",
+        "translationVI": "Bảng đá phiến (để viết)",
+        "relatedCollocates": [
+          {
+            "form": "writing slate",
+            "meaning": "bảng viết"
+          },
+          {
+            "form": "chalk slate",
+            "meaning": "bảng phấn"
+          },
+          {
+            "form": "clean the slate (idiom)",
+            "meaning": "bắt đầu lại từ đầu"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "slate",
+              "meaning": "bảng đá phiến, đá phiến"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "historical",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In the historical museum, we saw the small slates that children used for their lessons two centuries ago."
+      }
+    },
+    {
+      "id": "1761884202151",
+      "targetLexeme": "debt",
+      "sourceContext": "In addition, the tax lists included in the database record the value of farms, workshops, assets and debts...",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong câu, 'debts' được liệt kê cùng với 'assets' (tài sản). Trong kế toán và tài chính, 'assets' và 'debts' là hai khái niệm đối lập nhau. Nếu 'assets' là những gì mình sở hữu, thì 'debts' phải là những gì mình nợ. Vậy 'debt' có nghĩa là 'nợ'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/det/",
+        "sentiment": "negative",
+        "definitionEN": "A sum of money that is owed or due to someone else.",
+        "translationVI": "Món nợ, khoản nợ",
+        "relatedCollocates": [
+          {
+            "form": "be in debt",
+            "meaning": "mắc nợ"
+          },
+          {
+            "form": "pay off a debt",
+            "meaning": "trả hết nợ"
+          },
+          {
+            "form": "national debt",
+            "meaning": "nợ quốc gia"
+          },
+          {
+            "form": "student debt",
+            "meaning": "nợ sinh viên"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "debt",
+              "meaning": "khoản nợ"
+            },
+            {
+              "form": "debtor",
+              "meaning": "con nợ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": [
+          {
+            "noteEN": "The letter 'b' is silent.",
+            "noteVI": "Chữ 'b' là một âm câm."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "asset",
+            "meaning": "tài sản"
+          },
+          {
+            "form": "credit",
+            "meaning": "tín dụng, tiền có trong tài khoản"
+          },
+          {
+            "form": "income",
+            "meaning": "thu nhập"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Many young people are burdened with significant student debt after graduation."
+      }
+    },
+    {
+      "id": "1761884213513",
+      "targetLexeme": "indicate literacy and numeracy levels",
+      "sourceContext": "ownership of books and education-related objects like pens, ink, paper and slates indicates literacy and numeracy levels.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Indicate' là chỉ ra, cho thấy. 'Literacy' là khả năng đọc viết. 'Numeracy' có gốc 'numer-' giống 'number' (số), vậy nó là khả năng tính toán. 'Levels' là các cấp độ, trình độ. Toàn bộ cụm từ có nghĩa là 'cho thấy trình độ đọc viết và tính toán'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɪndɪkeɪt ˈlɪtərəsi ænd ˈnuːmərəsi ˈlɛvəlz/",
+        "sentiment": "neutral",
+        "definitionEN": "To show or point out the degree of skill in reading and writing (literacy) and in basic arithmetic and mathematics (numeracy).",
+        "translationVI": "Cho thấy/chỉ ra trình độ biết đọc viết và trình độ tính toán",
+        "relatedCollocates": [
+          {
+            "form": "assess levels",
+            "meaning": "đánh giá trình độ"
+          },
+          {
+            "form": "measure levels",
+            "meaning": "đo lường trình độ"
+          },
+          {
+            "form": "improve levels",
+            "meaning": "cải thiện trình độ"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "indication",
+              "meaning": "sự chỉ dẫn"
+            },
+            {
+              "form": "literacy",
+              "meaning": "trình độ học vấn"
+            },
+            {
+              "form": "numeracy",
+              "meaning": "trình độ tính toán"
+            }
+          ],
+          "verb": [
+            {
+              "form": "indicate",
+              "meaning": "chỉ ra"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "indicative",
+              "meaning": "biểu thị, tỏ ra"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "academic",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Standardized tests are designed to indicate literacy and numeracy levels across the student population."
+      }
+    },
+    {
+      "id": "1761884220068",
+      "targetLexeme": "obstacle",
+      "sourceContext": "One of the key questions the project is seeking to answer is whether education was an obstacle to economic growth, perhaps because the presence of guilds of educated craftsmen stifled innovation.",
+      "phase1Inference": {
+        "contextualGuessVI": "Câu hỏi đặt ra là liệu giáo dục có phải là một 'obstacle' đối với tăng trưởng kinh tế hay không. 'Obstacle' là thứ cản trở, ngăn chặn sự phát triển. Vậy 'obstacle' có nghĩa là 'trở ngại' hoặc 'chướng ngại vật'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɒbstəkl/",
+        "sentiment": "negative",
+        "definitionEN": "A thing that blocks one's way or prevents or hinders progress.",
+        "translationVI": "Chướng ngại vật, trở ngại",
+        "relatedCollocates": [
+          {
+            "form": "major obstacle",
+            "meaning": "trở ngại lớn"
+          },
+          {
+            "form": "overcome an obstacle",
+            "meaning": "vượt qua một trở ngại"
+          },
+          {
+            "form": "face an obstacle",
+            "meaning": "đối mặt với một trở ngại"
+          },
+          {
+            "form": "an obstacle to progress",
+            "meaning": "một trở ngại cho sự tiến bộ"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "obstacle",
+              "meaning": "chướng ngại vật"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "aid",
+            "meaning": "sự giúp đỡ"
+          },
+          {
+            "form": "catalyst",
+            "meaning": "chất xúc tác"
+          },
+          {
+            "form": "advantage",
+            "meaning": "lợi thế"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A lack of funding remains the biggest obstacle to the completion of the new hospital."
+      }
+    },
+    {
+      "id": "1761884229700",
+      "targetLexeme": "stifled",
+      "sourceContext": "One of the key questions the project is seeking to answer is whether education was an obstacle to economic growth, perhaps because the presence of guilds of educated craftsmen stifled innovation.",
+      "phase1Inference": {
+        "contextualGuessVI": "Câu này giải thích tại sao giáo dục có thể là một trở ngại: bởi vì sự hiện diện của các phường hội đã 'stifled' sự đổi mới ('innovation'). Một thứ cản trở sự đổi mới thì có nghĩa là 'kìm hãm', 'bóp nghẹt' nó. Vậy 'stifled' có nghĩa là 'kìm hãm'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈstaɪfld/",
+        "sentiment": "negative",
+        "definitionEN": "To prevent or constrain an activity or idea from happening, being expressed, or continuing.",
+        "translationVI": "Kìm hãm, bóp nghẹt",
+        "relatedCollocates": [
+          {
+            "form": "stifle creativity",
+            "meaning": "kìm hãm sự sáng tạo"
+          },
+          {
+            "form": "stifle debate",
+            "meaning": "bóp nghẹt tranh luận"
+          },
+          {
+            "form": "stifle a yawn",
+            "meaning": "nín một cái ngáp"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "stifle",
+              "meaning": "kìm hãm"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "stifling",
+              "meaning": "ngột ngạt, khó thở"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "encouraged",
+            "meaning": "khuyến khích"
+          },
+          {
+            "form": "fostered",
+            "meaning": "nuôi dưỡng, thúc đẩy"
+          },
+          {
+            "form": "promoted",
+            "meaning": "thúc đẩy"
+          },
+          {
+            "form": "stimulated",
+            "meaning": "kích thích"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Excessive bureaucracy in the company stifled innovation and made it slow to adapt to market changes."
+      }
+    },
+    {
+      "id": "1761884242133",
+      "targetLexeme": "the presence of",
+      "sourceContext": "...perhaps because the presence of guilds of educated craftsmen stifled innovation.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Presence' có gốc từ 'present' (hiện diện, có mặt). 'The presence of guilds' là nguyên nhân kìm hãm sự đổi mới. Vậy cụm từ này có nghĩa là 'sự có mặt của', 'sự hiện diện của' các phường hội."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈprɛzns əv/",
+        "sentiment": "neutral",
+        "definitionEN": "The state or fact of existing, occurring, or being present in a place or thing.",
+        "translationVI": "Sự hiện diện của, sự có mặt của",
+        "relatedCollocates": [
+          {
+            "form": "a strong presence",
+            "meaning": "một sự hiện diện mạnh mẽ"
+          },
+          {
+            "form": "in the presence of",
+            "meaning": "trước sự chứng kiến của"
+          },
+          {
+            "form": "police presence",
+            "meaning": "sự hiện diện của cảnh sát"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "presence",
+              "meaning": "sự hiện diện"
+            }
+          ],
+          "verb": [
+            {
+              "form": "present",
+              "meaning": "trình bày, có mặt"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "present",
+              "meaning": "có mặt, hiện diện"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "the absence of",
+            "meaning": "sự vắng mặt của"
+          },
+          {
+            "form": "the lack of",
+            "meaning": "sự thiếu hụt"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The presence of heavy metals in the water supply is a serious health concern."
+      }
+    },
+    {
+      "id": "1761884249872",
+      "targetLexeme": "perhaps",
+      "sourceContext": "...perhaps because the presence of guilds of educated craftsmen stifled innovation.",
+      "phase1Inference": {
+        "contextualGuessVI": "Từ 'perhaps' được dùng để đưa ra một lý do có thể xảy ra nhưng không chắc chắn 100%. Nó thể hiện sự phỏng đoán. Do đó, 'perhaps' có nghĩa là 'có lẽ', 'có thể là'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/pərˈhæps/",
+        "sentiment": "neutral",
+        "definitionEN": "Used to express uncertainty or possibility; maybe.",
+        "translationVI": "Có lẽ, có thể là",
+        "relatedCollocates": [
+          {
+            "form": "perhaps it's best",
+            "meaning": "có lẽ tốt nhất là"
+          },
+          {
+            "form": "perhaps not",
+            "meaning": "có lẽ không"
+          },
+          {
+            "form": "perhaps later",
+            "meaning": "có lẽ để sau"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "perhaps",
+              "meaning": "có lẽ"
+            }
+          ]
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": [
+          {
+            "noteEN": "'Perhaps' is slightly more formal than 'maybe'. It is often used at the beginning of a clause.",
+            "noteVI": "'Perhaps' trang trọng hơn một chút so với 'maybe'. Nó thường được sử dụng ở đầu một mệnh đề."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "certainly",
+            "meaning": "chắc chắn"
+          },
+          {
+            "form": "definitely",
+            "meaning": "chắc chắn, dứt khoát"
+          },
+          {
+            "form": "without a doubt",
+            "meaning": "không còn nghi ngờ gì nữa"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He hasn't arrived yet; perhaps he got stuck in traffic."
+      }
+    },
+    {
+      "id": "1761884270204",
+      "targetLexeme": "wealth",
+      "sourceContext": "According to Ogilvie, the database provides multiple indicators for the same individuals, making it possible to analyse links between education, wealth, health, and industriousness.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Wealth' được liệt kê cùng với 'education' (giáo dục) và 'health' (sức khỏe) như một yếu tố để phân tích. Nó liên quan đến tình trạng kinh tế của một người. Vậy 'wealth' có nghĩa là 'sự giàu có', 'của cải'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/welθ/",
+        "sentiment": "positive",
+        "definitionEN": "An abundance of valuable possessions or money; the state of being rich.",
+        "translationVI": "Sự giàu có, của cải, tài sản",
+        "relatedCollocates": [
+          {
+            "form": "accumulate wealth",
+            "meaning": "tích lũy của cải"
+          },
+          {
+            "form": "distribution of wealth",
+            "meaning": "phân phối của cải"
+          },
+          {
+            "form": "a wealth of information",
+            "meaning": "một kho thông tin (nghĩa bóng)"
+          },
+          {
+            "form": "great wealth",
+            "meaning": "sự giàu có lớn"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "wealth",
+              "meaning": "sự giàu có"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "wealthy",
+              "meaning": "giàu có"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "poverty",
+            "meaning": "sự nghèo đói"
+          },
+          {
+            "form": "destitution",
+            "meaning": "sự cơ cực, bần cùng"
+          },
+          {
+            "form": "scarcity",
+            "meaning": "sự khan hiếm"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The book explores the complex relationship between wealth and happiness."
+      }
+    },
+    {
+      "id": "1761884271657",
+      "targetLexeme": "industriousness",
+      "sourceContext": "According to Ogilvie, the database provides multiple indicators for the same individuals, making it possible to analyse links between education, wealth, health, and industriousness.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Industriousness' là một danh từ, được liệt kê như một chỉ số cá nhân, tương tự như 'wealth' và 'health'. Gốc từ 'industrious' có nghĩa là chăm chỉ. Vậy 'industriousness' có nghĩa là 'sự cần cù', 'tính siêng năng'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈdʌstriəsnəs/",
+        "sentiment": "positive",
+        "definitionEN": "The quality of being diligent and hard-working.",
+        "translationVI": "Sự cần cù, tính siêng năng, chăm chỉ",
+        "relatedCollocates": [
+          {
+            "form": "a reputation for industriousness",
+            "meaning": "nổi tiếng là người cần cù"
+          },
+          {
+            "form": "show great industriousness",
+            "meaning": "thể hiện sự cần cù tuyệt vời"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "industriousness",
+              "meaning": "sự cần cù"
+            },
+            {
+              "form": "industry",
+              "meaning": "sự siêng năng (nghĩa cũ), ngành công nghiệp"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "industrious",
+              "meaning": "cần cù, siêng năng"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "industriously",
+              "meaning": "một cách cần cù"
+            }
+          ]
+        },
+        "register": "formal",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "laziness",
+            "meaning": "sự lười biếng"
+          },
+          {
+            "form": "idleness",
+            "meaning": "sự ăn không ngồi rồi"
+          },
+          {
+            "form": "indolence",
+            "meaning": "tính lười biếng, uể oải"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Her promotion was a direct result of her remarkable industriousness and dedication to the company."
+      }
+    },
+    {
+      "id": "1761884284286",
+      "targetLexeme": "vast database",
+      "sourceContext": "This vast database will allow us to test for the first time whether education was a key to economic development for ordinary people in the pre-industrial period.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Database' là cơ sở dữ liệu. 'Vast' là một tính từ mô tả kích thước hoặc phạm vi, có nghĩa là rất lớn, bao la. Vậy 'vast database' có nghĩa là 'cơ sở dữ liệu khổng lồ' hoặc 'cơ sở dữ liệu rất lớn'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/væst ˈdeɪtəbeɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "An extremely large and comprehensive structured set of data held in a computer or other storage medium.",
+        "translationVI": "Cơ sở dữ liệu khổng lồ/rộng lớn",
+        "relatedCollocates": [
+          {
+            "form": "a huge database",
+            "meaning": "một cơ sở dữ liệu khổng lồ"
+          },
+          {
+            "form": "an extensive database",
+            "meaning": "một cơ sở dữ liệu sâu rộng"
+          },
+          {
+            "form": "build a database",
+            "meaning": "xây dựng một cơ sở dữ liệu"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "database",
+              "meaning": "cơ sở dữ liệu"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "vast",
+              "meaning": "rộng lớn, bao la"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "small dataset",
+            "meaning": "bộ dữ liệu nhỏ"
+          },
+          {
+            "form": "limited records",
+            "meaning": "hồ sơ hạn chế"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Genetic researchers rely on a vast database of DNA sequences to identify patterns and mutations."
+      }
+    },
+    {
+      "id": "1761884288161",
+      "targetLexeme": "material possessions",
+      "sourceContext": "‘The database allows us to track the changing relationship between education and material possessions for thousands of ordinary men and women,' she says.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Material' có nghĩa là thuộc về vật chất. 'Possessions' là những thứ sở hữu, tài sản. Vậy 'material possessions' có nghĩa là 'của cải vật chất', 'tài sản vật chất'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/məˈtɪriəl pəˈzɛʃənz/",
+        "sentiment": "neutral",
+        "definitionEN": "The physical objects that a person owns.",
+        "translationVI": "Của cải vật chất, tài sản vật chất",
+        "relatedCollocates": [
+          {
+            "form": "accumulate possessions",
+            "meaning": "tích lũy tài sản"
+          },
+          {
+            "form": "worldly possessions",
+            "meaning": "của cải trần thế"
+          },
+          {
+            "form": "value material possessions",
+            "meaning": "coi trọng của cải vật chất"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "material",
+              "meaning": "vật chất, vật liệu"
+            },
+            {
+              "form": "possession",
+              "meaning": "sự sở hữu, tài sản"
+            }
+          ],
+          "verb": [
+            {
+              "form": "possess",
+              "meaning": "sở hữu"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "material",
+              "meaning": "thuộc về vật chất"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "spiritual values",
+            "meaning": "các giá trị tinh thần"
+          },
+          {
+            "form": "intellectual property",
+            "meaning": "tài sản trí tuệ"
+          },
+          {
+            "form": "experiences",
+            "meaning": "những trải nghiệm"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The minimalist lifestyle encourages people to find happiness in experiences rather than material possessions."
+      }
+    },
+    {
+      "id": "1761884294763",
+      "targetLexeme": "full demographic reconstruction",
+      "sourceContext": "‘We can combine the inventories with a full demographic reconstruction of the villages they lived in, based on parish records of births, marriages and deaths.'",
+      "phase1Inference": {
+        "contextualGuessVI": "'Full' là đầy đủ. 'Demographic' liên quan đến nhân khẩu học (dân số, tuổi, giới tính...). 'Reconstruction' là sự tái dựng, tái tạo. Vậy, 'full demographic reconstruction' là 'sự tái dựng lại toàn bộ về mặt nhân khẩu học' của các ngôi làng."
+      },
+      "phase2Annotation": {
+        "phonetic": "/fʊl ˌdɛməˈɡræfɪk ˌriːkənˈstrʌkʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "A complete re-creation or model of the structure of a population, including details such as age, sex, birth rates, death rates, and family ties.",
+        "translationVI": "Tái cấu trúc/tái dựng nhân khẩu học đầy đủ",
+        "relatedCollocates": [
+          {
+            "form": "demographic data",
+            "meaning": "dữ liệu nhân khẩu học"
+          },
+          {
+            "form": "demographic trends",
+            "meaning": "xu hướng nhân khẩu học"
+          },
+          {
+            "form": "historical reconstruction",
+            "meaning": "sự tái dựng lịch sử"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "demography",
+              "meaning": "nhân khẩu học"
+            },
+            {
+              "form": "reconstruction",
+              "meaning": "sự tái dựng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "reconstruct",
+              "meaning": "tái dựng"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "full",
+              "meaning": "đầy đủ"
+            },
+            {
+              "form": "demographic",
+              "meaning": "thuộc về nhân khẩu học"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "academic",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "By analyzing old census data and church records, the historian achieved a full demographic reconstruction of the 19th-century city."
+      }
+    },
+    {
+      "id": "1761884302056",
+      "targetLexeme": "descendants",
+      "sourceContext": "'We can follow the same people – and their descendants across 300 years of educational and economic change,'...",
+      "phase1Inference": {
+        "contextualGuessVI": "Câu này nói về việc theo dõi 'the same people' (những người đó) và 'their descendants' (.... của họ) qua 300 năm. Người ta chỉ có thể theo dõi con cháu của ai đó qua một thời gian dài như vậy. Vậy 'descendants' có nghĩa là 'hậu duệ', 'con cháu'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/dɪˈsɛndənts/",
+        "sentiment": "neutral",
+        "definitionEN": "A person, plant, or animal that is descended from a particular ancestor.",
+        "translationVI": "Con cháu, hậu duệ",
+        "relatedCollocates": [
+          {
+            "form": "direct descendant",
+            "meaning": "hậu duệ trực hệ"
+          },
+          {
+            "form": "living descendants",
+            "meaning": "những hậu duệ còn sống"
+          },
+          {
+            "form": "trace one's descendants",
+            "meaning": "truy tìm con cháu của ai đó"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "descendant",
+              "meaning": "hậu duệ"
+            },
+            {
+              "form": "descent",
+              "meaning": "dòng dõi, nguồn gốc"
+            }
+          ],
+          "verb": [
+            {
+              "form": "descend",
+              "meaning": "xuất thân từ, là con cháu của"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "ancestors",
+            "meaning": "tổ tiên"
+          },
+          {
+            "form": "forebears",
+            "meaning": "tổ tiên"
+          },
+          {
+            "form": "progenitors",
+            "meaning": "ông bà, tổ tiên"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He is proud to be a descendant of a famous poet from the 18th century."
+      }
+    },
+    {
+      "id": "1761884307226",
+      "targetLexeme": "unfolded",
+      "sourceContext": "Individual lives have unfolded before their eyes.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Fold' là gấp lại, 'unfold' là mở ra. Trong ngữ cảnh này, 'lives have unfolded' (cuộc đời đã mở ra) trước mắt họ. Đây là cách nói hình ảnh, có nghĩa là cuộc đời của các cá nhân đã dần dần hiện ra, diễn ra một cách rõ ràng cho các nhà nghiên cứu thấy."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ʌnˈfoʊldɪd/",
+        "sentiment": "neutral",
+        "definitionEN": "(Of a story or series of events) to develop or become clear to other people over a period of time.",
+        "translationVI": "Diễn ra, hé mở, bộc lộ",
+        "relatedCollocates": [
+          {
+            "form": "as the story unfolds",
+            "meaning": "khi câu chuyện diễn ra"
+          },
+          {
+            "form": "events unfolded",
+            "meaning": "các sự kiện đã diễn ra"
+          },
+          {
+            "form": "let the future unfold",
+            "meaning": "hãy để tương lai tự hé mở"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "unfold",
+              "meaning": "mở ra, diễn ra"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "literary",
+        "connotation": [
+          {
+            "connotationEN": "Suggests a gradual and often revealing process, like opening a folded map or flower.",
+            "connotationVI": "Gợi ý một quá trình diễn ra từ từ và thường mang tính khám phá, giống như mở một tấm bản đồ bị gấp hay một bông hoa đang nở."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "remained hidden",
+            "meaning": "vẫn còn bị che giấu"
+          },
+          {
+            "form": "concluded abruptly",
+            "meaning": "kết thúc đột ngột"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The audience watched in silence as the tragic events of the play unfolded on stage."
+      }
+    }
+  ]
+}

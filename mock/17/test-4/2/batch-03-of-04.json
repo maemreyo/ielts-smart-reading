@@ -1,0 +1,1726 @@
+{
+  "batchInfo": {
+    "filename": "batch-03-of-04.json",
+    "batchNumber": 3,
+    "totalBatches": 4,
+    "itemCount": 25,
+    "createdFromMaster": "master-vocabulary.json"
+  },
+  "items": [
+    {
+      "id": "1761884321106",
+      "targetLexeme": "chastised",
+      "sourceContext": "Stories like that of the 24-year-olds Ana Regina and Magdalena Riethmüllerin, who were chastised in 1707 for reading...",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong ngữ cảnh 'were chastised... for reading', có thể đoán 'chastised' mang nghĩa tiêu cực, liên quan đến hình phạt hoặc sự khiển trách. 'Chastised for reading' -> 'bị phạt vì đọc sách'. Có lẽ là bị mắng mỏ, chỉ trích hoặc trừng phạt."
+      },
+      "phase2Annotation": {
+        "phonetic": "/tʃæˈstaɪzd/",
+        "sentiment": "negative",
+        "definitionEN": "To criticize someone severely or angrily, especially for personal failings.",
+        "translationVI": "Khiển trách, trừng phạt, mắng mỏ.",
+        "relatedCollocates": [
+          {
+            "form": "reprimand",
+            "meaning": "khiển trách (mang tính chính thức)"
+          },
+          {
+            "form": "scold",
+            "meaning": "la mắng"
+          },
+          {
+            "form": "rebuke",
+            "meaning": "quở trách"
+          },
+          {
+            "form": "discipline",
+            "meaning": "kỷ luật, trừng phạt"
+          },
+          {
+            "form": "castigate",
+            "meaning": "chỉ trích thậm tệ"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "chastisement",
+              "meaning": "sự trừng phạt, sự khiển trách"
+            }
+          ],
+          "verb": [
+            {
+              "form": "chastise",
+              "meaning": "khiển trách, trừng phạt"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Implies a formal and severe criticism, often for moral or ethical reasons.",
+            "connotationVI": "Ngụ ý một sự chỉ trích trang trọng và nghiêm khắc, thường vì lý do đạo đức."
+          }
+        ],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "praise",
+            "meaning": "khen ngợi"
+          },
+          {
+            "form": "commend",
+            "meaning": "tuyên dương, khen ngợi"
+          },
+          {
+            "form": "applaud",
+            "meaning": "hoan nghênh"
+          },
+          {
+            "form": "compliment",
+            "meaning": "khen"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The coach chastised the team for their lack of effort during the second half of the game."
+      }
+    },
+    {
+      "id": "1761884326541",
+      "targetLexeme": "sermon",
+      "sourceContext": "Stories like that of the 24-year-olds Ana Regina and Magdalena Riethmüllerin, who were chastised in 1707 for reading novels instead of religious texts like a sermon.",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong bối cảnh tôn giáo của năm 1707, việc đọc tiểu thuyết bị khiển trách, trong khi 'sermon' được coi là văn bản nên đọc. 'Sermon' có lẽ là một loại bài viết hoặc bài nói mang tính tôn giáo, đạo đức. Đoán là 'bài giảng đạo', 'bài thuyết giáo'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsɜːrmən/",
+        "sentiment": "neutral",
+        "definitionEN": "A talk on a religious or moral subject, especially one given during a church service and based on a passage from the Bible.",
+        "translationVI": "Bài thuyết giáo, bài giảng đạo.",
+        "relatedCollocates": [
+          {
+            "form": "homily",
+            "meaning": "bài giảng (giải thích kinh thánh)"
+          },
+          {
+            "form": "lecture",
+            "meaning": "bài giảng, bài diễn văn"
+          },
+          {
+            "form": "discourse",
+            "meaning": "bài luận, bài thuyết trình"
+          },
+          {
+            "form": "address",
+            "meaning": "bài phát biểu"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "sermon",
+              "meaning": "bài thuyết giáo"
+            }
+          ],
+          "verb": [
+            {
+              "form": "sermonize",
+              "meaning": "thuyết giáo, lên lớp giảng đạo"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral (often in a religious context)",
+        "connotation": [
+          {
+            "connotationEN": "Can sometimes imply a long, tedious, or moralizing speech, even outside a religious context.",
+            "connotationVI": "Đôi khi có thể ngụ ý một bài phát biểu dài dòng, tẻ nhạt hoặc mang tính rao giảng đạo đức, ngay cả ngoài bối cảnh tôn giáo."
+          }
+        ],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "conversation",
+            "meaning": "cuộc trò chuyện"
+          },
+          {
+            "form": "chat",
+            "meaning": "cuộc tán gẫu"
+          },
+          {
+            "form": "gossip",
+            "meaning": "chuyện tầm phào"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The priest delivered a powerful sermon about forgiveness that moved many people in the church."
+      }
+    },
+    {
+      "id": "1761884338217",
+      "targetLexeme": "a 50-year-old spinster",
+      "sourceContext": "The database also reveals the case of Juliana Schweickherdt, a 50-year-old spinster living in the small Black Forest...",
+      "phase1Inference": {
+        "contextualGuessVI": "'50-year-old' là 50 tuổi. 'Spinster' mô tả một người phụ nữ 50 tuổi. Trong bối cảnh lịch sử, từ này có lẽ dùng để chỉ tình trạng hôn nhân. Đoán rằng 'spinster' có nghĩa là một người phụ nữ lớn tuổi nhưng chưa kết hôn."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈfɪfti jɪər oʊld ˈspɪnstər/",
+        "sentiment": "neutral (historically), negative (modern)",
+        "definitionEN": "An unmarried woman, typically an older woman beyond the usual age for marriage. This term is now often considered dated and potentially offensive.",
+        "translationVI": "Một người phụ nữ 50 tuổi chưa kết hôn (thường được gọi là bà cô, mang hàm ý đã quá lứa lỡ thì).",
+        "relatedCollocates": [
+          {
+            "form": "bachelorette",
+            "meaning": "phụ nữ độc thân (hiện đại, tích cực hơn)"
+          },
+          {
+            "form": "unmarried woman",
+            "meaning": "phụ nữ không kết hôn (trung tính)"
+          },
+          {
+            "form": "old maid",
+            "meaning": "bà cô già (rất tiêu cực và lỗi thời)"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "spinster",
+              "meaning": "người phụ nữ chưa chồng (lớn tuổi)"
+            },
+            {
+              "form": "spinsterhood",
+              "meaning": "tình trạng độc thân của phụ nữ lớn tuổi"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "dated, formal",
+        "connotation": [
+          {
+            "connotationEN": "Carries connotations of being unwanted, lonely, or having failed to achieve the social expectation of marriage.",
+            "connotationVI": "Mang hàm ý không được ai đoái hoài, cô đơn, hoặc đã thất bại trong việc đạt được kỳ vọng xã hội về hôn nhân."
+          }
+        ],
+        "usageNotes": [
+          {
+            "noteEN": "This term is rarely used in contemporary English except in historical contexts or when trying to be deliberately archaic or insulting. 'Single woman' is the preferred neutral term.",
+            "noteVI": "Từ này hiếm khi được sử dụng trong tiếng Anh đương đại ngoại trừ trong bối cảnh lịch sử hoặc khi cố ý tỏ ra cổ hủ hoặc xúc phạm. 'Single woman' là thuật ngữ trung tính được ưa chuộng hơn."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "wife",
+            "meaning": "người vợ"
+          },
+          {
+            "form": "bride",
+            "meaning": "cô dâu"
+          },
+          {
+            "form": "married woman",
+            "meaning": "phụ nữ đã có gia đình"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE",
+        "content": "Instead of calling her 'a 50-year-old spinster', a more modern and respectful description would be 'a 50-year-old single woman'."
+      }
+    },
+    {
+      "id": "1761884344202",
+      "targetLexeme": "reprimanded",
+      "sourceContext": "The database also reveals the case of Juliana Schweickherdt, a 50-year-old spinster... who was reprimanded for undertaking work that was reserved for men...",
+      "phase1Inference": {
+        "contextualGuessVI": "Tương tự như 'chastised', 'reprimanded' đi với 'for undertaking work', nghĩa là bị phạt hoặc bị chỉ trích vì làm một công việc. Đây là một hình thức khiển trách, có thể mang tính chính thức hơn."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈrɛprɪˌmændɪd/",
+        "sentiment": "negative",
+        "definitionEN": "To express to someone your strong official disapproval of them.",
+        "translationVI": "Khiển trách, quở trách (một cách chính thức).",
+        "relatedCollocates": [
+          {
+            "form": "admonish",
+            "meaning": "khiển trách, nhắc nhở"
+          },
+          {
+            "form": "chastise",
+            "meaning": "trừng phạt, khiển trách"
+          },
+          {
+            "form": "reproach",
+            "meaning": "chỉ trích, trách móc"
+          },
+          {
+            "form": "censure",
+            "meaning": "phê bình, chỉ trích gay gắt (công khai)"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "reprimand",
+              "meaning": "lời khiển trách"
+            }
+          ],
+          "verb": [
+            {
+              "form": "reprimand",
+              "meaning": "khiển trách"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Implies a formal rebuke, often from a person in a position of authority (e.g., a boss to an employee, a judge to a defendant).",
+            "connotationVI": "Ngụ ý một lời khiển trách chính thức, thường từ một người có thẩm quyền (ví dụ: sếp với nhân viên, thẩm phán với bị cáo)."
+          }
+        ],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "praised",
+            "meaning": "được khen ngợi"
+          },
+          {
+            "form": "commended",
+            "meaning": "được tuyên dương"
+          },
+          {
+            "form": "rewarded",
+            "meaning": "được khen thưởng"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The employee was formally reprimanded for repeatedly arriving late to work."
+      }
+    },
+    {
+      "id": "1761884349376",
+      "targetLexeme": "the local weavers' guild",
+      "sourceContext": "She was reprimanded by the local weavers' guild for undertaking work that was reserved for men...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Local' là địa phương, 'weavers' là thợ dệt. 'Guild' là một tổ chức có quyền khiển trách người khác. Trong bối cảnh lịch sử, đây có thể là một hiệp hội nghề nghiệp. Vậy 'the local weavers' guild' là 'phường hội/hiệp hội thợ dệt địa phương'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈloʊkəl ˈwivərz ɡɪld/",
+        "sentiment": "neutral",
+        "definitionEN": "An association of artisans or merchants in a particular area who oversee the practice of weaving as a craft or trade.",
+        "translationVI": "Phường hội thợ dệt địa phương.",
+        "relatedCollocates": [
+          {
+            "form": "trade union",
+            "meaning": "công đoàn, nghiệp đoàn"
+          },
+          {
+            "form": "craft association",
+            "meaning": "hiệp hội thủ công"
+          },
+          {
+            "form": "professional body",
+            "meaning": "tổ chức nghề nghiệp"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "guild",
+              "meaning": "phường hội"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "historical, formal",
+        "connotation": [
+          {
+            "connotationEN": "Associated with medieval and early modern periods, craftsmanship, regulation, and sometimes monopoly of a trade.",
+            "connotationVI": "Gắn liền với thời kỳ trung cổ và cận đại, nghề thủ công, các quy định, và đôi khi là sự độc quyền trong một ngành nghề."
+          }
+        ],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "open market",
+            "meaning": "thị trường mở"
+          },
+          {
+            "form": "freelance worker",
+            "meaning": "người làm nghề tự do"
+          },
+          {
+            "form": "independent artisan",
+            "meaning": "thợ thủ công độc lập"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "In the 16th century, you had to be a member of the local weavers' guild to legally sell cloth in the city."
+      }
+    },
+    {
+      "id": "1761884361048",
+      "targetLexeme": "weaving cloth",
+      "sourceContext": "She was reprimanded for... weaving cloth, combing wool and spinning...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Weaving' là hành động dệt, 'cloth' là vải. 'Weaving cloth' là một công việc cụ thể. Ghép lại có nghĩa là 'dệt vải'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈwiːvɪŋ klɔːθ/",
+        "sentiment": "neutral",
+        "definitionEN": "The action or craft of forming fabric by interlacing long threads passing in one direction with others at a right angle to them.",
+        "translationVI": "Dệt vải.",
+        "relatedCollocates": [
+          {
+            "form": "spinning yarn",
+            "meaning": "kéo sợi"
+          },
+          {
+            "form": "knitting garments",
+            "meaning": "đan quần áo"
+          },
+          {
+            "form": "textile production",
+            "meaning": "sản xuất dệt may"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "cloth-weaving",
+              "meaning": "nghề dệt vải"
+            }
+          ],
+          "verb": [
+            {
+              "form": "weave cloth",
+              "meaning": "dệt vải"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "sewing clothes",
+            "meaning": "may quần áo"
+          },
+          {
+            "form": "dyeing fabric",
+            "meaning": "nhuộm vải"
+          },
+          {
+            "form": "leatherworking",
+            "meaning": "làm đồ da"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The artisan spent her days weaving cloth on a traditional wooden loom."
+      }
+    },
+    {
+      "id": "1761884364210",
+      "targetLexeme": "combing wool",
+      "sourceContext": "She was reprimanded for... weaving cloth, combing wool and spinning...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Combing' là chải, 'wool' là len. Đây là một công đoạn trong quá trình xử lý len. Vậy 'combing wool' có nghĩa là 'chải len'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkoʊmɪŋ wʊl/",
+        "sentiment": "neutral",
+        "definitionEN": "The process of preparing wool fibers for spinning by arranging them in parallel and removing short fibers and impurities.",
+        "translationVI": "Chải len.",
+        "relatedCollocates": [
+          {
+            "form": "carding wool",
+            "meaning": "chải thô len"
+          },
+          {
+            "form": "shearing sheep",
+            "meaning": "xén lông cừu"
+          },
+          {
+            "form": "spinning wool",
+            "meaning": "kéo sợi len"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "comb wool",
+              "meaning": "chải len"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral, technical (textiles)",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "felting wool",
+            "meaning": "ép len (làm nỉ)"
+          },
+          {
+            "form": "knitting wool",
+            "meaning": "đan len"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Combing wool by hand was a laborious but essential step to produce high-quality yarn."
+      }
+    },
+    {
+      "id": "1761884370975",
+      "targetLexeme": "the guild ordinance",
+      "sourceContext": "...these jobs were reserved for men by the guild ordinance.",
+      "phase1Inference": {
+        "contextualGuessVI": "Hành động của người phụ nữ đã vi phạm 'the guild ordinance'. 'Guild' là phường hội. 'Ordinance' phải là một loại luật lệ, quy định. Vậy cả cụm từ có nghĩa là 'quy định của phường hội'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðiː ɡɪld ˈɔːrdənəns/",
+        "sentiment": "neutral",
+        "definitionEN": "A regulation, law, or decree enacted by a guild to govern its members and the practice of its trade.",
+        "translationVI": "Quy định/pháp lệnh của phường hội.",
+        "relatedCollocates": [
+          {
+            "form": "bylaw",
+            "meaning": "điều lệ, quy chế"
+          },
+          {
+            "form": "statute",
+            "meaning": "đạo luật"
+          },
+          {
+            "form": "regulation",
+            "meaning": "quy định"
+          },
+          {
+            "form": "decree",
+            "meaning": "sắc lệnh"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "ordinance",
+              "meaning": "pháp lệnh, quy định"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal, legal, historical",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "free trade",
+            "meaning": "thương mại tự do"
+          },
+          {
+            "form": "common practice",
+            "meaning": "tục lệ thông thường"
+          },
+          {
+            "form": "unregulated market",
+            "meaning": "thị trường không được kiểm soát"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "According to the guild ordinance, only master craftsmen were allowed to train apprentices."
+      }
+    },
+    {
+      "id": "1761884382776",
+      "targetLexeme": "summoned",
+      "sourceContext": "When Juliana continued taking jobs reserved for male guild members, she was summoned before the guild court and...",
+      "phase1Inference": {
+        "contextualGuessVI": "Vì tiếp tục vi phạm, cô ấy 'was summoned before the guild court' (tòa án của phường hội). Hành động 'summon' ở đây có nghĩa là bị gọi đến, bị triệu tập đến trước tòa."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsʌmənd/",
+        "sentiment": "negative (in context of a court)",
+        "definitionEN": "To officially order someone to be present; to call someone to appear in a law court.",
+        "translationVI": "Triệu tập, đòi hầu tòa.",
+        "relatedCollocates": [
+          {
+            "form": "call before",
+            "meaning": "gọi ra trước"
+          },
+          {
+            "form": "subpoena",
+            "meaning": "gửi trát đòi hầu tòa"
+          },
+          {
+            "form": "convene",
+            "meaning": "triệu tập (hội nghị)"
+          },
+          {
+            "form": "order to appear",
+            "meaning": "ra lệnh trình diện"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "summons",
+              "meaning": "giấy triệu tập, trát đòi hầu tòa"
+            }
+          ],
+          "verb": [
+            {
+              "form": "summon",
+              "meaning": "triệu tập"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "invite",
+            "meaning": "mời"
+          },
+          {
+            "form": "dismiss",
+            "meaning": "giải tán, cho về"
+          },
+          {
+            "form": "release",
+            "meaning": "thả, phóng thích"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The key witness was summoned to give testimony at the trial."
+      }
+    },
+    {
+      "id": "1761884389513",
+      "targetLexeme": "the guild court",
+      "sourceContext": "When Juliana continued taking jobs reserved for male guild members, she was summoned before the guild court and...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Guild' là phường hội, 'court' là tòa án. Đây là nơi xét xử các vi phạm liên quan đến phường hội. Vậy 'the guild court' là 'tòa án của phường hội'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ɡɪld kɔːrt/",
+        "sentiment": "neutral",
+        "definitionEN": "A judicial body established by a guild to enforce its ordinances, settle disputes, and discipline its members.",
+        "translationVI": "Tòa án của phường hội.",
+        "relatedCollocates": [
+          {
+            "form": "tribunal",
+            "meaning": "tòa án (đặc biệt)"
+          },
+          {
+            "form": "disciplinary committee",
+            "meaning": "ủy ban kỷ luật"
+          },
+          {
+            "form": "trade council",
+            "meaning": "hội đồng thương mại"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "guild court",
+              "meaning": "tòa án phường hội"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "historical, formal",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "civil court",
+            "meaning": "tòa án dân sự"
+          },
+          {
+            "form": "public court",
+            "meaning": "tòa án công"
+          },
+          {
+            "form": "supreme court",
+            "meaning": "tòa án tối cao"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The baker was brought before the guild court for selling underweight loaves of bread."
+      }
+    },
+    {
+      "id": "1761884400110",
+      "targetLexeme": "a fine equivalent",
+      "sourceContext": "...she was summoned before the guild court and ordered to pay a fine equivalent to a servant's annual wage.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Fine' là tiền phạt. 'Equivalent' là tương đương. 'A fine equivalent to X' có nghĩa là 'một khoản tiền phạt có giá trị tương đương với X'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə faɪn ɪˈkwɪvələnt/",
+        "sentiment": "negative",
+        "definitionEN": "A monetary penalty that has the same value as something else.",
+        "translationVI": "Một khoản phạt tương đương.",
+        "relatedCollocates": [
+          {
+            "form": "a penalty equal to",
+            "meaning": "một hình phạt bằng với"
+          },
+          {
+            "form": "a charge comparable to",
+            "meaning": "một khoản phí tương đương với"
+          },
+          {
+            "form": "a fee amounting to",
+            "meaning": "một khoản phí lên tới"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "fine",
+              "meaning": "khoản tiền phạt"
+            },
+            {
+              "form": "equivalent",
+              "meaning": "vật tương đương"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "equivalent",
+              "meaning": "tương đương"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "formal, legal",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "a reward",
+            "meaning": "một phần thưởng"
+          },
+          {
+            "form": "a bonus",
+            "meaning": "một khoản thưởng"
+          },
+          {
+            "form": "a discount",
+            "meaning": "một khoản giảm giá"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company had to pay a fine equivalent to 10% of its annual profit for violating environmental regulations."
+      }
+    },
+    {
+      "id": "1761884405722",
+      "targetLexeme": "a servant's annual wage",
+      "sourceContext": "...ordered to pay a fine equivalent to a servant's annual wage.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Servant' là người hầu, 'annual' là hàng năm, 'wage' là tiền lương. Cả cụm từ có nghĩa là 'tiền lương cả năm của một người hầu'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈsɜːrvənts ˈænjuəl weɪdʒ/",
+        "sentiment": "neutral",
+        "definitionEN": "The total amount of money earned by a domestic worker in one year.",
+        "translationVI": "Tiền lương cả năm của một người hầu.",
+        "relatedCollocates": [
+          {
+            "form": "yearly income",
+            "meaning": "thu nhập hàng năm"
+          },
+          {
+            "form": "annual salary",
+            "meaning": "lương năm"
+          },
+          {
+            "form": "a year's earnings",
+            "meaning": "thu nhập của một năm"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "wage",
+              "meaning": "tiền lương (thường trả theo giờ/tuần)"
+            },
+            {
+              "form": "servant",
+              "meaning": "người hầu"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "annual",
+              "meaning": "hàng năm"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "an hourly rate",
+            "meaning": "mức lương theo giờ"
+          },
+          {
+            "form": "a weekly allowance",
+            "meaning": "tiền trợ cấp hàng tuần"
+          },
+          {
+            "form": "a master's profit",
+            "meaning": "lợi nhuận của người chủ"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The fine was enormous for her, as it represented a servant's annual wage at the time."
+      }
+    },
+    {
+      "id": "1761884419887",
+      "targetLexeme": "a small act of defiance",
+      "sourceContext": "It was a small act of defiance by today's standards, but it reflects a time when laws in...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Small act' là hành động nhỏ. Hành động của Juliana là chống lại quy định. Vậy 'defiance' có nghĩa là sự chống đối, thách thức. 'A small act of defiance' là 'một hành động chống đối/thách thức nhỏ'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə smɔːl ækt əv dɪˈfaɪəns/",
+        "sentiment": "positive (implies courage)",
+        "definitionEN": "A minor action of open resistance or bold disobedience.",
+        "translationVI": "Một hành động thách thức/chống đối nhỏ.",
+        "relatedCollocates": [
+          {
+            "form": "an act of rebellion",
+            "meaning": "một hành động nổi loạn"
+          },
+          {
+            "form": "a gesture of resistance",
+            "meaning": "một cử chỉ phản kháng"
+          },
+          {
+            "form": "a show of opposition",
+            "meaning": "một sự thể hiện thái độ chống đối"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "defiance",
+              "meaning": "sự thách thức, sự chống đối"
+            }
+          ],
+          "verb": [
+            {
+              "form": "defy",
+              "meaning": "thách thức, bất chấp"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "defiant",
+              "meaning": "ngang ngạnh, thách thức"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "defiantly",
+              "meaning": "một cách thách thức"
+            }
+          ]
+        },
+        "register": "neutral",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "an act of compliance",
+            "meaning": "một hành động tuân thủ"
+          },
+          {
+            "form": "a gesture of submission",
+            "meaning": "một cử chỉ phục tùng"
+          },
+          {
+            "form": "an act of obedience",
+            "meaning": "một hành động vâng lời"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Wearing jeans to the formal event was her small act of defiance against the strict dress code."
+      }
+    },
+    {
+      "id": "1761884430510",
+      "targetLexeme": "labour market",
+      "sourceContext": "It was a small act of defiance by today's standards, but it reflects a time when laws in the labour market restricted women's opportunities.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Labour' là lao động, 'market' là thị trường. 'Labour market' là nơi có các luật lệ về công việc và cơ hội. Vậy đây là 'thị trường lao động'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈleɪbər ˈmɑːrkɪt/",
+        "sentiment": "neutral",
+        "definitionEN": "The system in which workers find employment and employers find workers; the supply of available workers in relation to the demand for them.",
+        "translationVI": "Thị trường lao động.",
+        "relatedCollocates": [
+          {
+            "form": "job market",
+            "meaning": "thị trường việc làm"
+          },
+          {
+            "form": "workforce",
+            "meaning": "lực lượng lao động"
+          },
+          {
+            "form": "employment sector",
+            "meaning": "khu vực việc làm"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "labour market",
+              "meaning": "thị trường lao động"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral, formal (economics)",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "product market",
+            "meaning": "thị trường sản phẩm"
+          },
+          {
+            "form": "financial market",
+            "meaning": "thị trường tài chính"
+          },
+          {
+            "form": "housing market",
+            "meaning": "thị trường nhà đất"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Technological advancements are constantly changing the demands of the modern labour market."
+      }
+    },
+    {
+      "id": "1761884437031",
+      "targetLexeme": "The dominance of guilds",
+      "sourceContext": "The dominance of guilds not only prevented people from using their skills, but also held back even the...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Dominance' là sự thống trị, sự áp đảo. 'Guilds' là các phường hội. Cụm từ này mô tả tình trạng các phường hội có quá nhiều quyền lực và kiểm soát. 'Sự thống trị của các phường hội'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˈdɒmɪnəns əv ɡɪldz/",
+        "sentiment": "negative (in context)",
+        "definitionEN": "The state of guilds having primary power, influence, and control over trades and industries.",
+        "translationVI": "Sự thống trị của các phường hội.",
+        "relatedCollocates": [
+          {
+            "form": "the supremacy of guilds",
+            "meaning": "quyền lực tối cao của các phường hội"
+          },
+          {
+            "form": "the control of guilds",
+            "meaning": "sự kiểm soát của các phường hội"
+          },
+          {
+            "form": "the prevalence of guilds",
+            "meaning": "sự thịnh hành của các phường hội"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "dominance",
+              "meaning": "sự thống trị"
+            },
+            {
+              "form": "guild",
+              "meaning": "phường hội"
+            }
+          ],
+          "verb": [
+            {
+              "form": "dominate",
+              "meaning": "thống trị"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "dominant",
+              "meaning": "có tính thống trị, vượt trội"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "formal, academic",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "free competition",
+            "meaning": "cạnh tranh tự do"
+          },
+          {
+            "form": "an open market economy",
+            "meaning": "nền kinh tế thị trường mở"
+          },
+          {
+            "form": "individual entrepreneurship",
+            "meaning": "tinh thần kinh doanh cá nhân"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Historians argue that the dominance of guilds stifled innovation in many European cities for centuries."
+      }
+    },
+    {
+      "id": "1761884447168",
+      "targetLexeme": "held back",
+      "sourceContext": "The dominance of guilds not only prevented people from using their skills, but also held back even the...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Hold back' là một cụm động từ. Trong ngữ cảnh 'held back even the...', nó có nghĩa là cản trở, kìm hãm sự phát triển của một cái gì đó. 'Kìm hãm, cản trở'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/hɛld bæk/",
+        "sentiment": "negative",
+        "definitionEN": "(Phrasal verb) To prevent the progress or development of someone or something.",
+        "translationVI": "Kìm hãm, cản trở.",
+        "relatedCollocates": [
+          {
+            "form": "hinder",
+            "meaning": "gây trở ngại"
+          },
+          {
+            "form": "impede",
+            "meaning": "cản trở"
+          },
+          {
+            "form": "restrain",
+            "meaning": "kiềm chế"
+          },
+          {
+            "form": "stifle",
+            "meaning": "đàn áp, làm cho ngột ngạt"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "hold back",
+              "meaning": "kìm hãm"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "promote",
+            "meaning": "thúc đẩy"
+          },
+          {
+            "form": "advance",
+            "meaning": "tiến bộ, đẩy mạnh"
+          },
+          {
+            "form": "encourage",
+            "meaning": "khuyến khích"
+          },
+          {
+            "form": "facilitate",
+            "meaning": "tạo điều kiện"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Fear of failure often held him back from pursuing his true passions."
+      }
+    },
+    {
+      "id": "1761884451659",
+      "targetLexeme": "data-gathering",
+      "sourceContext": "...but also held back even the most basic data-gathering.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Data' là dữ liệu. 'Gathering' là sự thu thập, tập hợp. Vậy 'data-gathering' là 'việc thu thập dữ liệu'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈdeɪtə ˌɡæðərɪŋ/",
+        "sentiment": "neutral",
+        "definitionEN": "The process of collecting information or data.",
+        "translationVI": "Việc thu thập dữ liệu.",
+        "relatedCollocates": [
+          {
+            "form": "data collection",
+            "meaning": "việc thu thập dữ liệu"
+          },
+          {
+            "form": "information gathering",
+            "meaning": "việc thu thập thông tin"
+          },
+          {
+            "form": "fact-finding",
+            "meaning": "việc tìm hiểu sự thật"
+          },
+          {
+            "form": "intelligence gathering",
+            "meaning": "việc thu thập tình báo"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "data-gathering",
+              "meaning": "việc thu thập dữ liệu"
+            }
+          ],
+          "verb": [
+            {
+              "form": "gather data",
+              "meaning": "thu thập dữ liệu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral, formal",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "data analysis",
+            "meaning": "phân tích dữ liệu"
+          },
+          {
+            "form": "data interpretation",
+            "meaning": "diễn giải dữ liệu"
+          },
+          {
+            "form": "data visualization",
+            "meaning": "trực quan hóa dữ liệu"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The first phase of the scientific study involves extensive data-gathering from multiple sources."
+      }
+    },
+    {
+      "id": "1761884464429",
+      "targetLexeme": "hold wealth constant",
+      "sourceContext": "One way to look at whether education causes economic growth is to 'hold wealth constant'.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Hold' là giữ, 'wealth' là của cải/sự giàu có, 'constant' là không đổi/hằng số. Trong ngữ cảnh nghiên cứu, cụm từ này có nghĩa là xem xét các yếu tố khác trong khi giả định rằng mức độ giàu có không thay đổi. 'Giữ cho sự giàu có không đổi' hoặc 'kiểm soát biến số của cải'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/hoʊld wɛlθ ˈkɒnstənt/",
+        "sentiment": "neutral",
+        "definitionEN": "In a statistical or experimental analysis, to control for the variable of wealth, treating it as if it does not change, in order to isolate the effects of other variables.",
+        "translationVI": "Giữ/coi sự giàu có là một hằng số (không đổi).",
+        "relatedCollocates": [
+          {
+            "form": "control for a variable",
+            "meaning": "kiểm soát một biến số"
+          },
+          {
+            "form": "keep something fixed",
+            "meaning": "giữ một cái gì đó cố định"
+          },
+          {
+            "form": "isolate an effect",
+            "meaning": "cô lập một tác động"
+          },
+          {
+            "form": "factor out",
+            "meaning": "loại bỏ yếu tố"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "hold constant",
+              "meaning": "giữ không đổi"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "academic, technical (research/statistics)",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "allow to vary",
+            "meaning": "cho phép thay đổi"
+          },
+          {
+            "form": "measure the impact of",
+            "meaning": "đo lường tác động của"
+          },
+          {
+            "form": "correlate with",
+            "meaning": "tương quan với"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "To accurately assess the pill's effectiveness, the researchers had to hold wealth constant and other lifestyle factors among the participants."
+      }
+    },
+    {
+      "id": "1761884470075",
+      "targetLexeme": "involves",
+      "sourceContext": "This involves following the lives of different people with the same level of wealth over a period of...",
+      "phase1Inference": {
+        "contextualGuessVI": "'This involves...' có nghĩa là 'việc này bao gồm...', 'việc này đòi hỏi...'. Từ 'involves' dùng để mô tả các thành phần hoặc các bước của một quá trình. Đoán nghĩa là 'bao gồm, liên quan đến'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈvɒlvz/",
+        "sentiment": "neutral",
+        "definitionEN": "To have or include something as a necessary part or result.",
+        "translationVI": "Bao gồm, đòi hỏi, liên quan đến.",
+        "relatedCollocates": [
+          {
+            "form": "entail",
+            "meaning": "đòi hỏi, kéo theo"
+          },
+          {
+            "form": "include",
+            "meaning": "bao gồm"
+          },
+          {
+            "form": "require",
+            "meaning": "yêu cầu"
+          },
+          {
+            "form": "necessitate",
+            "meaning": "đòi hỏi phải, cần phải có"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "involvement",
+              "meaning": "sự tham gia, sự liên quan"
+            }
+          ],
+          "verb": [
+            {
+              "form": "involve",
+              "meaning": "bao gồm"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "involved",
+              "meaning": "có liên quan, phức tạp"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral, formal",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "exclude",
+            "meaning": "loại trừ"
+          },
+          {
+            "form": "omit",
+            "meaning": "bỏ qua"
+          },
+          {
+            "form": "preclude",
+            "meaning": "ngăn cản, loại trừ"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The research process involves interviewing hundreds of participants across the country."
+      }
+    },
+    {
+      "id": "1761884483066",
+      "targetLexeme": "the cultivation of new crops",
+      "sourceContext": "If wealth is constant, it is possible to discover whether education was, for example, linked to the cultivation of new crops...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Cultivation' liên quan đến nông nghiệp. 'New crops' là cây trồng mới. Cả cụm từ có nghĩa là 'việc trồng trọt/canh tác các loại cây trồng mới'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə ˌkʌltɪˈveɪʃən əv njuː krɒps/",
+        "sentiment": "positive",
+        "definitionEN": "The process of preparing land and growing new types of plants for food or commercial purposes.",
+        "translationVI": "Việc canh tác các loại cây trồng mới.",
+        "relatedCollocates": [
+          {
+            "form": "agricultural innovation",
+            "meaning": "đổi mới nông nghiệp"
+          },
+          {
+            "form": "the introduction of new plants",
+            "meaning": "sự du nhập các loài cây mới"
+          },
+          {
+            "form": "crop diversification",
+            "meaning": "đa dạng hóa cây trồng"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "cultivation",
+              "meaning": "sự canh tác"
+            },
+            {
+              "form": "crop",
+              "meaning": "cây trồng, mùa màng"
+            }
+          ],
+          "verb": [
+            {
+              "form": "cultivate",
+              "meaning": "trồng trọt, canh tác"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal, neutral",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "traditional farming",
+            "meaning": "canh tác truyền thống"
+          },
+          {
+            "form": "animal husbandry",
+            "meaning": "ngành chăn nuôi"
+          },
+          {
+            "form": "harvesting wild plants",
+            "meaning": "thu hoạch cây dại"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government program encouraged the cultivation of new crops that were more resistant to drought."
+      }
+    },
+    {
+      "id": "1761884490989",
+      "targetLexeme": "the adoption of industrial innovation",
+      "sourceContext": "If wealth is constant, it is possible to discover whether education was... linked to... the adoption of industrial innovation...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Adoption' là sự tiếp nhận, áp dụng. 'Industrial innovation' là sự đổi mới công nghiệp. Cả cụm từ có nghĩa là 'việc áp dụng/tiếp nhận sự đổi mới công nghiệp'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðiː əˈdɒpʃən əv ɪnˈdʌstriəl ˌɪnəˈveɪʃən/",
+        "sentiment": "positive",
+        "definitionEN": "The act of starting to use new ideas, methods, or inventions in industry.",
+        "translationVI": "Việc áp dụng đổi mới công nghiệp.",
+        "relatedCollocates": [
+          {
+            "form": "the embrace of new technology",
+            "meaning": "việc đón nhận công nghệ mới"
+          },
+          {
+            "form": "the implementation of new processes",
+            "meaning": "việc triển khai các quy trình mới"
+          },
+          {
+            "form": "technological uptake",
+            "meaning": "sự tiếp thu công nghệ"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "adoption",
+              "meaning": "sự áp dụng"
+            },
+            {
+              "form": "innovation",
+              "meaning": "sự đổi mới"
+            }
+          ],
+          "verb": [
+            {
+              "form": "adopt",
+              "meaning": "áp dụng"
+            },
+            {
+              "form": "innovate",
+              "meaning": "đổi mới"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "industrial",
+              "meaning": "thuộc về công nghiệp"
+            },
+            {
+              "form": "innovative",
+              "meaning": "có tính đổi mới"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "formal, academic",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "resistance to change",
+            "meaning": "sự chống lại thay đổi"
+          },
+          {
+            "form": "technological stagnation",
+            "meaning": "sự trì trệ công nghệ"
+          },
+          {
+            "form": "maintaining tradition",
+            "meaning": "duy trì truyền thống"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The country's rapid economic growth was driven by the adoption of industrial innovation from abroad."
+      }
+    },
+    {
+      "id": "1761884493623",
+      "targetLexeme": "sewing machine",
+      "sourceContext": "...the adoption of industrial innovation (such as the sewing machine).",
+      "phase1Inference": {
+        "contextualGuessVI": "'Sewing' là may vá, 'machine' là cái máy. 'Sewing machine' là 'máy may'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈsoʊɪŋ məˌʃiːn/",
+        "sentiment": "neutral",
+        "definitionEN": "A machine with a mechanically driven needle for sewing or stitching cloth.",
+        "translationVI": "Máy may, máy khâu.",
+        "relatedCollocates": [
+          {
+            "form": "loom",
+            "meaning": "khung cửi"
+          },
+          {
+            "form": "spinning wheel",
+            "meaning": "xa quay sợi"
+          },
+          {
+            "form": "textile machinery",
+            "meaning": "máy móc dệt may"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "sewing machine",
+              "meaning": "máy may"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "hand sewing",
+            "meaning": "may tay"
+          },
+          {
+            "form": "needle and thread",
+            "meaning": "kim và chỉ"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The invention of the sewing machine revolutionized the garment industry."
+      }
+    },
+    {
+      "id": "1761884502033",
+      "targetLexeme": "aspect of education",
+      "sourceContext": "The team will also ask what aspect of education helped people engage more with productive and innovative activities.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Aspect' là khía cạnh, phương diện. 'Education' là giáo dục. Cả cụm từ có nghĩa là 'khía cạnh của giáo dục'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈæspɛkt əv ˌɛdʒʊˈkeɪʃən/",
+        "sentiment": "neutral",
+        "definitionEN": "A particular part, feature, or quality of the process of receiving or giving systematic instruction.",
+        "translationVI": "Khía cạnh của giáo dục.",
+        "relatedCollocates": [
+          {
+            "form": "element of education",
+            "meaning": "yếu tố của giáo dục"
+          },
+          {
+            "form": "component of learning",
+            "meaning": "thành phần của việc học"
+          },
+          {
+            "form": "feature of schooling",
+            "meaning": "đặc điểm của việc học ở trường"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "aspect",
+              "meaning": "khía cạnh"
+            },
+            {
+              "form": "education",
+              "meaning": "giáo dục"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "educational",
+              "meaning": "thuộc về giáo dục"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral, formal",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "the whole of education",
+            "meaning": "toàn bộ giáo dục"
+          },
+          {
+            "form": "the purpose of education",
+            "meaning": "mục đích của giáo dục"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Critical thinking is a crucial aspect of education that is often overlooked in favor of rote memorization."
+      }
+    },
+    {
+      "id": "1761884506602",
+      "targetLexeme": "engage more with",
+      "sourceContext": "The team will also ask what aspect of education helped people engage more with productive and innovative activities.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Engage with' có nghĩa là tham gia, tương tác với. 'Engage more with' có nghĩa là 'tham gia nhiều hơn vào', 'tương tác nhiều hơn với'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈɡeɪdʒ mɔːr wɪð/",
+        "sentiment": "positive",
+        "definitionEN": "To become more involved in, participate more actively in, or establish a greater connection with something.",
+        "translationVI": "Tham gia/tương tác nhiều hơn với.",
+        "relatedCollocates": [
+          {
+            "form": "participate more in",
+            "meaning": "tham gia nhiều hơn vào"
+          },
+          {
+            "form": "become more involved with",
+            "meaning": "trở nên liên quan nhiều hơn với"
+          },
+          {
+            "form": "interact more with",
+            "meaning": "tương tác nhiều hơn với"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "engagement",
+              "meaning": "sự tham gia, sự tương tác"
+            }
+          ],
+          "verb": [
+            {
+              "form": "engage",
+              "meaning": "tham gia, tương tác"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "engaging",
+              "meaning": "hấp dẫn, lôi cuốn"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral, formal",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "disengage from",
+            "meaning": "tách ra khỏi"
+          },
+          {
+            "form": "withdraw from",
+            "meaning": "rút lui khỏi"
+          },
+          {
+            "form": "be indifferent to",
+            "meaning": "thờ ơ với"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new curriculum is designed to help students engage more with hands-on, practical learning."
+      }
+    },
+    {
+      "id": "1761884541505",
+      "targetLexeme": "a threshold level",
+      "sourceContext": "Was there a threshold level a tipping point – that needed to be reached to affect economic performance?...",
+      "phase1Inference": {
+        "contextualGuessVI": "'Threshold' có nghĩa là ngưỡng cửa. 'Level' là mức độ. Ngữ cảnh có từ 'tipping point' (điểm bùng phát) để giải thích thêm. Vậy 'a threshold level' là 'một mức ngưỡng', điểm mà khi vượt qua thì một sự thay đổi sẽ xảy ra."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈθrɛʃhoʊld ˈlɛvəl/",
+        "sentiment": "neutral",
+        "definitionEN": "The minimum level or point at which something starts to happen, take effect, or change.",
+        "translationVI": "Một mức ngưỡng.",
+        "relatedCollocates": [
+          {
+            "form": "tipping point",
+            "meaning": "điểm bùng phát"
+          },
+          {
+            "form": "critical mass",
+            "meaning": "khối lượng tới hạn"
+          },
+          {
+            "form": "breaking point",
+            "meaning": "điểm giới hạn, điểm gãy"
+          },
+          {
+            "form": "minimum requirement",
+            "meaning": "yêu cầu tối thiểu"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "threshold",
+              "meaning": "ngưỡng"
+            },
+            {
+              "form": "level",
+              "meaning": "mức độ"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal, technical",
+        "connotation": [],
+        "usageNotes": [],
+        "contrastingCollocates": [
+          {
+            "form": "a ceiling",
+            "meaning": "một mức trần"
+          },
+          {
+            "form": "a peak level",
+            "meaning": "mức đỉnh điểm"
+          },
+          {
+            "form": "an average level",
+            "meaning": "một mức trung bình"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Scientists are trying to determine the threshold level of CO2 in the atmosphere that will trigger irreversible climate change."
+      }
+    }
+  ]
+}

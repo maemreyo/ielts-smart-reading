@@ -1,0 +1,1491 @@
+{
+  "batchInfo": {
+    "filename": "batch-01-of-04.json",
+    "batchNumber": 1,
+    "totalBatches": 4,
+    "itemCount": 25,
+    "createdFromMaster": "master-vocabulary.json"
+  },
+  "items": [
+    {
+      "id": "1761883833544",
+      "targetLexeme": "a huge database",
+      "sourceContext": "Over the last decade, a huge database about the lives of southwest German villagers between 1600 and 1900 has been compiled by researchers at Cambridge University's Faculty of Economics.",
+      "phase1Inference": {
+        "contextualGuessVI": "'huge' là to lớn, khổng lồ. 'database' là cơ sở dữ liệu. 'a huge database' là một cơ sở dữ liệu khổng lồ. Trong ngữ cảnh câu này, nó có nghĩa là một bộ sưu tập thông tin điện tử có cấu trúc và rất lớn về cuộc sống của người dân làng Đức."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə hjuːdʒ ˈdeɪtəbeɪs/",
+        "sentiment": "neutral",
+        "definitionEN": "A very large, structured set of data held in a computer, especially one that is accessible in various ways.",
+        "translationVI": "một cơ sở dữ liệu khổng lồ",
+        "relatedCollocates": [
+          {
+            "form": "a massive dataset",
+            "meaning": "một bộ dữ liệu khổng lồ"
+          },
+          {
+            "form": "a vast repository",
+            "meaning": "một kho lưu trữ rộng lớn"
+          },
+          {
+            "form": "an extensive archive",
+            "meaning": "một kho văn thư lớn"
+          },
+          {
+            "form": "a data warehouse",
+            "meaning": "một kho dữ liệu"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Implies a large volume of information, complexity, and potential for significant analysis.",
+            "connotationVI": "Hàm ý chỉ một lượng thông tin lớn, phức tạp và có tiềm năng cho việc phân tích sâu rộng."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "a small dataset",
+            "meaning": "một bộ dữ liệu nhỏ"
+          },
+          {
+            "form": "a limited collection of records",
+            "meaning": "một bộ sưu tập hồ sơ hạn chế"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government is creating a huge database to track vaccination records for the entire population."
+      }
+    },
+    {
+      "id": "1761883855989",
+      "targetLexeme": "the lives",
+      "sourceContext": "Over the last decade, a huge database about the lives of southwest German villagers between 1600 and 1900 has been compiled...",
+      "phase1Inference": {
+        "contextualGuessVI": "'lives' là dạng số nhiều của 'life', nghĩa là cuộc sống, cuộc đời. 'the lives of...' nghĩa là cuộc sống của những ai đó. Trong câu này, nó đề cập đến toàn bộ các khía cạnh và trải nghiệm trong sự tồn tại của những người dân làng Đức."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə laɪvz/",
+        "sentiment": "neutral",
+        "definitionEN": "The existence, experiences, and activities of a group of people.",
+        "translationVI": "những cuộc đời, cuộc sống (của nhiều người)",
+        "relatedCollocates": [
+          {
+            "form": "the existence of",
+            "meaning": "sự tồn tại của"
+          },
+          {
+            "form": "the experiences of",
+            "meaning": "những trải nghiệm của"
+          },
+          {
+            "form": "the daily routines of",
+            "meaning": "những thói quen hàng ngày của"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "life",
+              "meaning": "cuộc sống, sự sống (số ít)"
+            },
+            {
+              "form": "lives",
+              "meaning": "những cuộc đời (số nhiều)"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Encompasses the entire span of existence, including personal histories, relationships, and daily activities.",
+            "connotationVI": "Bao hàm toàn bộ vòng đời tồn tại, bao gồm lịch sử cá nhân, các mối quan hệ và hoạt động hàng ngày."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "the deaths",
+            "meaning": "những cái chết"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The documentary offered a glimpse into the lives of people living in remote mountain villages."
+      }
+    },
+    {
+      "id": "1761883858942",
+      "targetLexeme": "southwest German villagers",
+      "sourceContext": "Over the last decade, a huge database about the lives of southwest German villagers between 1600 and 1900 has been compiled...",
+      "phase1Inference": {
+        "contextualGuessVI": "'southwest' là tây nam, 'German' là thuộc về Đức, 'villagers' là dân làng. Cụm từ này có nghĩa là 'những người dân làng ở vùng tây nam nước Đức'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌsaʊθˈwɛst ˈdʒɜːrmən ˈvɪlɪdʒərz/",
+        "sentiment": "neutral",
+        "definitionEN": "People who inhabit a village in the southwestern region of Germany.",
+        "translationVI": "những người dân làng vùng tây nam nước Đức",
+        "relatedCollocates": [
+          {
+            "form": "rural inhabitants",
+            "meaning": "cư dân nông thôn"
+          },
+          {
+            "form": "country dwellers",
+            "meaning": "người ở miền quê"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "villager",
+              "meaning": "dân làng (số ít)"
+            },
+            {
+              "form": "village",
+              "meaning": "ngôi làng"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Suggests a focus on a specific, localized, and possibly rural population for historical study.",
+            "connotationVI": "Gợi ý sự tập trung vào một nhóm dân cư cụ thể, địa phương hóa và có thể là ở nông thôn cho một nghiên cứu lịch sử."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "urban residents",
+            "meaning": "cư dân đô thị"
+          },
+          {
+            "form": "city dwellers",
+            "meaning": "người ở thành phố"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The festival celebrates the unique traditions of the southwest German villagers from that region."
+      }
+    },
+    {
+      "id": "1761883863815",
+      "targetLexeme": "compiled by",
+      "sourceContext": "...a huge database ... has been compiled by researchers at Cambridge University's Faculty of Economics.",
+      "phase1Inference": {
+        "contextualGuessVI": "'compile' là biên soạn, tổng hợp. 'by' là bởi. 'compiled by' có nghĩa là được tổng hợp hoặc biên soạn bởi ai đó. Trong câu, nó chỉ ra người đã tạo ra cơ sở dữ liệu bằng cách thu thập thông tin."
+      },
+      "phase2Annotation": {
+        "phonetic": "/kəmˈpaɪld baɪ/",
+        "sentiment": "neutral",
+        "definitionEN": "Collected and put together (pieces of information) by someone or a group.",
+        "translationVI": "được biên soạn bởi, được tổng hợp bởi",
+        "relatedCollocates": [
+          {
+            "form": "assembled by",
+            "meaning": "được lắp ráp bởi"
+          },
+          {
+            "form": "gathered by",
+            "meaning": "được thu thập bởi"
+          },
+          {
+            "form": "collected by",
+            "meaning": "được sưu tầm bởi"
+          },
+          {
+            "form": "authored by",
+            "meaning": "được viết bởi (thường cho một tác phẩm gốc)"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "compilation",
+              "meaning": "sự biên soạn, tác phẩm biên soạn"
+            },
+            {
+              "form": "compiler",
+              "meaning": "người biên soạn"
+            }
+          ],
+          "verb": [
+            {
+              "form": "compile",
+              "meaning": "biên soạn, tổng hợp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": [
+          {
+            "noteEN": "Used in the passive voice to indicate the creator of a collection of information (e.g., a report, a list, a database).",
+            "noteVI": "Được dùng ở thể bị động để chỉ người tạo ra một bộ sưu tập thông tin (ví dụ: một báo cáo, một danh sách, một cơ sở dữ liệu)."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "created from scratch by",
+            "meaning": "được tạo ra từ đầu bởi"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "This anthology of poems was compiled by a renowned literary critic."
+      }
+    },
+    {
+      "id": "1761883875037",
+      "targetLexeme": "Cambridge University's Faculty of Economics",
+      "sourceContext": "...has been compiled by researchers at Cambridge University's Faculty of Economics.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đây là một tên riêng. 'Cambridge University' là Đại học Cambridge. 'Faculty' là khoa. 'of Economics' là kinh tế học. Vậy cả cụm có nghĩa là Khoa Kinh tế của Đại học Cambridge."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌkeɪmbrɪdʒ ˌjuːnɪˈvɜːrsətiz ˈfækəlti əv ˌiːkəˈnɒmɪks/",
+        "sentiment": "neutral",
+        "definitionEN": "The academic department responsible for the study and teaching of economics at Cambridge University.",
+        "translationVI": "Khoa Kinh tế của Đại học Cambridge",
+        "relatedCollocates": [
+          {
+            "form": "Economics Department",
+            "meaning": "Khoa/Bộ môn Kinh tế"
+          },
+          {
+            "form": "School of Economics",
+            "meaning": "Trường Kinh tế"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Prestigious, academic, authoritative.",
+            "connotationVI": "Uy tín, mang tính học thuật, có thẩm quyền."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "He graduated with top honors from Cambridge University's Faculty of Economics."
+      }
+    },
+    {
+      "id": "1761883879731",
+      "targetLexeme": "court records",
+      "sourceContext": "It includes court records, guild ledgers, parish registers, village censuses, tax lists and – the most recent addition – 60,000 handwritten inventories of the possessions of ordinary women and men.",
+      "phase1Inference": {
+        "contextualGuessVI": "'court' là tòa án. 'records' là hồ sơ, biên bản. 'court records' là hồ sơ tòa án. Trong ngữ cảnh liệt kê các tài liệu lịch sử, đây là những văn bản chính thức từ các phiên tòa."
+      },
+      "phase2Annotation": {
+        "phonetic": "/kɔːrt ˈrɛkərdz/",
+        "sentiment": "neutral",
+        "definitionEN": "Official documents containing the history of legal cases and proceedings in a court of law.",
+        "translationVI": "hồ sơ tòa án, biên bản phiên tòa",
+        "relatedCollocates": [
+          {
+            "form": "legal documents",
+            "meaning": "tài liệu pháp lý"
+          },
+          {
+            "form": "judicial archives",
+            "meaning": "lưu trữ tư pháp"
+          },
+          {
+            "form": "case files",
+            "meaning": "hồ sơ vụ án"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Official, factual, and legally significant.",
+            "connotationVI": "Chính thức, dựa trên sự thật, và có ý nghĩa pháp lý."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "personal diaries",
+            "meaning": "nhật ký cá nhân"
+          },
+          {
+            "form": "anecdotal evidence",
+            "meaning": "bằng chứng giai thoại"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The lawyer requested access to the court records from the previous trial."
+      }
+    },
+    {
+      "id": "1761883882230",
+      "targetLexeme": "guild ledgers",
+      "sourceContext": "It includes court records, guild ledgers, parish registers, village censuses, tax lists...",
+      "phase1Inference": {
+        "contextualGuessVI": "'guild' là phường hội (tổ chức của thợ thủ công thời xưa). 'ledger' là sổ cái kế toán. 'guild ledgers' là sổ sách kế toán của các phường hội, ghi chép các giao dịch, thành viên, và hoạt động kinh doanh."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɡɪld ˈlɛdʒərz/",
+        "sentiment": "neutral",
+        "definitionEN": "The official record books of a guild, an association of craftsmen or merchants, often containing financial accounts and membership details.",
+        "translationVI": "sổ sách của phường hội",
+        "relatedCollocates": [
+          {
+            "form": "account books",
+            "meaning": "sổ sách kế toán"
+          },
+          {
+            "form": "trade records",
+            "meaning": "hồ sơ thương mại"
+          },
+          {
+            "form": "membership rolls",
+            "meaning": "danh sách thành viên"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Historical, economic, related to crafts and trade.",
+            "connotationVI": "Mang tính lịch sử, kinh tế, liên quan đến thủ công và thương mại."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Historians studied the ancient guild ledgers to understand the city's economic structure."
+      }
+    },
+    {
+      "id": "1761883884796",
+      "targetLexeme": "parish registers",
+      "sourceContext": "It includes court records, guild ledgers, parish registers, village censuses, tax lists...",
+      "phase1Inference": {
+        "contextualGuessVI": "'parish' là giáo xứ. 'register' là sổ đăng ký. 'parish registers' là sổ đăng ký của giáo xứ. Đây là nơi nhà thờ ghi lại các sự kiện quan trọng như sinh, tử, kết hôn của giáo dân."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈpærɪʃ ˈrɛdʒɪstərz/",
+        "sentiment": "neutral",
+        "definitionEN": "Official records kept by a church parish, documenting baptisms, marriages, and burials.",
+        "translationVI": "sổ bộ giáo xứ",
+        "relatedCollocates": [
+          {
+            "form": "church records",
+            "meaning": "hồ sơ nhà thờ"
+          },
+          {
+            "form": "vital records",
+            "meaning": "hồ sơ hộ tịch"
+          },
+          {
+            "form": "genealogical records",
+            "meaning": "hồ sơ phả hệ"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Relates to demography, genealogy, and social history through a religious lens.",
+            "connotationVI": "Liên quan đến nhân khẩu học, phả hệ và lịch sử xã hội qua lăng kính tôn giáo."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "civil registration",
+            "meaning": "đăng ký hộ tịch dân sự (của nhà nước)"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She traced her family tree back to the 17th century using old parish registers."
+      }
+    },
+    {
+      "id": "1761883888203",
+      "targetLexeme": "village censuses",
+      "sourceContext": "It includes court records, guild ledgers, parish registers, village censuses, tax lists...",
+      "phase1Inference": {
+        "contextualGuessVI": "'village' là làng. 'census' là điều tra dân số. 'village censuses' là các cuộc điều tra dân số cấp làng, dùng để đếm và thu thập thông tin về những người sống trong làng."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈvɪlɪdʒ ˈsɛnsəsɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "Official counts or surveys of the population and property within a village.",
+        "translationVI": "các cuộc điều tra dân số trong làng",
+        "relatedCollocates": [
+          {
+            "form": "population counts",
+            "meaning": "thống kê dân số"
+          },
+          {
+            "form": "demographic surveys",
+            "meaning": "khảo sát nhân khẩu học"
+          },
+          {
+            "form": "headcounts",
+            "meaning": "sự điểm danh, đếm đầu người"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "census",
+              "meaning": "cuộc điều tra dân số"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The old village censuses provide valuable data on household sizes and occupations from the past."
+      }
+    },
+    {
+      "id": "1761883890765",
+      "targetLexeme": "tax lists",
+      "sourceContext": "It includes court records, guild ledgers, parish registers, village censuses, tax lists...",
+      "phase1Inference": {
+        "contextualGuessVI": "'tax' là thuế. 'lists' là danh sách. 'tax lists' là danh sách thuế. Đây là các tài liệu ghi lại những người phải nộp thuế và số tiền họ nợ, cung cấp thông tin về sự giàu có và nghề nghiệp."
+      },
+      "phase2Annotation": {
+        "phonetic": "/tæks lɪsts/",
+        "sentiment": "neutral",
+        "definitionEN": "Official records listing individuals or properties subject to taxation and the amount of tax assessed.",
+        "translationVI": "danh sách thuế, sổ thuế",
+        "relatedCollocates": [
+          {
+            "form": "tax rolls",
+            "meaning": "sổ bộ thuế"
+          },
+          {
+            "form": "assessment records",
+            "meaning": "hồ sơ định giá (thuế)"
+          },
+          {
+            "form": "fiscal documents",
+            "meaning": "tài liệu tài khóa"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Economic, governmental, provides insight into wealth and property ownership.",
+            "connotationVI": "Mang tính kinh tế, chính quyền, cung cấp cái nhìn sâu sắc về sự giàu có và quyền sở hữu tài sản."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "By examining the tax lists, she could determine who were the wealthiest landowners in the county."
+      }
+    },
+    {
+      "id": "1761883897972",
+      "targetLexeme": "handwritten inventories",
+      "sourceContext": "...and – the most recent addition – 60,000 handwritten inventories of the possessions of ordinary women and men.",
+      "phase1Inference": {
+        "contextualGuessVI": "'handwritten' là viết tay. 'inventories' là bảng kiểm kê hàng hóa, tài sản. 'handwritten inventories' là các bảng kiểm kê được viết bằng tay, liệt kê tài sản của ai đó."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈhændˌrɪtən ˈɪnvəntɔːriz/",
+        "sentiment": "neutral",
+        "definitionEN": "Lists of possessions or goods made by hand, not typed or printed.",
+        "translationVI": "bản kiểm kê viết tay",
+        "relatedCollocates": [
+          {
+            "form": "manual lists",
+            "meaning": "danh sách thủ công"
+          },
+          {
+            "form": "written records",
+            "meaning": "hồ sơ dạng văn bản"
+          },
+          {
+            "form": "lists of possessions",
+            "meaning": "danh sách tài sản"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "inventory",
+              "meaning": "bản kiểm kê"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Suggests primary source material that is personal and not mass-produced, offering authentic insight.",
+            "connotationVI": "Gợi ý đây là tài liệu nguồn sơ cấp, mang tính cá nhân và không được sản xuất hàng loạt, cung cấp cái nhìn chân thực."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "printed catalogues",
+            "meaning": "danh mục in ấn"
+          },
+          {
+            "form": "digital spreadsheets",
+            "meaning": "bảng tính kỹ thuật số"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The museum acquired a collection of handwritten inventories from the 18th-century merchant's estate."
+      }
+    },
+    {
+      "id": "1761883913895",
+      "targetLexeme": "ordinary women and men",
+      "sourceContext": "...60,000 handwritten inventories of the possessions of ordinary women and men.",
+      "phase1Inference": {
+        "contextualGuessVI": "'ordinary' là bình thường, thông thường. 'women and men' là phụ nữ và đàn ông. Cụm từ này có nghĩa là những người bình thường, không phải quý tộc hay nhân vật quan trọng, tức là tầng lớp bình dân trong xã hội."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈɔːrdəneri ˈwɪmɪn ænd mɛn/",
+        "sentiment": "neutral",
+        "definitionEN": "Common, average people, not those who are famous, noble, or hold high positions.",
+        "translationVI": "những người đàn ông và phụ nữ bình thường",
+        "relatedCollocates": [
+          {
+            "form": "common people",
+            "meaning": "người dân thường"
+          },
+          {
+            "form": "everyday folk",
+            "meaning": "người bình dân"
+          },
+          {
+            "form": "the general populace",
+            "meaning": "quần chúng nhân dân"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Highlights a focus on social history from the 'bottom-up', looking at the lives of the majority rather than the elite.",
+            "connotationVI": "Nhấn mạnh sự tập trung vào lịch sử xã hội từ 'dưới lên', xem xét cuộc sống của đa số thay vì tầng lớp tinh hoa."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "the elite",
+            "meaning": "tầng lớp tinh hoa"
+          },
+          {
+            "form": "the aristocracy",
+            "meaning": "tầng lớp quý tộc"
+          },
+          {
+            "form": "prominent figures",
+            "meaning": "những nhân vật nổi bật"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The novel tells the story of how major historical events affected ordinary women and men."
+      }
+    },
+    {
+      "id": "1761883928410",
+      "targetLexeme": "the archives",
+      "sourceContext": "Ogilvie, who discovered the inventories in the archives of two German communities 30 years ago, believes they may hold the key to a conundrum that has long puzzled economists: the lack of evidence for a causal link between education and a country's economic growth.",
+      "phase1Inference": {
+        "contextualGuessVI": "'archives' là nơi lưu trữ tài liệu. 'in the archives' là trong kho lưu trữ. Đây là nơi cất giữ các tài liệu lịch sử, hồ sơ quan trọng của một tổ chức hoặc cộng đồng."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ði ˈɑːrkaɪvz/",
+        "sentiment": "neutral",
+        "definitionEN": "A collection of historical documents or records providing information about a place, institution, or group of people.",
+        "translationVI": "kho lưu trữ, văn khố",
+        "relatedCollocates": [
+          {
+            "form": "the records",
+            "meaning": "các hồ sơ"
+          },
+          {
+            "form": "historical documents",
+            "meaning": "tài liệu lịch sử"
+          },
+          {
+            "form": "a repository",
+            "meaning": "một kho lưu trữ"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "archive",
+              "meaning": "kho lưu trữ (số ít), việc lưu trữ"
+            }
+          ],
+          "verb": [
+            {
+              "form": "archive",
+              "meaning": "lưu trữ"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Suggests official, primary-source materials that are preserved for their historical significance.",
+            "connotationVI": "Gợi ý các tài liệu nguồn sơ cấp, chính thức được bảo quản vì ý nghĩa lịch sử của chúng."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": []
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "She spent weeks in the national archives researching for her book on the war."
+      }
+    },
+    {
+      "id": "1761883935314",
+      "targetLexeme": "a conundrum",
+      "sourceContext": "...they may hold the key to a conundrum that has long puzzled economists...",
+      "phase1Inference": {
+        "contextualGuessVI": "Từ này đứng trong ngữ cảnh một thứ 'đã làm các nhà kinh tế học bối rối từ lâu'. Vậy 'a conundrum' phải là một vấn đề khó, một câu hỏi hóc búa, một điều bí ẩn chưa có lời giải đáp."
+      },
+      "phase2Annotation": {
+        "phonetic": "/kəˈnʌndrəm/",
+        "sentiment": "neutral",
+        "definitionEN": "A confusing and difficult problem or question.",
+        "translationVI": "một vấn đề nan giải, một câu hỏi hóc búa",
+        "relatedCollocates": [
+          {
+            "form": "a puzzle",
+            "meaning": "một câu đố"
+          },
+          {
+            "form": "a riddle",
+            "meaning": "một điều bí ẩn"
+          },
+          {
+            "form": "a dilemma",
+            "meaning": "một tình thế tiến thoái lưỡng nan"
+          },
+          {
+            "form": "a mystery",
+            "meaning": "một điều bí ẩn"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "conundrum",
+              "meaning": "vấn đề nan giải (số ít)"
+            },
+            {
+              "form": "conundrums",
+              "meaning": "những vấn đề nan giải (số nhiều)"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Suggests a problem that is intellectually challenging and has no obvious solution.",
+            "connotationVI": "Gợi ý một vấn đề có tính thách thức về mặt trí tuệ và không có giải pháp rõ ràng."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "a simple question",
+            "meaning": "một câu hỏi đơn giản"
+          },
+          {
+            "form": "a clear solution",
+            "meaning": "một giải pháp rõ ràng"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "How to reduce traffic congestion in the city without limiting public access remains a conundrum for urban planners."
+      }
+    },
+    {
+      "id": "1761883948381",
+      "targetLexeme": "the lack of evidence",
+      "sourceContext": "...the lack of evidence for a causal link between education and a country's economic growth.",
+      "phase1Inference": {
+        "contextualGuessVI": "'lack' là sự thiếu hụt. 'evidence' là bằng chứng. 'the lack of evidence' là sự thiếu bằng chứng. Cụm từ này chỉ tình trạng không có đủ thông tin hoặc sự thật để chứng minh một điều gì đó."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ðə læk əv ˈɛvɪdəns/",
+        "sentiment": "negative",
+        "definitionEN": "The state of not having enough proof or information to support a belief or proposition.",
+        "translationVI": "sự thiếu bằng chứng",
+        "relatedCollocates": [
+          {
+            "form": "a scarcity of proof",
+            "meaning": "sự khan hiếm bằng chứng"
+          },
+          {
+            "form": "insufficient data",
+            "meaning": "dữ liệu không đủ"
+          },
+          {
+            "form": "dearth of information",
+            "meaning": "sự khan hiếm thông tin"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Implies a weakness in an argument or theory; a gap in knowledge.",
+            "connotationVI": "Hàm ý một điểm yếu trong lập luận hoặc lý thuyết; một lỗ hổng trong kiến thức."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "an abundance of evidence",
+            "meaning": "sự dồi dào bằng chứng"
+          },
+          {
+            "form": "conclusive proof",
+            "meaning": "bằng chứng thuyết phục"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The case was dismissed due to the lack of evidence against the suspect."
+      }
+    },
+    {
+      "id": "1761883951574",
+      "targetLexeme": "a causal link",
+      "sourceContext": "...the lack of evidence for a causal link between education and a country's economic growth.",
+      "phase1Inference": {
+        "contextualGuessVI": "'causal' có vẻ liên quan đến 'cause' (nguyên nhân). 'link' là mối liên kết. 'a causal link' là một mối liên kết nhân quả. Nó có nghĩa là một mối quan hệ mà trong đó một sự việc (nguyên nhân) trực tiếp gây ra một sự việc khác (kết quả)."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈkɔːzəl lɪŋk/",
+        "sentiment": "neutral",
+        "definitionEN": "A cause-and-effect relationship between two events or variables, where one is a direct result of the other.",
+        "translationVI": "một mối liên hệ nhân quả",
+        "relatedCollocates": [
+          {
+            "form": "a direct correlation",
+            "meaning": "một sự tương quan trực tiếp"
+          },
+          {
+            "form": "a cause-and-effect relationship",
+            "meaning": "một mối quan hệ nguyên nhân-kết quả"
+          },
+          {
+            "form": "a connection",
+            "meaning": "một sự kết nối"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "causality",
+              "meaning": "quan hệ nhân quả"
+            },
+            {
+              "form": "cause",
+              "meaning": "nguyên nhân"
+            }
+          ],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "causal",
+              "meaning": "thuộc về nhân quả"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Academic, scientific, implies a proven connection rather than just a coincidence.",
+            "connotationVI": "Học thuật, khoa học, hàm ý một mối liên kết đã được chứng minh chứ không chỉ là sự trùng hợp."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "a mere correlation",
+            "meaning": "một sự tương quan đơn thuần"
+          },
+          {
+            "form": "a coincidence",
+            "meaning": "một sự trùng hợp ngẫu nhiên"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Scientists are still trying to establish a causal link between the new virus and the recent outbreak of the disease."
+      }
+    },
+    {
+      "id": "1761883962149",
+      "targetLexeme": "economic growth",
+      "sourceContext": "...a causal link between education and a country's economic growth.",
+      "phase1Inference": {
+        "contextualGuessVI": "'economic' là thuộc về kinh tế. 'growth' là sự tăng trưởng. 'economic growth' là sự tăng trưởng kinh tế, tức là sự gia tăng về sản lượng hàng hóa và dịch vụ của một quốc gia."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈnɒmɪk ɡroʊθ/",
+        "sentiment": "positive",
+        "definitionEN": "An increase in the amount of goods and services produced per head of the population over a period of time.",
+        "translationVI": "tăng trưởng kinh tế",
+        "relatedCollocates": [
+          {
+            "form": "economic development",
+            "meaning": "phát triển kinh tế"
+          },
+          {
+            "form": "prosperity",
+            "meaning": "sự thịnh vượng"
+          },
+          {
+            "form": "economic expansion",
+            "meaning": "sự mở rộng kinh tế"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "economic recession",
+            "meaning": "suy thoái kinh tế"
+          },
+          {
+            "form": "economic stagnation",
+            "meaning": "trì trệ kinh tế"
+          },
+          {
+            "form": "economic decline",
+            "meaning": "suy giảm kinh tế"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The government implemented new policies to stimulate economic growth after the recession."
+      }
+    },
+    {
+      "id": "1761883970895",
+      "targetLexeme": "more productively",
+      "sourceContext": "'The inventories are a fantastic resource,' she says. 'They enable us to see how an economy worked from the bottom up, and to understand what was critical for ordinary people to be able to work more productively, to invent and to create wealth.'",
+      "phase1Inference": {
+        "contextualGuessVI": "'productively' là một cách năng suất. 'more productively' là một cách năng suất hơn. Trong ngữ cảnh này, nó có nghĩa là làm việc hiệu quả hơn, tạo ra nhiều giá trị hơn trong cùng một khoảng thời gian hoặc với cùng một lượng tài nguyên."
+      },
+      "phase2Annotation": {
+        "phonetic": "/mɔːr prəˈdʌktɪvli/",
+        "sentiment": "positive",
+        "definitionEN": "In a way that achieves a greater amount or result with a given quantity of resources.",
+        "translationVI": "một cách năng suất hơn",
+        "relatedCollocates": [
+          {
+            "form": "more efficiently",
+            "meaning": "một cách hiệu quả hơn"
+          },
+          {
+            "form": "more effectively",
+            "meaning": "một cách hiệu lực hơn"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "productivity",
+              "meaning": "năng suất"
+            },
+            {
+              "form": "product",
+              "meaning": "sản phẩm"
+            }
+          ],
+          "verb": [
+            {
+              "form": "produce",
+              "meaning": "sản xuất"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "productive",
+              "meaning": "có năng suất"
+            }
+          ],
+          "adverb": [
+            {
+              "form": "productively",
+              "meaning": "một cách năng suất"
+            }
+          ]
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "less productively",
+            "meaning": "kém năng suất hơn"
+          },
+          {
+            "form": "less efficiently",
+            "meaning": "kém hiệu quả hơn"
+          },
+          {
+            "form": "wastefully",
+            "meaning": "một cách lãng phí"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "By adopting new technology, the factory was able to use its resources more productively."
+      }
+    },
+    {
+      "id": "1761883977270",
+      "targetLexeme": "invent",
+      "sourceContext": "...to be able to work more productively, to invent and to create wealth.'",
+      "phase1Inference": {
+        "contextualGuessVI": "'invent' là một động từ, thường đi với các ý tưởng, máy móc. Nó có nghĩa là phát minh, sáng chế ra một thứ gì đó hoàn toàn mới chưa từng tồn tại trước đây."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈvɛnt/",
+        "sentiment": "positive",
+        "definitionEN": "To create or design something that has not existed before.",
+        "translationVI": "phát minh, sáng chế",
+        "relatedCollocates": [
+          {
+            "form": "create",
+            "meaning": "sáng tạo"
+          },
+          {
+            "form": "devise",
+            "meaning": "nghĩ ra, sáng chế"
+          },
+          {
+            "form": "originate",
+            "meaning": "khởi nguồn"
+          },
+          {
+            "form": "innovate",
+            "meaning": "đổi mới"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "invention",
+              "meaning": "sự phát minh, vật phát minh"
+            },
+            {
+              "form": "inventor",
+              "meaning": "nhà phát minh"
+            }
+          ],
+          "verb": [
+            {
+              "form": "invent",
+              "meaning": "phát minh"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "inventive",
+              "meaning": "có tài phát minh, sáng tạo"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "copy",
+            "meaning": "sao chép"
+          },
+          {
+            "form": "imitate",
+            "meaning": "bắt chước"
+          },
+          {
+            "form": "discover",
+            "meaning": "khám phá (tìm ra thứ đã tồn tại)"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Alexander Graham Bell is credited with inventing the telephone in 1876."
+      }
+    },
+    {
+      "id": "1761883990560",
+      "targetLexeme": "critical for",
+      "sourceContext": "...and to understand what was critical for ordinary people to be able to work more productively...",
+      "phase1Inference": {
+        "contextualGuessVI": "'critical' có nhiều nghĩa, nhưng trong ngữ cảnh 'critical for something', nó có nghĩa là rất quan trọng, thiết yếu, không thể thiếu cho việc gì đó. Ở đây là 'quan trọng để người dân có thể làm việc năng suất hơn'."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈkrɪtɪkəl fɔːr/",
+        "sentiment": "positive",
+        "definitionEN": "Extremely important or necessary for the success or existence of something.",
+        "translationVI": "quan trọng thiết yếu cho, cốt yếu cho",
+        "relatedCollocates": [
+          {
+            "form": "essential for",
+            "meaning": "thiết yếu cho"
+          },
+          {
+            "form": "vital for",
+            "meaning": "sống còn cho"
+          },
+          {
+            "form": "crucial for",
+            "meaning": "cốt yếu cho"
+          },
+          {
+            "form": "indispensable for",
+            "meaning": "không thể thiếu cho"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Implies a point of decisive importance; without this element, failure is likely.",
+            "connotationVI": "Hàm ý một điểm quan trọng có tính quyết định; không có yếu tố này, thất bại rất có thể xảy ra."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "unimportant for",
+            "meaning": "không quan trọng cho"
+          },
+          {
+            "form": "irrelevant to",
+            "meaning": "không liên quan đến"
+          },
+          {
+            "form": "optional for",
+            "meaning": "tùy chọn cho"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Good communication is critical for the success of any team project."
+      }
+    },
+    {
+      "id": "1761884007691",
+      "targetLexeme": "look back through history",
+      "sourceContext": "But, if you look back through history, there's no evidence that having a high literacy rate made a country industrialise.",
+      "phase1Inference": {
+        "contextualGuessVI": "'look back' là nhìn lại. 'through history' là xuyên suốt lịch sử. Cụm từ này có nghĩa là xem xét, nghiên cứu lại các sự kiện trong quá khứ."
+      },
+      "phase2Annotation": {
+        "phonetic": "/lʊk bæk θruː ˈhɪstəri/",
+        "sentiment": "neutral",
+        "definitionEN": "To examine or consider events that happened in the past.",
+        "translationVI": "nhìn lại lịch sử",
+        "relatedCollocates": [
+          {
+            "form": "review the past",
+            "meaning": "xem xét lại quá khứ"
+          },
+          {
+            "form": "examine historical records",
+            "meaning": "nghiên cứu hồ sơ lịch sử"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "informal",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "look forward to the future",
+            "meaning": "hướng tới tương lai"
+          },
+          {
+            "form": "focus on the present",
+            "meaning": "tập trung vào hiện tại"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "When we look back through history, we can see how much technology has changed our lives."
+      }
+    },
+    {
+      "id": "1761884016797",
+      "targetLexeme": "a high literacy rate",
+      "sourceContext": "...there's no evidence that having a high literacy rate made a country industrialise.",
+      "phase1Inference": {
+        "contextualGuessVI": "'high' là cao. 'literacy' là sự biết chữ. 'rate' là tỉ lệ. 'a high literacy rate' là một tỉ lệ biết chữ cao, có nghĩa là phần trăm dân số có khả năng đọc và viết là rất lớn."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə haɪ ˈlɪtərəsi reɪt/",
+        "sentiment": "positive",
+        "definitionEN": "A large percentage of the population that is able to read and write.",
+        "translationVI": "tỉ lệ biết chữ cao",
+        "relatedCollocates": [
+          {
+            "form": "widespread literacy",
+            "meaning": "sự biết chữ phổ biến"
+          },
+          {
+            "form": "high educational attainment",
+            "meaning": "trình độ học vấn cao"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "a low literacy rate",
+            "meaning": "tỉ lệ biết chữ thấp"
+          },
+          {
+            "form": "widespread illiteracy",
+            "meaning": "nạn mù chữ lan rộng"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Countries with a high literacy rate often have more developed economies."
+      }
+    },
+    {
+      "id": "1761884022188",
+      "targetLexeme": "industrialise",
+      "sourceContext": "...there's no evidence that having a high literacy rate made a country industrialise.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đây là động từ của 'industry' (công nghiệp). 'industrialise' có nghĩa là công nghiệp hóa, tức là phát triển các ngành công nghiệp trên quy mô lớn ở một quốc gia."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪnˈdʌstriəlaɪz/",
+        "sentiment": "neutral",
+        "definitionEN": "To develop industries in a country or region on a wide scale.",
+        "translationVI": "công nghiệp hóa",
+        "relatedCollocates": [
+          {
+            "form": "modernize",
+            "meaning": "hiện đại hóa"
+          },
+          {
+            "form": "develop",
+            "meaning": "phát triển"
+          },
+          {
+            "form": "mechanize",
+            "meaning": "cơ giới hóa"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "industrialisation",
+              "meaning": "sự công nghiệp hóa"
+            },
+            {
+              "form": "industry",
+              "meaning": "ngành công nghiệp"
+            }
+          ],
+          "verb": [
+            {
+              "form": "industrialise",
+              "meaning": "công nghiệp hóa"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "industrial",
+              "meaning": "thuộc về công nghiệp"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Associated with major economic and social transformation, often moving from an agrarian to a manufacturing-based economy.",
+            "connotationVI": "Liên quan đến sự chuyển đổi lớn về kinh tế và xã hội, thường là từ nền kinh tế nông nghiệp sang kinh tế dựa trên sản xuất."
+          }
+        ],
+        "usageNotes": [
+          {
+            "noteEN": "The spelling 'industrialize' is common in American English.",
+            "noteVI": "Cách viết 'industrialize' phổ biến trong tiếng Anh-Mỹ."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "remain agrarian",
+            "meaning": "vẫn là (nước) nông nghiệp"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Britain was the first country to industrialise during the 18th century."
+      }
+    },
+    {
+      "id": "1761884028962",
+      "targetLexeme": "mediocre literacy rates",
+      "sourceContext": "In fact, many of the first countries to industrialise, such as Britain and the Netherlands, had mediocre literacy rates, yet they were very successful.",
+      "phase1Inference": {
+        "contextualGuessVI": "'mediocre' có nghĩa là tầm thường, trung bình, không tốt cũng không xấu. 'literacy rates' là tỉ lệ biết chữ. Vậy 'mediocre literacy rates' là tỉ lệ biết chữ ở mức tầm thường, không cao không thấp."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌmiːdiˈoʊkər ˈlɪtərəsi reɪts/",
+        "sentiment": "negative",
+        "definitionEN": "A percentage of the population able to read and write that is of only average or moderate quality; not very good.",
+        "translationVI": "tỉ lệ biết chữ tầm thường",
+        "relatedCollocates": [
+          {
+            "form": "average literacy levels",
+            "meaning": "mức độ biết chữ trung bình"
+          },
+          {
+            "form": "unimpressive literacy rates",
+            "meaning": "tỉ lệ biết chữ không ấn tượng"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Slightly negative, suggesting something is not as good as it could or should be.",
+            "connotationVI": "Hơi tiêu cực, gợi ý rằng một cái gì đó không tốt như nó có thể hoặc nên có."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "high literacy rates",
+            "meaning": "tỉ lệ biết chữ cao"
+          },
+          {
+            "form": "excellent literacy levels",
+            "meaning": "mức độ biết chữ xuất sắc"
+          },
+          {
+            "form": "low literacy rates",
+            "meaning": "tỉ lệ biết chữ thấp"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The restaurant received a review describing its food as having a mediocre taste, which was disappointing for the chef."
+      }
+    },
+    {
+      "id": "1761884044630",
+      "targetLexeme": "yet",
+      "sourceContext": "...had mediocre literacy rates, yet they were very successful.",
+      "phase1Inference": {
+        "contextualGuessVI": "'yet' ở đây được dùng như một liên từ. Câu trước nói 'tỉ lệ biết chữ tầm thường' (một điều có vẻ tiêu cực), câu sau nói 'họ rất thành công' (một điều tích cực). Vậy 'yet' có nghĩa là 'nhưng', 'tuy nhiên', dùng để nối hai ý tương phản."
+      },
+      "phase2Annotation": {
+        "phonetic": "/jɛt/",
+        "sentiment": "neutral",
+        "definitionEN": "(Conjunction) But at the same time; but nevertheless.",
+        "translationVI": "tuy nhiên, thế mà",
+        "relatedCollocates": [
+          {
+            "form": "but",
+            "meaning": "nhưng"
+          },
+          {
+            "form": "however",
+            "meaning": "tuy nhiên"
+          },
+          {
+            "form": "nevertheless",
+            "meaning": "tuy nhiên"
+          },
+          {
+            "form": "still",
+            "meaning": "vẫn"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": [
+            {
+              "form": "yet",
+              "meaning": "chưa (dùng trong câu phủ định, ví dụ: 'I haven't finished yet.')"
+            }
+          ]
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": [
+          {
+            "noteEN": "As a conjunction, 'yet' is similar to 'but' but can sound slightly more formal or emphatic, introducing a surprising contrast.",
+            "noteVI": "Với vai trò là một liên từ, 'yet' tương tự như 'but' nhưng có thể nghe trang trọng hoặc nhấn mạnh hơn một chút, giới thiệu một sự tương phản đáng ngạc nhiên."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "so",
+            "meaning": "vì vậy (chỉ kết quả)"
+          },
+          {
+            "form": "therefore",
+            "meaning": "do đó (chỉ kết quả)"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The work was difficult and tiring, yet she felt a great sense of accomplishment."
+      }
+    }
+  ]
+}

@@ -1,0 +1,879 @@
+{
+  "batchInfo": {
+    "filename": "batch-04-of-04.json",
+    "batchNumber": 4,
+    "totalBatches": 4,
+    "itemCount": 13,
+    "createdFromMaster": "master-vocabulary.json"
+  },
+  "items": [
+    {
+      "id": "1761884544140",
+      "targetLexeme": "a tipping point",
+      "sourceContext": "Was there a threshold level a tipping point – that needed to be reached to affect economic performance?Ogilvie...",
+      "phase1Inference": {
+        "contextualGuessVI": "'threshold level' là 'mức ngưỡng'. Cụm từ 'a tipping point' đi ngay sau đó và được giải thích bằng 'that needed to be reached to affect economic performance' (cần phải đạt tới để ảnh hưởng đến hiệu suất kinh tế). Do đó, nó có nghĩa là một điểm mà tại đó một sự thay đổi nhỏ sẽ gây ra một kết quả lớn, không thể đảo ngược. Đoán nghĩa: điểm bùng phát, bước ngoặt."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ə ˈtɪpɪŋ pɔɪnt/",
+        "sentiment": "neutral",
+        "definitionEN": "The point at which a series of small changes or incidents becomes significant enough to cause a larger, more important change.",
+        "translationVI": "Điểm bùng phát, bước ngoặt.",
+        "relatedCollocates": [
+          {
+            "form": "turning point",
+            "meaning": "bước ngoặt"
+          },
+          {
+            "form": "critical point",
+            "meaning": "điểm tới hạn"
+          },
+          {
+            "form": "watershed moment",
+            "meaning": "thời khắc quyết định"
+          },
+          {
+            "form": "point of no return",
+            "meaning": "điểm không thể quay lại"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "tipping point",
+              "meaning": "điểm bùng phát"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Implies a critical shift, often with unstoppable momentum once crossed.",
+            "connotationVI": "Hàm ý một sự thay đổi quan trọng, thường với đà không thể ngăn cản một khi đã vượt qua."
+          }
+        ],
+        "usageNotes": [
+          {
+            "noteEN": "Often used in discussions about climate change, social trends, or business dynamics.",
+            "noteVI": "Thường được sử dụng trong các cuộc thảo luận về biến đổi khí hậu, xu hướng xã hội hoặc động lực kinh doanh."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "status quo",
+            "meaning": "hiện trạng"
+          },
+          {
+            "form": "equilibrium",
+            "meaning": "trạng thái cân bằng"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The widespread adoption of smartphones was a tipping point for the mobile app industry."
+      }
+    },
+    {
+      "id": "1761884549674",
+      "targetLexeme": "performance",
+      "sourceContext": "Was there a threshold level a tipping point – that needed to be reached to affect economic performance?Ogilvie...",
+      "phase1Inference": {
+        "contextualGuessVI": "Trong cụm 'economic performance', 'economic' nghĩa là kinh tế. 'Performance' ở đây chỉ cách một nền kinh tế hoạt động tốt hay xấu. Đoán nghĩa: hiệu suất, thành quả, sự thể hiện."
+      },
+      "phase2Annotation": {
+        "phonetic": "/pərˈfɔːrməns/",
+        "sentiment": "neutral",
+        "definitionEN": "The action or process of carrying out or accomplishing an action, task, or function; how well a person, machine, etc. does a piece of work or an activity.",
+        "translationVI": "Hiệu suất, thành quả, sự thể hiện.",
+        "relatedCollocates": [
+          {
+            "form": "efficiency",
+            "meaning": "hiệu quả"
+          },
+          {
+            "form": "productivity",
+            "meaning": "năng suất"
+          },
+          {
+            "form": "achievement",
+            "meaning": "thành tựu"
+          },
+          {
+            "form": "results",
+            "meaning": "kết quả"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "performance",
+              "meaning": "sự thể hiện, hiệu suất"
+            },
+            {
+              "form": "performer",
+              "meaning": "người biểu diễn, người thực hiện"
+            }
+          ],
+          "verb": [
+            {
+              "form": "perform",
+              "meaning": "thực hiện, trình diễn"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Often associated with measurement and evaluation.",
+            "connotationVI": "Thường liên quan đến việc đo lường và đánh giá."
+          }
+        ],
+        "usageNotes": [
+          {
+            "noteEN": "Can be modified as 'good/poor performance', 'strong/weak performance', 'academic/economic/financial performance'.",
+            "noteVI": "Có thể được bổ nghĩa như 'hiệu suất tốt/kém', 'thể hiện mạnh mẽ/yếu kém', 'thành tích học tập/hiệu quả kinh tế/kết quả tài chính'."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "failure",
+            "meaning": "thất bại"
+          },
+          {
+            "form": "inefficiency",
+            "meaning": "sự kém hiệu quả"
+          },
+          {
+            "form": "stagnation",
+            "meaning": "sự trì trệ"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The company's financial performance has exceeded all expectations this year."
+      }
+    },
+    {
+      "id": "1761884562207",
+      "targetLexeme": "is far from straightforward",
+      "sourceContext": "One thing is already clear, she says: the relationship between education and economic growth is far from straightforward.",
+      "phase1Inference": {
+        "contextualGuessVI": "'straightforward' có nghĩa là đơn giản, dễ hiểu. 'far from' có nghĩa là 'không hề', 'còn lâu mới'. Vậy cả cụm 'is far from straightforward' có nghĩa là mối quan hệ này không hề đơn giản, mà rất phức tạp."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ɪz fɑːr frəm ˌstreɪtˈfɔːrwərd/",
+        "sentiment": "neutral",
+        "definitionEN": "Not simple and therefore difficult to understand or do.",
+        "translationVI": "Không hề đơn giản, rất phức tạp.",
+        "relatedCollocates": [
+          {
+            "form": "complicated",
+            "meaning": "phức tạp"
+          },
+          {
+            "form": "complex",
+            "meaning": "phức tạp"
+          },
+          {
+            "form": "anything but simple",
+            "meaning": "không hề đơn giản"
+          },
+          {
+            "form": "tricky",
+            "meaning": "khó, lắt léo"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [
+            {
+              "form": "straightforward",
+              "meaning": "đơn giản, dễ hiểu"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Suggests hidden complexities or difficulties that are not immediately apparent.",
+            "connotationVI": "Gợi ý về những sự phức tạp hoặc khó khăn ẩn giấu không thể thấy ngay được."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "straightforward",
+            "meaning": "đơn giản, dễ hiểu"
+          },
+          {
+            "form": "simple",
+            "meaning": "đơn giản"
+          },
+          {
+            "form": "clear-cut",
+            "meaning": "rõ ràng"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "PARAPHRASE",
+        "content": "The solution to this problem is far from straightforward. (Paraphrased: The solution to this problem is very complex.)"
+      }
+    },
+    {
+      "id": "1761884570869",
+      "targetLexeme": "German-speaking central Europe",
+      "sourceContext": "‘German-speaking central Europe is an excellent laboratory for testing theories of economic growth,' she explains.",
+      "phase1Inference": {
+        "contextualGuessVI": "Đây là một cụm danh từ chỉ địa danh. 'German-speaking' là nói tiếng Đức, 'central Europe' là Trung Âu. Vậy cụm từ này chỉ khu vực địa lý ở Trung Âu nơi người ta nói tiếng Đức."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌdʒɜːrmən ˈspiːkɪŋ ˌsɛntrəl ˈjʊərəp/",
+        "sentiment": "neutral",
+        "definitionEN": "The region in the center of Europe where German is spoken, including countries such as Germany, Austria, and parts of Switzerland.",
+        "translationVI": "Khu vực Trung Âu nói tiếng Đức.",
+        "relatedCollocates": [
+          {
+            "form": "DACH countries (Deutschland, Austria, Confoederatio Helvetica)",
+            "meaning": "Các nước Đức, Áo, Thụy Sĩ"
+          },
+          {
+            "form": "Germanic Europe",
+            "meaning": "Châu Âu German"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": null,
+        "usageNotes": [
+          {
+            "noteEN": "A geographical and cultural term rather than a strict political one.",
+            "noteVI": "Một thuật ngữ về địa lý và văn hóa hơn là một thuật ngữ chính trị chặt chẽ."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "Francophone Europe",
+            "meaning": "Châu Âu nói tiếng Pháp"
+          },
+          {
+            "form": "Anglophone world",
+            "meaning": "Thế giới nói tiếng Anh"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Vienna is a major cultural capital in German-speaking central Europe."
+      }
+    },
+    {
+      "id": "1761884576218",
+      "targetLexeme": "an excellent laboratory",
+      "sourceContext": "‘German-speaking central Europe is an excellent laboratory for testing theories of economic growth,' she explains.",
+      "phase1Inference": {
+        "contextualGuessVI": "'laboratory' là phòng thí nghiệm, 'excellent' là xuất sắc. Cả một khu vực địa lý không thể là một phòng thí nghiệm theo nghĩa đen. Đây là cách nói ẩn dụ, ý chỉ khu vực này là một môi trường lý tưởng ('excellent') để nghiên cứu, thử nghiệm ('laboratory for testing') các lý thuyết."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ən ˈɛksələnt ˈlæbrəˌtɔːri/",
+        "sentiment": "positive",
+        "definitionEN": "(Metaphorically) A place or situation that provides an ideal opportunity for experiment, observation, or practice.",
+        "translationVI": "Một môi trường thử nghiệm/nghiên cứu tuyệt vời (nghĩa bóng).",
+        "relatedCollocates": [
+          {
+            "form": "a perfect test case",
+            "meaning": "một trường hợp thử nghiệm hoàn hảo"
+          },
+          {
+            "form": "an ideal setting",
+            "meaning": "một bối cảnh lý tưởng"
+          },
+          {
+            "form": "a testing ground",
+            "meaning": "một nơi thử nghiệm"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Figurative language suggesting a controlled or observable environment for study.",
+            "connotationVI": "Ngôn ngữ ẩn dụ, gợi ý một môi trường có thể kiểm soát hoặc quan sát được để nghiên cứu."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "a chaotic environment",
+            "meaning": "một môi trường hỗn loạn"
+          },
+          {
+            "form": "an unsuitable setting",
+            "meaning": "một bối cảnh không phù hợp"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The isolated island ecosystem serves as an excellent laboratory for biologists studying evolution."
+      }
+    },
+    {
+      "id": "1761884589595",
+      "targetLexeme": "theories of",
+      "sourceContext": "‘German-speaking central Europe is an excellent laboratory for testing theories of economic growth,' she explains.",
+      "phase1Inference": {
+        "contextualGuessVI": "'theories' là các lý thuyết. Giới từ 'of' ở đây chỉ sự sở hữu hoặc chủ đề. 'theories of economic growth' nghĩa là 'các lý thuyết về tăng trưởng kinh tế'. Vậy 'theories of' là cấu trúc để chỉ các lý thuyết về một lĩnh vực nào đó."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈθɪəriz əv/",
+        "sentiment": "neutral",
+        "definitionEN": "A structure used to introduce the subject matter of a set of ideas or principles intended to explain something.",
+        "translationVI": "Các lý thuyết/học thuyết về.",
+        "relatedCollocates": [
+          {
+            "form": "models of",
+            "meaning": "các mô hình về"
+          },
+          {
+            "form": "principles of",
+            "meaning": "các nguyên tắc của"
+          },
+          {
+            "form": "concepts of",
+            "meaning": "các khái niệm về"
+          },
+          {
+            "form": "hypotheses about",
+            "meaning": "các giả thuyết về"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "theory",
+              "meaning": "lý thuyết"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Academic, scientific, suggesting a systematic explanation.",
+            "connotationVI": "Học thuật, khoa học, gợi ý một sự giải thích có hệ thống."
+          }
+        ],
+        "usageNotes": [
+          {
+            "noteEN": "Followed by a noun or noun phrase specifying the field of study (e.g., theories of relativity, theories of evolution).",
+            "noteVI": "Theo sau bởi một danh từ hoặc cụm danh từ chỉ rõ lĩnh vực nghiên cứu (ví dụ: các lý thuyết về thuyết tương đối, các lý thuyết về sự tiến hóa)."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "practical applications of",
+            "meaning": "các ứng dụng thực tiễn của"
+          },
+          {
+            "form": "empirical evidence for",
+            "meaning": "bằng chứng thực nghiệm cho"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The professor is a leading expert on theories of international relations."
+      }
+    },
+    {
+      "id": "1761884602386",
+      "targetLexeme": "remained poor",
+      "sourceContext": "Between 1600 and 1900, literacy rates and book ownership were high and yet the region remained poor.",
+      "phase1Inference": {
+        "contextualGuessVI": "Câu văn có cấu trúc đối lập: tỷ lệ biết chữ và sở hữu sách cao ('high') 'and yet' (tuy nhiên) khu vực này 'remained poor'. 'Remain' là duy trì, 'poor' là nghèo. Vậy 'remained poor' có nghĩa là vẫn nghèo, không phát triển thịnh vượng được mặc dù có những yếu tố tích cực."
+      },
+      "phase2Annotation": {
+        "phonetic": "/rɪˈmeɪnd pʊər/",
+        "sentiment": "negative",
+        "definitionEN": "To continue to have very little money; to not become prosperous.",
+        "translationVI": "Vẫn nghèo khó, không khá lên được.",
+        "relatedCollocates": [
+          {
+            "form": "stayed impoverished",
+            "meaning": "vẫn bần cùng"
+          },
+          {
+            "form": "continued to struggle financially",
+            "meaning": "tiếp tục chật vật về tài chính"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Suggests a lack of progress or development, often despite other positive factors.",
+            "connotationVI": "Gợi ý sự thiếu tiến bộ hoặc phát triển, thường là bất chấp các yếu tố tích cực khác."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "became wealthy",
+            "meaning": "trở nên giàu có"
+          },
+          {
+            "form": "prospered",
+            "meaning": "trở nên thịnh vượng"
+          },
+          {
+            "form": "grew rich",
+            "meaning": "giàu lên"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Despite the boom in tourism, many local communities remained poor."
+      }
+    },
+    {
+      "id": "1761884612720",
+      "targetLexeme": "merchant association",
+      "sourceContext": "It was also the case that local guilds and merchant associations were extremely powerful and legislated against anything...",
+      "phase1Inference": {
+        "contextualGuessVI": "'merchant' là thương gia, 'association' là hiệp hội. 'Merchant association' là một tổ chức của các thương gia. Nó được liệt kê cùng với 'guilds' (phường hội), cho thấy đây là một loại tổ chức tập thể có quyền lực."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈmɜːrtʃənt əˌsoʊsiˈeɪʃn/",
+        "sentiment": "neutral",
+        "definitionEN": "An organization of businesspeople or traders, formed to protect and promote their common interests.",
+        "translationVI": "Hiệp hội thương gia, thương hội.",
+        "relatedCollocates": [
+          {
+            "form": "trade organization",
+            "meaning": "tổ chức thương mại"
+          },
+          {
+            "form": "guild",
+            "meaning": "phường hội"
+          },
+          {
+            "form": "chamber of commerce",
+            "meaning": "phòng thương mại"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "merchant",
+              "meaning": "nhà buôn, thương gia"
+            },
+            {
+              "form": "association",
+              "meaning": "hiệp hội"
+            }
+          ],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": null,
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "individual entrepreneur",
+            "meaning": "doanh nhân cá thể"
+          },
+          {
+            "form": "consumer group",
+            "meaning": "nhóm người tiêu dùng"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The city's merchant association lobbied for lower business taxes."
+      }
+    },
+    {
+      "id": "1761884622547",
+      "targetLexeme": "legislated against",
+      "sourceContext": "It was also the case that local guilds and merchant associations were extremely powerful and legislated against anything...",
+      "phase1Inference": {
+        "contextualGuessVI": "'legislate' liên quan đến luật pháp (legal). 'against' là chống lại. Cụm từ này có nghĩa là các hiệp hội quyền lực này đã tạo ra luật để chống lại một điều gì đó, tức là cấm đoán hoặc hạn chế bằng luật pháp."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˈlɛdʒɪˌsleɪtɪd əˈɡɛnst/",
+        "sentiment": "negative",
+        "definitionEN": "To make or enact laws that forbid or restrict something.",
+        "translationVI": "Ban hành luật chống lại, lập pháp để ngăn cấm.",
+        "relatedCollocates": [
+          {
+            "form": "prohibited",
+            "meaning": "ngăn cấm"
+          },
+          {
+            "form": "banned",
+            "meaning": "cấm"
+          },
+          {
+            "form": "outlawed",
+            "meaning": "cho là bất hợp pháp"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "legislation",
+              "meaning": "pháp luật, sự lập pháp"
+            },
+            {
+              "form": "legislator",
+              "meaning": "nhà lập pháp"
+            }
+          ],
+          "verb": [
+            {
+              "form": "legislate",
+              "meaning": "làm luật, lập pháp"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Legal and political, implying the use of formal power to prevent something.",
+            "connotationVI": "Mang tính pháp lý và chính trị, ngụ ý việc sử dụng quyền lực chính thức để ngăn chặn điều gì đó."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "legislated for",
+            "meaning": "lập pháp cho, ủng hộ bằng luật"
+          },
+          {
+            "form": "legalized",
+            "meaning": "hợp pháp hóa"
+          },
+          {
+            "form": "promoted",
+            "meaning": "thúc đẩy"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The new government quickly legislated against discriminatory hiring practices."
+      }
+    },
+    {
+      "id": "1761884631417",
+      "targetLexeme": "undermine",
+      "sourceContext": "It was also the case that local guilds and merchant associations were extremely powerful and legislated against anything that might undermine their monopolies.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các hiệp hội ban hành luật chống lại bất cứ thứ gì có thể 'undermine' sự độc quyền ('monopolies') của họ. Điều này có nghĩa là họ muốn bảo vệ sự độc quyền. Vậy 'undermine' phải có nghĩa là làm suy yếu, phá hoại, làm lung lay."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌʌndərˈmaɪn/",
+        "sentiment": "negative",
+        "definitionEN": "To lessen the effectiveness, power, or ability of, especially gradually or insidiously.",
+        "translationVI": "Làm suy yếu, phá hoại ngầm, làm xói mòn.",
+        "relatedCollocates": [
+          {
+            "form": "weaken",
+            "meaning": "làm suy yếu"
+          },
+          {
+            "form": "sabotage",
+            "meaning": "phá hoại"
+          },
+          {
+            "form": "erode",
+            "meaning": "xói mòn"
+          },
+          {
+            "form": "threaten",
+            "meaning": "đe dọa"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [
+            {
+              "form": "undermine",
+              "meaning": "làm suy yếu"
+            }
+          ],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Suggests a subtle, gradual, or insidious process of weakening from within or from below.",
+            "connotationVI": "Gợi ý một quá trình làm suy yếu một cách tinh vi, từ từ hoặc ngấm ngầm từ bên trong hoặc từ bên dưới."
+          }
+        ],
+        "usageNotes": [
+          {
+            "noteEN": "Often used with abstract nouns like 'authority', 'confidence', 'position', 'efforts'.",
+            "noteVI": "Thường được sử dụng với các danh từ trừu tượng như 'quyền lực', 'sự tự tin', 'vị thế', 'nỗ lực'."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "strengthen",
+            "meaning": "củng cố, làm mạnh lên"
+          },
+          {
+            "form": "support",
+            "meaning": "hỗ trợ"
+          },
+          {
+            "form": "bolster",
+            "meaning": "củng cố"
+          },
+          {
+            "form": "reinforce",
+            "meaning": "tăng cường"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Spreading false rumors is a common tactic to undermine a political opponent."
+      }
+    },
+    {
+      "id": "1761884633357",
+      "targetLexeme": "monopolies",
+      "sourceContext": "It was also the case that local guilds and merchant associations were extremely powerful and legislated against anything that might undermine their monopolies.",
+      "phase1Inference": {
+        "contextualGuessVI": "Các hiệp hội ban hành luật để bảo vệ 'monopolies' của họ khỏi bị suy yếu. Điều này cho thấy 'monopolies' là một thứ mang lại quyền lực và lợi ích cho họ, đó chính là vị thế kiểm soát duy nhất trên thị trường. Đoán nghĩa: sự độc quyền."
+      },
+      "phase2Annotation": {
+        "phonetic": "/məˈnɑːpəliz/",
+        "sentiment": "negative",
+        "definitionEN": "The exclusive possession or control of the supply of or trade in a commodity or service.",
+        "translationVI": "Sự độc quyền, các thế lực độc quyền.",
+        "relatedCollocates": [
+          {
+            "form": "cartel",
+            "meaning": "liên minh độc quyền"
+          },
+          {
+            "form": "oligopoly",
+            "meaning": "độc quyền nhóm"
+          },
+          {
+            "form": "exclusive control",
+            "meaning": "kiểm soát độc quyền"
+          }
+        ],
+        "wordForms": {
+          "noun": [
+            {
+              "form": "monopoly",
+              "meaning": "sự độc quyền"
+            },
+            {
+              "form": "monopolies",
+              "meaning": "các thế lực độc quyền"
+            }
+          ],
+          "verb": [
+            {
+              "form": "monopolize",
+              "meaning": "độc quyền hóa, độc chiếm"
+            }
+          ],
+          "adjective": [
+            {
+              "form": "monopolistic",
+              "meaning": "có tính độc quyền"
+            }
+          ],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "Often implies a lack of competition, which can lead to higher prices and lower quality.",
+            "connotationVI": "Thường ngụ ý sự thiếu cạnh tranh, có thể dẫn đến giá cao hơn và chất lượng thấp hơn."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "competition",
+            "meaning": "sự cạnh tranh"
+          },
+          {
+            "form": "free market",
+            "meaning": "thị trường tự do"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "Antitrust laws are designed to prevent the formation of monopolies."
+      }
+    },
+    {
+      "id": "1761884666464",
+      "targetLexeme": "held back by ... barriers",
+      "sourceContext": "Economic growth was held back by institutional barriers like guilds that blocked labour migration and resisted changes.",
+      "phase1Inference": {
+        "contextualGuessVI": "'Held back' có nghĩa là bị kìm hãm, cản trở. 'Barriers' là các rào cản. Cả cụm có nghĩa là sự tăng trưởng kinh tế đã bị kìm hãm bởi các rào cản thể chế."
+      },
+      "phase2Annotation": {
+        "phonetic": "/hɛld bæk baɪ ˈbæriərz/",
+        "sentiment": "negative",
+        "definitionEN": "To be prevented from making progress by obstacles or difficulties.",
+        "translationVI": "Bị kìm hãm/cản trở bởi các rào cản.",
+        "relatedCollocates": [
+          {
+            "form": "hindered by obstacles",
+            "meaning": "bị cản trở bởi chướng ngại vật"
+          },
+          {
+            "form": "impeded by restrictions",
+            "meaning": "bị cản trở bởi các hạn chế"
+          },
+          {
+            "form": "restrained by constraints",
+            "meaning": "bị kìm hãm bởi các ràng buộc"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "neutral",
+        "connotation": [
+          {
+            "connotationEN": "Suggests a potential for progress that is being suppressed by external factors.",
+            "connotationVI": "Gợi ý về một tiềm năng phát triển đang bị kìm nén bởi các yếu tố bên ngoài."
+          }
+        ],
+        "usageNotes": [
+          {
+            "noteEN": "This is a passive construction. The active form is 'Barriers held back...'.",
+            "noteVI": "Đây là một cấu trúc bị động. Dạng chủ động là 'Các rào cản đã kìm hãm...'."
+          }
+        ],
+        "contrastingCollocates": [
+          {
+            "form": "advanced by opportunities",
+            "meaning": "được thúc đẩy bởi các cơ hội"
+          },
+          {
+            "form": "facilitated by support",
+            "meaning": "được tạo điều kiện bởi sự hỗ trợ"
+          },
+          {
+            "form": "boosted by incentives",
+            "meaning": "được thúc đẩy bởi các ưu đãi"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "The project was held back by bureaucratic barriers and a lack of funding."
+      }
+    },
+    {
+      "id": "1761884698792",
+      "targetLexeme": "economic institution",
+      "sourceContext": "If economic institutions are poorly set up, for instance, education can't lead to growth.'",
+      "phase1Inference": {
+        "contextualGuessVI": "'economic' là kinh tế. 'institution' là thể chế, tổ chức. 'economic institutions' là những cấu trúc, quy tắc, và tổ chức định hình hoạt động kinh tế. Nếu chúng 'poorly set up' (được thiết lập kém), thì giáo dục cũng không thể dẫn đến tăng trưởng. Đoán nghĩa: thể chế kinh tế."
+      },
+      "phase2Annotation": {
+        "phonetic": "/ˌiːkəˈnɑːmɪk ˌɪnstɪˈtuːʃn/",
+        "sentiment": "neutral",
+        "definitionEN": "The formal and informal rules that organize economic activity in a society, including laws, customs, and organizations like banks and corporations.",
+        "translationVI": "Thể chế kinh tế, thiết chế kinh tế.",
+        "relatedCollocates": [
+          {
+            "form": "financial institution",
+            "meaning": "tổ chức tài chính"
+          },
+          {
+            "form": "political institution",
+            "meaning": "thể chế chính trị"
+          },
+          {
+            "form": "regulatory body",
+            "meaning": "cơ quan quản lý"
+          },
+          {
+            "form": "legal framework",
+            "meaning": "khuôn khổ pháp lý"
+          }
+        ],
+        "wordForms": {
+          "noun": [],
+          "verb": [],
+          "adjective": [],
+          "adverb": []
+        },
+        "register": "formal",
+        "connotation": [
+          {
+            "connotationEN": "A foundational concept in economics, referring to the 'rules of the game' in an economy.",
+            "connotationVI": "Một khái niệm nền tảng trong kinh tế học, đề cập đến 'luật chơi' trong một nền kinh tế."
+          }
+        ],
+        "usageNotes": null,
+        "contrastingCollocates": [
+          {
+            "form": "market forces",
+            "meaning": "các lực lượng thị trường"
+          },
+          {
+            "form": "individual behavior",
+            "meaning": "hành vi cá nhân"
+          }
+        ]
+      },
+      "phase3Production": {
+        "taskType": "SENTENCE_CREATION",
+        "content": "A stable and predictable legal system is a crucial economic institution for attracting foreign investment."
+      }
+    }
+  ]
+}
